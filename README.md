@@ -3,7 +3,7 @@
 [中文 readme](https://github.com/nokau/custom.zht.Barotrauma#中文)
 
 # ENGLISH
-This is intended as an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
+This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
 Their lines are matched(v0.17.12.0) as close as possible with the English text files for easier side-by-side comparison, until another update happen.
 
 Do use it at your own risk, as I coudn;t guarantee any of the translation fits everyone's preference whatsoever.
@@ -19,7 +19,8 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 ### Notes:
 - I left most of the names within missions and events un-translated, since all the generated names are not transleted either.
 - Different translated names for the items and devices.
-
+### Recommended Tools:
+- Notepad++
 ### The files:
 ###### NpcConversations_TraditionalChinese.xml
 - This file contains translated lines of NPC conversations.
@@ -48,7 +49,8 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 ### 備註
 - 配合大部分隨機生成的NPC名字都尚為英文，我保留了任務與事件中提到的人物、地區等的英文名稱。
 - 部分物件名稱與官方文本有異。
-
+### 推薦工具:
+- Notepad++
 ### 檔案:
 ###### NpcConversations_TraditionalChinese.xml
 - 這個檔案包含了編輯過的NPC對話。
