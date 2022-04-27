@@ -1,6 +1,6 @@
-[English readme](https://github.com/nokau/custom.zht.Barotrauma/new/main?readme=1#english)
+[English readme](https://github.com/nokau/custom.zht.Barotrauma#english)
 
-[中文 readme](https://github.com/nokau/custom.zht.Barotrauma/new/main?readme=1#%E4%B8%AD%E6%96%87)
+[中文 readme](https://github.com/nokau/custom.zht.Barotrauma#中文)
 
 # ENGLISH
 This is intended as an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
