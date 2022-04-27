@@ -61,7 +61,7 @@
 <loadingscreentip>那項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
 <loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層之中的隧道與裂縫 － 介於表面冰層與其內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
 <loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體 － 丘腦。</loadingscreentip>
-<loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開命令功能表來選擇可用的命令。</loadingscreentip>
+<loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開指令介面來選擇可用的命令。</loadingscreentip>
 <loadingscreentip>在哨站惹事會降低你的聲望，聲望較低會導致當地居民向你收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
 <loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如木星分離主義分子的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
 <loadingscreentip>小心獨目哨兵，別失去理智。</loadingscreentip>
@@ -4344,7 +4344,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Submarine -->
 <doctor.submarine>醫療幫助</doctor.submarine>
 <doctor.submarineobjective>對需要的船員給予醫療幫助</doctor.submarineobjective>
-<doctor.submarinetext>以 [{0}] 檢查患者並給予他們正確治療，別忘了在醫療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
+<doctor.submarinetext>以 [{0}] 檢查患者並給予他們正確治療，別忘了在醫療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備你的物品欄中的生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
 
 <!-- Captain tutorial -->
 <!-- Radio -->
