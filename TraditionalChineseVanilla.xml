@@ -496,12 +496,12 @@
 <quickuseaction.takefromcharacter>拿</quickuseaction.takefromcharacter>
 <quickuseaction.puttocontainer>放入容器</quickuseaction.puttocontainer>
 <quickuseaction.puttocharacter>給予選定人物</quickuseaction.puttocharacter>
-<quickuseaction.usetreatment>作為治療使用</quickuseaction.usetreatment>
+<quickuseaction.usetreatment>進行投藥</quickuseaction.usetreatment>
 <quickuseaction.holdtounequip>長按以解除裝備</quickuseaction.holdtounequip>
 <quickuseaction.puttoequippeditem>裝備 [equippeditem]</quickuseaction.puttoequippeditem>
-<hudbutton.healthinterface>健康狀態選單 ([key])</hudbutton.healthinterface>
+<hudbutton.healthinterface>醫療界面 ([key])</hudbutton.healthinterface>
 <hudbutton.crewlist>船員列表 ([key])</hudbutton.crewlist>
-<hudbutton.commandinterface>命令選單 ([key])</hudbutton.commandinterface>
+<hudbutton.commandinterface>指令介面 ([key])</hudbutton.commandinterface>
 <hudbutton.tabmenu>資訊選單 ([key])</hudbutton.tabmenu>
 <divingsuitwarning>警告: 艙外壓力超過潛水服的承受極限。</divingsuitwarning>
 <steeringdepthwarninglow>接近壓碎深度 ([crushdepth] m)</steeringdepthwarninglow>
@@ -2607,7 +2607,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entityname.blackpaint>黑色油漆</entityname.blackpaint>
 <entityname.whitepaint>白色油漆</entityname.whitepaint>
 <entityname.opdeco_trashcan>垃圾桶</entityname.opdeco_trashcan>
-<entityname.opdeco_cabinetsdorm>Cabinets</entityname.opdeco_cabinetsdorm>
+<entityname.opdeco_cabinetsdorm>收納櫃</entityname.opdeco_cabinetsdorm>
 <entityname.opdeco_screen>Monitor Screen</entityname.opdeco_screen>
 <entityname.minemineral>Mineral Deposit</entityname.minemineral>
 <entityname.icedebris>Ice Debris</entityname.icedebris>
@@ -4123,7 +4123,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 
 <!-- Job descriptions -->
 <tutorial.mechanictitle>技師 － 膠水、膠帶、和你緊繃的神經是船員生存的最後保障。</tutorial.mechanictitle>
-<tutorial.mechanicdescription>為了使計畫持去進行，要維持設備正常運行比人類想離開這顆星球還難。你沒有休息時間，因為設備隨時會、終究會故障，就算沒有，你也得不停保養、保養、保養。最重要的是要抵達下一個目的地，而你功不可沒。別指望你的"好同事"們會感激你，他們只會講講風涼話 － 但是沒有關係，這艘船也是你的生活空間，如果他們太超過...希望你不會突然搞砸。</tutorial.mechanicdescription>
+<tutorial.mechanicdescription>為了使計畫持去進行，要維持設備正常運行比人類想離開這顆星球還難。你沒有休息時間，因為設備隨時會、終究會故障，就算沒有，你也得不停保養、保養、保養。最重要的是要抵達下一個目的地，而你功不可沒。別指望你的「好同事」們會感激你，他們只會講講風涼話 － 但是沒有關係，這艘船也是你的生活空間，如果他們太超過...希望你不會突然搞砸。</tutorial.mechanicdescription>
 <tutorial.mechanicresponsibilities>職責\n-設備維護\n-修復漏洞</tutorial.mechanicresponsibilities>
 <tutorial.engineertitle>工程師 － 操縱著自然能量的人。</tutorial.engineertitle>
 <tutorial.engineerdescription>沒錯，電與氧氣。少了它們船不會動、肺沒有用。在命令與裝扮之外，你才是那個真正操縱潛艇的人，懂嗎？相信物理定律，保持思緒清晰。還有，看好那個到處敲敲打打的技師、無論如何別聽那個醫師的胡言亂語，他軟弱得根本是個娘娘腔，而艦長和安全官根本傷不了你，他們的智慧跟不上你，想也知道。</tutorial.engineerdescription>
@@ -4135,7 +4135,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <tutorial.medicaldoctordescription>砲塔和引擎不會讓潛艇保持運作 － 人才會。你的工作是讓砲手活著來操作砲塔，讓艦長活著好駕駛船艦。而且記好了，這份工作不只是物理性質的，我們活在水下的狹小的空間裡，燈火熄滅之後，深海中的黑暗會侵蝕進入夢鄉船員們的靈魂。幫助他們保持活力與理智，或者像狗一樣拋棄他們，由你決定。</tutorial.medicaldoctordescription>
 <tutorial.medicaldoctorresponsibilities>職責\n-急救\n-有毒藥物與解毒劑</tutorial.medicaldoctorresponsibilities>
 <tutorial.captaintitle>艦長 － 有遠見的水手、航海家、天才，大概。</tutorial.captaintitle>
-<tutorial.captaindescription>Ahab艦長曾說，"地獄的觀念起源於一個沒被消化的蘋果餡餅。"你了解其中的意義嗎？不。船員們覺得你是一位深不可測的天才嗎？當然，至少在這個職位上得看起來像是知道該做什麼一樣。你就是地圖和羅盤，最有遠見的那個人，指引方向、審慎抉擇。而且記住，你距離成為哨站領導僅有幾步之遙，如果需要為此幹掉幾個人 － 就這樣吧！</tutorial.captaindescription>
+<tutorial.captaindescription>Ahab艦長曾說，「地獄的觀念起源於一個沒被消化的蘋果餡餅。」你了解其中的意義嗎？不。船員們覺得你是一位深不可測的天才嗎？當然，至少在這個職位上得看起來像是知道該做什麼一樣。你就是地圖和羅盤，最有遠見的那個人，指引方向、審慎抉擇。而且記住，你距離成為哨站領導僅有幾步之遙，如果需要為此幹掉幾個人 － 就這樣吧！</tutorial.captaindescription>
 <tutorial.captainresponsibilities>職責\n-操縱船艦\n-下達指令</tutorial.captainresponsibilities>
 
 <!-- Tutorial extras -->
@@ -4169,25 +4169,25 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <mechanic.radio.fire>壞消息是前面失火了，好消息是附近的廢料應該足以製作一罐滅火器。</mechanic.radio.fire>
 <mechanic.radio.diving>你很接近了，小心點 － 下一處漏洞大到使艙內的壓力劇變，穿上一件潛水服否則水壓會壓碎你。</mechanic.radio.diving>
 <mechanic.radio.submarine>歡迎登艦，你要做的第一件事是檢查引擎和壓載艙裡的抽水機，去看看它們需不需要進行維修。</mechanic.radio.submarine>
-<mechanic.radio.complete>做得好，現在我們等其他人上船吧，只有我們兩個是沒辦法操作這艘船的。</mechanic.radio.complete>
+<mechanic.radio.complete>做得好，現在我們等其他人上船吧，只有我們兩個是沒辦法操作這艘潛艇的。</mechanic.radio.complete>
 
 <!-- Room 1 -->
 <mechanic.opendoor>互動</mechanic.opendoor>
 <mechanic.opendoorobjective>打開門</mechanic.opendoorobjective>
-<mechanic.opendoortext>以{0}、{1}、{2}、{3}移動，使用{4}對物品與設備進行互動。</mechanic.opendoortext>
+<mechanic.opendoortext>以 {0}、{1}、{2}、{3} 移動，使用 {4} 對物品與設備進行互動。</mechanic.opendoortext>
 
 <!-- Room 2 -->
 <mechanic.equipment>物品欄</mechanic.equipment>
 <mechanic.equipmentobjective>從收納櫃裡拿出你的裝備</mechanic.equipmentobjective>
-<mechanic.equipmenttext>與收納櫃進行互動 ({0})，拖拉或以滑鼠雙擊櫃子裡的物品將它們移動至你的物品欄中。\n\n雙擊物品欄中的物品、或使用欄位快捷鍵來裝備它們。\n\n按下{1}關閉它們的視窗。</mechanic.equipmenttext>
+<mechanic.equipmenttext>與收納櫃進行互動({0})，拖拉或以滑鼠雙擊櫃子裡的物品將它們移動至你的物品欄中。\n\n雙擊物品欄中的物品、或使用欄位快捷鍵來裝備它們。\n\n按下 {1} 關閉收納櫃的視窗。</mechanic.equipmenttext>
 
 <!-- Room 3 -->
 <mechanic.welding>漏洞</mechanic.welding>
-<mechanic.weldingobjective>修補漏洞</mechanic.weldingobjective>
-<mechanic.weldingtext>從你的物品欄中裝備你的焊接工具和潛水面罩。\n\n操作焊接工具來修補牆上的漏洞，潛水面罩能提供氧氣讓你在水下呼吸。\n\n裝備焊接工具時，以{0}瞄準，瞄準同時使用{1}進行焊接。</mechanic.weldingtext>
+<mechanic.weldingobjective>裝備工具並修補漏洞</mechanic.weldingobjective>
+<mechanic.weldingtext>裝備在你物品欄中的焊接工具和潛水面罩。\n\n操作焊接工具來修補牆上的漏洞，潛水面罩能提供氧氣讓你在水下呼吸。\n\n裝備焊接工具時，以 {0} 瞄準，瞄準同時使用 {1} 進行焊接。</mechanic.weldingtext>
 <mechanic.drain>抽水機</mechanic.drain>
 <mechanic.drainobjective>啟動抽水機將水排出</mechanic.drainobjective>
-<mechanic.draintext>與一旁的抽水機互動 ({0}) 然後按下那顆紅色的大按鈕。</mechanic.draintext>
+<mechanic.draintext>與一旁的抽水機互動({0}) 然後按下那顆紅色的大按鈕。</mechanic.draintext>
 
 <!-- Room 4 -->
 <mechanic.deconstruct>加工: 解構儀</mechanic.deconstruct>
@@ -4195,15 +4195,15 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <mechanic.deconstructtext>加工台是一台能將多種原料加工並製成有用物品的設備。\n\n原料能在各處找到、購買、或以解構儀拆解物品獲得。\n\n要製作滅火器，你需要鋁和鈉。這裡已經有現成的鈉，但你需要拆解氧氣罐以取得鋁。</mechanic.deconstructtext>
 <mechanic.fabricate>加工: 加工台</mechanic.fabricate>
 <mechanic.fabricateobjective>製作滅火器</mechanic.fabricateobjective>
-<mechanic.fabricatetext>現在我們可以操作加工台來製作滅火器了，從清單裡找到滅火器並按下‘製作’按鈕進行製作。\n\n完成製作的物品可以在加工台的output欄位被找到，雙擊滅火器以進行裝備。</mechanic.fabricatetext>
+<mechanic.fabricatetext>現在我們可以操作加工台來製作滅火器了，從清單裡找到滅火器並按下「製作」按鈕進行製作。\n\n完成製作的物品可以在加工台的右上方欄位被找到，雙擊滅火器以進行裝備。</mechanic.fabricatetext>
 
 <!-- Room 5 -->
 <mechanic.extinguisher>火</mechanic.extinguisher>
 <mechanic.extinguisherobjective>將火撲滅</mechanic.extinguisherobjective>
-<mechanic.extinguishertext>以相同於焊接工具的操作方式使用滅火器，{0}瞄準、同時按下{1}噴灑。</mechanic.extinguishertext>
+<mechanic.extinguishertext>以相同於焊接工具的操作方式使用滅火器，{0} 瞄準、同時按下 {1} 噴灑。</mechanic.extinguishertext>
 <mechanic.dropextinguisher>物品收納</mechanic.dropextinguisher>
 <mechanic.dropextinguisherobjective>丟下滅火器</mechanic.dropextinguisherobjective>
-<mechanic.dropextinguishertext>有些物品的體積對於物品欄來說太大件了，將滅火器拖拉至它的欄位以外來解除裝備。</mechanic.dropextinguishertext>
+<mechanic.dropextinguishertext>有些物品的體積對於物品欄來說太大件了，將滅火器拖拉至它的欄位外以對它解除裝備。</mechanic.dropextinguishertext>
 
 <!-- Room 6 -->
 <mechanic.diving>潛水服</mechanic.diving>
@@ -4213,19 +4213,19 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 7 -->
 <mechanic.repairpump>機械維修</mechanic.repairpump>
 <mechanic.repairpumpobjective>修復並啟動抽水機</mechanic.repairpumpobjective>
-<mechanic.repairpumptext>設備需要保養，否則它們會無法運作。機械設備需要使用扳手進行維修，裝備扳手並與設備互動 ({0}) 以對其進行維修。\n\n需要維修的裝備會以維修符號標示。</mechanic.repairpumptext>
+<mechanic.repairpumptext>設備需要保養，否則它們會無法運作。機械設備需要以扳手進行維修，裝備扳手並與設備互動({0}) 以對其進行維修。\n\n需要維修的裝備會以維修符號標示。</mechanic.repairpumptext>
 
 <!-- Submarine -->
 <mechanic.repairsubmarine>潛艇保養</mechanic.repairsubmarine>
 <mechanic.repairsubmarineobjective>修復引擎和壓載艙中的抽水機</mechanic.repairsubmarineobjective>
-<mechanic.repairsubmarinetext>找到引擎 (通常位於潛艇的後方艙房) 和壓載艙中的抽水機 (位於潛艇下層；留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
+<mechanic.repairsubmarinetext>找到引擎 (通常位於潛艇的後方艙房) 和壓載艙中的抽水機 (位於潛艇下層，留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
 
 <!-- Engineer tutorial -->
 <!-- Radio -->
 <engineer.radio.wakeup>從床上滾下來！我們需要電力！</engineer.radio.wakeup>
 <engineer.radio.equipment>上一波衝擊中斷了半個哨站的電力，給我帶好所有必要裝備去把電力修好。</engineer.radio.equipment>
 <engineer.radio.reactorstable>狀況穩定了，抽水機因為幾個配電箱的保險絲燒斷了而無法運作 － 去看看你能怎麼處理它，過去之前別忘了把反應爐的自動控制打開。</engineer.radio.reactorstable>
-<engineer.radio.faultywiring>有些電線似乎出了問題，找些電線快速處理一下，不然電力無法恢復。</engineer.radio.faultywiring>
+<engineer.radio.faultywiring>有些線路似乎出了問題，找些電線快速處理一下，不然電力無法恢復。</engineer.radio.faultywiring>
 <engineer.radio.changeofplans>計畫改變，到潛艇上來，我們要離開這裡。</engineer.radio.changeofplans>
 <engineer.radio.submarine>看來配電機房也被搞得破破爛爛的，看看你能否修好它們，之後將反應爐啟動。</engineer.radio.submarine>
 <engineer.radio.complete>做得好，我們或許還有辦法活著逃出這裡。</engineer.radio.complete>
@@ -4233,7 +4233,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <engineer.equipment>容器</engineer.equipment>
 <engineer.equipmentobjective>從收納櫃裡取得裝備</engineer.equipmentobjective>
-<engineer.equipmenttext>物品被收納於大大小小的容器當中，你能與它們互動 ({0}) 來查看它們的內容物，雙擊物品以使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下{1}關閉它們的視窗。</engineer.equipmenttext>
+<engineer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</engineer.equipmenttext>
 
 <!-- Room 3 -->
 <engineer.reactor>反應爐: 燃料</engineer.reactor>
@@ -4246,12 +4246,12 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 4 -->
 <engineer.repairjunctionbox>電器維修</engineer.repairjunctionbox>
 <engineer.repairjunctionboxobjective>修復故障的配電箱</engineer.repairjunctionboxobjective>
-<engineer.repairjunctionboxtext>與機械設備一樣，配電箱也需要被保養，除了自然劣化，它們還會被水和過高的電壓弄壞。\n\n電氣設備需要使用螺絲起子進行維修，裝備它並與設備互動 ({0}) 以開啟維修介面。</engineer.repairjunctionboxtext>
+<engineer.repairjunctionboxtext>與機械設備一樣，配電箱也需要被保養，除了自然劣化，它們還會被水和過高的電壓弄壞。\n\n電氣設備需要以螺絲起子進行維修，裝備它並與設備互動({0}) 以開啟維修介面。</engineer.repairjunctionboxtext>
 
 <!-- Room 5 -->
 <engineer.wirejunctionboxes>配線</engineer.wirejunctionboxes>
-<engineer.wirejunctionboxesobjective>連結配電箱</engineer.wirejunctionboxesobjective>
-<engineer.wirejunctionboxestext>潛艇電網中的設備透過電線與配電箱連結來獲得電力。\n\n同時裝備一把螺絲起子和電線，之後與欲進行配電的設備互動 ({0})，將自介面中下方伸出的電線連接至「power」端後按下{1}關閉介面，並在電線跟隨滑鼠游標時直接移動至下一個設備並重複前面的操作。</engineer.wirejunctionboxestext>
+<engineer.wirejunctionboxesobjective>連接配電箱</engineer.wirejunctionboxesobjective>
+<engineer.wirejunctionboxestext>潛艇電網中的設備透過電線與配電箱連接來獲得電力。\n\n同時裝備一把螺絲起子和電線，之後與欲進行配電的設備互動({0})，將自介面下方伸出的電線連接至「power」端後按下 {1} 關閉介面，並在電線跟隨滑鼠游標時直接移動至下一個設備並重複前面的操作。</engineer.wirejunctionboxestext>
 
 <!-- Submarine -->
 <engineer.repairelectricalroom>配電機房</engineer.repairelectricalroom>
@@ -4274,10 +4274,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <officer.equipment>容器</officer.equipment>
 <officer.equipmentobjective>從收納櫃裡取得裝備</officer.equipmentobjective>
-<officer.equipmenttext>物品被收納於大大小小的容器當中，你能與它們互動 ({0}) 來查看它們的內容物，雙擊物品以使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下{1}關閉它們的視窗。</officer.equipmenttext>
+<officer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</officer.equipmenttext>
 <officer.meleeweapon>近戰武器</officer.meleeweapon>
 <officer.meleeweaponobjective>裝備一項近戰武器與防護裝備</officer.meleeweaponobjective>
-<officer.meleeweapontext>雙擊物品欄中的武器與防護裝備以裝備它們，裝備武器需要你的角色騰出一隻手。\n\n以{0}舉起你的武器，並使用{1}來揮舞它。</officer.meleeweapontext>
+<officer.meleeweapontext>雙擊物品欄中的武器與防護裝備以裝備它們，裝備武器需要你的角色騰出一隻手。\n\n以 {0} 舉起你的武器，並使用 {1} 來揮舞它。</officer.meleeweapontext>
 
 <!-- Room 3 -->
 <officer.crawler>怪物: 爬行者</officer.crawler>
@@ -4287,15 +4287,15 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 4 -->
 <officer.somethingbig>電磁槍: 準備</officer.somethingbig>
 <officer.somethingbigobjective>為電磁槍進行裝填並啟動超級電容</officer.somethingbigobjective>
-<officer.somethingbigtext>電磁槍是多艘潛艇的標準武器，它們需要瞬間的強力電流和彈藥箱。\n\n準備好電磁槍，調整超級電容的充電率 (50%通常已經足夠)，並將彈藥箱放電磁槍的裝彈機中。\n\n要將空的彈藥箱移出裝彈機，拖它拉至它的欄位之外。</officer.somethingbigtext>
+<officer.somethingbigtext>電磁槍是多艘潛艇的標準武器，它們需要瞬間的強力電流和彈藥箱。\n\n準備好電磁槍，調整超級電容的充電率 (50%通常已經足夠)，並將彈藥箱放進電磁槍的裝彈機中。\n\n要將空的彈藥箱移出裝彈機，拖它拉至它的欄位之外。</officer.somethingbigtext>
 <officer.hammerhead>電磁槍: 開火</officer.hammerhead>
 <officer.hammerheadobjective>消滅錘頭煞</officer.hammerheadobjective>
-<officer.hammerheadtext>以電磁槍開火，與潛望鏡互動 ({0})，在潛望鏡中以滑鼠進行瞄準，使用{1}開火，按下{2}停止操作。\n\n砲塔非常耗電，保守地開火，否則超級電容器可能會跟不上。</officer.hammerheadtext>
+<officer.hammerheadtext>要以電磁槍開火，先與潛望鏡互動({0})，在潛望鏡中移動滑鼠進行瞄準，使用 {1} 開火，按下 {2} 停止操作。\n\n砲塔非常耗電，保守地開火，否則超級電容器可能會跟不上。</officer.hammerheadtext>
 
 <!-- Room 5 -->
 <officer.rangedweapon>遠程武器</officer.rangedweapon>
 <officer.rangedweaponobjective>帶上幾把遠程武器</officer.rangedweaponobjective>
-<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以{0}進行瞄準，同時以{1}開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖拉並放置於武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
+<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以 {0} 進行瞄準，同時以 {1} 開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖拉並放置於武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
 
 <!-- Room 6 -->
 <officer.mudraptor>怪物: 泥偶迅猛龍</officer.mudraptor>
@@ -4318,33 +4318,33 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 3 -->
 <doctor.supplies>容器</doctor.supplies>
 <doctor.suppliesobjective>尋找醫療物資</doctor.suppliesobjective>
-<doctor.suppliestext>物品被收納於大大小小的容器當中，你能與它們互動 ({0}) 來查看它們的內容物，雙擊物品以使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下{1}關閉它們的視窗。</doctor.suppliestext>
+<doctor.suppliestext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</doctor.suppliestext>
 <doctor.openmedicalinterface>醫療界面</doctor.openmedicalinterface>
 <doctor.openmedicalinterfaceobjective>打開醫療界面</doctor.openmedicalinterfaceobjective>
-<doctor.openmedicalinterfacetext>以{0}進入醫療界面。</doctor.openmedicalinterfacetext>
+<doctor.openmedicalinterfacetext>以 {0} 進入醫療界面。</doctor.openmedicalinterfacetext>
 <doctor.firstaidself>急救</doctor.firstaidself>
 <doctor.firstaidselfobjective>替自己療傷</doctor.firstaidselfobjective>
-<doctor.firstaidselftext>你所受到的傷害會顯示於右邊的視窗，部分傷害則位於不同的身體部位，點選部位以對它們進行檢查。\n\n要對傷害進行治療，將藥物托放至欲使用的部位上，你受到了一些內傷，立刻以嗎啡對其進行治療。</doctor.firstaidselftext>
+<doctor.firstaidselftext>你所受到的傷害會顯示於右邊的視窗，部分傷害會位於不同的身體部位，點選部位以對它們進行檢查。\n\n要對傷害進行治療，將藥物托放至欲使用的部位上，你受到了一些內傷，立刻以嗎啡對其進行治療。</doctor.firstaidselftext>
 
 <!-- Room 4 -->
 <doctor.medbay>船員指令</doctor.medbay>
 <doctor.medbayobjective>將船員引導至醫務室</doctor.medbayobjective>
-<doctor.medbaytext>讓患者跟隨你至醫務室。\n\n按下{0}開啟指令介面，選擇"移動"、"跟隨"、並選擇欲使其跟隨你的角色。</doctor.medbaytext>
+<doctor.medbaytext>讓患者跟隨你至醫務室。\n\n按下 {0} 開啟指令介面，選擇「移動」、「跟隨」、最後選擇欲使其跟隨你的角色。</doctor.medbaytext>
 
 <!-- Room 5 -->
 <doctor.treatburns>治療燒傷</doctor.treatburns>
 <doctor.treatburnsobjective>至船員的傷勢</doctor.treatburnsobjective>
-<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下{0}進行治療。\n\n單擊醫療界面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
+<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下 {0} 進行治療。\n\n單擊醫療界面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
 
 <!-- Room 6 -->
 <doctor.cpr>心肺復甦</doctor.cpr>
 <doctor.cprobjective>進行CPR</doctor.cprobjective>
-<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面 (在滑鼠游標漂浮在其他角色上時按下{0}) 餅點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
+<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面 (在滑鼠游標漂浮在其他角色上時按下 {0}) 並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
 
 <!-- Submarine -->
 <doctor.submarine>醫療幫助</doctor.submarine>
 <doctor.submarineobjective>對需要的船員給予醫療幫助</doctor.submarineobjective>
-<doctor.submarinetext>以{0}檢查患者並給予他們正確治療，別忘了在治療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
+<doctor.submarinetext>以 {0} 檢查患者並給予他們正確治療，別忘了在醫療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
 
 <!-- Captain tutorial -->
 <!-- Radio -->
@@ -4354,18 +4354,18 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <captain.commandmedic>指令，part 1</captain.commandmedic>
 <captain.commandmedicobjective>命令醫官跟隨你</captain.commandmedicobjective>
-<captain.commandmedictext>按下{0}並對醫官下達跟隨你的指令 ("移動"、"跟隨")。</captain.commandmedictext>
+<captain.commandmedictext>按下 {0} 並對醫官下達跟隨你的指令(「移動」、「跟隨」)。</captain.commandmedictext>
 
 <!-- Submarine -->
 <captain.commandmechanic>指令，part 2</captain.commandmechanic>
 <captain.commandmechanicobjective>命令技師進行維修</captain.commandmechanicobjective>
-<captain.commandmechanictext>當被指派進行維修 (「維護」、「修復機械設備」)，該角色會四處巡邏來尋找任何需要被修復的機械設備。\n\n下達指令時不要忘記你能夠以滑鼠左鍵自動分配指令，或以滑鼠右鍵手動選擇要下達指令的對象。現在請指派命令給技師。\n\n你可以注意到角色的當前任務會被顯示在左上角的船員清單中，如果你想要撤銷角色的命令，以右鍵點選任務圖示。</captain.commandmechanictext>
+<captain.commandmechanictext>當被指派進行維修(「維護」、「修復機械設備」)，該角色會四處巡邏來尋找任何需要被修復的機械設備。\n\n下達指令時不要忘記你能夠以滑鼠左鍵自動分配指令，或以滑鼠右鍵手動選擇要下達指令的對象。現在請指派命令給技師。\n\n你可以注意到角色的當前任務會被顯示在左上角的船員清單中，如果你想要撤銷角色的命令，以右鍵點選任務圖示。</captain.commandmechanictext>
 <captain.commandsecurity>指令，part 3</captain.commandsecurity>
 <captain.commandsecurityobjective>命令安全官操作砲塔</captain.commandsecurityobjective>
-<captain.commandsecuritytext>要命令船員操作砲塔，點選命令選單中的「操作武器」，並選擇你需要他們操作的砲塔。\n\n安全官通常是操作砲塔的最佳人選。</captain.commandsecuritytext>
+<captain.commandsecuritytext>要命令船員操作砲塔，點選指令介面中的「操作武器」，並選擇你需要他們操作的砲塔。\n\n安全官通常是操作砲塔的最佳人選。</captain.commandsecuritytext>
 <captain.commandengineer>指令，part 4</captain.commandengineer>
 <captain.commandengineerobjective>命令工程師啟動反應爐</captain.commandengineerobjective>
-<captain.commandengineertext>要命令船員啟動反應爐，開啟命令選單並選擇「操作」、「操作反應爐」、「啟動反應爐」，該角色將會在命令解除之前顧著反應爐，\n\n指派一位工程師啟動反應爐。</captain.commandengineertext>
+<captain.commandengineertext>要命令船員啟動反應爐，開啟指令介面並選擇「操作」、「操作反應爐」、「啟動反應爐」，該角色將會在命令解除之前顧著反應爐，\n\n指派一位工程師啟動反應爐。</captain.commandengineertext>
 <captain.undock>分離</captain.undock>
 <captain.undockobjective>與哨站分離</captain.undockobjective>
 <captain.undocktext>要開始航行，你得先將潛艇與哨站分離，在導航終端介面中按下「分離」按鈕。</captain.undocktext>
@@ -4605,7 +4605,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <traitorgoalkeepalive>保護[speciesname][duration]秒。</traitorgoalkeepalive>
 
 <!-- MVP traitor mission text package -->
-<mvptraitormissionstartinfotext>一個聲音在你的腦海裡對你大喊，音量足以使受驚: "畫皮召喚你為它服務！"</mvptraitormissionstartinfotext>
+<mvptraitormissionstartinfotext>一個聲音在你的腦海裡對你大喊，音量足以使受驚: 「畫皮召喚你為它服務！」</mvptraitormissionstartinfotext>
 <mvptraitorobjectivestartmessage1>一個想法緩緩的在你的腦海中成形，儘管它平庸無比，卻有著一種奇妙的吸引力:\n[traitorgoalinfos]</mvptraitorobjectivestartmessage1>
 <mvp_goalinfotext_1>翻翻收納櫃 － 在其中一個氧氣罐底下隱藏著一條給你的特殊訊息。</mvp_goalinfotext_1>
 <mvpobjectivesuccessmessage1>奇妙地正如你所預料，一個骯髒的紙條被貼在這個氧氣罐的底部，它的表面被原始的塗鴉給覆蓋，但你直覺的地理解這些是指令的暗號。</mvpobjectivesuccessmessage1>
@@ -4659,8 +4659,8 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <oxygen_sabotage_objectivesuccessmessage2>另一次成功的實驗，向最近的聯盟哨站回報。</oxygen_sabotage_objectivesuccessmessage2>
 
 <!-- Acidparty mission -->
-<acidparty_traitormissionstartinfotext>你從你的口袋裡找到一張字跡潦草的紙條，"嘿老兄，你知道月球中心有個東西，對吧？要是有辦法、像是、去看看那裡有啥、但是又不用真的去到那裡？"</acidparty_traitormissionstartinfotext>
-<acidparty_traitorobjectivestartmessage1>Step 1. 找一些詹亡、詹妄、瞻妄... "什麼妄什麼東西的"，知道了吧？\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage1>
+<acidparty_traitormissionstartinfotext>你從你的口袋裡找到一張字跡潦草的紙條，「嘿老兄，你知道月球中心有個東西，對吧？要是有辦法、像是、去看看那裡有啥、但是又不用真的去到那裡？」</acidparty_traitormissionstartinfotext>
+<acidparty_traitorobjectivestartmessage1>Step 1. 找一些詹亡、詹妄、瞻妄... 「什麼妄什麼東西的」，知道了吧？\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage1>
 <acidparty_objectivesuccessmessage1>從來沒有看過這個，一定就是它。</acidparty_objectivesuccessmessage1>
 <acidparty_traitorobjectivestartmessage2>Step 2. 潛艇上有時候會有那種...那種限制你目光的東西，對吧？就是、它們會把你拉回現實、然後、讓你的目光只能看到真實的一小部分，懂嗎？所以你要做的就是把它們都丟了，它們叫做氣派定淳還是什麼的。\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage2>
 <acidparty_objectivesuccessmessage2>這些應該就是全部了。</acidparty_objectivesuccessmessage2>
@@ -4983,7 +4983,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
 <eventtext.missionevent_cargo1.c1>“我們雇用了一組船員來運送這些材料，但它們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。”</eventtext.missionevent_cargo1.c1>
-<eventtext.missionevent_cargo2.c1>“有一批需要被"小心運送"的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。”</eventtext.missionevent_cargo2.c1>
+<eventtext.missionevent_cargo2.c1>“有一批需要被「小心運送」的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。”</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>“附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。”</eventtext.missionevent_cargo3.c1>
 <eventtext.missionevent_killswarm.c1>“這裡沒有一艘船能在離開時不遇到成群怪物，你們能處理好這個問題的話我可以給你們一些獎勵。”</eventtext.missionevent_killswarm.c1>
 <eventtext.missionevent_killmonstercommon.c1>“有一隻特別凶猛的怪物在騷擾這附近的洞穴，我準備好了一些獎勵要給那些能夠消滅牠的船員們。”</eventtext.missionevent_killmonstercommon.c1>
@@ -5188,13 +5188,13 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.assassinationofjacovsubra1.o2>忽略它。</eventtext.assassinationofjacovsubra1.o2>
 <eventtext.assassinationofjacovsubra2.c1>一位似乎正在休息的工人正閱讀著報紙，“嘿，你認識那個姓Subra的嗎？”</eventtext.assassinationofjacovsubra2.c1>
 <eventtext.assassinationofjacovsubra2.o1>“不認識，他是誰？”</eventtext.assassinationofjacovsubra2.o1>
-<eventtext.assassinationofjacovsubra2.o1.c1>“Jacov Subra，他就是那個、怎麼說比較好、舉辦了那些"主題"慶典的人。”那人翻了個白眼。“那些慶典全是畫皮，搞得死傷慘重，他不久前被高調地判了刑，你應該有在歐羅巴報上面看過吧。”</eventtext.assassinationofjacovsubra2.o1.c1>
+<eventtext.assassinationofjacovsubra2.o1.c1>“Jacov Subra，他就是那個、怎麼說比較好、舉辦了那些「主題」慶典的人。”那人翻了個白眼。“那些慶典全是畫皮，搞得死傷慘重，他不久前被高調地判了刑，你應該有在歐羅巴報上面看過吧。”</eventtext.assassinationofjacovsubra2.o1.c1>
 <eventtext.assassinationofjacovsubra2.o1.o1.c1>“他幾個星期前在這裡被抓。我聽說他在附近又辦了一次那種災難性的慶典，後來他就被抓進礦坑了。”</eventtext.assassinationofjacovsubra2.o1.o1.c1>
 <eventtext.assassinationofjacovsubra2.o1.o1.o1>“真是好消息。”</eventtext.assassinationofjacovsubra2.o1.o1.o1>
 <eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>“直到他又逃走之前確實是好消息。”一個聲音響起，休息時間結束了。那位工人收起報紙起步向碼頭走去，“我聽說如果有人能將他繩之以法的話可以拿到一筆獎勵”他邊走邊喊。</eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>
 <eventtext.assassinationofjacovsubra2.o2>“他幹了什麼好事？”</eventtext.assassinationofjacovsubra2.o2>
 <eventtext.assassinationofjacovsubra2.o3>“別向我搭話、廢物。”</eventtext.assassinationofjacovsubra2.o3>
-<eventtext.assassinationofjacovsubra3.c1>“歡迎來到一年一度的"軟體動物教會"慶典！我們邀請了: Sonata Aquatica、Jethro Hull、Irma-Donna、Draft Bunk等諸多名人！還有特別來賓Sacov Jubra！”"軟體動物"幾個字寫在底下潦草的"畫皮"之上，看來這個慶典就辦在附近。一個經過的人驚呼: “Draft Bunk要來耶！讚啦！”</eventtext.assassinationofjacovsubra3.c1>
+<eventtext.assassinationofjacovsubra3.c1>“歡迎來到一年一度的「軟體動物教會」慶典！我們邀請了: Sonata Aquatica、Jethro Hull、Irma-Donna、Draft Bunk等諸多名人！還有特別來賓Sacov Jubra！”「軟體動物」幾個字寫在底下潦草的「畫皮」之上，看來這個慶典就辦在附近。一個經過的人驚呼: “Draft Bunk要來耶！讚啦！”</eventtext.assassinationofjacovsubra3.c1>
 <eventtext.assassinationofjacovsubra3.o1>真有趣。</eventtext.assassinationofjacovsubra3.o1>
 <eventtext.assassinationofjacovsubra4.c1>“你永遠也別想抓到我！”</eventtext.assassinationofjacovsubra4.c1>
 <eventtext.assassinationofjacovsubra4.o1>“放棄吧Jacov！跟我走！”</eventtext.assassinationofjacovsubra4.o1>
@@ -5268,7 +5268,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.badvibrations3.reward>要一些酬勞。</eventtext.badvibrations3.reward>
 <eventtext.badvibrations3.scrounge>“喔，呃，你想要的話我可以湊出幾百馬克給你，我會盡快拿給你的。”</eventtext.badvibrations3.scrounge>
 <eventtext.badvibrations3.o2>“妳是一位占卜師，對吧？”</eventtext.badvibrations3.o2>
-<eventtext.badvibrations3.o2.c1>“啊？”她看起來有點惱火，“不是，你把我當成別人了，我之前感覺... 受到一個文物影響的時候遇到過你。你記得吧，"感覺"很糟那個。”</eventtext.badvibrations3.o2.c1>
+<eventtext.badvibrations3.o2.c1>“啊？”她看起來有點惱火，“不是，你把我當成別人了，我之前感覺... 受到一個文物影響的時候遇到過你。你記得吧，「感覺」很糟那個。”</eventtext.badvibrations3.o2.c1>
 <eventtext.badvibrations3.o2.o1>“我想起來了。”</eventtext.badvibrations3.o2.o1>
 <eventtext.manandhisraptor1.c1>一個愁眉苦臉的人在走廊上踱來踱去。當他看見你的時候，他的目光亮了起來。“你是從那艘剛靠岸的潛艇上下來的，對吧？你們有在載客嗎？”</eventtext.manandhisraptor1.c1>
 <eventtext.manandhisraptor1.o1>“沒錯，有哪些乘客？”</eventtext.manandhisraptor1.o1>
@@ -5308,7 +5308,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.bombscare.o1.o1.o1.c1.o1>回收。</eventtext.bombscare.o1.o1.o1.c1.o1>
 <eventtext.bombscare.o1.o1.o1.c1.o1.c1>出乎你意料之外，那堆廢料竟然是一顆自製的雷管式炸彈。幸運的是有一些電線鬆了，阻止了炸彈爆炸。你小心翼翼地拆下引爆器、撿起炸彈、把它放進你的包包裡。之前那位守衛應該會對這個很有興趣。</eventtext.bombscare.o1.o1.o1.c1.o1.c1>
 <eventtext.bombscare.o1.o1.o1.c1.o1.c1.c1>你把那顆炸彈塞進了守衛的懷中，他嚇了一大跳。你向他敘述了你的經歷，守衛感謝你發現了炸彈也給了你一份將它解除了的小獎勵。</eventtext.bombscare.o1.o1.o1.c1.o1.c1.c1>
-<eventtext.bombscare.o1.o1.o1.c1.o1.c2>出乎你意料之外，那堆廢品被接上了一個計時器。你將把它轉向，計時器上顯示著"00:01"。</eventtext.bombscare.o1.o1.o1.c1.o1.c2>
+<eventtext.bombscare.o1.o1.o1.c1.o1.c2>出乎你意料之外，那堆廢品被接上了一個計時器。你將把它轉向，計時器上顯示著「00:01」。</eventtext.bombscare.o1.o1.o1.c1.o1.c2>
 <eventtext.bombscare.o1.o1.o1.c1.o1.o1>找掩護。</eventtext.bombscare.o1.o1.o1.c1.o1.o1>
 <eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1>你丟下炸彈並迅速地趴到地上、雙手抱頭。幾秒鐘過去了，什麼都沒發生。你小心翼翼地站起身並拍掉身上的灰塵。看來這是顆啞彈。之前那位守衛應該會對這個很有興趣。</eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1>
 <eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>你向他報告在走廊發現了一顆炸彈，守衛也隨即採取行動。他對你的義舉表示了感謝。</eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>
@@ -5344,15 +5344,15 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.stuckinthemiddle.o1.o1.o1.o1>“我去看看情況吧。”</eventtext.stuckinthemiddle.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.c1>“這個主意不錯，這裡的官員還不認識你，你偷偷溜進去，看看能不能找到什麼線索，但不論如何，千萬別再造事端。“</eventtext.stuckinthemiddle.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1>“我想都不敢想。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1>
-<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.c1>“喔，如果我們的人問你是否吃過Versas肝臟，回答"到死都要吃過一次"。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.c1>
+<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.c1>“喔，如果我們的人問你是否吃過Versas肝臟，回答「到死都要嚐過一次」。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>“了解。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>你向一旁的房間裡窺視，房裡有個人坐在一張椅子上、手上戴著手銬。從他血淋淋、又紅又腫的臉看來，他被徹底地教訓過了。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>上前查看。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>那個人有些神志不清，但還是有辦法小聲地問了你一個問題: “你、你吃過Versas肝臟嗎？”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>“從來沒有。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>
-<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>“真、真可惜，我聽說到死都要吃過一次。”他笑了幾聲，“你最好、最好在守衛回來之前快點離開，如果你還能讓誰知道我在這裡那就太、太好了。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>
+<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>“真、真可惜，我聽說到死都要嚐過一次。”他笑了幾聲，“你最好、最好在守衛回來之前快點離開，如果你還能讓誰知道我在這裡那就太、太好了。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你告訴那些分離主義者他們同伴的位置。他們在感謝你的幫忙後出發營救他們的同志。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
-<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2>“到死都要吃過一次。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2>
+<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2>“到死都要嚐過一次。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2.c1>“拿走我口袋裡的碎紙，確保它、確保它安全地送到對的人手上。我最好待在這裡，不然那些臭豬會嗅到事情不對勁。”你把那片紙條放進自己的口袋。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2.c1.c1>你將線報交給了那些分離主義者，“可惡，這些資訊沒什麼用，它們只證明了聯盟已經開始進行大規模動員，而且他們確實在找些什麼，這我用眼睛看都看得出來。還是謝謝你的幫忙，但是得先失陪了，我們有個救援任務在身。”</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o2.c1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o2>“哇、真慘，但還是祝你好運。”</eventtext.stuckinthemiddle.o1.o1.o1.o2>
@@ -5382,7 +5382,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.generic.ignore>忽略。</eventtext.generic.ignore>
 <eventtext.generic.continue>繼續...</eventtext.generic.continue>
 <eventtext.generic.refuse>拒絕。</eventtext.generic.refuse>
-<eventtext.atwitsend.c1>一個憔悴的年輕人走到你面前，手裡拿著一瓶酒。他用與他外表不搭的活潑語氣向你搭話:\n\n"嘿，我叫Artie Dolittle，你是從那艘船上來的、對吧？也許你可以帶我一起走！"\n</eventtext.atwitsend.c1>
+<eventtext.atwitsend.c1>一個憔悴的年輕人走到你面前，手裡拿著一瓶酒。他用與他外表不搭的活潑語氣向你搭話:\n\n“嘿，我叫Artie Dolittle，你是從那艘船上來的、對吧？也許你可以帶我一起走！”\n</eventtext.atwitsend.c1>
 <eventtext.atwitsend.o1>“什麼？我為什麼要那麼做？”</eventtext.atwitsend.o1>
 <eventtext.atwitsend.o1.c1>“因為我會是一位好員工！我什麼都會，也不用你付我錢！怎麼樣？”</eventtext.atwitsend.o1.c1>
 <eventtext.atwitsend.o1.o1>“你說服我了，歡迎上船。”</eventtext.atwitsend.o1.o1>
@@ -5698,7 +5698,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <hint.onroundstarted.voipdisabled>如果你想要以麥克風進行交流，在設定中打開語音聊天。</hint.onroundstarted.voipdisabled>
 <hint.onshootwithoutaiming>你需要在以[key]進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
 <hint.onshowcampaigninterface.map>使用戰役地圖選擇你的下一個目的地。在選擇目的地之後，你能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
-<hint.onshowcommandinterface>以命令選單對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
+<hint.onshowcommandinterface>以指令介面對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
 <hint.onshowhealthinterface>這是醫療界面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自你的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
 <hint.onsonarspottedenemy>聲納上有一個正在移動的目標，確保有人正在操作潛艇武器，並試著操作你的潛艇讓砲手們能夠瞄準目標。</hint.onsonarspottedenemy>
 <hint.onstartedcontrolling.job.assistant>你正扮演著一位助手。助手是一個萬能職業，盡其所能提供幫助的同時以此提升自己的技能等級。</hint.onstartedcontrolling.job.assistant>
