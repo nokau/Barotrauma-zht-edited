@@ -4218,7 +4218,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Submarine -->
 <mechanic.repairsubmarine>潛艇保養</mechanic.repairsubmarine>
 <mechanic.repairsubmarineobjective>修復引擎和壓載艙中的抽水機</mechanic.repairsubmarineobjective>
-<mechanic.repairsubmarinetext>找到引擎 (通常位於潛艇的後方艙房) 和壓載艙中的抽水機 (位於潛艇下層，留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
+<mechanic.repairsubmarinetext>找到引擎(通常位於潛艇的後方艙房)和壓載艙中的抽水機(位於潛艇下層，留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
 
 <!-- Engineer tutorial -->
 <!-- Radio -->
@@ -4287,7 +4287,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 4 -->
 <officer.somethingbig>電磁槍: 準備</officer.somethingbig>
 <officer.somethingbigobjective>為電磁槍進行裝填並啟動超級電容</officer.somethingbigobjective>
-<officer.somethingbigtext>電磁槍是多艘潛艇的標準武器，它們需要瞬間的強力電流和彈藥箱。\n\n準備好電磁槍，調整超級電容的充電率 (50%通常已經足夠)，並將彈藥箱放進電磁槍的裝彈機中。\n\n要將空的彈藥箱移出裝彈機，拖它拉至它的欄位之外。</officer.somethingbigtext>
+<officer.somethingbigtext>電磁槍是多艘潛艇的標準武器，它們需要瞬間的強力電流和彈藥箱。\n\n準備好電磁槍，調整超級電容的充電率(50%通常已經足夠)，並將彈藥箱放進電磁槍的裝彈機中。\n\n要將空的彈藥箱移出裝彈機，拖它拉至它的欄位之外。</officer.somethingbigtext>
 <officer.hammerhead>電磁槍: 開火</officer.hammerhead>
 <officer.hammerheadobjective>消滅錘頭煞</officer.hammerheadobjective>
 <officer.hammerheadtext>要以電磁槍開火，先與潛望鏡互動({0})，在潛望鏡中移動滑鼠進行瞄準，使用 {1} 開火，按下 {2} 停止操作。\n\n砲塔非常耗電，保守地開火，否則超級電容器可能會跟不上。</officer.hammerheadtext>
@@ -4339,7 +4339,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 6 -->
 <doctor.cpr>心肺復甦</doctor.cpr>
 <doctor.cprobjective>進行CPR</doctor.cprobjective>
-<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面 (在滑鼠游標漂浮在其他角色上時按下 {0}) 並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
+<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面(在滑鼠游標漂浮在其他角色上時按下 {0} )並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
 
 <!-- Submarine -->
 <doctor.submarine>醫療幫助</doctor.submarine>
