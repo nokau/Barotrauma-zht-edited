@@ -1607,7 +1607,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Mission misc -->
 <missionteam1.pvpmission>聯盟</missionteam1.pvpmission>
 <missionteam2.pvpmission>木星分裂主義分子</missionteam2.pvpmission>
-<missionsuccess.pvpmission>潛艇 [loser] 已經被 [winner] 上的船員擊敗！</missionsuccess.pvpmission>
+<missionsuccess.pvpmission>潛艇[loser]已經被[winner]上的船員擊敗！</missionsuccess.pvpmission>
 <missionfailure.pvpmission>雙方人員均已喪生。</missionfailure.pvpmission>
 <missionfailed>任務失敗</missionfailed>
 <missioncompleted>任務完成</missioncompleted>
@@ -3213,10 +3213,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <dialognobatteries>這艘船上沒有乾電池！</dialognobatteries>
 <dialognobatteries>找不到乾電池！</dialognobatteries>
 <dialogstopchargingbatteries>停止替[itemname]充電！</dialogstopchargingbatteries>
-<dialogleakfixed>修好一處在[roomname]的漏水！</dialogleakfixed>
+<dialogleakfixed>修好一處在[roomname]的漏洞！</dialogleakfixed>
 <dialogleakfixed>正在處理[roomname]，只剩幾個洞了</dialogleakfixed>
-<dialogleaksfixed>完成修復[roomname]的全部漏水！</dialogleaksfixed>
-<dialogleaksfixed>[roomname]沒有漏水了！</dialogleaksfixed>
+<dialogleaksfixed>完成修復[roomname]的全部漏洞！</dialogleaksfixed>
+<dialogleaksfixed>[roomname]沒有漏洞了！</dialogleaksfixed>
 <dialogitemrepaired>[itemname]修好了！</dialogitemrepaired>
 <dialogitemrepaired>[itemname]恢復運作!</dialogitemrepaired>
 <dialogitemrepaired>[itemname]復原了！</dialogitemrepaired>
@@ -3273,7 +3273,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <dialognopumps>目前沒有抽水機需要被照顧。</dialognopumps>
 <dialognoenemies>沒有看到入侵者。</dialognoenemies>
 <dialognoenemies>敵人？在哪裡？</dialognoenemies>
-<dialognoleaks>找不到漏水。</dialognoleaks>
+<dialognoleaks>找不到漏洞。</dialognoleaks>
 <dialognoleaks>什麼漏？</dialognoleaks>
 <dialogfoundwoundedtarget>為在[roomname]的[targetname]進行急救！</dialogfoundwoundedtarget>
 <dialogfoundwoundedtarget>在[roomname]對[targetname]進行治療！</dialogfoundwoundedtarget>
@@ -3507,7 +3507,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <orderdialog.reportfire>[roomname]起火了！！</orderdialog.reportfire>
 <orderdialog.reportfire>[roomname]燒起來了！</orderdialog.reportfire>
 <orderdialog.reportbreach>[roomname]破損！</orderdialog.reportbreach>
-<orderdialog.reportbreach>[roomname]在漏水！</orderdialog.reportbreach>
+<orderdialog.reportbreach>[roomname]有漏洞！</orderdialog.reportbreach>
 <orderdialog.reportintruders>[roomname]裡有入侵者！</orderdialog.reportintruders>
 <orderdialog.reportintruders>[roomname]有敵人！</orderdialog.reportintruders>
 <orderdialog.reportbrokendevices>[roomname]裡有東西壞了！</orderdialog.reportbrokendevices>
@@ -3704,7 +3704,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <huskdormant>你覺得有什麼東西卡在喉嚨裡</huskdormant>
 <huskdormant>你感到肌肉痠痛</huskdormant>
 <huskcantspeak>你感覺喉嚨裡有什麼東西在蠕動，你試著大叫卻發不出聲音。</huskcantspeak>
-<huskactivate>一條幾丁質觸手從你的嘴裡伸了出來，以[Attack]將卵注入其他鮮活的肉體中！</huskactivate>
+<huskactivate>一條幾丁質觸手從你的嘴裡伸了出來，以 [[Attack]] 將卵注入其他鮮活的肉體中！</huskactivate>
 
 <!-- Skills -->
 <skillname.helm>駕駛</skillname.helm>
@@ -4142,13 +4142,13 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <tutorial.airlocktitle>氣閘</tutorial.airlocktitle>
 <tutorial.airlockdescription>每艘潛艇都應該配備一個安全的氣閘，讓船員可以安全地離開而不會使潛艇淹水。\n\n要安全的離開潛艇，裝備一件潛水服並帶上其他必要的物品 (通常是一個手持聲納、一些武器、幾個氧氣罐)，進入氣閘，確認通往倉的的門都已經關上以免水流進去。\n\n進入潛艇時，先使用抽水機把水打出艙外再往艙內移動，也發揮公德心將所有設備放回適當的位置並在以製氧機重新填充用過的氧氣罐。</tutorial.airlockdescription>
 <tutorial.railguntitle>軌道砲</tutorial.railguntitle>
-<tutorial.railgundescription>軌道砲的運作原理和電磁槍相同，不過它發射的是能搭配高爆彈藥的超大子彈。\n\n軌道砲裝彈機只能裝進單發子彈而不是彈藥箱，除此之外也與電磁槍無異: 與潛望鏡互動來操作準心，以{0}開火、以{1}結束操作。</tutorial.railgundescription>
+<tutorial.railgundescription>軌道砲的運作原理和電磁槍相同，不過它發射的是能搭配高爆彈藥的超大子彈。\n\n軌道砲裝彈機只能裝進單發子彈而不是彈藥箱，除此之外也與電磁槍無異: 與潛望鏡互動來操作準心，以 [{0}] 開火、以 [{1}] 結束操作。</tutorial.railgundescription>
 <tutorial.syringeguntitle>注射器槍</tutorial.syringeguntitle>
-<tutorial.syringegundescription>醫務人員的遠程武器首選，注射器槍以藥品作為它的彈藥使其能夠被用來進行隔空投藥。注意: 自發射器打出的藥品藥效將比自醫療界面使用時更低。\n\n戰鬥時則能以有毒藥物裝填注射器槍並向敵人開火作為攻擊戰術。與其它遠程武器的使用方式無異: 以{0}瞄準，並用{1}開火。</tutorial.syringegundescription>
+<tutorial.syringegundescription>醫務人員的遠程武器首選，注射器槍以藥品作為它的彈藥使其能夠被用來進行隔空投藥。注意: 自發射器打出的藥品藥效將比自醫療界面使用時更低。\n\n戰鬥時則能以有毒藥物裝填注射器槍並向敵人開火作為攻擊戰術。與其它遠程武器的使用方式無異: 以 [{0}] 瞄準，並用 [{1}] 開火。</tutorial.syringegundescription>
 <tutorial.plasmacuttertitle>電漿切割器</tutorial.plasmacuttertitle>
-<tutorial.plasmacutterdescription>電漿切割器是一項能夠切開牆壁與艙門的工具。它的操作方式與焊接工具相同: 以{0}瞄準、{1}開火。\n\n雖然電將切割器只是一項工具，它會對任何擋住它的人造成灼傷，這使它能被當作一把方便的臨時武器。</tutorial.plasmacutterdescription>
+<tutorial.plasmacutterdescription>電漿切割器是一項能夠切開牆壁與艙門的工具。它的操作方式與焊接工具相同: 以 [{0}] 瞄準、[{1}] 開火。\n\n雖然電將切割器只是一項工具，它會對任何擋住它的人造成灼傷，這使它能被當作一把方便的臨時武器。</tutorial.plasmacutterdescription>
 <tutorial.crowbartitle>撬棍</tutorial.crowbartitle>
-<tutorial.crowbardescription>一項能用來強行開門的沉重工具，在有人亂搞門的操作配置或當你需要進入受限制區域時的最工具。在一扇關閉的門上使用({0})撬棍以將它撬開，操作時必須裝備撬棍。</tutorial.crowbardescription>
+<tutorial.crowbardescription>一項能用來強行開門的沉重工具，在有人亂搞門的操作配置或當你需要進入受限制區域時的最工具。在一扇關閉的門上使用({0}) 撬棍以將它撬開，操作時必須裝備撬棍。</tutorial.crowbardescription>
 <tutorial.mineralstitle>礦物</tutorial.mineralstitle>
 <tutorial.mineralsdescription>加工所用的原料能以購買、拆解、或在世界中找到。\n\n礦脈會產生於洞穴中或冰牆上，能以電漿切割器採集並收集礦物，再將其解構為能用於加工的元素。</tutorial.mineralsdescription>
 <tutorial.psychosistitle>精神症</tutorial.psychosistitle>
@@ -4158,7 +4158,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <tutorial.oxygentitle>氧氣</tutorial.oxygentitle>
 <tutorial.oxygendescription>氧氣是水下歐羅巴的珍貴物資，潛艇上的長途旅程不能沒有它，而製氧機正為製造這項隨時必需品而存在，它將氧氣自通風口打入各個艙房，也能被用來填充氧氣罐。\n\n要使用製氧機填充氧氣罐，開啟([InteractType.Use])它的物品欄，將空的氧氣罐置入空的欄位以進行填充。當氧氣罐充填完成，將它拖拉並放進你的物品欄或潛水服/潛水面罩中。</tutorial.oxygendescription>
 <tutorial.laddertitle>梯子</tutorial.laddertitle>
-<tutorial.ladderdescription>要爬上梯子，按下{0}。以{1}和{2}鍵在梯子上移動，按下{3}跳下梯子。</tutorial.ladderdescription>
+<tutorial.ladderdescription>要爬上梯子，按下 [{0}]。以 [{1}] 和 [{2}] 鍵在梯子上移動，按下 [{3}] 跳下梯子。</tutorial.ladderdescription>
 
 <!-- Mechanic tutorial -->
 <!-- Radio -->
@@ -4174,17 +4174,17 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 1 -->
 <mechanic.opendoor>互動</mechanic.opendoor>
 <mechanic.opendoorobjective>打開門</mechanic.opendoorobjective>
-<mechanic.opendoortext>以 {0}、{1}、{2}、{3} 移動，使用 {4} 對物品與設備進行互動。</mechanic.opendoortext>
+<mechanic.opendoortext>以 {0}、{1}、{2}、{3} 移動，使用 [{4}] 對物品與設備進行互動。</mechanic.opendoortext>
 
 <!-- Room 2 -->
 <mechanic.equipment>物品欄</mechanic.equipment>
 <mechanic.equipmentobjective>從收納櫃裡拿出你的裝備</mechanic.equipmentobjective>
-<mechanic.equipmenttext>與收納櫃進行互動({0})，拖拉或以滑鼠雙擊櫃子裡的物品將它們移動至你的物品欄中。\n\n雙擊物品欄中的物品、或使用欄位快捷鍵來裝備它們。\n\n按下 {1} 關閉收納櫃的視窗。</mechanic.equipmenttext>
+<mechanic.equipmenttext>與收納櫃進行互動({0})，拖拉或以滑鼠雙擊櫃子裡的物品將它們移動至你的物品欄中。\n\n雙擊物品欄中的物品、或使用欄位快捷鍵來裝備它們。\n\n按下 [{1}] 關閉收納櫃的視窗。</mechanic.equipmenttext>
 
 <!-- Room 3 -->
 <mechanic.welding>漏洞</mechanic.welding>
 <mechanic.weldingobjective>裝備工具並修補漏洞</mechanic.weldingobjective>
-<mechanic.weldingtext>裝備在你物品欄中的焊接工具和潛水面罩。\n\n操作焊接工具來修補牆上的漏洞，潛水面罩能提供氧氣讓你在水下呼吸。\n\n裝備焊接工具時，以 {0} 瞄準，瞄準同時使用 {1} 進行焊接。</mechanic.weldingtext>
+<mechanic.weldingtext>裝備在你物品欄中的焊接工具和潛水面罩。\n\n操作焊接工具來修補牆上的漏洞，潛水面罩能提供氧氣讓你在水下呼吸。\n\n裝備焊接工具時，以 [{0}] 瞄準，瞄準同時使用 [{1}] 進行焊接。</mechanic.weldingtext>
 <mechanic.drain>抽水機</mechanic.drain>
 <mechanic.drainobjective>啟動抽水機將水排出</mechanic.drainobjective>
 <mechanic.draintext>與一旁的抽水機互動({0}) 然後按下那顆紅色的大按鈕。</mechanic.draintext>
@@ -4200,7 +4200,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 5 -->
 <mechanic.extinguisher>火</mechanic.extinguisher>
 <mechanic.extinguisherobjective>將火撲滅</mechanic.extinguisherobjective>
-<mechanic.extinguishertext>以相同於焊接工具的操作方式使用滅火器，{0} 瞄準、同時按下 {1} 噴灑。</mechanic.extinguishertext>
+<mechanic.extinguishertext>以相同於焊接工具的操作方式使用滅火器，[{0}] 瞄準、同時按下 [{1}] 噴灑。</mechanic.extinguishertext>
 <mechanic.dropextinguisher>物品收納</mechanic.dropextinguisher>
 <mechanic.dropextinguisherobjective>丟下滅火器</mechanic.dropextinguisherobjective>
 <mechanic.dropextinguishertext>有些物品的體積對於物品欄來說太大件了，將滅火器拖拉至它的欄位外以對它解除裝備。</mechanic.dropextinguishertext>
@@ -4218,7 +4218,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Submarine -->
 <mechanic.repairsubmarine>潛艇保養</mechanic.repairsubmarine>
 <mechanic.repairsubmarineobjective>修復引擎和壓載艙中的抽水機</mechanic.repairsubmarineobjective>
-<mechanic.repairsubmarinetext>找到引擎(通常位於潛艇的後方艙房)和壓載艙中的抽水機(位於潛艇下層，留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
+<mechanic.repairsubmarinetext>找到引擎 (通常位於潛艇的後方艙房) 和壓載艙中的抽水機 (位於潛艇下層，留意部分潛艇配有多個壓載艙)。</mechanic.repairsubmarinetext>
 
 <!-- Engineer tutorial -->
 <!-- Radio -->
@@ -4233,7 +4233,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <engineer.equipment>容器</engineer.equipment>
 <engineer.equipmentobjective>從收納櫃裡取得裝備</engineer.equipmentobjective>
-<engineer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</engineer.equipmenttext>
+<engineer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 [{1}] 關閉容器的視窗。</engineer.equipmenttext>
 
 <!-- Room 3 -->
 <engineer.reactor>反應爐: 燃料</engineer.reactor>
@@ -4251,7 +4251,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 5 -->
 <engineer.wirejunctionboxes>配線</engineer.wirejunctionboxes>
 <engineer.wirejunctionboxesobjective>連接配電箱</engineer.wirejunctionboxesobjective>
-<engineer.wirejunctionboxestext>潛艇電網中的設備透過電線與配電箱連接來獲得電力。\n\n同時裝備一把螺絲起子和電線，之後與欲進行配電的設備互動({0})，將自介面下方伸出的電線連接至「power」端後按下 {1} 關閉介面，並在電線跟隨滑鼠游標時直接移動至下一個設備並重複前面的操作。</engineer.wirejunctionboxestext>
+<engineer.wirejunctionboxestext>潛艇電網中的設備透過電線與配電箱連接來獲得電力。\n\n同時裝備一把螺絲起子和電線，之後與欲進行配電的設備互動({0})，將自介面下方伸出的電線連接至「power」端後按下 [{1}] 關閉介面，並在電線跟隨滑鼠游標時直接移動至下一個設備並重複前面的操作。</engineer.wirejunctionboxestext>
 
 <!-- Submarine -->
 <engineer.repairelectricalroom>配電機房</engineer.repairelectricalroom>
@@ -4274,10 +4274,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <officer.equipment>容器</officer.equipment>
 <officer.equipmentobjective>從收納櫃裡取得裝備</officer.equipmentobjective>
-<officer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</officer.equipmenttext>
+<officer.equipmenttext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 [{1}] 關閉容器的視窗。</officer.equipmenttext>
 <officer.meleeweapon>近戰武器</officer.meleeweapon>
 <officer.meleeweaponobjective>裝備一項近戰武器與防護裝備</officer.meleeweaponobjective>
-<officer.meleeweapontext>雙擊物品欄中的武器與防護裝備以裝備它們，裝備武器需要你的角色騰出一隻手。\n\n以 {0} 舉起你的武器，並使用 {1} 來揮舞它。</officer.meleeweapontext>
+<officer.meleeweapontext>雙擊物品欄中的武器與防護裝備以裝備它們，裝備武器需要你的角色騰出一隻手。\n\n以 [{0}] 舉起你的武器，並使用 [{1}] 來揮舞它。</officer.meleeweapontext>
 
 <!-- Room 3 -->
 <officer.crawler>怪物: 爬行者</officer.crawler>
@@ -4290,12 +4290,12 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <officer.somethingbigtext>電磁槍是多艘潛艇的標準武器，它們需要瞬間的強力電流和彈藥箱。\n\n準備好電磁槍，調整超級電容的充電率(50%通常已經足夠)，並將彈藥箱放進電磁槍的裝彈機中。\n\n要將空的彈藥箱移出裝彈機，拖它拉至它的欄位之外。</officer.somethingbigtext>
 <officer.hammerhead>電磁槍: 開火</officer.hammerhead>
 <officer.hammerheadobjective>消滅錘頭煞</officer.hammerheadobjective>
-<officer.hammerheadtext>要以電磁槍開火，先與潛望鏡互動({0})，在潛望鏡中移動滑鼠進行瞄準，使用 {1} 開火，按下 {2} 停止操作。\n\n砲塔非常耗電，保守地開火，否則超級電容器可能會跟不上。</officer.hammerheadtext>
+<officer.hammerheadtext>要以電磁槍開火，先與潛望鏡互動({0})，在潛望鏡中移動滑鼠進行瞄準，使用 [{1}] 開火，按下 [{2}] 停止操作。\n\n砲塔非常耗電，保守地開火，否則超級電容器可能會跟不上。</officer.hammerheadtext>
 
 <!-- Room 5 -->
 <officer.rangedweapon>遠程武器</officer.rangedweapon>
 <officer.rangedweaponobjective>帶上幾把遠程武器</officer.rangedweaponobjective>
-<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以 {0} 進行瞄準，同時以 {1} 開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖拉並放置於武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
+<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以 [{0}] 進行瞄準，同時以 [{1}] 開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖拉並放置於武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
 
 <!-- Room 6 -->
 <officer.mudraptor>怪物: 泥偶迅猛龍</officer.mudraptor>
@@ -4318,10 +4318,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 3 -->
 <doctor.supplies>容器</doctor.supplies>
 <doctor.suppliesobjective>尋找醫療物資</doctor.suppliesobjective>
-<doctor.suppliestext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 {1} 關閉容器的視窗。</doctor.suppliestext>
+<doctor.suppliestext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 [{1}] 關閉容器的視窗。</doctor.suppliestext>
 <doctor.openmedicalinterface>醫療界面</doctor.openmedicalinterface>
 <doctor.openmedicalinterfaceobjective>打開醫療界面</doctor.openmedicalinterfaceobjective>
-<doctor.openmedicalinterfacetext>以 {0} 進入醫療界面。</doctor.openmedicalinterfacetext>
+<doctor.openmedicalinterfacetext>以 [{0}] 進入醫療界面。</doctor.openmedicalinterfacetext>
 <doctor.firstaidself>急救</doctor.firstaidself>
 <doctor.firstaidselfobjective>替自己療傷</doctor.firstaidselfobjective>
 <doctor.firstaidselftext>你所受到的傷害會顯示於右邊的視窗，部分傷害會位於不同的身體部位，點選部位以對它們進行檢查。\n\n要對傷害進行治療，將藥物托放至欲使用的部位上，你受到了一些內傷，立刻以嗎啡對其進行治療。</doctor.firstaidselftext>
@@ -4329,22 +4329,22 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 4 -->
 <doctor.medbay>船員指令</doctor.medbay>
 <doctor.medbayobjective>將船員引導至醫務室</doctor.medbayobjective>
-<doctor.medbaytext>讓患者跟隨你至醫務室。\n\n按下 {0} 開啟指令介面，選擇「移動」、「跟隨」、最後選擇欲使其跟隨你的角色。</doctor.medbaytext>
+<doctor.medbaytext>讓患者跟隨你至醫務室。\n\n按下 [{0}] 開啟指令介面，選擇「移動」、「跟隨」、最後選擇欲使其跟隨你的角色。</doctor.medbaytext>
 
 <!-- Room 5 -->
 <doctor.treatburns>治療燒傷</doctor.treatburns>
 <doctor.treatburnsobjective>至船員的傷勢</doctor.treatburnsobjective>
-<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下 {0} 進行治療。\n\n單擊醫療界面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
+<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下 [{0}] 進行治療。\n\n單擊醫療界面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
 
 <!-- Room 6 -->
 <doctor.cpr>心肺復甦</doctor.cpr>
 <doctor.cprobjective>進行CPR</doctor.cprobjective>
-<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面(在滑鼠游標漂浮在其他角色上時按下 {0} )並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
+<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面 (在滑鼠游標漂浮在其他角色上時按下 [{0}]) 並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
 
 <!-- Submarine -->
 <doctor.submarine>醫療幫助</doctor.submarine>
 <doctor.submarineobjective>對需要的船員給予醫療幫助</doctor.submarineobjective>
-<doctor.submarinetext>以 {0} 檢查患者並給予他們正確治療，別忘了在醫療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
+<doctor.submarinetext>以 [{0}] 檢查患者並給予他們正確治療，別忘了在醫療介面點選個別身體部位進行檢查。\n\n醫療物資通常能在醫務室或儲物間裡找到，散佈在潛艇各處的物資收納櫃中也有一些基礎藥物。查看藥品的物件描述來判斷它們的用途。\n\n裝備生命跡象HUD來查看誰以什麼方式受到傷害。</doctor.submarinetext>
 
 <!-- Captain tutorial -->
 <!-- Radio -->
@@ -4354,7 +4354,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- Room 2 -->
 <captain.commandmedic>指令，part 1</captain.commandmedic>
 <captain.commandmedicobjective>命令醫官跟隨你</captain.commandmedicobjective>
-<captain.commandmedictext>按下 {0} 並對醫官下達跟隨你的指令(「移動」、「跟隨」)。</captain.commandmedictext>
+<captain.commandmedictext>按下 [{0}] 並對醫官下達跟隨你的指令(「移動」、「跟隨」)。</captain.commandmedictext>
 
 <!-- Submarine -->
 <captain.commandmechanic>指令，part 2</captain.commandmechanic>
@@ -5684,7 +5684,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <hintmessagebox.dismiss>關閉</hintmessagebox.dismiss>
 <hint.onadjacenthull.highpressure>這扇門後的區域已經被水淹沒了，且水壓極高，如果在沒有潛水服的狀態下繼續前進或許會有危險。</hint.onadjacenthull.highpressure>
 <hint.onadjacenthull.highwaterpercentage>附近的艙房正在被水淹沒，你或許需要帶著一件潛水服。</hint.onadjacenthull.highwaterpercentage>
-<hint.onafflictiondisplayed>你的身上出現了一種症狀。症狀能在按下[key]打開醫療界面時被治療。</hint.onafflictiondisplayed>
+<hint.onafflictiondisplayed>你的身上出現了一種症狀。症狀能在按下 [[key]] 打開醫療界面時被治療。</hint.onafflictiondisplayed>
 <hint.onautopilotreachedoutpost>自動駕駛已經將潛艇航行至目的地哨站，切換至手動駕駛使對接艙口互相接近。</hint.onautopilotreachedoutpost>
 <hint.onavailabletransition.returntopreviousemptylocation>你回到了地圖的開端，選擇一個新的目的地來繼續你的旅程，或以ESC關閉地圖。</hint.onavailabletransition.returntopreviousemptylocation>
 <hint.onavailabletransition.progresstonextemptylocation>你抵達了地圖的終點，選擇一個新的目的地來繼續你的旅程。</hint.onavailabletransition.progresstonextemptylocation>
@@ -5696,7 +5696,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <hint.onreactoroutoffuel>反應爐已將燃料耗盡，潛艇將會失去電力。替換燃料棒以使電力恢復。</hint.onreactoroutoffuel>
 <hint.onrepairfailed>維修失敗有機會對你造成傷害。擁有較高機械工程與電氣工程技能的角色在進行維修時則將更有機會成功。</hint.onrepairfailed>
 <hint.onroundstarted.voipdisabled>如果你想要以麥克風進行交流，在設定中打開語音聊天。</hint.onroundstarted.voipdisabled>
-<hint.onshootwithoutaiming>你需要在以[key]進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
+<hint.onshootwithoutaiming>你需要在以 [[key]] 進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
 <hint.onshowcampaigninterface.map>使用戰役地圖選擇你的下一個目的地。在選擇目的地之後，你能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
 <hint.onshowcommandinterface>以指令介面對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
 <hint.onshowhealthinterface>這是醫療界面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自你的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
