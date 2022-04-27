@@ -17,7 +17,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 - NPC Conversations
 
 ### Notes:
-- I left most of the names within missions and events un-translated, since all the generated names are not transleted either.
+- I left most of the character, location names within missions and events un-translated, since all the generated names are not transleted either.
 - Different translated names for the items and devices.
 ### Recommended Tools:
 - Notepad++
@@ -47,7 +47,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 - NPC對話
 
 ### 備註
-- 配合大部分隨機生成的NPC名字都尚為英文，我保留了任務與事件中提到的人物、地區等的英文名稱。
+- 配合大部分隨機生成的NPC、地區名稱都尚為英文，我保留了任務與事件中提到的人物與地區等的英文名稱。
 - 部分物件名稱與官方文本有異。
 ### 推薦工具:
 - Notepad++
