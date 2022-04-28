@@ -3165,7 +3165,7 @@
 <submarine.name.herja>Herja</submarine.name.herja>
 <submarine.description.herja>配備著多樣武器，Herja們有能耐處理與各種歐羅巴原生住民的計畫性、非計畫性衝突，是聯盟艦隊的中流砥柱。如果附近有怪物的巢穴被清除，那麼很有可能就是一艘Herja的功勞。</submarine.description.herja>
 <submarine.name.orca2>虎鯨2型</submarine.name.orca2>
-<submarine.description.orca2>經典的虎鯨鯨系列的後繼型式，一樣配有能夠使其快速浮潛的三個壓載艙。作為一艘偵察船，逆戟鯨2型的裝備精良，除了歐羅巴上最危險的怪物，它的對手都難以與其匹敵。</submarine.description.orca2>
+<submarine.description.orca2>經典的虎鯨系列的後繼型式，一樣配有能夠使其快速浮潛的三個壓載艙。作為一艘偵察船，逆戟鯨2型的裝備精良，除了歐羅巴上最危險的怪物，它的對手都難以與其匹敵。</submarine.description.orca2>
 
 <!-- Terminal welcome messages -->
 <terminalwelcomemsg.humpback>輸入on或off來接通或斷開蓄電池與電網的連結。輸入一個0-100區間內的數字來設置每個蓄電池的充電速率。</terminalwelcomemsg.humpback>
