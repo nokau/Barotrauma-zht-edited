@@ -4,7 +4,7 @@
 
 # ENGLISH
 This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
-Their lines are matched(v0.17.12.0) as close as possible with the English text files for easier side-by-side comparison, until another update happen.
+Their lines are matched as close as possible with the current version English text files for easier side-by-side comparison.
 
 Do use it at your own risk, as I coudn;t guarantee any of the translation fits everyone's preference whatsoever.
 
@@ -19,8 +19,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 ### Notes:
 - I left most of the character, location names within missions and events un-translated, since all the generated names are not transleted either.
 - Different translated names for the items and devices.
-### Recommended Tools:
-- Notepad++
+
 ### The files:
 ###### NpcConversations_TraditionalChinese.xml
 - This file contains translated lines of NPC conversations.
@@ -33,9 +32,12 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
   - TCVanillaEditorTexts.xml
   - TCVanillaNew.xml
 
+### Recommended Tools:
+- Notepad++
+
 # 中文
 這是一個基於官方繁體中文文本的非官方文本Mod。
-它們的內容排列與英文文本的內容大致上一致(v0.17.12.0)，除非遇到更新。
+文本內容盡量以當前遊戲版本的英文文本內容進行排序，以便對照。
 
 還請斟酌使用，我無法保證這個文本中的用語與詞彙能夠滿足所有人的喜好。
 
@@ -48,9 +50,8 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
 
 ### 備註
 - 配合大部分隨機生成的NPC、地區名稱都尚為英文，我保留了任務與事件中提到的人物與地區等的英文名稱。
-- 部分物件名稱與官方文本有異。
-### 推薦工具:
-- Notepad++
+- 部分物件名稱與官方繁體中文文本有極大差異。
+
 ### 檔案:
 ###### NpcConversations_TraditionalChinese.xml
 - 這個檔案包含了編輯過的NPC對話。
@@ -62,3 +63,6 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation fits e
   - TCVanilla.xml
   - TCVanillaEditorTexts.xml
   - TCVanillaNew.xml
+
+### 推薦編輯工具:
+- Notepad++
