@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau v2204 -->
+<!-- edited by nokau for v0.17.12.0 (04.2022) -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
 
@@ -112,13 +112,13 @@
 <serverport>伺服器埠</serverport>
 <serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用UPnP連接埠轉發或手動連接埠轉發。</serverporttooltip>
 <serverqueryport>查詢埠</serverqueryport>
-<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他本地用戶端未能在伺服器列表中看到你的伺服器，或出現Steam ID驗證失敗的情況，請嘗試啟用UPnP連接埠轉發或手動連接埠轉發。</serverqueryporttooltip>
+<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現Steam ID驗證失敗的情況，請嘗試啟用UPnP連接埠轉發或手動連接埠轉發。</serverqueryporttooltip>
 <maxplayers>玩家數量上限</maxplayers>
 <password>密碼</password>
 <publicserver>公開伺服器</publicserver>
 <publicservertooltip>公開伺服器將出現在瀏覽伺服器頁面中的伺服器清單中。</publicservertooltip>
 <attemptupnp>嘗試UPnP連接埠轉發</attemptupnp>
-<attemptupnptooltip>UPnP可用於轉發路由器設定的埠，以方便玩家加入伺服器。但不是所有路由器都支援UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定連接埠轉發 (詳情請見readme)。</attemptupnptooltip>
+<attemptupnptooltip>UPnP可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定連接埠轉發 (詳情請見readme)。</attemptupnptooltip>
 <startserverbutton>開始</startserverbutton>
 <pleasewaitupnp>請稍後...</pleasewaitupnp>
 <attemptingupnp>正在嘗試UPnP連接埠轉發...</attemptingupnp>
@@ -142,6 +142,7 @@
 <gamemodedescription.pvp>玩家們將分別被送上兩艘潛艇，任務是摧毀對方。</gamemodedescription.pvp>
 
 <!-- Steam Workshop menu -->
+<settingstab.mods>Mods</settingstab.mods>
 <browsetab>熱門Mod</browsetab>
 <publishtab>發佈</publishtab>
 <modstab>已訂閱的Mod</modstab>
@@ -239,6 +240,58 @@
 <workshopitemdownloadtitle>需要Steam工作坊項目</workshopitemdownloadtitle>
 <workshopitemdownloadprompt>進入此伺服器需要訂閱以下Steam工作坊項目: [items] 你要訂閱它們嗎？</workshopitemdownloadprompt>
 <workshopitemdownloadprompttruncated>+ [number] 個</workshopitemdownloadprompttruncated>
+<workshopmenutab.installedmods>已安裝Mod</workshopmenutab.installedmods>
+<workshopmenutab.popularmods>熱門Mod</workshopmenutab.popularmods>
+<workshopmenutab.publish>發布</workshopmenutab.publish>
+<enabledcore>目前核心內容套件</enabledcore>
+<enabledregular>啟用的內容套件</enabledregular>
+<disabledregular>停用的內容套件</disabledregular>
+<LocalCopyRequired>此項目不存在本機複本。你需要建立本機複本以對其發布更新。\n\n你想要建立這個項目的本機複本嗎？</LocalCopyRequired>
+<ItemInstallRequired>你尚未安裝這個項目。你需要先安裝這個項目以對其發布更新。\n\n你想要安裝這個項目嗎？</ItemInstallRequired>
+<WorkshopItemVersion>Mod版本</WorkshopItemVersion>
+<PublishedModsHeader>已發布</PublishedModsHeader>
+<UnpublishedModsHeader>未發布</UnpublishedModsHeader>
+<LastLocalEditTime>上次修改於 [datetime]</LastLocalEditTime>
+<LatestPublishTime>上次更新於 [datetime]</LatestPublishTime>
+<FreeWeekendCantPublish>你正透過免費周末期間遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FreeWeekendCantPublish>
+<FamilySharedCantPublish>你正透過親友同享遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FamilySharedCantPublish>
+<WorkshopItemVisibility.Unlisted>未列出的</WorkshopItemVisibility.Unlisted>
+<ModDownloadTitle>需要的Mod</ModDownloadTitle>
+<ModDownloadHeader>進入此伺服器需要下列模組:</ModDownloadHeader>
+<ModDownloadFooter>你想要下載它們嗎？</ModDownloadFooter>
+<ModDownloadFooterFail>這個伺服器不允許玩家直接自其下載所使用的Mod，你需要自Steam工作坊下載它們，或聯絡伺服器管理者。</ModDownloadFooterFail>
+<SubscribeToAllOnWorkshop>自Steam工作坊訂閱全部</SubscribeToAllOnWorkshop>
+<ModNameAndHashFormat>[name] ([hash])</ModNameAndHashFormat>
+<ModDirInfo>[filecount]檔案，總計[size]</ModDirInfo>
+<PublishPopupDownload>下載中 [percentage]%</PublishPopupDownload>
+<PublishPopupInstall>正在安裝...</PublishPopupInstall>
+<PublishPopupCreateLocal>建立本機複本...</PublishPopupCreateLocal>
+<PublishPopupStaging>正在複製檔案至暫存資料夾...</PublishPopupStaging>
+<PublishPopupSubmit>正在發布項目至工作坊...</PublishPopupSubmit>
+<OpenLocalModInExplorer>本機Mod\n點此以檔案總管開啟</OpenLocalModInExplorer>
+<ViewWorkshopModDetails>查看詳細資料</ViewWorkshopModDetails>
+<EnableWorkshopMod>啟用</EnableWorkshopMod>
+<DisableWorkshopMod>停用</DisableWorkshopMod>
+<EnableSelectedWorkshopMods>啟用全部已選取</EnableSelectedWorkshopMods>
+<DisableSelectedWorkshopMods>停用全部已選取</DisableSelectedWorkshopMods>
+<DownloadedWorkshopMod>工作坊Mod</DownloadedWorkshopMod>
+<PublishedWorkshopMod>已發布的Mod</PublishedWorkshopMod>
+<ViewModDetailsUpdateAvailable>這個項目有可用的更新！\n點此查看詳細資料</ViewModDetailsUpdateAvailable>
+<ModUpdatesAvailable>有可用的更新！點此進行安裝</ModUpdatesAvailable>
+<RefreshModLists>重新整理</RefreshModLists>
+<WorkshopItemUpdate>更新</WorkshopItemUpdate>
+<ServerExecutable>伺服器執行檔</ServerExecutable>
+<ModServerExesAtYourOwnRisk>修改過的伺服器執行檔有可能不安全甚至帶有惡意程序。\n\n執行此類檔案時風險自負！\n\n你依然想要執行 [exename] 嗎？</ModServerExesAtYourOwnRisk>
+<CannotChangeMods>你只能在主選單啟用/停用Mod。</CannotChangeMods>
+<WorkshopItemSubscriptions>[subscriptioncount]項訂閱內容</WorkshopItemSubscriptions>
+<Ugc.TransferTitle>移動Mod</Ugc.TransferTitle>
+<Ugc.TransferDesc>看起來你在舊版的《潛淵症》中製作了一些Mod。\n\n請選擇你希望移動到新路徑的Mod。\n\n所有未被移動的Mod都將不會被顯示在這個版本的遊戲中，但你依舊能在它們的原始位置找到它們以便你想手動將它們移動至新的Mod路徑。</Ugc.TransferDesc>
+<Ugc.TransferButton>移動</Ugc.TransferButton>
+<Ugc.Transferring>正在移動Mod...</Ugc.Transferring>
+<Ugc.TransferComplete>Mod完成移動。</Ugc.TransferComplete>
+<DeterminingRequiredModUpdates>正在偵測那些Mod需要更新...</DeterminingRequiredModUpdates>
+<PreparingWorkshopDownloads>正在準備Steam工作坊下載...</PreparingWorkshopDownloads>
+<PlayerIsDownloadingFiles>這位玩家正在從伺服器下載檔案。</PlayerIsDownloadingFiles>
 
 <!-- Settings Menu -->
 <settings>設定</settings>
@@ -307,6 +360,8 @@
 <textscale>文字大小</textscale>
 
 <!-- Audio tab -->
+
+<settingstab.audioandvc>音訊 &amp; 語音聊天</settingstab.audioandvc>
 <settingstab.audio>音效</settingstab.audio>
 <soundvolume>音效音量</soundvolume>
 <musicvolume>音樂音量</musicvolume>
@@ -314,10 +369,11 @@
 <muteonfocuslost>失焦時靜音</muteonfocuslost>
 <muteonfocuslosttooltip>當玩家跳出遊戲視窗時遊戲將自動靜音。</muteonfocuslosttooltip>
 <audionodevices>未找到音訊輸出設備。</audionodevices>
-<localvoicebydefault>預設使用本地語音聊天</localvoicebydefault>
-<localvoicebydefaulttooltip>啟用時，你的聲音將自本地語音聊天發送 (只有附近的玩家才能聽到你的聲音)。你也可以透過按發話以無線電交流。</localvoicebydefaulttooltip>
-
-<!-- Voice chat tab -->
+<localvoicebydefault>預設使用所在位置語音聊天</localvoicebydefault>
+<localvoicebydefaulttooltip>啟用時，你的聲音將以你的所在位置發送語音聊天 (只有附近的玩家才能聽到你的聲音)。你可以透過按鍵發話以無線電進行交流。</localvoicebydefaulttooltip>
+<audiooutputdevice>輸出裝置</audiooutputdevice>
+<audioinputdevice>輸入裝置</audioinputdevice>
+<vcinputmode>輸入模式</vcinputmode>
 <settingstab.voicechat>語音聊天</settingstab.voicechat>
 <microphonevolume>麥克風音量</microphonevolume>
 <voicechat>語音聊天</voicechat>
@@ -372,7 +428,7 @@
 <inputtype.voice>按鍵發話</inputtype.voice>
 <inputtype.command>指令介面</inputtype.command>
 <inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory>
-<inputtype.localvoice>本地語音聊天</inputtype.localvoice>
+<inputtype.localvoice>所在位置語音聊天</inputtype.localvoice>
 <inputtype.nextfiremode>下一個射擊模式</inputtype.nextfiremode>
 <inputtype.previousfiremode>上一個射擊模式</inputtype.previousfiremode>
 <inputtype.takeallfrominventoryslot>全部拿取</inputtype.takeallfrominventoryslot>
@@ -396,6 +452,7 @@
 <resetingamehints>重置遊戲提示</resetingamehints>
 <resetingamehintstooltip>你確定要重置遊戲提示嗎？這會使已被標示為不再顯示的遊戲提示再次跳出。</resetingamehintstooltip>
 
+
 <!-- Server settings -->
 <serversettingsgeneraltab>一般</serversettingsgeneraltab>
 <serversettingsantigriefingtab>Anti-griefing</serversettingsantigriefingtab>
@@ -417,8 +474,8 @@
 <serversettingsmonsterspawns>產生怪物</serversettingsmonsterspawns>
 <serversettingsadditionalcargo>額外貨物</serversettingsadditionalcargo>
 <serversettingsautorestartdelay>延遲自動重新開始:</serversettingsautorestartdelay>
-<serversettingsstartwhenclientsready>所有玩家準備就緒之後，開始遊戲</serversettingsstartwhenclientsready>
-<serversettingsstartwhenclientsreadyratio>[percentage]% 的玩家完成準備後開始遊戲</serversettingsstartwhenclientsreadyratio>
+<serversettingsstartwhenclientsready>當所有玩家準備就緒之後開始遊戲</serversettingsstartwhenclientsready>
+<serversettingsstartwhenclientsreadyratio>在 [percentage]% 的玩家完成準備後開始遊戲</serversettingsstartwhenclientsreadyratio>
 <serversettingsallowspectating>允許觀戰</serversettingsallowspectating>
 <serversettingsallowvotekick>允許投票踢出</serversettingsallowvotekick>
 <serversettingskickvotesrequired>票數要求:</serversettingskickvotesrequired>
@@ -454,7 +511,7 @@
 <publiclobbytag>公開</publiclobbytag>
 <privatelobbytag>私人</privatelobbytag>
 <hostserverkarmasetting>與朋友進行遊戲？</hostserverkarmasetting>
-<hostserverkarmasettingtooltip>選取此項目將停用卡瑪。\n\n卡瑪是一個可自訂的自動管理系統，它會賦予執行有益及有害行為的玩家一項隱藏的分數，並有機會在分數太低時進行祭出處置。卡瑪能協助你管理公開伺服器，但你或許會希望和朋友一起更自由地互動。</hostserverkarmasettingtooltip>
+<hostserverkarmasettingtooltip>選取此項目將停用卡瑪。\n\n卡瑪是一個可自訂的自動管理系統，它會賦予執行有益及有害行為的玩家一項隱藏的分數，並有機會在分數太低時祭出處置。卡瑪能協助你管理公開伺服器，但你或許會希望和朋友一起更自由地互動。</hostserverkarmasettingtooltip>
 
 <!-- Tab menu -->
 <tabmenu.voip>VOIP</tabmenu.voip>
@@ -585,6 +642,10 @@
 <xmlfileinvalid>文件 '[filepath]' 並非合法XML文件 ([errormessage])。</xmlfileinvalid>
 <openlinkinbrowserprompt>你要用網頁流覽器打開 "[link]" 嗎？</openlinkinbrowserprompt>
 <contentpackagemismatchwarninggeneric>這艘潛艇可能與當前所選的內容套件不相容。你確定要選擇這艘潛艇嗎？</contentpackagemismatchwarninggeneric>
+<bankbalanceformat>銀行: [money] mk</bankbalanceformat>
+<moneygainformat>+ [money]</moneygainformat>
+<moneyloseformat>- [money]</moneyloseformat>
+<percentageformat>[value]%</percentageformat>
 <timeformathours>[hours]小時</timeformathours>
 <timeformatminutes>[minutes]分鐘</timeformatminutes>
 <timeformatseconds>[seconds]秒</timeformatseconds>
@@ -605,21 +666,17 @@
 <message>訊息</message>
 <legacyitemformat>[name] (Legacy)</legacyitemformat>
 <moderationmenu.userdetails>細節</moderationmenu.userdetails>
+<moderationmenu.manageplayer>Manage</moderationmenu.manageplayer>
 <crushdepthwarninglow>在沒有升級船體強度或使用合適潛艇的情況下你可能無法安全通行。該航線的起始深度為[initialdepth]公尺，而你的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninglow>
 <crushdepthwarninghigh>在沒有升級船體強度或使用合適潛艇的情況下你無法選擇這條航線。該航線的起始深度為[initialdepth]公尺，但你的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninghigh>
 <navterminalicespirewarning>偵測到冰刺。建議將其摧毀或切換至手動操縱。</navterminalicespirewarning>
 <confirm>確定</confirm>
 
-<!-- Links -->
-<editordisclaimerwikiurl>https://barotraumagame.com/wiki</editordisclaimerwikiurl>
-<editordisclaimerdiscordurl>https://discordapp.com/invite/undertow</editordisclaimerdiscordurl>
-
-<!--
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-TODO: Before sending the structure texts to localization, get rid of the unnecessary/duplicate descriptions
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
--->
-
+<!-- Editor -->
+<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
+<charactereditor.crouch>Crouch</charactereditor.crouch>
+<subeditorlights>燈光</subeditorlights>
+<subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 <subeditor.shadowcastinglightswarning>潛艇上有大量投射陰影的燈光將會影響遊戲效能。你可以嘗試為這類非必要的光源關閉陰影投射: 昏暗、小範圍的定點光源，當它們的光通過門與牆壁十多半不會過於明顯；潛艇外的燈光能夠將其設定顯示在潛艇之後而不需要投射陰影。</subeditor.shadowcastinglightswarning>
 <subeditor.outpostcommonness>普遍性</subeditor.outpostcommonness>
 <subeditor.price>價格</subeditor.price>
@@ -636,6 +693,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <subeditor.toggletransparency>切換配線模式透明度</subeditor.toggletransparency>
 <subeditor.pasteassembly>貼上物件組合</subeditor.pasteassembly>
 <subeditor.snaptogrid>吸附至網格</subeditor.snaptogrid>
+<subeditor.loadconfirmbody>確定要載入[submarine]嗎？所有未保存的進度將會遺失。</subeditor.loadconfirmbody>
 <subeditorvisibilitybutton>切換可見性</subeditorvisibilitybutton>
 <subeditorvisibilitytooltip>選擇可見的物件類型。</subeditorvisibilitytooltip>
 <subeditoreditingmode>編輯模式</subeditoreditingmode>
@@ -682,6 +740,34 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <sp.item.rotation.name>Rotation</sp.item.rotation.name>
 <sp.colorcomponent.usehsv.name>Use HSV</sp.colorcomponent.usehsv.name>
 <sp.colorcomponent.usehsv.description>When enabled makes the component translate the signal from HSV into RGB where red is the hue between 0 and 360, green is the saturation between 0 and 1 and blue is the value between 0 and 1.</sp.colorcomponent.usehsv.description>
+<lightcomponent.lightcolor>Color</lightcomponent.lightcolor>
+<sp.memorycomponent.value.description>The currently stored signal the item outputs.</sp.memorycomponent.value.description>
+<sp.motionsensor.target.name>Target</sp.motionsensor.target.name>
+<sp.motionsensor.target.description>Which kind of targets can trigger the sensor?</sp.motionsensor.target.description>
+<sp.wificomponent.channel.description>WiFi components can only communicate with components that use the same channel.</sp.wificomponent.channel.description>
+<sp.arithmeticcomponent.clampmin.name>Clamp min</sp.arithmeticcomponent.clampmin.name>
+<sp.arithmeticcomponent.clampmin.description>The output of the item is restricted above this value.</sp.arithmeticcomponent.clampmin.description>
+<sp.arithmeticcomponent.clampmax.name>Clamp max</sp.arithmeticcomponent.clampmax.name>
+<sp.arithmeticcomponent.clampmax.description>The output of the item is restricted below this value.</sp.arithmeticcomponent.clampmax.description>
+<sp.concatcomponent.separator.name>Separator</sp.concatcomponent.separator.name>
+<sp.concatcomponent.separator.description>Symbol(s) to place between the input strings.</sp.concatcomponent.separator.description>
+<falseoutput>False output</falseoutput>
+<timeframe>Timeframe</timeframe>
+<timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time</timeframe.description>
+<sp.equalscomponent.output.description>The signal sent when the received inputs are equal (if empty, no signal is sent).</sp.equalscomponent.output.description>
+<sp.equalscomponent.falseoutput.description>The signal sent when the received inputs are not equal (if empty, no signal is sent).</sp.equalscomponent.falseoutput.description>
+<sp.exponentiationcomponent.exponent.name>Exponent</sp.exponentiationcomponent.exponent.name>
+<sp.exponentiationcomponent.exponent.description>The exponent of the operation.</sp.exponentiationcomponent.exponent.description>
+<sp.modulocomponent.modulus.name>Modulus</sp.modulocomponent.modulus.name>
+<sp.modulocomponent.modulus.description>The modulus of the operation. Must be non-zero.</sp.modulocomponent.modulus.description>
+<sp.regexfindcomponent.modulus.name>Modulus</sp.regexfindcomponent.modulus.name>
+<sp.regexfindcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the regular expression.</sp.regexfindcomponent.falseoutput.description>
+<continuousoutput.description>Should the component keep sending the output even after it stops receiving a signal, or only send an output when it receives a signal.</continuousoutput.description>
+<sp.regexfindcomponent.expression.description>The regular expression used to check the incoming signals.</sp.regexfindcomponent.expression.description>
+<sp.smokedetector.output.description>The signal the item outputs when it has detected a fire.</sp.smokedetector.output.description>
+<sp.smokedetector.falseoutput.description>The signal the item outputs when it has not detected a fire.</sp.smokedetector.falseoutput.description>
+<sp.trigonometricfunctioncomponent.useradians.name>Use radians</sp.trigonometricfunctioncomponent.useradians.name>
+<sp.trigonometricfunctioncomponent.useradians.description>If set to true, the trigonometric function uses radians instead of degrees.</sp.trigonometricfunctioncomponent.useradians.description>
 <editor.undohistorybutton>歷史</editor.undohistorybutton>
 <undo.beginning>Beginning</undo.beginning>
 <undo.beginningtooltip>回復歷史的最開頭。</undo.beginningtooltip>
@@ -741,6 +827,8 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <ballastflora>壓載艙植物群</ballastflora>
 <character.crawlerbroodmother>爬行者巢母</character.crawlerbroodmother>
 <character.spineling_giant>巨型脊刺</character.spineling_giant>
+<character.Hammerhead_mNamed>悲傷Jack</character.Hammerhead_mNamed>
+<character.Latcher>捕鉤獸</character.Latcher>
 
 <!-- Customization -->
 <clicktoselectjob>點擊選擇職業</clicktoselectjob>
@@ -806,6 +894,9 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <campaignoption.enablehardcore.tooltip>一個對專業水手的挑戰，難度提升，角色獲得的經驗值增加，但任何角色進度將在其死亡後遺失。</campaignoption.enablehardcore.tooltip>
 <radiationtooltip>致命輻射量\n這個區域的木星輻射已經到達足以致命的等級，強烈建議不要在該地區內移動。</radiationtooltip>
 <nomissionprompt>有可用的任務但並未選擇，你確定要不接受任務就離開嗎？</nomissionprompt>
+<storename.merchantarmory>軍火</storename.merchantarmory>
+<storename.merchantmedical>醫療用品</storename.merchantmedical>
+<storename.merchantengineering>工程用品</storename.merchantengineering>
 <campaignstore.sellvaluetooltip>當商人向你購買物品時他們的開價總會低於你購買它們的價錢，物品的價格會進一步受到商人們持有的資金與你在該哨站的聲望影響，也會受到一小部分商人心情的影響。</campaignstore.sellvaluetooltip>
 <campaignmoney>存款: [money] mk</campaignmoney>
 <customization.skincolor>皮膚顏色</customization.skincolor>
@@ -841,6 +932,21 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <medicalclinic.healrefused>由於哨站正有事故發生，站上的醫務人員忙得無法幫助你的船員。</medicalclinic.healrefused>
 <sortingmethod.severity>嚴重程度</sortingmethod.severity>
 <medicalclinic.pendingheals>待處理的治療</medicalclinic.pendingheals>
+<crewwallet.wallet>錢包</crewwallet.wallet>
+<crewwallet.bank>銀行</crewwallet.bank>
+<crewwallet.transfer>轉帳</crewwallet.transfer>
+<crewwallet.balance.toomuchtoshow>很多！</crewwallet.balance.toomuchtoshow>
+<crewwallet.transfer.tooltip>將資金轉入或轉出這個錢包。</crewwallet.transfer.tooltip>  <!-- grammar? -->
+<crewwallet.salary>薪水</crewwallet.salary>
+<crewwallet.salary.tooltip>薪水用來決定任務獎勵該如何分配。</crewwallet.salary.tooltip> <!-- more descriptive tooltip? -->
+<crewwallet.salary.over100toolitp>分配率總和超過100% (‖color:gui.orange‖[sum]%‖end‖)，將調整其至‖color:gui.orange‖[newvalue]%‖end‖。</crewwallet.salary.over100toolitp>
+<crewwallet.missionreward.get>你獲得了: ‖color:gui.orange‖[money] mk‖end‖ ([share]%)</crewwallet.missionreward.get>
+<crewwallet.requestmoney>請求</crewwallet.requestmoney>
+<crewwallet.requestbanktoselfvote>[requester]想自銀行轉出[amount] mk至他們的個人錢包。</crewwallet.requestbanktoselfvote>
+<crewwallet.requestselftobankvote>[requester]想從他們的錢包轉入[amount] mk至銀行。</crewwallet.requestselftobankvote>
+<crewwallet.requesttransfervote>[requester]想要將[amount] mk自[player1]轉移給[player2]。</crewwallet.requesttransfervote>  
+<crewwallet.banktoplayer.votepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votepassed>
+<crewwallet.banktoplayer.votefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votefailed>
 
 <!-- In-game menus -->
 <credit>馬克</credit>
@@ -1107,7 +1213,6 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <servertagdescription.karma.true>已啟用卡瑪系統。</servertagdescription.karma.true>
 <servertagdescription.karma.false>已停用卡瑪系統。</servertagdescription.karma.false>
 <servertagdescription.traitors.true>叛徒已在這個伺服器啟用。</servertagdescription.traitors.true>
-<servertag.traitor.false>叛徒已停用</servertag.traitor.false>
 <servertagdescription.traitors.false>叛徒已在這個伺服器停用。</servertagdescription.traitors.false>
 <servertag.friendlyfire.label>隊友傷害</servertag.friendlyfire.label>
 <servertag.friendlyfire.true>開啟</servertag.friendlyfire.true>
@@ -1119,7 +1224,17 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <servertag.karma.true>啟用</servertag.karma.true>
 <servertag.karma.false>停用</servertag.karma.false>
 <servertag.traitors.label>叛徒</servertag.traitors.label>
+<servertag.traitors.true>啟用</servertag.traitors.true>
+<servertag.traitors.false>停用</servertag.traitors.false>
 <servertag.modded.label>Mods</servertag.modded.label>
+<servertag.friendlyfire.true>開啟</servertag.friendlyfire.true>
+<servertag.friendlyfire.false>關閉</servertag.friendlyfire.false>
+<servertag.voip.true>啟用</servertag.voip.true>
+<servertag.voip.false>停用</servertag.voip.false>
+<servertag.karma.true>啟用</servertag.karma.true>
+<servertag.karma.false>停用</servertag.karma.false>
+<servertag.traitors.true>啟用</servertag.traitors.true>
+<servertag.traitors.false>停用</servertag.traitors.false>
 <friendplayingbarotrauma>正在玩潛淵症</friendplayingbarotrauma>
 <friendplayinganothergame>正在玩其他遊戲</friendplayinganothergame>
 <friendnotplaying>不在遊戲中</friendnotplaying>
@@ -1149,6 +1264,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <clicktowriteservermessage>點選以輸入一段伺服器訊息</clicktowriteservermessage>
 <teampreference>組別偏好: [team]</teampreference>
 <jobpreference>職業偏好: [job]</jobpreference>
+<campaigndifficultydisabled>無法於戰役模式中調整遊戲難度，戰役模式使用了預先設計好的難度曲線。</campaigndifficultydisabled>
 
 <!-- Server log -->
 <serverlog.filter>篩選</serverlog.filter>
@@ -1163,6 +1279,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <serverlog.wiring>配線</serverlog.wiring>
 <serverlog.karma>卡瑪</serverlog.karma>
 <serverlog.talent>天賦</serverlog.talent>
+<serverlog.money>資金轉移</serverlog.money>
 
 <!-- Server chat messages -->
 <servermessage.reason>原因</servermessage.reason>
@@ -1207,11 +1324,21 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <clientpermission.manageround>Manage round</clientpermission.manageround>
 <clientpermission.managesettings>Manage settings</clientpermission.managesettings>
 <clientpermission.managepermissions>Manage permissions</clientpermission.managepermissions>
-<clientpermission.karmaimmunity>Karma immunity</clientpermission.karmaimmunity>
 <clientpermission.buyitems>Buy items</clientpermission.buyitems>
-<clientpermission.sellinventoryitems>Sell inventory items</clientpermission.sellinventoryitems>
-<clientpermission.sellsubitems>Sell submarine items</clientpermission.sellsubitems>
 <clientpermission.campaignstore>Campaign store</clientpermission.campaignstore>
+<clientpermission.managecampaign.description>允許調整戰役的所有參數 (存檔、載入存檔、地圖、買賣物品、金錢、招募)。</clientpermission.managecampaign.description>
+<clientpermission.karmaimmunity>Karma immunity</clientpermission.karmaimmunity>
+<clientpermission.karmaimmunity.description>不受卡瑪系統約束。</clientpermission.karmaimmunity.description>  
+<clientpermission.sellinventoryitems>Sell inventory items</clientpermission.sellinventoryitems>
+<clientpermission.sellinventoryitems.description>在戰役商店中出售自己物品欄中的物品。</clientpermission.sellinventoryitems.description>  
+<clientpermission.sellsubitems>Sell submarine items</clientpermission.sellsubitems>
+<clientpermission.sellsubitems.description>在戰役商店中出售潛艇上的物品。</clientpermission.sellsubitems.description>
+<clientpermission.managemap>Manage map</clientpermission.managemap>
+<clientpermission.managemap.description>在戰役模式中選擇目的地與任務。</clientpermission.managemap.description>
+<clientpermission.managemoney>Manage money</clientpermission.managemoney>
+<clientpermission.managemap.description>在戰役模式中管理銀行中的共同資金與分配船員的任務獎勵。</clientpermission.managemap.description>  
+<clientpermission.managehires>Manage hires</clientpermission.managehires>
+<clientpermission.managehires.description>招募或解雇隊伍中的船員。</clientpermission.managehires.description>
 
 <!-- Permission presets -->
 <permissionpresetname.admin>Admin</permissionpresetname.admin>
@@ -1351,6 +1478,12 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <missiondescriptionneutral.pvpmission>[location1]派出了一艘聯盟艦艇以摧毀位於[location2]邊界的反叛者船艦。</missiondescriptionneutral.pvpmission>
 <missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪 － 以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
 <missiondescription2.pvpmission>你是木星分離主義份子，一個反聯盟組織的一員。根據來自[location1]的線報，一艘聯盟船艦已經被派出將你的艦艇擊沉，以任何必要的手段消滅對方。</missiondescription2.pvpmission>
+<missionname.killhammerhead>獵殺錘頭煞</missionname.killhammerhead>
+<missiondescription.killhammerhead>一群特別凶猛的錘頭煞不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將其獵殺的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killhammerhead>
+<missionsonarlabel.killhammerhead>錘頭煞群</missionsonarlabel.killhammerhead>
+<missionsuccess.killhammerhead>錘頭煞已被殲滅。</missionsuccess.killhammerhead>
+<missionheader0.killhammerhead>已殲滅目標</missionheader0.killhammerhead>
+<missionmessage0.killhammerhead>錘頭煞已被殲滅，離開這裡以領取獎勵。</missionmessage0.killhammerhead>
 <missionname.killmatriarch1>具侵略性的錘頭煞</missionname.killmatriarch1>
 <missiondescription.killmatriarch1>根據我們的資訊，[location1]至[location2]的航線被一群錘頭煞中斷，殲滅那些生物好讓我們的船艦能繼續安全地使用該航線。</missiondescription.killmatriarch1>
 <missionsonarlabel.killmatriarch1>錘頭煞</missionsonarlabel.killmatriarch1>
@@ -1595,6 +1728,12 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <missionmessage0.pirate1>打倒海盜或讓他們的潛艇沉入深海！</missionmessage0.pirate1>
 <missionheader1.pirate1>已殲滅海盜</missionheader1.pirate1>
 <missionmessage1.pirate1>駕駛潛艇至[location2]以領取你的獎勵。</missionmessage1.pirate1>
+<missionname.killmopingjack>殺死悲傷Jack</missionname.killmopingjack>
+<missiondescription.killmopingjack>豬鼻Huber船長招募了你幫助他對付他的死對頭，悲傷Jack，一隻錘頭煞。</missiondescription.killmopingjack>
+<missionsonarlabel.killmopingjack>悲傷Jack</missionsonarlabel.killmopingjack>
+<missionsuccess.killmopingjack>悲傷Jack已被殲滅。</missionsuccess.killmopingjack>
+<missionheader0.killmopingjack>已殲滅目標</missionheader0.killmopingjack>
+<missionmessage0.killmopingjack>悲傷Jack已被殲滅。再來只需要領取獎勵。</missionmessage0.killmopingjack>
 
 <!-- Mission subcategories -->
 <subcategory>子類別</subcategory>
@@ -1603,6 +1742,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <subcategory.abandoned>廢棄哨站</subcategory.abandoned>
 <subcategory.abandonedhuman>廢棄哨站 (人類)</subcategory.abandonedhuman>
 <subcategory.abandonedmonster>廢棄哨站 (怪物)</subcategory.abandonedmonster>
+<subcategory.exteriorsubwalls>潛艇外牆</subcategory.exteriorsubwalls>
+<subcategory.exteriorshuttle>小艇外部配件</subcategory.exteriorshuttle>
+<subcategory.labels>標誌</subcategory.labels>
+<subcategory.backgroundwall>背景牆</subcategory.backgroundwall>
 
 <!-- Mission misc -->
 <missionteam1.pvpmission>聯盟</missionteam1.pvpmission>
@@ -1642,6 +1785,11 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <mapentitycategory.wall>牆</mapentitycategory.wall>
 <mapentitycategory.wrecked>殘骸</mapentitycategory.wrecked>
 <mapentitycategory.thalamus>丘腦</mapentitycategory.thalamus>
+<mapentitycategory.medical>醫療</mapentitycategory.medical>
+<mapentitycategory.weapon>武器</mapentitycategory.weapon>
+<mapentitycategory.diving>潛水</mapentitycategory.diving>
+<mapentitycategory.fuel>燃料</mapentitycategory.fuel>
+<ItemAssemblies>物件組合</ItemAssemblies>
 
 <!-- Display names -->
 <displayname.oxygentankempty>氧氣罐 (空)</displayname.oxygentankempty>
@@ -2000,6 +2148,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entityname.piratehelmet>海盜頭盔</entityname.piratehelmet>
 <entitydescription.piratehelmet>一頂由海盜改造過的頭盔，儘管做工粗糙，這頂頭盔意外的堅固。</entitydescription.piratehelmet>
 <entityname.piratebodyarmor>海盜護甲</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>一套護甲，部分由海盜們手工加工改造。它比看起來的還要重。</entitydescription.piratebodyarmor>
 <entityname.pressurestabilizer>壓力穩定劑</entityname.pressurestabilizer>
 <entitydescription.pressurestabilizer>一種可讓使用者對壓力產生免疫，並在短時間內消除對氧氣的需求的特殊藥物。</entitydescription.pressurestabilizer>
 <entityname.endocrinebooster>內分泌促進劑</entityname.endocrinebooster>
@@ -2122,7 +2271,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entityname.piratebandana>海盜面罩</entityname.piratebandana>
 <entityname.pirateclothes>海盜服裝</entityname.pirateclothes>
 <entitydescription.pirateclothes>由海盜手工製作的粗糙衣物，它的設計能夠抵禦歐羅巴海中的嚴峻生活，這件衣物上還另外配備了輕型護甲。</entitydescription.pirateclothes>
-
+<entityname.energydrink>能量飲料</entityname.energydrink>
+<entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
+<entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
+<entitydescription.proteinbar>可能含有微量的方鉛礦物質。</entitydescription.proteinbar>
 <!-- Electrical -->
 <entityname.junctionbox>配電箱</entityname.junctionbox>
 <entitydescription.junctionbox>用於分配設備之間的電源與作為訊號中繼點的集線器。</entitydescription.junctionbox>
@@ -2205,6 +2357,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entityname.brownwire>棕色電線</entityname.brownwire>
 <entitydescription.brownwire>將一項設備的output連接到另一項設備的input。</entitydescription.brownwire>
 <entityname.lightcomponent>燈光元件</entityname.lightcomponent>
+<lightcomponent.lightcolor>Color</lightcomponent.lightcolor>
 <entitydescription.lightcomponent>通用光源，不需要輸入電源。</entitydescription.lightcomponent>
 <entityname.emergencysiren>緊急警報器</entityname.emergencysiren>
 <entitydescription.emergencysiren>能在觸發時發出可怕的噪音。</entitydescription.emergencysiren>
@@ -2617,6 +2770,8 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entitydescription.scrap>一堆或許有材料。</entitydescription.scrap>
 <entityname.spinelingspike>脊刺的刺</entityname.spinelingspike>
 <entitydescription.spinelingspike>一根曾經屬於某隻脊刺的尖銳骨頭。</entitydescription.spinelingspike>
+<entityname.toothspike>捕鉤獸的牙齒</entityname.toothspike>
+<entityname.tonguetendon>捕鉤獸的舌頭</entityname.tonguetendon>
 <entityname.piezocrystal>壓電晶體</entityname.piezocrystal>
 <entityname.crawleregg>爬行者卵</entityname.crawleregg>
 <entityname.mediccrate>醫療物品箱子</entityname.mediccrate>
@@ -2637,7 +2792,55 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <entityname.piratesubdeco>Pirate Submarine Decoration</entityname.piratesubdeco>
 <entityname.unitloaddevice>單位裝載器</entityname.unitloaddevice>
 <entitydescription.unitloaddevice>一個能夠容納許多箱子的容器。</entitydescription.unitloaddevice>
-
+<entityname.streetlight>街燈</entityname.streetlight>
+<entityname.neonlighta>Neon Light A</entityname.neonlighta>
+<entityname.neonlightb>Neon Light B</entityname.neonlightb>
+<entityname.neonlightc>Neon Light C</entityname.neonlightc>
+<entityname.neonlightd>Neon Light D</entityname.neonlightd>
+<entityname.neonlighte>Neon Light E</entityname.neonlighte>
+<entityname.neonlightf>Neon Light F</entityname.neonlightf>
+<entityname.neonlightg>Neon Light G</entityname.neonlightg>
+<entityname.neonlighth>Neon Light H</entityname.neonlighth>
+<entityname.neonlighti>Neon Light I</entityname.neonlighti>
+<entityname.neonlightj>Neon Light J</entityname.neonlightj>
+<entityname.neonlightk>Neon Light K</entityname.neonlightk>
+<entityname.neonlightl>Neon Light L</entityname.neonlightl>
+<entityname.neonlightm>Neon Light M</entityname.neonlightm>
+<entityname.neonlightn>Neon Light N</entityname.neonlightn>
+<entityname.neonlighto>Neon Light O</entityname.neonlighto>
+<entityname.neonlightp>Neon Light P</entityname.neonlightp>
+<entityname.neonlightq>Neon Light Q</entityname.neonlightq>
+<entityname.neonlightr>Neon Light R</entityname.neonlightr>
+<entityname.neonlights>Neon Light S</entityname.neonlights>
+<entityname.neonlightt>Neon Light T</entityname.neonlightt>
+<entityname.neonlightu>Neon Light U</entityname.neonlightu>
+<entityname.neonlightv>Neon Light V</entityname.neonlightv>
+<entityname.neonlightw>Neon Light W</entityname.neonlightw>
+<entityname.neonlightx>Neon Light X</entityname.neonlightx>
+<entityname.neonlighty>Neon Light Y</entityname.neonlighty>
+<entityname.neonlightz>Neon Light Z</entityname.neonlightz>
+<entityname.neonlight0>Neon Light 0</entityname.neonlight0>
+<entityname.neonlight1>Neon Light 1</entityname.neonlight1>
+<entityname.neonlight2>Neon Light 2</entityname.neonlight2>
+<entityname.neonlight3>Neon Light 3</entityname.neonlight3>
+<entityname.neonlight4>Neon Light 4</entityname.neonlight4>
+<entityname.neonlight5>Neon Light 5</entityname.neonlight5>
+<entityname.neonlight6>Neon Light 6</entityname.neonlight6>
+<entityname.neonlight7>Neon Light 7</entityname.neonlight7>
+<entityname.neonlight8>Neon Light 8</entityname.neonlight8>
+<entityname.neonlight9>Neon Light 9</entityname.neonlight9>
+<entityname.neonlightplanet>Neon Light Planet</entityname.neonlightplanet>
+<entityname.neonlightkiss>Neon Light Kiss</entityname.neonlightkiss>
+<entityname.neonlightarrow>Neon Light Arrow</entityname.neonlightarrow>
+<entityname.neonlightgarden>Neon Light Garden</entityname.neonlightgarden>
+<entityname.neonlightgear>Neon Light Gear</entityname.neonlightgear>
+<entityname.neonlightsubmarine>Neon Light Submarine</entityname.neonlightsubmarine>
+<entityname.neonlightfood>Neon Light Food</entityname.neonlightfood>
+<entityname.neonlightframe>Neon Light Frame</entityname.neonlightframe>
+<entityname.neonlightwire1>Neon Light Wire 1</entityname.neonlightwire1>
+<entityname.neonlightwire2>Neon Light Wire 2</entityname.neonlightwire2>
+<entityname.neonlightwire3>Neon Light Wire 3</entityname.neonlightwire3>
+<entityname.neonlightwire4>Neon Light Wire 4</entityname.neonlightwire4>
 <!-- Alien -->
 <entityname.skyholderartifact>天空異星文物</entityname.skyholderartifact>
 <entitydescription.skyholderartifact>在異星遺跡中被發現過的造物。</entitydescription.skyholderartifact>
@@ -2900,6 +3103,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <label.dorsalturretcontrol>船背砲塔控制</label.dorsalturretcontrol>
 <label.rearturretcontrol>後方砲塔控制</label.rearturretcontrol>
 <label.frontturretcontrol>前方砲塔控制</label.frontturretcontrol>
+<label.researchfacility>研究設施</label.researchfacility>
+<label.admin>行政辦公室</label.admin>
+<label.hr>人力資源部</label.hr>
+<label.store>雜貨店</label.store>
 
 <!-- Submarine description -->
 <dimensions>尺寸</dimensions>
@@ -3011,6 +3218,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <fabricatorsufficientskills>技能足以製作</fabricatorsufficientskills>
 <fabricator.input>Input</fabricator.input>
 <fabricatorrequiresrecipe>需要學習製作方法</fabricatorrequiresrecipe>
+<vendingmachine.outofstock>已售完</vendingmachine.outofstock>
 <uilabel.input>Input</uilabel.input>
 <uilabel.output>Output</uilabel.output>
 <deconstructornopower>電力不足</deconstructornopower>
@@ -3136,20 +3344,6 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <repairallwalls>修復全部船體</repairallwalls>
 <repairallitems>修復全部設備</repairallitems>
 
-<!-- Traitors -->
-<newtraitor>新叛徒</newtraitor>
-<traitorstartmessage>你扮演一名叛徒！你的祕密任務是暗殺[targetname]！保持低調是最重要的；可以的話，讓一切看起來像場意外，弄沉潛艇與殺害所有船員會引起艦隊的懷疑。</traitorstartmessage>
-<traitormoreagentsmessage>這艘潛艇上或許還有其他刺客，你不知道他們是誰，但你有與他們溝通的辦法: 以暗號問候與回應他們，將這些詞句混入日常的談吐之間不讓其他船員起疑。\n\n暗號是: [codewords]。\n對應的回應則是: [coderesponse]。</traitormoreagentsmessage>
-<traitorstartmessageserver>[traitorname]是名叛徒，他的目標是[targetname]。</traitorstartmessageserver>
-<traitorendmessagesuccess>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，任務已被完成。</traitorendmessagesuccess>
-<traitorendmessagesuccesstraitordead>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，任務已被完成，但叛徒也失去了生命。</traitorendmessagesuccesstraitordead>
-<traitorendmessagesuccesstraitordetained>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，任務已被完成，但叛徒被成功逮捕了。</traitorendmessagesuccesstraitordetained>
-<traitorendmessagefailure>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，任務失敗。</traitorendmessagefailure>
-<traitorendmessagefailuretraitordead>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，但[genderpronoun]在完成[genderpronounreflexive]的任務之前被自己弄死了。</traitorendmessagefailuretraitordead>
-<traitorendmessagefailuretraitordetained>[traitorname]是名叛徒！[Genderpronounpossessive]的任務是暗殺[targetname]，任務失敗 － [genderpronoun]被成功逮捕了。</traitorendmessagefailuretraitordetained>
-<traitorrespawnmessage>你的叛徒任務失敗了。你不再是叛徒了，當個好人!</traitorrespawnmessage>
-<traitortargetmessage>[traitorname]的秘密任務是將你暗殺 － 任務已被完成。</traitortargetmessage>
-
 <!-- Causes of death -->
 <causeofdeath>死因</causeofdeath>
 <causeofdeath.damage>受傷</causeofdeath.damage>
@@ -3263,7 +3457,8 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <dialogrequiredtreatmentoptionslast>[treatment1]或[treatment2]</dialogrequiredtreatmentoptionslast>
 <dialogtargethealed>[targetname]康復了！</dialogtargethealed>
 <dialogtargethealed>[targetname]沒事了！</dialogtargethealed>
-<dialogtargethealed>[targetname]復活了！</dialogtargethealed>
+<dialogtargetresuscitated>[targetname]已被救起！</dialogtargetresuscitated>
+<dialogtargetresuscitated>[targetname]又重新站起來了！</dialogtargetresuscitated>
 <dialogcannotrepair>無法維修[itemname]！</dialogcannotrepair>
 <dialogenemydown>擊落敵人！</dialogenemydown>
 <dialogenemydown>又淘汰了一個。</dialogenemydown>
@@ -3434,6 +3629,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <dialogoutofpulselaserammo>我們沒有脈衝雷射燃料了。</dialogoutofpulselaserammo>
 <dialoglowonchaingunammo>鏈式機槍彈藥快沒了！以斷續方式開火！</dialoglowonchaingunammo>
 <dialoglowonpulselaserammo>船上沒剩多少脈衝雷射燃料了。</dialoglowonpulselaserammo>
+<dialoghuskdormant>我的喉嚨有點痛。</dialoghuskdormant>
+<dialoghuskdormant>我覺得我大概發燒了。</dialoghuskdormant>
+<dialoghuskdormant>我覺得身體很虛弱，每一塊肌肉都在痛。</dialoghuskdormant>  
+<dialoghuskcantspeak>有什麼東西在我嘴裡... *咳咳*</dialoghuskcantspeak>
 
 <!-- Character orders -->
 <orderdialog.follow>[name]，跟著我！</orderdialog.follow>
@@ -3860,6 +4059,10 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <afflictiondescription.concussion>患者似乎迷失方向且雙眼無法對焦。</afflictiondescription.concussion>
 <afflictionname.concussion>腦震盪</afflictionname.concussion>
 <afflictiondescription.concussion>患者似乎迷失方向且雙眼無法對焦。</afflictiondescription.concussion>
+<afflictionname.disguised>已偽裝</afflictionname.disguised>
+<afflictiondescription.disguised>只要你遮好你的臉，其他人大概會認不出你是誰...</afflictiondescription.disguised>
+<afflictiondescription.hallucinating>你的感覺變得有些奇怪。</afflictiondescription.hallucinating>
+<afflictiontype.damage>傷害</afflictiontype.damage>
 
 <!-- Buffs -->
 <afflictionname.durationincrease>減緩代謝</afflictionname.durationincrease>
@@ -4551,13 +4754,35 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <connection.currentvelocityy>current_velocity_y</connection.currentvelocityy>
 <connection.currentpositionx>current_position_x</connection.currentpositionx>
 <connection.currentpositiony>current_position_y</connection.currentpositiony>
+<connection.setdistancebasedforce>set_distancebasedforce</connection.setdistancebasedforce>
+<connection.setforcefluctuation>set_forcefluctuation</connection.setforcefluctuation>
+<connection.setforcefluctuationstrength>set_forcefluctuationstrength</connection.setforcefluctuationstrength>
+<connection.setforcefluctuationfrequency>set_forcefluctuationfrequency</connection.setforcefluctuationfrequency>
+<connection.setforcefluctuationinterval>set_forcefluctuationinterval</connection.setforcefluctuationinterval>
+<connection.loadvalueout>load_value_out</connection.loadvalueout>
+<connection.powervalueout>power_value_out</connection.powervalueout>
+<connection.low_oxygen>low_oxygen</connection.low_oxygen>
+<connection.loadvalueout>load_value_out</connection.loadvalueout>
+<connection.powervalueout>power_value_out</connection.powervalueout>
 
 <!-- Traitor system -->
 <traitormissionstartmessage>你是一名叛徒！你成功地潛入了潛艇，該是你動身執行任務的時候了。</traitormissionstartmessage>
 <traitormissionfailuremessage>你的任務失敗了，現在任務取消，你成為了船員的一份子。放低身段直到你再一次收到任務指示。</traitormissionfailuremessage>
 <traitormissionsuccessmessage>你成功地破壞了船員們的努力。已經為你派出了逃生小艇。</traitormissionsuccessmessage>
+<traitorendmessagesuccess>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成。</traitorendmessagesuccess>
+<traitorendmessagesuccesstraitordead>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成，但叛徒也失去了生命。</traitorendmessagesuccesstraitordead>
+<traitorendmessagesuccesstraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成，但叛徒被成功逮捕了。</traitorendmessagesuccesstraitordetained>
+<traitorendmessagefailure>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗。</traitorendmessagefailure>
+<traitorendmessagefailuretraitordead>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，但[PronounLowercase]在完成[PronounReflexiveLowercase]的任務之前失去了生命。</traitorendmessagefailuretraitordead>
+<traitorendmessagefailuretraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗 － [PronounLowercase]被成功逮捕了。</traitorendmessagefailuretraitordetained>
 <sabotagebutton>破壞</sabotagebutton>
 <sabotaging>正在破壞</sabotaging>
+<newtraitor>新叛徒</newtraitor>
+<traitorstartmessage>你扮演一名叛徒！你的祕密任務是暗殺[targetname]！保持低調是最重要的；可以的話，讓一切看起來像場意外，弄沉潛艇與殺害所有船員會引起艦隊的懷疑。</traitorstartmessage>
+<traitormoreagentsmessage>這艘潛艇上或許還有其他刺客，你不知道他們是誰，但你有與他們溝通的辦法: 以暗號問候與回應他們，將這些詞句混入日常的談吐之間不讓其他船員起疑。\n\n暗號是: [codewords]。\n對應的回應則是: [coderesponse]。</traitormoreagentsmessage>
+<traitorstartmessageserver>[traitorname]是名叛徒，他的目標是[targetname]。</traitorstartmessageserver>
+<traitorrespawnmessage>你的叛徒任務失敗了。你不再是叛徒了，當個好人!</traitorrespawnmessage>
+<traitortargetmessage>[traitorname]的秘密任務是將你暗殺 － 任務已被完成。</traitortargetmessage>
 
 <!-- Traitor objectives -->
 <traitorobjectivestartmessage>你有一項新任務，你的任務目標是:\n[traitorgoalinfos]</traitorobjectivestartmessage>
@@ -5391,6 +5616,107 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <eventtext.atwitsend.o1.o2.c1>“喔，至少我勇於嘗試，對吧？”</eventtext.atwitsend.o1.o2.c1>
 <eventtext.atwitsend.o2>“呃，走開、流浪漢。”</eventtext.atwitsend.o2>
 <eventtext.atwitsend.o2.c1>“去你的！”</eventtext.atwitsend.o2.c1>
+<EventText.captivesouls.c1>一位路過的科學家抓住了你的手，“它活了！誰會想到它能活過來？”對方的眼睛睜得大大的，眼底的眼袋大到令人印象深刻。</EventText.captivesouls.c1>
+<EventText.captivesouls.o1>“你在說什麼？”</EventText.captivesouls.o1>
+<EventText.captivesouls.o1.c1>“我太專注於挑戰自己，但我沒有意識到我該不該這麼做。”對方來回踱步，每句話都對著不同的路人說著。當他發現沒有人把注意力放在他身上時，他把注意力放回你的身上。</EventText.captivesouls.o1.c1>
+<EventText.captivesouls.o1.o1.c1>“你沒在聽我說話嗎？”那個歇斯底里的研究人員吼道，口水噴在你的臉上。“一個人類和爬行者的混血種！哦，它太美了！不！醜死了！”他坐了下來，盤腿坐在地板上，“科學界將會怎麼看我？一位創造者？還是破壞者？”他自顧自地擺了擺姿勢，“還是...神？”</EventText.captivesouls.o1.o1.c1>
+<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家 － 他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈 － 你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
+<EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的心想要一探究竟。也許你能到實驗室確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.c1>一隻爬行者一動也不動地坐在水槽裡。</EventText.captivesouls.c1.c1>
+<EventText.captivesouls.c1.o1>靠近。</EventText.captivesouls.c1.o1>
+<EventText.captivesouls.c1.o1.c1>牠似乎被注射了大量的鎮靜劑。這並不稀奇，研究人員會捕捉活體標本進行研究是眾所皆知。科學家從爬行者身上獲得了許多的科學資料和突破: 醫學、消化學、心理學 － 等等，牠剛剛...是眨眼了嗎？</EventText.captivesouls.c1.o1.c1>
+<EventText.captivesouls.c1.o1.o1>敲敲玻璃。</EventText.captivesouls.c1.o1.o1>
+<EventText.captivesouls.c1.o1.o1.c1>你敲了玻璃三下，這個生物睜開了牠的眼睛，牠湛藍的雙眼盯著你。牠眨了眨眼，一下，兩下...你不禁覺得這個生物在試圖和你交流。</EventText.captivesouls.c1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1>牠在說什麼？</EventText.captivesouls.c1.o1.o1.o1>
+<EventText.captivesouls.c1.o1.o1.o1.c1>“讓我自由。” (你不應該這麼做。)</EventText.captivesouls.c1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1>沒錯，我是不應該這麼做，不過...</EventText.captivesouls.c1.o1.o1.o1.o1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.c1>牠畢竟是一個活生生的生物。為什麼不應該給予牠自由？</EventText.captivesouls.c1.o1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1>砸碎玻璃。</EventText.captivesouls.c1.o1.o1.o1.o1.o1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.c1>你向它砸了又砸，玻璃上終於出現了一道裂縫。那個生物在水槽破了之後和水一起湧了出來。牠把頭轉向你並點了點頭，然後溜進一個通風口，消失在你地視線中。真怪，牠剛剛是在感謝你的幫助，又或者那只是一個毫無意義的動作？</EventText.captivesouls.c1.o1.o1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.c1>在空蕩蕩的破水槽裡，一絲光亮吸引了你的目光。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1>查看。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1.c1>在碎片中，有一個刻著異星圖樣的小飾品，你拿了就走。最好快點開溜，免得被人撞見問東問西。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2>沒時間了。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2.c1>是時候在有人發現之前離開。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o2>不要。最後警告。</EventText.captivesouls.c1.o1.o1.o1.o1.o2>
+<EventText.captivesouls.c1.o1.o1.o1.o1.o2.c1>你決定讓這個生物留在水槽裡。</EventText.captivesouls.c1.o1.o1.o1.o1.o2.c1>
+<EventText.captivesouls.c1.o1.o2>離開。</EventText.captivesouls.c1.o1.o2>
+<EventText.captivesouls.c1.o2>不要靠近。</EventText.captivesouls.c1.o2>
+<EventText.explosivemishap.c1>一扇關上的門後傳來了聲音，“...所以我只要按著按鈕？”</EventText.explosivemishap.c1>
+<EventText.explosivemishap.o1>靠著門聽。</EventText.explosivemishap.o1>
+<EventText.explosivemishap.o1.c1>一個低沉的嗡嗡聲迴盪在空間裡，聽起來像台老舊吸塵器。“基本上是，但你最好注意不要讓它過熱。”</EventText.explosivemishap.o1.c1>
+<EventText.explosivemishap.o1.o1.c1>“過熱？”嗡嗡聲愈來愈大聲，音調也愈來愈高。.</EventText.explosivemishap.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1>繼續靠在門上聽。</EventText.explosivemishap.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.c1>那扇門被從它的絞鍊上轟了下來，你則被壓倒在地上。.</EventText.explosivemishap.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.o1>往裡面看。</EventText.explosivemishap.o1.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.o1.c1>那間實驗室裡看起來像被炸彈炸過一樣，昂貴的儀器散落在地板上，曾經潔白的牆上現在佈滿了深紅色與腦袋碎屑。兩具冒著煙的屍體躺在地上，地上冒著煙的還有某種像是異星裝置之類的東西。附近有人正在呼叫守衛。</EventText.explosivemishap.o1.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1>在守衛抵達之前查看那項裝置。</EventText.explosivemishap.o1.o1.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.c1>那項裝置由沉重的深色金屬質感的材料製成。它有一個把手讓你能握好它，在你的食指下有一個按鈕。</EventText.explosivemishap.o1.o1.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1>扣下板機。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.c1>什麼也沒發生。如果這裡的慘狀確實是這個東西引起的，它現在大概用光了它的能量。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1>在實驗室裡找找其他有用的東西。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c1>你找到了一顆小小的膠囊形狀的東西，它能被輕鬆地裝進裝置底部。你聽到腳步聲逼近，如果你想拿走這個裝置，是時候離開這裡了。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o1>溜走。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2>將它交給官方人員。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2.c1>守衛開心地接過你手上的危險狀裝置。They promise to put in a good word for you in the office.</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c2>你什麼都沒找到。你決定在守衛抵達這裡之前帶著裝置離開。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c2>
+<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o2>溜走。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o2>
+<EventText.explosivemishap.o1.o1.o1.o1.o2>離開。</EventText.explosivemishap.o1.o1.o1.o1.o2>
+<EventText.occupationalhazards.c1>一個戴著安全帽的男人正在喝著飲料。</EventText.occupationalhazards.c1>
+<EventText.occupationalhazards.o1>加入他。</EventText.occupationalhazards.o1>
+<EventText.occupationalhazards.o1.c1>你坐在他身旁的位子上。他向你點了點頭，“來工作的？”</EventText.occupationalhazards.o1.c1>
+<EventText.occupationalhazards.o1.o1>“差不多。”</EventText.occupationalhazards.o1.o1>
+<EventText.occupationalhazards.o1.o1.c1>他笑了幾聲，“一看就知道，但你如果是想到礦坑裡去，還是算了吧。”他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1>“礦坑裡怎麼了？”</EventText.occupationalhazards.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.c1>“呃，”那位工人打了個嗝，然後繼續說: “我確定下面一個人也沒有，礦工再沒腦子也不會在繁殖季下去。”</EventText.occupationalhazards.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1>“繁殖季？”</EventText.occupationalhazards.o1.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人發出了一聲嘟噥回應你的話。“但是老闆說「挖」你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。”</EventText.occupationalhazards.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1>“你挖到什麼了？”</EventText.occupationalhazards.o1.o1.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>“蛋。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>“蛋？”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>“泥偶迅猛龍蛋。現在礦坑裡滿滿都是生氣的迅猛龍家長。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>“那，如果把牠們趕走會有獎勵嗎？”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，“當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他在也在礦坑裡，”他大聲呼喚酒保並示意再來一瓶啤酒，“他大概還有一部分還在礦坑裡。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>起身離開。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>你向他道別，讓他享受自己的寧靜。你思考著自己是否能在礦坑中找到Rudy的屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你發現了一具穿著礦工服裝的殘破屍體，名牌上寫著「Rudy」。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>檢查他的口袋。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>你找到了一些錢。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>離開屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>
+<EventText.hognose.c1>你看到一位戴著眼罩、一臉白鬍子的人坐在桌子旁。路過的人都對他投以緊張的目光。“他是豬鼻Huber，一位卓越的艦長，”某人低聲地說。</EventText.hognose.c1>
+<EventText.hognose.o1>靠近他。</EventText.hognose.o1>
+<EventText.hognose.o1.c1>當你走近，那人發出不友善的低吼。</EventText.hognose.o1.c1>
+<EventText.hognose.o1.o1>“你不太喜歡聊天、是吧？”</EventText.hognose.o1.o1>
+<EventText.hognose.o1.o1.c1>他從喉嚨深處咳出一團東西、吐在地上，“只是喉嚨不太舒服，你想怎樣？”Huber眯著眼睛看著你。</EventText.hognose.o1.o1.c1>
+<EventText.hognose.o1.o1.o1>“我只是好奇一個人怎麼會選豬鼻當綽號。”</EventText.hognose.o1.o1.o1>
+<EventText.hognose.o1.o1.o1.c1>“豬鼻是我的船。它曾經在航行在Hettol、Ihesas、Urghstead之間的航線。”他坐了起來，臉上洋溢著自豪。“我們起碼成功地完成了一百次運輸任務，藥物、軍火、潛艇零件，什麼都運過。”</EventText.hognose.o1.o1.o1.c1>
+<EventText.hognose.o1.o1.o1.o1>“然後呢？”</EventText.hognose.o1.o1.o1.o1>
+<EventText.hognose.o1.o1.o1.o1.c1>“然後呢？它被擊沉了! 被悲傷Jack擊沉了！”他用他的拳頭敲了桌子，空杯子都被震得跳了起來。“我被打得措手不及。第一下、引擎壞了。第二下，船體破了。”他的目光穿過你，看著遠方。</EventText.hognose.o1.o1.o1.o1.c1>
+<EventText.hognose.o1.o1.o1.o1.o1>“那你是怎麼活下來的？”</EventText.hognose.o1.o1.o1.o1.o1>
+<EventText.hognose.o1.o1.o1.o1.o1.c1>“游泳，”他認真地說，“我帶上了我拿得動的所有氧氣然後用推進器逃跑。我丟下了Ringo，我的寵物巨蟾。”一滴眼淚自他僅存的那隻眼睛裡滾落下來。“在那一刻，我發誓要向那個畜生復仇。”他把一台無線電摔在桌子上。注意到你疑惑的眼神，他解釋:“它吃了我的無線電發信器。我在歐羅巴各地奔波，一直想要收到它發出的訊號，如果被我找到- ”他的無線電發出了一連串的嗶嗶聲。</EventText.hognose.o1.o1.o1.o1.o1.c1>
+<EventText.hognose.o1.o1.o1.o1.o1.o1.c1>“牠來了！你有一艘船對吧？準備好去打獵了嗎，年輕人？”他興奮得直發抖，“當然，你也會拿到應得的獎賞。”</EventText.hognose.o1.o1.o1.o1.o1.o1.c1>
+<EventText.hognose.o1.o1.o1.o1.o1.o1.o1>“沒問題！”</EventText.hognose.o1.o1.o1.o1.o1.o1.o1>
+<EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>“我就知道你們這群年輕人還是有鬥志的！我們船上見。”</EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.hognose.o1.o1.o1.o1.o1.o1.o2>不感興趣。</EventText.hognose.o1.o1.o1.o1.o1.o1.o2>
+<EventText.hognose.o1.o1.o2>“算了吧。”</EventText.hognose.o1.o1.o2>
+<EventText.hognose.o1.o2>逃跑。</EventText.hognose.o1.o2>
+<EventText.hognose.o2>離他遠點。</EventText.hognose.o2>
+<EventText.nothingtoseehere.c1>一位年邁的女性向你揮手，“你可以好心幫我把這個拿去丟嗎？?”她問著，並交給你一堆垃圾。</EventText.nothingtoseehere.c1>
+<EventText.nothingtoseehere.o1>照做。</EventText.nothingtoseehere.o1>
+<EventText.nothingtoseehere.o1.c1>你很高興你終於擺脫了那老太婆交給你的垃圾。在你扔下你那些臭氣熏天的貨物時，你瞥見了垃圾中有一根人類手指。</EventText.nothingtoseehere.o1.c1>
+<EventText.nothingtoseehere.o1.o1>進一步調查。</EventText.nothingtoseehere.o1.o1>
+<EventText.nothingtoseehere.o1.o1.c1>你把兩手插進垃圾堆翻找引來了路人的目光，但他們沒有多管閒事，畢竟大家生活都不好過。在成堆的漢堡包裝紙下你看到一具身上掛著名牌的屍體，這具屍體曾經是一間報導素質參差不齊的報社、歐羅巴報的記者。奇怪的是寫著姓名的位置被劃掉了。</EventText.nothingtoseehere.o1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1>在垃圾與屍體的氣味中，你忍著不吐出來，把名牌扯了下來。或許哪個守衛會對這個東西有興趣？</EventText.nothingtoseehere.o1.o1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.c1>“有什麼我幫得上忙的嗎？”</EventText.nothingtoseehere.o1.o1.o1.c1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1>“我想回報發現一具屍體。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>你向守衛秀出那張名牌並解釋一切的來龍去脈。對方抓了抓頭，嘆了一口氣，“聽好，我當守衛已經十五年了，如果Irma漢堡店的主廚被做掉了，那大概只是一時興起、是因為和誰發生了什麼爭執才會發生，”他解釋，“那樣的話兇手會報抓，正義會被執行。”他看看四周，附近沒人在聽，但他用悄悄話的方式繼續說: “但是一個記者在垃圾桶裡被發現、名字還被劃掉？你得裝作沒看見。繼續追下去不會有好結果。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>”知道了。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>那名守衛提高了他的音量，“謝謝你的報案，好市民。500馬克已經轉交至你的帳戶裡了。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>繼續追問。</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>與守衛的期待相反，你要他們解釋清楚。“我需要一個字一個字唸給你聽嗎？記者會去調查-”有人從你們身旁經過，警衛話說到一半停了下來，等他們離去才又繼續: “重點是他們會刊出調查解果，但顯然有人不希望出現在文章裡。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>”你是指聯盟的人？”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>那名守衛翻了下白眼，“你終於懂了，回報發現屍體能拿到一筆獎勵，我勸你拿好，去買些鴉片來吸，或者弄些什麼你們在潛艇上工作的人喜歡的東西然後忘掉你看見的一切。那具屍體由我來處理。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o2>不去深究。</EventText.nothingtoseehere.o1.o1.o1.c1.o2>
 
 <!-- Submarine upgrades & repairs -->
 <upgradecategory.walls>船體</upgradecategory.walls>
@@ -5487,6 +5813,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <campaignstoretab.buy>購買</campaignstoretab.buy>
 <campaignstoretab.sell>賣出</campaignstoretab.sell>
 <campaignstore.storebalance>商人資金</campaignstore.storebalance>
+<campaignstore.instock>庫存: [amount]</campaignstore.instock>
 <campaignstore.quantity>x[amount]</campaignstore.quantity>
 <campaignstore.shoppingcrate>購物箱</campaignstore.shoppingcrate>
 <campaignstore.total>合計</campaignstore.total>
@@ -5503,6 +5830,12 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <campaignstore.sellvalue>賣出價格</campaignstore.sellvalue>
 <campaingstore.valueincreasetooltip>購買列表中的物品會使商人的存款增加並讓他們在未來能夠販賣更多品項！</campaingstore.valueincreasetooltip>
 <campaingstore.valuedecreasetooltip>賣出列表中的物品會使商人的存款減少並讓他們在未來能夠販賣的品項變少。</campaingstore.valuedecreasetooltip>
+<campaignstore.ownedinventory>物品欄: [amount]</campaignstore.ownedinventory>
+<campaignstore.ownedsub>潛艇: [amount]</campaignstore.ownedsub>
+<campaignstore.ownedspecific>擁有: [nonempty] ([total])</campaignstore.ownedspecific>
+<campaignstore.ownednonempty>含內容物: [amount]</campaignstore.ownednonempty>
+<campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
+
 
 <!-- Campaign crew -->
 <sortingmethod.alphabeticalasc>字母順序</sortingmethod.alphabeticalasc>
@@ -5534,10 +5867,8 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <campaigninteraction.examine>[[key]] 檢視</campaigninteraction.examine>
 
 <!-- Campaign submarine purchasing / selection -->
-<price>價格: [amount] [currencyname]</price>
 <purchase>購買</purchase>
 <purchaseandswitch>購買並替換</purchaseandswitch>
-<deliveryfee>運送費用: [amount] [currencyname]</deliveryfee>
 <currentsub>目前潛艇</currentsub>
 <requestdeliverybutton>請求運送</requestdeliverybutton>
 <switchtosubmarinebutton>替換</switchtosubmarinebutton>
@@ -5611,6 +5942,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <reputationneutral>中立</reputationneutral>
 <reputationhigh>友善</reputationhigh>
 <reputationveryhigh>尊敬</reputationveryhigh>
+<reputationgainnotification>[value][reputationname]聲望值</reputationgainnotification>
 
 <!-- Campaign meta texts -->
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
@@ -5960,7 +6292,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <talentdescription.dontdieonme>你的CPR更有力。</talentdescription.dontdieonme>
 <talentname.justascratch>只是擦傷</talentname.justascratch>
 <talentdescription.healabovehealth>只要你的生命值在[percentage]%以上，普通傷害將自己緩緩癒合。</talentdescription.healabovehealth>
-<talentdescription.extraskillfromcraftingany>製作物品獲得的經驗值提升[amount]%。</talentdescription.extraskillfromcraftingany>
+<talentdescription.extraskillfromcrafting>製作物品獲得的經驗值提升[amount]%。</talentdescription.extraskillfromcrafting>
 <talentdescription.extrastunonenemies>造成額外[amount]%暈眩。</talentdescription.extrastunonenemies>
 <talentdescription.scavenger>當你第一次打開位於艙外的容器時，你將有[probability]%的機率找到額外物品。</talentdescription.scavenger>
 <talentdescription.increasebuffduration>增益持續時間增加[amount]%。</talentdescription.increasebuffduration>
@@ -6064,8 +6396,9 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <talentdescription.additionalresistanceself>獲得額外的 [amount]% [affliction]抗性。</talentdescription.additionalresistanceself>
 <talentdescription.gainmissionxpanditem>當你在沒有船員死亡的狀態下完成任務時獲得額外的[amount]%經驗值以及[item]。</talentdescription.gainmissionxpanditem>
 <talentdescription.depletedfueldeconstructedbyally>當你或你的隊友拆解耗乏燃料時獲得[amount]經驗值。</talentdescription.depletedfueldeconstructedbyally>
+<talentdescription.gaindoubleskillatskill>當你的[skillname1]技能等級為[skilltotal]或更高時，獲得兩倍的[skillname2]技能。</talentdescription.gaindoubleskillatskill>
 
-<!-- stattype names-->
+<!-- Talent stat types -->
 <stattypenames.maximumhealthmultiplier>最大生命值</stattypenames.maximumhealthmultiplier>
 <stattypenames.repairspeed>維修速度</stattypenames.repairspeed>
 <stattypenames.meleeattackspeed>近戰攻擊速度</stattypenames.meleeattackspeed>
@@ -6091,7 +6424,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau v2204 -->
+<!-- edited by nokau for v0.17.12.0 (04.2022) -->
 <!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
@@ -7389,7 +7722,7 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaNew.xml -->
-<!-- edited by nokau v2204 -->
+<!-- edited by nokau for v0.17.12.0 (04.2022) -->
 <!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
@@ -7398,436 +7731,15 @@ TODO: Before sending the structure texts to localization, get rid of the unneces
 
 <!-- Modified values after April 4 (Urban Expanses update) -->
 
+<price>價格: [amount]</price>
+<deliveryfee>運費: [amount]</deliveryfee>
 
-
-
+<serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
+<serverprocesscrashed>伺服器程序已崩潰。已在遊戲的根目錄中產生了一份崩潰報告 ([reportfilepath])。</serverprocesscrashed>
+  
 
 <!-- New values after April 4 (Urban Expanses update) -->
 
-
-
-
-
-
-<!-- Modified values after February 1 (Rising Tide update) -->
-
-<campaignstore.instock>庫存: [amount]</campaignstore.instock>
-
-<servertag.friendlyfire.true>開啟</servertag.friendlyfire.true>
-<servertag.friendlyfire.false>關閉</servertag.friendlyfire.false>
-<servertag.voip.true>啟用</servertag.voip.true>
-<servertag.voip.false>停用</servertag.voip.false>
-<servertag.karma.true>啟用</servertag.karma.true>
-<servertag.karma.false>停用</servertag.karma.false>
-<servertag.traitors.true>啟用</servertag.traitors.true>
-<servertag.traitors.false>停用</servertag.traitors.false>
-
-<!-- It's worth noting that we already have the localization for these, the only changes made are to the tags -->
-<traitorendmessagesuccess>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成。</traitorendmessagesuccess>
-<traitorendmessagesuccesstraitordead>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成，但叛徒也失去了生命。</traitorendmessagesuccesstraitordead>
-<traitorendmessagesuccesstraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成，但叛徒被成功逮捕了。</traitorendmessagesuccesstraitordetained>
-<traitorendmessagefailure>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗。</traitorendmessagefailure>
-<traitorendmessagefailuretraitordead>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，但[PronounLowercase]在完成[PronounReflexiveLowercase]的任務之前失去了生命。</traitorendmessagefailuretraitordead>
-<traitorendmessagefailuretraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗 － [PronounLowercase]被成功逮捕了。</traitorendmessagefailuretraitordetained>
-
-<missionname.killhammerhead>獵殺錘頭煞</missionname.killhammerhead>
-<missiondescription.killhammerhead>一群特別凶猛的錘頭煞不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將其獵殺的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killhammerhead>
-<missionsonarlabel.killhammerhead>錘頭煞群</missionsonarlabel.killhammerhead>
-<missionsuccess.killhammerhead>錘頭煞已被殲滅。</missionsuccess.killhammerhead>
-<missionheader0.killhammerhead>已殲滅目標</missionheader0.killhammerhead>
-<missionmessage0.killhammerhead>錘頭煞已被殲滅，離開這裡以領取獎勵。</missionmessage0.killhammerhead>
-
-<!-- New values after February 1 (Rising Tide update) -->
-
-<charactereditor.crouch>Crouch</charactereditor.crouch>
-<talentdescription.gaindoubleskillatskill>當你的[skillname1]技能等級為[skilltotal]或更高時，獲得兩倍的[skillname2]技能。</talentdescription.gaindoubleskillatskill>
-
-<connection.loadvalueout>load_value_out</connection.loadvalueout>
-<connection.powervalueout>power_value_out</connection.powervalueout>
-
-<subcategory.exteriorsubwalls>潛艇外牆</subcategory.exteriorsubwalls>
-<subcategory.exteriorshuttle>小艇外部配件</subcategory.exteriorshuttle>
-<subcategory.labels>標誌</subcategory.labels>
-<subcategory.backgroundwall>背景牆</subcategory.backgroundwall>
-
-<afflictionname.disguised>已偽裝</afflictionname.disguised>
-<afflictiondescription.disguised>只要你遮好你的臉，其他人大概會認不出你是誰...</afflictiondescription.disguised>
-<afflictiondescription.hallucinating>你的感覺變得有些奇怪。</afflictiondescription.hallucinating>
-
-<afflictiontype.damage>傷害</afflictiontype.damage>
-<connection.low_oxygen>low_oxygen</connection.low_oxygen>
-
-<campaignstore.ownedinventory>物品欄: [amount]</campaignstore.ownedinventory>
-<campaignstore.ownedsub>潛艇: [amount]</campaignstore.ownedsub>
-<campaignstore.ownedspecific>擁有: [nonempty] ([total])</campaignstore.ownedspecific>
-<campaignstore.ownednonempty>含內容物: [amount]</campaignstore.ownednonempty>
-<campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
-
-<campaigndifficultydisabled>無法於戰役模式中調整遊戲難度，戰役模式使用了預先設計好的難度曲線。</campaigndifficultydisabled>
-
-<reputationgainnotification>[value][reputationname]聲望值</reputationgainnotification>
-
-<subeditor.loadconfirmbody>確定要載入[submarine]嗎？所有未保存的進度將會遺失。</subeditor.loadconfirmbody>
-
-<sp.concatcomponent.separator.name>Separator</sp.concatcomponent.separator.name>
-<sp.concatcomponent.separator.description>Symbol(s) to place between the input strings.</sp.concatcomponent.separator.description>
-
-<dialoghuskdormant>我的喉嚨有點痛。</dialoghuskdormant>
-<dialoghuskdormant>我覺得我大概發燒了。</dialoghuskdormant>
-<dialoghuskdormant>我覺得身體很虛弱，每一塊肌肉都在痛。</dialoghuskdormant>  
-<dialoghuskcantspeak>有什麼東西在我嘴裡... *咳咳*</dialoghuskcantspeak>
-
-<!-- feature/modding-refactor -->
-<!-- Audio & voice chat tab -->
-<settingstab.audioandvc>音訊 &amp; 語音聊天</settingstab.audioandvc>
-<audiooutputdevice>輸出裝置</audiooutputdevice>
-<audioinputdevice>輸入裝置</audioinputdevice>
-<vcinputmode>輸入模式</vcinputmode>
-<!-- Mods tab -->
-<settingstab.mods>Mods</settingstab.mods>
-<workshopmenutab.installedmods>已安裝Mod</workshopmenutab.installedmods>
-<workshopmenutab.popularmods>熱門Mod</workshopmenutab.popularmods>
-<workshopmenutab.publish>發布</workshopmenutab.publish>
-
-<enabledcore>目前核心內容套件</enabledcore>
-<enabledregular>啟用的內容套件</enabledregular>
-<disabledregular>停用的內容套件</disabledregular>
-
-<LocalCopyRequired>此項目不存在本地複本。你需要建立本地複本以對其發布更新。\n\n你想要建立這個項目的本地複本嗎？</LocalCopyRequired>
-<ItemInstallRequired>你尚未安裝這個項目。你需要先安裝這個項目以對其發布更新。\n\n你想要安裝這個項目嗎？</ItemInstallRequired>
-
-<WorkshopItemVersion>Mod版本</WorkshopItemVersion>
-
-<PublishedModsHeader>已發布</PublishedModsHeader>
-<UnpublishedModsHeader>未發布</UnpublishedModsHeader>
-<LastLocalEditTime>上次修改於 [datetime]</LastLocalEditTime>
-<LatestPublishTime>上次更新於 [datetime]</LatestPublishTime>
-
-<FreeWeekendCantPublish>你正透過免費周末期間遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FreeWeekendCantPublish>
-<FamilySharedCantPublish>你正透過親友同享遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FamilySharedCantPublish>
-
-<WorkshopItemVisibility.Unlisted>未列出的</WorkshopItemVisibility.Unlisted>
-
-<ModDownloadTitle>需要的Mod</ModDownloadTitle>
-<ModDownloadHeader>進入此伺服器需要下列模組:</ModDownloadHeader>
-<ModDownloadFooter>你想要下載它們嗎？</ModDownloadFooter>
-<ModDownloadFooterFail>這個伺服器不允許玩家直接自其下載所使用的Mod，你需要自Steam工作坊下載它們，或聯絡伺服器管理者。</ModDownloadFooterFail>
-
-<SubscribeToAllOnWorkshop>自Steam工作坊訂閱全部</SubscribeToAllOnWorkshop>
-
-<ModNameAndHashFormat>[name] ([hash])</ModNameAndHashFormat>
+<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。你想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
   
-<ModDirInfo>[filecount]檔案，總計[size]</ModDirInfo>
-
-<PublishPopupDownload>下載中 [percentage]%</PublishPopupDownload>
-<PublishPopupInstall>正在安裝...</PublishPopupInstall>
-<PublishPopupCreateLocal>建立本地複本...</PublishPopupCreateLocal>
-<PublishPopupStaging>正在複製檔案至暫存資料夾...</PublishPopupStaging>
-<PublishPopupSubmit>正在發布項目至工作坊...</PublishPopupSubmit>
-
-<OpenLocalModInExplorer>本地Mod\n點此以檔案總管開啟</OpenLocalModInExplorer>
-<ViewWorkshopModDetails>查看詳細資料</ViewWorkshopModDetails>
-<EnableWorkshopMod>啟用</EnableWorkshopMod>
-<DisableWorkshopMod>停用</DisableWorkshopMod>
-<EnableSelectedWorkshopMods>啟用全部已選取</EnableSelectedWorkshopMods>
-<DisableSelectedWorkshopMods>停用全部已選取</DisableSelectedWorkshopMods>
-<DownloadedWorkshopMod>工作坊Mod</DownloadedWorkshopMod>
-<PublishedWorkshopMod>已發布的Mod</PublishedWorkshopMod>
-<ViewModDetailsUpdateAvailable>這個項目有可用的更新！\n點此查看詳細資料</ViewModDetailsUpdateAvailable>
-
-<ModUpdatesAvailable>有可用的更新！點此進行安裝</ModUpdatesAvailable>
-<RefreshModLists>重新整理</RefreshModLists>
-
-<WorkshopItemUpdate>更新</WorkshopItemUpdate>
-
-<ServerExecutable>伺服器執行檔</ServerExecutable>
-<ModServerExesAtYourOwnRisk>修改過的伺服器執行檔有可能不安全甚至帶有惡意程序。\n\n執行此類檔案時風險自負！\n\n你依然想要執行 [exename] 嗎？</ModServerExesAtYourOwnRisk>
-
-<CannotChangeMods>你只能在主選單啟用/停用Mod。</CannotChangeMods>
-
-<WorkshopItemSubscriptions>[subscriptioncount]項訂閱內容</WorkshopItemSubscriptions>
-
-<Ugc.TransferTitle>移動Mod</Ugc.TransferTitle>
-<Ugc.TransferDesc>看起來你在舊版的《潛淵症》中製作了一些Mod。\n\n請選擇你希望移動到新路徑的Mod。\n\n所有未被移動的Mod都將不會被顯示在這個版本的遊戲中，但你依舊能在它們的原始位置找到它們以便你想手動將它們移動至新的Mod路徑。</Ugc.TransferDesc>
-<Ugc.TransferButton>移動</Ugc.TransferButton>
-<Ugc.Transferring>正在移動Mod...</Ugc.Transferring>
-<Ugc.TransferComplete>Mod完成移動。</Ugc.TransferComplete>
-
-<ItemAssemblies>物件組合</ItemAssemblies>
-
-<DeterminingRequiredModUpdates>正在偵測那些Mod需要更新...</DeterminingRequiredModUpdates>
-<PreparingWorkshopDownloads>正在準備Steam工作坊下載...</PreparingWorkshopDownloads>
-
-<PlayerIsDownloadingFiles>這位玩家正在從伺服器下載檔案。</PlayerIsDownloadingFiles>
-
-<entitydescription.piratebodyarmor>一套護甲，一部分由海盜們手工打造。它比看起來還要重。</entitydescription.piratebodyarmor>
-  
-<lightcomponent.lightcolor>Color</lightcomponent.lightcolor>
-
-<sp.memorycomponent.value.description>The currently stored signal the item outputs.</sp.memorycomponent.value.description>
-<sp.motionsensor.target.name>Target</sp.motionsensor.target.name>
-<sp.motionsensor.target.description>Which kind of targets can trigger the sensor?</sp.motionsensor.target.description>
-<sp.wificomponent.channel.description>WiFi components can only communicate with components that use the same channel.</sp.wificomponent.channel.description>
-<sp.arithmeticcomponent.clampmin.name>Clamp min</sp.arithmeticcomponent.clampmin.name>
-<sp.arithmeticcomponent.clampmin.description>The output of the item is restricted above this value.</sp.arithmeticcomponent.clampmin.description>
-<sp.arithmeticcomponent.clampmax.name>Clamp max</sp.arithmeticcomponent.clampmax.name>
-<sp.arithmeticcomponent.clampmax.description>The output of the item is restricted below this value.</sp.arithmeticcomponent.clampmax.description>
-<falseoutput>False output</falseoutput>
-<timeframe>Timeframe</timeframe>
-<timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time</timeframe.description>
-<sp.equalscomponent.output.description>The signal sent when the received inputs are equal (if empty, no signal is sent).</sp.equalscomponent.output.description>
-<sp.equalscomponent.falseoutput.description>The signal sent when the received inputs are not equal (if empty, no signal is sent).</sp.equalscomponent.falseoutput.description>
-<sp.exponentiationcomponent.exponent.name>Exponent</sp.exponentiationcomponent.exponent.name>
-<sp.exponentiationcomponent.exponent.description>The exponent of the operation.</sp.exponentiationcomponent.exponent.description>
-<sp.modulocomponent.modulus.name>Modulus</sp.modulocomponent.modulus.name>
-<sp.modulocomponent.modulus.description>The modulus of the operation. Must be non-zero.</sp.modulocomponent.modulus.description>
-<sp.regexfindcomponent.modulus.name>Modulus</sp.regexfindcomponent.modulus.name>
-<sp.regexfindcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the regular expression.</sp.regexfindcomponent.falseoutput.description>
-<continuousoutput.description>Should the component keep sending the output even after it stops receiving a signal, or only send an output when it receives a signal.</continuousoutput.description>
-<sp.regexfindcomponent.expression.description>The regular expression used to check the incoming signals.</sp.regexfindcomponent.expression.description>
-<sp.smokedetector.output.description>The signal the item outputs when it has detected a fire.</sp.smokedetector.output.description>
-<sp.smokedetector.falseoutput.description>The signal the item outputs when it has not detected a fire.</sp.smokedetector.falseoutput.description>
-<sp.trigonometricfunctioncomponent.useradians.name>Use radians</sp.trigonometricfunctioncomponent.useradians.name>
-<sp.trigonometricfunctioncomponent.useradians.description>If set to true, the trigonometric function uses radians instead of degrees.</sp.trigonometricfunctioncomponent.useradians.description>
-
-<entityname.streetlight>街燈</entityname.streetlight>
-<entityname.neonlighta>Neon Light A</entityname.neonlighta>
-<entityname.neonlightb>Neon Light B</entityname.neonlightb>
-<entityname.neonlightc>Neon Light C</entityname.neonlightc>
-<entityname.neonlightd>Neon Light D</entityname.neonlightd>
-<entityname.neonlighte>Neon Light E</entityname.neonlighte>
-<entityname.neonlightf>Neon Light F</entityname.neonlightf>
-<entityname.neonlightg>Neon Light G</entityname.neonlightg>
-<entityname.neonlighth>Neon Light H</entityname.neonlighth>
-<entityname.neonlighti>Neon Light I</entityname.neonlighti>
-<entityname.neonlightj>Neon Light J</entityname.neonlightj>
-<entityname.neonlightk>Neon Light K</entityname.neonlightk>
-<entityname.neonlightl>Neon Light L</entityname.neonlightl>
-<entityname.neonlightm>Neon Light M</entityname.neonlightm>
-<entityname.neonlightn>Neon Light N</entityname.neonlightn>
-<entityname.neonlighto>Neon Light O</entityname.neonlighto>
-<entityname.neonlightp>Neon Light P</entityname.neonlightp>
-<entityname.neonlightq>Neon Light Q</entityname.neonlightq>
-<entityname.neonlightr>Neon Light R</entityname.neonlightr>
-<entityname.neonlights>Neon Light S</entityname.neonlights>
-<entityname.neonlightt>Neon Light T</entityname.neonlightt>
-<entityname.neonlightu>Neon Light U</entityname.neonlightu>  
-<entityname.neonlightv>Neon Light V</entityname.neonlightv>
-<entityname.neonlightw>Neon Light W</entityname.neonlightw>
-<entityname.neonlightx>Neon Light X</entityname.neonlightx>
-<entityname.neonlighty>Neon Light Y</entityname.neonlighty>
-<entityname.neonlightz>Neon Light Z</entityname.neonlightz>
-<entityname.neonlight0>Neon Light 0</entityname.neonlight0>
-<entityname.neonlight1>Neon Light 1</entityname.neonlight1>
-<entityname.neonlight2>Neon Light 2</entityname.neonlight2>
-<entityname.neonlight3>Neon Light 3</entityname.neonlight3>
-<entityname.neonlight4>Neon Light 4</entityname.neonlight4>
-<entityname.neonlight5>Neon Light 5</entityname.neonlight5>
-<entityname.neonlight6>Neon Light 6</entityname.neonlight6>
-<entityname.neonlight7>Neon Light 7</entityname.neonlight7>
-<entityname.neonlight8>Neon Light 8</entityname.neonlight8>
-<entityname.neonlight9>Neon Light 9</entityname.neonlight9>
-<entityname.neonlightplanet>Neon Light Planet</entityname.neonlightplanet>
-<entityname.neonlightkiss>Neon Light Kiss</entityname.neonlightkiss>
-<entityname.neonlightarrow>Neon Light Arrow</entityname.neonlightarrow>
-<entityname.neonlightgarden>Neon Light Garden</entityname.neonlightgarden>
-<entityname.neonlightgear>Neon Light Gear</entityname.neonlightgear>
-<entityname.neonlightsubmarine>Neon Light Submarine</entityname.neonlightsubmarine>
-<entityname.neonlightfood>Neon Light Food</entityname.neonlightfood>
-<entityname.neonlightframe>Neon Light Frame</entityname.neonlightframe>
-<entityname.neonlightwire1>Neon Light Wire 1</entityname.neonlightwire1>
-<entityname.neonlightwire2>Neon Light Wire 2</entityname.neonlightwire2>
-<entityname.neonlightwire3>Neon Light Wire 3</entityname.neonlightwire3>
-<entityname.neonlightwire4>Neon Light Wire 4</entityname.neonlightwire4>
-
-<!--New event texts-->
-<EventText.captivesouls.c1>一位路過的科學家抓住了你的手，“它活了！誰會想到它能活過來？”對方的眼睛睜得大大的，眼底的眼袋大到令人印象深刻。</EventText.captivesouls.c1>
-<EventText.captivesouls.o1>“你在說什麼？”</EventText.captivesouls.o1>
-<EventText.captivesouls.o1.c1>“我太專注於挑戰自己，但我沒有意識到我該不該這麼做。”對方來回踱步，每句話都對著不同的路人說著。當他發現沒有人把注意力放在他身上時，他把注意力放回你的身上。</EventText.captivesouls.o1.c1>
-<EventText.captivesouls.o1.o1.c1>“你沒在聽我說話嗎？”那個歇斯底里的研究人員吼道，口水噴在你的臉上。“一個人類和爬行者的混血種！哦，它太美了！不！醜死了！”他坐了下來，盤腿坐在地板上，“科學界將會怎麼看我？一位創造者？還是破壞者？”他自顧自地擺了擺姿勢，“還是...神？”</EventText.captivesouls.o1.o1.c1>
-<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家 － 他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈 － 你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
-<EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的心想要一探究竟。也許你能到實驗室確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.c1>一隻爬行者一動也不動地坐在水槽裡。</EventText.captivesouls.c1.c1>
-<EventText.captivesouls.c1.o1>靠近。</EventText.captivesouls.c1.o1>
-<EventText.captivesouls.c1.o1.c1>牠似乎被注射了大量的鎮靜劑。這並不稀奇，研究人員會捕捉活體標本進行研究是眾所皆知。科學家從爬行者身上獲得了許多的科學資料和突破: 醫學、消化學、心理學 － 等等，牠剛剛...是眨眼了嗎？</EventText.captivesouls.c1.o1.c1>
-<EventText.captivesouls.c1.o1.o1>敲敲玻璃。</EventText.captivesouls.c1.o1.o1>
-<EventText.captivesouls.c1.o1.o1.c1>你敲了玻璃三下，這個生物睜開了牠的眼睛，牠湛藍的雙眼盯著你。牠眨了眨眼，一下，兩下...你不禁覺得這個生物在試圖和你交流。</EventText.captivesouls.c1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1>牠在說什麼？</EventText.captivesouls.c1.o1.o1.o1>
-<EventText.captivesouls.c1.o1.o1.o1.c1>“讓我自由。” (你不應該這麼做。)</EventText.captivesouls.c1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1>沒錯，我是不應該這麼做，不過...</EventText.captivesouls.c1.o1.o1.o1.o1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.c1>牠畢竟是一個活生生的生物。為什麼不應該給予牠自由？</EventText.captivesouls.c1.o1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1>砸碎玻璃。</EventText.captivesouls.c1.o1.o1.o1.o1.o1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.c1>你向它砸了又砸，玻璃上終於出現了一道裂縫。那個生物在水槽破了之後和水一起湧了出來。牠把頭轉向你並點了點頭，然後溜進一個通風口，消失在你地視線中。真怪，牠剛剛是在感謝你的幫助，又或者那只是一個毫無意義的動作？</EventText.captivesouls.c1.o1.o1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.c1>在空蕩蕩的破水槽裡，一絲光亮吸引了你的目光。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1>查看。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1.c1>在碎片中，有一個刻著異星圖樣的小飾品，你拿了就走。最好快點開溜，免得被人撞見問東問西。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2>沒時間了。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2.c1>是時候在有人發現之前離開。</EventText.captivesouls.c1.o1.o1.o1.o1.o1.o1.o2.c1>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o2>不要。最後警告。</EventText.captivesouls.c1.o1.o1.o1.o1.o2>
-<EventText.captivesouls.c1.o1.o1.o1.o1.o2.c1>你決定讓這個生物留在水槽裡。</EventText.captivesouls.c1.o1.o1.o1.o1.o2.c1>
-<EventText.captivesouls.c1.o1.o2>離開。</EventText.captivesouls.c1.o1.o2>
-<EventText.captivesouls.c1.o2>不要靠近。</EventText.captivesouls.c1.o2>
-<EventText.explosivemishap.c1>一扇關上的門後傳來了聲音，“...所以我只要按著按鈕？”</EventText.explosivemishap.c1>
-<EventText.explosivemishap.o1>靠著門聽。</EventText.explosivemishap.o1>
-<EventText.explosivemishap.o1.c1>一個低沉的嗡嗡聲迴盪在空間裡，聽起來像台老舊吸塵器。“基本上是，但你最好注意不要讓它過熱。”</EventText.explosivemishap.o1.c1>
-<EventText.explosivemishap.o1.o1.c1>“過熱？”嗡嗡聲愈來愈大聲，音調也愈來愈高。.</EventText.explosivemishap.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1>繼續靠在門上聽。</EventText.explosivemishap.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.c1>那扇門被從它的絞鍊上轟了下來，你則被壓倒在地上。.</EventText.explosivemishap.o1.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1.o1>往裡面看。</EventText.explosivemishap.o1.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.o1.c1>那間實驗室裡看起來像被炸彈炸過一樣，昂貴的儀器散落在地板上，曾經潔白的牆上現在佈滿了深紅色與腦袋碎屑。兩具冒著煙的屍體躺在地上，地上冒著煙的還有某種像是異星裝置之類的東西。附近有人正在呼叫守衛。</EventText.explosivemishap.o1.o1.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1>在守衛抵達之前查看那項裝置。</EventText.explosivemishap.o1.o1.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.c1>那項裝置由沉重的深色金屬質感的材料製成。它有一個把手讓你能握好它，在你的食指下有一個按鈕。</EventText.explosivemishap.o1.o1.o1.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1>扣下板機。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.c1>什麼也沒發生。如果這裡的慘狀確實是這個東西引起的，它現在大概用光了它的能量。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1>在實驗室裡找找其他有用的東西。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c1>你找到了一顆小小的膠囊形狀的東西，它能被輕鬆地裝進裝置底部。你聽到腳步聲逼近，如果你想拿走這個裝置，是時候離開這裡了。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o1>溜走。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2>將它交給官方人員。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2.c1>守衛開心地接過你手上的危險狀裝置。They promise to put in a good word for you in the office.</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.o2.c1>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c2>你什麼都沒找到。你決定在守衛抵達這裡之前帶著裝置離開。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o1.c2>
-<EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o2>溜走。</EventText.explosivemishap.o1.o1.o1.o1.o1.o1.o2>
-<EventText.explosivemishap.o1.o1.o1.o1.o2>離開。</EventText.explosivemishap.o1.o1.o1.o1.o2>
-<EventText.occupationalhazards.c1>一個戴著安全帽的男人正在喝著飲料。</EventText.occupationalhazards.c1>
-<EventText.occupationalhazards.o1>加入他。</EventText.occupationalhazards.o1>
-<EventText.occupationalhazards.o1.c1>你坐在他身旁的位子上。他向你點了點頭，“來工作的？”</EventText.occupationalhazards.o1.c1>
-<EventText.occupationalhazards.o1.o1>“差不多。”</EventText.occupationalhazards.o1.o1>
-<EventText.occupationalhazards.o1.o1.c1>他笑了幾聲，“一看就知道，但你如果是想到礦坑裡去，還是算了吧。”他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1>“礦坑裡怎麼了？”</EventText.occupationalhazards.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.c1>“呃，”那位工人打了個嗝，然後繼續說: “我確定下面一個人也沒有，礦工再沒腦子也不會在繁殖季下去。”</EventText.occupationalhazards.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1>“繁殖季？”</EventText.occupationalhazards.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人發出了一聲嘟噥回應你的話。“但是老闆說「挖」你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。”</EventText.occupationalhazards.o1.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1>“你挖到什麼了？”</EventText.occupationalhazards.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>“蛋。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>“蛋？”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>“泥偶迅猛龍蛋。現在礦坑裡滿滿都是生氣的迅猛龍家長。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>“那，如果把牠們趕走會有獎勵嗎？”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，“當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他在也在礦坑裡，”他大聲呼喚酒保並示意再來一瓶啤酒，“他大概還有一部分還在礦坑裡。”</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>起身離開。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>你向他道別，讓他享受自己的寧靜。你思考著自己是否能在礦坑中找到Rudy的屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你發現了一具穿著礦工服裝的殘破屍體，名牌上寫著「Rudy」。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>檢查他的口袋。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>你找到了一些錢。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>離開屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>
-<EventText.hognose.c1>你看到一位戴著眼罩、一臉白鬍子的人坐在桌子旁。路過的人都對他投以緊張的目光。“他是豬鼻Huber，一位卓越的艦長，”某人低聲地說。</EventText.hognose.c1>
-<EventText.hognose.o1>靠近他。</EventText.hognose.o1>
-<EventText.hognose.o1.c1>當你走近，那人發出不友善的低吼。</EventText.hognose.o1.c1>
-<EventText.hognose.o1.o1>“你不太喜歡聊天、是吧？”</EventText.hognose.o1.o1>
-<EventText.hognose.o1.o1.c1>他從喉嚨深處咳出一團東西、吐在地上，“只是喉嚨不太舒服，你想怎樣？”Huber眯著眼睛看著你。</EventText.hognose.o1.o1.c1>
-<EventText.hognose.o1.o1.o1>“我只是好奇一個人怎麼會選豬鼻當綽號。”</EventText.hognose.o1.o1.o1>
-<EventText.hognose.o1.o1.o1.c1>“豬鼻是我的船。它曾經在航行在Hettol、Ihesas、Urghstead之間的航線。”他坐了起來，臉上洋溢著自豪。“我們起碼成功地完成了一百次運輸任務，藥物、軍火、潛艇零件，什麼都運過。”</EventText.hognose.o1.o1.o1.c1>
-<EventText.hognose.o1.o1.o1.o1>“然後呢？”</EventText.hognose.o1.o1.o1.o1>
-<EventText.hognose.o1.o1.o1.o1.c1>“然後呢？它被擊沉了! 被悲傷Jack擊沉了！”他用他的拳頭敲了桌子，空杯子都被震得跳了起來。“我被打得措手不及。第一下、引擎壞了。第二下，船體破了。”他的目光穿過你，看著遠方。</EventText.hognose.o1.o1.o1.o1.c1>
-<EventText.hognose.o1.o1.o1.o1.o1>“那你是怎麼活下來的？”</EventText.hognose.o1.o1.o1.o1.o1>
-<EventText.hognose.o1.o1.o1.o1.o1.c1>“游泳，”他認真地說，“我帶上了我拿得動的所有氧氣然後用推進器逃跑。我丟下了Ringo，我的寵物巨蟾。”一滴眼淚自他僅存的那隻眼睛裡滾落下來。“在那一刻，我發誓要向那個畜生復仇。”他把一台無線電摔在桌子上。注意到你疑惑的眼神，他解釋:“它吃了我的無線電發信器。我在歐羅巴各地奔波，一直想要收到它發出的訊號，如果被我找到- ”他的無線電發出了一連串的嗶嗶聲。</EventText.hognose.o1.o1.o1.o1.o1.c1>
-<EventText.hognose.o1.o1.o1.o1.o1.o1.c1>“牠來了！你有一艘船對吧？準備好去打獵了嗎，年輕人？”他興奮得直發抖，“當然，你也會拿到應得的獎賞。”</EventText.hognose.o1.o1.o1.o1.o1.o1.c1>
-<EventText.hognose.o1.o1.o1.o1.o1.o1.o1>“沒問題！”</EventText.hognose.o1.o1.o1.o1.o1.o1.o1>
-<EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>“我就知道你們這群年輕人還是有鬥志的！我們船上見。”</EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.hognose.o1.o1.o1.o1.o1.o1.o2>不感興趣。</EventText.hognose.o1.o1.o1.o1.o1.o1.o2>
-<EventText.hognose.o1.o1.o2>“算了吧。”</EventText.hognose.o1.o1.o2>
-<EventText.hognose.o1.o2>逃跑。</EventText.hognose.o1.o2>
-<EventText.hognose.o2>離他遠點。</EventText.hognose.o2>
-<EventText.nothingtoseehere.c1>一位年邁的女性向你揮手，“你可以好心幫我把這個拿去丟嗎？?”她問著，並交給你一堆垃圾。</EventText.nothingtoseehere.c1>
-<EventText.nothingtoseehere.o1>照做。</EventText.nothingtoseehere.o1>
-<EventText.nothingtoseehere.o1.c1>你很高興你終於擺脫了那老太婆交給你的垃圾。在你扔下你那些臭氣熏天的貨物時，你瞥見了垃圾中有一根人類手指。</EventText.nothingtoseehere.o1.c1>
-<EventText.nothingtoseehere.o1.o1>進一步調查。</EventText.nothingtoseehere.o1.o1>
-<EventText.nothingtoseehere.o1.o1.c1>你把兩手插進垃圾堆翻找引來了路人的目光，但他們沒有多管閒事，畢竟大家生活都不好過。在成堆的漢堡包裝紙下你看到一具身上掛著名牌的屍體，這具屍體曾經是一間報導素質參差不齊的報社、歐羅巴報的記者。奇怪的是寫著姓名的位置被劃掉了。</EventText.nothingtoseehere.o1.o1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1>在垃圾與屍體的氣味中，你忍著不吐出來，把名牌扯了下來。或許哪個守衛會對這個東西有興趣？</EventText.nothingtoseehere.o1.o1.o1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.c1>“有什麼我幫得上忙的嗎？”</EventText.nothingtoseehere.o1.o1.o1.c1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1>“我想回報發現一具屍體。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>你向守衛秀出那張名牌並解釋一切的來龍去脈。對方抓了抓頭，嘆了一口氣，“聽好，我當守衛已經十五年了，如果Irma漢堡店的主廚被做掉了，那大概只是一時興起、是因為和誰發生了什麼爭執才會發生，”他解釋，“那樣的話兇手會報抓，正義會被執行。”他看看四周，附近沒人在聽，但他用悄悄話的方式繼續說: “但是一個記者在垃圾桶裡被發現、名字還被劃掉？你得裝作沒看見。繼續追下去不會有好結果。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>”知道了。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>那名守衛提高了他的音量，“謝謝你的報案，好市民。500馬克已經轉交至你的帳戶裡了。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>繼續追問。</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>與守衛的期待相反，你要他們解釋清楚。“我需要一個字一個字唸給你聽嗎？記者會去調查-”有人從你們身旁經過，警衛話說到一半停了下來，等他們離去才又繼續: “重點是他們會刊出調查解果，但顯然有人不希望出現在文章裡。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>”你是指聯盟的人？”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>那名守衛翻了下白眼，“你終於懂了，回報發現屍體能拿到一筆獎勵，我勸你拿好，去買些鴉片來吸，或者弄些什麼你們在潛艇上工作的人喜歡的東西然後忘掉你看見的一切。那具屍體由我來處理。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o2>不去深究。</EventText.nothingtoseehere.o1.o1.o1.c1.o2>
-  
-<!-- NOTE: The first "dialogtargetresuscitated" entry is already included as one of the "dialogtargethealed" entries in EnglishVanilla but should be removed (or modified) -->
-<dialogtargetresuscitated>[targetname]已被救起！</dialogtargetresuscitated>
-<dialogtargetresuscitated>[targetname]又重新站起來了！</dialogtargetresuscitated>
-
-
-<!--New event missions-->
-<missionname.killmopingjack>殺死悲傷Jack</missionname.killmopingjack>
-<missiondescription.killmopingjack>豬鼻Huber船長招募了你幫助他對付他的死對頭，悲傷Jack，一隻錘頭煞。</missiondescription.killmopingjack>
-<missionsonarlabel.killmopingjack>悲傷Jack</missionsonarlabel.killmopingjack>
-<missionsuccess.killmopingjack>悲傷Jack已被殲滅。</missionsuccess.killmopingjack>
-<missionheader0.killmopingjack>已殲滅目標</missionheader0.killmopingjack>
-<missionmessage0.killmopingjack>悲傷Jack已被殲滅。再來只需要領取獎勵。</missionmessage0.killmopingjack>
-
-<character.Hammerhead_mNamed>悲傷Jack</character.Hammerhead_mNamed>
-<character.Latcher>捕鉤獸</character.Latcher>
-
-<!-- feature/childserverrelay-robustness -->
-<serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
-<serverprocesscrashed>伺服器程序已崩潰。已在遊戲的根目錄中產生了一份崩潰報告 ([reportfilepath])。</serverprocesscrashed>
-
-<crewwallet.wallet>錢包</crewwallet.wallet>
-<crewwallet.bank>銀行</crewwallet.bank>
-<crewwallet.transfer>轉帳</crewwallet.transfer>
-<crewwallet.balance.toomuchtoshow>很多！</crewwallet.balance.toomuchtoshow>
-<crewwallet.transfer.tooltip>將資金轉入或轉出這個錢包。</crewwallet.transfer.tooltip>  <!-- grammar? -->
-<crewwallet.salary>薪水</crewwallet.salary>
-<crewwallet.salary.tooltip>薪水用來決定任務獎勵該如何分配。</crewwallet.salary.tooltip> <!-- more descriptive tooltip? -->
-<crewwallet.salary.over100toolitp>分配率總和超過100% (‖color:gui.orange‖[sum]%‖end‖)，將調整其至‖color:gui.orange‖[newvalue]%‖end‖。</crewwallet.salary.over100toolitp>
-<bankbalanceformat>銀行: [money] mk</bankbalanceformat>
-<crewwallet.missionreward.get>你獲得了: ‖color:gui.orange‖[money] mk‖end‖ ([share]%)</crewwallet.missionreward.get>
-<percentageformat>[value]%</percentageformat>
-<crewwallet.requestmoney>請求</crewwallet.requestmoney>
-<crewwallet.requestbanktoselfvote>[requester]想自銀行轉出[amount] mk至他們的個人錢包。</crewwallet.requestbanktoselfvote>
-<crewwallet.requestselftobankvote>[requester]想從他們的錢包轉入[amount] mk至銀行。</crewwallet.requestselftobankvote>
-<crewwallet.requesttransfervote>[requester]想要將[amount] mk自[player1]轉移給[player2]。</crewwallet.requesttransfervote>  
-<crewwallet.banktoplayer.votepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votepassed>
-<crewwallet.banktoplayer.votefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votefailed>
-<moneygainformat>+ [money]</moneygainformat>
-<moneyloseformat>- [money]</moneyloseformat>
-<serverlog.money>資金轉移</serverlog.money>
-
-<storename.merchantarmory>軍火</storename.merchantarmory>
-<storename.merchantmedical>醫療用品</storename.merchantmedical>
-<storename.merchantengineering>工程用品</storename.merchantengineering>
-
-<label.researchfacility>研究設施</label.researchfacility>
-<label.admin>行政辦公室</label.admin>
-<label.hr>人力資源部</label.hr>
-<label.store>雜貨店</label.store>
-
-<entityname.toothspike>捕鉤獸的牙齒</entityname.toothspike>
-<entityname.tonguetendon>捕鉤獸的舌頭</entityname.tonguetendon>
-
-<vendingmachine.outofstock>已售完</vendingmachine.outofstock>
-
-<clientpermission.managecampaign.description>允許調整戰役的所有參數 (存檔、載入存檔、地圖、買賣物品、金錢、招募)。</clientpermission.managecampaign.description>
-<clientpermission.karmaimmunity>Karma immunity</clientpermission.karmaimmunity>
-<clientpermission.karmaimmunity.description>不受卡瑪系統約束。</clientpermission.karmaimmunity.description>  
-<clientpermission.sellinventoryitems>Sell inventory items</clientpermission.sellinventoryitems>
-<clientpermission.sellinventoryitems.description>在戰役商店中出售自己物品欄中的物品。</clientpermission.sellinventoryitems.description>  
-<clientpermission.sellsubitems>Sell submarine items</clientpermission.sellsubitems>
-<clientpermission.sellsubitems.description>在戰役商店中出售潛艇上的物品。</clientpermission.sellsubitems.description>
-<clientpermission.managemap>Manage map</clientpermission.managemap>
-<clientpermission.managemap.description>在戰役模式中選擇目的地與任務。</clientpermission.managemap.description>
-<clientpermission.managemoney>Manage money</clientpermission.managemoney>
-<clientpermission.managemap.description>在戰役模式中管理銀行中的共同資金與分配船員的任務獎勵。</clientpermission.managemap.description>  
-<clientpermission.managehires>Manage hires</clientpermission.managehires>
-<clientpermission.managehires.description>招募或解雇隊伍中的船員。</clientpermission.managehires.description>
-
-<moderationmenu.manageplayer>管理</moderationmenu.manageplayer>
-
-<entityname.energydrink>能量飲料</entityname.energydrink>
-<entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
-<entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
-<entitydescription.proteinbar>可能含有微量的方鉛礦物質。</entitydescription.proteinbar>
-
-<mapentitycategory.medical>醫療</mapentitycategory.medical>
-<mapentitycategory.weapon>武器</mapentitycategory.weapon>
-<mapentitycategory.diving>潛水</mapentitycategory.diving>
-<mapentitycategory.fuel>燃料</mapentitycategory.fuel>
-
-<connection.setdistancebasedforce>set_distancebasedforce</connection.setdistancebasedforce>
-<connection.setforcefluctuation>set_forcefluctuation</connection.setforcefluctuation>
-<connection.setforcefluctuationstrength>set_forcefluctuationstrength</connection.setforcefluctuationstrength>
-<connection.setforcefluctuationfrequency>set_forcefluctuationfrequency</connection.setforcefluctuationfrequency>
-<connection.setforcefluctuationinterval>set_forcefluctuationinterval</connection.setforcefluctuationinterval>
-
 </infotexts>
