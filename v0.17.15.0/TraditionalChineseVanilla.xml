@@ -25,8 +25,8 @@
 <loadingscreentip>當部署誘餌時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
 <loadingscreentip>在電氣工程技能不足的狀態下試圖替電器設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
-<loadingscreentip>潛艇上的船員都受過電氣設備的基本維修訓練，不過工程師能夠更快地完成作業。</loadingscreentip>
-<loadingscreentip>潛艇上的船員都受過機械設備的基本維修訓練，不過技師能夠更快地完成作業。</loadingscreentip>
+<loadingscreentip>潛艇上的船員都受過電氣設備的基本維修訓練，不過工程師們能夠更快地完成作業。</loadingscreentip>
+<loadingscreentip>潛艇上的船員都受過機械設備的基本維修訓練，不過技師們能夠更快地完成作業。</loadingscreentip>
 <loadingscreentip>一般來說，艦長比普通船員更擅長操縱潛水艇。</loadingscreentip>
 <loadingscreentip>如果潛艇上的反應爐發電功率不足以供給船上設備正常運作，可以嘗試降低蓄電池和超級電容的充電率，或者調節潛艇全速運作的時間。</loadingscreentip>
 <loadingscreentip>潛艇上的電氣與機械設備由於處在運作時的耗損加上惡劣環境而逐漸劣化。務必令技師和工程師時常進行維護，以免設備在關鍵時刻發生故障。</loadingscreentip>
@@ -498,7 +498,7 @@
 <serversettingskillablenpcs>允許殺害哨站NPC</serversettingskillablenpcs>
 <serverrestartrequiredcontentpackage>在建立伺服器前，你需要重新啟動遊戲才能使遊戲內容套件生效。</serverrestartrequiredcontentpackage>
 <whitelistenabled>啟用</whitelistenabled>
-<whitelistname>名字</whitelistname>
+<whitelistname>名稱</whitelistname>
 <whitelistip>IP地址</whitelistip>
 <whitelistadd>添加到白名單</whitelistadd>
 <whitelistremove>移除</whitelistremove>
@@ -3128,44 +3128,44 @@
 <generatingsubmarinepreview>正在產生預覽...</generatingsubmarinepreview>
 
 <!-- Submarine names & descriptions -->
-<submarine.name.humpback>座頭鯨級</submarine.name.humpback>
+<submarine.name.humpback>座頭鯨</submarine.name.humpback>
 <submarine.description.humpback>這艘前軍用艦艇WH4-L3 "座頭鯨"已經準備好與歐羅巴深海的大多數危險對抗。它的高速度被它的低機動性箝制，且它所搭載的舊型反應爐若沒有備用蓄電池陣列的幫助，船員們會發現部分船上的新式設備無法順利運作。</submarine.description.humpback>
-<submarine.name.bunyip>沼靈級</submarine.name.bunyip>
-<submarine.description.bunyip>最新型式的人員運輸艦艇，它能在潛艇與設施之間快速轉移人員。它的機動性相對它的兄弟姐妹們高上許多，但艦上沒有武器使得它在面對攻擊時顯得非常脆弱。</submarine.description.bunyip>
-<submarine.name.muikku>湖青級</submarine.name.muikku>
+<submarine.name.bunyip>Binyip</submarine.name.bunyip>
+<submarine.description.bunyip>最新型式的人員運輸艦艇，它們能在潛艇與設施之間快速轉移人員。它們的機動性對比相對高階的兄弟姐妹們而言好上許多，但艦上沒有武器使得它在面對攻擊時顯得無助。</submarine.description.bunyip>
+<submarine.name.muikku>Muikku</submarine.name.muikku>
 <submarine.description.muikku>歐羅巴殖民地之間的生力軍之一。這些小艇具有不錯的速度與良好的浮潛性能，但它們脆弱且航行範圍受到其搭載的低容量蓄電池限制。</submarine.description.muikku>
-<submarine.name.orca>逆戟鯨級</submarine.name.orca>
-<submarine.description.orca>有著高於部分艦艇的速度加上三個大型壓載艙的浮潛性能，逆戟鯨級擁有非常高的機動性。美中不足的是它沒有配備強大武器、引擎可靠性差、且反應爐也需要消耗較多燃料。</submarine.description.orca>
-<submarine.name.remora>印魚級</submarine.name.remora>
-<submarine.description.remora>印魚級有著多樣化的配置，像這艘船就使用了可分離的壓載艙和一架遙控無人機取代了部分的主要船體。這艘潛艇需要大量人力進操作。</submarine.description.remora>
-<submarine.name.typhon>颱風級</submarine.name.typhon>
-<submarine.description.typhon>颱風級最出名的就是它們粗獷的外形、合理的輕重火力配置、以及設備的高度可靠性，不過任何一位艦長都應該要知道它們有著糟糕的速度和浮潛性能。</submarine.description.typhon>
-<submarine.name.dugong>儒艮級</submarine.name.dugong>
-<submarine.description.dugong>相對於其他大型船艦，儒艮級潛艇在各方面性能都略遜一籌，除了它們蓋世無雙的性價比。它們缺乏火力與速度，只能靠著巧妙的駕駛技術彌補。</submarine.description.dugong>
-<submarine.name.selkie>海豹級</submarine.name.selkie>
+<submarine.name.orca>虎鯨</submarine.name.orca>
+<submarine.description.orca>有著高於部分艦艇的速度加上三個大型壓載艙的浮潛性能，虎鯨型潛艇擁有非常高的機動性。美中不足的是它們沒有配備強大武器、引擎可靠性差、且反應爐也需要消耗較多燃料。</submarine.description.orca>
+<submarine.name.remora>印魚</submarine.name.remora>
+<submarine.description.remora>印魚型潛艇有著多樣化的配置，像這艘船就使用了可分離的壓載艙和一架遙控無人機取代了部分的主要船體。這艘潛艇需要大量人力進操作。</submarine.description.remora>
+<submarine.name.typhon>颱風</submarine.name.typhon>
+<submarine.description.typhon>颱風型潛艇最出名的就是它們粗獷的外形、合理的輕重火力配置、以及設備的高度可靠性，不過任何一位艦長都應該要知道它們有著糟糕的速度和浮潛性能。</submarine.description.typhon>
+<submarine.name.dugong>儒艮</submarine.name.dugong>
+<submarine.description.dugong>相對其他大型船艦，儒艮型潛艇在各方面都略遜一籌，除了它們蓋世無雙的性價比外。它們缺乏火力與速度，只能靠著巧妙的駕駛技術彌補。</submarine.description.dugong>
+<submarine.name.selkie>Selkie</submarine.name.selkie>
 <submarine.description.selkie>歐羅巴殖民地之間的生力軍之一。這些小艇具有不錯的速度與良好的浮潛性能，但它們脆弱且航行範圍受到其搭載的低容量蓄電池限制。</submarine.description.selkie>
-<submarine.name.venture>冒險級</submarine.name.venture>
-<submarine.description.venture>它們最初被設計為研究艇，如今冒險級小艇已經成為了來往哨站與潛艇之間更安全的替代方案。</submarine.description.venture>
-<submarine.name.berilia>海鞘級</submarine.name.berilia>
-<submarine.description.berilia>海鞘級潛艇是歐羅巴最大的貨船之一。它搭載的兩具引擎和三個壓載艙需要消耗大量能源，船上其他設備也需要大量人力才能維持運作。</submarine.description.berilia>
-<submarine.name.kastrull>卡斯楚</submarine.name.kastrull>
-<submarine.description.kastrull>卡斯楚是一艘可靠的攻擊型潛艇，它能以強大火力挺進任何戰鬥之中。儘管本身不盡靈活，它的標準配備包含了一架無人炮艇。要留意它有著實驗性的開放式壓載艙和容易淹水的特性，同時它也需要許多人手操作船上的設備，只有一隊經驗豐富的船員才能發揮這艘艦艇的最大實力。</submarine.description.kastrull>
+<submarine.name.venture>冒險型</submarine.name.venture>
+<submarine.description.venture>它們最初被設計做為研究艇，如今冒險型小艇們已經成為了來往哨站與船艦之間更安全的替代方案。</submarine.description.venture>
+<submarine.name.berilia>貝里利亞</submarine.name.berilia>
+<submarine.description.berilia>貝里利亞是歐羅巴上最大的一艘貨船之一。它搭載的兩具引擎和三個壓載艙需要消耗大量能源，船上其他設備也需要大量人力才能維持運作。</submarine.description.berilia>
+<submarine.name.kastrull>Kastrull</submarine.name.kastrull>
+<submarine.description.kastrull>Kastrull系列是款可靠的攻擊型潛艇，它們能以強大火力挺進任何戰鬥之中。儘管本身不盡靈活，它的標準配備包含了一架無人炮艇。要留意它有著實驗性的開放式壓載艙和容易淹水的特性，同時它也需要許多人手操作船上的設備，只有一隊經驗豐富的船員才能發揮這艘艦艇的最大實力。</submarine.description.kastrull>
 <submarine.name.hemulen>希米倫</submarine.name.hemulen>
-<submarine.description.hemulen>想與有能伸展雙腳的空間，或是與貧賤之人保持空間，希米倫是你的最佳的選擇。</submarine.description.hemulen>
+<submarine.description.hemulen>想與有能伸展雙腳的空間，或是想與貧賤之人保持空間，一艘希米倫是你的最佳的選擇。</submarine.description.hemulen>
 <submarine.name.typhon2>颱風2型</submarine.name.typhon2>
-<submarine.description.typhon2>颱風2型改良自它的前身、颱風級潛艇，其本身是一艘重型砲艇。它依舊有著緩慢的速度和醜陋的外型，但它為船員們提供了更好的存活機率。</submarine.description.typhon2>
-<submarine.name.azimuth>方位角型</submarine.name.azimuth>
+<submarine.description.typhon2>颱風2型改良自它的前身、颱風型潛艇，其本身是一艘重型砲艇。它依舊有著緩慢的速度和醜陋的外型，但它為船員們提供了更好的存活機率。</submarine.description.typhon2>
+<submarine.name.azimuth>方位角</submarine.name.azimuth>
 <submarine.description.azimuth>速度一流、造型時尚、加上艙內完善的生活品質使這些潛艇成為有機會退休的富有聯盟老艦長們的最愛。</submarine.description.azimuth>
 <submarine.name.r-29>R-29 "大塊頭"</submarine.name.r-29>
 <submarine.description.r-29>R-29是一艘重型運輸潛艇，儘管它的武器並不足以應付歐羅巴的深海威脅，船上加裝的兩個放電線圈能夠產生強大電擊。由rav2n設計。</submarine.description.r-29>
 <submarine.name.barsuk>野獾</submarine.name.barsuk>
-<submarine.description.barsuk>野獾們是新手船長的最愛。它以回收許多被摧毀潛艇上的材料打造而成 (野獾佔了大多數) 使該系列潛艇的價格維持低廉。多年來野獾愛好者們為自己的野獾進行改造，相互聚集之後形成了一股野獾改裝次文化。</submarine.description.barsuk>
-<submarine.name.winterhalter>禦冬</submarine.name.winterhalter>
+<submarine.description.barsuk>野獾們是新手船長的最愛。它以回收的潛艇殘骸作為材料打造而成 (大多數是野獾殘骸) 使該系列潛艇的價格維持低廉。多年來野獾愛好者們相互聚集，形成了一股圍繞著野獾的改裝文化。</submarine.description.barsuk>
+<submarine.name.winterhalter>溫特豪德</submarine.name.winterhalter>
 <submarine.description.winterhalter>最初是由New Iapetus的Archsteel船廠打造，禦冬系列只生產了一年就被聯盟收購並用於研究目的。許多現存的船艦都配有船載研究室且武裝完備。</submarine.description.winterhalter>
-<submarine.name.herja>女武神</submarine.name.herja>
-<submarine.description.herja>配備著多樣多武器，女武神有能耐處理與各種歐羅巴原生住民的計畫性、非計畫性衝突，是聯盟艦隊的中流砥柱。如果附近有怪物的巢穴被清除，那麼很有可能就是一艘女武神的功勞。</submarine.description.herja>
-<submarine.name.orca2>逆戟鯨2型</submarine.name.orca2>
-<submarine.description.orca2>經典逆戟鯨系列的後繼型式，一樣配有能夠使其快速浮潛的三個壓載艙。作為一艘偵察船，逆戟鯨2型的裝備精良，除了歐羅巴上最危險的怪物，它的對手都難以與其匹敵。</submarine.description.orca2>
+<submarine.name.herja>Herja</submarine.name.herja>
+<submarine.description.herja>配備著多樣武器，Herja們有能耐處理與各種歐羅巴原生住民的計畫性、非計畫性衝突，是聯盟艦隊的中流砥柱。如果附近有怪物的巢穴被清除，那麼很有可能就是一艘Herja的功勞。</submarine.description.herja>
+<submarine.name.orca2>虎鯨2型</submarine.name.orca2>
+<submarine.description.orca2>經典的虎鯨鯨系列的後繼型式，一樣配有能夠使其快速浮潛的三個壓載艙。作為一艘偵察船，逆戟鯨2型的裝備精良，除了歐羅巴上最危險的怪物，它的對手都難以與其匹敵。</submarine.description.orca2>
 
 <!-- Terminal welcome messages -->
 <terminalwelcomemsg.humpback>輸入on或off來接通或斷開蓄電池與電網的連結。輸入一個0-100區間內的數字來設置每個蓄電池的充電速率。</terminalwelcomemsg.humpback>
@@ -3564,7 +3564,7 @@
 <dialogcombatretreating>正在逃跑至安全處！</dialogcombatretreating>
 <dialogcombatretreating>離我遠一點！</dialogcombatretreating>
 <dialogcombatretreating>啊啊啊啊啊！</dialogcombatretreating>
-<dialogcombatretreating>到處都有該死的生物！</dialogcombatretreating>
+<dialogcombatretreating>到處都有這些該死的生物！</dialogcombatretreating>
 <dialogcombatretreating>救命！</dialogcombatretreating>
 <dialogcombatretreating>救救我！</dialogcombatretreating>
 <dialogcannotreturn>無法回到潛艇！</dialogcannotreturn>
