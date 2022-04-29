@@ -27,13 +27,14 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 - This file contains translated lines of NPC conversations.
 
 ###### TraditionalChineseVanilla.xml
-- This file contains a combination of the translated files found within the game's folder (Barotrauma\Content\Texts\English), because using seperated files doesn't seem to work.
+- This file contains a combination of the translated files found within the game's folder ```Barotrauma\Content\Texts\English```, because using seperated files doesn't seem to work.
 
 - If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead:
   - TCVanilla.xml
   - TCVanillaEditorTexts.xml
   - TCVanillaNew.xml
-Then combine them into ```TraditionalChineseVanilla.xml``` afterward.
+
+  Then combine them into ```TraditionalChineseVanilla.xml``` afterward.
 
 ### Recommended Tools:
 - Notepad++
@@ -62,13 +63,14 @@ Then combine them into ```TraditionalChineseVanilla.xml``` afterward.
 - 這個檔案包含了編輯過的NPC對話。
 
 ###### TraditionalChineseVanilla.xml
-- 由於翻譯文本似乎無法被遊戲以同樣於英文文本的方式讀取，這個檔案中包含了編輯過的三個在遊戲的英文文本路徑中(Barotrauma\Content\Texts\English)的檔案內容。
+- 由於翻譯文本似乎無法被遊戲以同樣於英文文本的方式讀取，這個檔案中包含了編輯過的三個在遊戲的英文文本路徑```Barotrauma\Content\Texts\English```中的檔案內容。
 
 - 如果想要與英文文本進行對照並自行修改它的內容，我建議先使用尚未被合併的這些檔案:
   - TCVanilla.xml
   - TCVanillaEditorTexts.xml
   - TCVanillaNew.xml
-最後再將內容一併併入```TraditionalChineseVanilla.xml```中。
+
+  最後再將內容一併併入```TraditionalChineseVanilla.xml```中。
 
 ### 推薦編輯工具:
 - Notepad++
