@@ -6,7 +6,7 @@
 This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
 Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
-Do use it at your own risk, as I coudn;t guarantee any of the translation were as accurate as possible whatsoever, but feel free to edit it on your own.
+Do use it at your own risk, as I couldn't guarantee any of the translations were as accurate as possible whatsoever, but feel free to edit it on your own. And always back up your edited files.
 
 ### Recommended Tools:
 - Notepad++
@@ -16,13 +16,13 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 - Main menu UI
 - Gameplay UI
 - Partial Submarine Editor UI
-- In-game nteractable devices, items
+- In-game interactable devices, items
 - Events and missions
 - NPC Conversations
 
 ### Notes:
-- I left most of the character, location names within missions and events un-translated, since all the generated names are not transleted either.
-- I left these ship names un-translated: Binyip, Selkie, Kastrull, Herja.
+- I left most of the character, location names within missions and events un-translated since all the generated names are not translated either.
+- I left these ship names un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 - Very different translated names for the items and devices.
 
 ### The files:
@@ -43,7 +43,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 這是一個基於官方繁體中文文本的非官方文本Mod。
 文本內容盡量以當前遊戲版本的英文文本內容進行排序，以便對照。
 
-還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度，但歡迎在使用時對它進行編輯。
+還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度等等，但歡迎在使用時對它進行編輯。若有編輯勿忘備份。
 
 ### 推薦編輯工具:
 - Notepad++
@@ -58,7 +58,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 
 ### 備註:
 - 配合大部分隨機生成的NPC、地區名稱都尚為英文，我保留了任務與事件中提到的人物與地區等的英文名稱。
-- 保留 Binyip、Selkie、Kastrull、Herja 船艦名稱。
+- 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 - 部分物件名稱與官方繁體中文文本有極大差異。
 
 ### 檔案:
