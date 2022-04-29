@@ -3129,7 +3129,7 @@
 
 <!-- Submarine names & descriptions -->
 <submarine.name.humpback>座頭鯨</submarine.name.humpback>
-<submarine.description.humpback>這艘前軍用艦艇WH4-L3 "座頭鯨"已經準備好與歐羅巴深海的大多數危險對抗。它的高速度被它的低機動性箝制，且它所搭載的舊型反應爐若沒有備用蓄電池陣列的幫助，船員們會發現部分船上的新式設備無法順利運作。</submarine.description.humpback>
+<submarine.description.humpback>這艘前軍用艦艇WH4-L3 "座頭鯨"已經準備好與歐羅巴深海的大多數危險對抗。但它的高速度被它的低機動性箝制，且它所搭載的舊型反應爐若沒有備用蓄電池陣列的幫助，船員們會發現部分船上的新式設備無法順利運作。</submarine.description.humpback>
 <submarine.name.bunyip>Binyip</submarine.name.bunyip>
 <submarine.description.bunyip>最新型式的人員運輸艦艇，它們能在潛艇與設施之間快速轉移人員。它們的機動性對比相對高階的兄弟姐妹們而言好上許多，但艦上沒有武器使得它在面對攻擊時顯得無助。</submarine.description.bunyip>
 <submarine.name.muikku>Muikku</submarine.name.muikku>
@@ -3161,7 +3161,7 @@
 <submarine.name.barsuk>野獾</submarine.name.barsuk>
 <submarine.description.barsuk>野獾們是新手船長的最愛。它以回收的潛艇殘骸作為材料打造而成 (大多數是野獾殘骸) 使該系列潛艇的價格維持低廉。多年來野獾愛好者們相互聚集，形成了一股圍繞著野獾的改裝文化。</submarine.description.barsuk>
 <submarine.name.winterhalter>溫特豪德</submarine.name.winterhalter>
-<submarine.description.winterhalter>最初是由New Iapetus的Archsteel船廠打造，禦冬系列只生產了一年就被聯盟收購並用於研究目的。許多現存的船艦都配有船載研究室且武裝完備。</submarine.description.winterhalter>
+<submarine.description.winterhalter>最初是由New Iapetus的Archsteel船廠打造，溫特豪德系列潛艇只生產了一年就被聯盟收購並用於研究目的。許多現存的船艦都配有船載研究室且武裝完備。</submarine.description.winterhalter>
 <submarine.name.herja>Herja</submarine.name.herja>
 <submarine.description.herja>配備著多樣武器，Herja們有能耐處理與各種歐羅巴原生住民的計畫性、非計畫性衝突，是聯盟艦隊的中流砥柱。如果附近有怪物的巢穴被清除，那麼很有可能就是一艘Herja的功勞。</submarine.description.herja>
 <submarine.name.orca2>虎鯨2型</submarine.name.orca2>
