@@ -4,9 +4,12 @@
 
 # ENGLISH
 This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
-Their lines are matched as close as possible with the current version English text files for easier side-by-side comparison.
+Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
 Do use it at your own risk, as I coudn;t guarantee any of the translation were as accurate as possible whatsoever, but feel free to edit it on your own.
+
+### Recommended Tools:
+- Notepad++
 
 ### For now this project focuses more on these elements:
 - Names of the interactable items and devices
@@ -27,7 +30,7 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 - This file contains translated lines of NPC conversations.
 
 ###### TraditionalChineseVanilla.xml
-- This file contains a combination of the translated files found within the game's folder ```Barotrauma\Content\Texts\English```, because using seperated files doesn't seem to work.
+- This file contains translated lines of all the files found within the game's Texts folder ```Barotrauma\Content\Texts\English```, because using seperated files doesn't seem to work.
 
 - If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead:
   - TCVanilla.xml
@@ -36,14 +39,14 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
 
   Then combine them into ```TraditionalChineseVanilla.xml``` afterward.
 
-### Recommended Tools:
-- Notepad++
-
 # 中文
 這是一個基於官方繁體中文文本的非官方文本Mod。
 文本內容盡量以當前遊戲版本的英文文本內容進行排序，以便對照。
 
 還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度，但歡迎在使用時對它進行編輯。
+
+### 推薦編輯工具:
+- Notepad++
 
 ### 這個文本目前較著重於調整下列遊戲元素:
 - 主選單UI
@@ -71,6 +74,3 @@ Do use it at your own risk, as I coudn;t guarantee any of the translation were a
   - TCVanillaNew.xml
 
   最後再將內容一併併入```TraditionalChineseVanilla.xml```中。
-
-### 推薦編輯工具:
-- Notepad++
