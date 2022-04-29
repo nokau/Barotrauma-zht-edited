@@ -2,7 +2,7 @@
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
 <!-- edited by nokau for v0.17.12.0 (04.2022) -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
+<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
 
 <!-- Loading Screen -->
 <loading>載入中...</loading>
@@ -6425,7 +6425,7 @@
 
 <!-- EnglishVanillaEditorTexts.xml -->
 <!-- edited by nokau for v0.17.12.0 (04.2022) -->
-<!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
+<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
 <editor.copytoclipboard>複製到剪貼簿</editor.copytoclipboard>
@@ -7723,7 +7723,7 @@
 
 <!-- EnglishVanillaNew.xml -->
 <!-- edited by nokau for v0.17.12.0 (04.2022) -->
-<!-- INDEX: EnglishVanilla.xml (1~6091), EnglishVanillaEditorTexts.xml (6093~7389), EnglishVanilla EnglishVanillaNew.xml (7391~7833) -->
+<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
