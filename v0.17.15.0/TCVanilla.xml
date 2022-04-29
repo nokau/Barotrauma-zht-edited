@@ -22,7 +22,7 @@
 <loadingscreentip>超級電容不像蓄電池那樣能夠儲存大量電力，但能在瞬間釋放高壓電流，它們多半被用於驅動軌道砲或其他需要瞬間高壓電流的設備。</loadingscreentip>
 <loadingscreentip>核反應爐都配備了自動控制系統，開啟時能夠將反應爐的輸出功率調整在最佳狀態，不過該系統在用電量大幅波動的情況下不見得能夠及時做出反應。</loadingscreentip>
 <loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠 － 讓你的工程師確保終端運轉良好！</loadingscreentip>
-<loadingscreentip>當部署誘餌時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
+<loadingscreentip>佈署誘餌彈時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
 <loadingscreentip>在電氣工程技能不足的狀態下試圖替電器設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
 <loadingscreentip>潛艇上的船員都受過電氣設備的基本維修訓練，不過工程師們能夠更快地完成作業。</loadingscreentip>
@@ -1636,19 +1636,19 @@
 <missionsuccess.beaconnoreward>信號站已啟動。</missionsuccess.beaconnoreward>
 <missionfailure.beaconnoreward>信號站未被啟動。</missionfailure.beaconnoreward>
 <missionname.killcrawlerbroodmother1>爬行者巢母</missionname.killcrawlerbroodmother1>
-<missiondescription.killcrawlerbroodmother1>有報告指出，一隻特別巨大且富有敵意的爬行者正在威脅[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killcrawlerbroodmother1>
+<missiondescription.killcrawlerbroodmother1>有報告指出，一隻特別巨大且富有敵意的爬行者正威脅著在[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killcrawlerbroodmother1>
 <missionsonarlabel.killcrawlerbroodmother1>爬行者巢母</missionsonarlabel.killcrawlerbroodmother1>
 <missionsuccess.killcrawlerbroodmother1>爬行者巢母已被消滅。</missionsuccess.killcrawlerbroodmother1>
 <missionheader0.killcrawlerbroodmother1>已殲滅目標</missionheader0.killcrawlerbroodmother1>
 <missionmessage0.killcrawlerbroodmother1>爬行者巢母已被消滅，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.killcrawlerbroodmother1>
 <missionname.killgiantspineling1>巨型脊刺</missionname.killgiantspineling1>
-<missiondescription.killgiantspineling1>有報告指出，一隻特別巨大且富有敵意的脊刺正在威脅[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killgiantspineling1>
+<missiondescription.killgiantspineling1>有報告指出，一隻特別巨大且富有敵意的脊刺正威脅著在[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killgiantspineling1>
 <missionsonarlabel.killgiantspineling1>巨型脊刺</missionsonarlabel.killgiantspineling1>
 <missionsuccess.killgiantspineling1>巨型脊刺已被消滅。</missionsuccess.killgiantspineling1>
 <missionheader0.killgiantspineling1>已殲滅目標</missionheader0.killgiantspineling1>
 <missionmessage0.killgiantspineling1>巨型脊刺已被消滅，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.killgiantspineling1>
 <missionname.killmudraptors1>消滅泥偶迅猛龍</missionname.killmudraptors1>
-<missiondescription.killmudraptors1>一群泥偶迅猛龍正在威脅[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killmudraptors1>
+<missiondescription.killmudraptors1>一群泥偶迅猛龍正威脅著在[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killmudraptors1>
 <missionsonarlabel.killmudraptors1>泥偶迅猛龍</missionsonarlabel.killmudraptors1>
 <missionsuccess.killmudraptors1>泥偶迅猛龍已被消滅。</missionsuccess.killmudraptors1>
 <missionheader0.killmudraptors1>已殲滅目標</missionheader0.killmudraptors1>
@@ -6045,7 +6045,7 @@
 <hint.onstartedinteracting.item.deconstructor>使用解構儀將物品拆解成組成它們的原料或零件。將一件物品置於Input欄位並按下'分解'進行解構。</hint.onstartedinteracting.item.deconstructor>
 <hint.onstartedinteracting.item.fabricator>使用加工台來製作物品。從選單中選擇要製作的物品，當你有足夠原料時按下'製作'開始製作物品。</hint.onstartedinteracting.item.fabricator>
 <hint.onstartedinteracting.item.gunloader>這台裝彈機必須使用與其連結武器的彈藥種類。</hint.onstartedinteracting.item.gunloader>
-<hint.onstartedinteracting.item.navterminal>你能為潛艇設定航線、切換自動駕駛、操作聲納、監視反彈回來的聲波。點選指向聲納來限制聲納的發射方向。以滑鼠滾輪縮放聲納畫面。</hint.onstartedinteracting.item.navterminal>
+<hint.onstartedinteracting.item.navterminal>你能為潛艇設定航線、切換自動駕駛、操作聲納、監視反彈回來的聲波。點選指向性聲納來限制聲納的發射方向。以滑鼠滾輪縮放聲納畫面。</hint.onstartedinteracting.item.navterminal>
 <hint.onstartedinteracting.item.reactor>核子反應爐為你的設備提供電力。試著將你的'輸出功率'與'負載'維持在相同數值，否則你很有可能會遭遇停電或者設備受到過高電壓而損壞。</hint.onstartedinteracting.item.reactor>
 <hint.onstoleitem>你剛剛偷了東西，這會使你的聲望降低，更糟的是守衛會需要針對這件事進行懲處。</hint.onstoleitem>
 <hint.ontryopenstuckdoor>這扇門被焊死了，你需要使用電漿切割器才能將它開啟。</hint.ontryopenstuckdoor>
