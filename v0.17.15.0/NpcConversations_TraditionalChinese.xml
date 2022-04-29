@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
-<!-- edited by nokau v2204 --><!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+
 <!-- Personality traits -->
 <PersonalityTrait name="Professional" alloweddialogtags="professional,none" commonness="1" />
 <PersonalityTrait name="Laid-back" alloweddialogtags="laid-back,none" commonness="1" />
@@ -169,7 +169,7 @@
 	<Conversation line="她潛入魚兒沉睡的地方！" speaker="0">
 		<Conversation line="該死的深度該死的壓力..." speaker="0">
 			<Conversation line="像長尾鯊一樣拿下她！" speaker="0">
-				<Conversation line="的船上不准唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
+				<Conversation line="我的船上不准唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 					<Conversation line="" speaker="0"/>
 					<Conversation line="好吧好吧，我不會再試著讓大家放鬆心情了！" speaker="0"/>
 				</Conversation>
@@ -404,7 +404,7 @@
 		<Conversation line="你說的話沒有邏輯。" speaker="1"/>
 	</Conversation>
 	<Conversation line="也許是深淵在凝視我們。" speaker="0" speakertags="crazy">
-		<Conversation line="邪教說對了一 － 深淵裡有東西。" speaker="0" speakertags="crazy">
+		<Conversation line="邪教說對了一件事 － 深淵裡有東西。" speaker="0" speakertags="crazy">
 			<Conversation line="" speaker="0"/>
 			<Conversation line="拜託。" speaker="1"/>
 			<Conversation line="大概吧，大概。" speaker="1">
