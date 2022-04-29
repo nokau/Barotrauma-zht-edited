@@ -515,12 +515,12 @@
 
 <!-- Tab menu -->
 <tabmenu.voip>VOIP</tabmenu.voip>
-<tabmenu.job>Job</tabmenu.job>
-<tabmenu.character>Character</tabmenu.character>
+<tabmenu.job>職業</tabmenu.job>
+<tabmenu.character>角色</tabmenu.character>
 <tabmenu.characterchangespending>你對角色的變更將在此回合結束之後生效。</tabmenu.characterchangespending>
-<tabmenu.traitor>Traitor</tabmenu.traitor>
+<tabmenu.traitor>叛徒</tabmenu.traitor>
 <tabmenu.bot>Bot</tabmenu.bot>
-<tabmenu.inlobby>In lobby</tabmenu.inlobby>
+<tabmenu.inlobby>於大廳</tabmenu.inlobby>
 <tabmenu.talents>天賦</tabmenu.talents>
 
 <!-- Round summary ***-->
@@ -616,7 +616,7 @@
 <destination>目的地</destination>
 <previous>上一個</previous>
 <next>下一個</next>
-<name>Name</name>
+<name>名稱</name>
 <unlimited>無限</unlimited>
 <deletedialoglabel>刪除檔案？</deletedialoglabel>
 <deletedialogquestion>你確定要刪除'[file]'嗎？</deletedialogquestion>
@@ -1648,7 +1648,7 @@
 <missionheader0.killgiantspineling1>已殲滅目標</missionheader0.killgiantspineling1>
 <missionmessage0.killgiantspineling1>巨型脊刺已被消滅，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.killgiantspineling1>
 <missionname.killmudraptors1>消滅泥偶迅猛龍</missionname.killmudraptors1>
-<missiondescription.killmudraptors1>一群泥偶迅猛龍正威脅著在[location1]和[location2]之間旅行的船隻。任何能夠消滅牠的人都將得到[reward]馬克的獎勵。</missiondescription.killmudraptors1>
+<missiondescription.killmudraptors1>一群泥偶迅猛龍正威脅著在[location1]和[location2]之間旅行的船隻。任何能夠消滅牠們的人都將得到[reward]馬克的獎勵。</missiondescription.killmudraptors1>
 <missionsonarlabel.killmudraptors1>泥偶迅猛龍</missionsonarlabel.killmudraptors1>
 <missionsuccess.killmudraptors1>泥偶迅猛龍已被消滅。</missionsuccess.killmudraptors1>
 <missionheader0.killmudraptors1>已殲滅目標</missionheader0.killmudraptors1>
@@ -3044,7 +3044,7 @@
 <label.emergency>緊急</label.emergency>
 <label.backuppowerarray>備用電源陣列</label.backuppowerarray>
 <label.dronecontrol>無人機控制</label.dronecontrol>
-<label.statuslabel>Status</label.statuslabel>
+<label.statuslabel>狀態</label.statuslabel>
 <label.onlinelabel>Online</label.onlinelabel>
 <label.offlinelabel>Offline</label.offlinelabel>
 <label.openlabel>打開</label.openlabel>
@@ -3400,7 +3400,7 @@
 <dialogturrettargetdead>擊落敵人！</dialogturrettargetdead>
 <dialogturrettargetdead>打下目標！</dialogturrettargetdead>
 <dialogturrettargetdead>我好像解決了！</dialogturrettargetdead>
-<dialogturrettargetdead>他掛了！</dialogturrettargetdead>
+<dialogturrettargetdead>它掛了！</dialogturrettargetdead>
 <dialogchargebatteries>調整[itemname]的充電率至[rate]%！</dialogchargebatteries>
 <dialogchargebatteries>[itemname]調整至[rate]%！</dialogchargebatteries>
 <dialognobatteries>什麼乾電池？</dialognobatteries>
@@ -5207,7 +5207,7 @@
 <eventtext.huskcultambush.o2>“放鬆，親愛的兄弟姊妹們，我昇華的時刻未到。”</eventtext.huskcultambush.o2>
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
-<eventtext.missionevent_cargo1.c1>“我們雇用了一組船員來運送這些材料，但它們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。”</eventtext.missionevent_cargo1.c1>
+<eventtext.missionevent_cargo1.c1>“我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。”</eventtext.missionevent_cargo1.c1>
 <eventtext.missionevent_cargo2.c1>“有一批需要被「小心運送」的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。”</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>“附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。”</eventtext.missionevent_cargo3.c1>
 <eventtext.missionevent_killswarm.c1>“這裡沒有一艘船能在離開時不遇到成群怪物，你們能處理好這個問題的話我可以給你們一些獎勵。”</eventtext.missionevent_killswarm.c1>
@@ -5220,9 +5220,9 @@
 <eventtext.missionevent_salvage.c1>“我稍早之前才在站上發布了一項工作，它應該也被傳送到你船上的系統裡了，有興趣的話考慮看看。”</eventtext.missionevent_salvage.c1>
 <eventtext.missionevent_clownoutbreak.c1>有一堆上面寫著各式各樣工作機會的傳單，其中一張是運送幾箱小丑裝備至附近的哨站，上面寫到: “如果你有興趣，模仿你最喜歡的鳥叫聲。”</eventtext.missionevent_clownoutbreak.c1>
 <eventtext.missionevent_clownoutbreak.o1>“咕嚕嚕！”</eventtext.missionevent_clownoutbreak.o1>
-<eventtext.missionevent_clownoutbreak.o1.c1>從遠處傳來的一聲喇叭聲認定你就是接下這項工作的人，在離開哨站時將會有一批貨物託付給你。</eventtext.missionevent_clownoutbreak.o1.c1>
+<eventtext.missionevent_clownoutbreak.o1.c1>從遠處傳來的一聲喇叭聲認定你就是接下這份工作的人，在離開哨站時將會有一批貨物託付給你。</eventtext.missionevent_clownoutbreak.o1.c1>
 <eventtext.missionevent_clownoutbreak.o2>“嘎！嘎！”</eventtext.missionevent_clownoutbreak.o2>
-<eventtext.missionevent_clownoutbreak.o2.c1>從遠處傳來的一聲喇叭聲認定你就是接下這項工作的人，在離開哨站時將會有一批貨物託付給你。</eventtext.missionevent_clownoutbreak.o2.c1>
+<eventtext.missionevent_clownoutbreak.o2.c1>從遠處傳來的一聲喇叭聲認定你就是接下這份工作的人，在離開哨站時將會有一批貨物託付給你。</eventtext.missionevent_clownoutbreak.o2.c1>
 <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
 <eventtext.bigbrother.c1>從擴音系統傳來了一段廣播，“召集剛登上哨站的那群人員，請派出一位代表至行政辦公室與安全主管會面。”</eventtext.bigbrother.c1>
 <eventtext.bigbrother.c1.c1>“你就是那群新來的之一？很好，我這裡有個棘手的問題，但我現在沒辦法信任任何在我底下工作的人。”安全主管停頓了一下，看了看你，“一般來說，我不會隨便向陌生人尋求協助，但我已經別無選擇了。不必我多說，我需要你對這項的任務保密，有興趣嗎？”</eventtext.bigbrother.c1.c1>
@@ -5833,7 +5833,7 @@
 <campaignstore.ownedinventory>物品欄: [amount]</campaignstore.ownedinventory>
 <campaignstore.ownedsub>潛艇: [amount]</campaignstore.ownedsub>
 <campaignstore.ownedspecific>擁有: [nonempty] ([total])</campaignstore.ownedspecific>
-<campaignstore.ownednonempty>含內容物: [amount]</campaignstore.ownednonempty>
+<campaignstore.ownednonempty>不為空物: [amount]</campaignstore.ownednonempty>
 <campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
 
 
@@ -6052,7 +6052,7 @@
 <hint.onweldingdoor>你正在將將一扇門焊死，當焊接完成之後，你需要使用電漿切割器或撬棍才能再度將它開起。</hint.onweldingdoor>
 <hint.reminder.characterchange>如果你想要，你能開啟畫面左上方的船員列表，並點選列表中角色圖案來扮演任何一位隊伍中的船員。</hint.reminder.characterchange>
 <hint.reminder.commandinterface>你能按下[commandkey]開啟指令介面來對你的船員下達指令。</hint.reminder.commandinterface>
-<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊界面，你能夠找到你的船員、任務、你的聲望等等的資訊。</hint.reminder.tabmenu>
+<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊界面，你能夠找到你的船員、任務、聲望等等的資訊。</hint.reminder.tabmenu>
 <hint.reminder.toolbelt>你裝備了一個工具腰帶，將滑鼠游標移動至其圖案之上來檢視工具腰帶中的欄位。</hint.reminder.toolbelt>
 <hint.onballastflorainfected>其中一具位於壓載艙的抽水機被壓載艙植物群感染了，以火焰清除它根部好進一步消滅它。</hint.onballastflorainfected>
 
@@ -6144,7 +6144,7 @@
 <talentname.tandemfire>交叉火力</talentname.tandemfire>
 <talentdescription.tandemfire>只要有隊友與你一同操作砲塔，你們的攻擊力提升[amount]%，只對周遭的隊友會受到影響。</talentdescription.tandemfire>
 <talentname.munitionsexpertise>彈藥知識</talentname.munitionsexpertise>
-<talentdescription.munitionsexpertise>當你製作SMG、霰彈槍、電擊槍彈藥時，你有[probability]%機率或的兩倍成品。</talentdescription.munitionsexpertise>
+<talentdescription.munitionsexpertise>當你製作SMG、霰彈槍、電擊槍彈藥時，你有[probability]%機率獲得兩倍成品。</talentdescription.munitionsexpertise>
 <talentdescription.multitasker>當你獲得技能點數時，若與先前升級的技能不同，獲得兩倍點數。</talentdescription.multitasker>
 <talentdescription.apprenticeship>當你的隊友獲得技能點數時，你有[probability]%的機率也獲得該技能點數。.</talentdescription.apprenticeship>
 <talentname.navydiver>海軍潛水員</talentname.navydiver>
@@ -6340,13 +6340,13 @@
 <talentdescription.tinker.fabricatoranddeconstructor>你能對加工台和解構儀敲敲打打，提升它們的運作速度[speedincrease]%。\n你能無限制地進行敲打。</talentdescription.tinker.fabricatoranddeconstructor>
 <talentdescription.tinker.pump>你能對抽水機敲敲打打，提升它的抽水速度[speedincrease]%。</talentdescription.tinker.pump>
 <talentdescription.tinker.engine>你能對引擎敲敲打打，提升它的推進力[speedincrease]%。</talentdescription.tinker.engine>
-<talentdescription.tinker.loader>你能對裝彈機敲敲打打，與之連結砲塔的射速與傷害提升[damageincrease]%，且耗電量降低[powercostreduction]%。</talentdescription.tinker.loader>
+<talentdescription.tinker.loader>你能對裝彈機敲敲打打，與之連結的砲塔射速與傷害提升[damageincrease]%，且耗電量降低[powercostreduction]%。</talentdescription.tinker.loader>
 <talentdescription.tinker.tutorial>你能用扳手對設備敲敲打打。</talentdescription.tinker.tutorial>
 <talentdescription.tinker.cooldownreduction>敲敲打打的冷卻時間縮短至[seconds]秒。</talentdescription.tinker.cooldownreduction>
 <talentdescription.tinker.durationincrease>你能額外敲打[seconds]秒。</talentdescription.tinker.durationincrease>
 <talentdescription.tinker.suppliespower>砲塔以外的設備在被你敲打時能夠如通電時的狀態照常運作。</talentdescription.tinker.suppliespower>
-<talentdescription.tinker.reminder>只有在設備被你敲打時會受到影響。</talentdescription.tinker.reminder>
-<talentdescription.tinker.duration>你能夠進行[duration]秒的敲打，結束之後你會有[cooldown]秒無法進行敲打。</talentdescription.tinker.duration>
+<talentdescription.tinker.reminder>設備只有在被你敲打時會受到影響。</talentdescription.tinker.reminder>
+<talentdescription.tinker.duration>你能夠進行[duration]秒的敲打，結束之後你將會有[cooldown]秒無法進行敲打。</talentdescription.tinker.duration>
 <talentdescription.tinker.overclocking>對設備敲敲打打會對它們造成損壞，但是敲打的效果提升[tinkerincrease]%。</talentdescription.tinker.overclocking>
 <talentdescription.fieldmedic>如果你的全部隊友生命值高於[healththreshold]%時，每[seconds]秒獲得[skillincrease]醫療技能點數。</talentdescription.fieldmedic>
 <talentdescription.curiosity>當你拆解一項異星文物時獲得[experiencegain]經驗值，而你的隊友將獲得[crewexperiencegain]經驗值。</talentdescription.curiosity>
@@ -7573,7 +7573,7 @@
 <entityname.opdeco_hrheater>Radiator</entityname.opdeco_hrheater>
 <entityname.opdeco_hrelectricpanel>Notice Board</entityname.opdeco_hrelectricpanel>
 <entityname.opdeco_hrbench>Bench</entityname.opdeco_hrbench>
-<entityname.opdeco_hrflyers>Fliers</entityname.opdeco_hrflyers>
+<entityname.opdeco_hrflyers>傳單</entityname.opdeco_hrflyers>
 <entityname.opdeco_officeshelf1>Office Shelf</entityname.opdeco_officeshelf1>
 <entityname.opdeco_officedesk1>Office Desk</entityname.opdeco_officedesk1>
 <entityname.opdeco_officedisplay1>Decorative Trophy</entityname.opdeco_officedisplay1>
