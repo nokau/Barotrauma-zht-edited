@@ -3130,8 +3130,8 @@
 <!-- Submarine names & descriptions -->
 <submarine.name.humpback>座頭鯨</submarine.name.humpback>
 <submarine.description.humpback>這艘前軍用艦艇WH4-L3 "座頭鯨"已經準備好與歐羅巴深海的大多數危險對抗。但它的高速度被它的低機動性箝制，且它所搭載的舊型反應爐若沒有備用蓄電池陣列的幫助，船員們會發現部分船上的新式設備無法順利運作。</submarine.description.humpback>
-<submarine.name.bunyip>Binyip</submarine.name.bunyip>
-<submarine.description.bunyip>最新型式的人員運輸艦艇，它們能在潛艇與設施之間快速轉移人員。它們的機動性對比相對高階的兄弟姐妹們而言好上許多，但艦上沒有武器使得它在面對攻擊時顯得無助。</submarine.description.bunyip>
+<submarine.name.bunyip>Bunyip</submarine.name.bunyip>
+<submarine.description.bunyip>最新型式的人員運輸艦艇，它們能在潛艇與設施之間快速轉移人員。它們的航行距離相對高階的兄弟姐妹們而言要來得低，且艦上沒有武器使得它在面對攻擊時更顯無助。</submarine.description.bunyip>
 <submarine.name.muikku>Muikku</submarine.name.muikku>
 <submarine.description.muikku>歐羅巴殖民地之間的生力軍之一。這些小艇具有不錯的速度與良好的浮潛性能，但它們脆弱且航行範圍受到其搭載的低容量蓄電池限制。</submarine.description.muikku>
 <submarine.name.orca>虎鯨</submarine.name.orca>
