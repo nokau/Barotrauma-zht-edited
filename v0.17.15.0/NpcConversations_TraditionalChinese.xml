@@ -16,7 +16,7 @@
 	<Conversation line="" speaker="0"/>
 	<Conversation line="收到。" speaker="1">
 		<Conversation line="收到、長官！" speaker="2"/>
-		<Conversation line="好、船長!" speaker="2" speakertags="brokenenglish"/>
+		<Conversation line="好、船長！" speaker="2" speakertags="brokenenglish"/>
 	</Conversation>
 </Conversation>
 
@@ -40,14 +40,14 @@
 	<Conversation line="收到！" speaker="1"/>
 </Conversation>
 
-<Conversation line="準備好船員們，我們有一段長路要走！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+<Conversation line="準備船員們，我們前面要走很長的路！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 	<Conversation line="收到，長官！" speaker="1"/>
 	<Conversation line="收到！" speaker="1"/>
 	<Conversation line="願小丑聖母保佑我們。" speaker="1" speakertags="crazy"/>
 	<Conversation line="祝好運、各位！" speaker="1" allowedjobs="watchman"/>
 </Conversation>
 
-<Conversation line="我是艦長！為任務做好準備吧，小夥子們！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+<Conversation line="艦長在說話！為任務準備船員祝好運吧！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 	<Conversation line="收到，長官！" speaker="1"/>
 	<Conversation line="收到。" speaker="1">
 		<Conversation line="收到，長官！" speaker="2"/>
@@ -60,11 +60,11 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="各位準備好了嗎？最好快點，我們沒有回頭路了。" speaker="0" flags="Initial" allowedjobs="captain">
+<Conversation line="各位準備好了嗎？沒有也來不及，我們已經無法回頭了。" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="" speaker="0"/>
 	<Conversation line="收到，長官！" speaker="1">
 		<Conversation line="來吧！" speaker="2"/>
-		<Conversation line="隨時接招！" speaker="2" speakertags="brokenenglish"/>
+		<Conversation line="隨時準備好！" speaker="2" speakertags="brokenenglish"/>
 		<Conversation line="哇嗚！我們離死亡不遠了！" speaker="2" speakertags="crazy"/>
 	</Conversation>
 </Conversation>
@@ -160,15 +160,15 @@
 	<Conversation line="可以想像。" speaker="1">
 		<Conversation line="那個畫面依然深深地刻在我的腦海裡。" speaker="0">
 			<Conversation line="被液壓沖床壓過的一袋肉和骨頭，這是我想得到最好的描述。" speaker="0"/>
-			<Conversation line="歐羅巴的溫暖懷抱。。" speaker="2" speakertags="crazy"/>
+			<Conversation line="歐羅巴的溫暖懷抱。" speaker="2" speakertags="crazy"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
-<Conversation line="再快點，再深點..." speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
+<Conversation line="再快點、再深點..." speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
 	<Conversation line="她潛入魚兒沉睡的地方！" speaker="0">
-		<Conversation line="該死的深度該死的壓力..." speaker="0">
-			<Conversation line="像長尾鯊一樣拿下她！" speaker="0">
+		<Conversation line="該死的深度、該死的壓力..." speaker="0">
+			<Conversation line="像虎尾煞一般將她拿下！" speaker="0">
 				<Conversation line="我的船上不准唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 					<Conversation line="" speaker="0"/>
 					<Conversation line="好吧好吧，我不會再試著讓大家放鬆心情了！" speaker="0"/>
@@ -289,7 +289,7 @@
 <Conversation line="我想要一些刺激！" speaker="0" speakertags="tough" maxintensity="0.2"/>
 
 <Conversation line="平靜的浪潮是無法鍛煉出老練水手的。" speaker="0" speakertags="tough">
-	<Conversation line="洶湧的冰洋會讓水手死掉！" speaker="1" speakertags="brokenenglish"/>
+	<Conversation line="大海浪會讓水手死掉！" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
 <Conversation line="我們應該在船上放一台咖啡機。" speaker="0" speakertags="laid-back" maxintensity="0.2">
@@ -335,7 +335,7 @@
 				<Conversation line="我不是這方面的專家，但我覺得技術上應該不會有什麼問題。" speaker="0">
 					<Conversation line="嘿，先專心做好你手邊的事吧。" speaker="1" speakertags="professional"/>
 					<Conversation line="我不確定...一定有什麼技術難關，不然早就有人這麼做了。" speaker="1"/>
-					<Conversation line="好主意！" speaker="1" speakertags="brokenenglish">
+					<Conversation line="好想法！" speaker="1" speakertags="brokenenglish">
 						<Conversation line="嘿，先專心做好你手邊的事吧。" speaker="2" speakertags="professional"/>
 					</Conversation>
 				</Conversation>
@@ -347,7 +347,7 @@
 				<Conversation line="它們上面都有通氣孔應該不是沒有原因的吧。" speaker="1">
 					<Conversation line="要不然他們早就把配電箱做成防水的了。" speaker="1"/>
 				</Conversation>
-				<Conversation line="好主意！" speaker="1" speakertags="brokenenglish">
+				<Conversation line="好想法！" speaker="1" speakertags="brokenenglish">
 					<Conversation line="嘿，先專心做好你手邊的事吧。" speaker="2" speakertags="professional"/>
 				</Conversation>
 			</Conversation>
@@ -439,7 +439,7 @@
 
 <Conversation line="風水輪流轉。" speaker="0" minintensity="0.5"/>
 
-<Conversation line="完蛋！" speaker="0" speakertags="brokenenglish" minintensity="0.5"/>
+<Conversation line="慘！" speaker="0" speakertags="brokenenglish" minintensity="0.5"/>
 
 <Conversation line="不好！" speaker="0" speakertags="brokenenglish" minintensity="0.5"/>
 
@@ -461,7 +461,7 @@
 
 <Conversation line="我受夠了！" speaker="0" speakertags="rude" minintensity="0.6"/>
 
-<Conversation line="如果我撐不過去告訴我媽媽我愛她！" speaker="0" speakertags="fearful" minintensity="0.6">
+<Conversation line="如果我撐不過這次，告訴我媽媽我愛她！" speaker="0" speakertags="fearful" minintensity="0.6">
 	<Conversation line="閉上你的臭嘴！" speaker="1" speakertags="rude"/>
 	<Conversation line="夠了！你撐得過去的！" speaker="1" speakertags="professional"/>
 </Conversation>
@@ -483,7 +483,7 @@
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
 </Conversation>
 
-<Conversation line="好深好可怕。" speaker="0" flags="SubmarineDeep" speakertags="brokenenglish">
+<Conversation line="好深好怕。" speaker="0" flags="SubmarineDeep" speakertags="brokenenglish">
 	<Conversation line="" speaker="0" flags="Casual"/>
 	<Conversation line="跟她說的話一模一樣。" speaker="1" speakertags="joker"/>
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
@@ -492,7 +492,7 @@
 <Conversation line="你聽到船體在呻吟了嗎？這個深度真的安全嗎？" speaker="0" flags="SubmarineDeep" speakertags="fearful">
 	<Conversation line="要安全的話一開始就別加入船隊了。" speaker="1" speakertags="tough,rude"/>
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
-	<Conversation line="應該沒問題，但還是把焊接工具準備好。。" speaker="1"/>
+	<Conversation line="應該沒問題，但還是把焊接工具準備好。" speaker="1"/>
 </Conversation>
 
 <!-- Afflictions -->
@@ -959,7 +959,7 @@
 	<Conversation line="你確定你不是幻聽嗎？" speaker="1"/>
 </Conversation>
 
-<Conversation line="那天晚上的迅猛龍比賽真是太精彩了!" speaker="0" flags="OutpostNPC">
+<Conversation line="那天晚上的迅猛龍比賽真是太精彩了！" speaker="0" flags="OutpostNPC">
 	<Conversation line="我覺得讓迅猛龍比賽太殘酷了。" speaker="1" flags="OutpostNPC">
 		<Conversation line="我賭的那隻迅猛龍的騎手被吃掉了，就這點我同意你。" speaker="0"/>
 	</Conversation>
@@ -994,8 +994,8 @@
 </Conversation>
 
 <Conversation line="...然後我對醫生說: 「那不是觸手！」" speaker="0" flags="OutpostNPC">
-	<Conversation line="哈哈!" speaker="1" flags="OutpostNPC"/>
-	<Conversation line="呃，你真噁心!" speaker="1" flags="OutpostNPC"/>
+	<Conversation line="哈哈！" speaker="1" flags="OutpostNPC"/>
+	<Conversation line="呃，你真噁心！" speaker="1" flags="OutpostNPC"/>
 </Conversation>
 
 <Conversation line="設計這個地方的人根本不知道他們在做什麼。" speaker="0" flags="OutpostNPC">
@@ -1014,7 +1014,7 @@
 	<Conversation line="補償者？那是我見過的形狀最奇怪的潛艇。" speaker="1" flags="OutpostNPC"/>
 </Conversation>
 
-<Conversation line="這裡的自動販賣機賣的食物超好吃，那些海藻蛋白餅太好吃了!" speaker="0" flags="OutpostNPC">
+<Conversation line="這裡的自動販賣機賣的食物超好吃，那些海藻蛋白餅太好吃了！" speaker="0" flags="OutpostNPC">
 	<Conversation line="它們跟其他任何自動販賣機裡的海藻蛋白餅一樣，味道像泥巴。" speaker="1" flags="OutpostNPC">
 		<Conversation line="你根本不懂吃。" speaker="0"/>
 	</Conversation>
@@ -1056,10 +1056,10 @@
 <Conversation line="哦，我們又有訪客了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好啊！看起來你們旅途似乎遇到了不少波折。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-<Conversation line="你好! 歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="你好！歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們這些人看起來需要休息一下。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我以前沒有見過你們。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-<Conversation line="你們的潛艇真漂亮!" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="你們的潛艇真漂亮！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我希望你們不打算在這裡待很久，這裡的問題已經夠多了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好，我希望你們不會惹出任何麻煩。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我會盯著你你們。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
