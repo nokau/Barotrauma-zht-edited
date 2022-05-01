@@ -23,14 +23,14 @@ Do use it at your own risk, as I couldn't guarantee any of the translations were
 
 ## The files:
 You can find the mentioned files inside the [current_version](./current_version) folder:
-###### NpcConversations_TraditionalChinese.xml
+### NpcConversations_TraditionalChinese.xml
 - This file contains translated lines of NPC conversations.
 - The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese```
 
-###### TraditionalChineseVanilla.xml
-- This file contains translated lines of all the files found within the game's Texts folder ```Barotrauma\Content\Texts\English```, because using seperated files doesn't seem to work.
+### TraditionalChineseVanilla.xml
+- This file contains translated lines of all the English files found within the game's Texts folder, because using seperated files doesn't seem to work.
 - If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead, then combine them into TraditionalChineseVanilla.xml afterward:
-  - TCVanilla.xml
-  - TCVanillaEditorTexts.xml
-  - TCVanillaNew.xml
+  - **TCVanilla.xml**
+  - **TCVanillaEditorTexts.xml**
+  - **TCVanillaNew.xml**
 - The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
