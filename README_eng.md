@@ -1,3 +1,4 @@
+## What is this?
 This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones.
 Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
@@ -21,15 +22,15 @@ Do use it at your own risk, as I couldn't guarantee any of the translations were
 - Very different translated names for some of the items and devices.
 
 ## The files:
+You can find the mentioned files inside the [current_version](./current_version) folder:
 ###### NpcConversations_TraditionalChinese.xml
 - This file contains translated lines of NPC conversations.
+- The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese```
 
 ###### TraditionalChineseVanilla.xml
 - This file contains translated lines of all the files found within the game's Texts folder ```Barotrauma\Content\Texts\English```, because using seperated files doesn't seem to work.
-
-- If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead:
+- If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead, then combine them into TraditionalChineseVanilla.xml afterward:
   - TCVanilla.xml
   - TCVanillaEditorTexts.xml
   - TCVanillaNew.xml
-
-  Then combine them into ```TraditionalChineseVanilla.xml``` afterward.
+- The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
