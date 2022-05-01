@@ -12,7 +12,7 @@ Do use it at your own risk, as I couldn't guarantee any of the translations were
 - Main menu UI
 - Gameplay UI
 - Partial Submarine Editor UI
-- In-game interactable devices, items
+- Names and descriptions of in-game interactable devices, items
 - Events and missions
 - NPC Conversations
 
