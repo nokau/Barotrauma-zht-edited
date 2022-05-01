@@ -14,7 +14,7 @@ Do use it at your own risk, as I couldn't guarantee any of the translations were
 - Partial Submarine Editor UI
 - Names and descriptions of in-game interactable devices, items
 - Events and missions
-- NPC Conversations
+- NPC conversations
 
 ## Notes
 - I left most of the character, location names within missions and events un-translated since all the generated names are not translated either.
