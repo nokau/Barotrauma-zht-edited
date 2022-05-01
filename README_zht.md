@@ -21,7 +21,7 @@
 - 部分物件名稱與官方繁體中文文本有極大差異。
 
 ## 檔案:
-你能在這個專案中，目前遊戲版本的資料夾裡找到以下提到的所有檔案:
+你能在這個專案中的[current_version](./current_version)資料夾裡找到以下提到的所有檔案:
 
 ### NpcConversations_TraditionalChinese.xml
 - 這個檔案包含了編輯過的NPC對話。
