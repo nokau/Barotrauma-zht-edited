@@ -29,8 +29,8 @@ You can find the mentioned files inside the [current_version](./current_version)
 
 ### TraditionalChineseVanilla.xml
 - This file contains translated lines of all the English files found within the game's Texts folder, because using seperated files doesn't seem to work.
+- The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
 - If you were interested in editing side-by-side with the English flies, I'd recommend using these files instead, then combine them into TraditionalChineseVanilla.xml afterward:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
-- The game's file is located at ```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
