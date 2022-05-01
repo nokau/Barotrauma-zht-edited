@@ -30,7 +30,7 @@
 ### TraditionalChineseVanilla.xml
 - 由於翻譯文本似乎無法被遊戲以同樣於英文文本的方式讀取，這個檔案中包含了編輯過的三個在遊戲的英文文本路徑中的檔案內容。
 - 如果想要與英文文本進行對照並自行修改它的內容，我推薦先使用尚未被合併的這些檔案，最後再將內容一併併入 TraditionalChineseVanilla.xml 中:
-  - TCVanilla.xml
-  - TCVanillaEditorTexts.xml
-  - TCVanillaNew.xml
+  - **TCVanilla.xml**
+  - **TCVanillaEditorTexts.xml**
+  - **TCVanillaNew.xml**
 - 這個檔案在遊戲資料夾中的路徑為```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
