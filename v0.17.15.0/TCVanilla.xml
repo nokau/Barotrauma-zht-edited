@@ -874,12 +874,12 @@
 <campaignstartfailedsubnotfound>無法開始戰役。找不到潛艇[subname]。</campaignstartfailedsubnotfound>
 <campaignfiletransferinprogress>請等待戰役存檔完成下載。</campaignfiletransferinprogress>
 <endcampaignverification>確定要離開戰役嗎？所有未保存的進度將會遺失。</endcampaignverification>
-<campaignmode.missingcontentpackage>內容套件"[missingcontentpackage]"在這個存檔中被使用過，但目前並未啟用。</campaignmode.missingcontentpackage>
+<campaignmode.missingcontentpackage>內容套件 "[missingcontentpackage]" 在這個存檔中被使用過，但目前並未啟用。</campaignmode.missingcontentpackage>
 <campaignmode.missingcontentpackages>內容套件 [missingcontentpackages] 在這個存檔中被使用過，但目前並未啟用。</campaignmode.missingcontentpackages>
-<campaignmode.incompatiblecontentpackage>內容套件"[missingcontentpackage]"在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackage>
-<campaignmode.incompatiblecontentpackages>內容套件 [missingcontentpackages] 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackages>
+<campaignmode.incompatiblecontentpackage>內容套件 "[incompatiblecontentpackage]" 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackage>
+<campaignmode.incompatiblecontentpackages>內容套件 [incompatiblecontentpackages] 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackages>
 <campaignmode.contentpackageordermismatch>內容套件的載入順序在保存戰役時有所不同 ([loadorder])。</campaignmode.contentpackageordermismatch>
-<campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰。或許會你會想在繼續進行戰役前切換至相應的內容套件。</campaignmode.contentpackagemismatchwarning>
+<campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰，或許會你會想在繼續進行戰役前切換啟用相應的內容套件。</campaignmode.contentpackagemismatchwarning>
 <campaignmode.incompatiblesave>該存檔於當前遊戲版本不相容。</campaignmode.incompatiblesave>
 <campaignmode.savenotreceived>正在從伺服器獲取遊戲存檔，請稍後...</campaignmode.savenotreceived>
 <campaignmode.incompatiblesave>該存檔於當前遊戲版本不相容。</campaignmode.incompatiblesave>
@@ -1824,7 +1824,7 @@
 <entityname.sonartransducer>聲納發射器</entityname.sonartransducer>
 <entitydescription.sonartransducer>用來發送與接收聲納，能讓聲納監視器與導航終端接收預設位置以外的聲納訊號 (建造遙控小艇和無人機時非常有用)。</entitydescription.sonartransducer>
 <entityname.engine>引擎</entityname.engine>
-<entitydescription.largeengine>用於產生水平動力的裝置。</entitydescription.largeengine>
+<entitydescription.engine>用於產生水平動力的裝置。</entitydescription.engine>
 <entityname.largeengine>大型引擎</entityname.largeengine>
 <entitydescription.largeengine>用於產生水平動力的裝置。</entitydescription.largeengine>
 <entityname.shuttleengine>小艇引擎</entityname.shuttleengine>
@@ -6375,7 +6375,7 @@
 <talentdescription.lowhealth.regenerate>當你的生命值低於[health]%，普通種類的傷害會自行緩緩癒合。</talentdescription.lowhealth.regenerate>
 <talentdescription.gainstructurerepairspeed>焊接工具修復船體的速度增加[amount]%。</talentdescription.gainstructurerepairspeed>
 <talentdescription.gainstructurecutterdamage>電漿切割器對結構物的傷害增加[amount]%。</talentdescription.gainstructurecutterdamage>
-<talentdescription.gainoredetachspeed>電漿切割器採快的速度增加[amount]%。</talentdescription.gainoredetachspeed>
+<talentdescription.gainoredetachspeed>電漿切割器採礦的速度增加[amount]%。</talentdescription.gainoredetachspeed>
 <talentdescription.gainforcedoorsopenspeed>強行開門的速度增加[amount]%。</talentdescription.gainforcedoorsopenspeed>
 <talentdescription.findadditionalscrap>當你第一次打開殘骸中容器時，你將有[probability]%的機率額外找到一個廢料。</talentdescription.findadditionalscrap>
 <talentdescription.gainmarksonskillpoint>當你獲得技能點數時得到[amount]馬克。</talentdescription.gainmarksonskillpoint>
