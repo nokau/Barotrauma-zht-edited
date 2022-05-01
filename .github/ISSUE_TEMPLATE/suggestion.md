@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: 對文本發表建議
-title: "[包含前後文/單字建議] 請輸入文本文字、事件、任務類型等"
+title: "[文本建議] 請輸入與內文直接相關的標題"
 labels: Suggestion
 assignees: ''
 
