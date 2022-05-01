@@ -1,10 +1,10 @@
-# [English README](Barotrauma.zht.edited.mod/README_eng.md)
+# [English README](./README_eng.md)
 This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones as references.
 Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
 Do use it at your own risk, as I couldn't guarantee any of the translations were as accurate as possible whatsoever, but feel free to edit it on your own. And always back up your edited files.
 
-# [中文 README](Barotrauma.zht.edited.mod/README_zht.md)
+# [中文 README](./README_zht.md)
 這是一個基於官方繁體中文文本的非官方文本Mod。
 文本內容盡量以當前遊戲版本的英文文本內容進行排序，以便對照。
 
