@@ -153,9 +153,9 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你見過人體被暴露在深海高壓下嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
+<Conversation line="你們見過人體被暴露在深海高壓下嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
 	<Conversation line="你很快就能見到了。" speaker="0" flags="Psychosis">
-		<Conversation line="是的，我在跟你說話。" speaker="0" flags="Psychosis"/>
+		<Conversation line="對，我在跟你說話。" speaker="0" flags="Psychosis"/>
 	</Conversation>
 	<Conversation line="可以想像。" speaker="1">
 		<Conversation line="那個畫面依然深深地刻在我的腦海裡。" speaker="0">
@@ -168,7 +168,7 @@
 <Conversation line="再快點、再深點..." speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
 	<Conversation line="她潛入魚兒沉睡的地方！" speaker="0">
 		<Conversation line="該死的深度、該死的壓力..." speaker="0">
-			<Conversation line="像虎尾煞一般將她拿下！" speaker="0">
+			<Conversation line="像虎尾煞般將她拿下！" speaker="0">
 				<Conversation line="我的船上不准唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 					<Conversation line="" speaker="0"/>
 					<Conversation line="好吧好吧，我不會再試著讓大家放鬆心情了！" speaker="0"/>
@@ -186,12 +186,12 @@
 	<Conversation line="好難笑。" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你們還記得地球嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="你們有人記得地球嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="地球，地球，地球。很可惜你們永遠都見不到它。" speaker="0" flags="Psychosis"/>
 	<Conversation line="我是老了，但還沒那麼老。" speaker="1"/>
 	<Conversation line="我的祖父是一位地球人。" speaker="1">
 		<Conversation line="我很喜歡聽他講的故事，不過我很確定故事裡有一半都是虛構的。" speaker="1">
-			<Conversation line="你能想像嗎，走出家門就能看到無垠的藍天？" speaker="1">
+			<Conversation line="你們能想像嗎，走出家門就能看到無垠的藍天？" speaker="1">
 				<Conversation line="聽起來很讚。" speaker="0">
 					<Conversation line="往天上看也不用擔心被木星的輻射烤焦..." speaker="2"/>
 				</Conversation>
@@ -204,7 +204,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你有沒有想過，建造遺跡的人後來怎麼樣了？" speaker="0" maxintensity="0.2">
+<Conversation line="你們有沒有想過，建造遺跡的人後來怎麼樣了？" speaker="0" maxintensity="0.2">
 	<Conversation line="最後的噩夢藏匿在最深不可測的避難所中，距離無法估量，噠，噠，噠！" speaker="0" flags="Psychosis"/>
 	<Conversation line="誰沒想過？" speaker="1"/>
 	<Conversation line="還是把這個問題留給科學家們吧。" speaker="1">
@@ -214,7 +214,7 @@
 	<Conversation line="我有想過但是應該沒有人知道。" speaker="2" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你見過那些保護著遺跡的東西嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="你們見過那些保護著遺跡的東西嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="見過，但我寧願自己能忘了它。" speaker="1" speakertags="fearful"/>
 	<Conversation line="研究所裡有一個。" speaker="1">
 		<Conversation line="他們說那不是有機體 － 比起動物來說更接近機器人。" speaker="1">
@@ -233,7 +233,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你聽到了嗎？" speaker="0" maxintensity="0.4">
+<Conversation line="你們聽到了嗎？" speaker="0" maxintensity="0.4">
 	<Conversation line="聽到什麼？" speaker="1">
 		<Conversation line="好像有什麼東西在刮船身。" speaker="0">
 			<Conversation line="大概是我的想像力在作祟。" speaker="0"/>
@@ -255,9 +255,9 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你有時候會不會覺得這整顆月亮都在針對我們？" speaker="0" maxintensity="0.3">
+<Conversation line="你們有時候會不會覺得這整顆月亮都在針對我們？" speaker="0" maxintensity="0.3">
 	<Conversation line="跟你一樣。" speaker="0" flags="Psychosis">
-		<Conversation line="沒錯，我在和你說話。" speaker="0" flags="Psychosis"/>
+		<Conversation line="對，我在和你說話。" speaker="0" flags="Psychosis"/>
 	</Conversation>
 	<Conversation line="這裡確實不是最適合居住的環境。" speaker="1">
 		<Conversation line="考慮當前的狀況，我認為的確如此。" speaker="2">
@@ -384,7 +384,7 @@
 	<Conversation line="我聽得到！" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你能聽到螃蟹人的歌聲了嗎？" speaker="0" speakertags="crazy" maxintensity="0.2">
+<Conversation line="你們聽到螃蟹人的歌聲了嗎？" speaker="0" speakertags="crazy" maxintensity="0.2">
 	<Conversation line="" speaker="0"/>
 	<Conversation line="不能。" speaker="1"/>
 	<Conversation line="我最後再說一次，螃蟹人並不存在。" speaker="1"/>
@@ -489,7 +489,7 @@
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
 </Conversation>
 
-<Conversation line="你聽到船體在呻吟了嗎？這個深度真的安全嗎？" speaker="0" flags="SubmarineDeep" speakertags="fearful">
+<Conversation line="你們聽到船體在呻吟了嗎？這個深度真的安全嗎？" speaker="0" flags="SubmarineDeep" speakertags="fearful">
 	<Conversation line="要安全的話一開始就別加入船隊了。" speaker="1" speakertags="tough,rude"/>
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
 	<Conversation line="應該沒問題，但還是把焊接工具準備好。" speaker="1"/>
@@ -516,7 +516,7 @@
 
 <Conversation line="嘿嘿..." speaker="0" flags="DrunkMedium"/>
 
-<Conversation line="你－聽好了...我們一定能成功。" speaker="0" flags="DrunkMedium" minintensity="0.5"/>
+<Conversation line="你－們聽好了...我們一定能成功。" speaker="0" flags="DrunkMedium" minintensity="0.5"/>
 
 <Conversation line="我想我得躺一會兒..." speaker="0" flags="DrunkHigh">
 	<Conversation line="臭醉鬼，酒醒之前別來擋路。" speaker="1" speakertags="professional,tough,rude"/>
@@ -611,7 +611,7 @@
 
 <!-- Outpost Watchmen --><!-- 數值分水嶺１ -->
 <!-- Not used anymore, these could be removed -->
-<Conversation line="你好，水手們！" speaker="0" flags="EnterEndOutpost" allowedjobs="watchman">
+<Conversation line="哈囉，水手們！" speaker="0" flags="EnterEndOutpost" allowedjobs="watchman">
 	<Conversation line="哨站的其他部分正在建設中，但別忘了幾個月後再來來看看！" speaker="0">
 		<Conversation line="不過，我可以為你提供一些補給和船員，來看看清單上面有什麼吧。" speaker="0">
 			<Conversation line="當你準備好之後，我可以給你附近地點的導航座標。" speaker="0"/>
@@ -1056,7 +1056,7 @@
 <Conversation line="哦，我們又有訪客了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好啊！看起來你們旅途似乎遇到了不少波折。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-<Conversation line="你好！歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="哈囉！歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們這些人看起來需要休息一下。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我以前沒有見過你們。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們的潛艇真漂亮！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
@@ -1072,7 +1072,7 @@
   
 <Conversation line="總是很高興看到你們！" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"/>
 <Conversation line="啊，是你們！歡迎！" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"/>
-<Conversation line="你好！很高興在這裡見到你們。" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"/>
+<Conversation line="哈囉！很高興在這裡見到你們。" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"/>
 
 <!-- New additions after March 4 2021-->
   
@@ -1082,8 +1082,8 @@
 <Conversation line="我們做個交易吧，讓我走，我就不會告訴任何人你們在這裡做了什麼！" speaker="0" flags="Hostage"/>
 <Conversation line="我不可能活著離開這裡了，對吧？" speaker="0" flags="Hostage"/>
 
-<Conversation line="你停錯了哨站，夥計..." speaker="0" flags="EnterOutpost,Bandit"/>
-<Conversation line="你的那艘潛艇看起來非常好... 我們要了！" speaker="0" flags="EnterOutpost,Bandit"/>
+<Conversation line="你們停錯了哨站，夥計..." speaker="0" flags="EnterOutpost,Bandit"/>
+<Conversation line="你們的那艘潛艇看起來非常好... 我們要了！" speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="啊、新鮮的肉！" speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="這個地方現在是我們的，而我們不會對擅闖的人客氣..." speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="侵入者！" speaker="0" flags="EnterOutpost,Bandit"/>
