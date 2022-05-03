@@ -132,7 +132,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們聽說過工會嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="聽說過工會嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="一種交易，為了改善日益增長的壟斷了誠信的壟斷者的誠信的壟斷者的誠信。" speaker="0" flags="Psychosis">
 		<Conversation line="商討安全標準，退休，退休，退休，還有工人們。一種交易，為了改善工人們。" speaker="0" flags="Psychosis"/>
 	</Conversation>
@@ -153,7 +153,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們見過人體被暴露在深海高壓下嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
+<Conversation line="見過人體被暴露在深海高壓下是甚麼情況嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
 	<Conversation line="你很快就能見到了。" speaker="0" flags="Psychosis">
 		<Conversation line="對，我在跟你說話。" speaker="0" flags="Psychosis"/>
 	</Conversation>
@@ -186,12 +186,12 @@
 	<Conversation line="好難笑。" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你們有人記得地球嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="還記得地球嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="地球，地球，地球。很可惜你們永遠都見不到它。" speaker="0" flags="Psychosis"/>
 	<Conversation line="我是老了，但還沒那麼老。" speaker="1"/>
 	<Conversation line="我的祖父是一位地球人。" speaker="1">
 		<Conversation line="我很喜歡聽他講的故事，不過我很確定故事裡有一半都是虛構的。" speaker="1">
-			<Conversation line="你們能想像嗎，走出家門就能看到無垠的藍天？" speaker="1">
+			<Conversation line="你能想像嗎，走出家門就能看到無垠的藍天耶？" speaker="1">
 				<Conversation line="聽起來很讚。" speaker="0">
 					<Conversation line="往天上看也不用擔心被木星的輻射烤焦..." speaker="2"/>
 				</Conversation>
@@ -204,7 +204,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們有沒有想過，建造遺跡的人後來怎麼樣了？" speaker="0" maxintensity="0.2">
+<Conversation line="有沒有想過，那些建造遺跡的人後來怎麼樣了？" speaker="0" maxintensity="0.2">
 	<Conversation line="最後的噩夢藏匿在最深不可測的避難所中，距離無法估量，噠，噠，噠！" speaker="0" flags="Psychosis"/>
 	<Conversation line="誰沒想過？" speaker="1"/>
 	<Conversation line="還是把這個問題留給科學家們吧。" speaker="1">
@@ -214,7 +214,7 @@
 	<Conversation line="我有想過但是應該沒有人知道。" speaker="2" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你們見過那些保護著遺跡的東西嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="見過那些保護著遺跡的東西嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="見過，但我寧願自己能忘了它。" speaker="1" speakertags="fearful"/>
 	<Conversation line="研究所裡有一個。" speaker="1">
 		<Conversation line="他們說那不是有機體 － 比起動物來說更接近機器人。" speaker="1">
@@ -233,7 +233,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們聽到了嗎？" speaker="0" maxintensity="0.4">
+<Conversation line="聽到了嗎？" speaker="0" maxintensity="0.4">
 	<Conversation line="聽到什麼？" speaker="1">
 		<Conversation line="好像有什麼東西在刮船身。" speaker="0">
 			<Conversation line="大概是我的想像力在作祟。" speaker="0"/>
@@ -255,7 +255,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們有時候會不會覺得這整顆月亮都在針對我們？" speaker="0" maxintensity="0.3">
+<Conversation line="有沒有曾經覺得這整顆月亮都在針對我們？" speaker="0" maxintensity="0.3">
 	<Conversation line="跟你一樣。" speaker="0" flags="Psychosis">
 		<Conversation line="對，我在和你說話。" speaker="0" flags="Psychosis"/>
 	</Conversation>
@@ -278,11 +278,11 @@
 <Conversation line="略遜于耀陽，略遜于耀陽…" speaker="0" speakertags="laid-back,crazy" maxintensity="0.2">
 	<Conversation line="如木星一般，我們獨一無二..." speaker="0">
 		<Conversation line="" speaker="0" flags="Casual"/>
-		<Conversation line="如果你非要唱歌，麻煩關閉耳機麥克風。" speaker="1" speakertags="professional"/>
+		<Conversation line="如果你非要唱歌，麻煩請關閉耳機麥克風。" speaker="1" speakertags="professional"/>
 	</Conversation>
 </Conversation>
 
-<Conversation line="這好無聊！" speaker="0" speakertags="fearful">
+<Conversation line="這真遜！" speaker="0" speakertags="fearful">
 	<Conversation line="我想回家！" speaker="0"/>
 </Conversation>
 
@@ -362,7 +362,7 @@
 		</Conversation>
 	</Conversation>
 	<Conversation line="我的耳機還有在運作嗎？" speaker="0">
-		<Conversation line="有。盡量不要用它聊天。" speaker="1" speakertags="professional"/>
+		<Conversation line="有，請盡量不要用它聊天。" speaker="1" speakertags="professional"/>
 		<Conversation line="通話品質良好。" speaker="1"/>
 		<Conversation line="我聽得到！" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
@@ -384,7 +384,7 @@
 	<Conversation line="我聽得到！" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你們聽到螃蟹人的歌聲了嗎？" speaker="0" speakertags="crazy" maxintensity="0.2">
+<Conversation line="聽到螃蟹人的歌聲了嗎？" speaker="0" speakertags="crazy" maxintensity="0.2">
 	<Conversation line="" speaker="0"/>
 	<Conversation line="不能。" speaker="1"/>
 	<Conversation line="我最後再說一次，螃蟹人並不存在。" speaker="1"/>
@@ -489,7 +489,7 @@
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
 </Conversation>
 
-<Conversation line="你們聽到船體在呻吟了嗎？這個深度真的安全嗎？" speaker="0" flags="SubmarineDeep" speakertags="fearful">
+<Conversation line="聽到船體在呻吟了嗎？這個深度真的安全嗎？" speaker="0" flags="SubmarineDeep" speakertags="fearful">
 	<Conversation line="要安全的話一開始就別加入船隊了。" speaker="1" speakertags="tough,rude"/>
 	<Conversation line="沒事的，這艘船到過更深的地方。" speaker="1" speakertags="tough"/>
 	<Conversation line="應該沒問題，但還是把焊接工具準備好。" speaker="1"/>
@@ -516,7 +516,7 @@
 
 <Conversation line="嘿嘿..." speaker="0" flags="DrunkMedium"/>
 
-<Conversation line="你－們聽好了...我們一定能成功。" speaker="0" flags="DrunkMedium" minintensity="0.5"/>
+<Conversation line="聽－好了...我們一定能成功。" speaker="0" flags="DrunkMedium" minintensity="0.5"/>
 
 <Conversation line="我想我得躺一會兒..." speaker="0" flags="DrunkHigh">
 	<Conversation line="臭醉鬼，酒醒之前別來擋路。" speaker="1" speakertags="professional,tough,rude"/>
@@ -647,7 +647,7 @@
 <!-- New additions --><!-- 數值分水嶺２ -->
 
 <Conversation line="我可以把我所有的煩惱都放到誘餌彈裡嗎？" speaker="0"/>
-<Conversation line="你有沒有感受過...平坦是什麼感覺？" speaker="0"/>
+<Conversation line="有人感受過...平坦是什麼感覺嗎？" speaker="0"/>
 
 <Conversation line="是「丘」腦還是「球」腦？" speaker="0">
 	<Conversation line="我只希望每次只會遇到其中一種。" speaker="1"/>
@@ -1052,7 +1052,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你好啊朋友們！我們這裡的訪客不多。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="你們好啊朋友們！我們這裡的訪客不多。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="哦，我們又有訪客了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好啊！看起來你們旅途似乎遇到了不少波折。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
