@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- v0.17.15.0 edited by nokau -->
+<!-- edited by nokau for v0.17.15.0 -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
 
@@ -5199,7 +5199,7 @@
 <eventtext.huskcultist.o2>呃...最好離開這裡。</eventtext.huskcultist.o2>
 <eventtext.fanclub.c1>一群青年聚在一起想一探登上他們哨站的陌生人，他們大聲地爭論著潛艇上的工作哪個最酷。</eventtext.fanclub.c1>
 <eventtext.fanclub.o1>和他們聊天。</eventtext.fanclub.o1>
-<eventtext.fanclub.o1.c1>他們的問題一個接著一個，你認真地回應它們，你有預感他們之中幾個一定會在長大之後成為水手、所以記好: 要是他們變成了爬行者的飼料，你會是始作俑者之一。</eventtext.fanclub.o1.c1>
+<eventtext.fanclub.o1.c1>他們的問題一個接著一個，你認真地回應它們，你有預感他們之中幾個一定會在長大之後成為水手、所以記好: 要是他們變成了爬行者的飼料，你將是始作俑者之一。</eventtext.fanclub.o1.c1>
 <eventtext.fanclub.o2>忽略他們。</eventtext.fanclub.o2>
 <eventtext.huskcultambush.c1>兩個面色蒼白、黑眼圈濃重的人靠了過來，他們將手伸進衣服裡好像要拿出什麼，你感受到一股威脅。</eventtext.huskcultambush.c1>
 <eventtext.huskcultambush.o1>“嘿、你們好啊，你們... 你們想怎樣？”</eventtext.huskcultambush.o1>
@@ -5248,7 +5248,7 @@
 <eventtext.bigbrother.c1.c1.o1.o2.c1>他笑了笑，“蠻搞笑的嘛你這傢伙，這裡不是你該來的地方，快滾。”他轉而檢查起了房內的攝影機。現在是開溜的好時機，以免被他抓個正著。任務失敗。</eventtext.bigbrother.c1.c1.o1.o2.c1>
 <eventtext.bigbrother.c1.c1.o1.o2.c1.c1>他拿起他的武器，“麥克風是吧？跟我走一趟。”你最好馬上開溜。</eventtext.bigbrother.c1.c1.o1.o2.c1.c1>
 <eventtext.bigbrother.c1.c1.o2>把麥克風藏在電氣設備裡。</eventtext.bigbrother.c1.c1.o2>
-<eventtext.bigbrother.c1.c1.o2.c1>你拆開一台收音機並把麥克風裝在對講機喇叭後面一個不嫌眼的位置。回到主管那裡領取你的報酬。</eventtext.bigbrother.c1.c1.o2.c1>
+<eventtext.bigbrother.c1.c1.o2.c1>你拆開一台收音機並把麥克風裝在喇叭後面一個不嫌眼的位置。回到主管那裡領取你的報酬。</eventtext.bigbrother.c1.c1.o2.c1>
 <eventtext.bigbrother.c1.c1.o2.c1.c1>“幹得漂亮，這是你的報酬，我們從未謀面。”</eventtext.bigbrother.c1.c1.o2.c1.c1>
 <eventtext.bigbrother.c1.c1.o2.c2>你找到了一台收音機，或許你能將麥克風藏在裡面。正當你打算動手時，一名守衛突然大喊，“你！過來！”你認為現在最好照著他的話做。“你在做什麼？”那名守衛問。</eventtext.bigbrother.c1.c1.o2.c2>
 <eventtext.bigbrother.c1.c1.o2.o1>“修理收音機天線。”</eventtext.bigbrother.c1.c1.o2.o1>
@@ -5942,7 +5942,7 @@
 <reputationneutral>中立</reputationneutral>
 <reputationhigh>友善</reputationhigh>
 <reputationveryhigh>尊敬</reputationveryhigh>
-<reputationgainnotification>[value][reputationname]聲望值</reputationgainnotification>
+<reputationgainnotification>[value] [reputationname]聲望值</reputationgainnotification>
 
 <!-- Campaign meta texts -->
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
