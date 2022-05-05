@@ -11,7 +11,7 @@
 <!-- Loading Screen tips -->
 <loadingscreentip>如果貨物在運輸過程中丟失或損壞，運費將不會支付給你。</loadingscreentip>
 <loadingscreentip>如果發電功率超出潛艇設備的用電量有可能會弄壞配電箱甚至引起火災。</loadingscreentip>
-<loadingscreentip>配電箱與其他電器沉入水中太久有可能會被泡壞。</loadingscreentip>
+<loadingscreentip>配電箱與其他電氣設備沉入水中太久有可能會被泡壞。</loadingscreentip>
 <loadingscreentip>潛艇的核反應爐過熱可能會釀成火災，若不及時關閉，最終將導致反應爐熔毀。</loadingscreentip>
 <loadingscreentip>大多數潛艇都配備了蓄電池，作為反應爐發生故障時的臨時備用電源。</loadingscreentip>
 <loadingscreentip>軌道砲子彈和深水炸彈都有一個可以容納額外炸藥的隔層。</loadingscreentip>
@@ -23,7 +23,7 @@
 <loadingscreentip>核反應爐都配備了自動控制系統，開啟時能夠將反應爐的輸出功率調整在最佳狀態，不過該系統在用電量大幅波動的情況下不見得能夠及時做出反應。</loadingscreentip>
 <loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠 － 讓你的工程師確保終端運轉良好！</loadingscreentip>
 <loadingscreentip>佈署誘餌彈時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
-<loadingscreentip>在電氣工程技能不足的狀態下試圖替電器設備配線很有可能觸電。</loadingscreentip>
+<loadingscreentip>在電氣工程技能不足的狀態下試圖替電氣設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
 <loadingscreentip>潛艇上的船員都受過電氣設備的基本維修訓練，不過工程師們能夠更快地完成作業。</loadingscreentip>
 <loadingscreentip>潛艇上的船員都受過機械設備的基本維修訓練，不過技師們能夠更快地完成作業。</loadingscreentip>
