@@ -35,4 +35,4 @@
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
 ## 回報錯誤
-請見[如何回報](./ISSUES.md)。
+- 至 Issues 頁面，點選右方綠色的 New issue 按鈕後，點選對應主題右方綠色的的 Get started 按鈕。
