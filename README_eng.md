@@ -34,3 +34,5 @@ You can find the mentioned files inside the [current_version](./current_version)
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
+## Report Errors
+See [how to report](./ISSUES.md).
