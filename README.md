@@ -8,4 +8,3 @@ Do use it at your own risk, as I couldn't guarantee any of the translations were
 文本內容盡量以當前遊戲版本的英文文本內容進行排序，以便對照。
 
 還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度等等，但歡迎在使用時對它進行編輯。若有編輯勿忘備份。
-#錯誤回報
