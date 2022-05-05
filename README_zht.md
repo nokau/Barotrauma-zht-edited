@@ -34,3 +34,5 @@
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
+## 回報錯誤
+請見[如何回報](./ISSUES.md)。
