@@ -1,5 +1,5 @@
 # Barotrauma-zht-edited
-[ENG ver.](./README_eng.md)
+[ENG README](./README_eng.md)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
 
