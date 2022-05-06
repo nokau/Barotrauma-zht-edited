@@ -1,7 +1,7 @@
 # Barotrauma-zht-edited
 [ENG README](./README_eng.md)
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
+[Steam工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
 
 # 這是什麼?
 這是一個基於官方繁體中文、參考官方英文進行調整的繁體中文文本Mod。文本檔案內容盡量以當前版本的官方英文文本檔案內容進行排序，以便對照。
