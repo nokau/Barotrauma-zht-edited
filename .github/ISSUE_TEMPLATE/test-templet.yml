@@ -5,15 +5,15 @@ labels: [invalid, wontfix]
 body:
 - type: checkboxes
   attributes:
-    label: ㄅㄆㄇㄈ
-    description: ㄅㄆㄇㄈ
+    label: "ㄅㄆㄇㄈ"
+    description: "ㄅㄆㄇㄈ"
     options:
-    - label: ㄉㄊㄋㄌ
+    - label: "ㄉㄊㄋㄌ"
       required: true
 - type: textarea
   attributes:
-    label: ㄈㄆㄅㄆㄅㄇ
-    description: ㄅㄆㄇㄈ
+    label: "ㄈㄆㄅㄆㄅㄇ"
+    description: "ㄅㄆㄇㄈ"
     placeholder: |
       - ㄅ
       - ㄆ
