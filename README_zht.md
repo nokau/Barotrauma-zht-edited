@@ -19,7 +19,7 @@
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 - 部分物件名稱與官方繁體中文文本有極大差異。
 
-## 檔案
+## 專案中的檔案
 你能在這個專案中的[current_version](./current_version)資料夾裡找到以下提到的所有檔案:
 
 ### NpcConversations_TraditionalChinese.xml
