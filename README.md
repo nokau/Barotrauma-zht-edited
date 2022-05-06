@@ -1,4 +1,4 @@
-# Barotrauma.zht.edited
+# Barotrauma-zht-edited
 
 ### [ENG](./README_eng.md)
 
