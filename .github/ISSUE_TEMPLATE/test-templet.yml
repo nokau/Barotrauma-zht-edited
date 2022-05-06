@@ -12,7 +12,7 @@ body:
       required: true
 - type: textarea
   attributes:
-    label: ㄅㄆㄇㄈㄉ：
+    label:　ㄅＡＢＣ：
     description: ㄅㄆㄇㄈ
     placeholder: |
       - ㄅ
