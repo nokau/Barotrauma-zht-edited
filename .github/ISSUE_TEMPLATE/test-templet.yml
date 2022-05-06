@@ -5,14 +5,14 @@ labels: [invalid, wontfix]
 body:
 - type: checkboxes
   attributes:
-    label: "ㄅㄆㄇㄈ:"
+    label: ㄅㄆㄇㄈ：
     description: ㄅㄆㄇㄈ
     options:
     - label: ㄉㄊㄋㄌ
       required: true
 - type: textarea
   attributes:
-    label: "ㄅㄆㄇㄈ:"
+    label: ㄅㄆㄇㄈ：
     description: ㄅㄆㄇㄈ
     placeholder: |
       - ㄅ
