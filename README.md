@@ -21,4 +21,4 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕後，點選新頁面中位於2個對應主題其中一項右方的綠色 `Get started` 按鈕。
 
 ### 我想直接貢獻心力
-我對GitHub這方面的功能並不熟悉，所以如果想要直接對專案內容進行修改的話，請建立額外版本並請避免直接修改原始檔案。
+我對GitHub這方面的功能並不熟悉，所以如果想要在此對專案內容進行修改的話，請建立額外版本並請避免直接修改原始檔案。
