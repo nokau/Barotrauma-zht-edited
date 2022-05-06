@@ -5,14 +5,14 @@ labels: [invalid, wontfix]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this:
+    label: "Is there an existing issue for this:"
     description: Please search to see if an issue already exists for the bug you encountered.
     options:
     - label: I have searched the existing issues
       required: true
 - type: textarea
   attributes:
-    label: Text Area:
+    label: "Text Area:"
     description: A concise description of what you're experiencing.
     placeholder: |
     - A
