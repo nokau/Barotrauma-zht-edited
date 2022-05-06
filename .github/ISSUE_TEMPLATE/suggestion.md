@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: 對文本發表建議
+about: 對文本發表建議。
 title: "[Suggestion] 請輸入與內文直接相關的標題"
 labels: 文本建議
 assignees: ''
