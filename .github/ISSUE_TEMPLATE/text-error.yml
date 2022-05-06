@@ -6,7 +6,7 @@ body:
   - type: checkboxes
     id: checks
     attributes:
-      label: 
+      value: 
       options:
         - label: "我已確認 Issues 頁面尚為Open的問題之中沒有同樣的問題已被回報。"
           required: true
