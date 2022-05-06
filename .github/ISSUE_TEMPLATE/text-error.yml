@@ -12,8 +12,8 @@ body:
   - type: textarea
     id: error-report
     attributes:
-      label: "我發現了這些錯誤:"
-      description: "請輸入錯字、或與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。"
-      placeholder: "請在此輸入。"
+      label: 我發現了這些錯誤：
+      description: 請輸入錯字、或與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。
+      placeholder: "請在此輸入"
     validations:
       required: true
