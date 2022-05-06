@@ -1,6 +1,6 @@
 ---
 name: Text Error
-about: 發現錯字、漏字、多字、未被翻譯
+about: 發現錯字、漏字、多字、未被翻譯等等。
 title: "[Text Error] #個錯誤，請使用與內容直接相關且詳細的標題"
 labels: 文本錯誤
 assignees: ''
