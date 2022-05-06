@@ -5,18 +5,18 @@ labels: [invalid, wontfix]
 body:
 - type: checkboxes
   attributes:
-    label: "Is there an existing issue for this"
-    description: "Please search to see if an issue already exists for the bug you encountered."
+    label: ㄅㄆㄇㄈ
+    description: ㄅㄆㄇㄈ
     options:
-    - label: "I have searched the existing issues"
+    - label: ㄉㄊㄋㄌ
       required: true
 - type: textarea
   attributes:
-    label: "Text Area"
-    description: "A concise description of what you're experiencing."
+    label: ㄅㄆㄇㄈ
+    description: ㄅㄆㄇㄈ
     placeholder: |
-    1. A
-    2. B
-    3. C
+    1. ㄅ
+    2. ㄆ
+    3. ㄇ
   validations:
     required: true
