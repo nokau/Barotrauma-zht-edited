@@ -1,12 +1,15 @@
-## 這是什麼?
+# 這是什麼?
 這是一個基於官方繁體中文、參考官方英文進行調整的繁體中文文本Mod。文本檔案內容盡量以當前版本的官方英文文本檔案內容進行排序，以便對照。
 
 還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度等等，但歡迎在使用時自行對它進行編輯，編輯後也勿忘備份。
 
-## 推薦編輯工具
-- Notepad++
+### 我有問題想要回報
+可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 "New issue" 按鈕後，點選頁面中2個對應主題其中一項右方綠色的的 "Get started" 按鈕。
 
-## 這個Mod的文本調整了下列遊戲元素
+### 我想直接貢獻心力
+我對GitHub這方面的功能並不熟悉，所以如果想要直接對專案內容進行修改的話，還請避免直接修改原始檔案。
+
+# 這個Mod的文本調整了下列遊戲元素
 - 主選單UI
 - 遊戲中UI
 - 部分潛艇編輯器UI
@@ -14,12 +17,12 @@
 - 任務與事件
 - NPC對話
 
-## 備註
+### 備註
 - 配合大部分隨機生成的NPC、地區名稱都尚為英文，我保留了任務與事件中提到的人物與地區等的英文名稱。
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 - 部分物件名稱與官方繁體中文文本有極大差異。
 
-## 專案中的檔案
+# 專案中的檔案
 你能在這個專案中的[current_version](./current_version)資料夾裡找到以下提到的所有檔案:
 
 ### NpcConversations_TraditionalChinese.xml
@@ -33,5 +36,6 @@
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
-## 我有問題想要回報
-- 可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 "New issue" 按鈕後，點選頁面中2個對應主題其中一項右方綠色的的 "Get started" 按鈕。
+
+# 推薦工具
+- Notepad++
