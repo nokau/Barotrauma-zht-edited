@@ -1,7 +1,7 @@
 # Barotrauma-zht-edited
 
 ### [ENG](./README_eng.md)
-This is an unofficial Traditional Chinese localization mod for the game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
+This is a Traditional Chinese localization mod for the game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
 Do use it at your own risk, as I couldn't guarantee any of the translations were as accurate as possible whatsoever, but feel free to edit it on your own. And always back up your edited files.
 
