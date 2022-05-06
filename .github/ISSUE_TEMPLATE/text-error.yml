@@ -1,0 +1,23 @@
+name: Text Error
+description: 發現錯字、漏字、多字、未被翻譯
+title: "[Text Error] #個錯誤，請使用與內容直接相關且詳細的標題"
+labels: ["文本錯誤"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      options:
+        - label: "我已確認 Issues 頁面尚為Open的問題之中沒有同樣的問題已被回報。"
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 我發現了這些錯誤: 
+      description: 輸入與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。
+      placeholder: |
+        - 前挺 > 潛艇
+        - 採快 (工程師技能: 礦工的敘述中)
+        - 引擎的物件敘述未被翻譯
+        - Observe how the game crashes
+    validations:
+      required: true
