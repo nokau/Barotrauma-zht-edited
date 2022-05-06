@@ -3,10 +3,12 @@ description: 發現錯字、漏字、多字、未被翻譯
 title: "[Text Error] #個錯誤，請使用與內容直接相關且詳細的標題"
 labels: ["文本錯誤"]
 body:
+  - type: markdown
+      value: ""
   - type: checkboxes
     id: checks
     attributes:
-      value: 
+      label: 
       options:
         - label: "我已確認 Issues 頁面尚為Open的問題之中沒有同樣的問題已被回報。"
           required: true
