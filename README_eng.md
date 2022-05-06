@@ -33,5 +33,5 @@ You can find the mentioned files inside this project's [current_version](./curre
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
-## Report Errors
+## I have something to report
 - Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page, click on the green "New issue" button, then click the "Get started" button on the right side of the 2 issue types. And since this is a Traditional Chinese localization, please send your issues using Traditional Chinese.
