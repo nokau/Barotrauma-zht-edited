@@ -33,5 +33,5 @@
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
-## 回報錯誤
-- 至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 "New issue" 按鈕後，點選對應主題右方綠色的的 "Get started" 按鈕。
+## 我有問題想要回報
+- 至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 "New issue" 按鈕後，點選頁面中2個對應主題其中一項右方綠色的的 "Get started" 按鈕。
