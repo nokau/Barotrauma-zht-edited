@@ -9,7 +9,7 @@
 還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度等等，但歡迎在使用時自行對它進行編輯，編輯後也勿忘備份。
 
 ### 我有問題想要回報
-可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕，進入新頁面後點選位於2個對應主題其中一項右方的綠色 `Get started` 按鈕。
+可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕，進入新頁面之後點選位於2個對應主題其中一項右方的綠色 `Get started` 按鈕。
 
 ### 我想直接貢獻心力
 我對GitHub這方面的功能並不熟悉，所以如果想要在此對專案內容進行修改的話，請建立額外版本並請避免直接修改原始檔案。
