@@ -34,4 +34,4 @@ You can find the mentioned files inside the [current_version](./current_version)
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
 ## Report Errors
-- Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page, click on the green "New issue" button, then click the "Get started" button on the right side of their relative issuses. But since this is a Traditional Chinese localiztion, I'm going to ignore all non-Traditional Chinese issues if there's any.
+- Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page, click on the green "New issue" button, then click the "Get started" button on the right side of their relative issuse types. But since this is a Traditional Chinese localiztion, I'm going to ignore all non-Traditional Chinese issues if there's any.
