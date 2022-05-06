@@ -12,7 +12,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: 我發現了這些錯誤: 
+      label: 我發現了這些錯誤：
       description: 輸入與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。
       placeholder: |
         - 前挺 > 潛艇
