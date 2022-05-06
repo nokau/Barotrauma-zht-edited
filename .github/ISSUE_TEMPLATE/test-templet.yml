@@ -5,19 +5,18 @@ labels: [invalid, wontfix]
 body:
 - type: checkboxes
   attributes:
-    label: "ㄅㄆㄇㄈ"
-    description: "ㄅㄆㄇㄈ"
+    label: "勾選框框"
     options:
-    - label: "ㄉㄊㄋㄌ"
+    - label: "我已確認 Issues 頁面尚為Open的問題之中沒有同樣的問題已被回報。"
       required: true
 - type: textarea
   attributes:
-    label: "ㄈㄆㄅㄆㄅㄇ"
-    description: "ㄅㄆㄇㄈ"
+    label: "文字區域"
+    description: "輸入與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。"
     placeholder: |
-      - ㄅ
-      - ㄆ
-      - ㄇ
-      - ㄈ
+      1. In this environment...
+      2. With this config...
+      3. Run '...'
+      4. See error...
   validations:
     required: true
