@@ -15,8 +15,8 @@ body:
     label: "Text Area"
     description: "A concise description of what you're experiencing."
     placeholder: |
-    - A
-    - B
-    - C
+    1. A
+    2. B
+    3. C
   validations:
     required: true
