@@ -17,4 +17,3 @@ body:
       placeholder: "請在此輸入。"
     validations:
       required: true
-      render: shell
