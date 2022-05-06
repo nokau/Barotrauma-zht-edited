@@ -4,7 +4,7 @@
 還請斟酌使用，我無法保證這個文本中用語與詞彙的精確度等等，但歡迎在使用時自行對它進行編輯，編輯後也勿忘備份。
 
 ### 我有問題想要回報
-可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 "New issue" 按鈕後，點選頁面中2個對應主題其中一項右方綠色的的 "Get started" 按鈕。
+可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕後，點選頁面中2個對應主題其中一項右方綠色的的 `Get started` 按鈕。
 
 ### 我想直接貢獻心力
 我對GitHub這方面的功能並不熟悉，所以如果想要直接對專案內容進行修改的話，還請避免直接修改原始檔案。
@@ -27,11 +27,11 @@
 
 ### NpcConversations_TraditionalChinese.xml
 - 這個檔案包含了編輯過的NPC對話。
-- 這個檔案在遊戲資料夾中的路徑為```Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese```
+- 這個檔案在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 
 ### TraditionalChineseVanilla.xml
 - 由於翻譯文本似乎無法被遊戲以同樣於英文文本的方式讀取，這個檔案中包含了編輯過的三個在遊戲的英文文本路徑中的檔案內容。
-- 這個檔案在遊戲資料夾中的路徑為```Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese```
+- 這個檔案在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 - 如果想要與英文文本檔案進行對照，資料夾中也付有被合併至 TraditionalChineseVanilla.xml 前的3個文本檔案:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
