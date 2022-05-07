@@ -66,12 +66,12 @@
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
 <unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
-<reloadsprite>Reload Sprite</reloadsprite>
-<resettoprefab>Reset to prefab</resettoprefab>
-<mirrorentityx>Mirror X</mirrorentityx>
-<mirrorentityxtooltip>Mirror the entity horizontally. You can also use the shortcut Ctrl + N.</mirrorentityxtooltip>
-<mirrorentityy>Mirror Y</mirrorentityy>
-<mirrorentityytooltip>Mirror the entity horizontally. You can also use the shortcut Ctrl + M.</mirrorentityytooltip>
+<reloadsprite>重新讀取Sprite</reloadsprite>
+<resettoprefab>回復至預設</resettoprefab>
+<mirrorentityx>鏡射 X</mirrorentityx>
+<mirrorentityxtooltip>水平翻轉這個物件，你也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
+<mirrorentityy>鏡射 Y</mirrorentityy>
+<mirrorentityytooltip>垂直翻轉這個物件，你也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
 <nonlinkedgapswarning>潛艇上有Gap未與任何Hull交集。Gap應被置於至少一個Hull上 (如要通往潛艇外) 或橫跨於多個Hull之間。</nonlinkedgapswarning>
 <cannoteditvanillasubs>無法覆蓋已存在遊戲本體內容中的潛艇檔案！</cannoteditvanillasubs>
 <subeditor.structurecountwarning>這艘潛艇上有非常大量的結構配件，有可能會對遊戲運作造成影響，請考慮減少結構配件數量。</subeditor.structurecountwarning>
@@ -83,8 +83,8 @@
 <subeditor.lightcountwarning>這艘潛艇上有非常大量的燈光，有可能會對遊戲運作造成影響，請考慮減少燈光數量。</subeditor.lightcountwarning>
 <subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
 <subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
-<canattachtoprevious>Can attach to previous</canattachtoprevious>
-<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左邊，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
+<canattachtoprevious>能以何處連結</canattachtoprevious>
+<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 
 <!-- Entity Editor -->
 <stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
@@ -595,11 +595,11 @@
 <entityname.hull>Hull</entityname.hull>
 <entitydescription.hull>Hulls determine which parts are considered to be 'inside the sub'. Generally every room should be enclosed by a hull.</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
-<entitydescription.gap>Gaps allow water and air to flow between two hulls.</entitydescription.gap>
+<entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
 <entityname.waypoint>Waypoint</entityname.waypoint>
-<entitydescription.waypoint>Used by AI characters to navigate inside the submarine.</entitydescription.waypoint>
+<entitydescription.waypoint>使AI角色能夠在潛艇內移動。</entitydescription.waypoint>
 <entityname.spawnpoint>Spawnpoint</entityname.spawnpoint>
-<entitydescription.spawnpoint>Determines which rooms the crew spawns inside.</entitydescription.spawnpoint>
+<entitydescription.spawnpoint>控制船員生成的位置。</entitydescription.spawnpoint>
 
 <entityname.horizontalresizablewindow>Window Horizontal Resizable</entityname.horizontalresizablewindow>
 <entityname.verticalresizablewindow>Window Vertical Resizable</entityname.verticalresizablewindow>
@@ -1120,7 +1120,7 @@
 <entityname.ruinback>Ruin Back Wall Basic</entityname.ruinback>
 <entityname.ruinprop>Ruin Prop</entityname.ruinprop>
   
-<entityname.bunk>板床</entityname.bunk>
+<entityname.bunk>床舖</entityname.bunk>
 
 <!--Outpost decorative structures-->
 <entityname.opdeco_weaponstoragesuit1>Outfit Display Case</entityname.opdeco_weaponstoragesuit1>
