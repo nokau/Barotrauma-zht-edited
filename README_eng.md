@@ -24,8 +24,8 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 ### Notes
 - Very different translated names for some of the items and devices.
 - The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.
-- I left most of the character, location names within missions and events un-translated since all the generated names are not translated either.
-- I left these ship names un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
+- Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
+- These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 
 # Project files
 You can find the mentioned files inside this project's [current_version](./current_version) folder:
@@ -34,7 +34,7 @@ You can find the mentioned files inside this project's [current_version](./curre
 - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 
 ### TraditionalChineseVanilla.xml
-- This file contains edited lines of all the English files found within the game's Texts folder, because using seperated files doesn't seem to work.
+- This file contains edited lines of all the English files found within the game's Texts folder, because using separated files doesn't seem to work.
 - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 - If you are interested in editing or comparing side-by-side with the English flies, there are 3 files in the project's folder that I use before combining them into TraditionalChineseVanilla.xml:
   - **TCVanilla.xml**
