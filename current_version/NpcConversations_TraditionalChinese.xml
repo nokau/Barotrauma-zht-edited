@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
-
+<!-- edited by nokau for v0.17.15.0 This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- Personality traits -->
 <PersonalityTrait name="Professional" alloweddialogtags="professional,none" commonness="1" />
 <PersonalityTrait name="Laid-back" alloweddialogtags="laid-back,none" commonness="1" />
@@ -132,7 +132,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你們聽說過工會嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="聽說過工會嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="一種交易，為了改善日益增長的壟斷了誠信的壟斷者的誠信的壟斷者的誠信。" speaker="0" flags="Psychosis">
 		<Conversation line="商討安全標準，退休，退休，退休，還有工人們。一種交易，為了改善工人們。" speaker="0" flags="Psychosis"/>
 	</Conversation>
@@ -153,7 +153,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="你見過人體被暴露在深海高壓下嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
+<Conversation line="見過人體被暴露在深海高壓下嗎？" speaker="0" speakertags="fearful" maxintensity="0.2">
 	<Conversation line="你很快就能見到了。" speaker="0" flags="Psychosis">
 		<Conversation line="是的，我在跟你說話。" speaker="0" flags="Psychosis"/>
 	</Conversation>
@@ -186,12 +186,12 @@
 	<Conversation line="好難笑。" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
-<Conversation line="你們還記得地球嗎？" speaker="0" maxintensity="0.2">
+<Conversation line="記得地球嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="地球，地球，地球。很可惜你們永遠都見不到它。" speaker="0" flags="Psychosis"/>
 	<Conversation line="我是老了，但還沒那麼老。" speaker="1"/>
 	<Conversation line="我的祖父是一位地球人。" speaker="1">
 		<Conversation line="我很喜歡聽他講的故事，不過我很確定故事裡有一半都是虛構的。" speaker="1">
-			<Conversation line="你能想像嗎，走出家門就能看到無垠的藍天？" speaker="1">
+			<Conversation line="你能想像嗎，走出家門就能看到無垠的藍天耶？" speaker="1">
 				<Conversation line="聽起來很讚。" speaker="0">
 					<Conversation line="往天上看也不用擔心被木星的輻射烤焦..." speaker="2"/>
 				</Conversation>
