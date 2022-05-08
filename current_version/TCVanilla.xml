@@ -255,7 +255,7 @@
 <LatestPublishTime>上次更新於 [datetime]</LatestPublishTime>
 <FreeWeekendCantPublish>你正透過免費周末期間遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FreeWeekendCantPublish>
 <FamilySharedCantPublish>你正透過親友同享遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FamilySharedCantPublish>
-<WorkshopItemVisibility.Unlisted>未列出的</WorkshopItemVisibility.Unlisted>
+<WorkshopItemVisibility.Unlisted>未公開</WorkshopItemVisibility.Unlisted>
 <ModDownloadTitle>需要的Mod</ModDownloadTitle>
 <ModDownloadHeader>進入此伺服器需要下列模組:</ModDownloadHeader>
 <ModDownloadFooter>你想要下載它們嗎？</ModDownloadFooter>
@@ -976,7 +976,7 @@
 <minimapoutpostdockinginfo>已停靠於[outpost]。\n請在離港後再嘗試操縱潛艇。</minimapoutpostdockinginfo>
 <cargospawnnotification>購買的物品已經送到[roomname]。</cargospawnnotification>
 <connectionerrornoresponse>伺服器沒有回應，可能是伺服器發生了問題。</connectionerrornoresponse>
-<radioannouncername>中央司令</radioannouncername>
+<radioannouncername>中央司令部</radioannouncername>
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>嘿！對、你，哨站下的那個 － 你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
@@ -3184,7 +3184,7 @@
 <idcardtags>ID Card tags</idcardtags>
 <idcardtagstooltip>自這個Spawnpoint生成的角色的ID卡上會被加入這些標籤。這些標籤能夠用以限制可進入空間的權限等等。</idcardtagstooltip>
 <spawnpointjobs>Assigned jobs</spawnpointjobs>
-<spawnpointjobstooltip>只有該職業的角色會從這個spawnpoint生成。</spawnpointjobstooltip>
+<spawnpointjobstooltip>只有該職業的角色會從這個Spawnpoint生成。</spawnpointjobstooltip>
 <spawnpointtags>Tags</spawnpointtags>
 <spawnpointtagstooltip>Can be used to refer to the spawnpoint in events and human prefabs.</spawnpointtagstooltip>
 
