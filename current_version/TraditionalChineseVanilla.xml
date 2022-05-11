@@ -2726,7 +2726,7 @@
 <entitydescription.idcardwreck>這張ID卡能用來進入殘骸內大部分的空間，如果那些門沒有鏽到打不開的話。</entitydescription.idcardwreck>
 <entityname.crateshelf>貨物架</entityname.crateshelf>
 <entityname.op_lighttower>Light Tower</entityname.op_lighttower>
-<entityname.op_lightbox1>燈箱</entityname.op_lightbox1>
+<entityname.op_lightbox1>Lightbox</entityname.op_lightbox1>
 <entityname.op_hologramdisplay1>Hologram Display</entityname.op_hologramdisplay1>
 <entityname.opdeco_container>Shop Display</entityname.opdeco_container>
 <entityname.opdeco_shopsuit1>Diving Suit Display</entityname.opdeco_shopsuit1>
@@ -2784,7 +2784,7 @@
 <entityname.stairsleftshort>Stairs Left Short</entityname.stairsleftshort>
 <entityname.stairsrightlong>Stairs Right Long</entityname.stairsrightlong>
 <entityname.stairsleftlong>Stairs Left Long</entityname.stairsleftlong>
-<entityname.banditoutfit>Bandit Outfit</entityname.banditoutfit>
+<entityname.banditoutfit>盜賊服裝</entityname.banditoutfit>
 <entityname.metalwalls>Metal Wall</entityname.metalwalls>
 <entityname.metalbox>Metal Box</entityname.metalbox>
 <entityname.ff_wall_airlock1>Airlock</entityname.ff_wall_airlock1>
