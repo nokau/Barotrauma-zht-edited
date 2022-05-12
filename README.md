@@ -43,8 +43,8 @@
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
 
-###### TCVanillaEditorTexts.SP.xml
- - 這個檔案包含了潛艇編輯器與遊戲中物件細部設定的翻譯，尚不完整，另一方面官方英文文本也尚未包含部分選項與設定的文字供翻譯。
+### TCVanillaEditorTexts.SP.xml
+ - 修改自與上述3個檔案中的 TCVanillaEditorTexts.xml，這個檔案包含了潛艇編輯器與遊戲中物件細部設定的翻譯但尚不完整。
 
 # 推薦工具
 - Notepad++
