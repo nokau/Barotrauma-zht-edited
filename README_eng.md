@@ -41,6 +41,7 @@ You can find the mentioned files inside this project's [current_version](./curre
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
 
+# Extra files
 ### TCVanillaEditorTexts.SP.xml
 - This file is an edited version of *TCVanillaEditorTexts.xml*, one of the 3 files mentioned above; it contains translation to some of the item parameters that can be edited in Submarine Editor or in-game. There are still missing lines and overall not complete yet.
 
