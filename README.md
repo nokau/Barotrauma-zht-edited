@@ -6,7 +6,7 @@
 # 這是什麼?
 這是一個基於官方繁體中文、參考官方英文進行調整的繁體中文文本Mod。文本檔案內容盡量以當前版本的官方英文文本檔案內容進行排序，以便對照。
 
-還請斟酌使用，我無法保證這個文本中語句和詞彙的精確度等等，但歡迎在使用時自行對它進行編輯，編輯後也勿忘備份以免Steam進行遊戲更新或驗證遊戲檔案時被原始版本覆蓋。
+還請斟酌使用，我無法保證這個文本中語句和詞彙的精確度等等，尤其是伺服器相關的技術類警語，但歡迎在使用時自行對它進行編輯，編輯後也勿忘備份以免Steam進行遊戲更新或驗證遊戲檔案時被原始版本覆蓋。
 
 - ### 我有問題想要回報
 可以至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕，進入新頁面之後點選位於2個對應主題其中一項右方的綠色 `Get started` 按鈕。
@@ -41,8 +41,10 @@
 - 如果想要與英文文本檔案進行對照，資料夾中也付有被合併至 TraditionalChineseVanilla.xml 前的3個文本檔案:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
-    - TCVanillaEditorTexts.SP.xml (包含部分物件細部設定的翻譯)
   - **TCVanillaNew.xml**
+
+###### TCVanillaEditorTexts.SP.xml
+ - 這個檔案包含了潛艇編輯器與遊戲中物件細部設定的翻譯，尚不完整，另一方面官方英文文本也尚未包含部分選項與設定的文字供翻譯。
 
 # 推薦工具
 - Notepad++
