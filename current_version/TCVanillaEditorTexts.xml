@@ -593,7 +593,7 @@
 
 <!-- Structure -->
 <entityname.hull>Hull</entityname.hull>
-<entitydescription.hull>Hulls determine which parts are considered to be 'inside the sub'. Generally every room should be enclosed by a hull.</entitydescription.hull>
+<entitydescription.hull>Hull用於定義潛艇的 '內部空間'，普遍來說艙房都會置於Hull的範圍之內。</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
 <entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
 <entityname.waypoint>Waypoint</entityname.waypoint>
