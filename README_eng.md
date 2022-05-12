@@ -41,5 +41,8 @@ You can find the mentioned files inside this project's [current_version](./curre
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
 
+### TraditionalChineseVanilla.xml
+- This file is an edited version of one of the 3 files mentioned above, TCVanillaEditorTexts.xml, that contains translation to some of the item parameters. There are still missing lines and overall it is not complete yet.
+
 # Recommended Tools
 - Notepad++
