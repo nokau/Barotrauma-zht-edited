@@ -16,7 +16,7 @@
 	<Conversation line="" speaker="0"/>
 	<Conversation line="收到。" speaker="1">
 		<Conversation line="收到、長官！" speaker="2"/>
-		<Conversation line="好、船長!" speaker="2" speakertags="brokenenglish"/>
+		<Conversation line="好、船長！" speaker="2" speakertags="brokenenglish"/>
 	</Conversation>
 </Conversation>
 
@@ -321,7 +321,7 @@
 		<Conversation line="我不覺得那句話是這樣說的。" speaker="1">
 			<Conversation line="在這裡事情就是那樣發生的。" speaker="0"/>
 		</Conversation>
-		<Conversation line="別再說笑了。" speaker="0" speakertags="professional,rude"/>
+		<Conversation line="我的笑話說完了。" speaker="0" speakertags="professional,rude"/>
 	</Conversation>
 </Conversation>
 
@@ -959,7 +959,7 @@
 	<Conversation line="你確定你不是幻聽嗎？" speaker="1"/>
 </Conversation>
 
-<Conversation line="那天晚上的迅猛龍比賽真是太精彩了!" speaker="0" flags="OutpostNPC">
+<Conversation line="那天晚上的迅猛龍比賽真是太精彩了！" speaker="0" flags="OutpostNPC">
 	<Conversation line="我覺得讓迅猛龍比賽太殘酷了。" speaker="1" flags="OutpostNPC">
 		<Conversation line="我賭的那隻迅猛龍的騎手被吃掉了，就這點我同意你。" speaker="0"/>
 	</Conversation>
@@ -994,8 +994,8 @@
 </Conversation>
 
 <Conversation line="...然後我對醫生說: 「那不是觸手！」" speaker="0" flags="OutpostNPC">
-	<Conversation line="哈哈!" speaker="1" flags="OutpostNPC"/>
-	<Conversation line="呃，你真噁心!" speaker="1" flags="OutpostNPC"/>
+	<Conversation line="哈哈！" speaker="1" flags="OutpostNPC"/>
+	<Conversation line="呃，你真噁心！" speaker="1" flags="OutpostNPC"/>
 </Conversation>
 
 <Conversation line="設計這個地方的人根本不知道他們在做什麼。" speaker="0" flags="OutpostNPC">
@@ -1014,7 +1014,7 @@
 	<Conversation line="補償者？那是我見過的形狀最奇怪的潛艇。" speaker="1" flags="OutpostNPC"/>
 </Conversation>
 
-<Conversation line="這裡的自動販賣機賣的食物超好吃，那些海藻蛋白餅太好吃了!" speaker="0" flags="OutpostNPC">
+<Conversation line="這裡的自動販賣機賣的食物超好吃，那些海藻蛋白餅太好吃了！" speaker="0" flags="OutpostNPC">
 	<Conversation line="它們跟其他任何自動販賣機裡的海藻蛋白餅一樣，味道像泥巴。" speaker="1" flags="OutpostNPC">
 		<Conversation line="你根本不懂吃。" speaker="0"/>
 	</Conversation>
@@ -1056,10 +1056,10 @@
 <Conversation line="哦，我們又有訪客了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好啊！看起來你們旅途似乎遇到了不少波折。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-<Conversation line="你好! 歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="你好！歡迎來到我們簡陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們這些人看起來需要休息一下。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我以前沒有見過你們。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-<Conversation line="你們的潛艇真漂亮!" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+<Conversation line="你們的潛艇真漂亮！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我希望你們不打算在這裡待很久，這裡的問題已經夠多了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="你們好，我希望你們不會惹出任何麻煩。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 <Conversation line="我會盯著你你們。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
