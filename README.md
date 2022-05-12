@@ -41,7 +41,7 @@
 - 如果想要與英文文本檔案進行對照，資料夾中也付有被合併至 TraditionalChineseVanilla.xml 前的3個文本檔案:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
-    - **TCVanillaEditorTexts.SP.xml** 
+    - **TCVanillaEditorTexts.SP.xml** (包含部分物件細部設定的翻譯)
   - **TCVanillaNew.xml**
 
 # 推薦工具
