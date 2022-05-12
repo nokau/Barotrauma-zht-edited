@@ -18,9 +18,9 @@
 <savesubbutton>儲存</savesubbutton>
 <addsubbutton>加入潛艇</addsubbutton>
 <addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
-<holdtolink>Hold space and click with the mouse to link to another item.</holdtolink>
-<allowedlinks>Allowed links</allowedlinks>
-<filtermapentities>Filter</filtermapentities>
+<holdtolink>按住空白件並點選物件以將它們連結。</holdtolink>
+<allowedlinks>允許連結至</allowedlinks>
+<filtermapentities>篩選</filtermapentities>
 <charactermodebutton>Character mode</charactermodebutton>
 <charactermodetooltip>Allows you to pick up and use items. Useful for things such as placing items inside closets, turning devices on/off and doing the wiring.</charactermodetooltip>
 <wiringmodebutton>配線模式</wiringmodebutton>
@@ -52,7 +52,7 @@
 <itemassemblynamemissingwarning>請為你的物件組合命名。</itemassemblynamemissingwarning>
 <itemassemblyfileexistswarning>這個名稱已經有物件組合使用。你要覆蓋已存在的物件組合嗎。</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
-<nohullswarning>潛艇上沒有Hull。Hull用於定義潛艇的"內部空間"範圍，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
+<nohullswarning>潛艇上沒有Hull。Hull用於定義潛艇的 '內部空間' 範圍，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
 <disconnectedventswarning>潛艇上有通風口尚未與製氧機連結。選取該通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
 <disconnectedturretswarning>潛艇上有[itemname]尚未與裝彈機連結。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
@@ -84,11 +84,11 @@
 <subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
 <subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
 <canattachtoprevious>能以何處連結</canattachtoprevious>
-<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
+<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左邊，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 
 <!-- Entity Editor -->
-<stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
-<stringpropertycannottranslate>This text will not be translated - text with the tag [tag] not found in the language files.</stringpropertycannottranslate>
+<stringpropertytranslate>這些文字將被轉換為 [translation].</stringpropertytranslate>
+<stringpropertycannottranslate>這些文字將不會被轉換 － 在語言檔案中找不到含有 [tag] 的 Tag。</stringpropertycannottranslate>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 <charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 <subeditorlights>燈光</subeditorlights>
@@ -328,52 +328,52 @@
 <leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
 <leveleditor.allsaved>All changes saved</leveleditor.allsaved>
 
-<sp.item.hiddeningame.name>Hidden In Game</sp.item.hiddeningame.name>
-<sp.item.noninteractable.name>Non Interactable</sp.item.noninteractable.name>
-<sp.item.scale.name>Scale</sp.item.scale.name>
-<sp.item.spritecolor.name>Sprite Color</sp.item.spritecolor.name>
-<sp.item.inventoryiconcolor.name>Inventory Icon Color</sp.item.inventoryiconcolor.name>
-<sp.item.containercolor.name>Container Color</sp.item.containercolor.name>
-<sp.item.containercolor.description>Changes the color of the item this item is contained inside. Only has an effect if either of the UseContainedSpriteColor or UseContainedInventoryIconColor property of the container is set to true.</sp.item.containercolor.description>
-<sp.item.condition.name>Condition</sp.item.condition.name>
+<sp.item.hiddeningame.name>在在遊戲進行時隱藏</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>不可互動</sp.item.noninteractable.name>
+<sp.item.scale.name>大小</sp.item.scale.name>
+<sp.item.spritecolor.name>Sprite 色彩</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
+<sp.item.containercolor.description>改變置於其中的物品的顏色，只在容器的 Use Contained Sprite Color 或 Use Contained Inventory Icon Color 為true時有效。</sp.item.containercolor.description>
+<sp.item.condition.name>狀態</sp.item.condition.name>
 <sp.item.tags.name>Tags</sp.item.tags.name>
-<sp.item.displaysidebysidewhenlinked.name>Display Side By Side When Linked</sp.item.displaysidebysidewhenlinked.name>
-<sp.item.displaysidebysidewhenlinked.description>Enable if you want to display the item HUD side by side with another item's HUD, when linked together. Disclaimer: It's possible or even likely that the views block each other, if they were not designed to be viewed together!</sp.item.displaysidebysidewhenlinked.description>
-<sp.item.spritedepth.name>Sprite Depth</sp.item.spritedepth.name>
-<sp.itemcontainer.itempos.name>Item Pos</sp.itemcontainer.itempos.name>
-<sp.itemcontainer.itempos.description>The position where the contained items get drawn at (offset from the upper left corner of the sprite in pixels).</sp.itemcontainer.itempos.description>
-<sp.itemcontainer.iteminterval.name>Item Interval</sp.itemcontainer.iteminterval.name>
-<sp.itemcontainer.iteminterval.description>The interval at which the contained items are spaced apart from each other (in pixels).</sp.itemcontainer.iteminterval.description>
-<sp.itemcontainer.containablerestrictions.name>Containable Restrictions</sp.itemcontainer.containablerestrictions.name>
-<sp.itemcontainer.containablerestrictions.description>Define items (by identifiers or tags) that bots should place inside this container. If empty, no restrictions are applied.</sp.itemcontainer.containablerestrictions.description>
+<sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>若想在與物件互動時讓互相連結物件的介面能夠同時顯示在遊戲畫面中，則啟用這個選項。請注意: 若物件的介面在設計上並不適合同時顯示，它們會有非常高的可能性將彼此遮住！</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Sprite 深度</sp.item.spritedepth.name>
+<sp.itemcontainer.itempos.name>物件位置</sp.itemcontainer.itempos.name>
+<sp.itemcontainer.itempos.description>置於其中的物品的顯示位置 (以Sprite左上角為起點，位移距離以像素為單位)。</sp.itemcontainer.itempos.description>
+<sp.itemcontainer.iteminterval.name>物件間隔</sp.itemcontainer.iteminterval.name>
+<sp.itemcontainer.iteminterval.description>置於其中的物品的之間的間隔 (以像素為單位)。</sp.itemcontainer.iteminterval.description>
+<sp.itemcontainer.containablerestrictions.name>容器限制</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>用以定義bot不可放進其中的物品 (以 identifier 或 tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
 <sp.controller.istoggle.name>Is Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
-<sp.controller.state.name>State</sp.controller.state.name>
-<sp.controller.state.description>Whether the item is toggled on/off. Only valid if IsToggle is set to true.</sp.controller.state.description>
+<sp.controller.istoggle.description>啟用時，這個物件將持續輸出 0 或 1 的訊號，並在與其互動時在兩者之間切換 (像開關一樣)。停用時，與其互動將只會使其在互動當下輸出 1 的訊號。</sp.controller.istoggle.description>
+<sp.controller.state.name>狀態</sp.controller.state.name>
+<sp.controller.state.description>這個物件的狀態為On或Off，只在 Is Toggle 啟用時有效。</sp.controller.state.description>
 
-<sp.connectionpanel.locked.name>Locked</sp.connectionpanel.locked.name>
-<sp.connectionpanel.locked.description>Locked connection panels cannot be rewired in-game.</sp.connectionpanel.locked.description>
-<sp.holdable.holdpos.name>Hold Pos</sp.holdable.holdpos.name>
-<sp.holdable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forwards.</sp.holdable.holdpos.description>
-<sp.holdable.holdangle.name>Hold Angle</sp.holdable.holdangle.name>
-<sp.holdable.holdangle.description>The rotation at which the character holds the item (in degrees, relative to the rotation of the character's hand).</sp.holdable.holdangle.description>
-<sp.holdable.swingamount.name>Swing Amount</sp.holdable.swingamount.name>
-<sp.holdable.swingamount.description>How much the item swings around when aiming/holding it (in pixels, as an offset from AimPos/HoldPos).</sp.holdable.swingamount.description>
-<sp.holdable.swingspeed.name>Swing Speed</sp.holdable.swingspeed.name>
-<sp.holdable.swingspeed.description>How fast the item swings around when aiming/holding it (only valid if SwingAmount is set).</sp.holdable.swingspeed.description>
-<sp.holdable.swingwhenholding.name>Swing When Holding</sp.holdable.swingwhenholding.name>
-<sp.holdable.swingwhenholding.description>Should the item swing around when it's being held.</sp.holdable.swingwhenholding.description>
-<sp.holdable.swingwhenaiming.name>Swing When Aiming</sp.holdable.swingwhenaiming.name>
-<sp.holdable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.holdable.swingwhenaiming.description>
-<sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
-<sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.holdable.swingwhenusing.description>
-<sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
-<sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
-<sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
-<sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
+<sp.connectionpanel.locked.name>鎖定</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>鎖定的配線盤無法在遊戲進行時對它進行配線。</sp.connectionpanel.locked.description>
+<sp.holdable.holdpos.name>裝備位置</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>裝備角度</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>角色裝備物件時它的角度 (以角度為單位，以角色的手為基準的旋轉角度)。</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>揮舞量</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>裝備物件時或以物件進行瞄準時揮舞它的量 (以像素為單位，以 "瞄準位置/裝備位置" 為基準進行移動的量)。</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>揮舞速度</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>裝備物件時或以物件進行瞄準時揮舞它的速度 (只在 "揮舞量" 有數值時有效)。</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>裝備時揮舞</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>裝備物件時是否揮舞它。</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>瞄準時揮舞</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>以物件進行瞄準時是否揮舞它。</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>使用時揮舞</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.holdable.swingwhenusing.description>
+<sp.door.openingspeed.name>開啟速度</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>門開啟的速度。</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>關閉速度</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>門關上的速度。</sp.door.closingspeed.description>
 <sp.door.isopen.name>Is Open</sp.door.isopen.name>
-<sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
-<sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
+<sp.door.isopen.description>此扇門當下是否開啟。</sp.door.isopen.description>
+<sp.repairable.deteriorationspeed.name>劣化速度</sp.repairable.deteriorationspeed.name>
 <sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
 <sp.repairable.mindeteriorationdelay.name>Min Deterioration Delay</sp.repairable.mindeteriorationdelay.name>
 <sp.repairable.mindeteriorationdelay.description>Minimum initial delay before the item starts to deteriorate.</sp.repairable.mindeteriorationdelay.description>
@@ -388,212 +388,212 @@
 <sp.repairable.fixdurationhighskill.name>Fix Duration High Skill</sp.repairable.fixdurationhighskill.name>
 <sp.repairable.fixdurationhighskill.description>The amount of time it takes to fix the item with sufficient skill levels.</sp.repairable.fixdurationhighskill.description>
 <sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
-<sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
-<sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
-<sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points towards the sub's center of mass.</sp.structure.dropshadowoffset.description>
-<sp.structure.scale.name>Scale</sp.structure.scale.name>
-<sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
-<sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
-<sp.structure.spritedepth.name>Sprite Depth</sp.structure.spritedepth.name>
+<sp.structure.spritecolor.name>Sprite 色彩</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>使用陰影</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>陰影位移</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>陰影與結構配件的相對位置，若為 0，陰影將朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
+<sp.structure.scale.name>大小</sp.structure.scale.name>
+<sp.structure.texturescale.name>Texture 大小</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>Texture 位移</sp.structure.textureoffset.name>
+<sp.structure.spritedepth.name>Sprite 深度</sp.structure.spritedepth.name>
 <sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
 <sp.structure.removeiflinkedoutpostdoorinuse.description>If the structure is linked to a door at the edge of an outpost module, this setting will cause the structure to be removed if the door gets used in the outpost. Otherwise the structure is removed if the door is NOT used.</sp.structure.removeiflinkedoutpostdoorinuse.description>
-<sp.lightcomponent.range.name>Range</sp.lightcomponent.range.name>
-<sp.lightcomponent.range.description>The range of the emitted light. Higher values are more performance-intensive.</sp.lightcomponent.range.description>
-<sp.lightcomponent.castshadows.name>Cast Shadows</sp.lightcomponent.castshadows.name>
-<sp.lightcomponent.castshadows.description>Should structures cast shadows when light from this light source hits them. Disabling shadows increases the performance of the game, and is recommended for lights with a short range. Lights that are set to be drawn behind subs don't cast shadows, regardless of this setting.</sp.lightcomponent.castshadows.description>
-<sp.lightcomponent.drawbehindsubs.name>Draw Behind Subs</sp.lightcomponent.drawbehindsubs.name>
-<sp.lightcomponent.drawbehindsubs.description>Lights drawn behind submarines don't cast any shadows and are much faster to draw than shadow-casting lights. It's recommended to enable this on decorative lights outside the submarine's hull.</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.range.name>範圍</sp.lightcomponent.range.name>
+<sp.lightcomponent.range.description>燈光的照射範圍。數值愈高，對遊戲的效能影響愈大。</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>投射陰影</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>當結構配件受到此光線照射時是否會產生陰影。關閉這個選項將改善遊戲效能，建議小範圍燈光停用此選項。設為 "顯示在潛艇之後" 的燈光不會投射任何陰影，且不受到此選項影響。</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>顯示在潛艇之後</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>顯示在潛艇之後的燈光不會投射任何陰影，能夠更快地被顯示。建議潛艇外的裝飾性燈光啟用這個選項。</sp.lightcomponent.drawbehindsubs.description>
 <sp.lightcomponent.ison.name>Is On</sp.lightcomponent.ison.name>
-<sp.lightcomponent.ison.description>Is the light currently on.</sp.lightcomponent.ison.description>
-<sp.lightcomponent.blinkfrequency.name>Blink Frequency</sp.lightcomponent.blinkfrequency.name>
-<sp.lightcomponent.blinkfrequency.description>How rapidly the light blinks on and off (in Hz). 0 = no blinking.</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.ison.description>這個燈光當下為On。</sp.lightcomponent.ison.description>
+<sp.lightcomponent.blinkfrequency.name>閃爍頻率</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
 <sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
 <sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
-<sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
-<sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
-<sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
-<sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
-<sp.itemlabel.textcolor.name>Text Color</sp.itemlabel.textcolor.name>
-<sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
-<sp.itemlabel.textscale.name>Text Scale</sp.itemlabel.textscale.name>
-<sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
-<sp.minimap.requirewaterdetectors.name>Require Water Detectors</sp.minimap.requirewaterdetectors.name>
-<sp.minimap.requirewaterdetectors.description>Does the machine require inputs from water detectors in order to show the water levels inside rooms.</sp.minimap.requirewaterdetectors.description>
-<sp.minimap.requireoxygendetectors.name>Require Oxygen Detectors</sp.minimap.requireoxygendetectors.name>
-<sp.minimap.requireoxygendetectors.description>Does the machine require inputs from oxygen detectors in order to show the oxygen levels inside rooms.</sp.minimap.requireoxygendetectors.description>
-<sp.minimap.showhullintegrity.name>Show Hull Integrity</sp.minimap.showhullintegrity.name>
-<sp.minimap.showhullintegrity.description>Should damaged walls be displayed by the machine.</sp.minimap.showhullintegrity.description>
-<sp.reactor.maxpoweroutput.name>Max Power Output</sp.reactor.maxpoweroutput.name>
-<sp.reactor.maxpoweroutput.description>How much power (kW) the reactor generates when operating at full capacity.</sp.reactor.maxpoweroutput.description>
-<sp.reactor.meltdowndelay.name>Meltdown Delay</sp.reactor.meltdowndelay.name>
-<sp.reactor.meltdowndelay.description>How long the temperature has to stay critical until a meltdown occurs.</sp.reactor.meltdowndelay.description>
-<sp.reactor.firedelay.name>Fire Delay</sp.reactor.firedelay.name>
-<sp.reactor.firedelay.description>How long the temperature has to stay critical until the reactor catches fire.</sp.reactor.firedelay.description>
-<sp.reactor.fuelconsumptionrate.name>Fuel Consumption Rate</sp.reactor.fuelconsumptionrate.name>
-<sp.reactor.fuelconsumptionrate.description>How fast the condition of the contained fuel rods deteriorates per second.</sp.reactor.fuelconsumptionrate.description>
-<sp.powercontainer.maxoutput.name>Max Out Put</sp.powercontainer.maxoutput.name>
-<sp.powercontainer.maxoutput.description>Maximum output of the device when fully charged (kW).</sp.powercontainer.maxoutput.description>
-<sp.powercontainer.capacity.name>Capacity</sp.powercontainer.capacity.name>
-<sp.powercontainer.capacity.description>The maximum capacity of the device (kW * min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
-<sp.powercontainer.charge.name>Charge</sp.powercontainer.charge.name>
-<sp.powercontainer.charge.description>The current charge of the device.</sp.powercontainer.charge.description>
-<sp.powercontainer.maxrechargespeed.name>Max Recharge Speed</sp.powercontainer.maxrechargespeed.name>
-<sp.powercontainer.maxrechargespeed.description>How fast the device can be recharged. For example, a recharge speed of 100 kW and a capacity of 1000 kW*min would mean it takes 10 minutes to fully charge the device.</sp.powercontainer.maxrechargespeed.description>
-<sp.powercontainer.rechargespeed.name>Recharge Speed</sp.powercontainer.rechargespeed.name>
-<sp.powercontainer.rechargespeed.description>The current recharge speed of the device.</sp.powercontainer.rechargespeed.description>
-<sp.oxygengenerator.generatedamount.name>Generated Amount</sp.oxygengenerator.generatedamount.name>
-<sp.oxygengenerator.generatedamount.description>How much oxygen the machine generates when operating at full power.</sp.oxygengenerator.generatedamount.description>
-<sp.engine.maxforce.name>Max Force</sp.engine.maxforce.name>
-<sp.engine.maxforce.description>The amount of force exerted on the submarine when the engine is operating at full power.</sp.engine.maxforce.description>
-<sp.engine.propellerpos.name>Propeller Pos</sp.engine.propellerpos.name>
-<sp.engine.propellerpos.description>The position of the propeller as an offset from the item's center (in pixels). Determines where the particles spawn and the position that causes characters to take damage from the engine if the PropellerDamage is defined.</sp.engine.propellerpos.description>
+<sp.sonar.usetransducers.name>使用聲納發射器</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>是否需要外接聲納發射器。</sp.sonar.usetransducers.description>
+<sp.itemlabel.text.name>文字</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>顯示於標識上的文字。</sp.itemlabel.text.description>
+<sp.itemlabel.textcolor.name>文字色彩</sp.itemlabel.textcolor.name>
+<sp.itemlabel.textcolor.description>顯示於標識上的文字顏色 (R,G,B,A)。</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.name>文字大小</sp.itemlabel.textscale.name>
+<sp.itemlabel.textscale.description>顯示於標識上的文字大小。</sp.itemlabel.textscale.description>
+<sp.minimap.requirewaterdetectors.name>需要水體偵測器</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>裝置是否需要水體偵測器以顯示艙房的水位。</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>需要氧氣偵測器</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>裝置是否需要氧氣偵測器以顯示艙房內的氧氣狀態。</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>顯示船體狀態</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>裝置是否顯示牆體破損。</sp.minimap.showhullintegrity.description>
+<sp.reactor.maxpoweroutput.name>最大輸出功率</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>反應爐全力運轉時的最大輸出功率 (kW)。</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>熔毀延遲時間</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>臨界溫度持續多久才會使反應爐熔毀。</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>起火延遲時間</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>臨界溫度持續多久才會使反應爐起火。</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>燃料消耗率</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>置於當中的燃料棒每秒被消耗的量。</sp.reactor.fuelconsumptionrate.description>
+<sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>此設備的最大容量 (kW * 分鐘)。若為 1000 則此設備將能夠輸出100 kW的電力10分鐘，或 1000 kW的電力1分鐘。</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.name>電量</sp.powercontainer.charge.name>
+<sp.powercontainer.charge.description>此設備當下的電量。</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>最大充電率</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>此設備的最大充電速度。若設為 100 kW，而設備容量為 1000 kW時，則將耗費10分鐘才能使此設備完全充飽電力。</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>充電率</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>此設備當下的充電速度。</sp.powercontainer.rechargespeed.description>
+<sp.oxygengenerator.generatedamount.name>氧氣製造量</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>在此設備全力運轉時能夠產生的氧氣量。</sp.oxygengenerator.generatedamount.description>
+<sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>這具引擎全力運轉時推動潛艇的力量。</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>推進器位置</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>以物件中心點進行位移的推進器位置 (以像素為單位)。以此定義粒子發射的位置，與 Disable Propeller Damage 未啟用時角色受到推進器傷害的位置。</sp.engine.propellerpos.description>
 
-<sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
-<sp.hull.spritedepth.name>Sprite Depth</sp.hull.spritedepth.name>
-<sp.hull.scale.name>Scale</sp.hull.scale.name>
-<sp.delaycomponent.delay.name>Delay</sp.delaycomponent.delay.name>
-<sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
-<sp.delaycomponent.resetwhensignalreceived.name>Reset When Signal Received</sp.delaycomponent.resetwhensignalreceived.name>
-<sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
-<sp.delaycomponent.resetwhendifferentsignalreceived.name>Reset When Different Signal Received</sp.delaycomponent.resetwhendifferentsignalreceived.name>
-<sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.hull.roomname.name>艙房名稱</sp.hull.roomname.name>
+<sp.hull.spritedepth.name>Sprite 深度</sp.hull.spritedepth.name>
+<sp.hull.scale.name>大小</sp.hull.scale.name>
+<sp.delaycomponent.delay.name>延遲</sp.delaycomponent.delay.name>
+<sp.delaycomponent.delay.description>物件延後訊號通過的時間 (秒)。</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.name>收到訊號時重置</sp.delaycomponent.resetwhensignalreceived.name>
+<sp.delaycomponent.resetwhensignalreceived.description>物件是否在收到新的值後清除上一次收到的值。</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.name>收到不同訊號時重置</sp.delaycomponent.resetwhendifferentsignalreceived.name>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>物件是否在收到的訊號發生變化時清除先前收到的訊號。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
 <sp.andcomponent.timeframe.name>Time Frame</sp.andcomponent.timeframe.name>
-<sp.andcomponent.timeframe.description>The item sends the output if both inputs have received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.andcomponent.timeframe.description>
+<sp.andcomponent.timeframe.description>物件 Time Frame 時間範圍內，全部input收到不為0的訊號時才會輸出訊號。若為 0，則所有input需要同時收到訊號。</sp.andcomponent.timeframe.description>
 <sp.andcomponent.output.name>Output</sp.andcomponent.output.name>
-<sp.andcomponent.output.description>The signal sent when both inputs have received a non-zero signal.</sp.andcomponent.output.description>
+<sp.andcomponent.output.description>當物件所有input收到的訊號都不為0時輸出的值。</sp.andcomponent.output.description>
 <sp.andcomponent.falseoutput.name>False Output</sp.andcomponent.falseoutput.name>
-<sp.andcomponent.falseoutput.description>The signal sent when both inputs have not received a non-zero signal (if empty, no signal is sent).</sp.andcomponent.falseoutput.description>
-<sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.orcomponent.timeframe.description>
-<sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
-<sp.orcomponent.falseoutput.description>The signal sent when none of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.orcomponent.falseoutput.description>
-<sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe.</sp.orcomponent.timeframe.description>
-<sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
-<sp.orcomponent.falseoutput.description>The signal sent when none of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.orcomponent.falseoutput.description>
-<sp.xorcomponent.timeframe.description>The item sends the output if one (and only one) of the inputs has received a non-zero signal within the timeframe.</sp.xorcomponent.timeframe.description>
-<sp.xorcomponent.output.description>The signal sent when one (and only one) of the inputs has received a non-zero signal.</sp.xorcomponent.output.description>
-<sp.xorcomponent.falseoutput.description>The signal sent when none or both of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.xorcomponent.falseoutput.description>
-<sp.arithmeticcomponent.timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time.</sp.arithmeticcomponent.timeframe.description>
-<equalscomponent.timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time.</equalscomponent.timeframe.description>
-<equalscomponent.output.description>The signal this item outputs when the inputs are equal.</equalscomponent.output.description>
-<equalscomponent.falseoutput.description>The signal this item outputs when the inputs are not equal.</equalscomponent.falseoutput.description>
-<greatercomponent.output.description>The signal this item outputs when the first input is greater than the second.</greatercomponent.output.description>
-<greatercomponent.falseoutput.description>The signal this item outputs when the first input is not greater than the second.</greatercomponent.falseoutput.description>
+<sp.andcomponent.falseoutput.description>當物件所有input收到的訊號都為0時輸出的值 (若為空白則不輸出任何訊號)。</sp.andcomponent.falseoutput.description>
+<sp.orcomponent.timeframe.description>在 Time Frame 時間範圍內，任一input收到不為0的訊號時輸出的值。</sp.orcomponent.timeframe.description>
+<sp.orcomponent.output.description>當物件的任一input收到不為0的訊號時輸出的值。</sp.orcomponent.output.description>
+<sp.orcomponent.falseoutput.description>當物件所有input收到的訊號都不為0時輸出的值 (若為空白則不輸出任何訊號)。</sp.orcomponent.falseoutput.description>
+<sp.orcomponent.timeframe.description>在 Time Frame 時間範圍內，任一input收到不為0的訊號時輸出的值。</sp.orcomponent.timeframe.description>
+<sp.orcomponent.output.description>當物件的任一input收到不為0的訊號時輸出的值。</sp.orcomponent.output.description>
+<sp.orcomponent.falseoutput.description>當物件所有input收到的訊號都不為0時輸出的值 (若為空白則不輸出任何訊號)。</sp.orcomponent.falseoutput.description>
+<sp.xorcomponent.timeframe.description>在 Time Frame 時間範圍內，當只有一個input收到不為0的訊號時輸出的值。</sp.xorcomponent.timeframe.description>
+<sp.xorcomponent.output.description>當只有一個input收到不為0的訊號時輸出的值。</sp.xorcomponent.output.description>
+<sp.xorcomponent.falseoutput.description>當物件所有input收到的訊號為0或不為0時輸出的值 (若為空白則不輸出任何訊號)。</sp.xorcomponent.falseoutput.description>
+<sp.arithmeticcomponent.timeframe.description>物件必須在 Time Frame 的時間範圍內收到所有訊號才會輸出訊號。若為 0，則所有input需要同時收到訊號。</sp.arithmeticcomponent.timeframe.description>
+<equalscomponent.timeframe.description>物件必須在 Time Frame 的時間範圍內收到所有訊號才會輸出訊號。若為 0，則所有input需要同時收到訊號。</equalscomponent.timeframe.description>
+<equalscomponent.output.description>當物件所有input收到的訊號相等時物件所輸出的值。</equalscomponent.output.description>
+<equalscomponent.falseoutput.description>當物件所有input收到的訊號不相等時物件所輸出的值。</equalscomponent.falseoutput.description>
+<greatercomponent.output.description>當第一個訊號大於第二個訊號時物件所輸出的值。</greatercomponent.output.description>
+<greatercomponent.falseoutput.description>當第一個訊號小於第二個訊號時物件所輸出的值。</greatercomponent.falseoutput.description>
 <sp.signalcheckcomponent.output.name>Output</sp.signalcheckcomponent.output.name>
-<sp.signalcheckcomponent.output.description>The signal this item outputs when the received signal matches the target signal.</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.output.description>當物件收到與 "目標訊號" 相符的值時所輸出的值。</sp.signalcheckcomponent.output.description>
 <sp.signalcheckcomponent.falseoutput.name>False Output</sp.signalcheckcomponent.falseoutput.name>
-<sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
-<sp.signalcheckcomponent.targetsignal.name>Target Signal</sp.signalcheckcomponent.targetsignal.name>
-<sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
-<sp.relaycomponent.maxpower.name>Max Power</sp.relaycomponent.maxpower.name>
-<sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
+<sp.signalcheckcomponent.falseoutput.description>當物件收到與 "目標訊號" 不符的值時所輸出的值。</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.name>目標訊號</sp.signalcheckcomponent.targetsignal.name>
+<sp.signalcheckcomponent.targetsignal.description>用以比對所收到的值。</sp.signalcheckcomponent.targetsignal.description>
+<sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>能夠透過著個物件被輸送的最大電力。</sp.relaycomponent.maxpower.description>
 <sp.relaycomponent.ison.name>Is On</sp.relaycomponent.ison.name>
-<sp.relaycomponent.ison.description>Can the relay currently pass power and signals through it.</sp.relaycomponent.ison.description>
-<sp.relaycomponent.canbeoverloaded.name>Can Be Overloaded</sp.relaycomponent.canbeoverloaded.name>
-<sp.relaycomponent.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.relaycomponent.canbeoverloaded.description>
-<sp.relaycomponent.overloadvoltage.name>Overload Voltage</sp.relaycomponent.overloadvoltage.name>
-<sp.relaycomponent.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.relaycomponent.overloadvoltage.description>
-<sp.relaycomponent.fireprobability.name>Fire Probability</sp.relaycomponent.fireprobability.name>
-<sp.relaycomponent.fireprobability.description>The probability for a fire to start when the item breaks.</sp.relaycomponent.fireprobability.description>
-<sp.oscillatorcomponent.outputtype.name>Output Type</sp.oscillatorcomponent.outputtype.name>
-<sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: a periodical signal of 1. Sine: a sine wave oscillating between -1 and 1. Square: a signal that alternates between 0 and 1. Sawtooth: a signal that rises from 0 to 1 and then drops back to 0. Triangle: a triangle wave oscillating between -1 and 1</sp.oscillatorcomponent.outputtype.description>
-<sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
-<sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
-<sp.lightcomponent.lightcolor.name>Light Color</sp.lightcomponent.lightcolor.name>
-<sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
-<sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
-<sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
-<sp.turret.reload.name>Reload</sp.turret.reload.name>
-<sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
-<sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
-<sp.turret.rotationlimits.description>The range at which the barrel can rotate. TODO</sp.turret.rotationlimits.description>
-<sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
-<sp.turret.springstiffnesslowskill.description>How much torque is applied to rotate the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesslowskill.description>
-<sp.turret.springstiffnesshighskill.name>Spring Stiffness High Skill</sp.turret.springstiffnesshighskill.name>
-<sp.turret.springstiffnesshighskill.description>How much torque is applied to rotate the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesshighskill.description>
-<sp.turret.springdampinglowskill.name>Spring Damping Low Skill</sp.turret.springdampinglowskill.name>
-<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more snappy, stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
-<sp.turret.springdampinghighskill.name>Spring Damping High Skill</sp.turret.springdampinghighskill.name>
-<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more snappy, stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
-<sp.turret.rotationspeedlowskill.name>Rotation Speed Low Skill</sp.turret.rotationspeedlowskill.name>
-<sp.turret.rotationspeedlowskill.description>Maximum angular velocity of the barrel when used by a character with insufficient skills to operate it.</sp.turret.rotationspeedlowskill.description>
-<sp.turret.rotationspeedhighskill.name>Rotation Speed High Skill</sp.turret.rotationspeedhighskill.name>
-<sp.turret.rotationspeedhighskill.description>Maximum angular velocity of the barrel when used by a character with sufficient skills to operate it.</sp.turret.rotationspeedhighskill.description>
-<sp.turret.baserotation.name>Base Rotation</sp.turret.baserotation.name>
-<sp.turret.baserotation.description>The angle of the turret's base in degrees.</sp.turret.baserotation.description>
-<sp.motionsensor.onlyhumans.name>Only Humans</sp.motionsensor.onlyhumans.name>
-<sp.motionsensor.onlyhumans.description>Should the sensor only detect the movement of humans?</sp.motionsensor.onlyhumans.description>
-<sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
-<sp.motionsensor.ignoredead.description>Should the sensor ignore the bodies of dead characters?</sp.motionsensor.ignoredead.description>
-<sp.motionsensor.rangex.name>Range X</sp.motionsensor.rangex.name>
-<sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
-<sp.motionsensor.rangey.name>Range Y</sp.motionsensor.rangey.name>
-<sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
-<sp.motionsensor.detectoffset.name>Detect Offset</sp.motionsensor.detectoffset.name>
-<sp.motionsensor.detectoffset.description>The position to detect the movement at relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
+<sp.relaycomponent.ison.description>電力和訊號是否能夠通過物件。</sp.relaycomponent.ison.description>
+<sp.relaycomponent.canbeoverloaded.name>能否超載</sp.relaycomponent.canbeoverloaded.name>
+<sp.relaycomponent.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.relaycomponent.canbeoverloaded.description>
+<sp.relaycomponent.overloadvoltage.name>超載電壓</sp.relaycomponent.overloadvoltage.name>
+<sp.relaycomponent.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.relaycomponent.overloadvoltage.description>
+<sp.relaycomponent.fireprobability.name>起火機率</sp.relaycomponent.fireprobability.name>
+<sp.relaycomponent.fireprobability.description>當物件受到電力損害時起火的機率。</sp.relaycomponent.fireprobability.description>
+<sp.oscillatorcomponent.outputtype.name>Output 類型</sp.oscillatorcomponent.outputtype.name>
+<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地輸出 1、Sine: 週期性地以曲線波型輸出來回 -1 與 1 之間的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出來回 -1 與 1 之間的數值。</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>訊號的震盪速度，或訊號的輸出頻率 (Hz).</sp.oscillatorcomponent.frequency.description>
+<sp.lightcomponent.lightcolor.name>光線色彩</sp.lightcomponent.lightcolor.name>
+<sp.lightcomponent.lightcolor.description>發出的光的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
+<sp.turret.hudtint.name>Hud 色調</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>操作砲塔時的覆蓋遊戲畫面的顏色 (R,G,B,A)。</sp.turret.hudtint.description>
+<sp.turret.reload.name>裝填</sp.turret.reload.name>
+<sp.turret.reload.description>砲塔發射每一發彈藥之間的等待時間。</sp.turret.reload.description>
+<sp.turret.rotationlimits.name>旋轉範圍</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>砲塔的旋轉範圍。</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>低技能晃動力量</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>技能不足以操作砲塔的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速愈快。</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>高技能晃動力量</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>技能足以操作砲塔的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速愈快。</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>低技能晃動阻尼</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>技能不足以操作砲塔的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>高技能晃動阻尼</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>技能足以操作砲塔的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>低技能旋轉速度</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>技能不足以操作砲塔的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>技能足以操作砲塔的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
+<sp.turret.baserotation.name>底座旋轉</sp.turret.baserotation.name>
+<sp.turret.baserotation.description>砲塔底座的旋轉角度。</sp.turret.baserotation.description>
+<sp.motionsensor.onlyhumans.name>僅偵測人類</sp.motionsensor.onlyhumans.name>
+<sp.motionsensor.onlyhumans.description>偵測器是否只偵測人類的動態？</sp.motionsensor.onlyhumans.description>
+<sp.motionsensor.ignoredead.name>忽略已死亡</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>偵測器是否忽略角色的屍體？</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.name>範圍 X</sp.motionsensor.rangex.name>
+<sp.motionsensor.rangex.description>水平偵測範圍。</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.name>範圍 Y</sp.motionsensor.rangey.name>
+<sp.motionsensor.rangey.description>垂直偵測範圍。</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>偵測範圍位移</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>偵測範圍與物件本身的相對位置，若設為 0,100 則偵測範圍將位於距離物件上方 100 單位的位置。</sp.motionsensor.detectoffset.description>
 <sp.motionsensor.output.name>Output</sp.motionsensor.output.name>
-<sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
+<sp.motionsensor.output.description>物件偵測到動態時所輸出的訊號。</sp.motionsensor.output.description>
 <sp.motionsensor.falseoutput.name>False Output</sp.motionsensor.falseoutput.name>
-<sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
-<sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>How fast the objects within the detector's range have to be moving (in m/s).</sp.motionsensor.minimumvelocity.description>
+<sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的訊號。</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s).</sp.motionsensor.minimumvelocity.description>
 <sp.waterdetector.output.name>Output</sp.waterdetector.output.name>
-<sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
+<sp.waterdetector.output.description>物件在水中時所輸出的訊號。</sp.waterdetector.output.description>
 <sp.waterdetector.falseoutput.name>False Output</sp.waterdetector.falseoutput.name>
-<sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
-<sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
-<sp.notcomponent.continuousoutput.description>When enabled, the component continuously outputs "1" when it's not receiving a signal.</sp.notcomponent.continuousoutput.description>
-<sp.electricaldischarger.range.name>Range</sp.electricaldischarger.range.name>
-<sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
-<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier In Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
-<sp.electricaldischarger.rangemultiplierinwalls.description>How much further can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
-<sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
-<sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
-<sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
-<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine nor shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
-<sp.powertransfer.canbeoverloaded.name>Can Be Overloaded</sp.powertransfer.canbeoverloaded.name>
-<sp.powertransfer.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.powertransfer.canbeoverloaded.description>
-<sp.powertransfer.overloadvoltage.name>Overload Voltage</sp.powertransfer.overloadvoltage.name>
-<sp.powertransfer.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.powertransfer.overloadvoltage.description>
-<sp.powertransfer.fireprobability.name>Fire Probability</sp.powertransfer.fireprobability.name>
-<sp.powertransfer.fireprobability.description>The probability for a fire to start when the item breaks.</sp.powertransfer.fireprobability.description>
-<sp.throwable.holdpos.name>Hold Pos</sp.throwable.holdpos.name>
-<sp.throwable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forwards.</sp.throwable.holdpos.description>
-<sp.throwable.holdangle.name>Hold Angle</sp.throwable.holdangle.name>
-<sp.throwable.holdangle.description>The rotation at which the character holds the item (in degrees, relative to the rotation of the character's hand).</sp.throwable.holdangle.description>
-<sp.throwable.swingamount.name>Swing Amount</sp.throwable.swingamount.name>
-<sp.throwable.swingamount.description>How much the item swings around when aiming/holding it (in pixels, as an offset from AimPos/HoldPos).</sp.throwable.swingamount.description>
-<sp.throwable.swingspeed.name>Swing Speed</sp.throwable.swingspeed.name>
-<sp.throwable.swingspeed.description>How fast the item swings around when aiming/holding it (only valid if SwingAmount is set).</sp.throwable.swingspeed.description>
-<sp.throwable.swingwhenholding.name>Swing When Holding</sp.throwable.swingwhenholding.name>
-<sp.throwable.swingwhenholding.description>Should the item swing around when it's being held.</sp.throwable.swingwhenholding.description>
-<sp.throwable.swingwhenaiming.name>Swing When Aiming</sp.throwable.swingwhenaiming.name>
-<sp.throwable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.throwable.swingwhenaiming.description>
-<sp.throwable.swingwhenusing.name>Swing When Using</sp.throwable.swingwhenusing.name>
-<sp.throwable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.throwable.swingwhenusing.description>
-<sp.propulsion.force.name>Force</sp.propulsion.force.name>
-<sp.propulsion.force.description>The force to apply to the user's body.</sp.propulsion.force.description>
-<sp.terminal.welcomemessage.name>Welcome Message</sp.terminal.welcomemessage.name>
-<sp.terminal.welcomemessage.description>The message to be displayed when opened.</sp.terminal.welcomemessage.description>
+<sp.waterdetector.falseoutput.description>物件不在水中時所輸出的訊號。</sp.waterdetector.falseoutput.description>
+<sp.notcomponent.continuousoutput.name>持續輸出</sp.notcomponent.continuousoutput.name>
+<sp.notcomponent.continuousoutput.description>啟用時，在元件沒有接收到任何訊號時將持續輸出 "1"。</sp.notcomponent.continuousoutput.description>
+<sp.electricaldischarger.range.name>範圍</sp.electricaldischarger.range.name>
+<sp.electricaldischarger.range.description>>物件產生的電擊自其本身擴散的範圍。</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>牆體擴散範圍</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>產生的電擊能夠沿著牆壁進一步擴散的距離。</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>持續時間</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>單次放電的持續時間 (秒)。</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>只在艙外</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>若設為true，產生的電擊將無法傳達進入艙內或傷害位於艙內的角色。</sp.electricaldischarger.outdoorsonly.description>
+<sp.powertransfer.canbeoverloaded.name>能否超載</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>超載電壓</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>起火機率</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>當物件受到電力損害時起火的機率。</sp.powertransfer.fireprobability.description>
+<sp.throwable.holdpos.name>裝備位置</sp.throwable.holdpos.name>
+<sp.throwable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.throwable.holdpos.description>
+<sp.throwable.holdangle.name>裝備角度</sp.throwable.holdangle.name>
+<sp.throwable.holdangle.description>角色裝備物件時拿著它的角度 (以角度為單位，以角色的手為基準的旋轉角度)。</sp.throwable.holdangle.description>
+<sp.throwable.swingamount.name>揮舞量</sp.throwable.swingamount.name>
+<sp.throwable.swingamount.description>裝備物件時或以物件進行瞄準時揮舞它的量 (以像素為單位，以 "瞄準位置/裝備位置" 為基準進行移動的量)。</sp.throwable.swingamount.description>
+<sp.throwable.swingspeed.name>揮舞速度</sp.throwable.swingspeed.name>
+<sp.throwable.swingspeed.description>裝備物件時或以物件進行瞄準時揮舞它的速度 (只在 "揮舞量" 有數值時有效)。</sp.throwable.swingspeed.description>
+<sp.throwable.swingwhenholding.name>裝備時揮舞</sp.throwable.swingwhenholding.name>
+<sp.throwable.swingwhenholding.description>裝備物件時是否揮舞它。</sp.throwable.swingwhenholding.description>
+<sp.throwable.swingwhenaiming.name>瞄準時揮舞</sp.throwable.swingwhenaiming.name>
+<sp.throwable.swingwhenaiming.description>以物件進行瞄準時是否揮舞它。</sp.throwable.swingwhenaiming.description>
+<sp.throwable.swingwhenusing.name>使用時揮舞</sp.throwable.swingwhenusing.name>
+<sp.throwable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.throwable.swingwhenusing.description>
+<sp.propulsion.force.name>力道</sp.propulsion.force.name>
+<sp.propulsion.force.description>施加至使用者身上的力道。</sp.propulsion.force.description>
+<sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>開啟時所顯示的訊息。</sp.terminal.welcomemessage.description>
 
-<sp.pickingtime.name>Picking Time</sp.pickingtime.name>
-<sp.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.pickingtime.description>
-<sp.canbepicked.name>Can Be Picked</sp.canbepicked.name>
-<sp.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something else than picking up the item).</sp.canbepicked.description>
-<sp.allowingameediting.name>Allow In Game Editing</sp.allowingameediting.name>
-<sp.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.allowingameediting.description>
+<sp.pickingtime.name>撿起時間</sp.pickingtime.name>
+<sp.pickingtime.description>撿起物件所需的時間 (以秒為單位)。</sp.pickingtime.description>
+<sp.canbepicked.name>可被撿起</sp.canbepicked.name>
+<sp.canbepicked.description>物件是否能被撿起 (或當撿起動作在這個物件上有其他互動方式時，可否與其進行互動)。</sp.canbepicked.description>
+<sp.allowingameediting.name>允許在戲進行中編輯</sp.allowingameediting.name>
+<sp.allowingameediting.description>物件的設定值能否在遊戲進行中被編輯 (只在物件本身擁有可在遊戲中被編輯的數值時有效)。</sp.allowingameediting.description>
 <sp.msg.name>Msg</sp.msg.name>
-<sp.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. [Mouse1] Pick up).</sp.msg.description>
-<sp.minvoltage.name>Min Voltage</sp.minvoltage.name>
-<sp.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.minvoltage.description>
-<sp.powerconsumption.name>Power Consumption</sp.powerconsumption.name>
-<sp.powerconsumption.description>How much power the device draws (or attempts to draw) from the electrical grid when active.</sp.powerconsumption.description>
-<sp.vulnerabletoemp.name>Vulnerable To E M P</sp.vulnerabletoemp.name>
-<sp.vulnerabletoemp.description>Can the item be damaged by electomagnetic pulses.</sp.vulnerabletoemp.description>
+<sp.msg.description>當滑鼠游標漂浮於物件上時所顯示的一段訊息 (通常用於標註與物件的互動方式，例如: [[Mouse1]] 撿起)。</sp.msg.description>
+<sp.minvoltage.name>最低需求電壓</sp.minvoltage.name>
+<sp.minvoltage.description>這個物件運作時所需的最低電壓。遊戲中電壓的計算方式為 供電量/耗電量，也就是說當物件的 "耗電量" 被設為1000 kW、"最低需求電壓" 為0.5時，需要對它提供500 kW的電力才能使其開始運作。</sp.minvoltage.description>
+<sp.powerconsumption.name>耗電量</sp.powerconsumption.name>
+<sp.powerconsumption.description>這個物件運作時消耗 (或嘗試消耗) 的電量。</sp.powerconsumption.description>
+<sp.vulnerabletoemp.name>能受 EMP 影響</sp.vulnerabletoemp.name>
+<sp.vulnerabletoemp.description>物件能否受到電磁脈衝的影響。</sp.vulnerabletoemp.description>
 
 <!-- Structure -->
 <entityname.hull>Hull</entityname.hull>
-<entitydescription.hull>Hulls determine which parts are considered to be 'inside the sub'. Generally every room should be enclosed by a hull.</entitydescription.hull>
+<entitydescription.hull>Hull用於定義潛艇的 '內部空間'，普遍來說艙房都會置於Hull的範圍之內。</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
 <entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
 <entityname.waypoint>Waypoint</entityname.waypoint>
