@@ -639,9 +639,9 @@
 <debugconsolehelptext>Debug控制台 - 使用F3開啟/關閉；輸入help獲取可用指令清單</debugconsolehelptext>
 <failed>失敗</failed>
 <invalidcontentpackage>無法載入 '[packagename]' 內容套件。</invalidcontentpackage>
-<xmlfileinvalid>文件 '[filepath]' 並非合法XML文件 ([errormessage])。</xmlfileinvalid>
+<xmlfileinvalid>文件 '[filepath]' 不是有效的XML文件 ([errormessage])。</xmlfileinvalid>
 <openlinkinbrowserprompt>你要用網頁流覽器打開 "[link]" 嗎？</openlinkinbrowserprompt>
-<contentpackagemismatchwarninggeneric>這艘潛艇可能與當前所選的內容套件不相容。你確定要選擇這艘潛艇嗎？</contentpackagemismatchwarninggeneric>
+<contentpackagemismatchwarninggeneric>這艘潛艇可能與當前所選的內容套件不相容，你確定要選擇這艘潛艇嗎？</contentpackagemismatchwarninggeneric>
 <bankbalanceformat>銀行: [money] mk</bankbalanceformat>
 <moneygainformat>+ [money]</moneygainformat>
 <moneyloseformat>- [money]</moneyloseformat>
@@ -2726,7 +2726,7 @@
 <entitydescription.idcardwreck>這張ID卡能用來進入殘骸內大部分的空間，如果那些門沒有鏽到打不開的話。</entitydescription.idcardwreck>
 <entityname.crateshelf>貨物架</entityname.crateshelf>
 <entityname.op_lighttower>Light Tower</entityname.op_lighttower>
-<entityname.op_lightbox1>Lightbox</entityname.op_lightbox1>
+<entityname.op_lightbox1>燈箱</entityname.op_lightbox1>
 <entityname.op_hologramdisplay1>Hologram Display</entityname.op_hologramdisplay1>
 <entityname.opdeco_container>Shop Display</entityname.opdeco_container>
 <entityname.opdeco_shopsuit1>Diving Suit Display</entityname.opdeco_shopsuit1>
@@ -4673,7 +4673,7 @@
 <centerarealockedtext>這個區域無法在目前版本的潛淵症中被探索，敬請期待未來更新！</centerarealockedtext>
 <statisticspromptheader>你想要幫助我們讓潛淵症變得更好嗎？</statisticspromptheader>
 <statisticsprompttext>你是否允許潛淵症傳送使用資訊與錯誤報告給開發人員？這些資料都不具名，且不包含任何個人資訊，並將只會被用於幫助我們改進潛淵症。</statisticsprompttext>
-<wikinotice>注意: 這個wiki由志願者自發維護，因此可能存在部分資訊尚待更新。若有興趣，歡迎隨時加入，貢獻你的力量！</wikinotice>
+<wikinotice>注意: 這個wiki由志願者自發維護，因此可能存在部分資訊尚待更新。若有興趣歡迎隨時加入貢獻你的心力！</wikinotice>
 <statisticsconsentheader>遊戲資訊採集授權</statisticsconsentheader>
 <statisticsconsenttext>歡迎來到《潛淵症》！在預設情況下，我們不會收集您的遊戲資訊。如果您希望保持這個設置，請點擊「否」。\n\n如果您點擊「是」並給與了我們收集您遊戲中資訊的許可權，我們將可以使用您的遊戲資訊來改善和優化《潛淵症》。我們將收集的遊戲資訊詳情如下。我們將儲存您的確認和SteamID雜湊值並送到我們的資料庫，但您的遊戲資訊在我們的開發過程中將是匿名的。\n\n我們將使用GameAnalytics Ltd.的服務，並遵守他們的規章。這意味著如果您對我們授權使用您的遊戲資訊，也就必須同意GameAnalytics使用您資料進行品質管制與分析。\n\n您可以隨時在遊戲設置中修改是否收集您的遊戲資訊。詳情請參考‖color:255,255,255,255‖https://gameanalytics.com/privacy/‖end‖\n\n我們的隱私條例：</statisticsconsenttext>
 <statisticsconsentstatement>我同意開發者有權收集、存儲和處理我的個人資料，並與GameAnalytics Ltd.分享這些資料，用於品質管制和分析目的。</statisticsconsentstatement>
@@ -5211,7 +5211,7 @@
 <eventtext.missionevent_cargo2.c1>“有一批需要被「小心運送」的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。”</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>“附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。”</eventtext.missionevent_cargo3.c1>
 <eventtext.missionevent_killswarm.c1>“這裡沒有一艘船能在離開時不遇到成群怪物，你們能處理好這個問題的話我可以給你們一些獎勵。”</eventtext.missionevent_killswarm.c1>
-<eventtext.missionevent_killmonstercommon.c1>“有一隻特別凶猛的怪物在騷擾這附近的洞穴，我準備好了一些獎勵要給那些能夠消滅牠的船員們。”</eventtext.missionevent_killmonstercommon.c1>
+<eventtext.missionevent_killmonstercommon.c1>“有一隻特別凶猛的怪物在騷擾這附近的隧道，我準備了一些獎勵要給那些能夠消滅牠的船員們。”</eventtext.missionevent_killmonstercommon.c1>
 <eventtext.missionevent_killmonsterrare.c1>“據報附近某處有一隻巨大的怪物，如果你們想試著獵捕它，不需要客氣，但確定你們都做好了準備，牠很危險。”</eventtext.missionevent_killmonsterrare.c1>
 <eventtext.missionevent_salvageartifact.c1>“我們收到了一個從附近發送的信號，科學家們說那可能是什麼異星東西。如果你們能去看看，我們會給你一些馬克。”</eventtext.missionevent_salvageartifact.c1>
 <eventtext.missionevent_salvagewreck.c1>“我們收到了一個自載有敏感貨物的船艦發送的求救訊號，那些貨物可能早就不在船上了，但船長的航海日誌應該能說明它們發生了什麼事，我要你們將它回收。”</eventtext.missionevent_salvagewreck.c1>
