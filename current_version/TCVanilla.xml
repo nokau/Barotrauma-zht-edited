@@ -3937,8 +3937,8 @@
 <itemmsgsyringerequired>針筒用盡</itemmsgsyringerequired>
 <itemmsgopen>[[select]] 打開</itemmsgopen>
 <doormsgcannotopen>這扇門由與之連接的按鈕或遠端設備控制。</doormsgcannotopen>
-<idcardname>它是[name]的。</idcardname>
-<idcardnamejob>這是那位[job][name]的。</idcardnamejob>
+<idcardname>這張卡屬於 [name]。</idcardname>
+<idcardnamejob>這張卡屬於 [name]，[job]。</idcardnamejob>
 <dropitem>丟下</dropitem>
 <putitemin>放進 [itemname]</putitemin>
 <itemmsgoxygenrefill>放入氧氣罐進行充填</itemmsgoxygenrefill>
