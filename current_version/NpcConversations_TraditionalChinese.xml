@@ -117,11 +117,11 @@
 <Conversation line="我好懷念太陽。" speaker="0" maxintensity="0.2">
 	<Conversation line="" speaker="0" flags="Casual"/>
 	<Conversation line="我聽說陽光會致癌，曬不到它比較好。" speaker="1">
-		<Conversation line="木星也會致癌，我覺得太陽比木星好太多了。" speaker="0">
+		<Conversation line="木星也會致癌，但我還是覺得太陽比木星好太多了。" speaker="0">
 			<Conversation line="停下來。" speaker="2" speakertags="professional,tough"/>
 		</Conversation>
 	</Conversation>
-	<Conversation line="停下來。" speaker="1" speakertags="professional,tough"/>
+	<Conversation line="別繼續說。" speaker="1" speakertags="professional,tough"/>
 </Conversation>
 
 <Conversation line="畫皮寄生蟲讓我毛骨悚然。" speaker="0" speakertags="fearful" maxintensity="0.2">
