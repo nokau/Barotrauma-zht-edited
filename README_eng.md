@@ -13,7 +13,6 @@ Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/iss
 I'm not familiar with GitHub or all its intended functions, to be honest, so if you're interested in doing so, I guess you could make separate versions of the project instead of changing the base files.
 
 # For now this project had these elements edited
-- Names of the interactable items and devices
 - Main menu UI
 - Gameplay UI
 - Partial Submarine Editor UI
