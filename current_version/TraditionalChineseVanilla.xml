@@ -5896,7 +5896,7 @@
 <!-- Submarine classes -->
 <submarineclass>潛艇類型</submarineclass>
 <submarineclass.undefined>未定義</submarineclass.undefined>
-<submarineclass.scout>偵查型</submarineclass.scout>
+<submarineclass.scout>偵察型</submarineclass.scout>
 <submarineclass.attack>攻擊型</submarineclass.attack>
 <submarineclass.transport>運輸型</submarineclass.transport>
 <submarineclass.deepdiver>深潛型</submarineclass.deepdiver>
