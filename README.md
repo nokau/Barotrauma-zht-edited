@@ -31,7 +31,7 @@
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 
 # 專案中的檔案
-你能在這個專案中的 [current_version](./current_version) 資料夾裡找到以下提到的所有檔案:
+在此專案中的 [current_version](./current_version) 資料夾裡:
 
 ### NpcConversations_TraditionalChinese.xml
 - 這個檔案包含了編輯過的NPC對話。
@@ -46,7 +46,7 @@
   - **TCVanillaNew.xml**
 
 # 額外檔案
-在這個專案中的 [current_version_extra](./current_version_extra) 資料夾裡:
+在此專案中的 [current_version_extra](./current_version_extra) 資料夾裡:
 
 ### TCVanillaEditorTexts.SP.xml
  - 修改自上述3個檔案中的 TCVanillaEditorTexts.xml，這個檔案包含了潛艇編輯器與遊戲中物件細部設定的翻譯但尚不完整。
