@@ -4,7 +4,7 @@
 [This mod's Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
 
 # What is this?
-This is a Traditional Chinese localization mod for the game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
+This is a Traditional Chinese localization mod for the video game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
 Use it at your own risk, as the editing is based solely on my own experience; I cannot guarantee that all edits are accurate, but feel free to edit it on your own. And always back up your edited files, or updates and game file verification would revert them to the official ones.
 
