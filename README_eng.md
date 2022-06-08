@@ -1,5 +1,7 @@
 # Barotrauma-zht-edited
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
+[Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
+
+[This mod's Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
 
 # What is this?
 This is a Traditional Chinese localization mod for the game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
