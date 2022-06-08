@@ -29,7 +29,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 
 # Project files
-You can find the mentioned files inside this project's [current_version](./current_version) folder:
+Inside this project's [current_version](./current_version) folder:
 ### NpcConversations_TraditionalChinese.xml
 - This file contains edited lines of NPC conversations.
 - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
@@ -37,7 +37,7 @@ You can find the mentioned files inside this project's [current_version](./curre
 ### TraditionalChineseVanilla.xml
 - This file contains edited lines of all the English files found within the game's Texts folder, because using separated files doesn't seem to work.
 - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- If you are interested in editing or comparing side-by-side with the English flies, there are 3 files in the project's folder that I use before combining them into TraditionalChineseVanilla.xml:
+- If you are interested in editing or comparing side-by-side with the English flies, in the same folder there are 3 files that I use before combining them into TraditionalChineseVanilla.xml:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
