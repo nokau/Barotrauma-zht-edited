@@ -5442,7 +5442,7 @@
 <eventtext.assassinationofjacovsubra4.o2>“不感興趣。” (攻擊)</eventtext.assassinationofjacovsubra4.o2>
 <eventtext.infiltration.c1>哨站行政官用憔悴的眼神看著你。“你是那群剛登上哨站的人之一嗎？能夠見到一位生面孔實在是太令我高興了。”</eventtext.infiltration.c1>
 <eventtext.infiltration.o1>“聽你這麼一說，這裡帶著面具的人還真多。”</eventtext.infiltration.o1>
-<eventtext.infiltration.o1.c1>“一群小丑。我問你，你有沒有在半夜被喇叭的聲響吵醒？它們連旋律沒有，只是此起彼落的亂叭，我已經好久沒有好好睡上一覺了... 有幾天了？”他茫然地看著眼前的空氣，“還是幾週了？”</eventtext.infiltration.o1.c1>
+<eventtext.infiltration.o1.c1>“那群小丑。我問你，你有沒有在半夜被喇叭的聲響吵醒過？它們連旋律都沒有，只是此起彼落的亂叭，我已經很久沒有好好睡上一覺了...有幾天了？”他茫然地看著眼前的空氣，“還是幾週了？”</eventtext.infiltration.o1.c1>
 <eventtext.infiltration.o1.o1>“聽起來真慘，他們想幹嘛？”</eventtext.infiltration.o1.o1>
 <eventtext.infiltration.o1.o1.c1>“誰知道？我試過找他們說話、給他們錢、威脅要把他們踢出去，你能想到的我都試過了。我猜他們只是樂在折磨我和這裡全部的人。”</eventtext.infiltration.o1.o1.c1>
 <eventtext.infiltration.o1.o1.o1>提供協助。</eventtext.infiltration.o1.o1.o1>
@@ -5450,9 +5450,9 @@
 <eventtext.infiltration.o1.o1.o1.o1>“一點都不行？”</eventtext.infiltration.o1.o1.o1.o1>
 <eventtext.infiltration.o1.o1.o1.o1.c1>“不行。”</eventtext.infiltration.o1.o1.o1.o1.c1>
 <eventtext.infiltration.o1.o1.o1.o2>“了解。”</eventtext.infiltration.o1.o1.o1.o2>
-<eventtext.infiltration.o1.o1.o1.o2.c1>你接近了一個小丑。他們都在盯著你看。</eventtext.infiltration.o1.o1.o1.o2.c1>
+<eventtext.infiltration.o1.o1.o1.o2.c1>你接近了一個小丑。他盯著你看。</eventtext.infiltration.o1.o1.o1.o2.c1>
 <eventtext.infiltration.o1.o1.o1.o2.o1>威脅小丑。</eventtext.infiltration.o1.o1.o1.o2.o1>
-<eventtext.infiltration.o1.o1.o1.o2.o1.c1>你瞪著小丑看了一分鐘。他想試著捏捏你的鼻子，但你一掌巴開了他的手臂並指向氣閘的方向。小丑聳了聳肩，拖著腳步離開，他的朋友們也跟著離開。.</eventtext.infiltration.o1.o1.o1.o2.o1.c1>
+<eventtext.infiltration.o1.o1.o1.o2.o1.c1>你瞪著小丑看了一分鐘。他想試著捏捏你的鼻子，但你一掌巴開了他的手臂並指向氣閘的方向。小丑聳了聳肩，拖著腳步離開，他的朋友們也跟著離開。</eventtext.infiltration.o1.o1.o1.o2.o1.c1>
 <eventtext.infiltration.o1.o1.o1.o2.o1.o1>任務完成。</eventtext.infiltration.o1.o1.o1.o2.o1.o1>
 <eventtext.infiltration.o1.o1.o1.o2.o1.o1.c1>一切突然回歸寂靜。你通過無線電向行政官報告了你的成功，他將1,000馬克轉進了你的帳戶。</eventtext.infiltration.o1.o1.o1.o2.o1.o1.c1>
 <eventtext.infiltration.o1.o1.o1.o2.o1.c2>你用力展現你的二頭肌，但不知為何，這個行為唯一成功的地方只有使那位小丑對著你哈哈大笑，在那之後他繼續著他的惡作劇。</eventtext.infiltration.o1.o1.o1.o2.o1.c2>
@@ -5645,9 +5645,9 @@
 <EventText.explosivemishap.c1>一扇關上的門後傳來了聲音，“...所以我只要按著按鈕？”</EventText.explosivemishap.c1>
 <EventText.explosivemishap.o1>靠著門聽。</EventText.explosivemishap.o1>
 <EventText.explosivemishap.o1.c1>一個低沉的嗡嗡聲迴盪在空間裡，聽起來像台老舊吸塵器。“基本上是，但你最好注意不要讓它過熱。”</EventText.explosivemishap.o1.c1>
-<EventText.explosivemishap.o1.o1.c1>“過熱？”嗡嗡聲愈來愈大聲，音調也愈來愈高。.</EventText.explosivemishap.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.c1>“過熱？”嗡嗡聲愈來愈大聲，音調也愈來愈高。</EventText.explosivemishap.o1.o1.c1>
 <EventText.explosivemishap.o1.o1.o1>繼續靠在門上聽。</EventText.explosivemishap.o1.o1.o1>
-<EventText.explosivemishap.o1.o1.o1.c1>那扇門被從它的絞鍊上轟了下來，你則被壓倒在地上。.</EventText.explosivemishap.o1.o1.o1.c1>
+<EventText.explosivemishap.o1.o1.o1.c1>那扇門被從它的絞鍊上轟了下來，你則被壓倒在地上。</EventText.explosivemishap.o1.o1.o1.c1>
 <EventText.explosivemishap.o1.o1.o1.o1>往裡面看。</EventText.explosivemishap.o1.o1.o1.o1>
 <EventText.explosivemishap.o1.o1.o1.o1.c1>那間實驗室裡看起來像被炸彈炸過一樣，昂貴的儀器散落在地板上，曾經潔白的牆上現在佈滿了深紅色與腦袋碎屑。兩具冒著煙的屍體躺在地上，地上冒著煙的還有某種像是異星裝置之類的東西。附近有人正在呼叫守衛。</EventText.explosivemishap.o1.o1.o1.o1.c1>
 <EventText.explosivemishap.o1.o1.o1.o1.o1>在守衛抵達之前查看那項裝置。</EventText.explosivemishap.o1.o1.o1.o1.o1>
@@ -6146,7 +6146,7 @@
 <talentname.munitionsexpertise>彈藥知識</talentname.munitionsexpertise>
 <talentdescription.munitionsexpertise>當你製作SMG、霰彈槍、電擊槍彈藥時，你有[probability]%機率獲得兩倍成品。</talentdescription.munitionsexpertise>
 <talentdescription.multitasker>當你獲得技能點數時，若與先前升級的技能不同，獲得兩倍點數。</talentdescription.multitasker>
-<talentdescription.apprenticeship>當你的隊友獲得技能點數時，你有[probability]%的機率也獲得該技能點數。.</talentdescription.apprenticeship>
+<talentdescription.apprenticeship>當你的隊友獲得技能點數時，你有[probability]%的機率也獲得該技能點數。</talentdescription.apprenticeship>
 <talentname.navydiver>海軍潛水員</talentname.navydiver>
 <talentname.scavenger>清道夫</talentname.scavenger>
 <talentname.buccaneer>冒險家</talentname.buccaneer>
@@ -6251,7 +6251,7 @@
 <talentdescription.honkinghealscharacters>小丑之力賦予你以鳴響鳴響自行車喇叭緩慢治療周遭隊友的能力。</talentdescription.honkinghealscharacters>
 <talentdescription.standanddeliver>每當你完成至少一項任務，都會獲得一份"水手指南"。\n當你使用"水手指南"時，提升周遭隊友所有技能[skillamount]點。</talentdescription.standanddeliver>
 <talentdescription.letitdrainreminder>此設備在潛艇上只能安裝[itemcount]個。</talentdescription.letitdrainreminder>
-<talentdescription.cannedheat>你周遭的隊友在你演奏手風琴時每秒獲得[allyexperienceamount]經驗值，而當他們獲得經驗值時，你能獲得[experienceamount]經驗值。.</talentdescription.cannedheat>
+<talentdescription.cannedheat>你周遭的隊友在你演奏手風琴時每秒獲得[allyexperienceamount]經驗值，而當他們獲得經驗值時，你能獲得[experienceamount]經驗值。</talentdescription.cannedheat>
 <talentdescription.nuclearoption>製作燃料棒時獲得三倍成品。</talentdescription.nuclearoption>
 <talentdescription.quickfix>當你完全修復一項設備時獲得[experienceamount]經驗值。</talentdescription.quickfix>
 <talentdescription.maxtriggeruntildeath>這項效果每回合每條命只能觸發一次。</talentdescription.maxtriggeruntildeath>
@@ -6282,7 +6282,7 @@
 <talentdescription.researchgrant>當你精煉或組合基因物品時獲得[marks]馬克。</talentdescription.researchgrant>
 <talentname.melodicrespite>緩板旋律</talentname.melodicrespite>
 <talentdescription.melodicrespite>你和你周遭的隊友在你彈奏吉他時獲得以下狀態[seconds]秒:</talentdescription.melodicrespite>
-<talentdescription.expandedresearch>當你對燃料棒或耗乏燃料進行加工時獲得[experienceamount]經驗值。.</talentdescription.expandedresearch>
+<talentdescription.expandedresearch>當你對燃料棒或耗乏燃料進行加工時獲得[experienceamount]經驗值。</talentdescription.expandedresearch>
 <talentdescription.hazardousmaterials>當你第一次打開殘骸中反應爐的物品欄時獲得一些稀有原料。</talentdescription.hazardousmaterials>
 <talentdescription.gainskillatlowskill>當你從一項低於[skilltotal]的技能獲得一點技能點數時額外獲得一點技能點數。</talentdescription.gainskillatlowskill>
 <talentdescription.advancedsplicing>當你或你的隊友合成或精煉遺傳物質時獲得[experienceamount]經驗值與[skillbonus]醫療技能等級。</talentdescription.advancedsplicing>
@@ -6331,7 +6331,7 @@
 <talentdescription.coauthor>你能夠與技師共同撰寫一本書。\n雙方在選取對方的角色[seconds]秒後會獲得一本[itemname]並得到[experienceamount]經驗值。</talentdescription.coauthor>
 <talentdescription.polymath>全部技能獲得[skillincrease]點並能夠得到額外[experiencegain]%的任務經驗值加成，但你的最大生命值減少[maximumhealthreduction]%。</talentdescription.polymath>
 <talentdescription.optimizedpowerflow>獲得相當於你的電氣工程技能點數[statamount]%的砲塔耗電量降低和砲塔充電速度加成。\n當你完全修復一項設備時獲得[skillamount]點電氣工程技能獎勵。</talentdescription.optimizedpowerflow>
-<talentdescription.aggressiveengineering>當你以扳手進行攻擊時有[probability]%的機率攻擊力提升[powerincrease]%且附有暈眩效果。.</talentdescription.aggressiveengineering>
+<talentdescription.aggressiveengineering>當你以扳手進行攻擊時有[probability]%的機率攻擊力提升[powerincrease]%且附有暈眩效果。</talentdescription.aggressiveengineering>
 <talentdescription.pyromaniac>當你受到來自敵方的燒傷效果時獲得維持[seconds]秒的額外[physicaldamagereduction]%提升物理傷害抗性。\n燃燒傷害提升[burnincrease]%。</talentdescription.pyromaniac>
 <talentdescription.scrapsavant>你能將[scrapamount]廢料加工成為異星原料。\n對義興原料進行加工時獲得[experienceamount]經驗值。</talentdescription.scrapsavant>
 <talentdescription.scrounger>當你拆解廢料時獲得[experienceamount]經驗值。</talentdescription.scrounger>
