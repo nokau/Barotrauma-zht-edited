@@ -21,7 +21,7 @@
 <loadingscreentip>製氧機都配備有充氣座，能用來填充氧氣罐。</loadingscreentip>
 <loadingscreentip>超級電容不像蓄電池那樣能夠儲存大量電力，但能在瞬間釋放高壓電流，它們多半被用於驅動軌道砲或其他需要瞬間高壓電流的設備。</loadingscreentip>
 <loadingscreentip>核反應爐都配備了自動控制系統，開啟時能夠將反應爐的輸出功率調整在最佳狀態，不過該系統在用電量大幅波動的情況下不見得能夠及時做出反應。</loadingscreentip>
-<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠 － 讓你的工程師確保終端運轉良好！</loadingscreentip>
+<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠──讓你的工程師確保終端運轉良好！</loadingscreentip>
 <loadingscreentip>佈署誘餌彈時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
 <loadingscreentip>在電氣工程技能不足的狀態下試圖替電氣設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
@@ -49,7 +49,7 @@
 <loadingscreentip>許多藥物有著意想不到的副作用。請密切關注病人情況，隨時準備其他藥物以備抵消這些副作用。</loadingscreentip>
 <loadingscreentip>在使用潛水面罩時，注意不要把焊接燃料罐和氧氣罐搞混了。</loadingscreentip>
 <loadingscreentip>潛水面罩可以讓你在水下呼吸，但不能幫助你抵禦足以碎骨的深水壓力。如果船體有較大的結構破損，請立即換上潛水服。</loadingscreentip>
-<loadingscreentip>當火災發生，燒傷不是唯一需要被注意的 － 大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
+<loadingscreentip>當火災發生，燒傷不是唯一需要被注意的──大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
 <loadingscreentip>穿越被稱為熱液廢土的區域時得格外注意，這些區域不只生物數量豐富，地熱活動引發的水流變化更使航行變得加倍危險。</loadingscreentip>
 <loadingscreentip>歐羅巴上的一些固著生物會發出可能干擾潛艇聲納的低頻聲波。</loadingscreentip>
 <loadingscreentip>歐羅巴擁有豐富的自然資源，唯有目光敏銳、雄心勃勃、手拿電漿切割器的船長才有機會得到豐盛收穫。</loadingscreentip>
@@ -59,8 +59,8 @@
 <loadingscreentip>歐羅巴的水下生態尚未被完全解讀，但普遍相信食物鏈的底層是由化合細菌組成。</loadingscreentip>
 <loadingscreentip>歐羅巴聯盟最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
 <loadingscreentip>那項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
-<loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層之中的隧道與裂縫 － 介於表面冰層與其內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
-<loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體 － 丘腦。</loadingscreentip>
+<loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層之中的隧道與裂縫──介於表面冰層與其內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
+<loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體──丘腦。</loadingscreentip>
 <loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開指令介面來選擇可用的命令。</loadingscreentip>
 <loadingscreentip>在哨站惹事會降低你的聲望，聲望較低會導致當地居民向你收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
 <loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如木星分離主義分子的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
@@ -187,7 +187,7 @@
 <workshopitemdeleteverification>你確定要將 '[itemname]' 從Steam工作坊中移除嗎？</workshopitemdeleteverification>
 <workshopitempublishtooltip>上傳檔案至Steam工作坊。</workshopitempublishtooltip>
 <workshopitemfileincluded>檔案將被包含在Steam工作坊項目中。</workshopitemfileincluded>
-<workshopitemfilenotincluded>無法在該項目資料夾中找到對應的檔案，此項目中將不會包含該檔案。除非檔案已不再被需要 － 請將檔案置於該項目的資料夾內。</workshopitemfilenotincluded>
+<workshopitemfilenotincluded>無法在該項目資料夾中找到對應的檔案，此項目中將不會包含該檔案。除非檔案已不再被需要──請將檔案置於該項目的資料夾內。</workshopitemfilenotincluded>
 <workshopitemfilenotfound>找不到檔案。</workshopitemfilenotfound>
 <workshopitemillegalpath>Steam工作坊只允許修改或新增檔案至Mod資料夾或Submarines資料夾。請將檔案置於在這兩個資料夾中的子資料夾。</workshopitemillegalpath>
 <workshopitemrefreshfilelisttooltip>重新載入Steam工作坊項目的設定檔 (項目資料夾內的 filelist.xml)，並將項目中包含的所有新檔案添加到列表當中。</workshopitemrefreshfilelisttooltip>
@@ -622,8 +622,8 @@
 <deletedialogquestion>你確定要刪除'[file]'嗎？</deletedialogquestion>
 <deletefileverification>你要刪除 [filename] 嗎？</deletefileverification>
 <deletefileerror>無法刪除'[file]'！</deletefileerror>
-<steamdllnotfound>初始化Steam用戶端失敗 (找不到steam_api64.dll)。所有Steam功能已經停用 － 你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
-<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已正常登錄。所有Steam功能已經停用 － 你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
+<steamdllnotfound>初始化Steam用戶端失敗 (找不到steam_api64.dll)。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
+<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已正常登錄。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
 <create>建立</create>
 <walls>牆壁</walls>
 <reset>重設</reset>
@@ -978,7 +978,7 @@
 <connectionerrornoresponse>伺服器沒有回應，可能是伺服器發生了問題。</connectionerrornoresponse>
 <radioannouncername>中央司令部</radioannouncername>
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
-<toofarfromoutpostwarning>嘿！對、你，哨站下的那個 － 你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
+<toofarfromoutpostwarning>嘿！對、你，哨站下的那個──你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
 <handcuffed>你被戴上了手銬。</handcuffed>
 <handcuffequipconfirmation>你確定要給自己戴上手銬嗎？</handcuffequipconfirmation>
@@ -1195,9 +1195,9 @@
 <servertag.roleplay>角色扮演</servertag.roleplay>
 <servertagdescription.roleplay>船員們的目標在扮演寫實的潛艇船員。不論是下達指示、尊重命令、或完成自己的職責都不容疏忽。回合進行中盡量避免表現出不符合所扮演角色的言行舉止。</servertagdescription.roleplay>
 <servertag.somethingdifferent>另類風格</servertag.somethingdifferent>
-<servertagdescription.somethingdifferent>跳脫平時的潛淵症體驗: 套用Mod的伺服器系統，超越常識的潛艇設計，大亂鬥，競速，死亡路跑... 什麼都行！</servertagdescription.somethingdifferent>
+<servertagdescription.somethingdifferent>跳脫平時的潛淵症體驗: 套用Mod的伺服器系統，超越常識的潛艇設計，大亂鬥，競速，死亡路跑...什麼都行！</servertagdescription.somethingdifferent>
 <servertag.rampage>瘋狂殺戮</servertag.rampage>
-<servertagdescription.rampage>準備好為了自己的小命戰鬥吧！這個伺服器以戰鬥為主，PvP、PvE、或兩者一起 － 在伺服器描述中註記哪些戰鬥方式是被允許的。</servertagdescription.rampage>
+<servertagdescription.rampage>準備好為了自己的小命戰鬥吧！這個伺服器以戰鬥為主，PvP、PvE、或兩者一起──在伺服器描述中註記哪些戰鬥方式是被允許的。</servertagdescription.rampage>
 <servertag.modded.true>使用Mod</servertag.modded.true>
 <servertagdescription.modded.true>使用一項或多項Mod，或許需要自Steam工作坊獲取內容套件才能進入。</servertagdescription.modded.true>
 <servertag.modded.false>原汁原味</servertag.modded.false>
@@ -1468,7 +1468,7 @@
 <missiondescription.prospect>挖礦團隊想要在你確認[location1]與[location2]之間還有足夠礦脈之後開採[resourcename]，要是你能找到[quantity]個單位的量他們將會支付你[reward]馬克也能讓留下找到的東西。</missiondescription.prospect>
 <missionsuccess.prospect>已成功對該資源完成探勘，駕駛潛艇離開這裡以領取獎勵。</missionsuccess.prospect>
 <missionname.cargomedemergency>運送醫療物品</missionname.cargomedemergency>
-<missiondescription.cargomedemergency>一位在[location2]的船員讓自己陷入了嚴重的窒死劑中毒，如果你能盡速送達這項物品，他們或許還撐得過去... 你將會收到[reward]馬克的運費。</missiondescription.cargomedemergency>
+<missiondescription.cargomedemergency>一位在[location2]的船員讓自己陷入了嚴重的窒死劑中毒，如果你能盡速送達這項物品，他們或許還撐得過去...你將會收到[reward]馬克的運費。</missiondescription.cargomedemergency>
 <missionsuccess.cargomedemergency>解毒劑已被成功送達。</missionsuccess.cargomedemergency>
 <missionname.beacon>投放信號發射器</missionname.beacon>
 <missiondescription.beacon>前往[location2]並投放信號發射器以協助殖民地的建造工程開始，將在信號開始傳送之後支付[reward]馬克的費用。</missiondescription.beacon>
@@ -1476,7 +1476,7 @@
 <missionsuccess.beacon>信號發射器已成功投放。</missionsuccess.beacon>
 <missionname.pvpmission>搜索並殲滅</missionname.pvpmission>
 <missiondescriptionneutral.pvpmission>[location1]派出了一艘聯盟艦艇以摧毀位於[location2]邊界的反叛者船艦。</missiondescriptionneutral.pvpmission>
-<missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪 － 以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
+<missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪──以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
 <missiondescription2.pvpmission>你是木星分離主義份子，一個反聯盟組織的一員。根據來自[location1]的線報，一艘聯盟船艦已經被派出將你的艦艇擊沉，以任何必要的手段消滅對方。</missiondescription2.pvpmission>
 <missionname.killhammerhead>獵殺錘頭煞</missionname.killhammerhead>
 <missiondescription.killhammerhead>一群特別凶猛的錘頭煞不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將其獵殺的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killhammerhead>
@@ -1560,7 +1560,7 @@
 <missionsonarlabel.titanitecollection>榍石礦脈</missionsonarlabel.titanitecollection>
 
 
-<missiontypedescription.salvage>尋找並回收一項物品 － 例如異星遺跡中的異星文物或者沉沒潛艇上的敏感貨物。</missiontypedescription.salvage>
+<missiontypedescription.salvage>尋找並回收一項物品──例如異星遺跡中的異星文物或者沉沒潛艇上的敏感貨物。</missiontypedescription.salvage>
 <missiontypedescription.monster>殲滅一隻 (或者一群) 佔據了航線的有侵略性生物。</missiontypedescription.monster>
 <missiontypedescription.cargo>在哨站之間運送貨物 (像是爆裂物、危險的化學物、礦物等)。</missiontypedescription.cargo>
 <missiontypedescription.nest>搜尋並清除巢穴，巢穴多半位於航線上的狹窄洞穴中。</missiontypedescription.nest>
@@ -1584,7 +1584,7 @@
 <missionmessage0.tigerthreshernest>已經將巢穴清除，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.tigerthreshernest>
 <missionsuccess.tigerthreshernest>虎尾煞巢穴已被清除。</missionsuccess.tigerthreshernest>
 <missionname.beaconmission>啟動信號站</missionname.beaconmission>
-<missiondescription.beaconmission>位於[location1]與[location2]之間的信號站停止運作了 － 進到那裡、將它重新啟動並使其主動發送聲納信號。</missiondescription.beaconmission>
+<missiondescription.beaconmission>位於[location1]與[location2]之間的信號站停止運作了──進到那裡、將它重新啟動並使其主動發送聲納信號。</missiondescription.beaconmission>
 <missionmessage0.beaconmission>信號站已經重新啟動，確保它持續運作並駕駛潛艇抵達[location2]以領取獎勵。</missionmessage0.beaconmission>
 <missionsuccess.beaconmission>已重新啟動信號站。</missionsuccess.beaconmission>
 
@@ -1596,7 +1596,7 @@
 
 <missionname.pvpmission>搜索並殲滅</missionname.pvpmission>
 <missiondescriptionneutral.pvpmission>[location1]派出了一艘聯盟艦艇以摧毀位於[location2]邊界的反叛者船艦。</missiondescriptionneutral.pvpmission>
-<missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪 － 以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
+<missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪──以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
 <missiondescription2.pvpmission>你是木星分離主義份子，一個反聯盟組織的一員。根據來自[location1]的線報，一艘聯盟船艦已經被派出將你的艦艇擊沉，以任何必要的手段消滅對方。</missiondescription2.pvpmission>
 
 <missionname.abandonedoutposthumans>奪回哨站</missionname.abandonedoutposthumans>
@@ -1612,7 +1612,7 @@
 <missionheader0.abandonedoutpostmonsters>已清除巢穴</missionheader0.abandonedoutpostmonsters>
 <missionmessage0.abandonedoutpostmonsters>哨站上的巢穴已經被成功清除，與哨站分離以完成任務。</missionmessage0.abandonedoutpostmonsters>
 <missionname.abandonedoutpostassassinate>哨站暗殺</missionname.abandonedoutpostassassinate>
-<missiondescription.abandonedoutpostassassinate>[location1]最近沒了音訊，有報告指出一群惡名昭彰的法外之徒把那裡當作了自己的基地。他們的首領正被通緝 － 將其殲滅已獲得賞金。</missiondescription.abandonedoutpostassassinate>
+<missiondescription.abandonedoutpostassassinate>[location1]最近沒了音訊，有報告指出一群惡名昭彰的法外之徒把那裡當作了自己的基地。他們的首領正被通緝──將其殲滅已獲得賞金。</missiondescription.abandonedoutpostassassinate>
 <missionsuccess.abandonedoutpostassassinate>強盜首領已被成功殲滅。</missionsuccess.abandonedoutpostassassinate>
 <missionfailure.abandonedoutpostassassinate>並未將強盜首領殲滅。</missionfailure.abandonedoutpostassassinate>
 <missionheader0.abandonedoutpostassassinate>強盜首領已被殲滅</missionheader0.abandonedoutpostassassinate>
@@ -1800,11 +1800,11 @@
 
 <!-- Doors -->
 <entityname.door>自訂滑門</entityname.door>
-<entitydescription.door>一扇不附開關按鈕的滑門 － 需要手動配線。</entitydescription.door>
+<entitydescription.door>一扇不附開關按鈕的滑門──需要手動配線。</entitydescription.door>
 <entityname.windoweddoor>附窗戶的自訂滑門</entityname.windoweddoor>
-<entitydescription.windoweddoor>一扇不附開關按鈕，有窗戶的滑門 － 需要手動配線。</entitydescription.windoweddoor>
+<entitydescription.windoweddoor>一扇不附開關按鈕，有窗戶的滑門──需要手動配線。</entitydescription.windoweddoor>
 <entityname.hatch>自訂艙門</entityname.hatch>
-<entitydescription.hatch>一扇門、水平的門，不附開關按鈕 － 需要手動配線。</entitydescription.hatch>
+<entitydescription.hatch>一扇門、水平的門，不附開關按鈕──需要手動配線。</entitydescription.hatch>
 <entityname.doorwbuttons>附按鈕的滑門</entityname.doorwbuttons>
 <entitydescription.doorwbuttons>一扇附有兩顆開關按鈕的滑門。</entitydescription.doorwbuttons>
 <entityname.windoweddoorwbuttons>附窗戶與按鈕的滑門</entityname.windoweddoorwbuttons>
@@ -1836,9 +1836,9 @@
 <entityname.deconstructor>解構儀</entityname.deconstructor>
 <entitydescription.deconstructor>能夠拆卸並分解物品至可用基礎原料的裝置。</entitydescription.deconstructor>
 <entityname.oxygenerator>製氧機</entityname.oxygenerator>
-<entitydescription.oxygenerator>用於製造氧氣 － 必須與通風口連結以輸送氧氣，也能用來填充氧氣罐。</entitydescription.oxygenerator>
+<entitydescription.oxygenerator>用於製造氧氣──必須與通風口連結以輸送氧氣，也能用來填充氧氣罐。</entitydescription.oxygenerator>
 <entityname.shuttleoxygenerator>小艇製氧機</entityname.shuttleoxygenerator>
-<entitydescription.shuttleoxygenerator>用於製造氧氣 － 必須與通風口連結以輸送氧氣，也能用來填充氧氣罐。</entitydescription.shuttleoxygenerator>
+<entitydescription.shuttleoxygenerator>用於製造氧氣──必須與通風口連結以輸送氧氣，也能用來填充氧氣罐。</entitydescription.shuttleoxygenerator>
 <entityname.vent>通風口</entityname.vent>
 <entitydescription.vent>用來輸送氧氣，必須連結至製氧機。</entitydescription.vent>
 <entityname.pump>抽水機</entityname.pump>
@@ -1937,7 +1937,7 @@
 <entityname.divingmask>潛水面罩</entityname.divingmask>
 <entitydescription.divingmask>小巧輕便、能被隨身攜帶以防萬一，但它並沒有辦法在船體破裂時為你抵禦艙外的壓力。</entitydescription.divingmask>
 <entityname.divingsuit>潛水服</entityname.divingsuit>
-<entitydescription.divingsuit>能夠承受歐羅巴表殼之下的龐大水壓的加壓潛水服，只在4,000公尺以上有效 － 更深的區域則需要使用深淵潛水服或戰鬥潛水服。</entitydescription.divingsuit>
+<entitydescription.divingsuit>能夠承受歐羅巴表殼之下的龐大水壓的加壓潛水服，只在4,000公尺以上有效──更深的區域則需要使用深淵潛水服或戰鬥潛水服。</entitydescription.divingsuit>
 <entityname.underwaterscooter>水下推進器</entityname.underwaterscooter>
 <entitydescription.underwaterscooter>一具使用乾電池的水下推進器。</entitydescription.underwaterscooter>
 <entityname.antibleeding1>繃帶</entityname.antibleeding1>
@@ -2287,7 +2287,7 @@
 <entityname.chargingdock>充電座</entityname.chargingdock>
 <entitydescription.chargingdock>能夠置於牆上的乾電池充電座</entitydescription.chargingdock>
 <entityname.fpgacircuit>FPGA電路板</entityname.fpgacircuit>
-<entitydescription.fpgacircuit>可編輯閘陣列 (Field-programmable gate array)－ 一個可被重新配置於各種電氣設備中的多用途電路。</entitydescription.fpgacircuit>
+<entitydescription.fpgacircuit>可編輯閘陣列 (Field-programmable gate array)──一個可被重新配置於各種電氣設備中的多用途電路。</entitydescription.fpgacircuit>
 <entityname.andcomponent>And元件</entityname.andcomponent>
 <entitydescription.andcomponent>當所有input收到訊號時輸出訊號。</entitydescription.andcomponent>
 <entityname.addercomponent>Adder元件</entityname.addercomponent>
@@ -3514,7 +3514,7 @@
 <dialogcannotfindfireextinguisher>我需要什麼能用來滅火的東西！滅火器都跑到哪裡去了？</dialogcannotfindfireextinguisher>
 <dialogcannotfindfireextinguisher>找不到滅火器！</dialogcannotfindfireextinguisher>
 <dialogcannotfindweldingequipment>焊接工具跑到哪裡去了？我什麼都找不到！</dialogcannotfindweldingequipment>
-<dialogcannotfindweldingequipment>焊接工具啊焊接工具... 我最需要你的時候你去了哪裡？</dialogcannotfindweldingequipment>
+<dialogcannotfindweldingequipment>焊接工具啊焊接工具...我最需要你的時候你去了哪裡？</dialogcannotfindweldingequipment>
 <dialogdamagewallswarning>嘿，你在幹嘛？！</dialogdamagewallswarning>
 <dialogdamagewallswarning>住手你會讓我們淹死！</dialogdamagewallswarning>
 <dialogdamagewallswarning>你是不是瘋了？快住手，你會讓整個地方淹沒！</dialogdamagewallswarning>
@@ -3587,7 +3587,7 @@
 <dialognavterminalisbroken>導航終端故障了！</dialognavterminalisbroken>
 <dialognavterminalisbroken>我需要人修理導航終端！</dialognavterminalisbroken>
 <dialogmentalstateconfused>呃... 你說什麼？</dialogmentalstateconfused>
-<dialogmentalstateconfused>哼... 我一定是看到幻覺了。</dialogmentalstateconfused>
+<dialogmentalstateconfused>哼...我一定是看到幻覺了。</dialogmentalstateconfused>
 <dialogmentalstateconfused>好像不太對勁...</dialogmentalstateconfused>
 <dialogmentalstateconfused>嗯？ 你聽到了嗎？</dialogmentalstateconfused>
 <dialogmentalstateafraid>我覺得這裡不安全。</dialogmentalstateafraid>
@@ -3595,7 +3595,7 @@
 <dialogmentalstateafraid>誰在那裡？</dialogmentalstateafraid>
 <dialogmentalstateafraid>我想回家。</dialogmentalstateafraid>
 <dialogmentalstatedesperate>閉嘴、閉嘴、閉嘴。</dialogmentalstatedesperate>
-<dialogmentalstatedesperate>我不... 我沒辦法...</dialogmentalstatedesperate>
+<dialogmentalstatedesperate>我不...我沒辦法...</dialogmentalstatedesperate>
 <dialogmentalstatedesperate>請讓我靜一靜。</dialogmentalstatedesperate>
 <dialogmentalstatedesperate>他們來找我了。</dialogmentalstatedesperate>
 <dialogmentalstateberserk>很快就結束了。</dialogmentalstateberserk>
@@ -3632,7 +3632,7 @@
 <dialoghuskdormant>我的喉嚨有點痛。</dialoghuskdormant>
 <dialoghuskdormant>我覺得我大概發燒了。</dialoghuskdormant>
 <dialoghuskdormant>我覺得身體很虛弱，每一塊肌肉都在痛。</dialoghuskdormant>  
-<dialoghuskcantspeak>有什麼東西在我嘴裡... *咳咳*</dialoghuskcantspeak>
+<dialoghuskcantspeak>有什麼東西在我嘴裡...*咳咳*</dialoghuskcantspeak>
 
 <!-- Character orders -->
 <orderdialog.follow>[name]，跟著我！</orderdialog.follow>
@@ -3699,9 +3699,9 @@
 <orderdialog.repairsystems.jobspecific>[name]，修理故障的設備！</orderdialog.repairsystems.jobspecific>
 <orderdialog.repairsystems.jobspecific>[name]，去處理故障的設備！</orderdialog.repairsystems.jobspecific>
 <orderdialogself.repairsystems.jobspecific>我來處理故障的設備！</orderdialogself.repairsystems.jobspecific>
-<orderdialog.repairsystems.all>[name]，為故障設備進行維修！我不在乎你的技術好不好 － 盡你所能!</orderdialog.repairsystems.all>
+<orderdialog.repairsystems.all>[name]，為故障設備進行維修！我不在乎你的技術好不好──盡你所能!</orderdialog.repairsystems.all>
 <orderdialog.repairsystems.all>[name]，試著修好故障的設備，就算你受過的訓練跟這無關！</orderdialog.repairsystems.all>
-<orderdialog.repairsystems.all>[name]，去把故障的設備修好！怎麼修都行 － 我現在不在乎你只受過什麼訓練！</orderdialog.repairsystems.all>
+<orderdialog.repairsystems.all>[name]，去把故障的設備修好！怎麼修都行──我現在不在乎你只受過什麼訓練！</orderdialog.repairsystems.all>
 <orderdialogself.repairsystems.all>我來處理故障的設備！</orderdialogself.repairsystems.all>
 <orderdialog.reportfire>[roomname]起火了！！</orderdialog.reportfire>
 <orderdialog.reportfire>[roomname]燒起來了！</orderdialog.reportfire>
@@ -4325,20 +4325,20 @@
 <tutorialwarningskiptutorials>跳過教學</tutorialwarningskiptutorials>
 
 <!-- Job descriptions -->
-<tutorial.mechanictitle>技師 － 膠水、膠帶、和你緊繃的神經是船員生存的最後保障。</tutorial.mechanictitle>
-<tutorial.mechanicdescription>為了使計畫持去進行，要維持設備正常運行比人類想離開這顆星球還難。你沒有休息時間，因為設備隨時會、終究會故障，就算沒有，你也得不停保養、保養、保養。最重要的是要抵達下一個目的地，而你功不可沒。別指望你的「好同事」們會感激你，他們只會講講風涼話 － 但是沒有關係，這艘船也是你的生活空間，如果他們太超過...希望你不會突然搞砸。</tutorial.mechanicdescription>
+<tutorial.mechanictitle>技師──膠水、膠帶、和你緊繃的神經是船員生存的最後保障。</tutorial.mechanictitle>
+<tutorial.mechanicdescription>為了使計畫持去進行，要維持設備正常運行比人類想離開這顆星球還難。你沒有休息時間，因為設備隨時會、終究會故障，就算沒有，你也得不停保養、保養、保養。最重要的是要抵達下一個目的地，而你功不可沒。別指望你的「好同事」們會感激你，他們只會講講風涼話──但是沒有關係，這艘船也是你的生活空間，如果他們太超過...希望你不會突然搞砸。</tutorial.mechanicdescription>
 <tutorial.mechanicresponsibilities>職責\n-設備維護\n-修復漏洞</tutorial.mechanicresponsibilities>
-<tutorial.engineertitle>工程師 － 操縱著自然能量的人。</tutorial.engineertitle>
+<tutorial.engineertitle>工程師──操縱著自然能量的人。</tutorial.engineertitle>
 <tutorial.engineerdescription>沒錯，電與氧氣。少了它們船不會動、肺沒有用。在命令與裝扮之外，你才是那個真正操縱潛艇的人，懂嗎？相信物理定律，保持思緒清晰。還有，看好那個到處敲敲打打的技師、無論如何別聽那個醫師的胡言亂語，他軟弱得根本是個娘娘腔，而艦長和安全官根本傷不了你，他們的智慧跟不上你，想也知道。</tutorial.engineerdescription>
 <tutorial.engineerresponsibilities>職責\n-維護電氣設備\n-操作反應爐</tutorial.engineerresponsibilities>
-<tutorial.securityofficertitle>安全官 － 帶著暴力的中流砥柱。</tutorial.securityofficertitle>
-<tutorial.securityofficerdescription>據說心理壓力會逼出人們最深層的缺點。不是每個人都有你的堅毅精神 － 呿，他們大多數的心靈都扭曲得連他們值不值得活著都該被懷疑。驅使船員們把怒氣發現在外面的生物上，但別指望相信他們的本性。隨時備好核彈、手銬、並且時不時地關一些人進禁閉室，讓他們知道誰是老大！</tutorial.securityofficerdescription>
+<tutorial.securityofficertitle>安全官──帶著暴力的中流砥柱。</tutorial.securityofficertitle>
+<tutorial.securityofficerdescription>據說心理壓力會逼出人們最深層的缺點。不是每個人都有你的堅毅精神──呿，他們大多數的心靈都扭曲得連他們值不值得活著都該被懷疑。驅使船員們把怒氣發現在外面的生物上，但別指望相信他們的本性。隨時備好核彈、手銬、並且時不時地關一些人進禁閉室，讓他們知道誰是老大！</tutorial.securityofficerdescription>
 <tutorial.securityofficerresponsibilities>職責\n-維持秩序\n-擊退入侵者</tutorial.securityofficerresponsibilities>
-<tutorial.medicaldoctortitle>醫生 － 維護最重要的資源: 人</tutorial.medicaldoctortitle>
-<tutorial.medicaldoctordescription>砲塔和引擎不會讓潛艇保持運作 － 人才會。你的工作是讓砲手活著來操作砲塔，讓艦長活著好駕駛船艦。而且記好了，這份工作不只是物理性質的，我們活在水下的狹小的空間裡，燈火熄滅之後，深海中的黑暗會侵蝕進入夢鄉船員們的靈魂。幫助他們保持活力與理智，或者像狗一樣拋棄他們，由你決定。</tutorial.medicaldoctordescription>
+<tutorial.medicaldoctortitle>醫生──維護最重要的資源: 人</tutorial.medicaldoctortitle>
+<tutorial.medicaldoctordescription>砲塔和引擎不會讓潛艇保持運作──人才會。你的工作是讓砲手活著來操作砲塔，讓艦長活著好駕駛船艦。而且記好了，這份工作不只是物理性質的，我們活在水下的狹小的空間裡，燈火熄滅之後，深海中的黑暗會侵蝕進入夢鄉船員們的靈魂。幫助他們保持活力與理智，或者像狗一樣拋棄他們，由你決定。</tutorial.medicaldoctordescription>
 <tutorial.medicaldoctorresponsibilities>職責\n-急救\n-有毒藥物與解毒劑</tutorial.medicaldoctorresponsibilities>
-<tutorial.captaintitle>艦長 － 有遠見的水手、航海家、天才，大概。</tutorial.captaintitle>
-<tutorial.captaindescription>Ahab艦長曾說，「地獄的觀念起源於一個沒被消化的蘋果餡餅。」你了解其中的意義嗎？不。船員們覺得你是一位深不可測的天才嗎？當然，至少在這個職位上得看起來像是知道該做什麼一樣。你就是地圖和羅盤，最有遠見的那個人，指引方向、審慎抉擇。而且記住，你距離成為哨站領導僅有幾步之遙，如果需要為此幹掉幾個人 － 就這樣吧！</tutorial.captaindescription>
+<tutorial.captaintitle>艦長──有遠見的水手、航海家、天才，大概。</tutorial.captaintitle>
+<tutorial.captaindescription>Ahab艦長曾說，「地獄的觀念起源於一個沒被消化的蘋果餡餅。」你了解其中的意義嗎？不。船員們覺得你是一位深不可測的天才嗎？當然，至少在這個職位上得看起來像是知道該做什麼一樣。你就是地圖和羅盤，最有遠見的那個人，指引方向、審慎抉擇。而且記住，你距離成為哨站領導僅有幾步之遙，如果需要為此幹掉幾個人──就這樣吧！</tutorial.captaindescription>
 <tutorial.captainresponsibilities>職責\n-操縱船艦\n-下達指令</tutorial.captainresponsibilities>
 
 <!-- Tutorial extras -->
@@ -4370,7 +4370,7 @@
 <mechanic.radio.breach>嘿，我偵測到你附近有多處牆體損傷，你最好把它們補好，這樣能多爭取一點時間。</mechanic.radio.breach>
 <mechanic.radio.news>好，你還聽得到我說話嗎？我有好消息和壞消息。</mechanic.radio.news>
 <mechanic.radio.fire>壞消息是前面失火了，好消息是附近的廢料應該足以製作一罐滅火器。</mechanic.radio.fire>
-<mechanic.radio.diving>你很接近了，小心點 － 下一處漏洞大到使艙內的壓力劇變，穿上一件潛水服否則水壓會壓碎你。</mechanic.radio.diving>
+<mechanic.radio.diving>你很接近了，小心點──下一處漏洞大到使艙內的壓力劇變，穿上一件潛水服否則水壓會壓碎你。</mechanic.radio.diving>
 <mechanic.radio.submarine>歡迎登艦，你要做的第一件事是檢查引擎和壓載艙裡的抽水機，去看看它們需不需要進行維修。</mechanic.radio.submarine>
 <mechanic.radio.complete>做得好，現在我們等其他人上船吧，只有我們兩個是沒辦法操作這艘潛艇的。</mechanic.radio.complete>
 
@@ -4427,7 +4427,7 @@
 <!-- Radio -->
 <engineer.radio.wakeup>從床上滾下來！我們需要電力！</engineer.radio.wakeup>
 <engineer.radio.equipment>上一波衝擊中斷了半個哨站的電力，給我帶好所有必要裝備去把電力修好。</engineer.radio.equipment>
-<engineer.radio.reactorstable>狀況穩定了，抽水機因為幾個配電箱的保險絲燒斷了而無法運作 － 去看看你能怎麼處理它，過去之前別忘了把反應爐的自動控制打開。</engineer.radio.reactorstable>
+<engineer.radio.reactorstable>狀況穩定了，抽水機因為幾個配電箱的保險絲燒斷了而無法運作──去看看你能怎麼處理它，過去之前別忘了把反應爐的自動控制打開。</engineer.radio.reactorstable>
 <engineer.radio.faultywiring>有些線路似乎出了問題，找些電線快速處理一下，不然電力無法恢復。</engineer.radio.faultywiring>
 <engineer.radio.changeofplans>計畫改變，到潛艇上來，我們要離開這裡。</engineer.radio.changeofplans>
 <engineer.radio.submarine>看來配電機房也被搞得破破爛爛的，看看你能否修好它們，之後將反應爐啟動。</engineer.radio.submarine>
@@ -4470,7 +4470,7 @@
 <officer.radio.equipment>找些你覺得能消滅那些怪物的東西。</officer.radio.equipment>
 <officer.radio.crawlerdead>做得好，但那還只是一隻小爬行者，有什麼大隻的東西正向我們襲來，做好心理準備。</officer.radio.crawlerdead>
 <officer.radio.somethingbig>聲納上有個大東西，為電磁槍裝上彈藥，看你有沒有辦法消滅牠。</officer.radio.somethingbig>
-<officer.radio.hammerheaddead>厲害，但是壞消息是這個哨站已經沒救了，到潛艇上來 － 我們要在為時已晚之前離開。</officer.radio.hammerheaddead>
+<officer.radio.hammerheaddead>厲害，但是壞消息是這個哨站已經沒救了，到潛艇上來──我們要在為時已晚之前離開。</officer.radio.hammerheaddead>
 <officer.radio.submarine>歡迎登艦，我需要你確保我們能抵擋任何出航之後靠近我們的東西，開始檢查船艦武器。</officer.radio.submarine>
 <officer.radio.complete>非常好，現在做好準備，我們在其他船員上船之後就離開。</officer.radio.complete>
 
@@ -4599,11 +4599,11 @@
 <karma.karmaincreasethreshold>卡瑪增加臨界值</karma.karmaincreasethreshold>
 <karma.karmaincreasethresholdtooltip>卡瑪在低於這個值時會緩慢增加。</karma.karmaincreasethresholdtooltip>
 <karma.structurerepairkarmaincrease>修復船體結構</karma.structurerepairkarmaincrease>
-<karma.structurerepairkarmaincreasetooltip>當維修船體結構時卡瑪增加的量 (每回復 － 若設為 0.05 則當你將一面牆壁的耐久值從 0 回復至 100 時獲得 5 卡瑪)。</karma.structurerepairkarmaincreasetooltip>
+<karma.structurerepairkarmaincreasetooltip>當維修船體結構時卡瑪增加的量 (每回復──若設為 0.05 則當你將一面牆壁的耐久值從 0 回復至 100 時獲得 5 卡瑪)。</karma.structurerepairkarmaincreasetooltip>
 <karma.structuredamagekarmadecrease>損壞船體結構</karma.structuredamagekarmadecrease>
-<karma.structuredamagekarmadecreasetooltip>當破壞船體結構時卡瑪減少的量 (每傷害 － 若設為 0.05 則當你將一面牆壁的耐久值從 100 減少至 0 時失去 5 卡瑪)。</karma.structuredamagekarmadecreasetooltip>
+<karma.structuredamagekarmadecreasetooltip>當破壞船體結構時卡瑪減少的量 (每傷害──若設為 0.05 則當你將一面牆壁的耐久值從 100 減少至 0 時失去 5 卡瑪)。</karma.structuredamagekarmadecreasetooltip>
 <karma.itemrepairkarmaincrease>修復設備</karma.itemrepairkarmaincrease>
-<karma.itemrepairkarmaincreasetooltip>當維修設備時卡瑪增加的量 (每回復 － 若設為 0.05 則當你將一項設備的耐久值 從 0 回復至 100 時獲得 5 卡瑪)。</karma.itemrepairkarmaincreasetooltip>
+<karma.itemrepairkarmaincreasetooltip>當維修設備時卡瑪增加的量 (每回復──若設為 0.05 則當你將一項設備的耐久值 從 0 回復至 100 時獲得 5 卡瑪)。</karma.itemrepairkarmaincreasetooltip>
 <karma.damageenemykarmaincrease>對敵人造成傷害</karma.damageenemykarmaincrease>
 <karma.damageenemykarmaincreasetooltip>對敵人造成傷害時卡瑪增加的值 (每傷害)。</karma.damageenemykarmaincreasetooltip>
 <karma.healfriendlykarmaincrease>治療隊友</karma.healfriendlykarmaincrease>
@@ -4774,7 +4774,7 @@
 <traitorendmessagesuccesstraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務已被完成，但叛徒被成功逮捕了。</traitorendmessagesuccesstraitordetained>
 <traitorendmessagefailure>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗。</traitorendmessagefailure>
 <traitorendmessagefailuretraitordead>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，但[PronounLowercase]在完成[PronounReflexiveLowercase]的任務之前失去了生命。</traitorendmessagefailuretraitordead>
-<traitorendmessagefailuretraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗 － [PronounLowercase]被成功逮捕了。</traitorendmessagefailuretraitordetained>
+<traitorendmessagefailuretraitordetained>[traitorname]是名叛徒！[PronounPossessiveUppercase]的任務是暗殺[targetname]，任務失敗──[PronounLowercase]被成功逮捕了。</traitorendmessagefailuretraitordetained>
 <sabotagebutton>破壞</sabotagebutton>
 <sabotaging>正在破壞</sabotaging>
 <newtraitor>新叛徒</newtraitor>
@@ -4782,7 +4782,7 @@
 <traitormoreagentsmessage>這艘潛艇上或許還有其他刺客，你不知道他們是誰，但你有與他們溝通的辦法: 以暗號問候與回應他們，將這些詞句混入日常的談吐之間不讓其他船員起疑。\n\n暗號是: [codewords]。\n對應的回應則是: [coderesponse]。</traitormoreagentsmessage>
 <traitorstartmessageserver>[traitorname]是名叛徒，他的目標是[targetname]。</traitorstartmessageserver>
 <traitorrespawnmessage>你的叛徒任務失敗了。你不再是叛徒了，當個好人!</traitorrespawnmessage>
-<traitortargetmessage>[traitorname]的秘密任務是將你暗殺 － 任務已被完成。</traitortargetmessage>
+<traitortargetmessage>[traitorname]的秘密任務是將你暗殺──任務已被完成。</traitortargetmessage>
 
 <!-- Traitor objectives -->
 <traitorobjectivestartmessage>你有一項新任務，你的任務目標是:\n[traitorgoalinfos]</traitorobjectivestartmessage>
@@ -4832,7 +4832,7 @@
 <!-- MVP traitor mission text package -->
 <mvptraitormissionstartinfotext>一個聲音在你的腦海裡對你大喊，音量足以使受驚: 「畫皮召喚你為它服務！」</mvptraitormissionstartinfotext>
 <mvptraitorobjectivestartmessage1>一個想法緩緩的在你的腦海中成形，儘管它平庸無比，卻有著一種奇妙的吸引力:\n[traitorgoalinfos]</mvptraitorobjectivestartmessage1>
-<mvp_goalinfotext_1>翻翻收納櫃 － 在其中一個氧氣罐底下隱藏著一條給你的特殊訊息。</mvp_goalinfotext_1>
+<mvp_goalinfotext_1>翻翻收納櫃──在其中一個氧氣罐底下隱藏著一條給你的特殊訊息。</mvp_goalinfotext_1>
 <mvpobjectivesuccessmessage1>奇妙地正如你所預料，一個骯髒的紙條被貼在這個氧氣罐的底部，它的表面被原始的塗鴉給覆蓋，但你直覺的地理解這些是指令的暗號。</mvpobjectivesuccessmessage1>
 <mvptraitorobjectivestartmessage2>你的第一項指令:\n[traitorgoalinfos]</mvptraitorobjectivestartmessage2>
 <mvpobjectivesuccessmessage2>在你完成紙條上指令的瞬間一股如浪潮般的喜悅向你襲來，你的腦海中響起了陣陣瘋狂的乾笑、直到它們慢慢變成了模糊潮濕的咔嗒聲為止。</mvpobjectivesuccessmessage2>
@@ -4854,7 +4854,7 @@
 <flood_1_objectivesuccessmessage4>叭、叭！水已經多到足以讓這艘潛艇提前報廢了，但現在你好奇自己得游多久才有辦法回到最近的哨站向那個油彩臉回報...</flood_1_objectivesuccessmessage4>
 
 <!-- flood_2 traitor mission text package -->
-<flood_2_traitormissionstartinfotext>你鬼鬼祟祟地掃視四周，沒有人在看你 － 這是採取行動的最佳時機。</flood_2_traitormissionstartinfotext>
+<flood_2_traitormissionstartinfotext>你鬼鬼祟祟地掃視四周，沒有人在看你──這是採取行動的最佳時機。</flood_2_traitormissionstartinfotext>
 <flood_2_traitorobjectivestartmessage1>你花了幾個月的時間與船員們培養信任感，一切都是為了這一刻:\n[traitorgoalinfos]</flood_2_traitorobjectivestartmessage1>
 <flood_2_goalinfotext_1>搜尋潛艇上的資源收納櫃，中一個潛水面罩裡面有個低頻訊號通信器，你需要它來完成你的任務。</flood_2_goalinfotext_1>
 <flood_2_objectivesuccessmessage1>你找到一個小小的通信器並將它啟動。</flood_2_objectivesuccessmessage1>
@@ -4885,7 +4885,7 @@
 
 <!-- Acidparty mission -->
 <acidparty_traitormissionstartinfotext>你從你的口袋裡找到一張字跡潦草的紙條，「嘿老兄，你知道月球中心有個東西，對吧？要是有辦法、像是、去看看那裡有啥、但是又不用真的去到那裡？」</acidparty_traitormissionstartinfotext>
-<acidparty_traitorobjectivestartmessage1>Step 1. 找一些詹亡、詹妄、瞻妄... 「什麼妄什麼東西的」，知道了吧？\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage1>
+<acidparty_traitorobjectivestartmessage1>Step 1. 找一些詹亡、詹妄、瞻妄...「什麼妄什麼東西的」，知道了吧？\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage1>
 <acidparty_objectivesuccessmessage1>從來沒有看過這個，一定就是它。</acidparty_objectivesuccessmessage1>
 <acidparty_traitorobjectivestartmessage2>Step 2. 潛艇上有時候會有那種...那種限制你目光的東西，對吧？就是、它們會把你拉回現實、然後、讓你的目光只能看到真實的一小部分，懂嗎？所以你要做的就是把它們都丟了，它們叫做氣派定淳還是什麼的。\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage2>
 <acidparty_objectivesuccessmessage2>這些應該就是全部了。</acidparty_objectivesuccessmessage2>
@@ -4903,7 +4903,7 @@
 <tainted_welding_traitorobjectivestartmessage4>快、使用陷阱！\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage4>
 <tainted_welding_objectivesuccessmessage4>做得好，同志！那些臭豬現在完蛋了。</tainted_welding_objectivesuccessmessage4>
 <tainted_welding_traitorobjectivestartmessage5>快逃！一艘小艇待會會被派出來接應你！\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage5>
-<tainted_welding_objectivesuccessmessage5>你的潛水服警報響起... 小艇應該要與你會合了才對，但黑暗中唯一的動靜只有幾群異星生物。你發出一則訊息:「這是歐羅巴反抗勢力突擊單位、請回答！請求救援！」你的通信器一聲不發；你被丟下了，落入了歐羅巴的懷抱之中。</tainted_welding_objectivesuccessmessage5>
+<tainted_welding_objectivesuccessmessage5>你的潛水服警報響起...小艇應該要與你會合了才對，但黑暗中唯一的動靜只有幾群異星生物。你發出一則訊息:「這是歐羅巴反抗勢力突擊單位、請回答！請求救援！」你的通信器一聲不發；你被丟下了，落入了歐羅巴的懷抱之中。</tainted_welding_objectivesuccessmessage5>
 
 <!-- One of Us mission -->
 <one_of_us_goalinfotext_2>年幼畫皮的神聖容器被隱藏在[targethullname]中的鬆脫通風口裡，在別人發現它們之前趕緊找到那些卵！</one_of_us_goalinfotext_2>
@@ -4917,7 +4917,7 @@
 <easterbunny_objectivesuccessmessage1>你覺得這顆蛋超噁的，但它剛好能被放進你的口袋裡，叭叭！</easterbunny_objectivesuccessmessage1>
 <easterbunny_traitorobjectivestartmessage2>養大這顆蛋:\n[traitorgoalinfos]</easterbunny_traitorobjectivestartmessage2>
 <easterbunny_goalinfotext_2>找個安全的地方培養這顆蛋，餵它[catalystitem].</easterbunny_goalinfotext_2>
-<easterbunny_objectivesuccessmessage2>那顆蛋鼓了起來並發出了奇怪的聲響... 你就要成為一名家長了！</easterbunny_objectivesuccessmessage2>
+<easterbunny_objectivesuccessmessage2>那顆蛋鼓了起來並發出了奇怪的聲響...你就要成為一名家長了！</easterbunny_objectivesuccessmessage2>
 <easterbunny_traitorobjectivestartmessage3>一隻泥偶迅猛龍在蛋裂開之後跳了出來:\n[traitorgoalinfos]</easterbunny_traitorobjectivestartmessage3>
 <easterbunny_goalinfotext_3>不顧一切地顧好牠並讓牠存活至少3分鐘。</easterbunny_goalinfotext_3>
 <easterbunny_objectivesuccessmessage3>叭叭！真是太有趣了，油彩臉聽到來龍去脈一定會超開心的。</easterbunny_objectivesuccessmessage3>
@@ -4987,7 +4987,7 @@
 <eventtext.givingdirections.o2.c2>正當你要提起手槍時，那位艦長突然轉身。你們四目相交，他們睜大他們的目光注視著正在發生的一切。他們伸手拿槍。</eventtext.givingdirections.o2.c2>
 <eventtext.givingdirections.o2.o2>呃噢。</eventtext.givingdirections.o2.o2>
 <eventtext.givingdirections.o3>繼續走，忽略他們。</eventtext.givingdirections.o3>
-<eventtext.soundinthevent.c1>你聽見了一個怪異的刮擦聲從附近的通風口傳了出來。出於好奇，你望著通風口的格柵向內窺視，但裡面太黑了什麼都看不到... 過了一會兒你又聽到了那個聲音，你很確定！</eventtext.soundinthevent.c1>
+<eventtext.soundinthevent.c1>你聽見了一個怪異的刮擦聲從附近的通風口傳了出來。出於好奇，你望著通風口的格柵向內窺視，但裡面太黑了什麼都看不到...過了一會兒你又聽到了那個聲音，你很確定！</eventtext.soundinthevent.c1>
 <eventtext.soundinthevent.o1>拆下通風口的蓋子以更仔細地看看裡面。</eventtext.soundinthevent.o1>
 <eventtext.soundinthevent.o1.c1>你不費太多力氣地把通風口的蓋子給拆下並找到了聲音的來源: 風扇葉片碰到了一個小小的金屬盒子，你小心地把它拿了出來、打開之後發現了1,000馬克！</eventtext.soundinthevent.o1.c1>
 <eventtext.soundinthevent.o1.c2>當你卸下通風口的蓋子時，你的手抓著它碰觸到了不斷旋轉的葉片。你來不急抽手，葉片切入你的手中並劃破了一條動脈。</eventtext.soundinthevent.o1.c2>
@@ -4995,7 +4995,7 @@
 <eventtext.soundinthevent.o2.c1>一隻兇猛的泥偶迅猛龍從通風口衝了出來！</eventtext.soundinthevent.o2.c1>
 <eventtext.soundinthevent.o2.c2>一隻兇猛的泥偶迅猛龍從通風口衝了出來！</eventtext.soundinthevent.o2.c2>
 <eventtext.soundinthevent.o3>忽略它。</eventtext.soundinthevent.o3>
-<eventtext.soundinthevent.o3.c1>或許只是你的想像力作祟... 在這些哨站待上一陣子確實會讓你感到緊張。</eventtext.soundinthevent.o3.c1>
+<eventtext.soundinthevent.o3.c1>或許只是你的想像力作祟...在這些哨站待上一陣子確實會讓你感到緊張。</eventtext.soundinthevent.o3.c1>
 <eventtext.soundinthevent.o3.o1>深呼吸。</eventtext.soundinthevent.o3.o1>
 <eventtext.soundinthevent.o3.c2>你覺得你不應該把時間浪費在這種沒意義的事情上。你快步走過那個發出聲響的通風口，這不關我的事！不管它怎麼了，總有人會解決的！</eventtext.soundinthevent.o3.c2>
 <eventtext.soundinthevent.o3.o2>哈！</eventtext.soundinthevent.o3.o2>
@@ -5061,7 +5061,7 @@
 <eventtext.goblincooking1.o1>“有誰在煮東西嗎？”</eventtext.goblincooking1.o1>
 <eventtext.goblincooking1.o1.c1>你四處嗅了嗅，發現味道是從附近的一個通風口傳出來的，你突然餓了起來。</eventtext.goblincooking1.o1.c1>
 <eventtext.goblincooking1.o1.o1>尋找味道的源頭。</eventtext.goblincooking1.o1.o1>
-<eventtext.goblincooking1.o1.o1.c1>你凝視著通風口內的漆黑空間，試圖弄清請它通向哪裡但徒勞無功 － 它們通往四面八方，就算你想更進一步、爬進通風管跟隨那股味道，你找到吃的...呃、味道源頭的機率微乎其微。</eventtext.goblincooking1.o1.o1.c1>
+<eventtext.goblincooking1.o1.o1.c1>你凝視著通風口內的漆黑空間，試圖弄清請它通向哪裡但徒勞無功──它們通往四面八方，就算你想更進一步、爬進通風管跟隨那股味道，你找到吃的...呃、味道源頭的機率微乎其微。</eventtext.goblincooking1.o1.o1.c1>
 <eventtext.goblincooking1.o1.o1.o1>“爬進去？好主意！”</eventtext.goblincooking1.o1.o1.o1>
 <eventtext.goblincooking1.o1.o1.o1.c1>你不費多大力氣就把通風口的蓋子拆了下來並了鑽進去。那個味道在這裡變得更令人陶醉了、但現在它似乎從四面八方飄來。你絕望地在裡面爬了又爬，直到通風管在你的面前分成了兩個通道。你的腦海中浮出了或許這不是個好主意的想法。</eventtext.goblincooking1.o1.o1.o1.c1>
 <eventtext.goblincooking1.o1.o1.o1.o1>“來都來了，繼續前進吧。”</eventtext.goblincooking1.o1.o1.o1.o1>
@@ -5096,7 +5096,7 @@
 <eventtext.miketheidiot1.o2>別理那些騙子。</eventtext.miketheidiot1.o2>
 <eventtext.miketheidiot2.c1>你撞見了一張熟悉的面孔，看起來占卜師Mike也到了這裡。這次他穿著清潔工連身服，拿著拖把正在處理一攤看起來曾經是某人早餐的東西。</eventtext.miketheidiot2.c1>
 <eventtext.miketheidiot2.o1>“另謀高就了？”</eventtext.miketheidiot2.o1>
-<eventtext.miketheidiot2.o1.c1>“喔、嘿，是啊，我覺得在那之後是時候轉換跑道了... 你知道的，在那個意外之後，跟反應爐有關的。”你決定不繼續往下追問。“我還有許多智慧能與你分享，只要5馬克或一包菸。”</eventtext.miketheidiot2.o1.c1>
+<eventtext.miketheidiot2.o1.c1>“喔、嘿，是啊，我覺得在那之後是時候轉換跑道了...你知道的，在那個意外之後，跟反應爐有關的。”你決定不繼續往下追問。“我還有許多智慧能與你分享，只要5馬克或一包菸。”</eventtext.miketheidiot2.o1.c1>
 <eventtext.miketheidiot2.o1.o1>付錢。</eventtext.miketheidiot2.o1.o1>
 <eventtext.miketheidiot2.o1.o1.c1>他倚靠著他的拖把，“有什麼需要我幫你解惑的？”</eventtext.miketheidiot2.o1.o1.c1>
 <eventtext.miketheidiot2.o1.o1.o1>“地球怎麼樣了？”</eventtext.miketheidiot2.o1.o1.o1>
@@ -5106,7 +5106,7 @@
 <eventtext.miketheidiot2.o1.o1.o2.c1>“喔、他們？被淘汰了。有些生物就是比較適合生存。”他捲起他的袖子秀出一個粗糙的刺青，上面寫著: 「我穿著靴子做愛。」他繼續說到:“更猛、更快、更動人，只有那些最強大的存在才能待在頂端。”一個路過的人往地上丟了一個汽水罐，Mike彎腰將它撿起，“正是我們，頂級獵食者。”他邊說邊把罐子丟進垃圾桶。</eventtext.miketheidiot2.o1.o1.o2.c1>
 <eventtext.miketheidiot2.o1.o1.o2.o1>有道理。</eventtext.miketheidiot2.o1.o1.o2.o1>
 <eventtext.miketheidiot2.o1.o1.o3>“為什麼有人要在把別人丟出氣閘之前又先開槍把他打死？”</eventtext.miketheidiot2.o1.o1.o3>
-<eventtext.miketheidiot2.o1.o1.o3.c1>“那都是計畫的一部分，”Mike若有所思，“那是一種信號。你得展現威勢，否則你不會受到尊敬。”他起身繼續清理地上的嘔吐物，“那是在潛艇上生存的方法，跟在監獄裡差不多。” “你蹲過苦窯？”你問。“喔，我去過的地方可多了。我告訴你，為了受到敬重人們什麼都會做... 我到現在都還沒辦法挺直身軀走路。”</eventtext.miketheidiot2.o1.o1.o3.c1>
+<eventtext.miketheidiot2.o1.o1.o3.c1>“那都是計畫的一部分，”Mike若有所思，“那是一種信號。你得展現威勢，否則你不會受到尊敬。”他起身繼續清理地上的嘔吐物，“那是在潛艇上生存的方法，跟在監獄裡差不多。” “你蹲過苦窯？”你問。“喔，我去過的地方可多了。我告訴你，為了受到敬重人們什麼都會做...我到現在都還沒辦法挺直身軀走路。”</eventtext.miketheidiot2.o1.o1.o3.c1>
 <eventtext.miketheidiot2.o1.o1.o3.o1>你覺得你知道得太多了。</eventtext.miketheidiot2.o1.o1.o3.o1>
 <eventtext.miketheidiot2.o1.o2>假裝你正在跟對講機講話。</eventtext.miketheidiot2.o1.o2>
 <eventtext.miketheidiot2.o2>溜走。</eventtext.miketheidiot2.o2>
@@ -5202,7 +5202,7 @@
 <eventtext.fanclub.o1.c1>他們的問題一個接著一個，你認真地回應它們，你有預感他們之中幾個一定會在長大之後成為水手、所以記好: 要是他們變成了爬行者的飼料，你將是始作俑者之一。</eventtext.fanclub.o1.c1>
 <eventtext.fanclub.o2>忽略他們。</eventtext.fanclub.o2>
 <eventtext.huskcultambush.c1>兩個面色蒼白、黑眼圈濃重的人靠了過來，他們將手伸進衣服裡好像要拿出什麼，你感受到一股威脅。</eventtext.huskcultambush.c1>
-<eventtext.huskcultambush.o1>“嘿、你們好啊，你們... 你們想怎樣？”</eventtext.huskcultambush.o1>
+<eventtext.huskcultambush.o1>“嘿、你們好啊，你們...你們想怎樣？”</eventtext.huskcultambush.o1>
 <eventtext.huskcultambush.o1.c1>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o1.c1>
 <eventtext.huskcultambush.o2>“放鬆，親愛的兄弟姊妹們，我昇華的時刻未到。”</eventtext.huskcultambush.o2>
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
@@ -5345,7 +5345,7 @@
 <EventText.unlockpathcoldcaverns.o2.c1>“隨你便，或許你們的確需要在兒童池待久一點。”</EventText.unlockpathcoldcaverns.o2.c1>
 <EventText.unlockpathcoldcaverns.o1.nomoney>“錢不夠？太可惜了，在你能證明你真的有能耐之前或許你應該在兒童池待久一點。”</EventText.unlockpathcoldcaverns.o1.nomoney>
 <EventText.unlockpatheuropanridge.c1>“報告上說你們協助了歐羅巴之脊的殖民地拓展，因此我們決定給予你通往無光海原的許可，一路順風！”</EventText.unlockpatheuropanridge.c1>
-<EventText.unlockpatheuropanridge.c2>“你們要去無光海原？我不知道... 我沒有看到你們以付出來證明你們的忠誠，而一份捐獻將帶來大大幫助。”</EventText.unlockpatheuropanridge.c2>
+<EventText.unlockpatheuropanridge.c2>“你們要去無光海原？我不知道...我沒有看到你們以付出來證明你們的忠誠，而一份捐獻將帶來大大幫助。”</EventText.unlockpatheuropanridge.c2>
 <EventText.unlockpatheuropanridge.o1>“12,000馬克足以作為貢獻嗎？”</EventText.unlockpatheuropanridge.o1>
 <EventText.unlockpatheuropanridge.o1.c1>“噢，沒問題，你們能過去了。”</EventText.unlockpatheuropanridge.o1.c1>
 <EventText.unlockpatheuropanridge.o2.c1>“哦？這樣的話希望你們能盡情享受在歐羅巴之脊的時光。”</EventText.unlockpatheuropanridge.o2.c1>
@@ -5485,7 +5485,7 @@
 <eventtext.badvibrations3.o1>“喔對，妳是那個、呃、一直覺得很糟的那個。”</eventtext.badvibrations3.o1>
 <eventtext.badvibrations3.gotbetter>“所以，我恢復正常，是因為你把它關掉了吧？”她雙手抱胸，“我想跟你說聲謝謝。”</eventtext.badvibrations3.gotbetter>
 <eventtext.badvibrations3.welcome>“不客氣。”</eventtext.badvibrations3.welcome>
-<eventtext.badvibrations3.anotherthing>“還有一件事，因為我之前... 我之前感覺不太舒服，我被我之前的隊伍踢掉了，所以我在想能不能加入你們？我對電氣和機械設備都很拿手。”沒有受到糟糕感覺影響的她現在看起來精明能幹。</eventtext.badvibrations3.anotherthing>
+<eventtext.badvibrations3.anotherthing>“還有一件事，因為我之前...我之前感覺不太舒服，我被我之前的隊伍踢掉了，所以我在想能不能加入你們？我對電氣和機械設備都很拿手。”沒有受到糟糕感覺影響的她現在看起來精明能幹。</eventtext.badvibrations3.anotherthing>
 <eventtext.badvibrations3.merrier>“當然，人多力量大。”</eventtext.badvibrations3.merrier>
 <eventtext.badvibrations3.seeyouonboard>“太好了，我們船上見。”</eventtext.badvibrations3.seeyouonboard>
 <eventtext.badvibrations3.full>“抱歉，我們現在不缺人。”</eventtext.badvibrations3.full>
@@ -5493,7 +5493,7 @@
 <eventtext.badvibrations3.reward>要一些酬勞。</eventtext.badvibrations3.reward>
 <eventtext.badvibrations3.scrounge>“喔，呃，你想要的話我可以湊出幾百馬克給你，我會盡快拿給你的。”</eventtext.badvibrations3.scrounge>
 <eventtext.badvibrations3.o2>“妳是一位占卜師，對吧？”</eventtext.badvibrations3.o2>
-<eventtext.badvibrations3.o2.c1>“啊？”她看起來有點惱火，“不是，你把我當成別人了，我之前感覺... 受到一個文物影響的時候遇到過你。你記得吧，「感覺」很糟那個。”</eventtext.badvibrations3.o2.c1>
+<eventtext.badvibrations3.o2.c1>“啊？”她看起來有點惱火，“不是，你把我當成別人了，我之前感覺...受到一個文物影響的時候遇到過你。你記得吧，「感覺」很糟那個。”</eventtext.badvibrations3.o2.c1>
 <eventtext.badvibrations3.o2.o1>“我想起來了。”</eventtext.badvibrations3.o2.o1>
 <eventtext.manandhisraptor1.c1>一個愁眉苦臉的人在走廊上踱來踱去。當他看見你的時候，他的目光亮了起來。“你是從那艘剛靠岸的潛艇上下來的，對吧？你們有在載客嗎？”</eventtext.manandhisraptor1.c1>
 <eventtext.manandhisraptor1.o1>“沒錯，有哪些乘客？”</eventtext.manandhisraptor1.o1>
@@ -5546,7 +5546,7 @@
 <eventtext.terrorism101.o1.o1.o1>“所以你在幹嘛？”</eventtext.terrorism101.o1.o1.o1>
 <eventtext.terrorism101.excuse>“我，呃...”他的眼睛四處張望，似乎在找什麼，“我在做，呃...”他冷汗直流。</eventtext.terrorism101.excuse>
 <eventtext.terrorism101.abomb>“一顆炸彈？”</eventtext.terrorism101.abomb>
-<eventtext.terrorism101.shh>“噓－！小聲點！”他發出噓聲，之後低聲地說，“對，一顆炸彈，但它的意義深遠，那是對我們的統治者不滿的象徵，我們必須推倒那些代表壓迫的紀念碑，像是這個東西。”他向自動販賣機吐了口口水，“但那些都還只是假想，因為我不知道要怎麼配線。”</eventtext.terrorism101.shh>
+<eventtext.terrorism101.shh>“噓──！小聲點！”他發出噓聲，之後低聲地說，“對，一顆炸彈，但它的意義深遠，那是對我們的統治者不滿的象徵，我們必須推倒那些代表壓迫的紀念碑，像是這個東西。”他向自動販賣機吐了口口水，“但那些都還只是假想，因為我不知道要怎麼配線。”</eventtext.terrorism101.shh>
 <eventtext.terrorism101.help>“我能幫你。”</eventtext.terrorism101.help>
 <eventtext.terrorism101.novice>那位新手恐怖份子仔細地端詳了你好一陣子然後交給了你一坨電線，“我覺得我信任你，”他說。</eventtext.terrorism101.novice>
 <eventtext.terrorism101.armbomb>裝好炸彈。</eventtext.terrorism101.armbomb>
@@ -5620,11 +5620,11 @@
 <EventText.captivesouls.o1>“你在說什麼？”</EventText.captivesouls.o1>
 <EventText.captivesouls.o1.c1>“我太專注於挑戰自己，但我沒有意識到我該不該這麼做。”對方來回踱步，每句話都對著不同的路人說著。當他發現沒有人把注意力放在他身上時，他把注意力放回你的身上。</EventText.captivesouls.o1.c1>
 <EventText.captivesouls.o1.o1.c1>“你沒在聽我說話嗎？”那個歇斯底里的研究人員吼道，口水噴在你的臉上。“一個人類和爬行者的混血種！哦，它太美了！不！醜死了！”他坐了下來，盤腿坐在地板上，“科學界將會怎麼看我？一位創造者？還是破壞者？”他自顧自地擺了擺姿勢，“還是...神？”</EventText.captivesouls.o1.o1.c1>
-<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家 － 他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈 － 你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
+<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家──他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈──你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
 <EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的心想要一探究竟。也許你能到實驗室確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
 <EventText.captivesouls.c1.c1>一隻爬行者一動也不動地坐在水槽裡。</EventText.captivesouls.c1.c1>
 <EventText.captivesouls.c1.o1>靠近。</EventText.captivesouls.c1.o1>
-<EventText.captivesouls.c1.o1.c1>牠似乎被注射了大量的鎮靜劑。這並不稀奇，研究人員會捕捉活體標本進行研究是眾所皆知。科學家從爬行者身上獲得了許多的科學資料和突破: 醫學、消化學、心理學 － 等等，牠剛剛...是眨眼了嗎？</EventText.captivesouls.c1.o1.c1>
+<EventText.captivesouls.c1.o1.c1>牠似乎被注射了大量的鎮靜劑。這並不稀奇，研究人員會捕捉活體標本進行研究是眾所皆知。科學家從爬行者身上獲得了許多的科學資料和突破: 醫學、消化學、心理學──等等，牠剛剛...是眨眼了嗎？</EventText.captivesouls.c1.o1.c1>
 <EventText.captivesouls.c1.o1.o1>敲敲玻璃。</EventText.captivesouls.c1.o1.o1>
 <EventText.captivesouls.c1.o1.o1.c1>你敲了玻璃三下，這個生物睜開了牠的眼睛，牠湛藍的雙眼盯著你。牠眨了眨眼，一下，兩下...你不禁覺得這個生物在試圖和你交流。</EventText.captivesouls.c1.o1.o1.c1>
 <EventText.captivesouls.c1.o1.o1.o1>牠在說什麼？</EventText.captivesouls.c1.o1.o1.o1>
@@ -5946,13 +5946,13 @@
 
 <!-- Campaign meta texts -->
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
-<toofarfromoutpostwarning>嘿！對、你，哨站下的那個 － 你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
+<toofarfromoutpostwarning>嘿！對、你，哨站下的那個──你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
-<campaignstart>20世紀末期，人們在木星的第二個月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開 － 進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
-<campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中... 但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
-<campaignend2>它存在於有序的宇宙之外，一個任何夢境都無法觸碰到的地方；這股沒有確定身形的毀滅力量存在於最深的混沌裡，待在一切無垠的中央，翻滾冒泡，褻瀆著一切神明 － 那就是無所限制的惡魔之王阿撒托斯。沒有哪張嘴唇膽敢高聲言及它的名諱。在那些超越時間之外、讓人無法想像的黑暗巨室裡，污穢巨鼓敲打著隱約而又令人發瘋的迴響，邪惡長笛吹奏出的空洞而又單調的哀嚎。－ Howard Phillips Lovecraft</campaignend2>
+<campaignstart>20世紀末期，人們在木星的第二個月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
+<campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
+<campaignend2>它存在於有序的宇宙之外，一個任何夢境都無法觸碰到的地方；這股沒有確定身形的毀滅力量存在於最深的混沌裡，待在一切無垠的中央，翻滾冒泡，褻瀆著一切神明──那就是無所限制的惡魔之王阿撒托斯。沒有哪張嘴唇膽敢高聲言及它的名諱。在那些超越時間之外、讓人無法想像的黑暗巨室裡，污穢巨鼓敲打著隱約而又令人發瘋的迴響，邪惡長笛吹奏出的空洞而又單調的哀嚎。- Howard Phillips Lovecraft</campaignend2>
 <campaignend3>你的意識抵達了已知與未知的邊界，你仿佛觸摸到了真理之形，但又視之而不能見。應許之時未至，歸去吧。</campaignend3>
-<campaignend4>你的眼前一黑... 你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來 － 你是不是經歷過這一切了？</campaignend4>
+<campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
 <campaignend5>在通過旅途的終點之後，你的冒險抵達了全新的開端，這一次還為你準備了更多風險。</campaignend5>
 <shrinkingmap>隨著木星輻射強度的增加，歐羅巴的淺海區域逐漸變得危險不適人類遷徙居住。潛入更深的海域以躲避輻射。</shrinkingmap>
 
