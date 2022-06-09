@@ -29,7 +29,7 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="準備好 － 我們有一段長路要走！" speaker="0" flags="Initial" allowedjobs="captain">
+<Conversation line="準備好──我們有一段長路要走！" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="收到、長官！" speaker="1"/>
 	<Conversation line="收到！" speaker="1"/>
 	<Conversation line="祝好運、各位！" speaker="1" allowedjobs="watchman"/>
@@ -217,7 +217,7 @@
 <Conversation line="見過那些保護著遺跡的東西嗎？" speaker="0" maxintensity="0.2">
 	<Conversation line="見過，但我寧願自己能忘了它。" speaker="1" speakertags="fearful"/>
 	<Conversation line="研究所裡有一個。" speaker="1">
-		<Conversation line="他們說那不是有機體 － 比起動物來說更接近機器人。" speaker="1">
+		<Conversation line="他們說那不是有機體──比起動物來說更接近機器人。" speaker="1">
 			<Conversation line="至少有一點是確定的；它們不會流血。" speaker="0"/>
 		</Conversation>
 	</Conversation>
@@ -265,7 +265,7 @@
 		</Conversation>
 	</Conversation>
 	<Conversation line="人無法阻止潮起潮落，卻可以學會乘風破浪。" speaker="1"/>
-	<Conversation line="至少有一點是確定的 － 我們不屬於這裡。" speaker="1">
+	<Conversation line="至少有一點是確定的──我們不屬於這裡。" speaker="1">
 		<Conversation line="" speaker="0" flags="Casual"/>
 		<Conversation line="不管我們做什麼，事情總是往不好的方向發展。" speaker="0">
 			<Conversation line="夠了，那聽起來像是邪教徒會說的屁話。" speaker="2" speakertags="professional"/>
@@ -404,7 +404,7 @@
 		<Conversation line="你說的話沒有邏輯。" speaker="1"/>
 	</Conversation>
 	<Conversation line="也許是深淵在凝視我們。" speaker="0" speakertags="crazy">
-		<Conversation line="邪教說對了一件事 － 深淵裡有東西。" speaker="0" speakertags="crazy">
+		<Conversation line="邪教說對了一件事──深淵裡有東西。" speaker="0" speakertags="crazy">
 			<Conversation line="" speaker="0"/>
 			<Conversation line="拜託。" speaker="1"/>
 			<Conversation line="大概吧，大概。" speaker="1">
@@ -659,7 +659,7 @@
 
 <!-- commoners-->
 <Conversation line="船身發出這麼多聲響是正常的嗎？" speaker="0" allowedjobs="commoner" flags="Initial,escort" />
-<Conversation line="天哪... 啟航了..." speaker="0" allowedjobs="commoner" flags="Initial,escort" />
+<Conversation line="天哪...啟航了..." speaker="0" allowedjobs="commoner" flags="Initial,escort" />
 <Conversation line="先讓你們知道，我不太會游泳" speaker="0" allowedjobs="commoner" flags="Initial,escort" />
 <Conversation line="如果誰敢再說我沒搭過船..." speaker="0" allowedjobs="commoner" flags="escort" />
 
@@ -768,7 +768,7 @@
   <Conversation line="噓，別告訴他們。" speaker="1" allowedjobs="prisoner" flags="escort" />
 </Conversation>
 <!-- vips -->
-<Conversation line="天哪... 我們出發了。" speaker="0" allowedjobs="vip" flags="Initial,escort" />
+<Conversation line="天哪...我們出發了。" speaker="0" allowedjobs="vip" flags="Initial,escort" />
 <Conversation line="我已經覺得在暈船了..." speaker="0" flags="Initial,escort" allowedjobs="vip" />
 <Conversation line="我已經在想家了。" speaker="0" flags="Initial,escort" allowedjobs="vip" />
 <Conversation line="我認真地希望這是我最後一次搭這些船了。" flags="Initial,escort" speaker="0" allowedjobs="vip" />
@@ -1031,7 +1031,7 @@
 <Conversation line="我認為所有的摩螺克都很友善，牠們只是想抱抱可愛的潛艇。" speaker="0" flags="OutpostNPC"/>
 <Conversation line="我個人非常歡迎長著章魚觸手的霸主來統治我們。" speaker="0" flags="OutpostNPC"/>
 <Conversation line="今天的水真是渾濁。" speaker="0" flags="OutpostNPC"/>
-<Conversation line="今天的天氣真好，沒有海流，水很清澈... 我待會可能會去採些水罌粟。" speaker="0" flags="OutpostNPC"/>
+<Conversation line="今天的天氣真好，沒有海流，水很清澈...我待會可能會去採些水罌粟。" speaker="0" flags="OutpostNPC"/>
 <Conversation line="你有沒有想過是誰想到能把螺絲起子當刀子用的？" speaker="0" flags="OutpostNPC"/>
 <Conversation line="我要怎麼做才能被調離這裡？" speaker="0" flags="OutpostNPC"/>
 <Conversation line="哨站的生活很枯燥，但總比在潛艇裡好。" speaker="0" flags="OutpostNPC"/>
@@ -1078,12 +1078,12 @@
   
 <Conversation line="拜託，讓我走吧！" speaker="0" flags="Hostage"/>
 <Conversation line="我再也受不了了！" speaker="0" flags="Hostage"/>
-<Conversation line="我需要離開這裡... 求求你！" speaker="0" flags="Hostage"/>
+<Conversation line="我需要離開這裡...求求你！" speaker="0" flags="Hostage"/>
 <Conversation line="我們做個交易吧，讓我走，我就不會告訴任何人你們在這裡做了什麼！" speaker="0" flags="Hostage"/>
 <Conversation line="我不可能活著離開這裡了，對吧？" speaker="0" flags="Hostage"/>
 
 <Conversation line="你們停錯了哨站，夥計..." speaker="0" flags="EnterOutpost,Bandit"/>
-<Conversation line="你們的那艘潛艇看起來非常好... 我們要了！" speaker="0" flags="EnterOutpost,Bandit"/>
+<Conversation line="你們的那艘潛艇看起來非常好...我們要了！" speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="啊、新鮮的肉！" speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="這個地方現在是我們的，而我們不會對擅闖的人客氣..." speaker="0" flags="EnterOutpost,Bandit"/>
 <Conversation line="侵入者！" speaker="0" flags="EnterOutpost,Bandit"/>
