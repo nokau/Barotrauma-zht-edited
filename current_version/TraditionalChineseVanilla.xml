@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v0.17.15.0 -->
+<!-- edited by nokau for v0.18.12.0 -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
+<!-- INDEX: EnglishVanilla.xml (1~6530), EnglishVanillaEditorTexts.xml (6531~7828), EnglishVanilla EnglishVanillaNew.xml (7829~7843) -->
 
 <!-- Loading Screen -->
 <loading>載入中...</loading>
@@ -292,6 +292,25 @@
 <DeterminingRequiredModUpdates>正在偵測那些Mod需要更新...</DeterminingRequiredModUpdates>
 <PreparingWorkshopDownloads>正在準備Steam工作坊下載...</PreparingWorkshopDownloads>
 <PlayerIsDownloadingFiles>這位玩家正在從伺服器下載檔案。</PlayerIsDownloadingFiles>
+<ModFilter.ShowLocal>顯示本機Mod</ModFilter.ShowLocal>
+<ModFilter.ShowWorkshop>顯示工作坊Mod</ModFilter.ShowWorkshop>
+<ModFilter.ShowPublished>顯示發佈的Mod</ModFilter.ShowPublished>
+<ModFilter.ShowOnlySubs>僅顯示潛艇</ModFilter.ShowOnlySubs>
+<ModFilter.ShowOnlyItemAssemblies>僅顯示物件組合</ModFilter.ShowOnlyItemAssemblies>
+<MergeSelectedMods>合併全部已選取</MergeSelectedMods>
+<MergeModsHeader>合併Mod</MergeModsHeader>
+<MergeModsDesc>你將要合併以下的Mod:</MergeModsDesc>
+<MergeModsFooter>為合併後的內容套件命名:</MergeModsFooter>
+<ConfirmModMerge>合併</ConfirmModMerge>
+<UnsubscribeFromAllSelected>取消訂閱全部已選取</UnsubscribeFromAllSelected>
+<LoadModListPresetHeader>讀取Mod列表</LoadModListPresetHeader>
+<SaveModListPresetHeader>儲存Mod列表</SaveModListPresetHeader>
+<AutoDetectRequiredPackages>自動偵測</AutoDetectRequiredPackages>
+<SaveToLocalPackage>加入至本機內容套件</SaveToLocalPackage>
+<CreateNewLocalPackage>建立新的本機內容套件</CreateNewLocalPackage>
+<UpdateExistingLocalPackage>更新 "[mod]" 本機內容套件</UpdateExistingLocalPackage>
+<CorePackage>核心內容套件</CorePackage>
+<RegularPackages>普通內容套件</RegularPackages>
 
 <!-- Settings Menu -->
 <settings>設定</settings>
@@ -341,6 +360,8 @@
 <enablevsync>開啟垂直同步</enablevsync>
 <enablevsynctooltip>將遊戲幀速率與顯示器更新率同步，有助於防止畫面撕裂的問題。</enablevsynctooltip>
 <particlelimit>粒子效果</particlelimit>
+<VisibleLightLimit>可見光線數量</VisibleLightLimit>
+<VisibleLightLimitTooltip>若畫面中的光線數量超過此設定值，最不明顯的光線將不會被顯示。降低數值將提升遊戲性能，但有可能導致光線閃爍或看起來怪怪的。</VisibleLightLimitTooltip>
 <loseffect>視線效果</loseffect>
 <losmodenone>無</losmodenone>
 <losmodetransparent>透明</losmodetransparent>
@@ -365,6 +386,7 @@
 <settingstab.audio>音效</settingstab.audio>
 <soundvolume>音效音量</soundvolume>
 <musicvolume>音樂音量</musicvolume>
+<uisoundvolume>UI音效音量</uisoundvolume>
 <voicechatvolume>語音聊天音量</voicechatvolume>
 <muteonfocuslost>失焦時靜音</muteonfocuslost>
 <muteonfocuslosttooltip>當玩家跳出遊戲視窗時遊戲將自動靜音。</muteonfocuslosttooltip>
@@ -393,7 +415,7 @@
 <dynamicrangecompression>動態範圍壓縮</dynamicrangecompression>
 <dynamicrangecompressiontooltip>自動調整遊戲的音量以防止音效失真。</dynamicrangecompressiontooltip>
 <voipnodevices>沒有找到音訊捕捉設備</voipnodevices>
-<voipattenuation>語音聊天衰減</voipattenuation>
+<voipattenuation>語音交談衰減</voipattenuation>
 <voipattenuationtooltip>玩家說話時降低遊戲的音量。</voipattenuationtooltip>
 <cutoffprevention>預防切斷</cutoffprevention>
 <cutoffpreventiontooltip>當結束按鍵發話或在音訊活耀度低於臨界值後持續發送語音一段時間。</cutoffpreventiontooltip>
@@ -416,9 +438,8 @@
 <inputtype.attack>生物攻擊</inputtype.attack>
 <inputtype.run>跑</inputtype.run>
 <inputtype.crouch>蹲下</inputtype.crouch>
-<inputtype.chat>聊天</inputtype.chat>
 <inputtype.infotab>狀態列</inputtype.infotab>
-<inputtype.radiochat>透過無線電聊天</inputtype.radiochat>
+<inputtype.radiochat>透過無線電交談</inputtype.radiochat>
 <inputtype.creworders>船員列表</inputtype.creworders>
 <inputtype.ragdoll>Ragdoll</inputtype.ragdoll>
 <inputtype.health>健康</inputtype.health>
@@ -428,12 +449,15 @@
 <inputtype.voice>按鍵發話</inputtype.voice>
 <inputtype.command>指令介面</inputtype.command>
 <inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory>
-<inputtype.localvoice>所在位置語音聊天</inputtype.localvoice>
+<inputtype.localvoice>所在位置語音交談</inputtype.localvoice>
 <inputtype.nextfiremode>下一個射擊模式</inputtype.nextfiremode>
 <inputtype.previousfiremode>上一個射擊模式</inputtype.previousfiremode>
 <inputtype.takeallfrominventoryslot>全部拿取</inputtype.takeallfrominventoryslot>
 <inputtype.takehalffrominventoryslot>拿取一半</inputtype.takehalffrominventoryslot>
 <inputtype.takeonefrominventoryslot>拿取一個</inputtype.takeonefrominventoryslot>
+<inputtype.togglechatmode>切換交談模式</inputtype.togglechatmode>
+<inputtype.activechat>交談</inputtype.activechat>
+<inputtype.chat>交談</inputtype.chat>
 <input.leftmouse>滑鼠左鍵</input.leftmouse>
 <input.rightmouse>滑鼠右鍵</input.rightmouse>
 <input.middlemouse>滑鼠中鍵</input.middlemouse>
@@ -512,7 +536,12 @@
 <privatelobbytag>私人</privatelobbytag>
 <hostserverkarmasetting>與朋友進行遊戲？</hostserverkarmasetting>
 <hostserverkarmasettingtooltip>選取此項目將停用卡瑪。\n\n卡瑪是一個可自訂的自動管理系統，它會賦予執行有益及有害行為的玩家一項隱藏的分數，並有機會在分數太低時祭出處置。卡瑪能協助你管理公開伺服器，但你或許會希望和朋友一起更自由地互動。</hostserverkarmasettingtooltip>
-
+<serversettingsmaximumtransferrequest>請求轉移最高資金</serversettingsmaximumtransferrequest>
+<serversettingsmaximumtransferrequesttooltip>玩家允許請求自銀行轉出的金額。設為 0 將完全停用以投票請求自銀行轉出資金的功能。</serversettingsmaximumtransferrequesttooltip>
+<serversettingslootedmoneydestination>拾取資金去向</serversettingslootedmoneydestination>
+<serversettingslootedmoneydestinationtooltip>選擇自屍體上拾取的資金將存放至銀行或個人錢包。</serversettingslootedmoneydestinationtooltip>
+<lootedmoneydestination.bank>銀行</lootedmoneydestination.bank>
+<lootedmoneydestination.wallet>個人錢包</lootedmoneydestination.wallet>
 <!-- Tab menu -->
 <tabmenu.voip>VOIP</tabmenu.voip>
 <tabmenu.job>職業</tabmenu.job>
@@ -787,6 +816,15 @@
 <showwires>電線</showwires>
 <editor.undounavailable>配線模式下無法查看復原歷史。</editor.undounavailable>
 <itemassemblyvanillafileexistswarning>已經有遊戲本體內容中的物件組合使用這個名稱，無法覆蓋遊戲本體內容，請使用其他名稱。</itemassemblyvanillafileexistswarning>
+<cantdeletevanillasub>無法刪除遊戲本體內容中的潛艇。</cantdeletevanillasub>
+<cantdeletemodsub>你無法刪除包含在 "[modname]" 中的潛艇。請至設定選單將該Mod停用。</cantdeletemodsub>
+<LoadingPublishedSubmarineHeader>讀取已發佈的潛艇</LoadingPublishedSubmarineHeader>
+<LoadingPublishedSubmarineDesc>你正要讀取的潛艇來自 "[modname]" 的非本機複本。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；若你已有該內容套件的本機複本，建議改自當中讀取。\n\n若你沒有該內容套件的本機複本，你能夠自Steam工作坊選單中的「發佈」頁面中選取你所發佈的Mod以建立本機複本。</LoadingPublishedSubmarineDesc>
+<LoadingSubscribedSubmarineHeader>讀取來自工作坊的潛艇</LoadingSubscribedSubmarineHeader>
+<LoadingSubscribedSubmarineDesc>你正要讀取的潛艇來自工作坊上訂閱的Mod。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingSubscribedSubmarineDesc>
+<LoadingVanillaSubmarineHeader>讀取遊戲本體內容中的潛艇</LoadingVanillaSubmarineHeader>
+<LoadingVanillaSubmarineDesc>你正要讀取的潛艇來自遊戲的本體內容。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingVanillaSubmarineDesc>
+<LoadAnyway>讀取</LoadAnyway>
 
 <!-- Characters -->
 <MyCharacter>我的角色</MyCharacter>
@@ -904,6 +942,22 @@
 <customization.facialhaircolor>臉部毛髮顏色</customization.facialhaircolor>
 <maxmissioncount>每回合任務數量</maxmissioncount>
 <maxmissioncounttooltip>每回能能夠選取的最多任務數量。</maxmissioncounttooltip>
+<startingfundsdescription>起始資金</startingfundsdescription>
+<startingfundstooltip>戰役開始時獲得的資金量，同時影響可購買的起始潛艇。</startingfundstooltip>
+<startingfunds.low>低</startingfunds.low>
+<startingfunds.medium>中</startingfunds.medium>
+<startingfunds.high>高</startingfunds.high>
+<startitemset>起始物資</startitemset>
+<startitemsettooltip>所選擇的潛艇上在遊戲開始時的物品多寡。</startitemsettooltip>
+<startitemset.easy>多</startitemset.easy>
+<startitemset.normal>普通</startitemset.normal>
+<startitemset.hard>少</startitemset.hard>
+<campaignsettingpreset>預設</campaignsettingpreset>
+<preset.easy>簡單</preset.easy>
+<preset.normal>普通</preset.normal>
+<preset.hard>困難</preset.hard>
+<difficulty.easiest>最簡單</difficulty.easiest>
+<difficulty.challenging>有挑戰性</difficulty.challenging>
 
 <!-- Campaign menu -->
 <map>地圖</map>
@@ -947,7 +1001,9 @@
 <crewwallet.requesttransfervote>[requester]想要將[amount] mk自[player1]轉移給[player2]。</crewwallet.requesttransfervote>  
 <crewwallet.banktoplayer.votepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votepassed>
 <crewwallet.banktoplayer.votefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意自銀行將[amount]馬克轉給[playername]。</crewwallet.banktoplayer.votefailed>
-
+<wallettransferrequestdisabled>伺服器管理者已停用資金轉移請求。</wallettransferrequestdisabled>
+<walletdescription>錢包用於存放個人資金，能夠於哨站的多種服務自由地進行消費。</walletdescription>
+<bankdescription>銀行用於存放共同資金，存放於此的資金不會因為死亡而丟失。有權限的玩家在資金不足時也可以將其作為個人錢包的延伸。</bankdescription>
 <!-- In-game menus -->
 <credit>馬克</credit>
 <playercredits>馬克: [credits]</playercredits>
@@ -998,6 +1054,8 @@
 <respawnwaiting>玩家將在[time]後重生</respawnwaiting>
 <respawnwaitingformoredeadplayers>等待重生... (正在等待重生的玩家: [deadplayers]/[requireddeadplayers])</respawnwaitingformoredeadplayers>
 <turretloaderbroken>裝彈機故障</turretloaderbroken>
+<autodockverification>潛艇的對接艙口正試圖與哨站自動連結，確定進行連結？</autodockverification>
+<autoundockverification>潛艇的對接艙口正試圖與哨站自動分離，確定進行分離？</autoundockverification>
 
 <!-- Server list -->
 <joinserverbutton>瀏覽伺服器</joinserverbutton>
@@ -1077,6 +1135,8 @@
 <filteroffensiveserversprompt>你想要開啟自動隱藏名稱中含有冒犯性詞彙的伺服器嗎？你可以編輯遊戲資料夾中的 Data/forbiddenwordlist.txt 來添加或減少不允許的詞彙。</filteroffensiveserversprompt>
 <steamp2pserver>由玩家建立的伺服器</steamp2pserver>
 <dedicatedserver>獨立伺服器</dedicatedserver>
+<serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
+<serverprocesscrashed>伺服器程序已崩潰。已在遊戲的根目錄中產生了一份崩潰報告 ([reportfilepath])。</serverprocesscrashed>
 
 <!-- Disconnect reasons -->
 <disconnectreason.banned>你已被伺服器封鎖。</disconnectreason.banned>
@@ -1265,6 +1325,7 @@
 <teampreference>組別偏好: [team]</teampreference>
 <jobpreference>職業偏好: [job]</jobpreference>
 <campaigndifficultydisabled>無法於戰役模式中調整遊戲難度，戰役模式使用了預先設計好的難度曲線。</campaigndifficultydisabled>
+<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。你想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
 
 <!-- Server log -->
 <serverlog.filter>篩選</serverlog.filter>
@@ -1734,6 +1795,21 @@
 <missionsuccess.killmopingjack>悲傷Jack已被殲滅。</missionsuccess.killmopingjack>
 <missionheader0.killmopingjack>已殲滅目標</missionheader0.killmopingjack>
 <missionmessage0.killmopingjack>悲傷Jack已被殲滅。再來只需要領取獎勵。</missionmessage0.killmopingjack>
+<missionname.killcrawlerswarm1large>殲滅大量生物群</missionname.killcrawlerswarm1large>
+<missiondescription.killcrawlerswarm1large>一大群爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1large>
+<missionname.killcrawlerswarm1huge>殲滅巨量生物群</missionname.killcrawlerswarm1huge>
+<missiondescription.killcrawlerswarm1huge>一大群爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1huge>
+<missionname.killspinelingswarm1>殲滅脊刺群</missionname.killspinelingswarm1>
+<missiondescription.killspinelingswarm1>A small swarm of Spinelings不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killspinelingswarm1>
+<missionname.killlargecrawler>殲滅巨大爬行者</missionname.killlargecrawler>
+<missiondescription.killlargecrawler>一隻特別龐大的爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killlargecrawler>
+<missionsonarlabel.killlargecrawler>爬行者</missionsonarlabel.killlargecrawler>
+<missionsuccess.killlargecrawler>爬行者已被殲滅。</missionsuccess.killlargecrawler>
+<missionmessage0.killlargecrawler>爬行者已被殲滅，抵達下一個哨站以領取獎勵。</missionmessage0.killlargecrawler>
+
+
+
+
 
 <!-- Mission subcategories -->
 <subcategory>子類別</subcategory>
@@ -2275,6 +2351,13 @@
 <entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
 <entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
 <entitydescription.proteinbar>可能含有微量的方鉛礦物質。</entitydescription.proteinbar>
+<entityname.chaingunammoboxshredder>粉碎者連射炮彈藥箱</entityname.chaingunammoboxshredder>
+<entitydescription.chaingunammoboxshredder>一盒沉重的連射炮彈藥。此彈藥足以撕裂任何敵人的盔甲和肉體。</entitydescription.chaingunammoboxshredder>
+<entityname.shotgunshellblunt>霰彈槍橡膠彈</entityname.shotgunshellblunt>
+<entitydescription.shotgunshellblunt>霰彈槍橡膠彈藥。殺傷力較弱。</entitydescription.shotgunshellblunt>
+<entityname.respawndivingsuit>一次性潛水服</entityname.respawndivingsuit>
+<entitydescription.respawndivingsuit>一次性潛水服，能夠承受歐羅巴冰殼下的巨大水壓。</entitydescription.respawndivingsuit>
+
 <!-- Electrical -->
 <entityname.junctionbox>配電箱</entityname.junctionbox>
 <entitydescription.junctionbox>用於分配設備之間的電源與作為訊號中繼點的集線器。</entitydescription.junctionbox>
@@ -2573,28 +2656,21 @@
 <entitydescription.rubber>能被用於加工。</entitydescription.rubber>
 <entityname.flashpowder>閃光粉</entityname.flashpowder>
 <entitydescription.flashpowder>能被用於加工。</entitydescription.flashpowder>
-<entityname.incendium>燃素塊</entityname.incendium>
-<entitydescription.incendium>能被用於加工。</entitydescription.incendium>
-<entityname.fulgurium>雷素塊</entityname.fulgurium>
-<entitydescription.fulgurium>能被用於加工。</entitydescription.fulgurium>
-<entityname.physicorium>剛素塊</entityname.physicorium>
-<entitydescription.physicorium>能被用於加工。</entitydescription.physicorium>
-<entityname.dementonite>攝魂礦石</entityname.dementonite>
-<entitydescription.dementonite>能被用於加工。</entitydescription.dementonite>
 <entityname.fiberplant>纖維植物</entityname.fiberplant>
-<entitydescription.fiberplant>這種植物具有椰子的質地，觸摸它會發現在它的纖維在手指下不安地蠕動，能被用於加工。</entitydescription.fiberplant>
-<entityname.elastinplant>彈性纖維植物</entityname.elastinplant>
-<entitydescription.elastinplant>它的葉子無法被撕開，拉扯只會愈拉愈長，能被用於加工。</entitydescription.elastinplant>
+<entitydescription.fiberplant>這種植物具有椰子的質地，觸摸它會發現在它的纖維在手指下不安地蠕動，能被加工成生化纖維。</entitydescription.fiberplant>
+<entityname.elastinplant>彈性蛋白植物</entityname.elastinplant>
+<entitydescription.elastinplant>它的葉子無法被撕開，拉扯只會愈拉愈長，能被加工成為彈性蛋白。</entitydescription.elastinplant>
+
 <entityname.aquaticpoppy>水罌粟</entityname.aquaticpoppy>
-<entitydescription.aquaticpoppy>它摸起來溫溫的，能被用於加工。</entitydescription.aquaticpoppy>
+<entitydescription.aquaticpoppy>它摸起來溫溫的，能被加工成鴉片。</entitydescription.aquaticpoppy>
 <entityname.yeastshroom>海麴菇</entityname.yeastshroom>
-<entitydescription.yeastshroom>它的味道超乎想像，就跟大熱天裡的腐肉差不多，能被用於加工。</entitydescription.yeastshroom>
+<entitydescription.yeastshroom>它的味道超乎想像，就跟大熱天裡的腐肉差不多。能被加工成酒精。</entitydescription.yeastshroom>
 <entityname.elastin>彈性蛋白</entityname.elastin>
-<entitydescription.elastin>一種富有彈性的天然蛋白質，能被用於加工。</entitydescription.elastin>
+<entitydescription.elastin>一種富有彈性的天然蛋白質，加工成醫療物品後能被用於止血或治療燒傷。</entitydescription.elastin>
 <entityname.adrenaline>腎上腺素</entityname.adrenaline>
-<entitydescription.adrenaline>一種天然賀爾蒙，能被用於加工。</entitydescription.adrenaline>
+<entitydescription.adrenaline>一種天然賀爾蒙，被用於製造藥物或戰鬥興奮劑。</entitydescription.adrenaline>
 <entityname.paralyxis>麻痹源</entityname.paralyxis>
-<entitydescription.paralyxis>能被用於加工。</entitydescription.paralyxis>
+<entitydescription.paralyxis>一種奇怪的物質，會在接觸時導致麻痺。被用於製作強力的麻痺劑。</entitydescription.paralyxis>
 <entityname.paralyzant>麻痹劑</entityname.paralyzant>
 <entitydescription.paralyzant>造成麻痺。</entitydescription.paralyzant>
 <entityname.antiparalysis>麻痹治癒劑</entityname.antiparalysis>
@@ -2927,6 +3003,14 @@
 <entityname.ruincolumnbottom>Ruin Column Bottom</entityname.ruincolumnbottom>
 <entityname.ruinlight>異星遺蹟燈光</entityname.ruinlight>
 <entityname.alienmachine>Alien Machine</entityname.alienmachine>
+<entityname.incendium>燃素結晶</entityname.incendium>
+<entitydescription.incendium>一種能夠釋放極大熱能的稀有異星晶體，被用於燃燒武器中。</entitydescription.incendium>
+<entityname.fulgurium>雷素棒</entityname.fulgurium>
+<entitydescription.fulgurium>一種稀有的金屬異星材料，能夠儲存大量能量。被用於高容量乾電池中。</entitydescription.fulgurium>
+<entityname.physicorium>剛素棒</entityname.physicorium>
+<entitydescription.physicorium>一種硬度極高且堅固的異星材料，被用於高度先進的武器與彈藥中。</entitydescription.physicorium>
+<entityname.dementonite>攝魂礦石</entityname.dementonite>
+<entitydescription.dementonite>一種奇怪的活體金屬，拿著它時會感受到一股奇妙的不安。</entitydescription.dementonite>
 
 <!-- Gardening -->
 <entityname.smallplanter>小型種植箱</entityname.smallplanter>
@@ -3107,6 +3191,7 @@
 <label.admin>行政辦公室</label.admin>
 <label.hr>人力資源部</label.hr>
 <label.store>雜貨店</label.store>
+<label.waterintakevalve>進水閥</label.waterintakevalve>
 
 <!-- Submarine description -->
 <dimensions>尺寸</dimensions>
@@ -3199,7 +3284,9 @@
 <spamfilterkicked>你被垃圾訊息篩選器踢除了。</spamfilterkicked>
 <spamfilterblocked>你被垃圾訊息篩選器阻擋了。請在10秒後重試。</spamfilterblocked>
 <chat.shownewmessages>顯示新訊息</chat.shownewmessages>
-<chat>聊天</chat>
+<chat>交談</chat>
+<chatmode.local>口語</chatmode.local>
+<chatmode.radio>無線電</chatmode.radio>
 
 <!-- Item HUDs -->
 <iteminuse>正被 [character] 使用中</iteminuse>
@@ -3457,6 +3544,7 @@
 <dialogrequiredtreatmentoptionslast>[treatment1]或[treatment2]</dialogrequiredtreatmentoptionslast>
 <dialogtargethealed>[targetname]康復了！</dialogtargethealed>
 <dialogtargethealed>[targetname]沒事了！</dialogtargethealed>
+<dialogtargethealed>[targetname]已被救起！</dialogtargethealed>
 <dialogtargetresuscitated>[targetname]已被救起！</dialogtargetresuscitated>
 <dialogtargetresuscitated>[targetname]又重新站起來了！</dialogtargetresuscitated>
 <dialogcannotrepair>無法維修[itemname]！</dialogcannotrepair>
@@ -5340,28 +5428,22 @@
 <EventText.unlockpath.refusebribe>什麼都不給。</EventText.unlockpath.refusebribe>
 <EventText.unlockpathcoldcaverns.c1>“你們肯定在寒冷深隧裡忙得不可開交，我替聯盟感謝你們所付出的行動。你可能也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站，並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的隊員們通過這裡。”</EventText.unlockpathcoldcaverns.c1>
 <EventText.unlockpathcoldcaverns.c2>“你們想要通過這裡進到更深的區域？聯盟不允許新手船員進到那裡，你們的名聲也沒有好到能讓我心服口服放行。當然了，假如你們正好有多的馬克能和我分享，或許那會一定程度地提升我對你們的看法。”</EventText.unlockpathcoldcaverns.c2>
-<EventText.unlockpathcoldcaverns.o1>給他們10,000馬克。</EventText.unlockpathcoldcaverns.o1>
 <EventText.unlockpathcoldcaverns.o1.c1>“仔細想想，你們看起來潛力無窮，或許我確實是該讓你通過，很高興能與你們合作。”</EventText.unlockpathcoldcaverns.o1.c1>
 <EventText.unlockpathcoldcaverns.o2.c1>“隨你便，或許你們的確需要在兒童池待久一點。”</EventText.unlockpathcoldcaverns.o2.c1>
 <EventText.unlockpathcoldcaverns.o1.nomoney>“錢不夠？太可惜了，在你能證明你真的有能耐之前或許你應該在兒童池待久一點。”</EventText.unlockpathcoldcaverns.o1.nomoney>
 <EventText.unlockpatheuropanridge.c1>“報告上說你們協助了歐羅巴之脊的殖民地拓展，因此我們決定給予你通往無光海原的許可，一路順風！”</EventText.unlockpatheuropanridge.c1>
 <EventText.unlockpatheuropanridge.c2>“你們要去無光海原？我不知道...我沒有看到你們以付出來證明你們的忠誠，而一份捐獻將帶來大大幫助。”</EventText.unlockpatheuropanridge.c2>
-<EventText.unlockpatheuropanridge.o1>“12,000馬克足以作為貢獻嗎？”</EventText.unlockpatheuropanridge.o1>
 <EventText.unlockpatheuropanridge.o1.c1>“噢，沒問題，你們能過去了。”</EventText.unlockpatheuropanridge.o1.c1>
 <EventText.unlockpatheuropanridge.o2.c1>“哦？這樣的話希望你們能盡情享受在歐羅巴之脊的時光。”</EventText.unlockpatheuropanridge.o2.c1>
 <EventText.unlockpatheuropanridge.o1.nomoney>“非常抱歉，我不接受低於12,000馬克以下的貢獻，也許你們可以去搜刮幾個潛艇殘骸或是做做其他什麼你們平常拿來賺錢的事。”</EventText.unlockpatheuropanridge.o1.nomoney>
 <EventText.unlockpathaphoticplateau.c1>“我要恭喜你們，不是那麼多人能夠活著穿越無光海原，更別說同時還有貢獻的人了。我會通知他們讓你們能前往淵洋。”</EventText.unlockpathaphoticplateau.c1>
 <EventText.unlockpathaphoticplateau.c2>“我很抱歉，我知道你們長途跋涉，但我們不能冒險放行一支名不見經傳的小隊進到淵洋亂逛，這是為了你們的安全，你清楚的。”</EventText.unlockpathaphoticplateau.c2>
-<EventText.unlockpathaphoticplateau.o1>“15,000足夠讓你們保護我們嗎？”</EventText.unlockpathaphoticplateau.o1>
 <EventText.unlockpathaphoticplateau.o1.c1>“我確定夠的，這不是聯盟的官方保證，也不是背書。我會通知守衛們你們有辦法保護自己。”</EventText.unlockpathaphoticplateau.o1.c1>
 <EventText.unlockpathaphoticplateau.o2.c1>“我相信你們能在這裡找個不錯的公寓來度過退休生活，至少輻射要好幾天才會抵達這裡。”</EventText.unlockpathaphoticplateau.o2.c1>
-<EventText.unlockpathaphoticplateau.o1.nomoney>“大概15,000就能說服我了，不能更低，有的話再來吧。”</EventText.unlockpathaphoticplateau.o1.nomoney>
 <EventText.unlockpathgreatsea.c1>“你想前往熱液廢土？為什麼？不過那也不關我的事，聯盟的朋友就是我的朋友，去吧。”</EventText.unlockpathgreatsea.c1>
 <EventText.unlockpathgreatsea.c2>“你有前往熱液廢土的許可嗎？想也知道沒有。你運氣不錯，我們正好在進行許可大拍賣，你懂的。”</EventText.unlockpathgreatsea.c2>
-<EventText.unlockpathgreatsea.o1>“19,000？根本在搶！吶。”</EventText.unlockpathgreatsea.o1>
 <EventText.unlockpathgreatsea.o1.c1>“謝謝惠顧，歡迎再來，如果你回得來的話。”</EventText.unlockpathgreatsea.o1.c1>
 <EventText.unlockpathgreatsea.o2.c1>“至少你會活得久一點。”</EventText.unlockpathgreatsea.o2.c1>
-<EventText.unlockpathgreatsea.o1.nomoney>“這太少了，我的底價是19,000，你們湊到了再說。”</EventText.unlockpathgreatsea.o1.nomoney>
 <eventtext.healreaperstax.c1>“我聽說你的船員身上最近出現了一種罕見的症狀，我們通常稱它為「死神之稅」，如果你有興趣，我可以試試為他們進行治療。”</eventtext.healreaperstax.c1>
 <eventtext.healreaperstax.c2>“哦，看來你就是那位不幸的水手！只要、我想想，1,000馬克我就能為你進行治療，你覺得如何？”</eventtext.healreaperstax.c2>
 <eventtext.healreaperstax.o1>以1,000馬克治療死神之稅</eventtext.healreaperstax.o1>
@@ -5717,6 +5799,12 @@
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>”你是指聯盟的人？”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>那名守衛翻了下白眼，“你終於懂了，回報發現屍體能拿到一筆獎勵，我勸你拿好，去買些鴉片來吸，或者弄些什麼你們在潛艇上工作的人喜歡的東西然後忘掉你看見的一切。那具屍體由我來處理。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o2>不去深究。</EventText.nothingtoseehere.o1.o1.o1.c1.o2>
+<eventtext.unlockpathcoldcaverns.o1>給他們2,000馬克。</eventtext.unlockpathcoldcaverns.o1>
+<eventtext.unlockpatheuropanridge.o1>“4,000馬克足以作為貢獻嗎？”</eventtext.unlockpatheuropanridge.o1>
+<eventtext.unlockpathaphoticplateau.o1>“8,000足夠讓你們保護我們嗎？”</eventtext.unlockpathaphoticplateau.o1>
+<eventtext.unlockpathaphoticplateau.o1.nomoney>“大概8,000就能說服我了，不能更低，有的話再來吧。”</eventtext.unlockpathaphoticplateau.o1.nomoney>
+<eventtext.unlockpathgreatsea.o1>“16,000？根本在搶！吶。”</eventtext.unlockpathgreatsea.o1>
+<eventtext.unlockpathgreatsea.o1.nomoney>“這太少了，我的底價是16,000，你們湊到了再說。”</eventtext.unlockpathgreatsea.o1.nomoney>
 
 <!-- Submarine upgrades & repairs -->
 <upgradecategory.walls>船體</upgradecategory.walls>
@@ -5835,7 +5923,8 @@
 <campaignstore.ownedspecific>擁有: [nonempty] ([total])</campaignstore.ownedspecific>
 <campaignstore.ownednonempty>不為空物: [amount]</campaignstore.ownednonempty>
 <campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
-
+<reputationmodifier>Reputation Modifier</reputationmodifier>
+<campaignstore.reputationtooltip>Your reputation will affect prices. High reputation lets you buy low and sell high. With low reputation, merchants demand more for their goods and offer less for yours.</campaignstore.reputationtooltip>
 
 <!-- Campaign crew -->
 <sortingmethod.alphabeticalasc>字母順序</sortingmethod.alphabeticalasc>
@@ -5883,6 +5972,15 @@
 <switchsubmarineheader>替換潛艇</switchsubmarineheader>
 <switchsubmarinetext>以[submarinename2]替換你目前的潛艇[submarinename1]？</switchsubmarinetext>
 <outpostshipyard>[location]船廠</outpostshipyard>
+<transferitems>轉移物品</transferitems>
+<itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。你可以透過取消「轉移物品」選項以停用這項功能。</itemswillbetransferred>
+<itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並留在原地。你可以透過選取「轉移物品」選項以啟用這項功能。</itemswontbetransferred>
+<submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
+<submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
+<submarineswitchwithitemsnofeevote>想要以[submarinename]替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
+<itemtransferenabledreminder>你的物品將在離開哨站時轉移至在新的潛艇上。</itemtransferenabledreminder>
+<itemtransferdisabledreminder>你的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
+<deliveryfee>運費: [amount]</deliveryfee>
 
 <!-- Submarine types -->
 <submarinetype>潛艇類別</submarinetype>
@@ -5907,7 +6005,7 @@
 <unabletoinitiateavoteheader>無法發起投票</unabletoinitiateavoteheader>
 <votealreadyactivetext>已經有一項投票正在進行！!</votealreadyactivetext>
 <submarinepurchasevote>[playername]想要以[amount][currencyname]購買[submarinename]。</submarinepurchasevote>
-<submarinepurchaseandswitchvote>[playername]想要以[amount][currencyname]購買[submarinename]</submarinepurchaseandswitchvote>
+<submarinepurchaseandswitchvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇。</submarinepurchaseandswitchvote>
 <submarineswitchfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevote>
 <submarineswitchnofeevote>[playername]想要以[submarinename]替換目前的潛艇。</submarineswitchnofeevote>
 <yesvoted>你投了同意。</yesvoted>
@@ -5920,6 +6018,7 @@
 <submarinepurchasevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買[submarinename]。</submarinepurchasevotefailed>
 <submarineswitchfeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotefailed>
 <submarineswitchnofeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[submarinename]替換目前的潛艇。</submarineswitchnofeevotefailed>
+<voterejectedpleasewait>你投下的前一票無效，需要等待最少 [time] 秒才能再次投票。</voterejectedpleasewait>
 
 <!-- Factions -->
 <factions>陣營</factions>
@@ -5964,6 +6063,11 @@
 <outpostmodulemaxcounttooltip>同一個哨站中此模組的最多數量。</outpostmodulemaxcounttooltip>
 <outpostmoduletooltip>一個哨站是由多個哨站模組相互組合而產生，如果要讓你的自訂哨站模組被使用於產生哨站，在儲存之後，必須手動為它建立內容套件並將存檔移入其中。</outpostmoduletooltip>
 <outpostmoduleallowattachto>允許連接至</outpostmoduleallowattachto>
+<!-- Beacon stations -->
+<minleveldifficulty>最低難度</minleveldifficulty>
+<maxleveldifficulty>最高難度</maxleveldifficulty>
+<allowdamagedwalls>允許牆體損壞</allowdamagedwalls>
+<allowdisconnectedwires>允許電線脫落</allowdisconnectedwires>
 
 <!-- Currency -->
 <moneygained>獲得[amount]馬克。</moneygained>
@@ -5971,6 +6075,7 @@
 <moneylost>失去[amount]馬克。</moneylost>
 <moneylostclient>[clientname]失去[amount]馬克。</moneylostclient>
 <currencyformat>[credits] mk</currencyformat>
+<price>價格: [amount]</price>
 
 <!-- Ready check -->
 <readycheck.title>確認準備</readycheck.title>
@@ -6424,8 +6529,8 @@
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau for v0.17.15.0 -->
-<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
+<!-- edited by nokau for v0.18.12.0 -->
+<!-- INDEX: EnglishVanilla.xml (1~6530), EnglishVanillaEditorTexts.xml (6531~7828), EnglishVanilla EnglishVanillaNew.xml (7829~7843) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
 <editor.copytoclipboard>複製到剪貼簿</editor.copytoclipboard>
@@ -7722,24 +7827,16 @@
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaNew.xml -->
-<!-- edited by nokau for v0.17.15.0 -->
-<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
+<!-- edited by nokau for v0.18.12.0 -->
+<!-- INDEX: EnglishVanilla.xml (1~6530), EnglishVanillaEditorTexts.xml (6531~7828), EnglishVanilla EnglishVanillaNew.xml (7829~7843) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
+<!-- Modified values after May 27 (July 2022 update) -->
 
-
-<!-- Modified values after April 4 (Urban Expanses update) -->
-
-<price>價格: [amount]</price>
-<deliveryfee>運費: [amount]</deliveryfee>
-
-<serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
-<serverprocesscrashed>伺服器程序已崩潰。已在遊戲的根目錄中產生了一份崩潰報告 ([reportfilepath])。</serverprocesscrashed>
   
 
-<!-- New values after April 4 (Urban Expanses update) -->
+<!-- New values after May 27 (July 2022 update) -->
 
-<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。你想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
   
 </infotexts>
