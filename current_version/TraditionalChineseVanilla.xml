@@ -2057,7 +2057,7 @@
 <entityname.coilgunammoboxpiercing>穿甲電磁槍彈藥箱</entityname.coilgunammoboxpiercing>
 <entitydescription.coilgunammoboxpiercing>具有穿甲性能的電磁槍彈藥。</entitydescription.coilgunammoboxpiercing>
 <entityname.chaingunammoboxphysicorium>剛素鏈式機槍彈藥箱</entityname.chaingunammoboxphysicorium>
-<entitydescription.chaingunammoboxphysicorium>A backbreakingly heavy box of ammunition for the chaingun, utilizing Physicorium as its main material. These rounds have enough stopping power to occasionally stun any foe they hit.</entitydescription.chaingunammoboxphysicorium>
+<entitydescription.chaingunammoboxphysicorium>一箱無比沉重、以剛素作為主要製作材料的鏈式機槍彈藥。這些彈藥擊中目標的力道足以偶爾將它們擊暈。</entitydescription.chaingunammoboxphysicorium>
 <entityname.pulselaserammoboxtrilaser>脈衝三向雷射燃料箱</entityname.pulselaserammoboxtrilaser>
 <entitydescription.pulselaserammoboxtrilaser>一個裝有化學藥劑和稀有原料的箱子，當中的透鏡將強力鐳射一分為三，可以一次擊中多個目標。</entitydescription.pulselaserammoboxtrilaser>
 <entityname.coilgunboltexplosive>Exploding Coilgun Bolt</entityname.coilgunboltexplosive>
@@ -2351,8 +2351,8 @@
 <entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
 <entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
 <entitydescription.proteinbar>可能含有微量的方鉛礦物質。</entitydescription.proteinbar>
-<entityname.chaingunammoboxshredder>粉碎者連射炮彈藥箱</entityname.chaingunammoboxshredder>
-<entitydescription.chaingunammoboxshredder>一盒沉重的連射炮彈藥。此彈藥足以撕裂任何敵人的盔甲和肉體。</entitydescription.chaingunammoboxshredder>
+<entityname.chaingunammoboxshredder>>撕裂鏈式機槍彈藥箱</entityname.chaingunammoboxshredder>
+<entitydescription.chaingunammoboxshredder>一箱沉重的鏈式機槍彈藥，設計用來撕裂敵人的軀體和護甲。</entitydescription.chaingunammoboxshredder>
 <entityname.shotgunshellblunt>霰彈槍橡膠彈</entityname.shotgunshellblunt>
 <entitydescription.shotgunshellblunt>霰彈槍橡膠彈藥。殺傷力較弱。</entitydescription.shotgunshellblunt>
 <entityname.respawndivingsuit>一次性潛水服</entityname.respawndivingsuit>
@@ -5701,9 +5701,9 @@
 <EventText.captivesouls.c1>一位路過的科學家抓住了你的手，“它活了！誰會想到它能活過來？”對方的眼睛睜得大大的，眼底的眼袋大到令人印象深刻。</EventText.captivesouls.c1>
 <EventText.captivesouls.o1>“你在說什麼？”</EventText.captivesouls.o1>
 <EventText.captivesouls.o1.c1>“我太專注於挑戰自己，但我沒有意識到我該不該這麼做。”對方來回踱步，每句話都對著不同的路人說著。當他發現沒有人把注意力放在他身上時，他把注意力放回你的身上。</EventText.captivesouls.o1.c1>
-<EventText.captivesouls.o1.o1.c1>“你沒在聽我說話嗎？”那個歇斯底里的研究人員吼道，口水噴在你的臉上。“一個人類和爬行者的混血種！哦，它太美了！不！醜死了！”他坐了下來，盤腿坐在地板上，“科學界將會怎麼看我？一位創造者？還是破壞者？”他自顧自地擺了擺姿勢，“還是...神？”</EventText.captivesouls.o1.o1.c1>
+<EventText.captivesouls.o1.o1.c1>“你沒在聽我說話嗎？”那個歇斯底里的研究人員吼道，口水噴在你的臉上。“一個人類和爬行者的混血種！哦，它太美了！不！醜死了！”他坐了下來，盤腿坐在地板上，“科學界將會怎麼看我？一位創造者？還是破壞者？”他自顧自地擺了擺姿勢，“或是...神？”</EventText.captivesouls.o1.o1.c1>
 <EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家──他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈──你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
-<EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的心想要一探究竟。也許你能到實驗室確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
+<EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的內心想要一探究竟。也許你能到實驗室裡確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
 <EventText.captivesouls.c1.c1>一隻爬行者一動也不動地坐在水槽裡。</EventText.captivesouls.c1.c1>
 <EventText.captivesouls.c1.o1>靠近。</EventText.captivesouls.c1.o1>
 <EventText.captivesouls.c1.o1.c1>牠似乎被注射了大量的鎮靜劑。這並不稀奇，研究人員會捕捉活體標本進行研究是眾所皆知。科學家從爬行者身上獲得了許多的科學資料和突破: 醫學、消化學、心理學──等等，牠剛剛...是眨眼了嗎？</EventText.captivesouls.c1.o1.c1>
@@ -5923,8 +5923,8 @@
 <campaignstore.ownedspecific>擁有: [nonempty] ([total])</campaignstore.ownedspecific>
 <campaignstore.ownednonempty>不為空物: [amount]</campaignstore.ownednonempty>
 <campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
-<reputationmodifier>Reputation Modifier</reputationmodifier>
-<campaignstore.reputationtooltip>Your reputation will affect prices. High reputation lets you buy low and sell high. With low reputation, merchants demand more for their goods and offer less for yours.</campaignstore.reputationtooltip>
+<reputationmodifier>聲望加成</reputationmodifier>
+<campaignstore.reputationtooltip>你的聲望對物品價格所產生的影響。高聲望能使你買低賣高；聲望低時，商人會提高自己商品的價格，並以低價向你收購物品。</campaignstore.reputationtooltip>
 
 <!-- Campaign crew -->
 <sortingmethod.alphabeticalasc>字母順序</sortingmethod.alphabeticalasc>
@@ -6018,7 +6018,7 @@
 <submarinepurchasevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買[submarinename]。</submarinepurchasevotefailed>
 <submarineswitchfeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotefailed>
 <submarineswitchnofeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[submarinename]替換目前的潛艇。</submarineswitchnofeevotefailed>
-<voterejectedpleasewait>你投下的前一票無效，需要等待最少 [time] 秒才能再次投票。</voterejectedpleasewait>
+<voterejectedpleasewait>你投下的前一票無效，需要等待最少 [time] 秒後你才能再次進行投票。</voterejectedpleasewait>
 
 <!-- Factions -->
 <factions>陣營</factions>
