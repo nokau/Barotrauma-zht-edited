@@ -382,36 +382,36 @@
 
 <!-- Audio tab -->
 
-<settingstab.audioandvc>音訊 &amp; 語音聊天</settingstab.audioandvc>
+<settingstab.audioandvc>音訊 &amp; 語音交談</settingstab.audioandvc>
 <settingstab.audio>音效</settingstab.audio>
 <soundvolume>音效音量</soundvolume>
 <musicvolume>音樂音量</musicvolume>
 <uisoundvolume>UI音效音量</uisoundvolume>
-<voicechatvolume>語音聊天音量</voicechatvolume>
+<voicechatvolume>語音交談音量</voicechatvolume>
 <muteonfocuslost>失焦時靜音</muteonfocuslost>
 <muteonfocuslosttooltip>當玩家跳出遊戲視窗時遊戲將自動靜音。</muteonfocuslosttooltip>
 <audionodevices>未找到音訊輸出設備。</audionodevices>
-<localvoicebydefault>預設使用所在位置語音聊天</localvoicebydefault>
-<localvoicebydefaulttooltip>啟用時，你的聲音將以你的所在位置發送語音聊天 (只有附近的玩家才能聽到你的聲音)。你可以透過按鍵發話以無線電進行交流。</localvoicebydefaulttooltip>
+<localvoicebydefault>預設使用所在位置語音交談</localvoicebydefault>
+<localvoicebydefaulttooltip>啟用時，你的聲音將以你的所在位置發送語音交談 (只有附近的玩家才能聽到你的聲音)。你可以透過按鍵發話以無線電進行交流。</localvoicebydefaulttooltip>
 <audiooutputdevice>輸出裝置</audiooutputdevice>
 <audioinputdevice>輸入裝置</audioinputdevice>
 <vcinputmode>輸入模式</vcinputmode>
-<settingstab.voicechat>語音聊天</settingstab.voicechat>
+<settingstab.voicechat>語音交談</settingstab.voicechat>
 <microphonevolume>麥克風音量</microphonevolume>
-<voicechat>語音聊天</voicechat>
+<voicechat>語音交談</voicechat>
 <currentdevice>目前設備</currentdevice>
-<currentdevicetooltip.osx>該設備將用於語音聊天。若你使用的是Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
+<currentdevicetooltip.osx>該設備將用於語音交談。若你使用的是Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
 <refreshdefaultdevice>重新整理預設設備</refreshdefaultdevice>
-<refreshdefaultdevicetooltip>重新整理用於語音聊天的設備。在切換/插拔預設輸入裝置之後點選以偵測變更。</refreshdefaultdevicetooltip>
+<refreshdefaultdevicetooltip>重新整理用於語音交談的設備。在切換/插拔預設輸入裝置之後點選以偵測變更。</refreshdefaultdevicetooltip>
 <voicemode.disabled>停用</voicemode.disabled>
-<voicemode.disabledtooltip>已停用語音聊天。</voicemode.disabledtooltip>
+<voicemode.disabledtooltip>已停用語音交談。</voicemode.disabledtooltip>
 <voicemode.pushtotalk>按鍵發話</voicemode.pushtotalk>
-<voicemode.pushtotalktooltip>只有按住指定按鍵時才會發送語音聊天。</voicemode.pushtotalktooltip>
+<voicemode.pushtotalktooltip>只有按住指定按鍵時才會發送語音交談。</voicemode.pushtotalktooltip>
 <voicemode.activity>音訊活耀度</voicemode.activity>
-<voicemode.activitytooltip>當音量大於音量臨界值時自動發送語音聊天。</voicemode.activitytooltip>
+<voicemode.activitytooltip>當音量大於音量臨界值時自動發送語音交談。</voicemode.activitytooltip>
 <noisegatethreshold>音量臨界值</noisegatethreshold>
-<directionalvoicechat>指向性語音聊天</directionalvoicechat>
-<directionalvoicechattooltip>啟動時，語音聊天的聲音會受說話者相對於你所在的位置與方向影響。</directionalvoicechattooltip>
+<directionalvoicechat>指向性語音交談</directionalvoicechat>
+<directionalvoicechattooltip>啟動時，語音交談的聲音會受說話者相對於你所在的位置與方向影響。</directionalvoicechattooltip>
 <dynamicrangecompression>動態範圍壓縮</dynamicrangecompression>
 <dynamicrangecompressiontooltip>自動調整遊戲的音量以防止音效失真。</dynamicrangecompressiontooltip>
 <voipnodevices>沒有找到音訊捕捉設備</voipnodevices>
@@ -514,7 +514,7 @@
 <serversettingstraitorsminplayercount>叛徒出現所需的最低人數</serversettingstraitorsminplayercount>
 <serversettingstraitorsminplayercounttooltip>有多少玩家加入伺服器後才會出現叛徒</serversettingstraitorsminplayercounttooltip>
 <serversettingsusekarma>使用卡瑪</serversettingsusekarma>
-<serversettingsvoicechatenabled>允許語音聊天</serversettingsvoicechatenabled>
+<serversettingsvoicechatenabled>允許語音交談</serversettingsvoicechatenabled>
 <serversettingsbanafterwrongpassword>輸入錯誤密碼後封鎖</serversettingsbanafterwrongpassword>
 <serversettingspasswordretriesbeforeban>封鎖前可嘗試的次數</serversettingspasswordretriesbeforeban>
 <serversettingsdisablebotconversations>停用Bot對話</serversettingsdisablebotconversations>
@@ -1268,8 +1268,8 @@
 <servertagdescription.247.false>這個伺服器沒有全年無休。</servertagdescription.247.false>
 <servertagdescription.friendlyfire.true>已啟用船員之間的互相傷害。</servertagdescription.friendlyfire.true>
 <servertagdescription.friendlyfire.false>已停用船員之間的互相傷害。</servertagdescription.friendlyfire.false>
-<servertagdescription.voip.true>已啟用語音聊天。</servertagdescription.voip.true>
-<servertagdescription.voip.false>已停用語音聊天。</servertagdescription.voip.false>
+<servertagdescription.voip.true>已啟用語音交談。</servertagdescription.voip.true>
+<servertagdescription.voip.false>已停用語音交談。</servertagdescription.voip.false>
 <servertagdescription.karma.true>已啟用卡瑪系統。</servertagdescription.karma.true>
 <servertagdescription.karma.false>已停用卡瑪系統。</servertagdescription.karma.false>
 <servertagdescription.traitors.true>叛徒已在這個伺服器啟用。</servertagdescription.traitors.true>
@@ -1277,7 +1277,7 @@
 <servertag.friendlyfire.label>隊友傷害</servertag.friendlyfire.label>
 <servertag.friendlyfire.true>開啟</servertag.friendlyfire.true>
 <servertag.friendlyfire.false>關閉</servertag.friendlyfire.false>
-<servertag.voip.label>語音聊天</servertag.voip.label>
+<servertag.voip.label>語音交談</servertag.voip.label>
 <servertag.voip.true>啟用</servertag.voip.true>
 <servertag.voip.false>停用</servertag.voip.false>
 <servertag.karma.label>卡瑪</servertag.karma.label>
@@ -1302,7 +1302,7 @@
 <serversettingsallowfriendlyfire>允許隊友傷害</serversettingsallowfriendlyfire>
 <serversettingsallowrewiring>允許配線</serversettingsallowrewiring>
 <serversettingsallowdisguises>允許偽裝</serversettingsallowdisguises>
-<serversettingsallowwifichat>允許將wifi元件連接至聊天</serversettingsallowwifichat>
+<serversettingsallowwifichat>允許將wifi元件連接至聊天訊息</serversettingsallowwifichat>
 <filtersameversion>相同版本</filtersameversion>
 <filterwhitelistedservers>顯示白名單內的伺服器</filterwhitelistedservers>
 <giverankprompt>你確定要賦予 [user] [rank]Rank嗎？</giverankprompt>
@@ -1360,7 +1360,7 @@
 <servermessage.excessivedesyncremovedevent>因為用戶端包含過期資料，你的連線已被斷開。</servermessage.excessivedesyncremovedevent>
 <servermessage.synctimeout>由於連接逾時，你的連線已被斷開。</servermessage.synctimeout>
 <servermessage.shuttleleaving>小艇將自動返回哨站，請盡速離開小艇。</servermessage.shuttleleaving>
-<servermessage.howtocommunicate>按下 [chatbutton] 進行聊天。使用 [radiobutton] 以無線電交談。</servermessage.howtocommunicate>
+<servermessage.howtocommunicate>按下 [chatbutton] 進行交談，使用 [radiobutton] 以無線電進行交談。</servermessage.howtocommunicate>
 <servermessage.playernotfound>找不到玩家 [player]！</servermessage.playernotfound>
 <servermessage.previousclientname>[client] 過去在伺服器上使用的名稱為 "[previousname]"。</servermessage.previousclientname>
 <servermessage.privatemessagesnotallowed>私人訊息在您或對方尚存活於遊戲中時不被允許。</servermessage.privatemessagesnotallowed>
@@ -6132,7 +6132,7 @@
 <hint.onisinteracting.reactorwithextrarods>放入多個燃料棒能有效在水中幫助反應爐升溫，但在通常狀態下會造成危險高溫。</hint.onisinteracting.reactorwithextrarods>
 <hint.onreactoroutoffuel>反應爐已將燃料耗盡，潛艇將會失去電力。替換燃料棒以使電力恢復。</hint.onreactoroutoffuel>
 <hint.onrepairfailed>維修失敗有機會對你造成傷害。擁有較高機械工程與電氣工程技能的角色在進行維修時則將更有機會成功。</hint.onrepairfailed>
-<hint.onroundstarted.voipdisabled>如果你想要以麥克風進行交流，在設定中打開語音聊天。</hint.onroundstarted.voipdisabled>
+<hint.onroundstarted.voipdisabled>如果你想要以麥克風進行交流，在設定中打開語音交談。</hint.onroundstarted.voipdisabled>
 <hint.onshootwithoutaiming>你需要在以 [[key]] 進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
 <hint.onshowcampaigninterface.map>使用戰役地圖選擇你的下一個目的地。在選擇目的地之後，你能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
 <hint.onshowcommandinterface>以指令介面對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
