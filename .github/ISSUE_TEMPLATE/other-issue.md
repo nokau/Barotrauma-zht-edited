@@ -1,8 +1,8 @@
 ---
 name: Others
-about: 遊戲崩潰、錯誤訊息。
+about: 遊戲崩潰、錯誤訊息、其它問題。
 title: "[Others] 請使用與內容直接相關且詳細的標題"
-labels: 其它錯誤
+labels: 其它問題
 assignees: ''
 
 ---
