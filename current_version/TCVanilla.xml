@@ -110,18 +110,18 @@
 <!-- Host server menu -->
 <servername>伺服器名稱</servername>
 <serverport>伺服器埠</serverport>
-<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用UPnP連接埠轉發或手動連接埠轉發。</serverporttooltip>
+<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用UPnP通訊埠轉發或手動通訊埠轉發。</serverporttooltip>
 <serverqueryport>查詢埠</serverqueryport>
-<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現Steam ID驗證失敗的情況，請嘗試啟用UPnP連接埠轉發或手動連接埠轉發。</serverqueryporttooltip>
+<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現Steam ID驗證失敗的情況，請嘗試啟用UPnP通訊埠轉發或手動通訊埠轉發。</serverqueryporttooltip>
 <maxplayers>玩家數量上限</maxplayers>
 <password>密碼</password>
 <publicserver>公開伺服器</publicserver>
 <publicservertooltip>公開伺服器將出現在瀏覽伺服器頁面中的伺服器清單中。</publicservertooltip>
-<attemptupnp>嘗試UPnP連接埠轉發</attemptupnp>
-<attemptupnptooltip>UPnP可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定連接埠轉發 (詳情請見readme)。</attemptupnptooltip>
+<attemptupnp>嘗試UPnP通訊埠轉發</attemptupnp>
+<attemptupnptooltip>UPnP可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定通訊埠轉發 (詳情請見readme)。</attemptupnptooltip>
 <startserverbutton>開始</startserverbutton>
 <pleasewaitupnp>請稍後...</pleasewaitupnp>
-<attemptingupnp>正在嘗試UPnP連接埠轉發...</attemptingupnp>
+<attemptingupnp>正在嘗試UPnP通訊埠轉發...</attemptingupnp>
 <upnpunavailable>UPnP不可用。</upnpunavailable>
 <upnptimedout>UPnP搜尋超時。</upnptimedout>
 <incorrectpassword>密碼錯誤</incorrectpassword>
