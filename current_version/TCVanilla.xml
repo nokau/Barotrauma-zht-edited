@@ -574,7 +574,7 @@
 <eathint>[[key]] 吃</eathint>
 <healhint>[[key]] 治療</healhint>
 <talkhint>[[key]] 交談</talkhint>
-<playhint>[[key]] 演奏</playhint>
+<playhint>[[key]] 玩耍</playhint>
 <quickuseaction.equip>裝備</quickuseaction.equip>
 <quickuseaction.unequip>解除裝備</quickuseaction.unequip>
 <quickuseaction.drop>長按以丟下</quickuseaction.drop>
