@@ -547,7 +547,7 @@
 <tabmenu.talents>天賦</tabmenu.talents>
 
 <!-- Round summary ***-->
-<roundsummaryprogress>[sub]已設到達[location]</roundsummaryprogress>
+<roundsummaryprogress>[sub]已經到達[location]</roundsummaryprogress>
 <roundsummaryprogress>[sub]已經抵達[location]</roundsummaryprogress>
 <roundsummaryreturn>[sub]已經回到[location]</roundsummaryreturn>
 <roundsummarygameover>海洋吞沒了[sub]及它的船員</roundsummarygameover>
