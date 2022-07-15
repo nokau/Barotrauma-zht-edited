@@ -2,7 +2,7 @@
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
 <!-- edited by nokau for v0.18.12.0 -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~6530), EnglishVanillaEditorTexts.xml (6531~7828), EnglishVanilla EnglishVanillaNew.xml (7829~7843) -->
+<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
 
 <!-- Loading Screen -->
 <loading>載入中...</loading>
@@ -381,7 +381,6 @@
 <textscale>文字大小</textscale>
 
 <!-- Audio tab -->
-
 <settingstab.audioandvc>音訊 &amp; 語音交談</settingstab.audioandvc>
 <settingstab.audio>音效</settingstab.audio>
 <soundvolume>音效音量</soundvolume>
@@ -448,7 +447,6 @@
 <inputtype.selectpreviouscharacter>上一個角色</inputtype.selectpreviouscharacter>
 <inputtype.voice>按鍵發話</inputtype.voice>
 <inputtype.command>指令介面</inputtype.command>
-<inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory>
 <inputtype.localvoice>所在位置語音交談</inputtype.localvoice>
 <inputtype.nextfiremode>下一個射擊模式</inputtype.nextfiremode>
 <inputtype.previousfiremode>上一個射擊模式</inputtype.previousfiremode>
@@ -521,11 +519,6 @@
 <serversettingsdestructibleoutposts>允許破壞哨站</serversettingsdestructibleoutposts>
 <serversettingskillablenpcs>允許殺害哨站NPC</serversettingskillablenpcs>
 <serverrestartrequiredcontentpackage>在建立伺服器前，你需要重新啟動遊戲才能使遊戲內容套件生效。</serverrestartrequiredcontentpackage>
-<whitelistenabled>啟用</whitelistenabled>
-<whitelistname>名稱</whitelistname>
-<whitelistip>IP地址</whitelistip>
-<whitelistadd>添加到白名單</whitelistadd>
-<whitelistremove>移除</whitelistremove>
 <banlistremove>移除</banlistremove>
 <banexpires>[time]到期</banexpires>
 <banduration>持續時間</banduration>
@@ -542,6 +535,7 @@
 <serversettingslootedmoneydestinationtooltip>選擇自屍體上拾取的資金將存放至銀行或個人錢包。</serversettingslootedmoneydestinationtooltip>
 <lootedmoneydestination.bank>銀行</lootedmoneydestination.bank>
 <lootedmoneydestination.wallet>個人錢包</lootedmoneydestination.wallet>
+
 <!-- Tab menu -->
 <tabmenu.voip>VOIP</tabmenu.voip>
 <tabmenu.job>職業</tabmenu.job>
@@ -618,7 +612,6 @@
 <maybe>也許</maybe>
 <ok>確定</ok>
 <skills>技能</skills>
-<personalitytrait>個性</personalitytrait>
 <male>男性</male>
 <female>女性</female>
 <order>命令</order>
@@ -815,6 +808,7 @@
 <editor.suppresswarnings>在目前的編輯中停止在顯示這些警告。</editor.suppresswarnings>
 <showwires>電線</showwires>
 <editor.undounavailable>配線模式下無法查看復原歷史。</editor.undounavailable>
+<editor.copytoclipboard>複製到剪貼簿</editor.copytoclipboard>
 <itemassemblyvanillafileexistswarning>已經有遊戲本體內容中的物件組合使用這個名稱，無法覆蓋遊戲本體內容，請使用其他名稱。</itemassemblyvanillafileexistswarning>
 <cantdeletevanillasub>無法刪除遊戲本體內容中的潛艇。</cantdeletevanillasub>
 <cantdeletemodsub>你無法刪除包含在 "[modname]" 中的潛艇。請至設定選單將該Mod停用。</cantdeletemodsub>
@@ -1004,6 +998,7 @@
 <wallettransferrequestdisabled>伺服器管理者已停用資金轉移請求。</wallettransferrequestdisabled>
 <walletdescription>錢包用於存放個人資金，能夠於哨站的多種服務自由地進行消費。</walletdescription>
 <bankdescription>銀行用於存放共同資金，存放於此的資金不會因為死亡而丟失。有權限的玩家在資金不足時也可以將其作為個人錢包的延伸。</bankdescription>
+
 <!-- In-game menus -->
 <credit>馬克</credit>
 <playercredits>馬克: [credits]</playercredits>
@@ -1807,10 +1802,6 @@
 <missionsuccess.killlargecrawler>爬行者已被殲滅。</missionsuccess.killlargecrawler>
 <missionmessage0.killlargecrawler>爬行者已被殲滅，抵達下一個哨站以領取獎勵。</missionmessage0.killlargecrawler>
 
-
-
-
-
 <!-- Mission subcategories -->
 <subcategory>子類別</subcategory>
 <subcategories>子類別</subcategories>
@@ -1822,6 +1813,7 @@
 <subcategory.exteriorshuttle>小艇外部配件</subcategory.exteriorshuttle>
 <subcategory.labels>標誌</subcategory.labels>
 <subcategory.backgroundwall>背景牆</subcategory.backgroundwall>
+<subcategory.outpost>哨站</subcategory.outpost>
 
 <!-- Mission misc -->
 <missionteam1.pvpmission>聯盟</missionteam1.pvpmission>
@@ -2660,7 +2652,6 @@
 <entitydescription.fiberplant>這種植物具有椰子的質地，觸摸它會發現在它的纖維在手指下不安地蠕動，能被加工成生化纖維。</entitydescription.fiberplant>
 <entityname.elastinplant>彈性蛋白植物</entityname.elastinplant>
 <entitydescription.elastinplant>它的葉子無法被撕開，拉扯只會愈拉愈長，能被加工成為彈性蛋白。</entitydescription.elastinplant>
-
 <entityname.aquaticpoppy>水罌粟</entityname.aquaticpoppy>
 <entitydescription.aquaticpoppy>它摸起來溫溫的，能被加工成鴉片。</entitydescription.aquaticpoppy>
 <entityname.yeastshroom>海麴菇</entityname.yeastshroom>
@@ -2702,13 +2693,9 @@
 <entityname.harmonica>口風琴</entityname.harmonica>
 <entitydescription.harmonica>一把舊口琴。</entitydescription.harmonica>
 <entityname.bgrock1>Background Rock 1</entityname.bgrock1>
-<entitydescription.bgrock1></entitydescription.bgrock1>
 <entityname.bgrock2>Background Rock 2</entityname.bgrock2>
-<entitydescription.bgrock2></entitydescription.bgrock2>
 <entityname.bgrock3>Background Rock 3</entityname.bgrock3>
-<entitydescription.bgrock3></entitydescription.bgrock3>
 <entityname.bgrock4>Background Rock 4</entityname.bgrock4>
-<entitydescription.bgrock4></entitydescription.bgrock4>
 <entityname.suppliescabinet>物資收納櫃</entityname.suppliescabinet>
 <entitydescription.suppliescabinet>用於收納中小型的物品。</entitydescription.suppliescabinet>
 <entityname.mediumsteelcabinet>中型金屬收納櫃</entityname.mediumsteelcabinet>
@@ -2917,6 +2904,7 @@
 <entityname.neonlightwire2>Neon Light Wire 2</entityname.neonlightwire2>
 <entityname.neonlightwire3>Neon Light Wire 3</entityname.neonlightwire3>
 <entityname.neonlightwire4>Neon Light Wire 4</entityname.neonlightwire4>
+
 <!-- Alien -->
 <entityname.skyholderartifact>天空異星文物</entityname.skyholderartifact>
 <entitydescription.skyholderartifact>在異星遺跡中被發現過的造物。</entitydescription.skyholderartifact>
@@ -3259,7 +3247,7 @@
 <terminalwelcomemsg.dugongtransmission>重新傳送先前訊息。\n[2451-3-4 11:33] DG-35呼叫塔讓基地。有人嗎？\n[2451-3-4 11:35]Tara基地有人嗎？我們的上層甲板遭受重創！\n[2451-3-4 11:35]那鬼東西太大了！\n[2451-3-4 12:02]我們擊退了襲來的東西，但船體受損嚴重。收到消息的人請儘快來援。\n[2451-3-4 12:06]喂喂？\n</terminalwelcomemsg.dugongtransmission>
 <terminalwelcomemsg.traitorletter>這封信是我的遺囑，也是我的自白書。我的任務是把這個聲納發信器偷偷帶上來，並在安全距離外打開它。它的頻率被設定成能夠吸引怪物。之前他們許諾會派一艘小船來接我，但此時無人來援。\n\n這是我最後一次接受這些大公司的所謂“研究任務”，希望他們同我一起下地獄。</terminalwelcomemsg.traitorletter>
 
-<!-- Waypoints -->
+
 <waypoint>Waypoint</waypoint>
 <linkwaypoint>按住空白鍵以連結至其他Waypoint。</linkwaypoint>
 <spawnpoint>Spawnpoint</spawnpoint>
@@ -3431,6 +3419,7 @@
 <repairallwalls>修復全部船體</repairallwalls>
 <repairallitems>修復全部設備</repairallitems>
 
+
 <!-- Causes of death -->
 <causeofdeath>死因</causeofdeath>
 <causeofdeath.damage>受傷</causeofdeath.damage>
@@ -3544,7 +3533,6 @@
 <dialogrequiredtreatmentoptionslast>[treatment1]或[treatment2]</dialogrequiredtreatmentoptionslast>
 <dialogtargethealed>[targetname]康復了！</dialogtargethealed>
 <dialogtargethealed>[targetname]沒事了！</dialogtargethealed>
-<dialogtargethealed>[targetname]已被救起！</dialogtargethealed>
 <dialogtargetresuscitated>[targetname]已被救起！</dialogtargetresuscitated>
 <dialogtargetresuscitated>[targetname]又重新站起來了！</dialogtargetresuscitated>
 <dialogcannotrepair>無法維修[itemname]！</dialogcannotrepair>
@@ -3720,7 +3708,7 @@
 <dialoghuskdormant>我的喉嚨有點痛。</dialoghuskdormant>
 <dialoghuskdormant>我覺得我大概發燒了。</dialoghuskdormant>
 <dialoghuskdormant>我覺得身體很虛弱，每一塊肌肉都在痛。</dialoghuskdormant>  
-<dialoghuskcantspeak>有什麼東西在我嘴裡...*咳咳*</dialoghuskcantspeak>
+<dialoghuskcantspeak>有什麼東西在我嘴裡...</dialoghuskcantspeak>
 
 <!-- Character orders -->
 <orderdialog.follow>[name]，跟著我！</orderdialog.follow>
@@ -4388,7 +4376,6 @@
 <biomename.coldcaverns>寒冷深隧</biomename.coldcaverns>
 <biomename.europanridge>歐羅巴之脊</biomename.europanridge>
 <biomename.theaphoticplateau>無光海原</biomename.theaphoticplateau>
-<biomename.thegreatvoid>大深淵</biomename.thegreatvoid>
 <biomename.hydrothermalwastes>熱液廢土</biomename.hydrothermalwastes>
 <biomename.thegreatsea>淵洋</biomename.thegreatsea>
 
@@ -4429,7 +4416,7 @@
 <tutorial.captaindescription>Ahab艦長曾說，「地獄的觀念起源於一個沒被消化的蘋果餡餅。」你了解其中的意義嗎？不。船員們覺得你是一位深不可測的天才嗎？當然，至少在這個職位上得看起來像是知道該做什麼一樣。你就是地圖和羅盤，最有遠見的那個人，指引方向、審慎抉擇。而且記住，你距離成為哨站領導僅有幾步之遙，如果需要為此幹掉幾個人──就這樣吧！</tutorial.captaindescription>
 <tutorial.captainresponsibilities>職責\n-操縱船艦\n-下達指令</tutorial.captainresponsibilities>
 
-<!-- Tutorial extras -->
+
 <tutorial.airlocktitle>氣閘</tutorial.airlocktitle>
 <tutorial.airlockdescription>每艘潛艇都應該配備一個安全的氣閘，讓船員可以安全地離開而不會使潛艇淹水。\n\n要安全的離開潛艇，裝備一件潛水服並帶上其他必要的物品 (通常是一個手持聲納、一些武器、幾個氧氣罐)，進入氣閘，確認通往倉的的門都已經關上以免水流進去。\n\n進入潛艇時，先使用抽水機把水打出艙外再往艙內移動，也發揮公德心將所有設備放回適當的位置並在以製氧機重新填充用過的氧氣罐。</tutorial.airlockdescription>
 <tutorial.railguntitle>軌道砲</tutorial.railguntitle>
@@ -4745,10 +4732,6 @@
 <karma.maxdangerousitemcontainkarmadecreasetooltip>裝填危險物品受到的最大卡瑪懲罰。</karma.maxdangerousitemcontainkarmadecreasetooltip>
 
 <!-- Disclaimers -->
-<campaigndisclaimertitle>歡迎來到潛淵症！</campaigndisclaimertitle>
-<campaigndisclaimertext>請留意潛淵症依舊處於搶先體驗階段，遊戲仍存在許多不完善且正處於開發之處。\n\n特別是戰役模式仍然缺乏我們為完整版所計劃的內容，且或許還不如多人遊戲那樣有趣。如果你對未來的更新內容有興趣，可以點選下方的 Roadmap 按鈕。\n\n我們建議在加入一場多人遊戲或開始戰役之前遊玩至少一項單人教學，祝你好運，水手！</campaigndisclaimertext>
-<campaignroadmaptitle>Roadmap</campaignroadmaptitle>
-<campaignroadmaptext>-可探索區域: 目前戰役當中的各個地點都還只是一個能夠向其購買物資、招募船員的介面，但隨著搶先體驗進行、這些地方在未來會變成能夠實際進行探索的區域。\n\n-更多故事: 透過與NPC互動或探索哨站與自然環境，你將能更深度的理解潛淵症中的世界。\n\n-新任務種類: 我們計畫提供更多樣的任務，包括人員運輸任務與殘骸探索任務。\n\n-平衡: 目前遊戲內的經濟系統並不是非常平衡，但我們將在加入更多內容之後著手進行改善。\n\n-最終目標: 目前戰役模式並沒有結尾，但未來地圖謎樣的中心地區將會有辦法到達...</campaignroadmaptext>
 <editordisclaimertitle>編輯器</editordisclaimertitle>
 <editordisclaimertext>潛艇與角色編輯器是用來擴展核心遊戲內容、創造自己的潛艇和怪物的自訂工具，你可以通過Steam工作坊分享這些作品。\n\n目前編輯器還只有英文介面，建造一艘可供遊玩的潛艇或一隻正常運作的怪物並不是非常容易，但遺憾的是我們尚未為它們提供遊戲內教學與資料。如果你想試著使用編輯器創造自訂內容，或許能在這些地方獲得相關資訊:</editordisclaimertext>
 <editordisclaimerwikilink>Barotrauma Wiki</editordisclaimerwikilink>
@@ -4850,8 +4833,6 @@
 <connection.loadvalueout>load_value_out</connection.loadvalueout>
 <connection.powervalueout>power_value_out</connection.powervalueout>
 <connection.low_oxygen>low_oxygen</connection.low_oxygen>
-<connection.loadvalueout>load_value_out</connection.loadvalueout>
-<connection.powervalueout>power_value_out</connection.powervalueout>
 
 <!-- Traitor system -->
 <traitormissionstartmessage>你是一名叛徒！你成功地潛入了潛艇，該是你動身執行任務的時候了。</traitormissionstartmessage>
@@ -5050,6 +5031,7 @@
 <wificomponent.channel>Channel</wificomponent.channel>
 
 <!-- Personality traits -->
+<personalitytrait>個性</personalitytrait>
 <personalitytrait.professional>專業人士</personalitytrait.professional>
 <personalitytrait.laid-back>悠哉</personalitytrait.laid-back>
 <personalitytrait.rude>無禮</personalitytrait.rude>
@@ -5424,7 +5406,6 @@
 <EventText.unlockpathgeneric.o2>不，謝了。</EventText.unlockpathgeneric.o2>
 <EventText.unlockpathgeneric.o2.c1>“隨你便，或許你們的確需要在兒童池待久一點。”</EventText.unlockpathgeneric.o2.c1>
 <EventText.unlockpathgeneric.nomoney>“錢不夠？太可惜了，在你能證明你真的有能耐之前或許你應該在兒童池待久一點。”</EventText.unlockpathgeneric.nomoney>
-
 <EventText.unlockpath.refusebribe>什麼都不給。</EventText.unlockpath.refusebribe>
 <EventText.unlockpathcoldcaverns.c1>“你們肯定在寒冷深隧裡忙得不可開交，我替聯盟感謝你們所付出的行動。你可能也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站，並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的隊員們通過這裡。”</EventText.unlockpathcoldcaverns.c1>
 <EventText.unlockpathcoldcaverns.c2>“你們想要通過這裡進到更深的區域？聯盟不允許新手船員進到那裡，你們的名聲也沒有好到能讓我心服口服放行。當然了，假如你們正好有多的馬克能和我分享，或許那會一定程度地提升我對你們的看法。”</EventText.unlockpathcoldcaverns.c2>
@@ -5444,6 +5425,12 @@
 <EventText.unlockpathgreatsea.c2>“你有前往熱液廢土的許可嗎？想也知道沒有。你運氣不錯，我們正好在進行許可大拍賣，你懂的。”</EventText.unlockpathgreatsea.c2>
 <EventText.unlockpathgreatsea.o1.c1>“謝謝惠顧，歡迎再來，如果你回得來的話。”</EventText.unlockpathgreatsea.o1.c1>
 <EventText.unlockpathgreatsea.o2.c1>“至少你會活得久一點。”</EventText.unlockpathgreatsea.o2.c1>
+<eventtext.unlockpathcoldcaverns.o1>給他們2,000馬克。</eventtext.unlockpathcoldcaverns.o1>
+<eventtext.unlockpatheuropanridge.o1>“4,000馬克足以作為貢獻嗎？”</eventtext.unlockpatheuropanridge.o1>
+<eventtext.unlockpathaphoticplateau.o1>“8,000足夠讓你們保護我們嗎？”</eventtext.unlockpathaphoticplateau.o1>
+<eventtext.unlockpathaphoticplateau.o1.nomoney>“大概8,000就能說服我了，不能更低，有的話再來吧。”</eventtext.unlockpathaphoticplateau.o1.nomoney>
+<eventtext.unlockpathgreatsea.o1>“16,000？根本在搶！吶。”</eventtext.unlockpathgreatsea.o1>
+<eventtext.unlockpathgreatsea.o1.nomoney>“這太少了，我的底價是16,000，你們湊到了再說。”</eventtext.unlockpathgreatsea.o1.nomoney>
 <eventtext.healreaperstax.c1>“我聽說你的船員身上最近出現了一種罕見的症狀，我們通常稱它為「死神之稅」，如果你有興趣，我可以試試為他們進行治療。”</eventtext.healreaperstax.c1>
 <eventtext.healreaperstax.c2>“哦，看來你就是那位不幸的水手！只要、我想想，1,000馬克我就能為你進行治療，你覺得如何？”</eventtext.healreaperstax.c2>
 <eventtext.healreaperstax.o1>以1,000馬克治療死神之稅</eventtext.healreaperstax.o1>
@@ -5799,12 +5786,6 @@
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>”你是指聯盟的人？”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>那名守衛翻了下白眼，“你終於懂了，回報發現屍體能拿到一筆獎勵，我勸你拿好，去買些鴉片來吸，或者弄些什麼你們在潛艇上工作的人喜歡的東西然後忘掉你看見的一切。那具屍體由我來處理。”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o2>不去深究。</EventText.nothingtoseehere.o1.o1.o1.c1.o2>
-<eventtext.unlockpathcoldcaverns.o1>給他們2,000馬克。</eventtext.unlockpathcoldcaverns.o1>
-<eventtext.unlockpatheuropanridge.o1>“4,000馬克足以作為貢獻嗎？”</eventtext.unlockpatheuropanridge.o1>
-<eventtext.unlockpathaphoticplateau.o1>“8,000足夠讓你們保護我們嗎？”</eventtext.unlockpathaphoticplateau.o1>
-<eventtext.unlockpathaphoticplateau.o1.nomoney>“大概8,000就能說服我了，不能更低，有的話再來吧。”</eventtext.unlockpathaphoticplateau.o1.nomoney>
-<eventtext.unlockpathgreatsea.o1>“16,000？根本在搶！吶。”</eventtext.unlockpathgreatsea.o1>
-<eventtext.unlockpathgreatsea.o1.nomoney>“這太少了，我的底價是16,000，你們湊到了再說。”</eventtext.unlockpathgreatsea.o1.nomoney>
 
 <!-- Submarine upgrades & repairs -->
 <upgradecategory.walls>船體</upgradecategory.walls>
@@ -5970,17 +5951,24 @@
 <deliveryrequesttext>以[amount][currencyname]將[submarinename1]自[location1]運送至你所在的[location2]並替換你目前的潛艇 ([submarinename2])？</deliveryrequesttext>
 <notenoughmoneyfordeliverytext>[currencyname]不足以將[submarinename]自[location1]運送至你所在的[location2]！</notenoughmoneyfordeliverytext>
 <switchsubmarineheader>替換潛艇</switchsubmarineheader>
+<selectedsub>選取的潛艇</selectedsub>
 <switchsubmarinetext>以[submarinename2]替換你目前的潛艇[submarinename1]？</switchsubmarinetext>
 <outpostshipyard>[location]船廠</outpostshipyard>
 <transferitems>轉移物品</transferitems>
-<itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。你可以透過取消「轉移物品」選項以停用這項功能。</itemswillbetransferred>
-<itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並留在原地。你可以透過選取「轉移物品」選項以啟用這項功能。</itemswontbetransferred>
+<itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。</itemswillbetransferred>
+<itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並留在原地。</itemswontbetransferred>
+<switchingbacktocurrentsub>Switching back to the currently active submarine. No items will be transferred.</switchingbacktocurrentsub>
 <submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
 <submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
 <submarineswitchwithitemsnofeevote>想要以[submarinename]替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
 <itemtransferenabledreminder>你的物品將在離開哨站時轉移至在新的潛艇上。</itemtransferenabledreminder>
 <itemtransferdisabledreminder>你的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
+<toggleitemtransferprompt>你可以透過點選「轉移物品」選項以切換這項功能。</toggleitemtransferprompt>
 <deliveryfee>運費: [amount]</deliveryfee>
+<lowfuelheader>燃料即將用盡</lowfuelheader>
+<lowfuelwarning>潛艇上未被使用的燃料棒存量低於二。</lowfuelwarning>
+<noitemsheader>沒有物品</noitemsheader>
+<noitemswarning>目標潛艇上的所有物品已轉移至別處，你確定要不帶任何物品進行替換嗎？</noitemswarning>
 
 <!-- Submarine types -->
 <submarinetype>潛艇類別</submarinetype>
@@ -6049,8 +6037,6 @@
 <toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
 <campaignstart>20世紀末期，人們在木星的第二個月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
 <campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
-<campaignend2>它存在於有序的宇宙之外，一個任何夢境都無法觸碰到的地方；這股沒有確定身形的毀滅力量存在於最深的混沌裡，待在一切無垠的中央，翻滾冒泡，褻瀆著一切神明──那就是無所限制的惡魔之王阿撒托斯。沒有哪張嘴唇膽敢高聲言及它的名諱。在那些超越時間之外、讓人無法想像的黑暗巨室裡，污穢巨鼓敲打著隱約而又令人發瘋的迴響，邪惡長笛吹奏出的空洞而又單調的哀嚎。- Howard Phillips Lovecraft</campaignend2>
-<campaignend3>你的意識抵達了已知與未知的邊界，你仿佛觸摸到了真理之形，但又視之而不能見。應許之時未至，歸去吧。</campaignend3>
 <campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
 <campaignend5>在通過旅途的終點之後，你的冒險抵達了全新的開端，這一次還為你準備了更多風險。</campaignend5>
 <shrinkingmap>隨著木星輻射強度的增加，歐羅巴的淺海區域逐漸變得危險不適人類遷徙居住。潛入更深的海域以躲避輻射。</shrinkingmap>
@@ -6063,6 +6049,7 @@
 <outpostmodulemaxcounttooltip>同一個哨站中此模組的最多數量。</outpostmodulemaxcounttooltip>
 <outpostmoduletooltip>一個哨站是由多個哨站模組相互組合而產生，如果要讓你的自訂哨站模組被使用於產生哨站，在儲存之後，必須手動為它建立內容套件並將存檔移入其中。</outpostmoduletooltip>
 <outpostmoduleallowattachto>允許連接至</outpostmoduleallowattachto>
+
 <!-- Beacon stations -->
 <minleveldifficulty>最低難度</minleveldifficulty>
 <maxleveldifficulty>最高難度</maxleveldifficulty>
@@ -6101,6 +6088,7 @@
 <eventeditor.testpromptbody>Do you want to test the saved event in an empty outpost environment?</eventeditor.testpromptbody>
 <eventeditor.outpostgenparams>Outpost params:</eventeditor.outpostgenparams>
 <eventeditor.locationtype>Location type:</eventeditor.locationtype>
+
 <!-- Particle editor -->
 <particleeditor.copyemittertoclipboard>Copy Emitter to Clipboard</particleeditor.copyemittertoclipboard>
 <particleeditor.copyprefabtoclipboard>Copy Prefab to Clipboard</particleeditor.copyprefabtoclipboard>
