@@ -1,5 +1,5 @@
 <!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau for v0.18.12.0 -->
+<!-- edited by nokau for v0.18.15.0 -->
 <!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
@@ -64,8 +64,8 @@
 <nohullnameswarning>沒有Hull被命名，將自動進行調整。角色將在如回報船體受損時使用這些名稱。</nohullnameswarning>
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
-<manuallyoutfitted>Manually outfitted</manuallyoutfitted>
-<manuallyoutfittedtooltip>Does the submarine come with enough manually placed supplies to start with, or does it rely on automatically placed items and/or items transferred with the player?</manuallyoutfittedtooltip>
+<manuallyoutfitted>手動配置的物資</manuallyoutfitted>
+<manuallyoutfittedtooltip>此潛艇配有足夠的起始物資，或者它需要依賴自動產生的物資和/或玩家進行物品轉移？</manuallyoutfittedtooltip>
 <unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
 <reloadsprite>重新讀取Sprite</reloadsprite>
 <resettoprefab>回復至預設</resettoprefab>
