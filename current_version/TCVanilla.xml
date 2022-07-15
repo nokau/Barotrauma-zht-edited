@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v0.18.12.0 -->
+<!-- edited by nokau for v0.18.15.0 -->
 <!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
 
@@ -5956,19 +5956,19 @@
 <outpostshipyard>[location]船廠</outpostshipyard>
 <transferitems>轉移物品</transferitems>
 <itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。</itemswillbetransferred>
-<itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並留在原地。</itemswontbetransferred>
-<switchingbacktocurrentsub>Switching back to the currently active submarine. No items will be transferred.</switchingbacktocurrentsub>
+<itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並且留在原地。</itemswontbetransferred>
+<switchingbacktocurrentsub>替換回當前正在使用的潛艇，將不會轉移任何物品。</switchingbacktocurrentsub>
 <submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
 <submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
 <submarineswitchwithitemsnofeevote>想要以[submarinename]替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
-<itemtransferenabledreminder>你的物品將在離開哨站時轉移至在新的潛艇上。</itemtransferenabledreminder>
+<itemtransferenabledreminder>你的物品將在離開哨站時轉移至新的潛艇上。</itemtransferenabledreminder>
 <itemtransferdisabledreminder>你的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
 <toggleitemtransferprompt>你可以透過點選「轉移物品」選項以切換這項功能。</toggleitemtransferprompt>
 <deliveryfee>運費: [amount]</deliveryfee>
 <lowfuelheader>燃料即將用盡</lowfuelheader>
 <lowfuelwarning>潛艇上未被使用的燃料棒存量低於二。</lowfuelwarning>
 <noitemsheader>沒有物品</noitemsheader>
-<noitemswarning>目標潛艇上的所有物品已轉移至別處，你確定要不帶任何物品進行替換嗎？</noitemswarning>
+<noitemswarning>目標潛艇上的所有物品已轉移至別處，你確定要不攜帶任何物品就進行替換嗎？</noitemswarning>
 
 <!-- Submarine types -->
 <submarinetype>潛艇類別</submarinetype>
