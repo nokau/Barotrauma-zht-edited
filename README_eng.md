@@ -23,7 +23,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - NPC conversations
 
 ### Notes
-- Very different translated names for some of the items and devices.
+- Very different translations for some of the items and devices.
 - The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.
 - Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
