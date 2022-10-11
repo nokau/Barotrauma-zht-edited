@@ -1,6 +1,6 @@
 <!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau for v0.18.15.0 -->
-<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
+<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7016), EnglishVanillaEditorTexts.xml (7017~8317), EnglishVanilla EnglishVanillaNew.xml (8318~8343) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
   
@@ -87,11 +87,14 @@
 <canattachtoprevious>能以何處連結</canattachtoprevious>
 <canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 
+<subeditor.packagealreadyexists>There is already a content package with the name "[name]". Please choose another name or select the package from the list if you want to edit it.</subeditor.packagealreadyexists><!--ADD-->
+<subeditor.duplicatesubinpackage>The content package already contains a submarine with the same name. Do you want to overwrite the existing submarine file?</subeditor.duplicatesubinpackage><!--ADD-->
+
+
 <!-- Entity Editor -->
 <stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
 <stringpropertycannottranslate>This text will not be translated - text with the tag [tag] not found in the language files.</stringpropertycannottranslate>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 
@@ -273,7 +276,6 @@
 <charactereditor.toolspanel>Tools</charactereditor.toolspanel>
 <charactereditor.minormodestitle>Show</charactereditor.minormodestitle>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 <charactereditor.addaitarget>Add Target</charactereditor.addaitarget>
 <charactereditor.addbloodemitter>Add Blood Emitter</charactereditor.addbloodemitter>
 <charactereditor.addgibemitter>Add Gib Emitter</charactereditor.addgibemitter>
