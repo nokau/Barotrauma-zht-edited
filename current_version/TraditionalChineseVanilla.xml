@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v0.18.15.0 -->
-<!-- This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
-
+<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7016), EnglishVanillaEditorTexts.xml (7017~8317), EnglishVanilla EnglishVanillaNew.xml (8318~8343) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -11,68 +9,67 @@
 <!-- Loading Screen tips -->
 <loadingscreentip>如果貨物在運輸過程中丟失或損壞，運費將不會支付給你。</loadingscreentip>
 <loadingscreentip>如果發電功率超出潛艇設備的用電量有可能會弄壞配電箱甚至引起火災。</loadingscreentip>
-<loadingscreentip>配電箱與其他電氣設備沉入水中太久有可能會被泡壞。</loadingscreentip>
+<loadingscreentip>配電箱與其他電氣設備沉入水中太久會被泡壞。</loadingscreentip>
 <loadingscreentip>潛艇的核反應爐過熱可能會釀成火災，若不及時關閉，最終將導致反應爐熔毀。</loadingscreentip>
-<loadingscreentip>大多數潛艇都配備了蓄電池，作為反應爐發生故障時的臨時備用電源。</loadingscreentip>
+<loadingscreentip>大多數潛艇都配備了蓄電池，作為反應爐發生故障時的備用臨時電源。</loadingscreentip>
 <loadingscreentip>軌道砲子彈和深水炸彈都有一個可以容納額外炸藥的隔層。</loadingscreentip>
 <loadingscreentip>被動聲納可以在不引發不必要注意的前提下探測附近的聲源。你也可以通過冰牆反射的聲波來大致瞭解周邊環境。</loadingscreentip>
-<loadingscreentip>面對鎖上的門，你有幾個選擇，譬如用撬棍撬開，甚至是將它們連接至你有使用權限的按鈕上。</loadingscreentip>
+<loadingscreentip>面對鎖上的門你有幾個選擇，包括用撬棍將它們撬開或是將它們連接至你有使用權限的按鈕上。</loadingscreentip>
 <loadingscreentip>蓄電池都配備有充電座，能用來替乾電池充電。</loadingscreentip>
 <loadingscreentip>製氧機都配備有充氣座，能用來填充氧氣罐。</loadingscreentip>
 <loadingscreentip>超級電容不像蓄電池那樣能夠儲存大量電力，但能在瞬間釋放高壓電流，它們多半被用於驅動軌道砲或其他需要瞬間高壓電流的設備。</loadingscreentip>
 <loadingscreentip>核反應爐都配備了自動控制系統，開啟時能夠將反應爐的輸出功率調整在最佳狀態，不過該系統在用電量大幅波動的情況下不見得能夠及時做出反應。</loadingscreentip>
-<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠──讓你的工程師確保終端運轉良好！</loadingscreentip>
+<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠──請你的工程師將導航終端維持在最佳狀態！</loadingscreentip>
 <loadingscreentip>佈署誘餌彈時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
 <loadingscreentip>在電氣工程技能不足的狀態下試圖替電氣設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
 <loadingscreentip>潛艇上的船員都受過電氣設備的基本維修訓練，不過工程師們能夠更快地完成作業。</loadingscreentip>
 <loadingscreentip>潛艇上的船員都受過機械設備的基本維修訓練，不過技師們能夠更快地完成作業。</loadingscreentip>
 <loadingscreentip>一般來說，艦長比普通船員更擅長操縱潛水艇。</loadingscreentip>
-<loadingscreentip>如果潛艇上的反應爐發電功率不足以供給船上設備正常運作，可以嘗試降低蓄電池和超級電容的充電率，或者調節潛艇全速運作的時間。</loadingscreentip>
-<loadingscreentip>潛艇上的電氣與機械設備由於處在運作時的耗損加上惡劣環境而逐漸劣化。務必令技師和工程師時常進行維護，以免設備在關鍵時刻發生故障。</loadingscreentip>
+<loadingscreentip>如果潛艇上的反應爐發電功率不足以供給船上設備正常運作，可以嘗試降低蓄電池和超級電容的充電率，或者調節潛艇全速運行的時間。</loadingscreentip>
+<loadingscreentip>潛艇上的電氣與機械設備由於運作時的耗損加上處在惡劣環境而逐漸劣化。務必令技師和工程師時常進行維護，以免設備在關鍵時刻發生故障。</loadingscreentip>
 <loadingscreentip>用解構儀分解異星文物可為你提供特殊的異星材料。</loadingscreentip>
 <loadingscreentip>歐羅巴上的部分異星建築是以一種超級材料建造，這種材料具有出色的物理損傷抗性，因此已經成為科學家們的重要研究課題。</loadingscreentip>
-<loadingscreentip>將異星文物帶上潛艇時務必多加小心。</loadingscreentip>
+<loadingscreentip>將異星文物帶上潛艇時務必格外小心。</loadingscreentip>
 <loadingscreentip>對於建造遍佈歐羅巴上遺跡的異星文明，除了據推測早已滅絕，關於它們的資訊少之又少，連遺跡的建造年代都是個謎，由於異星建築與其設備的自我修復特性，人類使用的各種年代測定法都變得非常不準確。</loadingscreentip>
 <loadingscreentip>沒有任何建造歐羅巴上遺跡的異星生命體殘骸被找到過。遺跡內部唯一發現過的生命體只有守衛著遺跡的生化造物。</loadingscreentip>
 <loadingscreentip>在探索遺跡或洞穴時，盡可能頻繁地投下信號彈作為路標，以免你遇上了什麼原因需要快速折返。</loadingscreentip>
+<loadingscreentip>獨目哨兵是種溫馴且富好奇心的生物：雖然不具攻擊性，牠們總是想靠近潛艇一探人類究竟在幹嘛。</loadingscreentip>
 <loadingscreentip>同類相食在藻鬃爬行者之間是常態。殺死一群爬行者中的一隻，其他爬行者們可能會因為對進食的渴望轉而使牠們把注意力集中在爭搶同類的屍體上。</loadingscreentip>
-<loadingscreentip>泥偶迅猛龍可以用它們鋒利的喙輕鬆地咬穿並突破金屬門。</loadingscreentip>
+<loadingscreentip>泥偶迅猛龍能夠用它們鋒利的喙輕鬆地咬穿並突破金屬門。</loadingscreentip>
 <loadingscreentip>一種名為畫皮的寄生蟲會慢慢掌控並吞噬宿主的軀體，最終將其變為一具完全由寄生蟲控制的空殼。</loadingscreentip>
-<loadingscreentip>歐羅巴上的大部分生物都有著堅硬、難以被常規武器破壞的外骨骼。但或許牠們的頑強盔甲上也存在能夠被擊破的弱點。</loadingscreentip>
+<loadingscreentip>歐羅巴上的大部分生物都有著堅硬、難以被常規武器破壞的外骨骼，但牠們的頑強盔甲上或許存在能夠被擊破的弱點。</loadingscreentip>
 <loadingscreentip>嘈雜的設備噪音或聲納脈衝都有可能會引起附近生物警覺。</loadingscreentip>
-<loadingscreentip>如果醫療技能不足，進行心肺復甦會對患者的內臟造成損傷。</loadingscreentip>
+<loadingscreentip>如果醫療技能不足，進行心肺復甦有可能會對患者的內臟造成損傷。</loadingscreentip>
 <loadingscreentip>使用嗎啡與吩坦尼等鴉片類藥物在緊急狀況下是非常有效的治療方式，但經常使用最終可能會導致成癮與危險的戒斷症狀。</loadingscreentip>
 <loadingscreentip>出血傷口可用繃帶或止血劑治療。患者可能還會需要以生理鹽水或血袋來補充流失的血液。</loadingscreentip>
 <loadingscreentip>非常不幸的，精神症等等的精神疾患對潛艇船員而言非常普遍，尤其是在遺跡探險之後。如果你的船員開始看到或聽到其他人無法認知的事物，立即向醫生報告。</loadingscreentip>
 <loadingscreentip>醫生們的主要任務是保證船員們的身心健康，不過有著注射器槍與毒藥知識的醫療人員在對抗入侵者時也不容小覷。</loadingscreentip>
-<loadingscreentip>許多藥物有著意想不到的副作用。請密切關注病人情況，隨時準備其他藥物以備抵消這些副作用。</loadingscreentip>
+<loadingscreentip>許多藥物有著意想不到的副作用。請密切關注患者的狀態，隨時準備其他藥物以備抵消這些副作用。</loadingscreentip>
 <loadingscreentip>在使用潛水面罩時，注意不要把焊接燃料罐和氧氣罐搞混了。</loadingscreentip>
 <loadingscreentip>潛水面罩可以讓你在水下呼吸，但不能幫助你抵禦足以碎骨的深水壓力。如果船體有較大的結構破損，請立即換上潛水服。</loadingscreentip>
 <loadingscreentip>當火災發生，燒傷不是唯一需要被注意的──大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
-<loadingscreentip>穿越被稱為熱液廢土的區域時得格外注意，這些區域不只生物數量豐富，地熱活動引發的水流變化更使航行變得加倍危險。</loadingscreentip>
+<loadingscreentip>穿越被稱為「熱液廢土」的區域時得格外注意，這裡不只有豐富的野生動物，地熱活動引發的水流變化更使航行變得加倍危險。</loadingscreentip>
 <loadingscreentip>歐羅巴上的一些固著生物會發出可能干擾潛艇聲納的低頻聲波。</loadingscreentip>
 <loadingscreentip>歐羅巴擁有豐富的自然資源，唯有目光敏銳、雄心勃勃、手拿電漿切割器的船長才有機會得到豐盛收穫。</loadingscreentip>
 <loadingscreentip>只要戴上別人的ID卡與一些面部偽裝你就能喬裝成他們。</loadingscreentip>
-<loadingscreentip>你可以在潛艇編輯器中將wifi元件與無線電連接來構建語音控制系統。</loadingscreentip>
+<loadingscreentip>你可以在潛艇編輯器中將wifi元件與無線電連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
 <loadingscreentip>木星周圍的輻射帶使得在歐羅巴表面建立永久居所變得不切實際，因此所有歐羅巴的哨站都位於它冰凍的表殼之下。</loadingscreentip>
 <loadingscreentip>歐羅巴的水下生態尚未被完全解讀，但普遍相信食物鏈的底層是由化合細菌組成。</loadingscreentip>
 <loadingscreentip>歐羅巴聯盟最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
-<loadingscreentip>那項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
+<loadingscreentip>一項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
 <loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層之中的隧道與裂縫──介於表面冰層與其內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
 <loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體──丘腦。</loadingscreentip>
 <loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開指令介面來選擇可用的命令。</loadingscreentip>
 <loadingscreentip>在哨站惹事會降低你的聲望，聲望較低會導致當地居民向你收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
 <loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如木星分離主義分子的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
-<loadingscreentip>小心獨目哨兵，別失去理智。</loadingscreentip>
+<loadingscreentip>小心獨目哨兵。別失去理智。</loadingscreentip>
 <loadingscreentip>橫跨表冰層與下方密度更大、更堅硬的次冰層的，是位於歐羅巴之眼最西側斜坡之上的歐羅巴之脊。溫暖的水透過對流到達那裡，使大量生命得以生存。</loadingscreentip>
 <loadingscreentip>無光海原位於被稱為歐羅巴之眼的古老隕石坑西側。與鄰近的歐羅巴之脊相似，無光高原的漆黑隧道網路是由其上方無比沉重冰層擠壓而成的、如岩石般堅硬的冰塊組成。</loadingscreentip>
 <loadingscreentip>歐羅巴上的大部分人類都居住在所謂的寒冷深隧中。由於此處相對接近地表，低水溫使這裡的生物多樣性遠遠不如其他區域、幾乎沒有植被且僅有些許藻鬃爬行者。</loadingscreentip>
 <loadingscreentip>冰刺是那些有時會出現在歐羅巴表殼隧道中的巨型冰柱。潛艇船員被建議儘量避免與其碰撞，又或者盡力將其摧毀，它們尖銳的邊緣能夠輕易劃傷船體。</loadingscreentip>
 <loadingscreentip>淵洋中發現的「壓電晶體」給船員們帶來了新的挑戰：航行過於靠近這些晶體有可能會使其干擾潛艇上的電力網。</loadingscreentip>
 <loadingscreentip>在沒有足夠的醫學知識的情況下用藥可能會降低它們的效果。</loadingscreentip>
-<loadingscreentip>小心不要潛得太深。大多數潛艇的船體會在幾千公尺處開始崩塌，所以你如果計畫要突入更深的區域或者深淵之中，你可能需要購買船體結構升級或者能夠潛入更深海域的特殊潛艇。</loadingscreentip>
-<loadingscreentip>獨目哨兵是種溫馴且富好奇心的生物：雖然不具攻擊性，牠們總是想靠近潛艇一探人類究竟在幹嘛。</loadingscreentip>
 
 <!-- Main menu labels -->
 <campaignlabel>戰役</campaignlabel>
@@ -447,6 +444,7 @@
 <inputtype.selectpreviouscharacter>上一個角色</inputtype.selectpreviouscharacter>
 <inputtype.voice>按鍵發話</inputtype.voice>
 <inputtype.command>指令介面</inputtype.command>
+<inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory><!--NEW; same as 6527?-->
 <inputtype.localvoice>所在位置語音交談</inputtype.localvoice>
 <inputtype.nextfiremode>下一個射擊模式</inputtype.nextfiremode>
 <inputtype.previousfiremode>上一個射擊模式</inputtype.previousfiremode>
@@ -914,8 +912,6 @@
 <campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰，或許會你會想在繼續進行戰役前切換啟用相應的內容套件。</campaignmode.contentpackagemismatchwarning>
 <campaignmode.incompatiblesave>該存檔於當前遊戲版本不相容。</campaignmode.incompatiblesave>
 <campaignmode.savenotreceived>正在從伺服器獲取遊戲存檔，請稍後...</campaignmode.savenotreceived>
-<campaignmode.incompatiblesave>該存檔於當前遊戲版本不相容。</campaignmode.incompatiblesave>
-<campaignmode.savenotreceived>正在從伺服器獲取遊戲存檔，請稍後...</campaignmode.savenotreceived>
 <undefinedsubmarineclasswarning>戰役中無法選擇尚未定義類型的潛艇！\n\n你確定要在未定義潛艇類型的狀態下儲存潛艇嗎？</undefinedsubmarineclasswarning>
 <undefinedsubmarineselected>未定義種類的潛艇無法在戰役中使用！</undefinedsubmarineselected>
 <nohashsubmarineselected>這艘潛艇缺少有效的hash值；你可能需要等待它從伺服器下載完成！</nohashsubmarineselected>
@@ -1043,8 +1039,8 @@
 <lockedpathtooltipcoalitionreputation>這條通道已被封鎖，你需要歐羅巴聯盟對於你的看法達到[requiredreputation]，還要獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipcoalitionreputation>
 <lockedpathreputationrequirement>需要[reputation]聲望以前往[biomename]</lockedpathreputationrequirement>
 <pathunlockedgeneric>通往下一個區域的通道已被開啟。</pathunlockedgeneric>
-<respawnquestionprompt>你想要帶著技能和生命值懲罰重生或等到下一回合並以新角色加入遊戲？</respawnquestionprompt>
-<respawnquestionpromptrespawn>帶著懲罰重生</respawnquestionpromptrespawn>
+<respawnquestionprompt>你想要帶著「死神之稅」受到技能和生命值懲罰立刻重生，或等到下一回合再加入遊戲？</respawnquestionprompt><!--SOURCE TEXT CHANGE CHECK-->
+<respawnquestionpromptrespawn>帶著「死神之稅」重生</respawnquestionpromptrespawn><!--SOURCE TEXT CHANGE CHECK-->
 <respawnquestionpromptwait>我可以等</respawnquestionpromptwait>
 <respawnwaiting>玩家將在[time]後重生</respawnwaiting>
 <respawnwaitingformoredeadplayers>等待重生... (正在等待重生的玩家: [deadplayers]/[requireddeadplayers])</respawnwaitingformoredeadplayers>
@@ -1077,7 +1073,7 @@
 <serverlistnosteamqueryresponse>由於伺服器沒有回應，因此無法判斷你與伺服器的相容性。原因可能是伺服器已經關閉或者主持人並未轉發查詢埠，但你依舊可以嘗試與伺服器連接。</serverlistnosteamqueryresponse>
 <serverlistunknowncontentpackage>無法判斷相容性 (未知的內容套件)</serverlistunknowncontentpackage>
 <serverlistincompatibleversion>你的遊戲版本與伺服器不相容 (需要[version]版本)</serverlistincompatibleversion>
-<serverlistincompatiblecontentpackage>加入伺服器需要內容套件'[contentpackage]' (MD5: [hash])</serverlistincompatiblecontentpackage>
+<serverlistincompatiblecontentpackage>進入此伺服器需要內容套件'[contentpackage]' (MD5: [hash])。進入時你將會系統會提示您下載所有缺失的內容套件。</serverlistincompatiblecontentpackage><!--SOURCE TEXT CHANGE CHECK-->
 <serverlistcontentpackagenotenabled>你需要在設定中啟用 '[contentpackage]' 內容套件以加入這個伺服器</serverlistcontentpackagenotenabled>
 <serverlistincompatiblecontentpackageworkshopavailable>這個伺服器需要 '[contentpackage]' 內容套件。當你加入這個伺服器，系統會提示您訂閱Steam工作坊上所有必要的項目。</serverlistincompatiblecontentpackageworkshopavailable>
 <serverlistsubscribemissingpackages>自Steam工作坊訂閱缺少的內容套件</serverlistsubscribemissingpackages>
@@ -1202,12 +1198,12 @@
 <rank>Rank</rank>
 <customrank>自訂</customrank>
 <permissions>權限</permissions>
-<kick>踢除</kick>
-<votetokick>投票踢除</votetokick>
+<kick>踢出</kick>
+<votetokick>投票踢出</votetokick>
 <ban>封鎖</ban>
 <banrange>管理封鎖</banrange>
 <banreasonprompt>封鎖原因？</banreasonprompt>
-<kickreasonprompt>踢除原因？</kickreasonprompt>
+<kickreasonprompt>踢出原因？</kickreasonprompt>
 <privatemessagetag>[PM]</privatemessagetag>
 <subnotfounderror>伺服器選擇了潛艇[subname]，無法在你的submarine資料夾中找到對應的檔案。</subnotfounderror>
 <subloaderror>無法載入潛艇 [subname]，檔案可能已經損毀。</subloaderror>
@@ -1288,8 +1284,6 @@
 <servertag.voip.false>停用</servertag.voip.false>
 <servertag.karma.true>啟用</servertag.karma.true>
 <servertag.karma.false>停用</servertag.karma.false>
-<servertag.traitors.true>啟用</servertag.traitors.true>
-<servertag.traitors.false>停用</servertag.traitors.false>
 <friendplayingbarotrauma>正在玩潛淵症</friendplayingbarotrauma>
 <friendplayinganothergame>正在玩其他遊戲</friendplayinganothergame>
 <friendnotplaying>不在遊戲中</friendnotplaying>
@@ -1308,7 +1302,7 @@
 <pausemenureturntoserverlobbyverification>你確定要返回伺服器大廳嗎？你將遺失所有未保存的進度。</pausemenureturntoserverlobbyverification>
 <purchasablesubmarines>可購買的潛艇</purchasablesubmarines>
 <teampreference.team1>聯盟勢力</teampreference.team1>
-<teampreference.team2>抵抗勢力</teampreference.team2>
+<teampreference.team2>分離勢力</teampreference.team2><!--SOURCE TEXT CHANGE CHECK-->
 <teampreference.nopreference>隨機</teampreference.nopreference>
 <waitforsubmarinehashcalculations>伺服器將在計算潛艇hashes後啟動 (用於確認各與用戶端之間的相容性)。如果這項提示頻繁出現，請試著將一些自訂潛艇移除。</waitforsubmarinehashcalculations>
 <disconnectmessage.mismatchedworkshopmod>下列內容套件與伺服器不符: [incompatiblecontentpackage]。你或伺服器主持人或許需要自遊戲中的Steam工作坊選單將其重新安裝。</disconnectmessage.mismatchedworkshopmod>
@@ -1398,9 +1392,9 @@
 
 <!-- Permission presets -->
 <permissionpresetname.admin>Admin</permissionpresetname.admin>
-<permissionpresetdescription.admin>允許封鎖與踢除玩家、管理回合設定、訪問伺服器日誌、與使用大部分控制台指令。</permissionpresetdescription.admin>
+<permissionpresetdescription.admin>允許封鎖與踢出玩家、管理回合設定、訪問伺服器日誌、與使用大部分控制台指令。</permissionpresetdescription.admin>
 <permissionpresetname.moderator>Moderator</permissionpresetname.moderator>
-<permissionpresetdescription.moderator>允許管理回合設定、踢除玩家、與訪問伺服器日誌。</permissionpresetdescription.moderator>
+<permissionpresetdescription.moderator>允許管理回合設定、踢出玩家、與訪問伺服器日誌。</permissionpresetdescription.moderator>
 <permissionpresetname.none>None</permissionpresetname.none>
 <permissionpresetdescription.none>無特殊權限。</permissionpresetdescription.none>
 
@@ -1521,7 +1515,7 @@
 <missiondescription.personneltransport>有人員需要迅速前往[location2]，如果你能毫髮無傷地將他們送達，他們將支付你[reward]馬克。</missiondescription.personneltransport>
 <missionsuccess.personneltransport>人員已被成功送達。</missionsuccess.personneltransport>
 <missionname.prospect>探勘</missionname.prospect>
-<missiondescription.prospect>挖礦團隊想要在你確認[location1]與[location2]之間還有足夠礦脈之後開採[resourcename]，要是你能找到[quantity]個單位的量他們將會支付你[reward]馬克也能讓留下找到的東西。</missiondescription.prospect>
+<missiondescription.prospect>挖礦團隊想要在你確認[location1]與[location2]之間還有足夠礦脈之後開採[resourcename1]，要是你能找到[resourcequantity1]個單位的量他們將會支付你[reward]馬克，並讓你留下所找到的[handoverpercentage]！</missiondescription.prospect><!--SOURCE TEXT CHANGE CHECK-->
 <missionsuccess.prospect>已成功對該資源完成探勘，駕駛潛艇離開這裡以領取獎勵。</missionsuccess.prospect>
 <missionname.cargomedemergency>運送醫療物品</missionname.cargomedemergency>
 <missiondescription.cargomedemergency>一位在[location2]的船員讓自己陷入了嚴重的窒死劑中毒，如果你能盡速送達這項物品，他們或許還撐得過去...你將會收到[reward]馬克的運費。</missiondescription.cargomedemergency>
@@ -1625,7 +1619,6 @@
 <missiontypedescription.abandonedoutpost>消滅佔領了廢棄哨站的兇猛生物、不法分子、或從中營救人質。</missiontypedescription.abandonedoutpost>
 <missiontypedescription.clearalienruins>清除異星遺蹟中的守衛者。</missiontypedescription.clearalienruins>
 <missiontypedescription.escort>在哨站之間運送人員並同時確保他們的安全。</missiontypedescription.escort>
-<missiontypedescription.pirate>找到海盜的船艦並將它的船員與其一同殲滅。</missiontypedescription.pirate>
 <missiontypedescription.scanalienruins>在異星遺跡中放置掃描器以收集它們的數據。</missiontypedescription.scanalienruins>
 <missiontypedescription.pirate>找到海盜的船艦並將它的船員與其一同殲滅。</missiontypedescription.pirate>
 <missionname.crawlernest>清除爬行者巢穴</missionname.crawlernest>
@@ -1824,7 +1817,7 @@
 <missioncompleted>任務完成</missioncompleted>
 <missionunlocked>已解鎖任務: [missionname]</missionunlocked>
 <beaconstationsonarlabel>信號站</beaconstationsonarlabel>
-<sonarmineralscanner>礦物掃描器</sonarmineralscanner>
+<sonarmineralscanner>礦物偵測器</sonarmineralscanner>
 <missions>任務</missions>
 <missionsonarlabel.target>目標</missionsonarlabel.target>
 <missionsonarlabel.nest>巢穴</missionsonarlabel.nest>
@@ -1832,8 +1825,6 @@
 <beaconstationactivetooltip>這條航線上有一座運作中的‖color:gui.orange‖信號站‖end‖，它能幫助人們往其他地區拓展。</beaconstationactivetooltip>
 <beaconstationinactivetooltip>這條航線上有一座停止運作的‖color:gui.orange‖信號站‖end‖，重新將它啟動幫助人們往其他地區拓展。</beaconstationinactivetooltip>
 <huntinggroundstooltip>有一隻深淵生物將這條航線通過的區域當成了自己的‖color:gui.orange‖狩獵區域‖end‖。在牠被消滅之前，鄰近地區將不會有新的哨站被設置，而現存的哨站則有可能被拋棄。</huntinggroundstooltip>
-<lockedpathreputationrequirement>需要[reputation]聲望以前往[biomename]</lockedpathreputationrequirement>
-<pathunlockedgeneric>通往下一個區域的通道已被開啟。</pathunlockedgeneric>
 <enteremptylocation>選擇一個目的地並離開此處</enteremptylocation>
 <undockingdisabledbymission>你無法在完成任務前自哨站分離。</undockingdisabledbymission>
 <hostagesdiscovered>已確認人質位置，你需要護送他們離開哨站。將他們的手銬移除並命令他們跟隨你。</hostagesdiscovered>
@@ -2005,7 +1996,7 @@
 <entityname.divingmask>潛水面罩</entityname.divingmask>
 <entitydescription.divingmask>小巧輕便、能被隨身攜帶以防萬一，但它並沒有辦法在船體破裂時為你抵禦艙外的壓力。</entitydescription.divingmask>
 <entityname.divingsuit>潛水服</entityname.divingsuit>
-<entitydescription.divingsuit>能夠承受歐羅巴表殼之下的龐大水壓的加壓潛水服，只在4,000公尺以上有效──更深的區域則需要使用深淵潛水服或戰鬥潛水服。</entitydescription.divingsuit>
+<entitydescription.divingsuit>能夠承受歐羅巴表殼之下的龐大水壓的加壓潛水服，只在4,000公尺以上有效──於更深的區域則必須使用「深淵潛水服」或「戰鬥潛水服」。</entitydescription.divingsuit><!--SOURCE TEXT CHANGE CHECK-->
 <entityname.underwaterscooter>水下推進器</entityname.underwaterscooter>
 <entitydescription.underwaterscooter>一具使用乾電池的水下推進器。</entitydescription.underwaterscooter>
 <entityname.antibleeding1>繃帶</entityname.antibleeding1>
@@ -2432,7 +2423,6 @@
 <entityname.brownwire>棕色電線</entityname.brownwire>
 <entitydescription.brownwire>將一項設備的output連接到另一項設備的input。</entitydescription.brownwire>
 <entityname.lightcomponent>燈光元件</entityname.lightcomponent>
-<lightcomponent.lightcolor>Color</lightcomponent.lightcolor>
 <entitydescription.lightcomponent>通用光源，不需要輸入電源。</entitydescription.lightcomponent>
 <entityname.emergencysiren>緊急警報器</entityname.emergencysiren>
 <entitydescription.emergencysiren>能在觸發時發出可怕的噪音。</entitydescription.emergencysiren>
@@ -3166,7 +3156,7 @@
 <label.dockingports>對接艙口</label.dockingports>
 <label.oxygenlevels>氧氣</label.oxygenlevels>
 <label.dronedoor>請在嘗試分離無人機前確保艙門已經關上</label.dronedoor>
-<label.deliveryservice>潛艇運送服務</label.deliveryservice>
+<label.deliveryservice>潛艇替換終端</label.deliveryservice><!--SOURCE TEXT CHANGE CHECK-->
 <label.storage>儲物間</label.storage>
 <label.repellant>入侵者驅趕劑</label.repellant>
 <label.emergencylights>緊急照明</label.emergencylights>
@@ -3269,7 +3259,7 @@
 <reloadlinkedsuberror>找不到 [file] 潛艇檔案！</reloadlinkedsuberror>
 
 <!-- Chat -->
-<spamfilterkicked>你被垃圾訊息篩選器踢除了。</spamfilterkicked>
+<spamfilterkicked>你被垃圾訊息篩選器踢出了。</spamfilterkicked>
 <spamfilterblocked>你被垃圾訊息篩選器阻擋了。請在10秒後重試。</spamfilterblocked>
 <chat.shownewmessages>顯示新訊息</chat.shownewmessages>
 <chat>交談</chat>
@@ -3400,7 +3390,7 @@
 <!-- Health interface -->
 <vitality>生命跡象</vitality>
 <suitabletreatments>合適治療方式:</suitabletreatments>
-<healthitemusetip>將物品拖曳至所選的部位來使用。你也能以物品欄按鍵或者以滑鼠雙擊使用。</healthitemusetip>
+<healthitemusetip>將物品拖曳至目標身體部位使用。你也能以物品欄按鍵或以滑鼠雙擊使用。</healthitemusetip><!--SOURCE TEXT CHANGE CHECK-->
 <afflictionstrengthlow>輕微</afflictionstrengthlow>
 <afflictionstrengthmedium>中等</afflictionstrengthmedium>
 <afflictionstrengthhigh>嚴重</afflictionstrengthhigh>
@@ -4133,8 +4123,6 @@
 <afflictioncauseofdeathself.reaperstax>死神收走了祂的稅。</afflictioncauseofdeathself.reaperstax>
 <afflictionname.concussion>腦震盪</afflictionname.concussion>
 <afflictiondescription.concussion>患者似乎迷失方向且雙眼無法對焦。</afflictiondescription.concussion>
-<afflictionname.concussion>腦震盪</afflictionname.concussion>
-<afflictiondescription.concussion>患者似乎迷失方向且雙眼無法對焦。</afflictiondescription.concussion>
 <afflictionname.disguised>已偽裝</afflictionname.disguised>
 <afflictiondescription.disguised>只要你遮好你的臉，其他人大概會認不出你是誰...</afflictiondescription.disguised>
 <afflictiondescription.hallucinating>你的感覺變得有些奇怪。</afflictiondescription.hallucinating>
@@ -4663,8 +4651,8 @@
 <karmabanwarning>警告: 你的卡瑪非常低，你將會被伺服器封鎖如果他繼續降低。</karmabanwarning>
 <karmabanned>你因為卡瑪低於[banthreshold]而被伺服器封鎖。</karmabanned>
 <karmajobdisallowed>你因為卡瑪過低而不被允許選擇該職業 ([yourkarma]/[minkarma])。</karmajobdisallowed>
-<karma.kickbanthreshold>踢除/封鎖臨界值</karma.kickbanthreshold>
-<karma.kickbanthresholdtooltip>低於這個卡瑪值的玩家將會被伺服器自動踢除或/和封鎖 (根據下方其它的踢除/封鎖設定)。</karma.kickbanthresholdtooltip>
+<karma.kickbanthreshold>踢出/封鎖臨界值</karma.kickbanthreshold>
+<karma.kickbanthresholdtooltip>低於這個卡瑪值的玩家將會被伺服器自動踢出或/和封鎖 (根據下方其它的踢出/封鎖設定)。</karma.kickbanthresholdtooltip>
 <karma.karmadecay>卡瑪減少速度</karma.karmadecay>
 <karma.karmadecaytooltip>當卡瑪高於臨界值時每秒減少的量。</karma.karmadecaytooltip>
 <karma.karmadecaythreshold>卡瑪降低臨界值</karma.karmadecaythreshold>
@@ -4712,7 +4700,7 @@
 <afflictiondescription.invertcontrols>患者的目光四處飄移且似乎無法順利地在環境中移動。</afflictiondescription.invertcontrols>
 <karmakicked>你因為卡瑪低於[banthreshold]而被伺服器踢出。</karmakicked>
 <karma.kicksbeforeban>在被踢出多少次數後封鎖</karma.kicksbeforeban>
-<karma.kicksbeforebantooltip>當玩家被踢出的次數到達這個數值時，他們會在下一次卡瑪低於踢除/封鎖臨界值之後遭到封鎖。若數值為 0 則玩家將在卡瑪到達臨界值時值時立刻被封鎖。</karma.kicksbeforebantooltip>
+<karma.kicksbeforebantooltip>當玩家被踢出的次數到達這個數值時，他們會在下一次卡瑪低於踢出/封鎖臨界值之後遭到封鎖。若數值為 0 則玩家將在卡瑪到達臨界值時值時立刻被封鎖。</karma.kicksbeforebantooltip>
 <karma.resetkarmabetweenrounds>在回合之間重置卡瑪</karma.resetkarmabetweenrounds>
 <karma.stunfriendlykarmadecrease>將隊友擊暈</karma.stunfriendlykarmadecrease>
 <karma.stunfriendlykarmadecreasetooltip>當擊暈隊友時卡瑪將依昏厥時間所減少的值。</karma.stunfriendlykarmadecreasetooltip>
@@ -4809,8 +4797,6 @@
 <connection.setfissionrate>set_fissionrate</connection.setfissionrate>
 <connection.setturbineoutput>set_turbineoutput</connection.setturbineoutput>
 <connection.setchannel>set_channel</connection.setchannel>
-<connection.powervalueout>power_value_out</connection.powervalueout>
-<connection.loadvalueout>load_value_out</connection.loadvalueout>
 <connection.availablefuelout>fuel_out</connection.availablefuelout>
 <connection.setlight>set_light</connection.setlight>
 <connection.waterpercentageout>water_%</connection.waterpercentageout>
@@ -5176,7 +5162,7 @@
 <eventtext.miketheidiot2.o1.o1.o2.c1>「喔、他們？被淘汰了。有些生物就是比較適合生存。」他捲起他的袖子秀出一個粗糙的刺青，上面寫著:「我穿著靴子做愛。」他繼續說到:「更猛、更快、更動人，只有那些最強大的存在才能待在頂端。」一個路過的人往地上丟了一個汽水罐，Mike彎腰將它撿起，「正是我們，頂級獵食者。」他邊說邊把罐子丟進垃圾桶。</eventtext.miketheidiot2.o1.o1.o2.c1>
 <eventtext.miketheidiot2.o1.o1.o2.o1>有道理。</eventtext.miketheidiot2.o1.o1.o2.o1>
 <eventtext.miketheidiot2.o1.o1.o3>「為什麼有人要在把別人丟出氣閘之前又先開槍把他打死？」</eventtext.miketheidiot2.o1.o1.o3>
-<eventtext.miketheidiot2.o1.o1.o3.c1>「那都是計畫的一部分，」Mike若有所思，「那是一種信號。你得展現威勢，否則你不會受到尊敬。」他起身繼續清理地上的嘔吐物，「那是在潛艇上生存的方法，跟在監獄裡差不多。」「你蹲過苦窯？」你問。「喔，我去過的地方可多了。我告訴你，為了受到敬重人們什麼都會做...我到現在都還沒辦法挺直身軀走路。」</eventtext.miketheidiot2.o1.o1.o3.c1>
+<eventtext.miketheidiot2.o1.o1.o3.c1>「那都是計畫的一部分。」Mike若有所思，「那是一種信號。你得展現威勢，否則你不會受到尊敬。」他起身繼續清理地上的嘔吐物，「那是在潛艇上生存的方法，跟在監獄裡差不多。」「你蹲過苦窯？」你問。「喔，我去過的地方可多了。我告訴你，為了受到敬重人們什麼都會做...我到現在都還沒辦法挺直身軀走路。」</eventtext.miketheidiot2.o1.o1.o3.c1>
 <eventtext.miketheidiot2.o1.o1.o3.o1>你覺得你知道得太多了。</eventtext.miketheidiot2.o1.o1.o3.o1>
 <eventtext.miketheidiot2.o1.o2>假裝你正在跟對講機講話。</eventtext.miketheidiot2.o1.o2>
 <eventtext.miketheidiot2.o2>溜走。</eventtext.miketheidiot2.o2>
@@ -5494,7 +5480,7 @@
 <eventtext.assassinationofjacovsubra4.o1>「放棄吧Jacov！跟我走！」</eventtext.assassinationofjacovsubra4.o1>
 <eventtext.assassinationofjacovsubra4.o1.c1>「我哪裡也不去！我是無辜的！你看，我可以付錢給你！」</eventtext.assassinationofjacovsubra4.o1.c1>
 <eventtext.assassinationofjacovsubra4.o1.o1>「去跟法官說吧！」</eventtext.assassinationofjacovsubra4.o1.o1>
-<eventtext.assassinationofjacovsubra4.o1.o1.c1>「我早就去和他聊過天了，」Jacov露出不懷好意的微笑，「你憑什麼覺得我不會再逃一次？」</eventtext.assassinationofjacovsubra4.o1.o1.c1>
+<eventtext.assassinationofjacovsubra4.o1.o1.c1>「我早就去和他聊過天了。」Jacov露出不懷好意的微笑，「你憑什麼覺得我不會再逃一次？」</eventtext.assassinationofjacovsubra4.o1.o1.c1>
 <eventtext.assassinationofjacovsubra4.o1.o1.o1>「那不是我的問題。」</eventtext.assassinationofjacovsubra4.o1.o1.o1>
 <eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>「我看得出來你根本不在乎我做了什麼，給你1,000馬克，你讓我離開這裡，怎麼樣？」</eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>
 <eventtext.assassinationofjacovsubra4.deal>「成交。」</eventtext.assassinationofjacovsubra4.deal>
@@ -5533,28 +5519,28 @@
 <eventtext.infiltration.o2>「別和我說話，你這個小丑黑特。」</eventtext.infiltration.o2>
 <eventtext.badvibrations1.c1>你被一聲玻璃破裂的聲響嚇得跳了起來，有人靠在牆上，她的腳上插著玻璃碎片。那看起來或許是她本來應該拿在手上的蘭姆酒瓶。她的口中喃喃自語。</eventtext.badvibrations1.c1>
 <eventtext.badvibrations1.o1>「妳還好嗎？」</eventtext.badvibrations1.o1>
-<eventtext.badvibrations1.o1.c1>她沒有回話。你注意到她不斷重複著一句話，「感覺真糟，太糟糕了。」口水從她的嘴角流下滴到了她的外套上。</eventtext.badvibrations1.o1.c1>
+<eventtext.badvibrations1.o1.c1>她沒有回話。你注意到她不斷重複著一句話，「節奏真爛，超爛。」口水從她的嘴角流下滴到了她的外套上。</eventtext.badvibrations1.o1.c1><!--NEED EDIT-->
 <eventtext.badvibrations1.o1.o1>試著幫她。</eventtext.badvibrations1.o1.o1>
-<eventtext.badvibrations1.o1.o1.c1>你正在思索這個人的精神狀態，突然她轉身並抓住了你的領子，「感覺真糟，你懂嗎？」她突然意識到你是一艘潛艇船員，「你能幫我。」她說，「我們找到了一件文物，啟動了它，在建築物裡，深處。」她突然放開了你。</eventtext.badvibrations1.o1.o1.c1>
+<eventtext.badvibrations1.o1.o1.c1>你正在思索這個人的精神狀態，突然她轉身並抓住了你的領子，「這個節奏糟透了，你聽到了嗎？」她突然意識到你是一艘潛艇船員，「你能幫我。」她說，「我們找到了一件文物，啟動了它，在建築裡，深處。」她突然放開了你。</eventtext.badvibrations1.o1.o1.c1><!--NEED EDIT-->
 <eventtext.badvibrations1.o1.o1.o1>「你在胡言亂語。」</eventtext.badvibrations1.o1.o1.o1>
 <eventtext.badvibrations1.o1.o1.o1.c1>那股瘋狂似乎壓制了她的思維，「我是第一名！我就知道！我拿到獎盃了！」</eventtext.badvibrations1.o1.o1.o1.c1>
 <eventtext.badvibrations1.stepback>退後一步。</eventtext.badvibrations1.stepback>
-<eventtext.badvibrations1.raving>你很在意她剛剛說的那些話，在建築之中的文物？是指異星遺蹟嗎？你將這些話記錄下來等你有時間時候去查查。</eventtext.badvibrations1.raving>
+<eventtext.badvibrations1.raving>你很在意她剛剛說的那些話，在建築之中的文物？是指異星遺蹟嗎？你將這些話記錄下來等你有時間再去查查。</eventtext.badvibrations1.raving>
 <eventtext.badvibrations1.notmyproblem>不關我的事。</eventtext.badvibrations1.notmyproblem>
 <eventtext.badvibrations2.c1>觸摸文物的的蝕刻表面使你的腦袋深處微微發癢。</eventtext.badvibrations2.c1>
 <eventtext.badvibrations2.o1>丟下文物。</eventtext.badvibrations2.o1>
-<eventtext.badvibrations2.o1.c1>不知為何，你發現你很難丟下它，它繼續被你拿在手中。你腦袋中的癢處漸漸的增強為一股微微的振動。</eventtext.badvibrations2.o1.c1>
+<eventtext.badvibrations2.o1.c1>不知為何，你發現你很難鬆手，它繼續被你拿在手中。你腦袋中的癢處漸漸的增強為一下又一下的微微振動。</eventtext.badvibrations2.o1.c1><!--NEED EDIT-->
 <eventtext.badvibrations2.o1.o1>將文物丟下。</eventtext.badvibrations2.o1.o1>
-<eventtext.badvibrations2.o1.o1.c1>你好像忘了怎麼用你的手臂似的，你的腦袋中有一股溫暖而麻木的難受感覺，你似乎越來越難集中注意力。</eventtext.badvibrations2.o1.o1.c1>
+<eventtext.badvibrations2.o1.o1.c1>你好像忘了怎麼使用你的手臂似的，你的腦袋中有一股溫暖而麻木的難受感覺，你似乎越來越難集中注意力。</eventtext.badvibrations2.o1.o1.c1>
 <eventtext.badvibrations2.o1.o1.o1>睡覺。</eventtext.badvibrations2.o1.o1.o1>
 <eventtext.badvibrations2.o1.o1.o1.c1>你闔上雙眼，這裡似乎是一個睡午覺的好地方，木星說這是你應得的，你陷入了無夢的睡眠。</eventtext.badvibrations2.o1.o1.o1.c1>
 <eventtext.badvibrations2.inspect>仔細的檢查文物。</eventtext.badvibrations2.inspect>
 <eventtext.badvibrations2.protrusion>當你的手掠過它的表面時碰到了一個凸起。剎那間，所有麻木的感覺都消退了，你的注意力又回到了身處的環境之中。該是時候把文物送到一個能安全保存它的地方了。</eventtext.badvibrations2.protrusion>
-<eventtext.badvibrations3.c1>有人想引起你的注意，「嘿！我找了你好一陣子了。」她看起來有點眼熟，「你不記得我了，對吧？」</eventtext.badvibrations3.c1>
-<eventtext.badvibrations3.o1>「喔對，妳是那個、呃、一直覺得很糟的那個。」</eventtext.badvibrations3.o1>
-<eventtext.badvibrations3.gotbetter>「所以，我恢復正常，是因為你把它關掉了吧？」她雙手抱胸，「我想跟你說聲謝謝。」</eventtext.badvibrations3.gotbetter>
+<eventtext.badvibrations3.c1>有人想引起你的注意，「嘿！我找你找好一陣子了。」她看起來有點眼熟，「你不記得我了，對吧？」</eventtext.badvibrations3.c1>
+<eventtext.badvibrations3.o1>「喔對，妳是那個、呃、一直覺得節奏很爛的那個。」</eventtext.badvibrations3.o1><!--NEED EDIT-->
+<eventtext.badvibrations3.gotbetter>「所以，我恢復正常是因為你把它關掉了吧？」她雙手抱胸，「我想跟你說聲謝謝。」</eventtext.badvibrations3.gotbetter>
 <eventtext.badvibrations3.welcome>「不客氣。」</eventtext.badvibrations3.welcome>
-<eventtext.badvibrations3.anotherthing>「還有一件事，因為我之前...我之前感覺不太舒服，我被我之前的隊伍踢掉了，所以我在想能不能加入你們？我對電氣和機械設備都很拿手。」沒有受到糟糕感覺影響的她現在看起來精明能幹。</eventtext.badvibrations3.anotherthing>
+<eventtext.badvibrations3.anotherthing>「還有一件事，因為我之前...我之前感覺不太舒服，我被我之前的隊伍踢掉了，所以我在想能不能加入你們？我對電氣和機械設備都很拿手。」沒有受到爛節奏干擾的她現在看起來精明能幹。</eventtext.badvibrations3.anotherthing><!--NEED EDIT-->
 <eventtext.badvibrations3.merrier>「當然，人多力量大。」</eventtext.badvibrations3.merrier>
 <eventtext.badvibrations3.seeyouonboard>「太好了，我們船上見。」</eventtext.badvibrations3.seeyouonboard>
 <eventtext.badvibrations3.full>「抱歉，我們現在不缺人。」</eventtext.badvibrations3.full>
@@ -5617,7 +5603,7 @@
 <eventtext.terrorism101.abomb>「一顆炸彈？」</eventtext.terrorism101.abomb>
 <eventtext.terrorism101.shh>「噓──！小聲點！」他發出噓聲，之後低聲地說，「對，一顆炸彈，但它的意義深遠，那是對我們的統治者不滿的象徵，我們必須推倒那些代表壓迫的紀念碑，像是這個東西。」他向自動販賣機吐了口口水，「但那些都還只是假想，因為我不知道要怎麼配線。」</eventtext.terrorism101.shh>
 <eventtext.terrorism101.help>「我能幫你。」</eventtext.terrorism101.help>
-<eventtext.terrorism101.novice>那位新手恐怖份子仔細地端詳了你好一陣子然後交給了你一坨電線，「我覺得我信任你，」他說。</eventtext.terrorism101.novice>
+<eventtext.terrorism101.novice>那位新手恐怖份子仔細地端詳了你好一陣子然後交給了你一坨電線，「我覺得我信任你。」他說。</eventtext.terrorism101.novice>
 <eventtext.terrorism101.armbomb>裝好炸彈。</eventtext.terrorism101.armbomb>
 <eventtext.terrorism101.bombarmed>只要引爆器接好，這顆炸彈就能進行引爆了。你將炸彈交給他，他給了你一些零錢並保證會幫你向他的分離主義朋友們說些好話。</eventtext.terrorism101.bombarmed>
 <eventtext.terrorism101.dismantlebomb>靜悄悄地解除炸彈。</eventtext.terrorism101.dismantlebomb>
@@ -5630,7 +5616,7 @@
 <eventtext.terrorism101.o1.o2.o2>「算了，我去叫守衛來。」</eventtext.terrorism101.o1.o2.o2>
 <eventtext.stuckinthemiddle.c1>這個哨站顯得很匆忙，許多工人正在在將物資送上潛艇。你看到有兩個人悄悄地在人群中與對方爭論，他們的手不斷地指向你。</eventtext.stuckinthemiddle.c1>
 <eventtext.stuckinthemiddle.o1>走近他們。</eventtext.stuckinthemiddle.o1>
-<eventtext.stuckinthemiddle.o1.c1>你一走近，那兩個人立刻安靜下來。近距離觀察之下，你可以看到他們的外套上繡著一塊無政府主義者的標誌，原來他們是木星分裂主義者。「你是你幫過我們的那個人嗎？」其中一個人問。</eventtext.stuckinthemiddle.o1.c1>
+<eventtext.stuckinthemiddle.o1.c1>你一走近，那兩個人立刻安靜下來。近距離觀察之下，你可以看到他們的外套上繡著一塊無政府主義者的標誌，原來他們是木星分裂主義者。「你是幫過我們的那個人嗎？」其中一個人問。</eventtext.stuckinthemiddle.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1>「是我。」</eventtext.stuckinthemiddle.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.c1>「你看到那些跑來跑去的人了吧？這裡有很多潛艇正在準備出航。」</eventtext.stuckinthemiddle.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1>「真好奇它們要去哪裡。」</eventtext.stuckinthemiddle.o1.o1.o1>
@@ -5688,8 +5674,8 @@
 <EventText.captivesouls.c1>一位路過的科學家抓住了你的手，「它活了！誰會想到它能活過來？」對方的眼睛睜得大大的，眼底的眼袋大到令人印象深刻。</EventText.captivesouls.c1>
 <EventText.captivesouls.o1>「你在說什麼？」</EventText.captivesouls.o1>
 <EventText.captivesouls.o1.c1>「我太專注於挑戰自己，但我沒有意識到我該不該這麼做。」對方來回踱步，每句話都對著不同的路人說著。當他發現沒有人把注意力放在他身上時，他把注意力放回你的身上。</EventText.captivesouls.o1.c1>
-<EventText.captivesouls.o1.o1.c1>「你沒在聽我說話嗎？」那個歇斯底里的研究人員吼道，口水噴在你的臉上。「一個人類和爬行者的混血種！哦，它太美了！不！醜死了！」他坐了下來，盤腿坐在地板上，「科學界將會怎麼看我？一位創造者？還是破壞者？」他自顧自地擺了擺姿勢，「或是...神？」</EventText.captivesouls.o1.o1.c1>
-<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家──他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈──你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是慢慢地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
+<EventText.captivesouls.o1.o1.c1>「你沒在聽我說話嗎？」那個歇斯底里的研究人員吼道，口水噴在你的臉上。「一個人類和爬行者的混血種！哦，它太美了！不！醜陋至極！」他坐了下來，盤腿坐在地板上，「科學界會怎麼看待我？一位創造者？還是破壞者？」他自顧自地擺了擺姿勢，「或是...神？」</EventText.captivesouls.o1.o1.c1>
+<EventText.captivesouls.o1.o1.o1.c1>你注視著這位科學家──他現在改在地板上蠕動、胡言亂語、嘻嘻哈哈──你有些慶幸你的工作通常會讓一個人的生命迅速而壯烈地結束，而不是緩緩地走向瘋狂。</EventText.captivesouls.o1.o1.o1.c1>
 <EventText.captivesouls.o1.o1.o1.o1.c1>說什麼培育出了人類和爬行者的混血種，這顯然只是胡思亂想，但是...你的內心想要一探究竟。也許你能到實驗室裡確認一下，不入虎穴焉得虎子，對吧？</EventText.captivesouls.o1.o1.o1.o1.c1>
 <EventText.captivesouls.c1.c1>一隻爬行者一動也不動地坐在水槽裡。</EventText.captivesouls.c1.c1>
 <EventText.captivesouls.c1.o1>靠近。</EventText.captivesouls.c1.o1>
@@ -5737,7 +5723,7 @@
 <EventText.occupationalhazards.o1.o1>「差不多。」</EventText.occupationalhazards.o1.o1>
 <EventText.occupationalhazards.o1.o1.c1>他笑了幾聲，「一看就知道，但你如果是想到礦坑裡去，還是算了吧。」他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1>「礦坑裡怎麼了？」</EventText.occupationalhazards.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.c1>「呃，」那位工人打了個嗝，然後繼續說:「我確定下面一個人也沒有，礦工再沒腦子也不會在繁殖季下去。」</EventText.occupationalhazards.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.c1>「呃。」那位工人打了個嗝，然後繼續說:「我敢說礦工都沒什麼腦子，但沒人會在繁殖季到下面去。」</EventText.occupationalhazards.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1>「繁殖季？」</EventText.occupationalhazards.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人發出了一聲嘟噥回應你的話。「但是老闆說『挖』你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。」</EventText.occupationalhazards.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1>「你挖到什麼了？」</EventText.occupationalhazards.o1.o1.o1.o1.o1>
@@ -5745,7 +5731,7 @@
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>「蛋？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>「泥偶迅猛龍蛋。現在礦坑裡滿滿都是生氣的迅猛龍家長。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>「那，如果把牠們趕走會有獎勵嗎？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他在也在礦坑裡，」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還有一部分還在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他在也在礦坑裡。」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還剩一部分在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>起身離開。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>你向他道別，讓他享受自己的寧靜。你思考著自己是否能在礦坑中找到Rudy的屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你發現了一具穿著礦工服裝的殘破屍體，名牌上寫著「Rudy」。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
@@ -5770,7 +5756,7 @@
 <EventText.hognose.o1.o1.o2>「算了吧。」</EventText.hognose.o1.o1.o2>
 <EventText.hognose.o1.o2>逃跑。</EventText.hognose.o1.o2>
 <EventText.hognose.o2>離他遠點。</EventText.hognose.o2>
-<EventText.nothingtoseehere.c1>一位年邁的女性向你揮手，「你可以好心幫我把這個拿去丟嗎？?」她問著，並交給你一堆垃圾。</EventText.nothingtoseehere.c1>
+<EventText.nothingtoseehere.c1>一位年邁的女性向你揮手，「你可以好心幫我把這個拿去丟嗎？」她問著，並交給你一堆垃圾。</EventText.nothingtoseehere.c1>
 <EventText.nothingtoseehere.o1>照做。</EventText.nothingtoseehere.o1>
 <EventText.nothingtoseehere.o1.c1>你很高興你終於擺脫了那老太婆交給你的垃圾。在你扔下你那些臭氣熏天的貨物時，你瞥見了垃圾中有一根人類手指。</EventText.nothingtoseehere.o1.c1>
 <EventText.nothingtoseehere.o1.o1>進一步調查。</EventText.nothingtoseehere.o1.o1>
@@ -5778,11 +5764,11 @@
 <EventText.nothingtoseehere.o1.o1.o1.c1>在垃圾與屍體的氣味中，你忍著不吐出來，把名牌扯了下來。或許哪個守衛會對這個東西有興趣？</EventText.nothingtoseehere.o1.o1.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.c1>「有什麼我幫得上忙的嗎？」</EventText.nothingtoseehere.o1.o1.o1.c1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1>「我想回報發現一具屍體。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>你向守衛秀出那張名牌並解釋一切的來龍去脈。對方抓了抓頭，嘆了一口氣，「聽好，我當守衛已經十五年了，如果Irma漢堡店的主廚被做掉了，那大概只是一時興起、是因為和誰發生了什麼爭執才會發生，」他解釋，「那樣的話兇手會報抓，正義會被執行。」他看看四周，附近沒人在聽，但他用悄悄話的方式繼續說:「但是一個記者在垃圾桶裡被發現、名字還被劃掉？你得裝作沒看見。繼續追下去不會有好結果。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>你向守衛秀出那張名牌並解釋一切的來龍去脈。對方抓了抓頭，嘆了一口氣，「聽好，我當守衛已經十五年了，如果Irma漢堡店的主廚被做掉了，那大概只是一時興起、是因為和誰發生了什麼爭執才會發生。」他解釋，「那樣的話兇手會被抓，正義會被執行。」他看看四周，附近沒人在聽，但他用悄悄話的方式繼續說：「但是一個記者在垃圾桶裡被發現、名字還被劃掉？你得裝作沒看見。繼續追下去不會有好結果。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>「知道了。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>那名守衛提高了他的音量，「謝謝你的報案，好市民。500馬克已經轉交至你的帳戶裡了。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>繼續追問。</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>與守衛的期待相反，你要他們解釋清楚。「我需要一個字一個字唸給你聽嗎？記者會去調查-」有人從你們身旁經過，警衛話說到一半停了下來，等他們離去才又繼續:「重點是他們會刊出調查解果，但顯然有人不希望出現在文章裡。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>與守衛的期待相反，你要他們解釋清楚。「我需要一個字一個字唸給你聽嗎？記者會去調查-」有人從你們身旁經過，警衛話說到一半停了下來，等他們離去才又繼續：「重點是他們會刊出調查解果，但顯然有人不希望出現在報導裡。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>「你是指聯盟的人？」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>那名守衛翻了下白眼，「你終於懂了，回報發現屍體能拿到一筆獎勵，我勸你拿好，去買些鴉片來吸，或者弄些什麼你們在潛艇上工作的人喜歡的東西然後忘掉你看見的一切。那具屍體由我來處理。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o2>不去深究。</EventText.nothingtoseehere.o1.o1.o1.c1.o2>
@@ -5801,52 +5787,52 @@
 <upgradecategory.reactors>反應爐</upgradecategory.reactors>
 <upgradecategory.monitors>監視器</upgradecategory.monitors>
 <upgradecategory.oxygengenerators>製氧機</upgradecategory.oxygengenerators>
-<upgradename.increasewallhealth>更堅固的船體</upgradename.increasewallhealth>
-<upgradedescription.increasewallhealth>提升船體耐久度，使潛艇的牆壁更能承受損害並能下潛至更深的區域時不被壓碎。</upgradedescription.increasewallhealth>
+<upgradename.increasewallhealth>船體強化</upgradename.increasewallhealth><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.increasewallhealth>提升船體耐久度，使潛艇的牆壁更能承受損害並能在下潛至更深的區域時不被壓碎。</upgradedescription.increasewallhealth>
 <upgradename.increasedeteriorationdelay>提升耐久度</upgradename.increasedeteriorationdelay>
 <upgradedescription.increasedeteriorationdelay>設備自然劣化的速度更慢。</upgradedescription.increasedeteriorationdelay>
 <upgradename.decreasedeteriorationspeed>升級備用系統</upgradename.decreasedeteriorationspeed>
 <upgradedescription.decreasedeteriorationspeed>設備自然劣化的速度更慢。</upgradedescription.decreasedeteriorationspeed>
-<upgradename.decreaselowskillfixduration>更快速地維修</upgradename.decreaselowskillfixduration>
-<upgradedescription.decreaselowskillfixduration>降低設備未達維修等級要求時進行維修所花費的時間。</upgradedescription.decreaselowskillfixduration>
+<upgradename.decreaselowskillfixduration>模組化維修</upgradename.decreaselowskillfixduration><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.decreaselowskillfixduration>降低設備維修的等級要求與所花費的時間。</upgradedescription.decreaselowskillfixduration><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.decreaserequiredskilllevel>更簡單的維修</upgradename.decreaserequiredskilllevel>
 <upgradedescription.decreaserequiredskilllevel>降低設備的維修等級要求。</upgradedescription.decreaserequiredskilllevel>
 <upgradename.decreasepowerconsumption>能源效率</upgradename.decreasepowerconsumption>
 <upgradedescription.decreasepowerconsumption>降低電力消耗。</upgradedescription.decreasepowerconsumption>
 <upgradename.increasefabricationspeed>更快速地製造</upgradename.increasefabricationspeed>
-<upgradedescription.increasefabricationspeed>縮短製作物品的時間。</upgradedescription.increasefabricationspeed>
+<upgradedescription.increasefabricationspeed>縮短製作物品的時間，但使用更多電力。</upgradedescription.increasefabricationspeed><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.decreasefabricationskillrequirement>更簡單地製造</upgradename.decreasefabricationskillrequirement>
 <upgradedescription.decreasefabricationskillrequirement>降低製作物品的等級要求。</upgradedescription.decreasefabricationskillrequirement>
 <upgradename.decreasedeconstructiontime>更快速地解構</upgradename.decreasedeconstructiontime>
-<upgradedescription.decreasedeconstructiontime>縮短拆解物品的時間。</upgradedescription.decreasedeconstructiontime>
+<upgradedescription.decreasedeconstructiontime>縮短拆解物品的時間，且用電量稍稍提升。</upgradedescription.decreasedeconstructiontime><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.turretdecreasepowerconsumption>能源效率</upgradename.turretdecreasepowerconsumption>
 <upgradedescription.turretdecreasepowerconsumption>降低電力消耗。</upgradedescription.turretdecreasepowerconsumption>
 <upgradename.turretincreaserotationlowskill>更快的砲塔</upgradename.turretincreaserotationlowskill>
-<upgradedescription.turretincreaserotationlowskill>提升未達等級要求操作砲塔時的旋轉速度。</upgradedescription.turretincreaserotationlowskill>
+<upgradedescription.turretincreaserotationlowskill>提升所有砲塔在船員技能不足進行操作時的旋轉速度。</upgradedescription.turretincreaserotationlowskill><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.turretincreaseoffsetonselected>潛望鏡升級</upgradename.turretincreaseoffsetonselected>
 <upgradedescription.turretincreaseoffsetonselected>提升所有武器的視野範圍。</upgradedescription.turretincreaseoffsetonselected>
 <upgradename.increaseoxygengeneration>製氧機效率</upgradename.increaseoxygengeneration>
 <upgradedescription.increaseoxygengeneration>提升氧氣製造量。</upgradedescription.increaseoxygengeneration>
 <upgradename.increasereactoroutput>反應爐效率</upgradename.increasereactoroutput>
 <upgradedescription.increasereactoroutput>提升反應爐最高輸出功率。</upgradedescription.increasereactoroutput>
-<upgradename.decreasefuelconsumption>燃料效率</upgradename.decreasefuelconsumption>
-<upgradedescription.decreasefuelconsumption>降低燃料消耗速率。</upgradedescription.decreasefuelconsumption>
+<upgradename.decreasefuelconsumption>冷卻控制棒升級</upgradename.decreasefuelconsumption><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.decreasefuelconsumption>降低燃料消耗速率，並延長反應爐自臨界溫度到達熔毀前的時間。</upgradedescription.decreasefuelconsumption><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.increasemeltdowndelay>耐熱升級</upgradename.increasemeltdowndelay>
-<upgradedescription.increasemeltdowndelay>加長反應爐自臨界溫度到達熔毀前的時間。</upgradedescription.increasemeltdowndelay>
-<upgradename.increasemaxpumpflow>更快的抽水機</upgradename.increasemaxpumpflow>
-<upgradedescription.increasemaxpumpflow>提升將水打入、打出潛艇的最高速度。</upgradedescription.increasemaxpumpflow>
+<upgradedescription.increasemeltdowndelay>延長反應爐自臨界溫度到達熔毀前的時間。</upgradedescription.increasemeltdowndelay>
+<upgradename.increasemaxpumpflow>抽水機效率</upgradename.increasemaxpumpflow><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.increasemaxpumpflow>提升將水打入、打出潛艇的最高速度，並降低水機的用電量。</upgradedescription.increasemaxpumpflow><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.increaseenginemaxforce>引擎出力</upgradename.increaseenginemaxforce>
 <upgradedescription.increaseenginemaxforce>提升最高速度。</upgradedescription.increaseenginemaxforce>
-<upgradename.increasebatterycapacity>容量升級</upgradename.increasebatterycapacity>
+<upgradename.increasebatterycapacity>蓄電池容量升級</upgradename.increasebatterycapacity><!--SOURCE TEXT CHANGE CHECK-->
 <upgradedescription.increasebatterycapacity>提升蓄電池最大容量。</upgradedescription.increasebatterycapacity>
-<upgradename.increasesupercapacitorcapacity>容量升級</upgradename.increasesupercapacitorcapacity>
+<upgradename.increasesupercapacitorcapacity>超級電容容量升級</upgradename.increasesupercapacitorcapacity><!--SOURCE TEXT CHANGE CHECK-->
 <upgradedescription.increasesupercapacitorcapacity>提升超級電容最大容量。</upgradedescription.increasesupercapacitorcapacity>
 <upgradename.increasebatteryrechargespeed>充電升級</upgradename.increasebatteryrechargespeed>
-<upgradedescription.increasebatteryrechargespeed>提升蓄電池最大充電速率。</upgradedescription.increasebatteryrechargespeed>
+<upgradedescription.increasebatteryrechargespeed>提升最高充電速率。</upgradedescription.increasebatteryrechargespeed>
 <upgradename.decreasefireprobability>防火升級</upgradename.decreasefireprobability>
 <upgradedescription.decreasefireprobability>降低起火的機率。</upgradedescription.decreasefireprobability>
 <upgradename.increaseovervoltageresistance>電阻升級</upgradename.increaseovervoltageresistance>
-<upgradedescription.increaseovervoltageresistance>更能承受過高電壓。</upgradedescription.increaseovervoltageresistance>
+<upgradedescription.increaseovervoltageresistance>更能承受過高電壓，並降低起火的機率。</upgradedescription.increaseovervoltageresistance><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.increasemaxcondition>強化耐久度</upgradename.increasemaxcondition>
 <upgradedescription.increasemaxcondition>提升設備的耐久度，降低它們自然劣化的速度並使它們能夠承受更多損害。</upgradedescription.increasemaxcondition>
 <upgradeui.title>船廠</upgradeui.title>
@@ -6032,9 +6018,6 @@
 <reputationgainnotification>[value] [reputationname]聲望值</reputationgainnotification>
 
 <!-- Campaign meta texts -->
-<toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
-<toofarfromoutpostwarning>嘿！對、你，哨站下的那個──你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
-<toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
 <campaignstart>20世紀末期，人們在木星的第二個月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
 <campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
 <campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
@@ -6514,11 +6497,526 @@
 <stattypenames.medicalskillbonus>額外醫療技術</stattypenames.medicalskillbonus>
 <stattypenames.weaponsskillbonus>額外武器技術</stattypenames.weaponsskillbonus>
 
+<!-- New texts, September 2022 --><!--NEW TEXT FROM HERE?-->
+<respawnskillpenalty>你已經死亡並失去了[percentage]%的技能熟練度。</respawnskillpenalty><!--NEED EDIT-->
+<npctitle.outpostmanager>哨站管理員</npctitle.outpostmanager>
+<npctitle.outpostmanagerseparatists>哨站管理員</npctitle.outpostmanagerseparatists>
+<npctitle.hrmanager>人力資源管理員</npctitle.hrmanager>
+<npctitle.subupgradenpc>技師長</npctitle.subupgradenpc>
+<npctitle.subsalesnpc>潛艇商人</npctitle.subsalesnpc>
+<npctitle.merchantoutpost>商人</npctitle.merchantoutpost>
+<npctitle.merchantcity>商人</npctitle.merchantcity>
+<npctitle.merchantmine>商人</npctitle.merchantmine>
+<npctitle.merchantresearch>商人</npctitle.merchantresearch>
+<npctitle.merchantmilitary>商人</npctitle.merchantmilitary>
+<npctitle.merchantarmory>軍火商人</npctitle.merchantarmory>
+<npctitle.merchantmedical>醫藥商人</npctitle.merchantmedical>
+<npctitle.merchantengineering>五金商人</npctitle.merchantengineering><!--NEED EDIT-->
+<npctitle.outpostdoctor>哨站醫生</npctitle.outpostdoctor>
+<charactername.hognose>Hognose船長</charactername.hognose>
+<charactername.shockjock>William O'Kelly</charactername.shockjock>
+<charactername.raptorowner>Severo Ruiz</charactername.raptorowner>
+<charactername.jacovsubra>Jacov Subra</charactername.jacovsubra>
+<charactername.artiedolittle>Artie Dolittle</charactername.artiedolittle>
+<charactername.stowaway>Titus Zell</charactername.stowaway>
+<charactername.raptorvictim>Rudy</charactername.raptorvictim>
+<deconstructor.output>將分解為</deconstructor.output><!--NEED EDIT-->
+<deconstructor.unknownitemsoutput>未知的結果</deconstructor.unknownitemsoutput><!--NEED EDIT-->
+<deconstructor.inputqueue>序列</deconstructor.inputqueue>
+<talentmenu.extratalents>額外天賦</talentmenu.extratalents>
+<inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory><!--same as 447?-->
+<inputtype.voice>語音聊天</inputtype.voice>
+<inputtype.radiovoice>對講機語音聊天</inputtype.radiovoice>
+<editortip.shiftforextraoptions>以 Shift+滑鼠右鍵 顯示額外選項</editortip.shiftforextraoptions>
+<editortip.altforruler>按住 Alt 使用量尺</editortip.altforruler>
+<item.lockuiposition>鎖定位置</item.lockuiposition>
+<item.unlockuiposition>解除鎖定位置</item.unlockuiposition>
+<item.resetuiposition>重設位置</item.resetuiposition>
+<missionmessage0.combatmission>分離勢力船艦被聯盟勢力擊敗！</missionmessage0.combatmission>
+<missionmessage1.combatmission>聯盟船艦被分離勢力擊敗！</missionmessage1.combatmission>
+<submarine.name.camel>駱駝</submarine.name.camel>
+<submarine.description.camel>暱稱為駱駝的 CML (Cargo &amp; Medical Logistics) 貨物醫療鑑潛艇，它的特徵就是那兩個顯眼的駝峰。駱駝有著寬闊的醫務室和富裕的儲物空間，但在艙內進水時容易陷入困境。它的前壓載艙除了是它的罩門，一些不太受歡迎的船員也可能會因為在那裡發生的「事故」而英年早逝。小知識：它的兩個駝峰是在執行任務時焊到潛艇上的，但若要為哨站運送重型裝備時也可以相對輕鬆的被拆解下來。</submarine.description.camel>
+<reactor.temperatureboostup>增加壓力以暫時提升反應爐的溫度。</reactor.temperatureboostup>
+<reactor.temperatureboostdown>釋放壓力以暫時降低反應爐的溫度。</reactor.temperatureboostdown>
+<loadingscreentip>產生超出潛艇設備所需的電力將導致電壓過高，這能驅動部分設備 (如引擎和抽水機) 以比正常運轉更高的動力運作。但是部分設備則有可能因為過高的電壓而受損。</loadingscreentip>
+<submarineswitchinstruction>你能使用位於哨站氣閘附近的「潛艇替換終端」替換你所購買的潛艇。</submarineswitchinstruction>
+<ServerMessage.kickvotedisallowed>你待在此伺服器的時間還不足以允許你投票踢出其他玩家。</ServerMessage.kickvotedisallowed><!--NEED EDIT-->
+<subeditor.tier>階級</subeditor.tier>
+<submarinetier.1>階級 I</submarinetier.1>
+<submarinetier.2>階級 II</submarinetier.2>
+<submarinetier.3>階級 III</submarinetier.3>
+<submarinetier.description>高階級潛艇相對低階級潛艇更先進、更昂貴、裝備更好。它們也比低階級潛艇更能被進一步地進行升級。</submarinetier.description>
+<submarineclass.description>潛艇類型用於說明它是為了哪些的任務類型進行主要設計。同時它也影響了某些潛艇功能的升級程度限制。</submarineclass.description>
+<submarinetierandclass.description>潛艇的階級與類型影響了可被升級的項目與最大程度。高階級潛艇相對低階級的潛艇更能被進一步地進行升級。搭配潛艇類型則能夠使特定項目進行更高程度的升級。</submarinetierandclass.description>
+<submarineclass.scout.description>偵察型潛艇快速且靈活。它們的引擎和砲塔能見度範圍比起其他類型的潛艇更能被進一步地進行升級，且能夠搭載礦物偵測器。</submarineclass.scout.description>
+<submarineclass.attack.description>它們被設計來進行戰鬥，攻擊型潛艇堅固且全副武裝。它們的砲塔比起其他類型的潛艇更能被進一步地進行升級。</submarineclass.attack.description>
+<submarineclass.transport.description>運輸型潛艇有著寬闊的貨物空間，並且在物資的收集與加工有著精良的準備。它們的加工台、解構儀、和燃料效率比起其他類型的潛艇更能被進一步地進行升級，且能夠搭載礦物偵測器。</submarineclass.transport.description>
+<upgradename.increasewallhealth2>鈦鋁合金船體強化</upgradename.increasewallhealth2>
+<upgradedescription.increasewallhealth2>相當地提升船體耐久度，使潛艇的牆壁更能承受損害並能在下潛至更深的區域時不被壓碎。</upgradedescription.increasewallhealth2>
+<upgradename.increasewallhealth3>剛素船體強化</upgradename.increasewallhealth3>
+<upgradedescription.increasewallhealth3>大程度地提升船體耐久度，使潛艇的牆壁在下潛至深淵之中時更能承受損害。</upgradedescription.increasewallhealth3>
+<upgradename.enablemineralscanner>礦物偵測器</upgradename.enablemineralscanner>
+<upgradedescription.enablemineralscanner>在導航終端與聲納監視器中顯示礦物的位置。</upgradedescription.enablemineralscanner>
+<upgradename.increasesupercapacitorrechargespeed>提升超級電容充電速率</upgradename.increasesupercapacitorrechargespeed>
+<upgradedescription.increasesupercapacitorrechargespeed>提升最高充電速率。</upgradedescription.increasesupercapacitorrechargespeed>
+<upgradecategorynotapplicable>此升級類別不適用於所選潛艇。</upgradecategorynotapplicable>
+<entityname.largeturrethardpoint>大型砲塔底座</entityname.largeturrethardpoint>
+<entitydescription.largeturrethardpoint>一個能夠用於搭載大型砲塔的底座。</entitydescription.largeturrethardpoint>
+<entityname.doublecoilgun>雙管電磁槍</entityname.doublecoilgun>
+<entitydescription.doublecoilgun>雙槍管版本的電磁槍。</entitydescription.doublecoilgun>
+<entityname.flakcannon>破片加農炮</entityname.flakcannon>
+<entitydescription.flakcannon>一座大型砲塔，用以發射爆炸時會碎裂成鋒利碎片的彈藥。</entitydescription.flakcannon>
+<entityname.flakcannonloader>破片加農炮裝彈機</entityname.flakcannonloader>
+<entityname.flakcannonammobox>分散破片加農炮彈藥箱</entityname.flakcannonammobox>
+<entitydescription.flakcannonammobox>一箱沉重的分散破片彈藥箱，適合對群體目標展開攻勢。</entitydescription.flakcannonammobox>
+<entityname.flakbolt>破片彈藥箱</entityname.flakbolt>
+<entityname.flakshrapnel>Flak Fragment</entityname.flakshrapnel>
+<entityname.flakcannondirectionalammobox>集中破片加農炮彈藥箱</entityname.flakcannondirectionalammobox>
+<entitydescription.flakcannondirectionalammobox>一箱沉重的集中破片加農炮彈藥箱，適合對單一目標展開攻勢。</entitydescription.flakcannondirectionalammobox>
+<entityname.flakboltdirectional>Flak Shell (Choked)</entityname.flakboltdirectional>
+<entityname.flakshrapneldirectional>Heavy Flak Fragment</entityname.flakshrapneldirectional>
+<entityname.flakcannonammoboxphysicorium>剛素破片加農炮彈藥箱</entityname.flakcannonammoboxphysicorium>
+<entitydescription.flakcannonammoboxphysicorium>一箱無比沉重、以剛素作為主要製作材料的破片加農炮彈藥。</entitydescription.flakcannonammoboxphysicorium>
+<entityname.flakboltphysicorium>Physicorium Flak Shell</entityname.flakboltphysicorium>
+<entityname.flakshrapnelphysicorium>Physicorium Flak Fragment</entityname.flakshrapnelphysicorium>
+<entityname.flakcannonammoboxexplosive>高爆破片加農炮彈藥箱Explosive Flak Shells Box</entityname.flakcannonammoboxexplosive>
+<entitydescription.flakcannonammoboxexplosive>>一箱沉重的破片加農炮彈藥，裝有高爆炸藥。</entitydescription.flakcannonammoboxexplosive>
+<entityname.flakboltexplosive>Explosive Flak Shell</entityname.flakboltexplosive>
+<entityname.flakshrapnelexplosive>Explosive Flak Fragment</entityname.flakshrapnelexplosive>
+<entityname.molochbone>摩螺克骨頭</entityname.molochbone>
+<entitydescription.molochbone>一小塊摩螺克骨頭。被哨站居民視為昂貴的奢侈品；能被以高價出售。</entitydescription.molochbone>
+<campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果你選擇了它，你將以 0 馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
+<campaignsubincompatible>這艘潛艇並未被標記為與戰役模式相容。這艘潛艇有可能使戰役失衡或無法完成。</campaignsubincompatible><!--NEED EDIT-->
+<inputtype.chatbox>切換聊天室窗</inputtype.chatbox>
+<duplicatebindwarning>You have bound [savedbind] to [key]. It overlaps with the new keybind [defaultbind]. This can lead to unexpected behavior. Consider revisiting your keybinds in the settings.</duplicatebindwarning>
+<hudbutton.chatbox>聊天 ([key])</hudbutton.chatbox>
+<FriendPlayingOnServer>於 [servername] 伺服器中</FriendPlayingOnServer>
+<ChatMsg.DisconnectedWithReason>[client] 已經離開。原因: [reason]</ChatMsg.DisconnectedWithReason>
+<ChatMsg.DisconnectReason.Unknown>不明</ChatMsg.DisconnectReason.Unknown>
+<ChatMsg.DisconnectReason.Banned>被封鎖</ChatMsg.DisconnectReason.Banned>
+<ChatMsg.DisconnectReason.Kicked>被踢出</ChatMsg.DisconnectReason.Kicked>
+<ChatMsg.DisconnectReason.ServerShutdown>伺服器關閉</ChatMsg.DisconnectReason.ServerShutdown>
+<ChatMsg.DisconnectReason.ServerCrashed>伺服器崩潰</ChatMsg.DisconnectReason.ServerCrashed>
+<ChatMsg.DisconnectReason.ServerFull>伺服器已滿</ChatMsg.DisconnectReason.ServerFull>
+<ChatMsg.DisconnectReason.AuthenticationRequired>連線驗證失敗</ChatMsg.DisconnectReason.AuthenticationRequired>
+<ChatMsg.DisconnectReason.SteamAuthenticationFailed>Steam驗證失敗</ChatMsg.DisconnectReason.SteamAuthenticationFailed>
+<ChatMsg.DisconnectReason.SessionTaken>Session taken</ChatMsg.DisconnectReason.SessionTaken>
+<ChatMsg.DisconnectReason.TooManyFailedLogins>登入失敗次數過多</ChatMsg.DisconnectReason.TooManyFailedLogins>
+<ChatMsg.DisconnectReason.InvalidName>Invalid name</ChatMsg.DisconnectReason.InvalidName>
+<ChatMsg.DisconnectReason.NameTaken>Name taken</ChatMsg.DisconnectReason.NameTaken>
+<ChatMsg.DisconnectReason.InvalidVersion>版本不符</ChatMsg.DisconnectReason.InvalidVersion>
+<ChatMsg.DisconnectReason.SteamP2PError>SteamP2P錯誤</ChatMsg.DisconnectReason.SteamP2PError>
+<ChatMsg.DisconnectReason.Timeout>超時</ChatMsg.DisconnectReason.Timeout>
+<ChatMsg.DisconnectReason.ExcessiveDesyncOldEvent>事件失去同步 (正等待舊事件)</ChatMsg.DisconnectReason.ExcessiveDesyncOldEvent>
+<ChatMsg.DisconnectReason.ExcessiveDesyncRemovedEvent>事件失去同步 (正等待已移除事件)</ChatMsg.DisconnectReason.ExcessiveDesyncRemovedEvent>
+<ChatMsg.DisconnectReason.SyncTimeout>事件失去同步 (超時)</ChatMsg.DisconnectReason.SyncTimeout>
+<ChatMsg.DisconnectReason.SteamP2PTimeOut>SteamP2P超時</ChatMsg.DisconnectReason.SteamP2PTimeOut>
+<DisconnectReason.Timeout>連線超時。</DisconnectReason.Timeout>
+<missionname.miningmission1>採集[resourcename1]</missionname.miningmission1>
+<missiondescription.miningmission1>傳出[location1]與[location2]之間有[resourcename1]脈的消息，採集[resourcequantity1]個[resourcename1]樣本以證實這項說法。你將需要交出採集量的[handoverpercentage]。</missiondescription.miningmission1>
+<missionmessage0.miningmission1>已經採集到足夠的[resourcename1]，將它們帶到一處哨站以領取獎勵。</missionmessage0.miningmission1>
+<missionsuccess.miningmission1>已證實[resourcename1]確實存在。</missionsuccess.miningmission1>
+<missionheader0.miningmission1>已採集礦物</missionheader0.miningmission1>
+<missionsonarlabel.miningmission1>[resourcename1]</missionsonarlabel.miningmission1>
+<missionname.miningmission2>採集礦物</missionname.miningmission2>
+<missiondescription.miningmission2>傳出[location1]與[location2]之間有[resourcename1]脈和[resourcename2]脈的消息，採集[resourcequantity1]個[resourcename1]和[resourcename2]樣本以證實這項說法。你將需要交出採集量的[handoverpercentage]。</missiondescription.miningmission2>
+<missionmessage0.miningmission2>已經採集到足夠的[resourcename1]脈與[resourcename2]脈，將它們帶到一處哨站以領取獎勵。</missionmessage0.miningmission2>
+<missionsuccess.miningmission2>已證實[resourcename1]脈和[resourcename2]脈確實存在。</missionsuccess.miningmission2>
+<missionheader0.miningmission2>已採集礦物</missionheader0.miningmission2>
+<missionsonarlabel.miningmission2>礦物</missionsonarlabel.miningmission2>
+<missionname.miningmission1_abyss>潛入深淵尋找[resourcename1]</missionname.miningmission1_abyss>
+<missiondescription.miningmission1_abyss>傳出[location1]與[location2]之間有[resourcename1]脈的消息，採集[resourcequantity1]個[resourcename1]樣本以證實這項說法。你將需要交出採集量的[handoverpercentage]。</missiondescription.miningmission1_abyss>
+<missionmessage0.miningmission1_abyss>已經採集到足夠的[resourcename1]，將它們帶到一處哨站以領取獎勵。</missionmessage0.miningmission1_abyss>
+<missionsuccess.miningmission1_abyss>已證實稀有的[resourcename1]脈確實存在。</missionsuccess.miningmission1_abyss>
+<missionheader0.miningmission1_abyss>已採集礦物</missionheader0.miningmission1_abyss>
+<missionsonarlabel.miningmission1_abyss>[resourcename1]</missionsonarlabel.miningmission1_abyss>
+<tutorial.objectives>Objectives</tutorial.objectives>
+<tutorial.roomcompleted>Room completed</tutorial.roomcompleted>
+<tutorial.taskinprogress>Task in progress...</tutorial.taskinprogress>
+<tutorialcompleted>[tutorialname] (Completed)</tutorialcompleted>
+<tutorial.continue>“Got it.”</tutorial.continue>
+<tutorial.continue>“Understood.”</tutorial.continue>
+<tutorial.skiptotutorial>[Skip to tutorial]</tutorial.skiptotutorial>
+<tutorial.basic>Basics (Movements and interaction)</tutorial.basic>
+<tutorial.basics.message.1>“Ah, I see you're standing. I'd like to keep this brief, since you're the sixth person I've had to guide today, and frankly I'm getting tired of it.”</tutorial.basics.message.1>
+<tutorial.basics.message.1_player>“...Where am I? Who am I?”</tutorial.basics.message.1_player>
+<tutorial.basics.message.2>“You're in an automated rehabilitation chamber. You've suffered a traumatic experience and were in a perpetual state of screaming and defecating your boiler suit. Dr. Happy has seen fit to treat you.”</tutorial.basics.message.2>
+<tutorial.basics.message.2_player>“I don't remember anything...”</tutorial.basics.message.2_player>
+<tutorial.basics.message.3>“That's great news! And significantly reduces the chance of intense nightmares and flashbacks, too. It's an intended but slightly inconvenient side effect of your medication. We just have to re-teach you all the basics, like using your arms and legs, and you're good to go and make some money to pay your medical bills!”</tutorial.basics.message.3>
+<tutorial.basics.message.3_player>“Medical bills?”</tutorial.basics.message.3_player>
+<tutorial.basics.message.4>“Anyways, let's get you going. Try to move those arms and legs, will you? The door will open once you press the button. It's slightly out of reach, though.”</tutorial.basics.message.4>
+<tutorial.basics.endmessage.1>“Ah shit, we didn't think you'd get this far so soon... This sector is unfortunately still quite unfinished, as you can see. There used to be a Mudraptor nest here, but we're 90% sure they're all gone.”</tutorial.basics.endmessage.1>
+<tutorial.basics.endmessage.1_player>“What's a Mudraptor?”</tutorial.basics.endmessage.1_player>
+<tutorial.basics.endmessage.2>“Hold on a second... I see some additional movement on a camera. Uh oh...”</tutorial.basics.endmessage.2>
+<tutorial.basics.endmessage.2_player>“What's that noise?!”</tutorial.basics.endmessage.2_player>
+<tutorial.basics.wasd>Use [InputType.Up], [InputType.Left], [InputType.Down], and [InputType.Right] to move your character.</tutorial.basics.wasd>
+<tutorial.basics.looking>Use the cursor to control the direction your character is facing.</tutorial.basics.looking>
+<tutorial.basics.cursor>Use [InputType.Select] to interact with buttons, doors and objects.</tutorial.basics.cursor>
+<tutorial.basics.highlight>Interactable objects are highlighted when the cursor moves over them.</tutorial.basics.highlight>
+<tutorial.basics.obtain>To pick up an item, point at it with the cursor and use [InputType.Select].</tutorial.basics.obtain>
+<tutorial.basics.lockeddoor>Locked doors require an ID card to get through.</tutorial.basics.lockeddoor>
+<tutorial.basics.stairsusage>Press [InputType.Down] to drop down the platform, onto the stairs.</tutorial.basics.stairsusage>
+<tutorial.basics.sprint>Hold [InputType.Run] to run.</tutorial.basics.sprint>
+<tutorial.basics.repair>Devices sometimes break down. They can be repaired with the correct repair tool.</tutorial.basics.repair>
+<tutorial.basics.containers>Items can be found in containers. Use the cursor and [InputType.Select] to open a container.</tutorial.basics.containers>
+<tutorial.basics.equip>Double-click an item to equip it.</tutorial.basics.equip>
+<tutorial.basics.equip2>Items in your hotbar can also be equipped by pressing the corresponding hotbar number (1-9).</tutorial.basics.equip2>
+<tutorial.basics.repair2>Press [InputType.Select] to repair damaged devices.</tutorial.basics.repair2>
+<tutorial.basics.waitdrain>Well done! Wait for the pump to drain the room.</tutorial.basics.waitdrain>
+<tutorial.basics.repairouchie>Ouch! Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
+<tutorial.basics.weldingtool>Welding tools are vital equipment for sealing leaks. Obtain a welding tool.</tutorial.basics.weldingtool>
+<tutorial.basics.weldingfuel>Welding tools need welding fuel to work. Get a welding fuel tank from the container.</tutorial.basics.weldingfuel>
+<tutorial.basics.insertweldingfuel>Drag a welding fuel tank onto the welding tool to insert it.</tutorial.basics.insertweldingfuel>
+<tutorial.basics.insertweldingfuelalt>Alternatively, while you have a welding tool equipped, press the welding fuel tank's hotbar number to insert it.</tutorial.basics.insertweldingfuelalt>
+<tutorial.basics.aimandfire>To aim your tool or weapon, hold the [InputType.Aim] button, then press [InputType.Shoot] to use or fire it.</tutorial.basics.aimandfire>
+<tutorial.basics.aim>Aim</tutorial.basics.aim>
+<tutorial.basics.fire>Fire</tutorial.basics.fire>
+<tutorial.basics.holdaim>Hold the [InputType.Aim] button to aim toward the cursor.</tutorial.basics.holdaim>
+<tutorial.basics.holdaim2>While aiming, hold [InputType.Shoot] to weld.</tutorial.basics.holdaim2>
+<tutorial.basics.ladders>Use [InputType.Up] and [InputType.Down] while near a ladder to go up or down it.</tutorial.basics.ladders>
+<tutorial.basics.welding>Weld the leaking wall to continue.</tutorial.basics.welding>
+<tutorial.basics.divingsuits>Diving suits allow you to swim underwater.</tutorial.basics.divingsuits>
+<tutorial.basics.divingsuits2>Equip a diving suit by double-clicking it or dragging it onto the highlighted slot.</tutorial.basics.divingsuits2>
+<tutorial.basics.nooxygen>WARNING! Your diving suit is empty, preventing you from breathing. Quickly find an oxygen tank and insert it.</tutorial.basics.nooxygen>
+<tutorial.basics.oxygen>Wearing a diving suit slowly drains its oxygen tank.</tutorial.basics.oxygen>
+<tutorial.basics.oxygen2>When an oxygen tank is almost empty, your diving suit will sound the alarm.</tutorial.basics.oxygen2>
+<tutorial.basics.oxygen3>You're running low on oxygen! To unequip the diving suit, drag it out of the inventory slot.</tutorial.basics.oxygen3>
+<tutorial.basics.righttool>Pumps are mechanical devices. Mechanical devices require a wrench to repair.</tutorial.basics.righttool>
+<tutorial.basics.wrenchrepair>Find a wrench in a nearby cabinet, equip it, and repair the pump.</tutorial.basics.wrenchrepair>
+<tutorial.basics.interact2>Press [InputType.Select] to interact with the pump or other interactable devices.</tutorial.basics.interact2>
+<tutorial.basics.puzzle>Using the pump's interface, see if you can get up the ladder...</tutorial.basics.puzzle>
+<tutorial.basics.puzzlehelp>By setting the pump to pump water into the room, you will be able to swim to the ladder.</tutorial.basics.puzzlehelp>
+<tutorial.basics.equipoxygentank>Drag the oxygen tank on top of your equipped diving suit in your inventory to insert the tank into it.</tutorial.basics.equipoxygentank>
+<tutorial.basics.pumpcontrols>Use the pump controls to pump water into the room. Press the power button to turn on the pump if needed.</tutorial.basics.pumpcontrols>
+<tutorial.basics.drop>You can drop items simply by dragging them out of your inventory.</tutorial.basics.drop>
+<tutorial.basics.unequipdivingsuitdrag>Unequip your diving suit by dragging it out of its inventory slot.</tutorial.basics.unequipdivingsuitdrag>
+<tutorial.basics.unequipdivingsuitclick>Unequip your diving suit by double-clicking the inventory slot or by clicking the green button above it.</tutorial.basics.unequipdivingsuitclick>
+<tutorial.basics.objective1>Press the button</tutorial.basics.objective1>
+<tutorial.basics.objective2>Obtain an ID card</tutorial.basics.objective2>
+<tutorial.basics.objective3>Open the locked door</tutorial.basics.objective3>
+<tutorial.basics.objective4>Obtain a screwdriver</tutorial.basics.objective4>
+<tutorial.basics.objective5>Repair the junction box</tutorial.basics.objective5>
+<tutorial.basics.objective6>Wait for the room to drain</tutorial.basics.objective6>
+<tutorial.basics.objective7>Obtain a welding tool</tutorial.basics.objective7>
+<tutorial.basics.objective8>Weld the damaged wall</tutorial.basics.objective8>
+<tutorial.basics.objective9>Wear a diving suit</tutorial.basics.objective9>
+<tutorial.basics.objective10>Insert oxygen into the diving suit</tutorial.basics.objective10>
+<tutorial.basics.objective11>Obtain a wrench</tutorial.basics.objective11>
+<tutorial.basics.objective12>Repair the pump</tutorial.basics.objective12>
+<tutorial.basics.objective13>Use the pump to flood the room</tutorial.basics.objective13>
+<tutorial.basics.objective14>Leave</tutorial.basics.objective14>
+<tutorial.roles>Roles (Job-specific tasks)</tutorial.roles>
+<charactername.receptiondude>Todd Burdock</charactername.receptiondude>
+<tutorial.roles.message.1>“Oh hey—how's it floating, dude? You here to get your papers to sign on a submarine?”</tutorial.roles.message.1>
+<tutorial.roles.message.1_player>“That's right!”</tutorial.roles.message.1_player>
+<tutorial.roles.message.2>“Whoa, such enthusiasm, dude! I love it! Are you familiar with the courses we offer?”</tutorial.roles.message.2>
+<tutorial.roles.message.2_player1>“No, what courses?”</tutorial.roles.message.2_player1>
+<tutorial.roles.message.2_player2>“Yes.” [Skip to tutorial]</tutorial.roles.message.2_player2>
+<tutorial.roles.message.3_skip>“All righty dude, just chill in the next room until the other students arrive. Lemme open that door for ya.”</tutorial.roles.message.3_skip>
+<tutorial.roles.message.3_skip_player>“Great!”</tutorial.roles.message.3_skip_player>
+<tutorial.roles.message.3>“Ah, you know dude, just the thingamajig politician dude in his ivory tower trying to solve a problem...without actually solving the problem, ya know?”</tutorial.roles.message.3>
+<tutorial.roles.message.3_player>“What problem?”</tutorial.roles.message.3_player>
+<tutorial.roles.message.4>“The submarine business—it ain't all that, you feel me? Ain't many that return from a trip. Ain't any that return from ten trips. So there's a 100% discount on whatever passes as education here, 'cus that'll solve things.”</tutorial.roles.message.4>
+<tutorial.roles.message.4_player>“Are you bashing your own program?”</tutorial.roles.message.4_player>
+<tutorial.roles.message.5>“I'm just the reception dude, dude. Ain't my job to get meat for the grinder. Want my advice? Take a station job—fight back against the system, dude.”</tutorial.roles.message.5>
+<tutorial.roles.message.5_player>“But I want to find adventure! Besides, there's no food here...”</tutorial.roles.message.5_player>
+<tutorial.roles.message.6a>“Suit yourself, dude... We offer five courses here:\n\nFirst off, the Captain. If ya feel like delegating all the shitty tasks, this is for you. Highly recommend.”</tutorial.roles.message.6a>
+<tutorial.roles.message.6a_player>“Like the famous Herman Pollard!”</tutorial.roles.message.6a_player>
+<tutorial.roles.message.6b>“Sure, dude. Then there's the fixin' duo.\nThe Engineer gets all the fancy toys, but with a high risk of bein' shocked. Ain't for the weak hearted.\nThen there's the Mechanic, if ya don't mind getting wet. He's doing the welding and pump-fixing kind of things. Ain't recommended for smokers, feel me?”</tutorial.roles.message.6b>
+<tutorial.roles.message.6b_player>“Sounds like important jobs!”</tutorial.roles.message.6b_player>
+<tutorial.roles.message.6c>“Yeah, awful right? Then there's the Security Officer, if you like shooting the creepies. They're usually too in love with their power, though. I actually got this tattoo that says ASOAB. Means "All Security Officers Are Bastards." Watch out with those dudes, dude.”</tutorial.roles.message.6c>
+<tutorial.roles.message.6c_player>“They can't all be that bad?”</tutorial.roles.message.6c_player>
+<tutorial.roles.message.6d>“Finally, there's the Medical Doctor. Most of 'em are creepier than the actual creepies, but some actually make people better, man. They're some literal saints, feel me?\nAnyhow, if ya still interested, move on to the next room.”</tutorial.roles.message.6d>
+<tutorial.roles.message.6_player>“Sign me up, sir!”</tutorial.roles.message.6_player>
+<roomname.reception>Reception</roomname.reception>
+<roomname.lounge>Lounge</roomname.lounge>
+<tutorial.roles.popup.moveright>Move to the room on the right to continue.</tutorial.roles.popup.moveright>
+<tutorial.roles.popup.creworders>Use [InputType.CrewOrders] to toggle the list of crewmembers.</tutorial.roles.popup.creworders>
+<tutorial.roles.popup.creworders2>Select a trainee position from the list of crewmembers with [InputType.Select].</tutorial.roles.popup.creworders2>
+<charactername.captaintrainee>Captain trainee</charactername.captaintrainee>
+<charactername.engineertrainee>Engineer trainee</charactername.engineertrainee>
+<charactername.mechanictrainee>Mechanic trainee</charactername.mechanictrainee>
+<charactername.securitytrainee>Security trainee</charactername.securitytrainee>
+<charactername.medictrainee>Medic trainee</charactername.medictrainee>
+<tutorial.roles.idcarddescription>This ID card gives the trainee access to the training areas.</tutorial.roles.idcarddescription>
+<tutorial.roles.captaindescription>The Captain steers the submarine, operates the sonar and issues commands to the crew.</tutorial.roles.captaindescription>
+<tutorial.roles.engineerdescription>The Engineer operates the nuclear reactor to generate power and maintains electrical devices. Skilled engineers can add custom functionality to submarines with custom wiring and signal components.</tutorial.roles.engineerdescription>
+<tutorial.roles.mechanicdescription>The Mechanic maintains the mechanical devices, such as the engine and pumps, to keep the submarine moving smoothly. Additionally, any leaks in the hull are typically fixed by mechanics, as they have superior welding skills.</tutorial.roles.mechanicdescription>
+<tutorial.roles.securitydescription>The Security Officer protects the submarine and crew from external and internal threats. With a combination of ship-mounted and handheld weapons, and the skills to use them, they're the first line of defense.</tutorial.roles.securitydescription>
+<tutorial.roles.medicdescription>The Medical Doctor treats the ailments of the crew. This ranges from bandaging small wounds to administering drugs. In a worst-case scenario, fallen crewmembers can be saved with CPR.</tutorial.roles.medicdescription>
+<tutorial.roles.startprompt_captain>Start the tutorial for the Captain?</tutorial.roles.startprompt_captain>
+<tutorial.roles.startprompt_engineer>Start the tutorial for the Engineer?</tutorial.roles.startprompt_engineer>
+<tutorial.roles.startprompt_mechanic>Start the tutorial for the Mechanic?</tutorial.roles.startprompt_mechanic>
+<tutorial.roles.startprompt_security>Start the tutorial for the Security Officer?</tutorial.roles.startprompt_security>
+<tutorial.roles.startprompt_medic>Start the tutorial for the Medical Doctor?</tutorial.roles.startprompt_medic>
+<tutorial.roles.startprompt_yes>Yes. Start tutorial.</tutorial.roles.startprompt_yes>
+<tutorial.roles.startprompt_no>No. Choose a different tutorial.</tutorial.roles.startprompt_no>
+<tutorial.roles.reception_notification>“Hey dude, the teacher is ready for ya.”</tutorial.roles.reception_notification>
+<tutorial.roles.reception_notification_player>“On my way.”</tutorial.roles.reception_notification_player>
+<tutorial.roles.popup.start>To start the tutorial, find your instructor at the marked location.</tutorial.roles.popup.start>
+<tutorial.roles.objective.selection1>Switch character</tutorial.roles.objective.selection1>
+<tutorial.roles.objective.selection2>Leave the lounge area</tutorial.roles.objective.selection2>
+<tutorial.roles.captaininstructor>“Hi. I am Captain Sterner. I will be your instructor today. I will start with a brief explanation of what it means to be a captain, followed by a practical course. It is crucial to enforce a chain of command, so you will address me as "Captain." Say "Yes, Captain" if you understand.”</tutorial.roles.captaininstructor>
+<charactername.captaininstructor>Captain Sterner</charactername.captaininstructor>
+<tutorial.roles.yescaptain_player>“Yes, Captain!”</tutorial.roles.yescaptain_player>
+<tutorial.roles.commandroomdescription>“The Command Room is the brains of the submarine. From here signals are passed—either verbally or electronically—to crew and devices.”</tutorial.roles.commandroomdescription>
+<tutorial.roles.commandroomdescription2>“Using devices like the navigation terminal and status monitor, the captain can pass all these signals, for example: Order the crew to fix devices, signal the engine to move at full power, or empty the ballast tanks to raise the submarine.”</tutorial.roles.commandroomdescription2>
+<tutorial.roles.navigationterminal>“The core function of the navigation terminal is to move the submarine.”</tutorial.roles.navigationterminal>
+<tutorial.roles.navigationterminal_sonar>“Since we're in a low-light environment, sonar is the most efficient way of identifying terrain, objects and lifeforms.”</tutorial.roles.navigationterminal_sonar>
+<tutorial.roles.navigationterminal_sonar2>“Sonar is short for "sound navigation and ranging." Sonar has two modes: passive and active.”</tutorial.roles.navigationterminal_sonar2>
+<tutorial.roles.navigationterminal_sonar3>“While in "passive" mode, the sonar only listens to sounds. It will still detect things, especially if these things make a lot of sound. Static objects or terrain, however, won't be detected until very close.”</tutorial.roles.navigationterminal_sonar3>
+<tutorial.roles.navigationterminal_sonar4>“While in "active" mode, the sonar emits pulses of sound at an interval. Simply put, this means every few seconds, the sound wave will reveal terrain, objects and lifeforms. Active sonar is essential to avoid bumping into terrain while moving at any decent speed.”</tutorial.roles.navigationterminal_sonar4>
+<tutorial.roles.navigationterminal_sonar5>“Finally, there's the directional ping. While active sonar is great for spotting things, it's also great for being spotted. The directional ping limits the direction of the sound pulse, thus preventing hostiles from spotting your submarine—as long as it's not aimed at them.”</tutorial.roles.navigationterminal_sonar5>
+<tutorial.roles.navigationterminal_sonar6>“We've hooked up this navigation terminal to a sonar. Feel free to try it out.”</tutorial.roles.navigationterminal_sonar6>
+<tutorial.roles.popup.navigationterminal_sonar>Use [InputType.Select] to interact with the navigation terminal.</tutorial.roles.popup.navigationterminal_sonar>
+<tutorial.roles.popup.navigationterminal_sonar2>Try out the sonar functionalities.</tutorial.roles.popup.navigationterminal_sonar2>
+<tutorial.roles.navigationterminal_steering>“Once you have a bearing on your surroundings, it is time to move the submarine.”</tutorial.roles.navigationterminal_steering>
+<tutorial.roles.navigationterminal_steering2>“Steering is controlled with the display in the middle, which utilizes modern touchcreen and auto-pilot technologies.”</tutorial.roles.navigationterminal_steering2>
+<tutorial.roles.navigationterminal_steering3>“By default, the auto-pilot will try to maintain the submarine's position. By touching (clicking) the screen, the auto-pilot's target position will change to the indicated position.”</tutorial.roles.navigationterminal_steering3>
+<tutorial.roles.navigationterminal_steering4>“Furthermore, the auto-pilot has information on outpost locations. It attempts to automatically navigate to predefined positions. This system, however, is neither infallible nor as quick as manual steering.”</tutorial.roles.navigationterminal_steering4>
+<tutorial.roles.navigationterminal_steering5>“Speaking of manual steering: This is the preferred option for those who want more control over their submarine. By touching (clicking) the screen, you set the submarine's target velocity.”</tutorial.roles.navigationterminal_steering5>
+<tutorial.roles.navigationterminal_steering6>“For example: If you want your submarine to move slowly to the right, you touch slightly to the right of the submarine's current position. If you want to rise up quickly, you touch far above the submarine's current position.”</tutorial.roles.navigationterminal_steering6>
+<tutorial.roles.navigationterminal_steering7>“Ready to give it a try?”</tutorial.roles.navigationterminal_steering7>
+<tutorial.roles.navigationterminal_steering8>“Trick question! No you're not, cadet! A submarine is usually docked while idle, to prevent it from drifting and using fuel. First, you'll need to undock using the big red "Undock" button. Easy, right? Now, let's try it out.”</tutorial.roles.navigationterminal_steering8>
+<tutorial.roles.popup.navigationterminal_steering>Undock the drone, using the Navigation Terminal.</tutorial.roles.popup.navigationterminal_steering>
+<tutorial.roles.popup.navigationterminal_steering2>Practice steering the drone. Re-dock the drone when ready.</tutorial.roles.popup.navigationterminal_steering2>
+<tutorial.roles.navigationterminal_commanding>“Not bad, cadet. You are ready to be a helmsman now, but being a captain is more than that.”</tutorial.roles.navigationterminal_commanding>
+<tutorial.roles.navigationterminal_commanding2>“You cannot run a large submarine by yourself. You need a crew. And a crew needs someone to lead them, or they will stumble around like headless chickens. Cluck cluck cluck. Wait, they wouldn't... Never mind.”</tutorial.roles.navigationterminal_commanding2>
+<tutorial.roles.navigationterminal_commanding3>“As captain, you're responsible for leading your crew. So you'll have to issue orders to them. Meaning, you'll need to know what needs doing!”</tutorial.roles.navigationterminal_commanding3>
+<tutorial.roles.navigationterminal_commanding4>“That's where the status monitor comes in. With the status monitor, you can see where the submarine is in need of repairs. You can then mark these rooms with tasks and pray there's someone competent enough to perform them. Don't skip the praying part.”</tutorial.roles.navigationterminal_commanding4>
+<tutorial.roles.navigationterminal_commanding5>“If you don't want shit to break down in the first place though, you'll have to tell your crew to keep it all in good order. This means issuing them orders from the get-go.”</tutorial.roles.navigationterminal_commanding5>
+<tutorial.roles.navigationterminal_commanding6>“Let's try it out on an actual submarine, shall we? The other cadets ought to be ready right about now. Follow me.”</tutorial.roles.navigationterminal_commanding6>
+<tutorial.roles.popup.captain_follow>Follow Captain Sterner into the submarine.</tutorial.roles.popup.captain_follow>
+<tutorial.roles.captaininstructor_start>“We're here. Let's start by issuing commands to the crew. Without power, nothing in the submarine will work, so first order the reactor turned on.”</tutorial.roles.captaininstructor_start>
+<tutorial.roles.popup.captain_command>Open the command interface with [InputType.Command].</tutorial.roles.popup.captain_command>
+<tutorial.roles.popup.captain_command2>Order the reactor to be turned on.</tutorial.roles.popup.captain_command2>
+<tutorial.roles.popup.captain_command3>The command interface will automatically select the most qualified crew member for the assigned task.</tutorial.roles.popup.captain_command3>
+<tutorial.roles.popup.captain_command4>You can also give orders directly to a specific crew member on the crew list (toggle with [InputType.CrewOrders]).</tutorial.roles.popup.captain_command4>
+<tutorial.roles.captaininstructor_repairs>“Great. Remember—captains should command respect and obedience. That's why they usually carry a firearm. Our last engineer, Stevie Dolittle, said, "What are you going to do, shoot me?" Haha, his cousin didn't stick around long after that. Anyways, let's order some maintenance, shall we?”</tutorial.roles.captaininstructor_repairs>
+<tutorial.roles.popup.captain_commandmaintenance>Order leaks to be fixed.</tutorial.roles.popup.captain_commandmaintenance>
+<tutorial.roles.popup.captain_commandmaintenance2>Order electrical devices to be repaired.</tutorial.roles.popup.captain_commandmaintenance2>
+<tutorial.roles.popup.captain_commandmaintenance3>Order mechanical devices to be repaired.</tutorial.roles.popup.captain_commandmaintenance3>
+<tutorial.roles.captaininstructor_firearms>“And no, you won't be given a firearm yet—you'll have to complete your education first. Let's get on with that, shall we? Honkmother knows you'll need it. Speaking of firearms, it's time to get the sub's weapons operational.”</tutorial.roles.captaininstructor_firearms>
+<tutorial.roles.popup.captain_commandsecurity>Order the bottom turret to be operated.</tutorial.roles.popup.captain_commandsecurity>
+<tutorial.roles.captaininstructor_end>“That covers the basics. Now the real test: Undock from the station, get us to the next outpost, and you'll be done and graduated! Good luck, cadet!”</tutorial.roles.captaininstructor_end>
+<tutorial.roles.popup.captain_graduation>Use what you've learned to reach the next outpost.</tutorial.roles.popup.captain_graduation>
+<tutorial.roles.captain.objective.sonar>Master the sonar</tutorial.roles.captain.objective.sonar>
+<tutorial.roles.captain.objective.sonar1>Interact with the Navigation Terminal</tutorial.roles.captain.objective.sonar1>
+<tutorial.roles.captain.objective.sonar2>Try out the active sonar</tutorial.roles.captain.objective.sonar2>
+<tutorial.roles.captain.objective.sonar3>Try out directional ping</tutorial.roles.captain.objective.sonar3>
+<tutorial.roles.captain.objective.drone>Steer the drone</tutorial.roles.captain.objective.drone>
+<tutorial.roles.captain.objective.drone1>Undock the drone</tutorial.roles.captain.objective.drone1>
+<tutorial.roles.captain.objective.drone2>Try out manual steering</tutorial.roles.captain.objective.drone2>
+<tutorial.roles.captain.objective.drone3>Try out the maintain position controls</tutorial.roles.captain.objective.drone3>
+<tutorial.roles.captain.objective.drone4>Dock the drone</tutorial.roles.captain.objective.drone4>
+<tutorial.roles.captain.objective.follow>Follow the instructor</tutorial.roles.captain.objective.follow>
+<tutorial.roles.captain.objective.orders>Give orders to the crew</tutorial.roles.captain.objective.orders>
+<tutorial.roles.captain.objective.orders1>Order the reactor turned on</tutorial.roles.captain.objective.orders1>
+<tutorial.roles.captain.objective.orders2>Order leaks to be fixed</tutorial.roles.captain.objective.orders2>
+<tutorial.roles.captain.objective.orders3>Order electrical devices to be repaired</tutorial.roles.captain.objective.orders3>
+<tutorial.roles.captain.objective.orders4>Order mechanical devices to be repaired</tutorial.roles.captain.objective.orders4>
+<tutorial.roles.captain.objective.orders5>Order the bottom turret to be operated</tutorial.roles.captain.objective.orders5>
+<tutorial.roles.captain.objective.undock>Undock the submarine</tutorial.roles.captain.objective.undock>
+<tutorial.roles.captain.objective.station>Arrive and dock at the marked station</tutorial.roles.captain.objective.station>
+<tutorial.roles.engineerinstructor>“Welcome! Welcome! I'm Chief Engineer Friar, but please, call me Kayleigh.”</tutorial.roles.engineerinstructor>
+<charactername.engineerinstructor>Kayleigh Friar</charactername.engineerinstructor>
+<tutorial.roles.reactorroomdescription>“The reactor room is where the heart of the submarine resides. As long as there's electrical juices flowing through the wires, there is life in the submarine. And it—the electricity—all originates from this beauty right here.”</tutorial.roles.reactorroomdescription>
+<tutorial.roles.engineerinstructor_fuelrods>“While 'nuclear reactor' may sound scary, because of the whole invisible radiation thing, there's actually nothing to worry about! Operating reactors is relatively safe.”</tutorial.roles.engineerinstructor_fuelrods>
+<tutorial.roles.engineerinstructor_fuelrods2>“Relative to the other, waaaay more dangerous dangers, that is. The reactor room is usually quite well protected, and it's centrally located!”</tutorial.roles.engineerinstructor_fuelrods2>
+<tutorial.roles.engineerinstructor_fuelrods3>“One thing to keep in mind, and I will stress this: Do NOT insert every fuel rod you have in your storage into the reactor all at once.”</tutorial.roles.engineerinstructor_fuelrods3>
+<tutorial.roles.engineerinstructor_fuelrods4>“Really. Do not. Each fuel rod increases the amount of heat generated by the reactor. Too much heat means a fire will start. Eventually a full-blown meltdown will trigger, and...KABOOM! Well, at least it's a quick death. Sure beats getting captured by pirates.”</tutorial.roles.engineerinstructor_fuelrods4>
+<tutorial.roles.engineerinstructor_fuelrods5>“For now, I'm just going to hand you one fuel rod. Let me show you how to insert it.”</tutorial.roles.engineerinstructor_fuelrods5>
+<tutorial.roles.engineerinstructor_fuelrods5_player>“Is this really safe?”</tutorial.roles.engineerinstructor_fuelrods5_player>
+<tutorial.roles.popup.engineer_fuelrods>Interact with the reactor, then drag the fuel rod into the slots on the left.</tutorial.roles.popup.engineer_fuelrods>
+<tutorial.roles.engineerinstructor_reactor>“A basic start-up of the nuclear reactor looks like this:\n1.One non-empty fuel rod inserted.\n2.Power button pressed.\n3.Automatic control toggled on.”</tutorial.roles.engineerinstructor_reactor>
+<tutorial.roles.engineerinstructor_reactor_player>“Sounds simple enough.”</tutorial.roles.engineerinstructor_reactor_player>
+<tutorial.roles.engineerinstructor_reactor2>“Give it a try then! Don't be shy!”</tutorial.roles.engineerinstructor_reactor2>
+<tutorial.roles.engineerinstructor_reactor2_player>“On it!”</tutorial.roles.engineerinstructor_reactor2_player>
+<tutorial.roles.popup.engineer_reactor>Interact with the reactor, power it up and enable automatic control.</tutorial.roles.popup.engineer_reactor>
+<tutorial.roles.engineerinstructor_reactormanual>“Great job! You're a natural! We now have power. Look at how all the lights are turning on—that was all you!”</tutorial.roles.engineerinstructor_reactormanual>
+<tutorial.roles.engineerinstructor_reactormanual_player>“That was easy enough.”</tutorial.roles.engineerinstructor_reactormanual_player>
+<tutorial.roles.engineerinstructor_reactormanual2>“Aha, getting confident, are we? Well, let's switch over to manual control then.”</tutorial.roles.engineerinstructor_reactormanual2>
+<tutorial.roles.engineerinstructor_reactormanual3>“In manual control, you're using two controls. The first one, on the left, is the fission rate and the second, on the right, is the turbine output.”</tutorial.roles.engineerinstructor_reactormanual3>
+<tutorial.roles.engineerinstructor_reactormanual4>“Increasing the fission rate makes the reactor consume more fuel and generate more heat. The heat is used to spin the turbine, which generates electricity.”</tutorial.roles.engineerinstructor_reactormanual4>
+<tutorial.roles.engineerinstructor_reactormanual5>“The higher the turbine output, the more the reactor attempts to generate electricity. If the output is too high relative to the fission rate, the reactor will cool down; too low and it'll overheat.”</tutorial.roles.engineerinstructor_reactormanual5>
+<tutorial.roles.engineerinstructor_reactormanual6>“It all boils down to: Keep the left gauge in the green, keep the right gauge in the green.”</tutorial.roles.engineerinstructor_reactormanual6>
+<tutorial.roles.engineerinstructor_reactormanual6_player>“Why bother with manual control at all?”</tutorial.roles.engineerinstructor_reactormanual6_player>
+<tutorial.roles.engineerinstructor_reactormanual7>“Great question! Ever been on a submarine and the lights suddenly turned off? That probably meant the reactor was on automatic control and the captain did some sudden maneuvering. Auto is much slower to react to and compensate for higher power needs than manual control is.”</tutorial.roles.engineerinstructor_reactormanual7>
+<tutorial.roles.engineerinstructor_reactormanual7_player>“Can I try it?”</tutorial.roles.engineerinstructor_reactormanual7_player>
+<tutorial.roles.engineer_reactormanual>Interact with the reactor, then switch to manual control.</tutorial.roles.engineer_reactormanual>
+<tutorial.roles.engineer_reactormanual2>Using the sliders, keep both needles of the gauges in the green areas.</tutorial.roles.engineer_reactormanual2>
+<tutorial.roles.electricaldescription>“Welcome to Electrical! Things are buzzing around here, aren't they?! Don't be intimidated by all the wires; they're going exactly where they need to go. I made sure of it.”</tutorial.roles.electricaldescription>
+<tutorial.roles.electricaldescription2>“This room is usually filled with junction boxes. All the power from the reactor needs to be distributed, and that's where the jay-bees—or junction boxes—come in!”</tutorial.roles.electricaldescription2>
+<tutorial.roles.engineerinstructor_junctionboxes>“When junction boxes break down, which they will, any devices connected to them will cease to function. Your job is to keep that from happening!”</tutorial.roles.engineerinstructor_junctionboxes>
+<tutorial.roles.engineerinstructor_junctionboxes_player>“Why do they break? Can't they, like, not break?”</tutorial.roles.engineerinstructor_junctionboxes_player>
+<tutorial.roles.engineerinstructor_junctionboxes2>“Good question! Some skilled engineers at outposts can make devices more damage resistant, but let's forget about that for now.”</tutorial.roles.engineerinstructor_junctionboxes2>
+<tutorial.roles.engineerinstructor_junctionboxes3>“Most captains are the rough breakey kind of captains. They prefer to accelerate at maximum power for a few seconds, then completely idle the submarine the next minute for a cigar break. These power fluctuations are what damages the sub's electrical devices most of the time.”</tutorial.roles.engineerinstructor_junctionboxes3>
+<tutorial.roles.engineerinstructor_junctionboxes4>“The other thing is water, of course. Electricity and water don't mix so well, so any time water leaks into the submarine, there will be damage.”</tutorial.roles.engineerinstructor_junctionboxes4>
+<tutorial.roles.engineerinstructor_junctionboxes4_player>“So I just sit here with my screwdriver for the whole trip?”</tutorial.roles.engineerinstructor_junctionboxes4_player>
+<tutorial.roles.engineerinstructor_junctionboxes5>“Pretty much! Except once you learn how to fast-repair, you'll have a lot of time for other things. Let me show you!”</tutorial.roles.engineerinstructor_junctionboxes5>
+<tutorial.roles.engineerinstructor_junctionboxes5_player>“Okay.”</tutorial.roles.engineerinstructor_junctionboxes5_player>
+<tutorial.roles.popup.engineer_junctionboxes>Interact with the junction box and click the repair button in rapid succession.</tutorial.roles.popup.engineer_junctionboxes>
+<tutorial.roles.popup.engineer_junctionboxes2>Ouch! Repairing too quickly gets you shocked.</tutorial.roles.popup.engineer_junctionboxes2>
+<tutorial.roles.popup.engineer_junctionboxes3>Now try to time clicking the repair button. Click when the moving line hits the colored area of the bar.</tutorial.roles.popup.engineer_junctionboxes3>
+<tutorial.roles.engineerinstructor_wiring>“That went okay, I think. But look, this one light is still off!”</tutorial.roles.engineerinstructor_wiring>
+<tutorial.roles.engineerinstructor_wiring_player>“Why's that?”</tutorial.roles.engineerinstructor_wiring_player>
+<tutorial.roles.engineerinstructor_wiring2>“It's because I removed a wire connecting the junction box to the lamp. But I have it right here—I just need you to connect it.”</tutorial.roles.engineerinstructor_wiring2>
+<tutorial.roles.engineerinstructor_wiring2_player>“How?”</tutorial.roles.engineerinstructor_wiring2_player>
+<tutorial.roles.engineerinstructor_wiring3>“All you need is a screwdriver in one hand and a wire in the other. Let me show you!”</tutorial.roles.engineerinstructor_wiring3>
+<tutorial.roles.engineerinstructor_wiring3_player>“Sure.”</tutorial.roles.engineerinstructor_wiring3_player>
+<tutorial.roles.popup.engineer_wiring>Equip the screwdriver and the wire.</tutorial.roles.popup.engineer_wiring>
+<tutorial.roles.popup.engineer_wiring2>Rewire the junction box with [InputType.Use].</tutorial.roles.popup.engineer_wiring2>
+<tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER_OUT.</tutorial.roles.popup.engineer_wiring3>
+<tutorial.roles.popup.engineer_wiring4>Rewire the lamp with [InputType.Use].</tutorial.roles.popup.engineer_wiring4>
+<tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER_IN.</tutorial.roles.popup.engineer_wiring5>
+<tutorial.roles.engineerinstructor_end>“Awesome job! That covers all the basics of engineering. The rest you can learn on your trips! You were a lovely student. Hope to see you around!”</tutorial.roles.engineerinstructor_end>
+<tutorial.roles.engineerinstructor_end_player>“Thanks Kayleigh! See you!”</tutorial.roles.engineerinstructor_end_player>
+<tutorial.roles.engineer.objective.reactor>Master the reactor</tutorial.roles.engineer.objective.reactor>
+<tutorial.roles.engineer.objective.reactor1>Insert a fuel rod into the reactor</tutorial.roles.engineer.objective.reactor1>
+<tutorial.roles.engineer.objective.reactor2>Power up the reactor</tutorial.roles.engineer.objective.reactor2>
+<tutorial.roles.engineer.objective.reactor3>Toggle automatic control on</tutorial.roles.engineer.objective.reactor3>
+<tutorial.roles.engineer.objective.reactor4>Toggle automatic control off</tutorial.roles.engineer.objective.reactor4>
+<tutorial.roles.engineer.objective.reactor5>Keep the fission rate needle on green</tutorial.roles.engineer.objective.reactor5>
+<tutorial.roles.engineer.objective.reactor6>Keep the turbine output needle on green</tutorial.roles.engineer.objective.reactor6>
+<tutorial.roles.engineer.objective.repair>Master repairing</tutorial.roles.engineer.objective.repair>
+<tutorial.roles.engineer.objective.repair1>Attempt to fast-repair</tutorial.roles.engineer.objective.repair1>
+<tutorial.roles.engineer.objective.repair2>Repair the junction box</tutorial.roles.engineer.objective.repair2>
+<tutorial.roles.engineer.objective.rewire>Learn to rewire</tutorial.roles.engineer.objective.rewire>
+<tutorial.roles.engineer.objective.rewire1>Equip the screwdriver</tutorial.roles.engineer.objective.rewire1>
+<tutorial.roles.engineer.objective.rewire2>Equip the wire</tutorial.roles.engineer.objective.rewire2>
+<tutorial.roles.engineer.objective.rewire3>Wire the junction box's POWER connection</tutorial.roles.engineer.objective.rewire3>
+<tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER connection</tutorial.roles.engineer.objective.rewire4>
+<tutorial.roles.mechanicinstructor>“Hi, I'm Amos. I'm the mechanic around here. I'll teach you how to care for your submarine. Remember: If you take care of her, she'll take care of you.”</tutorial.roles.mechanicinstructor>
+<charactername.mechanicinstructor>Amos Arbor</charactername.mechanicinstructor>
+<tutorial.roles.engineroomdescription>“This right here is the engine room. It houses the engine. Every submarine has one. The engine moves the submarine forwards and backwards.”</tutorial.roles.engineroomdescription>
+<tutorial.roles.mechanicinstructor_engine>“The engine is a mechanical device. You will be a mechanic. You take care of mechanical devices.”</tutorial.roles.mechanicinstructor_engine>
+<tutorial.roles.mechanicinstructor_engine2>“Thing is making funny sounds or smoking? You take a wrench and fix it. Here's a wrench. Now fix it.”</tutorial.roles.mechanicinstructor_engine2>
+<tutorial.roles.popup.mechanic_engine>Equip the wrench.</tutorial.roles.popup.mechanic_engine>
+<tutorial.roles.popup.mechanic_engine2>Repair the engine.</tutorial.roles.popup.mechanic_engine2>
+<tutorial.roles.mechanicinstructor_engine3>“That wasn't terrible. Anyways, the ceiling is leaking too, which is probably what caused the damage in the first place. You know how to handle a welding tool?”</tutorial.roles.mechanicinstructor_engine3>
+<tutorial.roles.mechanicinstructor_engine3_player>“I do.”</tutorial.roles.mechanicinstructor_engine3_player>
+<tutorial.roles.popup.mechanic_welding>Equip the welding tool.</tutorial.roles.popup.mechanic_welding>
+<tutorial.roles.popup.mechanic_welding2>Weld the leak.</tutorial.roles.popup.mechanic_welding2>
+<tutorial.roles.mechanicinstructor_ballast>“Hm, that will do. Now, grab a diving mask from the supply cabinet.”</tutorial.roles.mechanicinstructor_ballast>
+<tutorial.roles.mechanicinstructor_ballast_player>“All right.”</tutorial.roles.mechanicinstructor_ballast_player>
+<tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
+<tutorial.roles.ballastdescription>“Down this ladder and through the hatch is a ballast tank. The ballast tank fills up with water when the submarine needs to go down.”</tutorial.roles.ballastdescription>
+<tutorial.roles.mechanicinstructor_ballast2>“Inside, a pump forces the water in or out. If the pump breaks down, you get in there and fix it. Since there's usually water in the ballast tank, it helps to have some diving tools on you. Still got that wrench?”</tutorial.roles.mechanicinstructor_ballast2>
+<tutorial.roles.mechanicinstructor_ballast2_player>“Yep.”</tutorial.roles.mechanicinstructor_ballast2_player>
+<tutorial.roles.popup.mechanic_ballast>Repair the ballast pump</tutorial.roles.popup.mechanic_ballast>
+<tutorial.roles.mechanicinstructor_ballast3>“Not bad, cub. Follow me. We'll do some fabricating next.”</tutorial.roles.mechanicinstructor_ballast3>
+<tutorial.roles.mechanicinstructor_ballast3_player>“Following.”</tutorial.roles.mechanicinstructor_ballast3_player>
+<tutorial.roles.engineeringdescription>“The engineering room is where you can find the fabrication and deconstruction devices. Not all submarines have them, but most outposts and stations do, and you can use them for free.”</tutorial.roles.engineeringdescription>
+<tutorial.roles.mechanicinstructor_fabrication>“Fabricating new items with a fabricator is easy: You put in some basic ingredients, select a blueprint or recipe, press the button and you got yourself some brand new toys.”</tutorial.roles.mechanicinstructor_fabrication>
+<tutorial.roles.mechanicinstructor_fabrication2>“Deconstructing is even easier: You put in some item, plant or mineral, and you get basic materials back.\nDo note that you'll lose some materials in the process.”</tutorial.roles.mechanicinstructor_fabrication2>
+<tutorial.roles.mechanicinstructor_fabrication3>“How about you make your own wrench? There's some iron ore in the cabinet—you'll need to refine it in the deconstructor first.”</tutorial.roles.mechanicinstructor_fabrication3>
+<tutorial.roles.popup.mechanic_fabrication>Acquire the iron ore.</tutorial.roles.popup.mechanic_fabrication>
+<tutorial.roles.popup.mechanic_fabrication2>Deconstruct the iron ore.</tutorial.roles.popup.mechanic_fabrication2>
+<tutorial.roles.popup.mechanic_fabrication3>Retrieve the iron.</tutorial.roles.popup.mechanic_fabrication3>
+<tutorial.roles.popup.mechanic_fabrication4>Fabricate a wrench.</tutorial.roles.popup.mechanic_fabrication4>
+<tutorial.roles.mechanicinstructor_fabrication4>“You can keep that one if you want, cub. Anyways, almost done. Last room, then some beer.”</tutorial.roles.mechanicinstructor_fabrication4>
+<tutorial.roles.mechanicinstructor_fabrication4_player>“Thanks, chief.”</tutorial.roles.mechanicinstructor_fabrication4_player>
+<tutorial.roles.oxygendescription>“This is the oxygen generator compartment. Typically quite small, but also rather important as they keep people breathing.”</tutorial.roles.oxygendescription>
+<tutorial.roles.mechanicinstructor_oxygen>“Just remember to check up on it and repair it. If you got time to spare, use it to fill up depleted oxygen tanks.”</tutorial.roles.mechanicinstructor_oxygen>
+<tutorial.roles.mechanicinstructor_oxygen2>“How about you put your oxygen tank in there and we call it a day, eh?”</tutorial.roles.mechanicinstructor_oxygen2>
+<tutorial.roles.mechanicinstructor_oxygen2_player>“Sounds good.”</tutorial.roles.mechanicinstructor_oxygen2_player>
+<tutorial.roles.popup.mechanic_oxygen>Interact with the oxygen generator</tutorial.roles.popup.mechanic_oxygen>
+<tutorial.roles.popup.mechanic_oxygen2>Drag the used oxygen tank to the oxygen generator</tutorial.roles.popup.mechanic_oxygen2>
+<tutorial.roles.mechanicinstructor_oxygen3>“Good job, cub. You made it through. Keep your tools sorted, your workplace tidy and let's have that beer now.”</tutorial.roles.mechanicinstructor_oxygen3>
+<tutorial.roles.mechanicinstructor_oxygen3_player>“Sure, thanks chief!”</tutorial.roles.mechanicinstructor_oxygen3_player>
+<tutorial.roles.mechanic.objective.engine>Repair the engine</tutorial.roles.mechanic.objective.engine>
+<tutorial.roles.mechanic.objective.leaks>Repair the hull with the welding tool</tutorial.roles.mechanic.objective.leaks>
+<tutorial.roles.mechanic.objective.ballast1>Dive into the ballast tank</tutorial.roles.mechanic.objective.ballast1>
+<tutorial.roles.mechanic.objective.ballast2>Repair the ballast pump</tutorial.roles.mechanic.objective.ballast2>
+<tutorial.roles.mechanic.objective.ballast3>Leave the ballast tank</tutorial.roles.mechanic.objective.ballast3>
+<tutorial.roles.mechanic.objective.engineering>Learn to fabricate items</tutorial.roles.mechanic.objective.engineering>
+<tutorial.roles.mechanic.objective.engineering1>Deconstruct iron ore</tutorial.roles.mechanic.objective.engineering1>
+<tutorial.roles.mechanic.objective.engineering2>Retrieve the iron</tutorial.roles.mechanic.objective.engineering2>
+<tutorial.roles.mechanic.objective.engineering3>Fabricate a wrench</tutorial.roles.mechanic.objective.engineering3>
+<tutorial.roles.mechanic.objective.oxygen>Refill the oxygen bottle</tutorial.roles.mechanic.objective.oxygen>
+<tutorial.roles.securityinstructor>“Stand with your back straight, recruit! I’ll teach you to shoot, stab and sink your enemies. My name is Officer Pérez, but you might as well forget it now, since you’ll address me only as ma'am.”</tutorial.roles.securityinstructor>
+<charactername.securityinstructor>Ofc. Pérez</charactername.securityinstructor>
+<tutorial.roles.securityinstructor.yesmaam1>“Yes ma'am!”</tutorial.roles.securityinstructor.yesmaam1>
+<tutorial.roles.armorydescription>“Welcome to the armory. Every crew needs an armory to store their weapons. Preferably one that's secured by a locked door to prevent the munitions from falling into the wrong hands. Armories are often situated near the command room and/or the gunnery compartment. In lieu of armories, secure cabinets are sometimes used to store handheld weaponry.”</tutorial.roles.armorydescription>
+<tutorial.roles.securityinstructor.bodyarmor>“Being such a quick learner, you might last longer than most. First of all, equip yourself with body armor. You can find some in that cabinet. Just follow the stink of sweat.”</tutorial.roles.securityinstructor.bodyarmor>
+<tutorial.roles.securityinstructor.yesmaam2>“Yes, ma'am...”</tutorial.roles.securityinstructor.yesmaam2>
+<tutorial.roles.popup.bodyarmor>Find body armor.</tutorial.roles.popup.bodyarmor>
+<tutorial.roles.securityinstructor.gun1>“Good. I think it was recruit Miller who died in that armor. A bright young man, but the worst aim you ever saw. Now get a gun and ammo from that rack. Make sure it’s loaded by hovering your mouse over it.”</tutorial.roles.securityinstructor.gun1>
+<tutorial.roles.popup.gun>Find a gun.</tutorial.roles.popup.gun>
+<tutorial.roles.securityinstructor.gun2>“Management wants me to remind you about trigger discipline at this point. ...Now that that’s done with, let’s get to shooting. We’re fresh out of clowns, so you’ll have to make do with a husk. Proceed to the shooting range.”</tutorial.roles.securityinstructor.gun2>
+<tutorial.roles.securityinstructor.shooting1>“Enemies that manage to board your submarine are usually weak enough to be dispatched with handheld weapons. Husks can infect humans with a deadly parasite, but this one is safely contained in the range. Kill it.”</tutorial.roles.securityinstructor.shooting1>
+<tutorial.roles.popup.shooting>Kill the enemy.</tutorial.roles.popup.shooting>
+<tutorial.roles.securityinstructor.shooting2>“Nice shooting. You beat Miller’s record. Let’s find you something bigger to shoot. Proceed to the coilgun loader.”</tutorial.roles.securityinstructor.shooting2>
+<tutorial.roles.gunnerydescription>“This here's the gunnery. From here you'll be able to control various weapons situated on the hull of your submarine.”</tutorial.roles.gunnerydescription>
+<tutorial.roles.securityinstructor.subweapons>“Submarine weaponry consists of several devices. Along with the turret itself, you’ll find a loader, a supercapacitor, and a periscope.”</tutorial.roles.securityinstructor.subweapons>
+<tutorial.roles.securityinstructor.loader>“A loader should have ammunition compatible with the weapon it's linked to. Load some coilgun ammunition into this one.”</tutorial.roles.securityinstructor.loader>
+<tutorial.roles.popup.loader>Insert a coilgun ammunition box into the loader.</tutorial.roles.popup.loader>
+<tutorial.roles.securityinstructor.supercapacitor>“Supercapacitors provide power to the weapons. Turn this one on by cranking the dial. The higher it is, the faster your weapons charge. Just be careful—on red it starts to overload.”</tutorial.roles.securityinstructor.supercapacitor>
+<tutorial.roles.popup.supercapacitor>Turn on the supercapacitor.</tutorial.roles.popup.supercapacitor>
+<tutorial.roles.securityinstructor.periscope>“Periscopes are used to control turrets. While interacting with a periscope, use your mouse to aim and [InputType.Shoot] to shoot. Now see if you can’t find something to shoot with this coilgun.”</tutorial.roles.securityinstructor.periscope>
+<tutorial.roles.popup.killoutsideenemy>Kill the enemy outside the station.</tutorial.roles.popup.killoutsideenemy>
+<tutorial.roles.securityinstructor.complete>“Good one. Now I can sleep better at night. Unlike recruit Miller.”</tutorial.roles.securityinstructor.complete>
+<tutorial.roles.airlockdescription>“This is the airlock. If you need to leave the sub to perform external repairs, investigate some minerals or peel a nasty crawler off the hull, this is where you go.\nDon't forget your diving suit, though—a diving mask won't cut it out there.”</tutorial.roles.airlockdescription>
+<tutorial.roles.security.objective.gearup>Gear up</tutorial.roles.security.objective.gearup>
+<tutorial.roles.security.objective.gearup1>Equip body armor</tutorial.roles.security.objective.gearup1>
+<tutorial.roles.security.objective.gearup2>Acquire a gun</tutorial.roles.security.objective.gearup2>
+<tutorial.roles.security.objective.gearup3>Acquire ammunition</tutorial.roles.security.objective.gearup3>
+<tutorial.roles.security.objective.gearup4>Kill the target</tutorial.roles.security.objective.gearup4>
+<tutorial.roles.security.objective.turret>Operate a turret</tutorial.roles.security.objective.turret>
+<tutorial.roles.security.objective.turret1>Fill the loader</tutorial.roles.security.objective.turret1>
+<tutorial.roles.security.objective.turret2>Charge up the supercapacitor</tutorial.roles.security.objective.turret2>
+<tutorial.roles.security.objective.turret3>Look through the periscope</tutorial.roles.security.objective.turret3>
+<tutorial.roles.security.objective.turret4>Kill the target outside</tutorial.roles.security.objective.turret4>
+<tutorial.roles.medicalinstructor>“You’re here. Great. My name is Doctor James Beem and I’ll be guiding your hand today. What’s your name again? Oh, it doesn’t matter. Let’s get on with it. My head is absolutely throbbing.”</tutorial.roles.medicalinstructor>
+<charactername.medicalinstructor>Dr. James Beem</charactername.medicalinstructor>
+<tutorial.roles.medbay>“The med bay is where medical items and treatments are stored. If a submarine has a medical fabricator, it is usually situated here. Some med bays are also equipped with beds for patients to rest in. As space is limited in submarines, some vessels opt to do without a dedicated med bay.”</tutorial.roles.medbay>
+<tutorial.roles.medicalinstructor.player>“Ready to go, sir!”</tutorial.roles.medicalinstructor.player>
+<tutorial.roles.medicalinstructor.morphine>“Keep it down, will you? Grab some morphine for me. You can find it in that cabinet over there. That’s a standard medical cabinet. You can find those on board most submarines.”</tutorial.roles.medicalinstructor.morphine>
+<tutorial.roles.popup.morphine>Find morphine.</tutorial.roles.popup.morphine>
+<tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press ‘H’ to enter my health interface.”</tutorial.roles.medicalinstructor.healthui>
+<tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
+<tutorial.roles.popup.healthui2>Drag the morphine anywhere on the body.</tutorial.roles.popup.healthui2>
+<tutorial.roles.medicalinstructor.medfabricator1>“That takes care of my headache, but the shakes are still there. We don’t have any naloxone left, do we? You’ll just have to make some. First, find morphine and stabilozine.”</tutorial.roles.medicalinstructor.medfabricator1>
+<tutorial.roles.popup.medfabricator1>Find morphine and stabilozine.</tutorial.roles.popup.medfabricator1>
+<tutorial.roles.medicalinstructor.medfabricator2>“You can make medicine in the medical fabricator. Like a regular fabricator, it creates new items out of materials you feed it. Try it out.”</tutorial.roles.medicalinstructor.medfabricator2>
+<tutorial.roles.popup.medfabricator2>Find naloxone on the list and click on it.</tutorial.roles.popup.medfabricator2>
+<tutorial.roles.popup.medfabricator3>Insert morphine and stabilozine into the input slots and press "Create."</tutorial.roles.popup.medfabricator3>
+<tutorial.roles.popup.medfabricator4>Take the fabricated naloxone from the output on the right-hand side of the screen.</tutorial.roles.popup.medfabricator4>
+<tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the naloxone on me. Remember, ‘H’ to enter my health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
+<tutorial.roles.popup.naloxone>Administer naloxone.</tutorial.roles.popup.naloxone>
+<tutorial.roles.medicalinstructor.patients1>“That’s about all you can do for me right now. If you want to be of more use, tend to the patients next door. And turn off the lights. I’m gonna rest my eyes a bit.”</tutorial.roles.medicalinstructor.patients1>
+<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them (‘H’ to enter the health interface!) to learn what ails them.”</tutorial.roles.medicalinstructor.patients2>
+<tutorial.roles.medicalinstructor.patients3>“Clicking on a patient's limbs in the interface reveals where they’re hurting, and how. You can see what treatments are available for each affliction. Cabinets should be stocked with whatever you need.”</tutorial.roles.medicalinstructor.patients3>
+<tutorial.roles.popup.treatpatients>Treat all patients.</tutorial.roles.popup.treatpatients>
+<tutorial.roles.medicalinstructor.burns>“Burns are commonly sustained from explosions and electric shocks. Bandages and plastiseal are the typical treatments. Burns are also limb-specific, which means you’ll have to apply the cure to the correct limb.”</tutorial.roles.medicalinstructor.burns>
+<tutorial.roles.popup.burns>Apply bandages to burned limb.</tutorial.roles.popup.burns>
+<tutorial.roles.medicalinstructor.psychosis>“Psychosis is usually inflicted by otherworldly sources. It is treated with haloperidol.”</tutorial.roles.medicalinstructor.psychosis>
+<tutorial.roles.popup.psychosis>Give the patient haloperidol.</tutorial.roles.popup.psychosis>
+<tutorial.roles.medicalinstructor.damage>“Blunt force trauma (and other physical damage afflictions like lacerations and bite wounds) are treated with painkillers such as morphine.”</tutorial.roles.medicalinstructor.damage>
+<tutorial.roles.popup.damage>Give the patient morphine.</tutorial.roles.popup.damage>
+<tutorial.roles.medicalinstructor.cpr1>“Well done. There’s one more thing you need to learn, and that’s how to perform CPR.”</tutorial.roles.medicalinstructor.cpr1>
+<tutorial.roles.medicalinstructor.cpr2>“When someone sustains enough damage, they enter a critical state. In this state they are immobile and will perish if they don’t receive immediate aid.”</tutorial.roles.medicalinstructor.cpr2>
+<tutorial.roles.medicalinstructor.cpr3>“To resuscitate someone before they die, open their health interface and press the ‘Perform CPR’ button. If you're successful, the patient will be stabilized. Note that the resuscitation process often takes time.”</tutorial.roles.medicalinstructor.cpr3>
+<tutorial.roles.medicalinstructor.cpr4>“Come back to the med bay. There’s a patient here in need of CPR. Take your time, though; he’s only pretending. ...This time.”</tutorial.roles.medicalinstructor.cpr4>
+<tutorial.roles.popup.cpr>Press the "Perform CPR" button.</tutorial.roles.popup.cpr>
+<tutorial.roles.medicalinstructor.complete>“Good job. Coffee is on me.”</tutorial.roles.medicalinstructor.complete>
+<tutorial.roles.medic.objective.morphine>Treat the instructor</tutorial.roles.medic.objective.morphine>
+<tutorial.roles.medic.objective.morphine1>Find morphine</tutorial.roles.medic.objective.morphine1>
+<tutorial.roles.medic.objective.morphine2>Administer morphine to the instructor</tutorial.roles.medic.objective.morphine2>
+<tutorial.roles.medic.objective.medfabricator>Fabricate and administer naloxone</tutorial.roles.medic.objective.medfabricator>
+<tutorial.roles.medic.objective.medfabricator1>Find morphine and stabilozine.</tutorial.roles.medic.objective.medfabricator1>
+<tutorial.roles.medic.objective.medfabricator2>Use the medical fabricator to craft naloxone</tutorial.roles.medic.objective.medfabricator2>
+<tutorial.roles.medic.objective.medfabricator3>Treat the instructor with naloxone</tutorial.roles.medic.objective.medfabricator3>
+<tutorial.roles.medic.objective.crewquarters>Treat patients in the crew quarters</tutorial.roles.medic.objective.crewquarters>
+<tutorial.roles.medic.objective.crewquarters1>Go to crew quarters</tutorial.roles.medic.objective.crewquarters1>
+<tutorial.roles.medic.objective.crewquarters2>Treat all patients</tutorial.roles.medic.objective.crewquarters2>
+<tutorial.roles.medic.objective.cpr>Administer CPR</tutorial.roles.medic.objective.cpr>
+
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau for v0.18.15.0 -->
-<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
+<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7016), EnglishVanillaEditorTexts.xml (7017~8317), EnglishVanilla EnglishVanillaNew.xml (8318~8343) -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
   
@@ -6605,11 +7103,14 @@
 <canattachtoprevious>能以何處連結</canattachtoprevious>
 <canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 
+<subeditor.packagealreadyexists>There is already a content package with the name "[name]". Please choose another name or select the package from the list if you want to edit it.</subeditor.packagealreadyexists><!--ADD-->
+<subeditor.duplicatesubinpackage>The content package already contains a submarine with the same name. Do you want to overwrite the existing submarine file?</subeditor.duplicatesubinpackage><!--ADD-->
+
+
 <!-- Entity Editor -->
 <stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
 <stringpropertycannottranslate>This text will not be translated - text with the tag [tag] not found in the language files.</stringpropertycannottranslate>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 
@@ -6791,7 +7292,6 @@
 <charactereditor.toolspanel>Tools</charactereditor.toolspanel>
 <charactereditor.minormodestitle>Show</charactereditor.minormodestitle>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 <charactereditor.addaitarget>Add Target</charactereditor.addaitarget>
 <charactereditor.addbloodemitter>Add Blood Emitter</charactereditor.addbloodemitter>
 <charactereditor.addgibemitter>Add Gib Emitter</charactereditor.addgibemitter>
@@ -7816,20 +8316,27 @@
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaNew.xml -->
-<!-- edited by nokau for v0.18.15.0 -->
-<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
+<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7016), EnglishVanillaEditorTexts.xml (7017~8317), EnglishVanilla EnglishVanillaNew.xml (8318~8343) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
-<!-- New values after June 1 (June 2022 hotfix) -->
+<!-- Modified values after September 5 (Hoist the Sails update) --><!--NEW TEXT FROM HERE?-->
+<tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
+<tutorial.roles.popup.medfabricator1>Find Morphine and Stabilozine.</tutorial.roles.popup.medfabricator1>
+<tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring3>
+<tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring5>
+<tutorial.roles.engineer.objective.rewire3>Wire the Junction Box's POWER output</tutorial.roles.engineer.objective.rewire3>
+<tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER input</tutorial.roles.engineer.objective.rewire4>
+<tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.healthui>
+<tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the Naloxone on me. Remember, [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
+<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them ([InputType.Health] to enter Health interface!) to learn about what ails them.”</tutorial.roles.medicalinstructor.patients2>
 
-<inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory>
+<entitydescription.magnesium>Used in the manufacture of explosives and medical compounds.</entitydescription.magnesium>
+<entitydescription.lithium>Most commonly used in the manufacture of batteries and antipsychotic drugs. Reacts violently when in contact with water.</entitydescription.lithium>
 
-<subcategory.outpost>哨站</subcategory.outpost>
-
-<editor.copytoclipboard>複製到剪貼簿</editor.copytoclipboard>
-
-<itemtransferheader>潛艇無手動配置的物資</itemtransferheader>
-<itemtransferwarning>目標潛艇上或許沒有足夠的起始燃料、氧氣罐、彈藥、等等物品，你確定要不攜帶任何物品就進行替換嗎？</itemtransferwarning>
+<!-- New values after September 5 (Hoist the Sails update) -->
   
+<tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
+<submarine.classandtier>[class] ([tier])</submarine.classandtier>
 </infotexts>
