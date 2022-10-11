@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
-<!-- edited by nokau for v0.17.15.0 This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- Personality traits -->
-<PersonalityTrait name="Professional" alloweddialogtags="professional,none" commonness="1" />
-<PersonalityTrait name="Laid-back" alloweddialogtags="laid-back,none" commonness="1" />
-<PersonalityTrait name="Rude" alloweddialogtags="rude,none" commonness="1" />
-<PersonalityTrait name="Tough" alloweddialogtags="tough,none" commonness="1" />
-<PersonalityTrait name="Joker" alloweddialogtags="joker,none" commonness="0.5" />
-<PersonalityTrait name="Broken English" alloweddialogtags="brokenenglish" commonness="0.5" />
-<PersonalityTrait name="Fearful" alloweddialogtags="fearful,none" commonness="0.5" />
-<PersonalityTrait name="Crazy" alloweddialogtags="crazy,none" commonness="0.5" />
-
+<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with the English text files as close as possible, until updates happen.-->
 <!-- Generic conversation -->
 <Conversation line="各位，讓我們啟航吧！" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="" speaker="0"/>
