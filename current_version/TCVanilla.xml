@@ -6585,7 +6585,7 @@
 <entityname.flakshrapnelexplosive>Explosive Flak Fragment</entityname.flakshrapnelexplosive>
 <entityname.molochbone>摩螺克骨頭</entityname.molochbone>
 <entitydescription.molochbone>一小塊摩螺克骨頭。被哨站居民視為昂貴的奢侈品；能被以高價出售。</entitydescription.molochbone>
-<campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果你選擇了它，你將以 0 馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
+<campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果你選擇了它，你將以0馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
 <campaignsubincompatible>這艘潛艇並未被標記為與戰役模式相容。這艘潛艇有可能使戰役失衡或無法完成。</campaignsubincompatible><!--NEED EDIT-->
 <inputtype.chatbox>切換聊天室窗</inputtype.chatbox>
 <duplicatebindwarning>You have bound [savedbind] to [key]. It overlaps with the new keybind [defaultbind]. This can lead to unexpected behavior. Consider revisiting your keybinds in the settings.</duplicatebindwarning>
@@ -6630,135 +6630,135 @@
 <missionsuccess.miningmission1_abyss>已證實稀有的[resourcename1]脈確實存在。</missionsuccess.miningmission1_abyss>
 <missionheader0.miningmission1_abyss>已採集礦物</missionheader0.miningmission1_abyss>
 <missionsonarlabel.miningmission1_abyss>[resourcename1]</missionsonarlabel.miningmission1_abyss>
-<tutorial.objectives>Objectives</tutorial.objectives>
+<tutorial.objectives>目標</tutorial.objectives>
 <tutorial.roomcompleted>Room completed</tutorial.roomcompleted>
 <tutorial.taskinprogress>Task in progress...</tutorial.taskinprogress>
-<tutorialcompleted>[tutorialname] (Completed)</tutorialcompleted>
-<tutorial.continue>“Got it.”</tutorial.continue>
-<tutorial.continue>“Understood.”</tutorial.continue>
-<tutorial.skiptotutorial>[Skip to tutorial]</tutorial.skiptotutorial>
-<tutorial.basic>Basics (Movements and interaction)</tutorial.basic>
-<tutorial.basics.message.1>“Ah, I see you're standing. I'd like to keep this brief, since you're the sixth person I've had to guide today, and frankly I'm getting tired of it.”</tutorial.basics.message.1>
-<tutorial.basics.message.1_player>“...Where am I? Who am I?”</tutorial.basics.message.1_player>
-<tutorial.basics.message.2>“You're in an automated rehabilitation chamber. You've suffered a traumatic experience and were in a perpetual state of screaming and defecating your boiler suit. Dr. Happy has seen fit to treat you.”</tutorial.basics.message.2>
-<tutorial.basics.message.2_player>“I don't remember anything...”</tutorial.basics.message.2_player>
-<tutorial.basics.message.3>“That's great news! And significantly reduces the chance of intense nightmares and flashbacks, too. It's an intended but slightly inconvenient side effect of your medication. We just have to re-teach you all the basics, like using your arms and legs, and you're good to go and make some money to pay your medical bills!”</tutorial.basics.message.3>
-<tutorial.basics.message.3_player>“Medical bills?”</tutorial.basics.message.3_player>
-<tutorial.basics.message.4>“Anyways, let's get you going. Try to move those arms and legs, will you? The door will open once you press the button. It's slightly out of reach, though.”</tutorial.basics.message.4>
-<tutorial.basics.endmessage.1>“Ah shit, we didn't think you'd get this far so soon... This sector is unfortunately still quite unfinished, as you can see. There used to be a Mudraptor nest here, but we're 90% sure they're all gone.”</tutorial.basics.endmessage.1>
-<tutorial.basics.endmessage.1_player>“What's a Mudraptor?”</tutorial.basics.endmessage.1_player>
-<tutorial.basics.endmessage.2>“Hold on a second... I see some additional movement on a camera. Uh oh...”</tutorial.basics.endmessage.2>
-<tutorial.basics.endmessage.2_player>“What's that noise?!”</tutorial.basics.endmessage.2_player>
-<tutorial.basics.wasd>Use [InputType.Up], [InputType.Left], [InputType.Down], and [InputType.Right] to move your character.</tutorial.basics.wasd>
-<tutorial.basics.looking>Use the cursor to control the direction your character is facing.</tutorial.basics.looking>
-<tutorial.basics.cursor>Use [InputType.Select] to interact with buttons, doors and objects.</tutorial.basics.cursor>
-<tutorial.basics.highlight>Interactable objects are highlighted when the cursor moves over them.</tutorial.basics.highlight>
-<tutorial.basics.obtain>To pick up an item, point at it with the cursor and use [InputType.Select].</tutorial.basics.obtain>
-<tutorial.basics.lockeddoor>Locked doors require an ID card to get through.</tutorial.basics.lockeddoor>
-<tutorial.basics.stairsusage>Press [InputType.Down] to drop down the platform, onto the stairs.</tutorial.basics.stairsusage>
-<tutorial.basics.sprint>Hold [InputType.Run] to run.</tutorial.basics.sprint>
-<tutorial.basics.repair>Devices sometimes break down. They can be repaired with the correct repair tool.</tutorial.basics.repair>
-<tutorial.basics.containers>Items can be found in containers. Use the cursor and [InputType.Select] to open a container.</tutorial.basics.containers>
-<tutorial.basics.equip>Double-click an item to equip it.</tutorial.basics.equip>
-<tutorial.basics.equip2>Items in your hotbar can also be equipped by pressing the corresponding hotbar number (1-9).</tutorial.basics.equip2>
-<tutorial.basics.repair2>Press [InputType.Select] to repair damaged devices.</tutorial.basics.repair2>
-<tutorial.basics.waitdrain>Well done! Wait for the pump to drain the room.</tutorial.basics.waitdrain>
-<tutorial.basics.repairouchie>Ouch! Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
-<tutorial.basics.weldingtool>Welding tools are vital equipment for sealing leaks. Obtain a welding tool.</tutorial.basics.weldingtool>
-<tutorial.basics.weldingfuel>Welding tools need welding fuel to work. Get a welding fuel tank from the container.</tutorial.basics.weldingfuel>
-<tutorial.basics.insertweldingfuel>Drag a welding fuel tank onto the welding tool to insert it.</tutorial.basics.insertweldingfuel>
-<tutorial.basics.insertweldingfuelalt>Alternatively, while you have a welding tool equipped, press the welding fuel tank's hotbar number to insert it.</tutorial.basics.insertweldingfuelalt>
-<tutorial.basics.aimandfire>To aim your tool or weapon, hold the [InputType.Aim] button, then press [InputType.Shoot] to use or fire it.</tutorial.basics.aimandfire>
-<tutorial.basics.aim>Aim</tutorial.basics.aim>
-<tutorial.basics.fire>Fire</tutorial.basics.fire>
-<tutorial.basics.holdaim>Hold the [InputType.Aim] button to aim toward the cursor.</tutorial.basics.holdaim>
-<tutorial.basics.holdaim2>While aiming, hold [InputType.Shoot] to weld.</tutorial.basics.holdaim2>
-<tutorial.basics.ladders>Use [InputType.Up] and [InputType.Down] while near a ladder to go up or down it.</tutorial.basics.ladders>
-<tutorial.basics.welding>Weld the leaking wall to continue.</tutorial.basics.welding>
-<tutorial.basics.divingsuits>Diving suits allow you to swim underwater.</tutorial.basics.divingsuits>
-<tutorial.basics.divingsuits2>Equip a diving suit by double-clicking it or dragging it onto the highlighted slot.</tutorial.basics.divingsuits2>
-<tutorial.basics.nooxygen>WARNING! Your diving suit is empty, preventing you from breathing. Quickly find an oxygen tank and insert it.</tutorial.basics.nooxygen>
-<tutorial.basics.oxygen>Wearing a diving suit slowly drains its oxygen tank.</tutorial.basics.oxygen>
-<tutorial.basics.oxygen2>When an oxygen tank is almost empty, your diving suit will sound the alarm.</tutorial.basics.oxygen2>
-<tutorial.basics.oxygen3>You're running low on oxygen! To unequip the diving suit, drag it out of the inventory slot.</tutorial.basics.oxygen3>
-<tutorial.basics.righttool>Pumps are mechanical devices. Mechanical devices require a wrench to repair.</tutorial.basics.righttool>
-<tutorial.basics.wrenchrepair>Find a wrench in a nearby cabinet, equip it, and repair the pump.</tutorial.basics.wrenchrepair>
-<tutorial.basics.interact2>Press [InputType.Select] to interact with the pump or other interactable devices.</tutorial.basics.interact2>
-<tutorial.basics.puzzle>Using the pump's interface, see if you can get up the ladder...</tutorial.basics.puzzle>
-<tutorial.basics.puzzlehelp>By setting the pump to pump water into the room, you will be able to swim to the ladder.</tutorial.basics.puzzlehelp>
-<tutorial.basics.equipoxygentank>Drag the oxygen tank on top of your equipped diving suit in your inventory to insert the tank into it.</tutorial.basics.equipoxygentank>
-<tutorial.basics.pumpcontrols>Use the pump controls to pump water into the room. Press the power button to turn on the pump if needed.</tutorial.basics.pumpcontrols>
-<tutorial.basics.drop>You can drop items simply by dragging them out of your inventory.</tutorial.basics.drop>
-<tutorial.basics.unequipdivingsuitdrag>Unequip your diving suit by dragging it out of its inventory slot.</tutorial.basics.unequipdivingsuitdrag>
-<tutorial.basics.unequipdivingsuitclick>Unequip your diving suit by double-clicking the inventory slot or by clicking the green button above it.</tutorial.basics.unequipdivingsuitclick>
-<tutorial.basics.objective1>Press the button</tutorial.basics.objective1>
-<tutorial.basics.objective2>Obtain an ID card</tutorial.basics.objective2>
-<tutorial.basics.objective3>Open the locked door</tutorial.basics.objective3>
-<tutorial.basics.objective4>Obtain a screwdriver</tutorial.basics.objective4>
-<tutorial.basics.objective5>Repair the junction box</tutorial.basics.objective5>
-<tutorial.basics.objective6>Wait for the room to drain</tutorial.basics.objective6>
-<tutorial.basics.objective7>Obtain a welding tool</tutorial.basics.objective7>
-<tutorial.basics.objective8>Weld the damaged wall</tutorial.basics.objective8>
-<tutorial.basics.objective9>Wear a diving suit</tutorial.basics.objective9>
-<tutorial.basics.objective10>Insert oxygen into the diving suit</tutorial.basics.objective10>
-<tutorial.basics.objective11>Obtain a wrench</tutorial.basics.objective11>
-<tutorial.basics.objective12>Repair the pump</tutorial.basics.objective12>
-<tutorial.basics.objective13>Use the pump to flood the room</tutorial.basics.objective13>
-<tutorial.basics.objective14>Leave</tutorial.basics.objective14>
-<tutorial.roles>Roles (Job-specific tasks)</tutorial.roles>
+<tutorialcompleted>[tutorialname] (已完成)</tutorialcompleted>
+<tutorial.continue>「了解。」</tutorial.continue>
+<tutorial.continue>「知道了。」</tutorial.continue>
+<tutorial.skiptotutorial>[跳至教學]</tutorial.skiptotutorial>
+<tutorial.basic>基本 (移動與互動)</tutorial.basic>
+<tutorial.basics.message.1>「啊，我看到你起身了。我會盡量簡短帶過，因為你是我今天必須指導的第六個人，坦白說我已經快受不了了。」</tutorial.basics.message.1>
+<tutorial.basics.message.1_player>「...這是哪裡？我是誰？」</tutorial.basics.message.1_player>
+<tutorial.basics.message.2>「你在一個自動康復室裡。你遭受了嚴重創傷，並且一直處於不斷尖叫和排便的狀態。Happy醫生認為這個療程會適合你。」</tutorial.basics.message.2>
+<tutorial.basics.message.2_player>「我什麼都不記得...」</tutorial.basics.message.2_player>
+<tutorial.basics.message.3>「那是個好消息！這大大地降低了產生強烈惡夢與回憶發生的機率。那是你所使用藥物的作用之一，或許有點不太方便。但現在我們只需要重新指導你一些基本能力，像是使用你的手腳，你就能開始為你的醫藥費努力打拼了！」</tutorial.basics.message.3>
+<tutorial.basics.message.3_player>「醫藥費？」</tutorial.basics.message.3_player>
+<tutorial.basics.message.4>「總之，我們開始吧。你能試著動動你的手腳嗎？那扇門在你按下按鈕之後就會開啟。不過它有點距離。」</tutorial.basics.message.4>
+<tutorial.basics.endmessage.1>「啊、狗屎，我們沒有想到你的進展會這麼神速...你可以看到這個區域還沒有完工。這裡本來是一個泥偶迅猛龍的巢穴，不過我們有90%的信心牠們已經走光了。」</tutorial.basics.endmessage.1>
+<tutorial.basics.endmessage.1_player>「泥偶迅猛龍是什麼東西？」</tutorial.basics.endmessage.1_player>
+<tutorial.basics.endmessage.2>「等等... 攝影機的畫面上有什麼動靜。呃噢...」</tutorial.basics.endmessage.2>
+<tutorial.basics.endmessage.2_player>「那是什麼聲音？！」</tutorial.basics.endmessage.2_player>
+<tutorial.basics.wasd>使用 [InputType.Up]、[InputType.Left]、[InputType.Down]、[InputType.Right] 移動你的角色。</tutorial.basics.wasd>
+<tutorial.basics.looking>以滑鼠游標控制角色所面向的方向。</tutorial.basics.looking>
+<tutorial.basics.cursor>使用 [InputType.Select] 向按鈕、門、和物品進行互動。</tutorial.basics.cursor>
+<tutorial.basics.highlight>可互動的物品將在滑鼠游標懸浮在它們之上時以醒目方式顯示。</tutorial.basics.highlight>
+<tutorial.basics.obtain>要撿起一項物品，以滑鼠游標指向它並按下 [InputType.Select].</tutorial.basics.obtain>
+<tutorial.basics.lockeddoor>想通過一扇鎖上的門需要一張ID卡。</tutorial.basics.lockeddoor>
+<tutorial.basics.stairsusage>按下 [InputType.Down] 跳下平台至樓梯上。</tutorial.basics.stairsusage>
+<tutorial.basics.sprint>按住 [InputType.Run] 奔跑。</tutorial.basics.sprint>
+<tutorial.basics.repair>設備有時候會發生故障。使用正確的維修工具能將他們修復。</tutorial.basics.repair>
+<tutorial.basics.containers>物品能夠在容器中被找到。移動滑鼠游標並按下 [InputType.Select] 來打開容器。</tutorial.basics.containers>
+<tutorial.basics.equip>雙擊一項物品來裝備它。</tutorial.basics.equip>
+<tutorial.basics.equip2>你也能透過對應的按鍵 (1-9) 裝備位於你的物品欄位中的物品。</tutorial.basics.equip2>
+<tutorial.basics.repair2>按下 [InputType.Select] 來維修損壞的設備。</tutorial.basics.repair2>
+<tutorial.basics.waitdrain>做得好！等待抽水機將水從室內抽出。</tutorial.basics.waitdrain>
+<tutorial.basics.repairouchie>噢！Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
+<tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
+<tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
+<tutorial.basics.insertweldingfuel>將焊接燃料罐拖拉至焊接工具的圖示上來裝備它。</tutorial.basics.insertweldingfuel>
+<tutorial.basics.insertweldingfuelalt>或者，當你裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
+<tutorial.basics.aimandfire>按住 [InputType.Aim] 來以你的武器或工具進行瞄準，同時按下 [InputType.Shoot] 來使用工具或發射武器。</tutorial.basics.aimandfire>
+<tutorial.basics.aim>瞄準</tutorial.basics.aim>
+<tutorial.basics.fire>開火</tutorial.basics.fire>
+<tutorial.basics.holdaim>按住 [InputType.Aim] 來瞄準滑鼠游標所指的方向。</tutorial.basics.holdaim>
+<tutorial.basics.holdaim2>按住瞄準的同時，使用 [InputType.Shoot] 進行焊接。</tutorial.basics.holdaim2>
+<tutorial.basics.ladders>在接近梯子時使用 [InputType.Up] 和 [InputType.Down] 來爬上或爬下。</tutorial.basics.ladders>
+<tutorial.basics.welding>修復牆壁以繼續。</tutorial.basics.welding>
+<tutorial.basics.divingsuits>潛水服能方便你在水中行動。</tutorial.basics.divingsuits>
+<tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖拉至有醒目標示的欄位中。</tutorial.basics.divingsuits2>
+<tutorial.basics.nooxygen>警告！你的潛水服沒有氧氣，你會無法呼吸。快裝上一個氧氣罐。</tutorial.basics.nooxygen>
+<tutorial.basics.oxygen>穿著潛水服時將緩慢地消耗其中的氧氣罐。</tutorial.basics.oxygen>
+<tutorial.basics.oxygen2>當氧氣罐快要消耗完畢時，你的潛水服會發出警告聲。</tutorial.basics.oxygen2>
+<tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖拉至欄位之外。</tutorial.basics.oxygen3>
+<tutorial.basics.righttool>抽水機是一項機械設備。機械設備必須以板手修復。</tutorial.basics.righttool>
+<tutorial.basics.wrenchrepair>從櫃子裡取得一把板手、裝備它並修復抽水機。</tutorial.basics.wrenchrepair>
+<tutorial.basics.interact2>按下 [InputType.Select] 來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
+<tutorial.basics.puzzle>操作抽水機的控制介面，試著靠近梯子...</tutorial.basics.puzzle>
+<tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣你就能游近梯子。</tutorial.basics.puzzlehelp>
+<tutorial.basics.equipoxygentank>拖拉氧氣罐至你所裝備的潛水服圖示上將它放入。</tutorial.basics.equipoxygentank>
+<tutorial.basics.pumpcontrols>操作抽水機將水打入室內。若有必要，按下電源按鈕確認抽水機是否啟動。</tutorial.basics.pumpcontrols>
+<tutorial.basics.drop>你能將物品欄中的物品拖拉至欄位之外來將他們丟下。</tutorial.basics.drop>
+<tutorial.basics.unequipdivingsuitdrag>將你的潛水服拖拉至欄位之外將它解除裝備。</tutorial.basics.unequipdivingsuitdrag>
+<tutorial.basics.unequipdivingsuitclick>雙擊你的潛水服所在的欄位或點擊欄位上方的綠色條狀按鈕將它解除裝備。</tutorial.basics.unequipdivingsuitclick>
+<tutorial.basics.objective1>按下按鈕</tutorial.basics.objective1>
+<tutorial.basics.objective2>取得一張ID卡</tutorial.basics.objective2>
+<tutorial.basics.objective3>開啟鎖上的門</tutorial.basics.objective3>
+<tutorial.basics.objective4>取得一支螺絲起子</tutorial.basics.objective4>
+<tutorial.basics.objective5>修復配電箱</tutorial.basics.objective5>
+<tutorial.basics.objective6>等待房間內的水消退</tutorial.basics.objective6>
+<tutorial.basics.objective7>取得焊接工具</tutorial.basics.objective7>
+<tutorial.basics.objective8>焊接受損的牆壁</tutorial.basics.objective8>
+<tutorial.basics.objective9>穿上一套潛水服</tutorial.basics.objective9>
+<tutorial.basics.objective10>將氧氣罐裝入潛水服</tutorial.basics.objective10>
+<tutorial.basics.objective11>取得一把板手</tutorial.basics.objective11>
+<tutorial.basics.objective12>修復抽水機</tutorial.basics.objective12>
+<tutorial.basics.objective13>使用抽水機江水打入室內</tutorial.basics.objective13>
+<tutorial.basics.objective14>離開</tutorial.basics.objective14>
+<tutorial.roles>角色 (特定職業任務)</tutorial.roles>
 <charactername.receptiondude>Todd Burdock</charactername.receptiondude>
-<tutorial.roles.message.1>“Oh hey—how's it floating, dude? You here to get your papers to sign on a submarine?”</tutorial.roles.message.1>
-<tutorial.roles.message.1_player>“That's right!”</tutorial.roles.message.1_player>
-<tutorial.roles.message.2>“Whoa, such enthusiasm, dude! I love it! Are you familiar with the courses we offer?”</tutorial.roles.message.2>
-<tutorial.roles.message.2_player1>“No, what courses?”</tutorial.roles.message.2_player1>
-<tutorial.roles.message.2_player2>“Yes.” [Skip to tutorial]</tutorial.roles.message.2_player2>
-<tutorial.roles.message.3_skip>“All righty dude, just chill in the next room until the other students arrive. Lemme open that door for ya.”</tutorial.roles.message.3_skip>
-<tutorial.roles.message.3_skip_player>“Great!”</tutorial.roles.message.3_skip_player>
-<tutorial.roles.message.3>“Ah, you know dude, just the thingamajig politician dude in his ivory tower trying to solve a problem...without actually solving the problem, ya know?”</tutorial.roles.message.3>
-<tutorial.roles.message.3_player>“What problem?”</tutorial.roles.message.3_player>
-<tutorial.roles.message.4>“The submarine business—it ain't all that, you feel me? Ain't many that return from a trip. Ain't any that return from ten trips. So there's a 100% discount on whatever passes as education here, 'cus that'll solve things.”</tutorial.roles.message.4>
-<tutorial.roles.message.4_player>“Are you bashing your own program?”</tutorial.roles.message.4_player>
-<tutorial.roles.message.5>“I'm just the reception dude, dude. Ain't my job to get meat for the grinder. Want my advice? Take a station job—fight back against the system, dude.”</tutorial.roles.message.5>
-<tutorial.roles.message.5_player>“But I want to find adventure! Besides, there's no food here...”</tutorial.roles.message.5_player>
-<tutorial.roles.message.6a>“Suit yourself, dude... We offer five courses here:\n\nFirst off, the Captain. If ya feel like delegating all the shitty tasks, this is for you. Highly recommend.”</tutorial.roles.message.6a>
-<tutorial.roles.message.6a_player>“Like the famous Herman Pollard!”</tutorial.roles.message.6a_player>
-<tutorial.roles.message.6b>“Sure, dude. Then there's the fixin' duo.\nThe Engineer gets all the fancy toys, but with a high risk of bein' shocked. Ain't for the weak hearted.\nThen there's the Mechanic, if ya don't mind getting wet. He's doing the welding and pump-fixing kind of things. Ain't recommended for smokers, feel me?”</tutorial.roles.message.6b>
-<tutorial.roles.message.6b_player>“Sounds like important jobs!”</tutorial.roles.message.6b_player>
-<tutorial.roles.message.6c>“Yeah, awful right? Then there's the Security Officer, if you like shooting the creepies. They're usually too in love with their power, though. I actually got this tattoo that says ASOAB. Means "All Security Officers Are Bastards." Watch out with those dudes, dude.”</tutorial.roles.message.6c>
-<tutorial.roles.message.6c_player>“They can't all be that bad?”</tutorial.roles.message.6c_player>
-<tutorial.roles.message.6d>“Finally, there's the Medical Doctor. Most of 'em are creepier than the actual creepies, but some actually make people better, man. They're some literal saints, feel me?\nAnyhow, if ya still interested, move on to the next room.”</tutorial.roles.message.6d>
-<tutorial.roles.message.6_player>“Sign me up, sir!”</tutorial.roles.message.6_player>
-<roomname.reception>Reception</roomname.reception>
-<roomname.lounge>Lounge</roomname.lounge>
-<tutorial.roles.popup.moveright>Move to the room on the right to continue.</tutorial.roles.popup.moveright>
-<tutorial.roles.popup.creworders>Use [InputType.CrewOrders] to toggle the list of crewmembers.</tutorial.roles.popup.creworders>
-<tutorial.roles.popup.creworders2>Select a trainee position from the list of crewmembers with [InputType.Select].</tutorial.roles.popup.creworders2>
-<charactername.captaintrainee>Captain trainee</charactername.captaintrainee>
-<charactername.engineertrainee>Engineer trainee</charactername.engineertrainee>
-<charactername.mechanictrainee>Mechanic trainee</charactername.mechanictrainee>
-<charactername.securitytrainee>Security trainee</charactername.securitytrainee>
-<charactername.medictrainee>Medic trainee</charactername.medictrainee>
-<tutorial.roles.idcarddescription>This ID card gives the trainee access to the training areas.</tutorial.roles.idcarddescription>
-<tutorial.roles.captaindescription>The Captain steers the submarine, operates the sonar and issues commands to the crew.</tutorial.roles.captaindescription>
-<tutorial.roles.engineerdescription>The Engineer operates the nuclear reactor to generate power and maintains electrical devices. Skilled engineers can add custom functionality to submarines with custom wiring and signal components.</tutorial.roles.engineerdescription>
-<tutorial.roles.mechanicdescription>The Mechanic maintains the mechanical devices, such as the engine and pumps, to keep the submarine moving smoothly. Additionally, any leaks in the hull are typically fixed by mechanics, as they have superior welding skills.</tutorial.roles.mechanicdescription>
-<tutorial.roles.securitydescription>The Security Officer protects the submarine and crew from external and internal threats. With a combination of ship-mounted and handheld weapons, and the skills to use them, they're the first line of defense.</tutorial.roles.securitydescription>
-<tutorial.roles.medicdescription>The Medical Doctor treats the ailments of the crew. This ranges from bandaging small wounds to administering drugs. In a worst-case scenario, fallen crewmembers can be saved with CPR.</tutorial.roles.medicdescription>
-<tutorial.roles.startprompt_captain>Start the tutorial for the Captain?</tutorial.roles.startprompt_captain>
-<tutorial.roles.startprompt_engineer>Start the tutorial for the Engineer?</tutorial.roles.startprompt_engineer>
-<tutorial.roles.startprompt_mechanic>Start the tutorial for the Mechanic?</tutorial.roles.startprompt_mechanic>
-<tutorial.roles.startprompt_security>Start the tutorial for the Security Officer?</tutorial.roles.startprompt_security>
-<tutorial.roles.startprompt_medic>Start the tutorial for the Medical Doctor?</tutorial.roles.startprompt_medic>
-<tutorial.roles.startprompt_yes>Yes. Start tutorial.</tutorial.roles.startprompt_yes>
-<tutorial.roles.startprompt_no>No. Choose a different tutorial.</tutorial.roles.startprompt_no>
-<tutorial.roles.reception_notification>“Hey dude, the teacher is ready for ya.”</tutorial.roles.reception_notification>
-<tutorial.roles.reception_notification_player>“On my way.”</tutorial.roles.reception_notification_player>
-<tutorial.roles.popup.start>To start the tutorial, find your instructor at the marked location.</tutorial.roles.popup.start>
-<tutorial.roles.objective.selection1>Switch character</tutorial.roles.objective.selection1>
-<tutorial.roles.objective.selection2>Leave the lounge area</tutorial.roles.objective.selection2>
-<tutorial.roles.captaininstructor>“Hi. I am Captain Sterner. I will be your instructor today. I will start with a brief explanation of what it means to be a captain, followed by a practical course. It is crucial to enforce a chain of command, so you will address me as "Captain." Say "Yes, Captain" if you understand.”</tutorial.roles.captaininstructor>
-<charactername.captaininstructor>Captain Sterner</charactername.captaininstructor>
-<tutorial.roles.yescaptain_player>“Yes, Captain!”</tutorial.roles.yescaptain_player>
+<tutorial.roles.message.1>「喔，嘿──你好嗎老兄？你來拿上潛艇需要的簽名文件？」</tutorial.roles.message.1>
+<tutorial.roles.message.1_player>「沒錯！」</tutorial.roles.message.1_player>
+<tutorial.roles.message.2>「哇喔老兄，你聽起來真有熱誠！太讚了！你知道我們有提供相關課程嗎？」</tutorial.roles.message.2>
+<tutorial.roles.message.2_player1>「沒聽過，什麼課程？」</tutorial.roles.message.2_player1>
+<tutorial.roles.message.2_player2>「有。」[跳至教學]</tutorial.roles.message.2_player2>
+<tutorial.roles.message.3_skip>「好極了，到下一個房間等其他學員到齊吧老兄。讓我幫你開門。」</tutorial.roles.message.3_skip>
+<tutorial.roles.message.3_skip_player>「沒問題！」</tutorial.roles.message.3_skip_player>
+<tutorial.roles.message.3>「啊，你懂的老兄，就是那些象牙塔裡的政客搞出來擺平問題的玩意兒...但實際上並沒有解決問題，你懂嗎？」</tutorial.roles.message.3>
+<tutorial.roles.message.3_player>「哪種問題？」</tutorial.roles.message.3_player>
+<tutorial.roles.message.4>「潛艇工作——它沒那麼容易，你懂嗎？出去一趟就不見得回得來。那出去十趟一定沒人回得來。因此，這個哨站只要是能當成課程的東西我們都有100%的折扣，多少會解決一些問題。」</tutorial.roles.message.4>
+<tutorial.roles.message.4_player>「你是在抨擊自己的政策嗎？」</tutorial.roles.message.4_player>
+<tutorial.roles.message.5>「我只受理報名，老兄。我才不去淌那攤混水。知道我的建議是什麼嗎？待在哨站上工作——反抗這套體制，老兄。」</tutorial.roles.message.5>
+<tutorial.roles.message.5_player>「但我想出去冒險！再說，這個地方連吃的都沒有...」</tutorial.roles.message.5_player>
+<tutorial.roles.message.6a>「隨你便，老兄...我們有五項課程:\n\n首先是艦長。你如果想要發號一些無理的命令，這就是了。我極力推薦。」</tutorial.roles.message.6a>
+<tutorial.roles.message.6a_player>「跟有名的Herman Pollard一樣！」</tutorial.roles.message.6a_player>
+<tutorial.roles.message.6b>「沒錯，老兄。接著是維修雙雄。\n工程師能摸到些好玩的設備，但是有觸電的極高風險。不適合弱雞。\n再來是技師，如果你不介意泡在水裡。這職位專門處理焊接和和修理抽水機之類的。不適合抽菸的人，懂吧？」</tutorial.roles.message.6b>
+<tutorial.roles.message.6b_player>「聽起來都是重要職位！」</tutorial.roles.message.6b_player>
+<tutorial.roles.message.6c>「沒錯，很糟對吧？接著是安全官，要是你喜歡把對手當靶子。他們通常還都有大頭症。我身上有個刺青寫著ASOAB，是『安全人員都是渾蛋』的縮寫。多留意那些人，老兄。」</tutorial.roles.message.6c>
+<tutorial.roles.message.6c_player>「他們也不是都那麼糟吧？」</tutorial.roles.message.6c_player>
+<tutorial.roles.message.6d>「最後是醫生。這些人大部分比外面的怪物還要詭異，雖然有些也會好好照料別人，老兄。他們有時是這兒唯一的聖人，懂吧？\n總而言之，你還想參加的話，移駕到另一個房間去吧。」</tutorial.roles.message.6d>
+<tutorial.roles.message.6_player>「我要報名，長官！」</tutorial.roles.message.6_player>
+<roomname.reception>接待室</roomname.reception>
+<roomname.lounge>休息室</roomname.lounge>
+<tutorial.roles.popup.moveright>移動至右方的房間繼續。</tutorial.roles.popup.moveright>
+<tutorial.roles.popup.creworders>使用 [InputType.CrewOrders] 切換顯示船員列表。</tutorial.roles.popup.creworders>
+<tutorial.roles.popup.creworders2>使用 [InputType.Select] 選擇列表中的一位實習生。</tutorial.roles.popup.creworders2>
+<charactername.captaintrainee>實習艦長</charactername.captaintrainee>
+<charactername.engineertrainee>實習工程師</charactername.engineertrainee>
+<charactername.mechanictrainee>實習技師</charactername.mechanictrainee>
+<charactername.securitytrainee>實習安全官</charactername.securitytrainee>
+<charactername.medictrainee>實習醫生</charactername.medictrainee>
+<tutorial.roles.idcarddescription>這張ID卡允許實習生進入實習場所。</tutorial.roles.idcarddescription>
+<tutorial.roles.captaindescription>艦長駕駛潛艇、操作聲納、和指揮船員。</tutorial.roles.captaindescription>
+<tutorial.roles.engineerdescription>工程師操作反應爐產生電並維持電氣設備的運作。熟練的工程師能夠透過安裝訊號元件來為潛艇增加自訂功能。</tutorial.roles.engineerdescription>
+<tutorial.roles.mechanicdescription>技師保養機械設備，像是引擎和抽水機，以維持潛艇運作順暢。另外，船體中的任何漏洞通常也交由技師進行修復, as they have superior welding skills.</tutorial.roles.mechanicdescription>
+<tutorial.roles.securitydescription>安全官保護潛艇上的船員受到來自室內室外的威脅。With a combination of ship-mounted and handheld weapons, and the skills to use them, they're the first line of defense.</tutorial.roles.securitydescription>
+<tutorial.roles.medicdescription>醫生治療船員的疾病。This ranges from bandaging small wounds to administering drugs. In a worst-case scenario, fallen crewmembers can be saved with CPR.</tutorial.roles.medicdescription>
+<tutorial.roles.startprompt_captain>開始艦長教學？</tutorial.roles.startprompt_captain>
+<tutorial.roles.startprompt_engineer>開始工程師教學？</tutorial.roles.startprompt_engineer>
+<tutorial.roles.startprompt_mechanic>開始技師教學？</tutorial.roles.startprompt_mechanic>
+<tutorial.roles.startprompt_security>開始安全官教學？</tutorial.roles.startprompt_security>
+<tutorial.roles.startprompt_medic>開始醫生教學？</tutorial.roles.startprompt_medic>
+<tutorial.roles.startprompt_yes>是，開始教學。</tutorial.roles.startprompt_yes>
+<tutorial.roles.startprompt_no>否，選擇其他角色。</tutorial.roles.startprompt_no>
+<tutorial.roles.reception_notification>「嘿老兄，你的老師準備好見你了。」</tutorial.roles.reception_notification>
+<tutorial.roles.reception_notification_player>「馬上來。」</tutorial.roles.reception_notification_player>
+<tutorial.roles.popup.start>前往有對話標記的位置找到你的指導者開始教學。</tutorial.roles.popup.start>
+<tutorial.roles.objective.selection1>切換角色</tutorial.roles.objective.selection1>
+<tutorial.roles.objective.selection2>離開休息室</tutorial.roles.objective.selection2>
+<tutorial.roles.captaininstructor>「嗨，我是Sterner艦長。我是你今天的指導員。我會從簡短地解釋艦長的職責是什麼開始，緊接著是實踐課程。指揮上下關係的非常重要，所以我需要你稱呼我『艦長』。回答『是，艦長』如果你沒有其他問題。」</tutorial.roles.captaininstructor>
+<charactername.captaininstructor>Sterner艦長</charactername.captaininstructor>
+<tutorial.roles.yescaptain_player>「是，艦長！」</tutorial.roles.yescaptain_player>
 <tutorial.roles.commandroomdescription>“The Command Room is the brains of the submarine. From here signals are passed—either verbally or electronically—to crew and devices.”</tutorial.roles.commandroomdescription>
 <tutorial.roles.commandroomdescription2>“Using devices like the navigation terminal and status monitor, the captain can pass all these signals, for example: Order the crew to fix devices, signal the engine to move at full power, or empty the ballast tanks to raise the submarine.”</tutorial.roles.commandroomdescription2>
 <tutorial.roles.navigationterminal>“The core function of the navigation terminal is to move the submarine.”</tutorial.roles.navigationterminal>
