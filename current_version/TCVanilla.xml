@@ -577,7 +577,7 @@
 <quickuseaction.usetreatment>進行投藥</quickuseaction.usetreatment>
 <quickuseaction.holdtounequip>長按以解除裝備</quickuseaction.holdtounequip>
 <quickuseaction.puttoequippeditem>裝備 [equippeditem]</quickuseaction.puttoequippeditem>
-<hudbutton.healthinterface>醫療界面 ([key])</hudbutton.healthinterface>
+<hudbutton.healthinterface>醫療介面 ([key])</hudbutton.healthinterface>
 <hudbutton.crewlist>船員列表 ([key])</hudbutton.crewlist>
 <hudbutton.commandinterface>指令介面 ([key])</hudbutton.commandinterface>
 <hudbutton.tabmenu>資訊選單 ([key])</hudbutton.tabmenu>
@@ -2323,7 +2323,7 @@
 <character.hunter>獵殺者</character.hunter>
 <entitydescription.geneticmaterialhunter>當對象受到物理傷害時近戰武器攻擊力提升[value]%。</entitydescription.geneticmaterialhunter>
 <entityname.genesplicer>基因編輯器</entityname.genesplicer>
-<entitydescription.genesplicer>一個用來將異星遺傳物質編輯進入人類體內的裝置，裝備基因編輯器並於醫療界面中將異星遺傳物質放入裝置內以使其活化。一旦對象接受過基因編輯，要將對象體內已活化的遺傳物質移除必須直接將其破壞。</entitydescription.genesplicer>
+<entitydescription.genesplicer>一個用來將異星遺傳物質編輯進入人類體內的裝置，裝備基因編輯器並於醫療介面中將異星遺傳物質放入裝置內以使其活化。一旦對象接受過基因編輯，要將對象體內已活化的遺傳物質移除必須直接將其破壞。</entitydescription.genesplicer>
 <entityname.advancedgenesplicer>進階基因編輯器</entityname.advancedgenesplicer>
 <entitydescription.advancedgenesplicer>更為進階的基因編輯器，能夠同時活化兩種遺傳物質。</entitydescription.advancedgenesplicer>
 <entityname.piratecaptainhat>海盜船長的帽子</entityname.piratecaptainhat>
@@ -2721,9 +2721,9 @@
 <entityname.weaponholder>武器架</entityname.weaponholder>
 <entitydescription.weaponholder>一個能整齊收納武器的位子。</entitydescription.weaponholder>
 <entityname.dockingport>對接艙口</entityname.dockingport>
-<entitydescription.dockingport>一個垂直的對接界面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockingport>
+<entitydescription.dockingport>一個垂直的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockingport>
 <entityname.dockinghatch>對接艙口</entityname.dockinghatch>
-<entitydescription.dockinghatch>一個水平的對接界面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
+<entitydescription.dockinghatch>一個水平的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
 <entityname.ductblock>排水口</entityname.ductblock>
 <entitydescription.ductblock>一個可以被打開或關閉來控制水流的機械式通道。</entitydescription.ductblock>
 <entityname.label>Label</entityname.label>
@@ -4410,7 +4410,7 @@
 <tutorial.railguntitle>軌道砲</tutorial.railguntitle>
 <tutorial.railgundescription>軌道砲的運作原理和電磁槍相同，不過它發射的是能搭配高爆彈藥的超大子彈。\n\n軌道砲裝彈機只能裝進單發子彈而不是彈藥箱，除此之外也與電磁槍無異: 與潛望鏡互動來操作準心，以 [{0}] 開火、以 [{1}] 結束操作。</tutorial.railgundescription>
 <tutorial.syringeguntitle>注射器槍</tutorial.syringeguntitle>
-<tutorial.syringegundescription>醫務人員的遠程武器首選，注射器槍以藥品作為它的彈藥使其能夠被用來進行隔空投藥。注意: 自發射器打出的藥品藥效將比自醫療界面使用時更低。\n\n戰鬥時則能以有毒藥物裝填注射器槍並向敵人開火作為攻擊戰術。與其它遠程武器的使用方式無異: 以 [{0}] 瞄準，並用 [{1}] 開火。</tutorial.syringegundescription>
+<tutorial.syringegundescription>醫務人員的遠程武器首選，注射器槍以藥品作為它的彈藥使其能夠被用來進行隔空投藥。注意: 自發射器打出的藥品藥效將比自醫療介面使用時更低。\n\n戰鬥時則能以有毒藥物裝填注射器槍並向敵人開火作為攻擊戰術。與其它遠程武器的使用方式無異: 以 [{0}] 瞄準，並用 [{1}] 開火。</tutorial.syringegundescription>
 <tutorial.plasmacuttertitle>電漿切割器</tutorial.plasmacuttertitle>
 <tutorial.plasmacutterdescription>電漿切割器是一項能夠切開牆壁與艙門的工具。它的操作方式與焊接工具相同: 以 [{0}] 瞄準、[{1}] 開火。\n\n雖然電將切割器只是一項工具，它會對任何擋住它的人造成灼傷，這使它能被當作一把方便的臨時武器。</tutorial.plasmacutterdescription>
 <tutorial.crowbartitle>撬棍</tutorial.crowbartitle>
@@ -4422,7 +4422,7 @@
 <tutorial.opiatestitle>鴉片類藥物成癮與戒斷</tutorial.opiatestitle>
 <tutorial.opiatesdescription>過度使用痛處抑制藥物會對其產生依賴性並發展為戒斷症狀。戒斷症狀會在持續用藥時減緩，但要完全脫離它則必須完全停止用藥或以納洛酮治療。</tutorial.opiatesdescription>
 <tutorial.oxygentitle>氧氣</tutorial.oxygentitle>
-<tutorial.oxygendescription>氧氣是水下歐羅巴的珍貴物資，潛艇上的長途旅程不能沒有它，而製氧機正為製造這項隨時必需品而存在，它將氧氣自通風口打入各個艙房，也能被用來填充氧氣罐。\n\n要使用製氧機填充氧氣罐，開啟([InteractType.Use])它的物品欄，將空的氧氣罐置入空的欄位以進行填充。當氧氣罐充填完成，將它拖拉並放進你的物品欄或潛水服/潛水面罩中。</tutorial.oxygendescription>
+<tutorial.oxygendescription>氧氣是水下歐羅巴的珍貴物資，潛艇上的長途旅程不能沒有它，而製氧機正為製造這項隨時必需品而存在，它將氧氣自通風口打入各個艙房，也能被用來填充氧氣罐。\n\n要使用製氧機填充氧氣罐，開啟([InteractType.Use])它的物品欄，將空的氧氣罐置入空的欄位以進行填充。當氧氣罐充填完成，將它拖放進你的物品欄或潛水服/潛水面罩中。</tutorial.oxygendescription>
 <tutorial.laddertitle>梯子</tutorial.laddertitle>
 <tutorial.ladderdescription>要爬上梯子，按下 [{0}]。以 [{1}] 和 [{2}] 鍵在梯子上移動，按下 [{3}] 跳下梯子。</tutorial.ladderdescription>
 
@@ -4469,7 +4469,7 @@
 <mechanic.extinguishertext>以相同於焊接工具的操作方式使用滅火器，[{0}] 瞄準、同時按下 [{1}] 噴灑。</mechanic.extinguishertext>
 <mechanic.dropextinguisher>物品收納</mechanic.dropextinguisher>
 <mechanic.dropextinguisherobjective>丟下滅火器</mechanic.dropextinguisherobjective>
-<mechanic.dropextinguishertext>有些物品的體積對於物品欄來說太大件了，將滅火器拖拉至它的欄位外以對它解除裝備。</mechanic.dropextinguishertext>
+<mechanic.dropextinguishertext>有些物品的體積對於物品欄來說太大件了，將滅火器拖放至它所在的欄位外以解除裝備。</mechanic.dropextinguishertext>
 
 <!-- Room 6 -->
 <mechanic.diving>潛水服</mechanic.diving>
@@ -4525,7 +4525,7 @@
 <engineer.repairelectricalroomtext>找到潛艇上的配電機房，在裝備螺絲起子時與配電箱互動，並按下「維修」按鈕對它們進行維修。</engineer.repairelectricalroomtext>
 <engineer.powerupreactor>反應爐</engineer.powerupreactor>
 <engineer.powerupreactorobjective>啟動潛艇上的反應爐</engineer.powerupreactorobjective>
-<engineer.powerupreactortext>反應爐為潛艇和哨站提供電力，它們需要使用燃料產生熱能且需要一位船員控制輸出功率。\n\n將燃料棒拖拉至反應爐介面左邊的物品欄中，燃料棒愈多、產生的熱能愈多，但通常一個燃料棒已經足以應付大部分的狀況，過多則有可能導致反應爐過熱。\n\n將裂變率與渦輪輸出指針維持在綠色範圍之中，右邊能夠看到負載與輸出功率的數值，盡量使輸出功率接近負載以避免斷電或過熱；功率過低會造成斷電，過高則會使電壓攀升甚至引起火災。\n\n在操作人員離開反應爐介面前，請考慮開啟自動控制。自動控制能夠對不斷波動的負載做出反應，但也相對手動操作來得緩慢。</engineer.powerupreactortext>
+<engineer.powerupreactortext>反應爐為潛艇和哨站提供電力，它們需要使用燃料產生熱能且需要一位船員控制輸出功率。\n\n將燃料棒拖放至反應爐介面左邊的物品欄中，燃料棒愈多、產生的熱能愈多，但通常一個燃料棒已經足以應付大部分的狀況，過多則有可能導致反應爐過熱。\n\n將裂變率與渦輪輸出指針維持在綠色範圍之中，右邊能夠看到負載與輸出功率的數值，盡量使輸出功率接近負載以避免斷電或過熱；功率過低會造成斷電，過高則會使電壓攀升甚至引起火災。\n\n在操作人員離開反應爐介面前，請考慮開啟自動控制。自動控制能夠對不斷波動的負載做出反應，但也相對手動操作來得緩慢。</engineer.powerupreactortext>
 
 <!-- Security officer tutorial -->
 <!-- Radio -->
@@ -4561,7 +4561,7 @@
 <!-- Room 5 -->
 <officer.rangedweapon>遠程武器</officer.rangedweapon>
 <officer.rangedweaponobjective>帶上幾把遠程武器</officer.rangedweaponobjective>
-<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以 [{0}] 進行瞄準，同時以 [{1}] 開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖拉並放置於武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
+<officer.rangedweapontext>遠程武器的操作和近戰武器雷同，不過你的武器技能將會對它們的準確度造成影響。以 [{0}] 進行瞄準，同時以 [{1}] 開火。\n\n遠程武器需要使用彈藥，將滑鼠游標維持在武器圖示上以檢查它的彈藥數量，將武器彈藥拖放至武器的彈藥欄位中、或直接置於武器圖示上進行裝填。</officer.rangedweapontext>
 
 <!-- Room 6 -->
 <officer.mudraptor>怪物: 泥偶迅猛龍</officer.mudraptor>
@@ -4585,9 +4585,9 @@
 <doctor.supplies>容器</doctor.supplies>
 <doctor.suppliesobjective>尋找醫療物資</doctor.suppliesobjective>
 <doctor.suppliestext>物品被收納在大大小小的容器之中，你能與它們互動({0}) 來查看它們的內容物。雙擊物品來使它們在角色與容器的物品欄之間移動。\n\n當物品被置於角色的物品欄中時，雙擊或以欄位快捷鍵裝備它們。\n\n按下 [{1}] 關閉容器的視窗。</doctor.suppliestext>
-<doctor.openmedicalinterface>醫療界面</doctor.openmedicalinterface>
-<doctor.openmedicalinterfaceobjective>打開醫療界面</doctor.openmedicalinterfaceobjective>
-<doctor.openmedicalinterfacetext>以 [{0}] 進入醫療界面。</doctor.openmedicalinterfacetext>
+<doctor.openmedicalinterface>醫療介面</doctor.openmedicalinterface>
+<doctor.openmedicalinterfaceobjective>打開醫療介面</doctor.openmedicalinterfaceobjective>
+<doctor.openmedicalinterfacetext>以 [{0}] 進入醫療介面。</doctor.openmedicalinterfacetext>
 <doctor.firstaidself>急救</doctor.firstaidself>
 <doctor.firstaidselfobjective>替自己療傷</doctor.firstaidselfobjective>
 <doctor.firstaidselftext>你所受到的傷害會顯示於右邊的視窗，部分傷害會位於不同的身體部位，點選部位以對它們進行檢查。\n\n要對傷害進行治療，將藥物托放至欲使用的部位上，你受到了一些內傷，立刻以嗎啡對其進行治療。</doctor.firstaidselftext>
@@ -4600,12 +4600,12 @@
 <!-- Room 5 -->
 <doctor.treatburns>治療燒傷</doctor.treatburns>
 <doctor.treatburnsobjective>至船員的傷勢</doctor.treatburnsobjective>
-<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下 [{0}] 進行治療。\n\n單擊醫療界面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
+<doctor.treatburnstext>在滑鼠游標漂浮在其他角色上時按下 [{0}] 進行治療。\n\n單擊醫療介面中的藥品對患者進行投藥。\n\n繃帶能快速處理燒傷，在被標示的收納櫃中找到它們。</doctor.treatburnstext>
 
 <!-- Room 6 -->
 <doctor.cpr>心肺復甦</doctor.cpr>
 <doctor.cprobjective>進行CPR</doctor.cprobjective>
-<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療界面 (在滑鼠游標漂浮在其他角色上時按下 [{0}]) 並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
+<doctor.cprtext>當角色受到太多傷害時他們會失去意識，而他們的氧氣將在這個狀態下持續減少並在數值到達 0 時死亡，在那之前他們能被CPR救起。\n\n進入他們的醫療介面 (在滑鼠游標漂浮在其他角色上時按下 [{0}]) 並點選綠色的「進行CPR」按鈕，你的醫療技能將反映在過程所需要花費的時間。</doctor.cprtext>
 
 <!-- Submarine -->
 <doctor.submarine>醫療幫助</doctor.submarine>
@@ -6092,7 +6092,7 @@
 <hintmessagebox.dismiss>關閉</hintmessagebox.dismiss>
 <hint.onadjacenthull.highpressure>這扇門後的區域已經被水淹沒了，且水壓極高，如果在沒有潛水服的狀態下繼續前進或許會有危險。</hint.onadjacenthull.highpressure>
 <hint.onadjacenthull.highwaterpercentage>附近的艙房正在被水淹沒，你或許需要帶著一件潛水服。</hint.onadjacenthull.highwaterpercentage>
-<hint.onafflictiondisplayed>你的身上出現了一種症狀。症狀能在按下 [[key]] 打開醫療界面時被治療。</hint.onafflictiondisplayed>
+<hint.onafflictiondisplayed>你的身上出現了一種症狀。症狀能在按下 [[key]] 打開醫療介面時被治療。</hint.onafflictiondisplayed>
 <hint.onautopilotreachedoutpost>自動駕駛已經將潛艇航行至目的地哨站，切換至手動駕駛使對接艙口互相接近。</hint.onautopilotreachedoutpost>
 <hint.onavailabletransition.returntopreviousemptylocation>你回到了地圖的開端，選擇一個新的目的地來繼續你的旅程，或以ESC關閉地圖。</hint.onavailabletransition.returntopreviousemptylocation>
 <hint.onavailabletransition.progresstonextemptylocation>你抵達了地圖的終點，選擇一個新的目的地來繼續你的旅程。</hint.onavailabletransition.progresstonextemptylocation>
@@ -6107,7 +6107,7 @@
 <hint.onshootwithoutaiming>你需要在以 [[key]] 進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
 <hint.onshowcampaigninterface.map>使用戰役地圖選擇你的下一個目的地。在選擇目的地之後，你能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
 <hint.onshowcommandinterface>以指令介面對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
-<hint.onshowhealthinterface>這是醫療界面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自你的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
+<hint.onshowhealthinterface>這是醫療介面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自你的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
 <hint.onsonarspottedenemy>聲納上有一個正在移動的目標，確保有人正在操作潛艇武器，並試著操作你的潛艇讓砲手們能夠瞄準目標。</hint.onsonarspottedenemy>
 <hint.onstartedcontrolling.job.assistant>你正扮演著一位助手。助手是一個萬能職業，盡其所能提供幫助的同時以此提升自己的技能等級。</hint.onstartedcontrolling.job.assistant>
 <hint.onstartedcontrolling.job.captain>你正扮演著一位艦長。進到指揮室並駕駛潛艇前往目的地。</hint.onstartedcontrolling.job.captain>
@@ -6128,7 +6128,7 @@
 <hint.onweldingdoor>你正在將將一扇門焊死，當焊接完成之後，你需要使用電漿切割器或撬棍才能再度將它開起。</hint.onweldingdoor>
 <hint.reminder.characterchange>如果你想要，你能開啟畫面左上方的船員列表，並點選列表中角色圖案來扮演任何一位隊伍中的船員。</hint.reminder.characterchange>
 <hint.reminder.commandinterface>你能按下[commandkey]開啟指令介面來對你的船員下達指令。</hint.reminder.commandinterface>
-<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊界面，你能夠找到你的船員、任務、聲望等等的資訊。</hint.reminder.tabmenu>
+<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊介面，你能夠找到你的船員、任務、聲望等等的資訊。</hint.reminder.tabmenu>
 <hint.reminder.toolbelt>你裝備了一個工具腰帶，將滑鼠游標移動至其圖案之上來檢視工具腰帶中的欄位。</hint.reminder.toolbelt>
 <hint.onballastflorainfected>其中一具位於壓載艙的抽水機被壓載艙植物群感染了，以火焰清除它根部好進一步消滅它。</hint.onballastflorainfected>
 
@@ -6631,8 +6631,8 @@
 <missionheader0.miningmission1_abyss>已採集礦物</missionheader0.miningmission1_abyss>
 <missionsonarlabel.miningmission1_abyss>[resourcename1]</missionsonarlabel.miningmission1_abyss>
 <tutorial.objectives>目標</tutorial.objectives>
-<tutorial.roomcompleted>Room completed</tutorial.roomcompleted>
-<tutorial.taskinprogress>Task in progress...</tutorial.taskinprogress>
+<tutorial.roomcompleted>房間完成</tutorial.roomcompleted>
+<tutorial.taskinprogress>任務進行中...</tutorial.taskinprogress>
 <tutorialcompleted>[tutorialname] (已完成)</tutorialcompleted>
 <tutorial.continue>「了解。」</tutorial.continue>
 <tutorial.continue>「知道了。」</tutorial.continue>
@@ -6666,7 +6666,7 @@
 <tutorial.basics.repairouchie>噢！Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
 <tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
-<tutorial.basics.insertweldingfuel>將焊接燃料罐拖拉至焊接工具的圖示上來裝備它。</tutorial.basics.insertweldingfuel>
+<tutorial.basics.insertweldingfuel>將焊接燃料罐拖放至焊接工具的圖示上來裝備它。</tutorial.basics.insertweldingfuel>
 <tutorial.basics.insertweldingfuelalt>或者，當你裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
 <tutorial.basics.aimandfire>按住 [InputType.Aim] 來以你的武器或工具進行瞄準，同時按下 [InputType.Shoot] 來使用工具或發射武器。</tutorial.basics.aimandfire>
 <tutorial.basics.aim>瞄準</tutorial.basics.aim>
@@ -6676,20 +6676,20 @@
 <tutorial.basics.ladders>在接近梯子時使用 [InputType.Up] 和 [InputType.Down] 來爬上或爬下。</tutorial.basics.ladders>
 <tutorial.basics.welding>修復牆壁以繼續。</tutorial.basics.welding>
 <tutorial.basics.divingsuits>潛水服能方便你在水中行動。</tutorial.basics.divingsuits>
-<tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖拉至有醒目標示的欄位中。</tutorial.basics.divingsuits2>
+<tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖放至有醒目顯示的欄位中。</tutorial.basics.divingsuits2>
 <tutorial.basics.nooxygen>警告！你的潛水服沒有氧氣，你會無法呼吸。快裝上一個氧氣罐。</tutorial.basics.nooxygen>
 <tutorial.basics.oxygen>穿著潛水服時將緩慢地消耗其中的氧氣罐。</tutorial.basics.oxygen>
 <tutorial.basics.oxygen2>當氧氣罐快要消耗完畢時，你的潛水服會發出警告聲。</tutorial.basics.oxygen2>
-<tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖拉至欄位之外。</tutorial.basics.oxygen3>
+<tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖放至它所在的欄位之外。</tutorial.basics.oxygen3>
 <tutorial.basics.righttool>抽水機是一項機械設備。機械設備必須以板手修復。</tutorial.basics.righttool>
 <tutorial.basics.wrenchrepair>從櫃子裡取得一把板手、裝備它並修復抽水機。</tutorial.basics.wrenchrepair>
 <tutorial.basics.interact2>按下 [InputType.Select] 來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
 <tutorial.basics.puzzle>操作抽水機的控制介面，試著靠近梯子...</tutorial.basics.puzzle>
 <tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣你就能游近梯子。</tutorial.basics.puzzlehelp>
-<tutorial.basics.equipoxygentank>拖拉氧氣罐至你所裝備的潛水服圖示上將它放入。</tutorial.basics.equipoxygentank>
+<tutorial.basics.equipoxygentank>拖放氧氣罐至你所穿著的潛水服圖示上來裝備它。</tutorial.basics.equipoxygentank>
 <tutorial.basics.pumpcontrols>操作抽水機將水打入室內。若有必要，按下電源按鈕確認抽水機是否啟動。</tutorial.basics.pumpcontrols>
-<tutorial.basics.drop>你能將物品欄中的物品拖拉至欄位之外來將他們丟下。</tutorial.basics.drop>
-<tutorial.basics.unequipdivingsuitdrag>將你的潛水服拖拉至欄位之外將它解除裝備。</tutorial.basics.unequipdivingsuitdrag>
+<tutorial.basics.drop>你能將物品欄中的物品拖放至欄位之外將他們丟下。</tutorial.basics.drop>
+<tutorial.basics.unequipdivingsuitdrag>將你的潛水服拖放至欄位之外以將它解除裝備。</tutorial.basics.unequipdivingsuitdrag>
 <tutorial.basics.unequipdivingsuitclick>雙擊你的潛水服所在的欄位或點擊欄位上方的綠色條狀按鈕將它解除裝備。</tutorial.basics.unequipdivingsuitclick>
 <tutorial.basics.objective1>按下按鈕</tutorial.basics.objective1>
 <tutorial.basics.objective2>取得一張ID卡</tutorial.basics.objective2>
@@ -6741,9 +6741,9 @@
 <tutorial.roles.idcarddescription>這張ID卡允許實習生進入實習場所。</tutorial.roles.idcarddescription>
 <tutorial.roles.captaindescription>艦長駕駛潛艇、操作聲納、和指揮船員。</tutorial.roles.captaindescription>
 <tutorial.roles.engineerdescription>工程師操作反應爐產生電並維持電氣設備的運作。熟練的工程師能夠透過安裝訊號元件來為潛艇增加自訂功能。</tutorial.roles.engineerdescription>
-<tutorial.roles.mechanicdescription>技師保養機械設備，像是引擎和抽水機，以維持潛艇運作順暢。另外，船體中的任何漏洞通常也交由技師進行修復, as they have superior welding skills.</tutorial.roles.mechanicdescription>
-<tutorial.roles.securitydescription>安全官保護潛艇上的船員受到來自室內室外的威脅。With a combination of ship-mounted and handheld weapons, and the skills to use them, they're the first line of defense.</tutorial.roles.securitydescription>
-<tutorial.roles.medicdescription>醫生治療船員的疾病。This ranges from bandaging small wounds to administering drugs. In a worst-case scenario, fallen crewmembers can be saved with CPR.</tutorial.roles.medicdescription>
+<tutorial.roles.mechanicdescription>技師保養機械設備，像是引擎和抽水機，以維持潛艇運作順暢。另外，船體中的任何漏洞通常也交由技師進行修復，因為他們有著相對高超的焊接技術。</tutorial.roles.mechanicdescription>
+<tutorial.roles.securitydescription>安全官保護潛艇上的船員受到來自室內室外的威脅。有著操作船艦砲塔和手持武器的技術，他們是潛艇上的第一道防線。</tutorial.roles.securitydescription>
+<tutorial.roles.medicdescription>醫生治療船員的疾病。這包括了從處理傷口到施用藥物。在最壞的情況下，透過施行心肺復甦術能使倒下的船員獲救。</tutorial.roles.medicdescription>
 <tutorial.roles.startprompt_captain>開始艦長教學？</tutorial.roles.startprompt_captain>
 <tutorial.roles.startprompt_engineer>開始工程師教學？</tutorial.roles.startprompt_engineer>
 <tutorial.roles.startprompt_mechanic>開始技師教學？</tutorial.roles.startprompt_mechanic>
@@ -6759,17 +6759,17 @@
 <tutorial.roles.captaininstructor>「嗨，我是Sterner艦長。我是你今天的指導員。我會從簡短地解釋艦長的職責是什麼開始，緊接著是實踐課程。指揮上下關係的非常重要，所以我需要你稱呼我『艦長』。回答『是，艦長』如果你沒有其他問題。」</tutorial.roles.captaininstructor>
 <charactername.captaininstructor>Sterner艦長</charactername.captaininstructor>
 <tutorial.roles.yescaptain_player>「是，艦長！」</tutorial.roles.yescaptain_player>
-<tutorial.roles.commandroomdescription>“The Command Room is the brains of the submarine. From here signals are passed—either verbally or electronically—to crew and devices.”</tutorial.roles.commandroomdescription>
-<tutorial.roles.commandroomdescription2>“Using devices like the navigation terminal and status monitor, the captain can pass all these signals, for example: Order the crew to fix devices, signal the engine to move at full power, or empty the ballast tanks to raise the submarine.”</tutorial.roles.commandroomdescription2>
-<tutorial.roles.navigationterminal>“The core function of the navigation terminal is to move the submarine.”</tutorial.roles.navigationterminal>
-<tutorial.roles.navigationterminal_sonar>“Since we're in a low-light environment, sonar is the most efficient way of identifying terrain, objects and lifeforms.”</tutorial.roles.navigationterminal_sonar>
-<tutorial.roles.navigationterminal_sonar2>“Sonar is short for "sound navigation and ranging." Sonar has two modes: passive and active.”</tutorial.roles.navigationterminal_sonar2>
-<tutorial.roles.navigationterminal_sonar3>“While in "passive" mode, the sonar only listens to sounds. It will still detect things, especially if these things make a lot of sound. Static objects or terrain, however, won't be detected until very close.”</tutorial.roles.navigationterminal_sonar3>
-<tutorial.roles.navigationterminal_sonar4>“While in "active" mode, the sonar emits pulses of sound at an interval. Simply put, this means every few seconds, the sound wave will reveal terrain, objects and lifeforms. Active sonar is essential to avoid bumping into terrain while moving at any decent speed.”</tutorial.roles.navigationterminal_sonar4>
-<tutorial.roles.navigationterminal_sonar5>“Finally, there's the directional ping. While active sonar is great for spotting things, it's also great for being spotted. The directional ping limits the direction of the sound pulse, thus preventing hostiles from spotting your submarine—as long as it's not aimed at them.”</tutorial.roles.navigationterminal_sonar5>
-<tutorial.roles.navigationterminal_sonar6>“We've hooked up this navigation terminal to a sonar. Feel free to try it out.”</tutorial.roles.navigationterminal_sonar6>
-<tutorial.roles.popup.navigationterminal_sonar>Use [InputType.Select] to interact with the navigation terminal.</tutorial.roles.popup.navigationterminal_sonar>
-<tutorial.roles.popup.navigationterminal_sonar2>Try out the sonar functionalities.</tutorial.roles.popup.navigationterminal_sonar2>
+<tutorial.roles.commandroomdescription>「指揮室是潛艇的腦袋。指令由此處發號──透過口頭或設備──發送給船員或機器。」”</tutorial.roles.commandroomdescription>
+<tutorial.roles.commandroomdescription2>「透過操作導航終端和狀態監視器等等設備，艦長能夠發送這些指示，例如：命令船員修復設備、操控引擎全速運轉、或排乾壓載艙使潛艇上升。”</tutorial.roles.commandroomdescription2>
+<tutorial.roles.navigationterminal>「導航終端的核心功能是移動潛艇。」</tutorial.roles.navigationterminal>
+<tutorial.roles.navigationterminal_sonar>「由於我們處於一個低光照的環境，使用聲納是辨識地形、物體、和生命體最有效率的方法。」</tutorial.roles.navigationterminal_sonar>
+<tutorial.roles.navigationterminal_sonar2>「聲納一詞是『Sound navigation and ranging (sonar)』的縮寫。它有兩種模式：被動和主動。」</tutorial.roles.navigationterminal_sonar2>
+<tutorial.roles.navigationterminal_sonar3>「在『被動』模式下聲納只負責聽聲音。它還是有辦法偵測東西，尤其是當那些東西發出許多聲響時。但是靜止的物體和地形除非是在短距離內否則無法被偵測。」</tutorial.roles.navigationterminal_sonar3>
+<tutorial.roles.navigationterminal_sonar4>「而在『主動』模式下，聲納會以一定的節奏產生聲波。簡單來說，每隔幾秒能夠透過聲波看見地形、物體、和生命體。在相對高速度移動時，主動聲納在要避開與地形的碰撞是必不可少的。」</tutorial.roles.navigationterminal_sonar4><!--NEED EDIT-->
+<tutorial.roles.navigationterminal_sonar5>「最後，是指向性聲納。雖然使用聲納能夠方便地看見東西，它也會使你被看到。指向性聲納限制了聲波發出的方向，因此能避免威脅發現你的潛艇──只要你不指向它們。」</tutorial.roles.navigationterminal_sonar5>
+<tutorial.roles.navigationterminal_sonar6>「我們將這個導航終端接上了一個聲納。試試看吧。」</tutorial.roles.navigationterminal_sonar6><!--NEED EDIT-->
+<tutorial.roles.popup.navigationterminal_sonar>使用 [InputType.Select] 來與導航終端互動。</tutorial.roles.popup.navigationterminal_sonar>
+<tutorial.roles.popup.navigationterminal_sonar2>試著操作聲納。</tutorial.roles.popup.navigationterminal_sonar2>
 <tutorial.roles.navigationterminal_steering>“Once you have a bearing on your surroundings, it is time to move the submarine.”</tutorial.roles.navigationterminal_steering>
 <tutorial.roles.navigationterminal_steering2>“Steering is controlled with the display in the middle, which utilizes modern touchcreen and auto-pilot technologies.”</tutorial.roles.navigationterminal_steering2>
 <tutorial.roles.navigationterminal_steering3>“By default, the auto-pilot will try to maintain the submarine's position. By touching (clicking) the screen, the auto-pilot's target position will change to the indicated position.”</tutorial.roles.navigationterminal_steering3>
@@ -6800,23 +6800,23 @@
 <tutorial.roles.popup.captain_commandsecurity>Order the bottom turret to be operated.</tutorial.roles.popup.captain_commandsecurity>
 <tutorial.roles.captaininstructor_end>“That covers the basics. Now the real test: Undock from the station, get us to the next outpost, and you'll be done and graduated! Good luck, cadet!”</tutorial.roles.captaininstructor_end>
 <tutorial.roles.popup.captain_graduation>Use what you've learned to reach the next outpost.</tutorial.roles.popup.captain_graduation>
-<tutorial.roles.captain.objective.sonar>Master the sonar</tutorial.roles.captain.objective.sonar>
-<tutorial.roles.captain.objective.sonar1>Interact with the Navigation Terminal</tutorial.roles.captain.objective.sonar1>
-<tutorial.roles.captain.objective.sonar2>Try out the active sonar</tutorial.roles.captain.objective.sonar2>
-<tutorial.roles.captain.objective.sonar3>Try out directional ping</tutorial.roles.captain.objective.sonar3>
-<tutorial.roles.captain.objective.drone>Steer the drone</tutorial.roles.captain.objective.drone>
-<tutorial.roles.captain.objective.drone1>Undock the drone</tutorial.roles.captain.objective.drone1>
-<tutorial.roles.captain.objective.drone2>Try out manual steering</tutorial.roles.captain.objective.drone2>
-<tutorial.roles.captain.objective.drone3>Try out the maintain position controls</tutorial.roles.captain.objective.drone3>
-<tutorial.roles.captain.objective.drone4>Dock the drone</tutorial.roles.captain.objective.drone4>
-<tutorial.roles.captain.objective.follow>Follow the instructor</tutorial.roles.captain.objective.follow>
-<tutorial.roles.captain.objective.orders>Give orders to the crew</tutorial.roles.captain.objective.orders>
-<tutorial.roles.captain.objective.orders1>Order the reactor turned on</tutorial.roles.captain.objective.orders1>
-<tutorial.roles.captain.objective.orders2>Order leaks to be fixed</tutorial.roles.captain.objective.orders2>
-<tutorial.roles.captain.objective.orders3>Order electrical devices to be repaired</tutorial.roles.captain.objective.orders3>
-<tutorial.roles.captain.objective.orders4>Order mechanical devices to be repaired</tutorial.roles.captain.objective.orders4>
-<tutorial.roles.captain.objective.orders5>Order the bottom turret to be operated</tutorial.roles.captain.objective.orders5>
-<tutorial.roles.captain.objective.undock>Undock the submarine</tutorial.roles.captain.objective.undock>
+<tutorial.roles.captain.objective.sonar>掌握聲納</tutorial.roles.captain.objective.sonar>
+<tutorial.roles.captain.objective.sonar1>與導航終端進行互動</tutorial.roles.captain.objective.sonar1>
+<tutorial.roles.captain.objective.sonar2>試著使用主動聲納</tutorial.roles.captain.objective.sonar2>
+<tutorial.roles.captain.objective.sonar3>試著使用指向性聲納</tutorial.roles.captain.objective.sonar3>
+<tutorial.roles.captain.objective.drone>操縱此無人機</tutorial.roles.captain.objective.drone>
+<tutorial.roles.captain.objective.drone1>分離此無人機</tutorial.roles.captain.objective.drone1>
+<tutorial.roles.captain.objective.drone2>試著手動操縱潛艇</tutorial.roles.captain.objective.drone2>
+<tutorial.roles.captain.objective.drone3>試著維持定點</tutorial.roles.captain.objective.drone3>
+<tutorial.roles.captain.objective.drone4>停靠此無人機</tutorial.roles.captain.objective.drone4>
+<tutorial.roles.captain.objective.follow>跟隨指導員</tutorial.roles.captain.objective.follow>
+<tutorial.roles.captain.objective.orders>對船員下達指令</tutorial.roles.captain.objective.orders>
+<tutorial.roles.captain.objective.orders1>命令操作反應爐</tutorial.roles.captain.objective.orders1>
+<tutorial.roles.captain.objective.orders2>命令修補漏洞</tutorial.roles.captain.objective.orders2>
+<tutorial.roles.captain.objective.orders3>命令修復電氣設備</tutorial.roles.captain.objective.orders3>
+<tutorial.roles.captain.objective.orders4>命令修復機械設備</tutorial.roles.captain.objective.orders4>
+<tutorial.roles.captain.objective.orders5>命令操作底部砲塔</tutorial.roles.captain.objective.orders5>
+<tutorial.roles.captain.objective.undock>分離潛艇</tutorial.roles.captain.objective.undock>
 <tutorial.roles.captain.objective.station>Arrive and dock at the marked station</tutorial.roles.captain.objective.station>
 <tutorial.roles.engineerinstructor>“Welcome! Welcome! I'm Chief Engineer Friar, but please, call me Kayleigh.”</tutorial.roles.engineerinstructor>
 <charactername.engineerinstructor>Kayleigh Friar</charactername.engineerinstructor>
@@ -6871,21 +6871,21 @@
 <tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER_IN.</tutorial.roles.popup.engineer_wiring5>
 <tutorial.roles.engineerinstructor_end>“Awesome job! That covers all the basics of engineering. The rest you can learn on your trips! You were a lovely student. Hope to see you around!”</tutorial.roles.engineerinstructor_end>
 <tutorial.roles.engineerinstructor_end_player>“Thanks Kayleigh! See you!”</tutorial.roles.engineerinstructor_end_player>
-<tutorial.roles.engineer.objective.reactor>Master the reactor</tutorial.roles.engineer.objective.reactor>
-<tutorial.roles.engineer.objective.reactor1>Insert a fuel rod into the reactor</tutorial.roles.engineer.objective.reactor1>
-<tutorial.roles.engineer.objective.reactor2>Power up the reactor</tutorial.roles.engineer.objective.reactor2>
-<tutorial.roles.engineer.objective.reactor3>Toggle automatic control on</tutorial.roles.engineer.objective.reactor3>
-<tutorial.roles.engineer.objective.reactor4>Toggle automatic control off</tutorial.roles.engineer.objective.reactor4>
-<tutorial.roles.engineer.objective.reactor5>Keep the fission rate needle on green</tutorial.roles.engineer.objective.reactor5>
-<tutorial.roles.engineer.objective.reactor6>Keep the turbine output needle on green</tutorial.roles.engineer.objective.reactor6>
-<tutorial.roles.engineer.objective.repair>Master repairing</tutorial.roles.engineer.objective.repair>
-<tutorial.roles.engineer.objective.repair1>Attempt to fast-repair</tutorial.roles.engineer.objective.repair1>
-<tutorial.roles.engineer.objective.repair2>Repair the junction box</tutorial.roles.engineer.objective.repair2>
-<tutorial.roles.engineer.objective.rewire>Learn to rewire</tutorial.roles.engineer.objective.rewire>
-<tutorial.roles.engineer.objective.rewire1>Equip the screwdriver</tutorial.roles.engineer.objective.rewire1>
-<tutorial.roles.engineer.objective.rewire2>Equip the wire</tutorial.roles.engineer.objective.rewire2>
-<tutorial.roles.engineer.objective.rewire3>Wire the junction box's POWER connection</tutorial.roles.engineer.objective.rewire3>
-<tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER connection</tutorial.roles.engineer.objective.rewire4>
+<tutorial.roles.engineer.objective.reactor>掌握反應爐</tutorial.roles.engineer.objective.reactor>
+<tutorial.roles.engineer.objective.reactor1>將一個燃料棒放進反應爐</tutorial.roles.engineer.objective.reactor1>
+<tutorial.roles.engineer.objective.reactor2>啟動反應爐</tutorial.roles.engineer.objective.reactor2>
+<tutorial.roles.engineer.objective.reactor3>切換自動控制至開啟</tutorial.roles.engineer.objective.reactor3>
+<tutorial.roles.engineer.objective.reactor4>切換自動控制至關閉</tutorial.roles.engineer.objective.reactor4>
+<tutorial.roles.engineer.objective.reactor5>將裂變率指針維持在綠色範圍</tutorial.roles.engineer.objective.reactor5>
+<tutorial.roles.engineer.objective.reactor6>將渦輪輸出指針維持在綠色範圍</tutorial.roles.engineer.objective.reactor6>
+<tutorial.roles.engineer.objective.repair>掌握維修</tutorial.roles.engineer.objective.repair>
+<tutorial.roles.engineer.objective.repair1>嘗試快速修復</tutorial.roles.engineer.objective.repair1>
+<tutorial.roles.engineer.objective.repair2>修復配電箱</tutorial.roles.engineer.objective.repair2>
+<tutorial.roles.engineer.objective.rewire>學習重新配線</tutorial.roles.engineer.objective.rewire>
+<tutorial.roles.engineer.objective.rewire1>裝備一把扳手</tutorial.roles.engineer.objective.rewire1>
+<tutorial.roles.engineer.objective.rewire2>裝備電線</tutorial.roles.engineer.objective.rewire2>
+<tutorial.roles.engineer.objective.rewire3>將電線接上 POWER 接點</tutorial.roles.engineer.objective.rewire3>
+<tutorial.roles.engineer.objective.rewire4>將電線接上燈具的 POWER 接點</tutorial.roles.engineer.objective.rewire4>
 <tutorial.roles.mechanicinstructor>“Hi, I'm Amos. I'm the mechanic around here. I'll teach you how to care for your submarine. Remember: If you take care of her, she'll take care of you.”</tutorial.roles.mechanicinstructor>
 <charactername.mechanicinstructor>Amos Arbor</charactername.mechanicinstructor>
 <tutorial.roles.engineroomdescription>“This right here is the engine room. It houses the engine. Every submarine has one. The engine moves the submarine forwards and backwards.”</tutorial.roles.engineroomdescription>
@@ -6924,16 +6924,16 @@
 <tutorial.roles.popup.mechanic_oxygen2>Drag the used oxygen tank to the oxygen generator</tutorial.roles.popup.mechanic_oxygen2>
 <tutorial.roles.mechanicinstructor_oxygen3>“Good job, cub. You made it through. Keep your tools sorted, your workplace tidy and let's have that beer now.”</tutorial.roles.mechanicinstructor_oxygen3>
 <tutorial.roles.mechanicinstructor_oxygen3_player>“Sure, thanks chief!”</tutorial.roles.mechanicinstructor_oxygen3_player>
-<tutorial.roles.mechanic.objective.engine>Repair the engine</tutorial.roles.mechanic.objective.engine>
-<tutorial.roles.mechanic.objective.leaks>Repair the hull with the welding tool</tutorial.roles.mechanic.objective.leaks>
-<tutorial.roles.mechanic.objective.ballast1>Dive into the ballast tank</tutorial.roles.mechanic.objective.ballast1>
-<tutorial.roles.mechanic.objective.ballast2>Repair the ballast pump</tutorial.roles.mechanic.objective.ballast2>
-<tutorial.roles.mechanic.objective.ballast3>Leave the ballast tank</tutorial.roles.mechanic.objective.ballast3>
-<tutorial.roles.mechanic.objective.engineering>Learn to fabricate items</tutorial.roles.mechanic.objective.engineering>
-<tutorial.roles.mechanic.objective.engineering1>Deconstruct iron ore</tutorial.roles.mechanic.objective.engineering1>
-<tutorial.roles.mechanic.objective.engineering2>Retrieve the iron</tutorial.roles.mechanic.objective.engineering2>
-<tutorial.roles.mechanic.objective.engineering3>Fabricate a wrench</tutorial.roles.mechanic.objective.engineering3>
-<tutorial.roles.mechanic.objective.oxygen>Refill the oxygen bottle</tutorial.roles.mechanic.objective.oxygen>
+<tutorial.roles.mechanic.objective.engine>修復引擎</tutorial.roles.mechanic.objective.engine>
+<tutorial.roles.mechanic.objective.leaks>使用焊接工具維修牆體</tutorial.roles.mechanic.objective.leaks>
+<tutorial.roles.mechanic.objective.ballast1>進入壓載艙</tutorial.roles.mechanic.objective.ballast1>
+<tutorial.roles.mechanic.objective.ballast2>修復壓載艙抽水機</tutorial.roles.mechanic.objective.ballast2>
+<tutorial.roles.mechanic.objective.ballast3>離開壓載艙</tutorial.roles.mechanic.objective.ballast3>
+<tutorial.roles.mechanic.objective.engineering>學習物品加工</tutorial.roles.mechanic.objective.engineering>
+<tutorial.roles.mechanic.objective.engineering1>分解鐵礦石</tutorial.roles.mechanic.objective.engineering1>
+<tutorial.roles.mechanic.objective.engineering2>拿取鐵</tutorial.roles.mechanic.objective.engineering2>
+<tutorial.roles.mechanic.objective.engineering3>製作一把扳手</tutorial.roles.mechanic.objective.engineering3>
+<tutorial.roles.mechanic.objective.oxygen>填充氧氣罐</tutorial.roles.mechanic.objective.oxygen>
 <tutorial.roles.securityinstructor>“Stand with your back straight, recruit! I’ll teach you to shoot, stab and sink your enemies. My name is Officer Pérez, but you might as well forget it now, since you’ll address me only as ma'am.”</tutorial.roles.securityinstructor>
 <charactername.securityinstructor>Ofc. Pérez</charactername.securityinstructor>
 <tutorial.roles.securityinstructor.yesmaam1>“Yes ma'am!”</tutorial.roles.securityinstructor.yesmaam1>
@@ -6955,61 +6955,61 @@
 <tutorial.roles.popup.supercapacitor>Turn on the supercapacitor.</tutorial.roles.popup.supercapacitor>
 <tutorial.roles.securityinstructor.periscope>“Periscopes are used to control turrets. While interacting with a periscope, use your mouse to aim and [InputType.Shoot] to shoot. Now see if you can’t find something to shoot with this coilgun.”</tutorial.roles.securityinstructor.periscope>
 <tutorial.roles.popup.killoutsideenemy>Kill the enemy outside the station.</tutorial.roles.popup.killoutsideenemy>
-<tutorial.roles.securityinstructor.complete>“Good one. Now I can sleep better at night. Unlike recruit Miller.”</tutorial.roles.securityinstructor.complete>
-<tutorial.roles.airlockdescription>“This is the airlock. If you need to leave the sub to perform external repairs, investigate some minerals or peel a nasty crawler off the hull, this is where you go.\nDon't forget your diving suit, though—a diving mask won't cut it out there.”</tutorial.roles.airlockdescription>
-<tutorial.roles.security.objective.gearup>Gear up</tutorial.roles.security.objective.gearup>
-<tutorial.roles.security.objective.gearup1>Equip body armor</tutorial.roles.security.objective.gearup1>
-<tutorial.roles.security.objective.gearup2>Acquire a gun</tutorial.roles.security.objective.gearup2>
-<tutorial.roles.security.objective.gearup3>Acquire ammunition</tutorial.roles.security.objective.gearup3>
-<tutorial.roles.security.objective.gearup4>Kill the target</tutorial.roles.security.objective.gearup4>
-<tutorial.roles.security.objective.turret>Operate a turret</tutorial.roles.security.objective.turret>
-<tutorial.roles.security.objective.turret1>Fill the loader</tutorial.roles.security.objective.turret1>
-<tutorial.roles.security.objective.turret2>Charge up the supercapacitor</tutorial.roles.security.objective.turret2>
-<tutorial.roles.security.objective.turret3>Look through the periscope</tutorial.roles.security.objective.turret3>
-<tutorial.roles.security.objective.turret4>Kill the target outside</tutorial.roles.security.objective.turret4>
-<tutorial.roles.medicalinstructor>“You’re here. Great. My name is Doctor James Beem and I’ll be guiding your hand today. What’s your name again? Oh, it doesn’t matter. Let’s get on with it. My head is absolutely throbbing.”</tutorial.roles.medicalinstructor>
-<charactername.medicalinstructor>Dr. James Beem</charactername.medicalinstructor>
-<tutorial.roles.medbay>“The med bay is where medical items and treatments are stored. If a submarine has a medical fabricator, it is usually situated here. Some med bays are also equipped with beds for patients to rest in. As space is limited in submarines, some vessels opt to do without a dedicated med bay.”</tutorial.roles.medbay>
-<tutorial.roles.medicalinstructor.player>“Ready to go, sir!”</tutorial.roles.medicalinstructor.player>
-<tutorial.roles.medicalinstructor.morphine>“Keep it down, will you? Grab some morphine for me. You can find it in that cabinet over there. That’s a standard medical cabinet. You can find those on board most submarines.”</tutorial.roles.medicalinstructor.morphine>
-<tutorial.roles.popup.morphine>Find morphine.</tutorial.roles.popup.morphine>
-<tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press ‘H’ to enter my health interface.”</tutorial.roles.medicalinstructor.healthui>
-<tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
-<tutorial.roles.popup.healthui2>Drag the morphine anywhere on the body.</tutorial.roles.popup.healthui2>
-<tutorial.roles.medicalinstructor.medfabricator1>“That takes care of my headache, but the shakes are still there. We don’t have any naloxone left, do we? You’ll just have to make some. First, find morphine and stabilozine.”</tutorial.roles.medicalinstructor.medfabricator1>
-<tutorial.roles.popup.medfabricator1>Find morphine and stabilozine.</tutorial.roles.popup.medfabricator1>
-<tutorial.roles.medicalinstructor.medfabricator2>“You can make medicine in the medical fabricator. Like a regular fabricator, it creates new items out of materials you feed it. Try it out.”</tutorial.roles.medicalinstructor.medfabricator2>
-<tutorial.roles.popup.medfabricator2>Find naloxone on the list and click on it.</tutorial.roles.popup.medfabricator2>
-<tutorial.roles.popup.medfabricator3>Insert morphine and stabilozine into the input slots and press "Create."</tutorial.roles.popup.medfabricator3>
-<tutorial.roles.popup.medfabricator4>Take the fabricated naloxone from the output on the right-hand side of the screen.</tutorial.roles.popup.medfabricator4>
-<tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the naloxone on me. Remember, ‘H’ to enter my health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
-<tutorial.roles.popup.naloxone>Administer naloxone.</tutorial.roles.popup.naloxone>
-<tutorial.roles.medicalinstructor.patients1>“That’s about all you can do for me right now. If you want to be of more use, tend to the patients next door. And turn off the lights. I’m gonna rest my eyes a bit.”</tutorial.roles.medicalinstructor.patients1>
-<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them (‘H’ to enter the health interface!) to learn what ails them.”</tutorial.roles.medicalinstructor.patients2>
-<tutorial.roles.medicalinstructor.patients3>“Clicking on a patient's limbs in the interface reveals where they’re hurting, and how. You can see what treatments are available for each affliction. Cabinets should be stocked with whatever you need.”</tutorial.roles.medicalinstructor.patients3>
-<tutorial.roles.popup.treatpatients>Treat all patients.</tutorial.roles.popup.treatpatients>
-<tutorial.roles.medicalinstructor.burns>“Burns are commonly sustained from explosions and electric shocks. Bandages and plastiseal are the typical treatments. Burns are also limb-specific, which means you’ll have to apply the cure to the correct limb.”</tutorial.roles.medicalinstructor.burns>
-<tutorial.roles.popup.burns>Apply bandages to burned limb.</tutorial.roles.popup.burns>
-<tutorial.roles.medicalinstructor.psychosis>“Psychosis is usually inflicted by otherworldly sources. It is treated with haloperidol.”</tutorial.roles.medicalinstructor.psychosis>
-<tutorial.roles.popup.psychosis>Give the patient haloperidol.</tutorial.roles.popup.psychosis>
-<tutorial.roles.medicalinstructor.damage>“Blunt force trauma (and other physical damage afflictions like lacerations and bite wounds) are treated with painkillers such as morphine.”</tutorial.roles.medicalinstructor.damage>
-<tutorial.roles.popup.damage>Give the patient morphine.</tutorial.roles.popup.damage>
-<tutorial.roles.medicalinstructor.cpr1>“Well done. There’s one more thing you need to learn, and that’s how to perform CPR.”</tutorial.roles.medicalinstructor.cpr1>
-<tutorial.roles.medicalinstructor.cpr2>“When someone sustains enough damage, they enter a critical state. In this state they are immobile and will perish if they don’t receive immediate aid.”</tutorial.roles.medicalinstructor.cpr2>
-<tutorial.roles.medicalinstructor.cpr3>“To resuscitate someone before they die, open their health interface and press the ‘Perform CPR’ button. If you're successful, the patient will be stabilized. Note that the resuscitation process often takes time.”</tutorial.roles.medicalinstructor.cpr3>
-<tutorial.roles.medicalinstructor.cpr4>“Come back to the med bay. There’s a patient here in need of CPR. Take your time, though; he’s only pretending. ...This time.”</tutorial.roles.medicalinstructor.cpr4>
-<tutorial.roles.popup.cpr>Press the "Perform CPR" button.</tutorial.roles.popup.cpr>
-<tutorial.roles.medicalinstructor.complete>“Good job. Coffee is on me.”</tutorial.roles.medicalinstructor.complete>
-<tutorial.roles.medic.objective.morphine>Treat the instructor</tutorial.roles.medic.objective.morphine>
-<tutorial.roles.medic.objective.morphine1>Find morphine</tutorial.roles.medic.objective.morphine1>
-<tutorial.roles.medic.objective.morphine2>Administer morphine to the instructor</tutorial.roles.medic.objective.morphine2>
-<tutorial.roles.medic.objective.medfabricator>Fabricate and administer naloxone</tutorial.roles.medic.objective.medfabricator>
-<tutorial.roles.medic.objective.medfabricator1>Find morphine and stabilozine.</tutorial.roles.medic.objective.medfabricator1>
-<tutorial.roles.medic.objective.medfabricator2>Use the medical fabricator to craft naloxone</tutorial.roles.medic.objective.medfabricator2>
-<tutorial.roles.medic.objective.medfabricator3>Treat the instructor with naloxone</tutorial.roles.medic.objective.medfabricator3>
-<tutorial.roles.medic.objective.crewquarters>Treat patients in the crew quarters</tutorial.roles.medic.objective.crewquarters>
-<tutorial.roles.medic.objective.crewquarters1>Go to crew quarters</tutorial.roles.medic.objective.crewquarters1>
-<tutorial.roles.medic.objective.crewquarters2>Treat all patients</tutorial.roles.medic.objective.crewquarters2>
-<tutorial.roles.medic.objective.cpr>Administer CPR</tutorial.roles.medic.objective.cpr>
+<tutorial.roles.securityinstructor.complete>「Good one. Now I can sleep better at night. Unlike recruit Miller.」</tutorial.roles.securityinstructor.complete>
+<tutorial.roles.airlockdescription>「這裡是氣閘。要是你需要前往室外做外部維修、調查一些礦物、或把黏在船體上的爬行者扒開，你得從這裡出去。\n還有，別忘了的潛水服──潛水面罩在外面沒辦法保護你。」</tutorial.roles.airlockdescription>
+<tutorial.roles.security.objective.gearup>做好準備</tutorial.roles.security.objective.gearup>
+<tutorial.roles.security.objective.gearup1>裝備護甲</tutorial.roles.security.objective.gearup1>
+<tutorial.roles.security.objective.gearup2>取得一把槍</tutorial.roles.security.objective.gearup2>
+<tutorial.roles.security.objective.gearup3>取得彈藥</tutorial.roles.security.objective.gearup3>
+<tutorial.roles.security.objective.gearup4>殲滅目標</tutorial.roles.security.objective.gearup4>
+<tutorial.roles.security.objective.turret>操作一架砲塔</tutorial.roles.security.objective.turret>
+<tutorial.roles.security.objective.turret1>將彈藥裝入裝彈機</tutorial.roles.security.objective.turret1>
+<tutorial.roles.security.objective.turret2>替超級電容充電</tutorial.roles.security.objective.turret2>
+<tutorial.roles.security.objective.turret3>使用潛望鏡</tutorial.roles.security.objective.turret3>
+<tutorial.roles.security.objective.turret4>殲滅外頭的目標</tutorial.roles.security.objective.turret4>
+<tutorial.roles.medicalinstructor>「你來了，很好。我是James Beem醫生，今天由我來引導你。你剛剛說你叫什麼名字？哦，算了。我們直接開始吧。我的頭痛得不得了。」</tutorial.roles.medicalinstructor>
+<charactername.medicalinstructor>James Beem醫生</charactername.medicalinstructor>
+<tutorial.roles.medbay>「醫療用品會放在放在醫務室。如果潛艇上有醫用加工台，它通常也會在那裡。有些醫務室也配有床鋪好讓患者休息。不過潛艇上的空間有限，有些船艦選擇不配有醫務室。」</tutorial.roles.medbay>
+<tutorial.roles.medicalinstructor.player>「準備好了，長官！」</tutorial.roles.medicalinstructor.player>
+<tutorial.roles.medicalinstructor.morphine>「小聲點好嗎？拿一些嗎啡給我。你能從那個櫃子裡找到它。那是一個標準款的醫藥櫃。你能在大部分的潛艇上找到它。」</tutorial.roles.medicalinstructor.morphine>
+<tutorial.roles.popup.morphine>尋找嗎啡。</tutorial.roles.popup.morphine>
+<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下 [InputType.Health] 開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT-->
+<tutorial.roles.popup.healthui1>以 [InputType.Health] 打開那位醫生的醫療介面</tutorial.roles.popup.healthui1>
+<tutorial.roles.popup.healthui2>將嗎啡拖放至任何一處身體部位。</tutorial.roles.popup.healthui2>
+<tutorial.roles.medicalinstructor.medfabricator1>「那解決了我的頭痛，但是我依舊還在顫抖。我們應該沒有納洛酮了，對吧？你得製作一些。首先，找到嗎啡和安定素。」</tutorial.roles.medicalinstructor.medfabricator1>
+<tutorial.roles.popup.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.popup.medfabricator1>
+<tutorial.roles.medicalinstructor.medfabricator2>「你能使用醫用加工台來製作藥品。和普通的加工台一樣，它需要你提供原料來製作成新的物品。試試看。」</tutorial.roles.medicalinstructor.medfabricator2>
+<tutorial.roles.popup.medfabricator2>在列表中找到並選取納洛酮。</tutorial.roles.popup.medfabricator2>
+<tutorial.roles.popup.medfabricator3>將嗎啡和安定素放進Input欄位中並按下「製作」。</tutorial.roles.popup.medfabricator3>
+<tutorial.roles.popup.medfabricator4>拿取介面右方位於Output中製作完成的納洛酮。</tutorial.roles.popup.medfabricator4>
+<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用 [InputType.Health] 進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--BUTTON TEXT EDIT-->
+<tutorial.roles.popup.naloxone>施用納洛酮。</tutorial.roles.popup.naloxone>
+<tutorial.roles.medicalinstructor.patients1>「能能為我做得差不多就這樣了。你還想幫忙的話，治療隔壁那些話者吧。喔，然後把燈關上。我要來瞇一下。」</tutorial.roles.medicalinstructor.patients1>
+<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下 [InputType.Health] 來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--BUTTON TEXT EDIT-->
+<tutorial.roles.medicalinstructor.patients3>「在介面中點選患者的身體部位來了解症狀的類型和所在部位。你能看到各種症狀可用的治療方式。櫃子裡應該會有你所有需要的東西。」</tutorial.roles.medicalinstructor.patients3>
+<tutorial.roles.popup.treatpatients>治療所有患者。</tutorial.roles.popup.treatpatients>
+<tutorial.roles.medicalinstructor.burns>「燒傷通常是由爆炸和電擊所導致。使用繃帶與人造皮膚是典型的處理方法。另外燒傷會位於特定部位，也就是說你需要針對正確的部位進行治療。」</tutorial.roles.medicalinstructor.burns>
+<tutorial.roles.popup.burns>對燒傷的部位使用繃帶。</tutorial.roles.popup.burns>
+<tutorial.roles.medicalinstructor.psychosis>「精神症通常由什麼外部因素導致。它能以氟哌啶醇治療。」</tutorial.roles.medicalinstructor.psychosis>
+<tutorial.roles.popup.psychosis>對病患施用氟哌啶醇。</tutorial.roles.popup.psychosis>
+<tutorial.roles.medicalinstructor.damage>「鈍器傷害 (與其他物理症狀如撕裂傷和咬傷) 能以嗎啡這種止痛藥物治療。」</tutorial.roles.medicalinstructor.damage>
+<tutorial.roles.popup.damage>對患者施用嗎啡。</tutorial.roles.popup.damage>
+<tutorial.roles.medicalinstructor.cpr1>「做得好。還有一項你需要學的，那就是施行CPR的方法。」</tutorial.roles.medicalinstructor.cpr1>
+<tutorial.roles.medicalinstructor.cpr2>「當一個人受到足夠創傷的時候，他們會陷入緊急狀態。這個狀態下他們會無法動彈，如果沒有即刻接受治療他們的生命就會消逝。」</tutorial.roles.medicalinstructor.cpr2><!--NEED EDIT-->
+<tutorial.roles.medicalinstructor.cpr3>「要在某人的生命逝去之前將他們救起，打開他們的醫療介面並按下『進行CPR』按鈕。如果你成功了，患者就會穩定下來。要記得這個動作通常會需要花點時間。」</tutorial.roles.medicalinstructor.cpr3>
+<tutorial.roles.medicalinstructor.cpr4>「到醫務室來。有一位患者需要心肺復甦。慢慢來；他不是真的快掛了。...還不是。”</tutorial.roles.medicalinstructor.cpr4>
+<tutorial.roles.popup.cpr>點選「進行CPR」按鈕。</tutorial.roles.popup.cpr>
+<tutorial.roles.medicalinstructor.complete>「做得好。下次我請你喝杯咖啡。」</tutorial.roles.medicalinstructor.complete>
+<tutorial.roles.medic.objective.morphine>治療指導員</tutorial.roles.medic.objective.morphine>
+<tutorial.roles.medic.objective.morphine1>尋找嗎啡</tutorial.roles.medic.objective.morphine1>
+<tutorial.roles.medic.objective.morphine2>對指導員施用嗎啡</tutorial.roles.medic.objective.morphine2>
+<tutorial.roles.medic.objective.medfabricator>製作並施用納洛酮</tutorial.roles.medic.objective.medfabricator>
+<tutorial.roles.medic.objective.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.medic.objective.medfabricator1>
+<tutorial.roles.medic.objective.medfabricator2>使用醫用加工台製作納洛酮</tutorial.roles.medic.objective.medfabricator2>
+<tutorial.roles.medic.objective.medfabricator3>以納洛酮治療指導員</tutorial.roles.medic.objective.medfabricator3>
+<tutorial.roles.medic.objective.crewquarters>治療起居室內的患者</tutorial.roles.medic.objective.crewquarters>
+<tutorial.roles.medic.objective.crewquarters1>前往起居室</tutorial.roles.medic.objective.crewquarters1>
+<tutorial.roles.medic.objective.crewquarters2>治療所有患者</tutorial.roles.medic.objective.crewquarters2>
+<tutorial.roles.medic.objective.cpr>施行CPR</tutorial.roles.medic.objective.cpr>
 
 <!-- </infotexts> -->
