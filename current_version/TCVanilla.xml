@@ -6649,31 +6649,31 @@
 <tutorial.basics.endmessage.1_player>「泥偶迅猛龍是什麼東西？」</tutorial.basics.endmessage.1_player>
 <tutorial.basics.endmessage.2>「等等... 攝影機的畫面上有什麼動靜。呃噢...」</tutorial.basics.endmessage.2>
 <tutorial.basics.endmessage.2_player>「那是什麼聲音？！」</tutorial.basics.endmessage.2_player>
-<tutorial.basics.wasd>使用 [InputType.Up]、[InputType.Left]、[InputType.Down]、[InputType.Right] 移動你的角色。</tutorial.basics.wasd>
+<tutorial.basics.wasd>使用[InputType.Up]、[InputType.Left]、[InputType.Down]、[InputType.Right]移動你的角色。</tutorial.basics.wasd>
 <tutorial.basics.looking>以滑鼠游標控制角色所面向的方向。</tutorial.basics.looking>
-<tutorial.basics.cursor>使用 [InputType.Select] 向按鈕、門、和物品進行互動。</tutorial.basics.cursor>
+<tutorial.basics.cursor>使用[InputType.Select]向按鈕、門、和物品進行互動。</tutorial.basics.cursor>
 <tutorial.basics.highlight>可互動的物品將在滑鼠游標懸浮在它們之上時以醒目方式顯示。</tutorial.basics.highlight>
-<tutorial.basics.obtain>要撿起一項物品，以滑鼠游標指向它並按下 [InputType.Select].</tutorial.basics.obtain>
+<tutorial.basics.obtain>要撿起一項物品，以滑鼠游標指向它並按下[InputType.Select]</tutorial.basics.obtain>
 <tutorial.basics.lockeddoor>想通過一扇鎖上的門需要一張ID卡。</tutorial.basics.lockeddoor>
-<tutorial.basics.stairsusage>按下 [InputType.Down] 跳下平台至樓梯上。</tutorial.basics.stairsusage>
-<tutorial.basics.sprint>按住 [InputType.Run] 奔跑。</tutorial.basics.sprint>
+<tutorial.basics.stairsusage>按下[InputType.Down]跳下平台至樓梯上。</tutorial.basics.stairsusage>
+<tutorial.basics.sprint>按住[InputType.Run]奔跑。</tutorial.basics.sprint>
 <tutorial.basics.repair>設備有時候會發生故障。使用正確的維修工具能將他們修復。</tutorial.basics.repair>
-<tutorial.basics.containers>物品能夠在容器中被找到。移動滑鼠游標並按下 [InputType.Select] 來打開容器。</tutorial.basics.containers>
+<tutorial.basics.containers>物品能夠在容器中被找到。移動滑鼠游標並按下[InputType.Select]來打開容器。</tutorial.basics.containers>
 <tutorial.basics.equip>雙擊一項物品來裝備它。</tutorial.basics.equip>
 <tutorial.basics.equip2>你也能透過對應的按鍵 (1-9) 裝備位於你的物品欄位中的物品。</tutorial.basics.equip2>
-<tutorial.basics.repair2>按下 [InputType.Select] 來維修損壞的設備。</tutorial.basics.repair2>
+<tutorial.basics.repair2>按下[InputType.Select]來維修損壞的設備。</tutorial.basics.repair2>
 <tutorial.basics.waitdrain>做得好！等待抽水機將水從室內抽出。</tutorial.basics.waitdrain>
-<tutorial.basics.repairouchie>噢！Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
+<tutorial.basics.repairouchie>噢！Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie><!--NEED EDIT-->
 <tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
 <tutorial.basics.insertweldingfuel>將焊接燃料罐拖放至焊接工具的圖示上來裝備它。</tutorial.basics.insertweldingfuel>
 <tutorial.basics.insertweldingfuelalt>或者，當你裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
-<tutorial.basics.aimandfire>按住 [InputType.Aim] 來以你的武器或工具進行瞄準，同時按下 [InputType.Shoot] 來使用工具或發射武器。</tutorial.basics.aimandfire>
+<tutorial.basics.aimandfire>按住[InputType.Aim]來以你的武器或工具進行瞄準，同時按下[InputType.Shoot]來使用工具或發射武器。</tutorial.basics.aimandfire>
 <tutorial.basics.aim>瞄準</tutorial.basics.aim>
 <tutorial.basics.fire>開火</tutorial.basics.fire>
-<tutorial.basics.holdaim>按住 [InputType.Aim] 來瞄準滑鼠游標所指的方向。</tutorial.basics.holdaim>
-<tutorial.basics.holdaim2>按住瞄準的同時，使用 [InputType.Shoot] 進行焊接。</tutorial.basics.holdaim2>
-<tutorial.basics.ladders>在接近梯子時使用 [InputType.Up] 和 [InputType.Down] 來爬上或爬下。</tutorial.basics.ladders>
+<tutorial.basics.holdaim>按住[InputType.Aim]來瞄準滑鼠游標所指的方向。</tutorial.basics.holdaim>
+<tutorial.basics.holdaim2>按住瞄準的同時，使用[InputType.Shoot]進行焊接。</tutorial.basics.holdaim2>
+<tutorial.basics.ladders>在接近梯子時使用[InputType.Up]和[InputType.Down]來爬上或爬下。</tutorial.basics.ladders>
 <tutorial.basics.welding>修復牆壁以繼續。</tutorial.basics.welding>
 <tutorial.basics.divingsuits>潛水服能方便你在水中行動。</tutorial.basics.divingsuits>
 <tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖放至有醒目顯示的欄位中。</tutorial.basics.divingsuits2>
@@ -6683,7 +6683,7 @@
 <tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖放至它所在的欄位之外。</tutorial.basics.oxygen3>
 <tutorial.basics.righttool>抽水機是一項機械設備。機械設備必須以板手修復。</tutorial.basics.righttool>
 <tutorial.basics.wrenchrepair>從櫃子裡取得一把板手、裝備它並修復抽水機。</tutorial.basics.wrenchrepair>
-<tutorial.basics.interact2>按下 [InputType.Select] 來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
+<tutorial.basics.interact2>按下[InputType.Select]來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
 <tutorial.basics.puzzle>操作抽水機的控制介面，試著靠近梯子...</tutorial.basics.puzzle>
 <tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣你就能游近梯子。</tutorial.basics.puzzlehelp>
 <tutorial.basics.equipoxygentank>拖放氧氣罐至你所穿著的潛水服圖示上來裝備它。</tutorial.basics.equipoxygentank>
@@ -6731,8 +6731,8 @@
 <roomname.reception>接待室</roomname.reception>
 <roomname.lounge>休息室</roomname.lounge>
 <tutorial.roles.popup.moveright>移動至右方的房間繼續。</tutorial.roles.popup.moveright>
-<tutorial.roles.popup.creworders>使用 [InputType.CrewOrders] 切換顯示船員列表。</tutorial.roles.popup.creworders>
-<tutorial.roles.popup.creworders2>使用 [InputType.Select] 選擇列表中的一位實習生。</tutorial.roles.popup.creworders2>
+<tutorial.roles.popup.creworders>使用[InputType.CrewOrders]切換顯示船員列表。</tutorial.roles.popup.creworders>
+<tutorial.roles.popup.creworders2>使用[InputType.Select]選擇列表中的一位實習生。</tutorial.roles.popup.creworders2>
 <charactername.captaintrainee>實習艦長</charactername.captaintrainee>
 <charactername.engineertrainee>實習工程師</charactername.engineertrainee>
 <charactername.mechanictrainee>實習技師</charactername.mechanictrainee>
@@ -6768,38 +6768,38 @@
 <tutorial.roles.navigationterminal_sonar4>「而在『主動』模式下，聲納會以一定的節奏產生聲波。簡單來說，每隔幾秒能夠透過聲波看見地形、物體、和生命體。在相對高速度移動時，主動聲納在要避開與地形的碰撞是必不可少的。」</tutorial.roles.navigationterminal_sonar4><!--NEED EDIT-->
 <tutorial.roles.navigationterminal_sonar5>「最後，是指向性聲納。雖然使用聲納能夠方便地看見東西，它也會使你被看到。指向性聲納限制了聲波發出的方向，因此能避免威脅發現你的潛艇──只要你不指向它們。」</tutorial.roles.navigationterminal_sonar5>
 <tutorial.roles.navigationterminal_sonar6>「我們將這個導航終端接上了一個聲納。試試看吧。」</tutorial.roles.navigationterminal_sonar6><!--NEED EDIT-->
-<tutorial.roles.popup.navigationterminal_sonar>使用 [InputType.Select] 來與導航終端互動。</tutorial.roles.popup.navigationterminal_sonar>
+<tutorial.roles.popup.navigationterminal_sonar>使用[InputType.Select]來與導航終端互動。</tutorial.roles.popup.navigationterminal_sonar>
 <tutorial.roles.popup.navigationterminal_sonar2>試著操作聲納。</tutorial.roles.popup.navigationterminal_sonar2>
-<tutorial.roles.navigationterminal_steering>“Once you have a bearing on your surroundings, it is time to move the submarine.”</tutorial.roles.navigationterminal_steering>
-<tutorial.roles.navigationterminal_steering2>“Steering is controlled with the display in the middle, which utilizes modern touchcreen and auto-pilot technologies.”</tutorial.roles.navigationterminal_steering2>
-<tutorial.roles.navigationterminal_steering3>“By default, the auto-pilot will try to maintain the submarine's position. By touching (clicking) the screen, the auto-pilot's target position will change to the indicated position.”</tutorial.roles.navigationterminal_steering3>
-<tutorial.roles.navigationterminal_steering4>“Furthermore, the auto-pilot has information on outpost locations. It attempts to automatically navigate to predefined positions. This system, however, is neither infallible nor as quick as manual steering.”</tutorial.roles.navigationterminal_steering4>
-<tutorial.roles.navigationterminal_steering5>“Speaking of manual steering: This is the preferred option for those who want more control over their submarine. By touching (clicking) the screen, you set the submarine's target velocity.”</tutorial.roles.navigationterminal_steering5>
-<tutorial.roles.navigationterminal_steering6>“For example: If you want your submarine to move slowly to the right, you touch slightly to the right of the submarine's current position. If you want to rise up quickly, you touch far above the submarine's current position.”</tutorial.roles.navigationterminal_steering6>
-<tutorial.roles.navigationterminal_steering7>“Ready to give it a try?”</tutorial.roles.navigationterminal_steering7>
-<tutorial.roles.navigationterminal_steering8>“Trick question! No you're not, cadet! A submarine is usually docked while idle, to prevent it from drifting and using fuel. First, you'll need to undock using the big red "Undock" button. Easy, right? Now, let's try it out.”</tutorial.roles.navigationterminal_steering8>
-<tutorial.roles.popup.navigationterminal_steering>Undock the drone, using the Navigation Terminal.</tutorial.roles.popup.navigationterminal_steering>
-<tutorial.roles.popup.navigationterminal_steering2>Practice steering the drone. Re-dock the drone when ready.</tutorial.roles.popup.navigationterminal_steering2>
-<tutorial.roles.navigationterminal_commanding>“Not bad, cadet. You are ready to be a helmsman now, but being a captain is more than that.”</tutorial.roles.navigationterminal_commanding>
-<tutorial.roles.navigationterminal_commanding2>“You cannot run a large submarine by yourself. You need a crew. And a crew needs someone to lead them, or they will stumble around like headless chickens. Cluck cluck cluck. Wait, they wouldn't... Never mind.”</tutorial.roles.navigationterminal_commanding2>
-<tutorial.roles.navigationterminal_commanding3>“As captain, you're responsible for leading your crew. So you'll have to issue orders to them. Meaning, you'll need to know what needs doing!”</tutorial.roles.navigationterminal_commanding3>
-<tutorial.roles.navigationterminal_commanding4>“That's where the status monitor comes in. With the status monitor, you can see where the submarine is in need of repairs. You can then mark these rooms with tasks and pray there's someone competent enough to perform them. Don't skip the praying part.”</tutorial.roles.navigationterminal_commanding4>
-<tutorial.roles.navigationterminal_commanding5>“If you don't want shit to break down in the first place though, you'll have to tell your crew to keep it all in good order. This means issuing them orders from the get-go.”</tutorial.roles.navigationterminal_commanding5>
-<tutorial.roles.navigationterminal_commanding6>“Let's try it out on an actual submarine, shall we? The other cadets ought to be ready right about now. Follow me.”</tutorial.roles.navigationterminal_commanding6>
-<tutorial.roles.popup.captain_follow>Follow Captain Sterner into the submarine.</tutorial.roles.popup.captain_follow>
-<tutorial.roles.captaininstructor_start>“We're here. Let's start by issuing commands to the crew. Without power, nothing in the submarine will work, so first order the reactor turned on.”</tutorial.roles.captaininstructor_start>
-<tutorial.roles.popup.captain_command>Open the command interface with [InputType.Command].</tutorial.roles.popup.captain_command>
-<tutorial.roles.popup.captain_command2>Order the reactor to be turned on.</tutorial.roles.popup.captain_command2>
-<tutorial.roles.popup.captain_command3>The command interface will automatically select the most qualified crew member for the assigned task.</tutorial.roles.popup.captain_command3>
-<tutorial.roles.popup.captain_command4>You can also give orders directly to a specific crew member on the crew list (toggle with [InputType.CrewOrders]).</tutorial.roles.popup.captain_command4>
-<tutorial.roles.captaininstructor_repairs>“Great. Remember—captains should command respect and obedience. That's why they usually carry a firearm. Our last engineer, Stevie Dolittle, said, "What are you going to do, shoot me?" Haha, his cousin didn't stick around long after that. Anyways, let's order some maintenance, shall we?”</tutorial.roles.captaininstructor_repairs>
-<tutorial.roles.popup.captain_commandmaintenance>Order leaks to be fixed.</tutorial.roles.popup.captain_commandmaintenance>
-<tutorial.roles.popup.captain_commandmaintenance2>Order electrical devices to be repaired.</tutorial.roles.popup.captain_commandmaintenance2>
-<tutorial.roles.popup.captain_commandmaintenance3>Order mechanical devices to be repaired.</tutorial.roles.popup.captain_commandmaintenance3>
-<tutorial.roles.captaininstructor_firearms>“And no, you won't be given a firearm yet—you'll have to complete your education first. Let's get on with that, shall we? Honkmother knows you'll need it. Speaking of firearms, it's time to get the sub's weapons operational.”</tutorial.roles.captaininstructor_firearms>
-<tutorial.roles.popup.captain_commandsecurity>Order the bottom turret to be operated.</tutorial.roles.popup.captain_commandsecurity>
-<tutorial.roles.captaininstructor_end>“That covers the basics. Now the real test: Undock from the station, get us to the next outpost, and you'll be done and graduated! Good luck, cadet!”</tutorial.roles.captaininstructor_end>
-<tutorial.roles.popup.captain_graduation>Use what you've learned to reach the next outpost.</tutorial.roles.popup.captain_graduation>
+<tutorial.roles.navigationterminal_steering>「一旦你對周圍環境有了掌握，就是時候移動潛艇了。」</tutorial.roles.navigationterminal_steering>
+<tutorial.roles.navigationterminal_steering2>「透過正中央的畫面操縱潛艇，它整合了當代觸控螢幕與自動駕駛科技。」</tutorial.roles.navigationterminal_steering2>
+<tutorial.roles.navigationterminal_steering3>「預設狀態下，自動駕駛會試著維持潛艇目前的所在位置。透過點擊畫面，自動駕駛會變更潛艇的目標位置至點擊處。」</tutorial.roles.navigationterminal_steering3>
+<tutorial.roles.navigationterminal_steering4>「此外，自動駕駛也有哨站位置的資訊。它會嘗試自動將潛艇移動至設定的位置。然而，這個系統並非萬能，也不如手動操縱來得靈活。」</tutorial.roles.navigationterminal_steering4>
+<tutorial.roles.navigationterminal_steering5>「提到手動操縱：對於那些想要更全面地操縱潛艇的人來說，這是最好的方式。透過點擊畫面，你能控制潛艇的目標速度。」</tutorial.roles.navigationterminal_steering5>
+<tutorial.roles.navigationterminal_steering6>「例如：你想使潛艇緩緩向右方移動，你只需要點擊畫面中離潛艇中央稍稍偏右的位置。或當你想使潛艇快速上升時，點擊畫面中離潛艇中央最遠的上方位置。」</tutorial.roles.navigationterminal_steering6>
+<tutorial.roles.navigationterminal_steering7>「你準備好試試看了嗎？」</tutorial.roles.navigationterminal_steering7>
+<tutorial.roles.navigationterminal_steering8>「這是陷阱題！你還沒準備好，學員！當潛艇靠岸時通常會與哨站連接，好防止它們漂走，也能節省燃料。所以首先，你得按下那顆寫著『分離』的紅色大按鈕。很簡單吧？現在試試看。」</tutorial.roles.navigationterminal_steering8>
+<tutorial.roles.popup.navigationterminal_steering>使用導航終端讓無人機與哨站分離。</tutorial.roles.popup.navigationterminal_steering>
+<tutorial.roles.popup.navigationterminal_steering2>練習操縱無人機。重新與哨站連接以繼續。</tutorial.roles.popup.navigationterminal_steering2>
+<tutorial.roles.navigationterminal_commanding>「還不錯，學員。你準備好要當一位舵手了，但艦長可不只是這樣而已。」</tutorial.roles.navigationterminal_commanding>
+<tutorial.roles.navigationterminal_commanding2>「你沒有辦法一個人維持大型潛艇的運作。你得靠你的船員們。而船員需要有人指揮，不然他們就會像群無頭小雞。咕、咕、咕。等等，沒了頭牠們就掛了...算了。」</tutorial.roles.navigationterminal_commanding2>
+<tutorial.roles.navigationterminal_commanding3>「身為一位艦長，你的職責就是領導你的船員。你得分配任務給他們。也就是說，你還得知道船上有哪些事要做！」</tutorial.roles.navigationterminal_commanding3>
+<tutorial.roles.navigationterminal_commanding4>「該是狀態監視器派上用場的時候了。有了狀態監視器，你可以知道潛艇上有哪些地方需要維修。你能標記那些艙房所需的勤務，然後祈禱有足夠能力的人來執行它們。別略過祈禱。」</tutorial.roles.navigationterminal_commanding4>
+<tutorial.roles.navigationterminal_commanding5>「不過，如果你不打算看到東西壞掉，你得讓船員們不斷保持一切井井有條。這意味著在任何事發生前就先對他們下達指令。」</tutorial.roles.navigationterminal_commanding5>
+<tutorial.roles.navigationterminal_commanding6>「不如我們在一艘真正的潛艇上試試吧？其他學員大概也準備得差不多了。跟我來。」</tutorial.roles.navigationterminal_commanding6>
+<tutorial.roles.popup.captain_follow>跟隨Sterner艦長進入潛艇。</tutorial.roles.popup.captain_follow>
+<tutorial.roles.captaininstructor_start>「我們到了。首先我們來向船員下達指令。沒有電力，船上沒有東西能夠運作，所以先下達指令啟動反應爐吧。」</tutorial.roles.captaininstructor_start>
+<tutorial.roles.popup.captain_command>以[InputType.Command]打開指令介面。</tutorial.roles.popup.captain_command>
+<tutorial.roles.popup.captain_command2>下達指令啟動反應爐。</tutorial.roles.popup.captain_command2>
+<tutorial.roles.popup.captain_command3>指令介面會自動將任務分配給最合適的船員。</tutorial.roles.popup.captain_command3>
+<tutorial.roles.popup.captain_command4>你也能夠透過船員列表 (以[InputType.CrewOrders]切換顯示) 直接下達指令給特定船員。</tutorial.roles.popup.captain_command4>
+<tutorial.roles.captaininstructor_repairs>「很好。記住──艦長應該被尊重與服從。所以他們通常會佩帶武器。我的上一位工程師Stevie Dolittle對我說過：『你能拿我怎麼樣，開槍打我嗎？』哈哈，他的表親在那不久之後也下船了。總之，讓我們指派一些維修任務如何？」</tutorial.roles.captaininstructor_repairs>
+<tutorial.roles.popup.captain_commandmaintenance>命令修補漏洞。</tutorial.roles.popup.captain_commandmaintenance>
+<tutorial.roles.popup.captain_commandmaintenance2>命令修復電氣設備。</tutorial.roles.popup.captain_commandmaintenance2>
+<tutorial.roles.popup.captain_commandmaintenance3>命令修復機械設備。</tutorial.roles.popup.captain_commandmaintenance3>
+<tutorial.roles.captaininstructor_firearms>「噢不，你還不會有自己的武器──你得等到你的學程結束。所以讓我們繼續吧？小丑聖母知道你會需要它的。說到武器，該是時候熱熱潛艇的武器系統了。」”</tutorial.roles.captaininstructor_firearms>
+<tutorial.roles.popup.captain_commandsecurity>命令操作底部砲塔。</tutorial.roles.popup.captain_commandsecurity>
+<tutorial.roles.captaininstructor_end>「這些差不多就是你基本要會的了。現在來認真考考你：從哨站分離，帶我們前往下一個哨站，然後你就能從這個學程畢業了！祝你好運，學員！」</tutorial.roles.captaininstructor_end>
+<tutorial.roles.popup.captain_graduation>善用你目前為止所學到達下個哨站。</tutorial.roles.popup.captain_graduation>
 <tutorial.roles.captain.objective.sonar>掌握聲納</tutorial.roles.captain.objective.sonar>
 <tutorial.roles.captain.objective.sonar1>與導航終端進行互動</tutorial.roles.captain.objective.sonar1>
 <tutorial.roles.captain.objective.sonar2>試著使用主動聲納</tutorial.roles.captain.objective.sonar2>
@@ -6817,8 +6817,8 @@
 <tutorial.roles.captain.objective.orders4>命令修復機械設備</tutorial.roles.captain.objective.orders4>
 <tutorial.roles.captain.objective.orders5>命令操作底部砲塔</tutorial.roles.captain.objective.orders5>
 <tutorial.roles.captain.objective.undock>分離潛艇</tutorial.roles.captain.objective.undock>
-<tutorial.roles.captain.objective.station>Arrive and dock at the marked station</tutorial.roles.captain.objective.station>
-<tutorial.roles.engineerinstructor>“Welcome! Welcome! I'm Chief Engineer Friar, but please, call me Kayleigh.”</tutorial.roles.engineerinstructor>
+<tutorial.roles.captain.objective.station>到達並停靠於標示的哨站</tutorial.roles.captain.objective.station>
+<tutorial.roles.engineerinstructor>「歡迎！歡迎！我是工程長Friar，但稱呼我Kayleigh就好。」</tutorial.roles.engineerinstructor>
 <charactername.engineerinstructor>Kayleigh Friar</charactername.engineerinstructor>
 <tutorial.roles.reactorroomdescription>“The reactor room is where the heart of the submarine resides. As long as there's electrical juices flowing through the wires, there is life in the submarine. And it—the electricity—all originates from this beauty right here.”</tutorial.roles.reactorroomdescription>
 <tutorial.roles.engineerinstructor_fuelrods>“While 'nuclear reactor' may sound scary, because of the whole invisible radiation thing, there's actually nothing to worry about! Operating reactors is relatively safe.”</tutorial.roles.engineerinstructor_fuelrods>
@@ -6973,8 +6973,8 @@
 <tutorial.roles.medicalinstructor.player>「準備好了，長官！」</tutorial.roles.medicalinstructor.player>
 <tutorial.roles.medicalinstructor.morphine>「小聲點好嗎？拿一些嗎啡給我。你能從那個櫃子裡找到它。那是一個標準款的醫藥櫃。你能在大部分的潛艇上找到它。」</tutorial.roles.medicalinstructor.morphine>
 <tutorial.roles.popup.morphine>尋找嗎啡。</tutorial.roles.popup.morphine>
-<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下 [InputType.Health] 開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT-->
-<tutorial.roles.popup.healthui1>以 [InputType.Health] 打開那位醫生的醫療介面</tutorial.roles.popup.healthui1>
+<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT-->
+<tutorial.roles.popup.healthui1>以[InputType.Health]打開那位醫生的醫療介面</tutorial.roles.popup.healthui1>
 <tutorial.roles.popup.healthui2>將嗎啡拖放至任何一處身體部位。</tutorial.roles.popup.healthui2>
 <tutorial.roles.medicalinstructor.medfabricator1>「那解決了我的頭痛，但是我依舊還在顫抖。我們應該沒有納洛酮了，對吧？你得製作一些。首先，找到嗎啡和安定素。」</tutorial.roles.medicalinstructor.medfabricator1>
 <tutorial.roles.popup.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.popup.medfabricator1>
@@ -6982,10 +6982,10 @@
 <tutorial.roles.popup.medfabricator2>在列表中找到並選取納洛酮。</tutorial.roles.popup.medfabricator2>
 <tutorial.roles.popup.medfabricator3>將嗎啡和安定素放進Input欄位中並按下「製作」。</tutorial.roles.popup.medfabricator3>
 <tutorial.roles.popup.medfabricator4>拿取介面右方位於Output中製作完成的納洛酮。</tutorial.roles.popup.medfabricator4>
-<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用 [InputType.Health] 進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--BUTTON TEXT EDIT-->
+<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用[InputType.Health]進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--BUTTON TEXT EDIT-->
 <tutorial.roles.popup.naloxone>施用納洛酮。</tutorial.roles.popup.naloxone>
 <tutorial.roles.medicalinstructor.patients1>「能能為我做得差不多就這樣了。你還想幫忙的話，治療隔壁那些話者吧。喔，然後把燈關上。我要來瞇一下。」</tutorial.roles.medicalinstructor.patients1>
-<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下 [InputType.Health] 來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--BUTTON TEXT EDIT-->
+<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下[InputType.Health]來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--BUTTON TEXT EDIT-->
 <tutorial.roles.medicalinstructor.patients3>「在介面中點選患者的身體部位來了解症狀的類型和所在部位。你能看到各種症狀可用的治療方式。櫃子裡應該會有你所有需要的東西。」</tutorial.roles.medicalinstructor.patients3>
 <tutorial.roles.popup.treatpatients>治療所有患者。</tutorial.roles.popup.treatpatients>
 <tutorial.roles.medicalinstructor.burns>「燒傷通常是由爆炸和電擊所導致。使用繃帶與人造皮膚是典型的處理方法。另外燒傷會位於特定部位，也就是說你需要針對正確的部位進行治療。」</tutorial.roles.medicalinstructor.burns>
