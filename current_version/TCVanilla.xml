@@ -2493,9 +2493,9 @@
 <entityname.potassium>鉀</entityname.potassium>
 <entitydescription.potassium>用於製作爆裂物與醫用材料。與水接觸會產生激烈反應。</entitydescription.potassium>
 <entityname.magnesium>鎂</entityname.magnesium>
-<entitydescription.magnesium>用於製作爆裂物與醫用材料。與水接觸會產生激烈反應。</entitydescription.magnesium>
+<entitydescription.magnesium>用於製作爆裂物與醫用材料。與水接觸會產生激烈反應。</entitydescription.magnesium><!--DUPE NEW LINE 18-->
 <entityname.lithium>鋰</entityname.lithium>
-<entitydescription.lithium>最常被用於製作電池和抗精神症藥物。</entitydescription.lithium>
+<entitydescription.lithium>最常被用於製作電池和抗精神症藥物。</entitydescription.lithium><!--DUPE NEW LINE 19-->
 <entityname.chlorine>氯</entityname.chlorine>
 <entitydescription.chlorine>最常被用於製作用來治療失的血生理鹽水，或者一種強效鎮靜劑水合三氯乙醛。</entitydescription.chlorine>
 <entityname.slimebacteria>黏液菌叢</entityname.slimebacteria>
@@ -6866,9 +6866,9 @@
 <tutorial.roles.engineerinstructor_wiring3_player>「沒問題。」</tutorial.roles.engineerinstructor_wiring3_player>
 <tutorial.roles.popup.engineer_wiring>同時裝備螺絲起子和電線。</tutorial.roles.popup.engineer_wiring>
 <tutorial.roles.popup.engineer_wiring2>以[InputType.Use]對配電箱進行配線。</tutorial.roles.popup.engineer_wiring2>
-<tutorial.roles.popup.engineer_wiring3>將電線連接至 POWER_OUT 端點。</tutorial.roles.popup.engineer_wiring3>
+<tutorial.roles.popup.engineer_wiring3>將電線連接至 POWER 端點。</tutorial.roles.popup.engineer_wiring3><!--DUPE NEW LINE 10-->
 <tutorial.roles.popup.engineer_wiring4>以[InputType.Use]對燈具進行配線。</tutorial.roles.popup.engineer_wiring4>
-<tutorial.roles.popup.engineer_wiring5>將電線連接至 POWER_IN 端點。</tutorial.roles.popup.engineer_wiring5>
+<tutorial.roles.popup.engineer_wiring5>將電線連接至 POWER 端點。</tutorial.roles.popup.engineer_wiring5><!--DUPE NEW LINE 11-->
 <tutorial.roles.engineerinstructor_end>「做得太好了！這些就是工程師的基本工作了。剩下的你能在旅途中學到！你是位好學生。希望還能再見到你！」</tutorial.roles.engineerinstructor_end>
 <tutorial.roles.engineerinstructor_end_player>「謝啦Kayleigh！再見！」</tutorial.roles.engineerinstructor_end_player>
 <tutorial.roles.engineer.objective.reactor>掌握反應爐</tutorial.roles.engineer.objective.reactor>
@@ -6884,8 +6884,8 @@
 <tutorial.roles.engineer.objective.rewire>學習重新配線</tutorial.roles.engineer.objective.rewire>
 <tutorial.roles.engineer.objective.rewire1>裝備一把扳手</tutorial.roles.engineer.objective.rewire1>
 <tutorial.roles.engineer.objective.rewire2>裝備電線</tutorial.roles.engineer.objective.rewire2>
-<tutorial.roles.engineer.objective.rewire3>將電線接上 POWER 接點</tutorial.roles.engineer.objective.rewire3>
-<tutorial.roles.engineer.objective.rewire4>將電線接上燈具的 POWER 接點</tutorial.roles.engineer.objective.rewire4>
+<tutorial.roles.engineer.objective.rewire3>將電線接上 POWER 端點</tutorial.roles.engineer.objective.rewire3><!--DUPE NEW LINE 12-->
+<tutorial.roles.engineer.objective.rewire4>將電線接上燈具的 POWER 端點</tutorial.roles.engineer.objective.rewire4><!--DUPE NEW LINE 13-->
 <tutorial.roles.mechanicinstructor>「嗨，我是Amos。我是這兒的技師。我會教你怎麼顧好你的潛艇。記得：你顧好它，它就會顧好你。」</tutorial.roles.mechanicinstructor>
 <charactername.mechanicinstructor>Amos Arbor</charactername.mechanicinstructor>
 <tutorial.roles.engineroomdescription>「這裡是引擎室。引擎就在這裡。每艘潛艇都有。引擎負責控制潛艇前進或後退。」</tutorial.roles.engineroomdescription>
@@ -6899,7 +6899,7 @@
 <tutorial.roles.popup.mechanic_welding2>修復漏洞。</tutorial.roles.popup.mechanic_welding2>
 <tutorial.roles.mechanicinstructor_ballast>「嗯，那樣就行了。現在，從櫃子裡拿一個潛水面罩。」</tutorial.roles.mechanicinstructor_ballast>
 <tutorial.roles.mechanicinstructor_ballast_player>「好的。」</tutorial.roles.mechanicinstructor_ballast_player>
-<tutorial.roles.popup.mechanic_divingmask>戴上潛水面罩。</tutorial.roles.popup.mechanic_divingmask>
+<tutorial.roles.popup.mechanic_divingmask>戴上潛水面罩。</tutorial.roles.popup.mechanic_divingmask><!--DUPE NEW LINE 23-->
 <tutorial.roles.ballastdescription>「這個艙門下、沿著梯子下去就是一個壓載艙。壓載艙在潛艇需要下潛時會被注滿水。」</tutorial.roles.ballastdescription>
 <tutorial.roles.mechanicinstructor_ballast2>「那裡，有個抽水機將水抽出或打進。如果抽水機壞了，你就要下去修好它。艙裡通常會有水，帶著一些潛水用具可以幫到你。你還拿著你的扳手嗎？」</tutorial.roles.mechanicinstructor_ballast2>
 <tutorial.roles.mechanicinstructor_ballast2_player>「沒錯。」</tutorial.roles.mechanicinstructor_ballast2_player>
@@ -6973,19 +6973,19 @@
 <tutorial.roles.medicalinstructor.player>「準備好了，長官！」</tutorial.roles.medicalinstructor.player>
 <tutorial.roles.medicalinstructor.morphine>「小聲點好嗎？拿一些嗎啡給我。你能從那個櫃子裡找到它。那是一個標準款的醫藥櫃。你能在大部分的潛艇上找到它。」</tutorial.roles.medicalinstructor.morphine>
 <tutorial.roles.popup.morphine>尋找嗎啡。</tutorial.roles.popup.morphine>
-<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT-->
-<tutorial.roles.popup.healthui1>以[InputType.Health]打開那位醫生的醫療介面</tutorial.roles.popup.healthui1>
+<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT--><!--DUPE NEW LINE 14-->
+<tutorial.roles.popup.healthui1>以[InputType.Health]打開那位醫生的醫療介面</tutorial.roles.popup.healthui1><!--DUPE NEW LINE 8-->
 <tutorial.roles.popup.healthui2>將嗎啡拖放至任何一處身體部位。</tutorial.roles.popup.healthui2>
 <tutorial.roles.medicalinstructor.medfabricator1>「那解決了我的頭痛，但是我依舊還在顫抖。我們應該沒有納洛酮了，對吧？你得製作一些。首先，找到嗎啡和安定素。」</tutorial.roles.medicalinstructor.medfabricator1>
-<tutorial.roles.popup.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.popup.medfabricator1>
+<tutorial.roles.popup.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.popup.medfabricator1><!--DUPE NEW LINE 9-->
 <tutorial.roles.medicalinstructor.medfabricator2>「你能使用醫用加工台來製作藥品。和普通的加工台一樣，它需要你提供原料來製作成新的物品。試試看。」</tutorial.roles.medicalinstructor.medfabricator2>
 <tutorial.roles.popup.medfabricator2>在列表中找到並選取納洛酮。</tutorial.roles.popup.medfabricator2>
 <tutorial.roles.popup.medfabricator3>將嗎啡和安定素放進Input欄位中並按下「製作」。</tutorial.roles.popup.medfabricator3>
 <tutorial.roles.popup.medfabricator4>拿取介面右方位於Output中製作完成的納洛酮。</tutorial.roles.popup.medfabricator4>
-<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用[InputType.Health]進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--BUTTON TEXT EDIT-->
+<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用[InputType.Health]進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--BUTTON TEXT EDIT--><!--DUPE NEW LINE 15-->
 <tutorial.roles.popup.naloxone>施用納洛酮。</tutorial.roles.popup.naloxone>
 <tutorial.roles.medicalinstructor.patients1>「能能為我做得差不多就這樣了。你還想幫忙的話，治療隔壁那些話者吧。喔，然後把燈關上。我要來瞇一下。」</tutorial.roles.medicalinstructor.patients1>
-<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下[InputType.Health]來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--BUTTON TEXT EDIT-->
+<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下[InputType.Health]來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--BUTTON TEXT EDIT--><!--DUPE NEW LINE 16-->
 <tutorial.roles.medicalinstructor.patients3>「在介面中點選患者的身體部位來了解症狀的類型和所在部位。你能看到各種症狀可用的治療方式。櫃子裡應該會有你所有需要的東西。」</tutorial.roles.medicalinstructor.patients3>
 <tutorial.roles.popup.treatpatients>治療所有患者。</tutorial.roles.popup.treatpatients>
 <tutorial.roles.medicalinstructor.burns>「燒傷通常是由爆炸和電擊所導致。使用繃帶與人造皮膚是典型的處理方法。另外燒傷會位於特定部位，也就是說你需要針對正確的部位進行治療。」</tutorial.roles.medicalinstructor.burns>
