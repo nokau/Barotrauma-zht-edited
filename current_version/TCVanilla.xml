@@ -6716,17 +6716,17 @@
 <tutorial.roles.message.3_skip_player>「沒問題！」</tutorial.roles.message.3_skip_player>
 <tutorial.roles.message.3>「啊，你懂的老兄，就是那些象牙塔裡的政客搞出來擺平問題的玩意兒...但實際上並沒有解決問題，你懂嗎？」</tutorial.roles.message.3>
 <tutorial.roles.message.3_player>「哪種問題？」</tutorial.roles.message.3_player>
-<tutorial.roles.message.4>「潛艇工作——它沒那麼容易，你懂嗎？出去一趟就不見得回得來。那出去十趟一定沒人回得來。因此，這個哨站只要是能當成課程的東西我們都有100%的折扣，多少會解決一些問題。」</tutorial.roles.message.4>
+<tutorial.roles.message.4>「潛艇工作──它沒那麼容易，你懂嗎？出去一趟就不見得回得來。那出去十趟一定沒人回得來。因此，這個哨站只要是能當成課程的東西我們都有100%的折扣，多少會解決一些問題。」</tutorial.roles.message.4>
 <tutorial.roles.message.4_player>「你是在抨擊自己的政策嗎？」</tutorial.roles.message.4_player>
-<tutorial.roles.message.5>「我只受理報名，老兄。我才不去淌那攤混水。知道我的建議是什麼嗎？待在哨站上工作——反抗這套體制，老兄。」</tutorial.roles.message.5>
+<tutorial.roles.message.5>「我只受理報名，老兄。我才不去淌那攤混水。知道我的建議是什麼嗎？待在哨站上工作──反抗這套體制，老兄。」</tutorial.roles.message.5>
 <tutorial.roles.message.5_player>「但我想出去冒險！再說，這個地方連吃的都沒有...」</tutorial.roles.message.5_player>
 <tutorial.roles.message.6a>「隨你便，老兄...我們有五項課程:\n\n首先是艦長。你如果想要發號一些無理的命令，這就是了。我極力推薦。」</tutorial.roles.message.6a>
 <tutorial.roles.message.6a_player>「跟有名的Herman Pollard一樣！」</tutorial.roles.message.6a_player>
 <tutorial.roles.message.6b>「沒錯，老兄。接著是維修雙雄。\n工程師能摸到些好玩的設備，但是有觸電的極高風險。不適合弱雞。\n再來是技師，如果你不介意泡在水裡。這職位專門處理焊接和和修理抽水機之類的。不適合抽菸的人，懂吧？」</tutorial.roles.message.6b>
 <tutorial.roles.message.6b_player>「聽起來都是重要職位！」</tutorial.roles.message.6b_player>
-<tutorial.roles.message.6c>「沒錯，很糟對吧？接著是安全官，要是你喜歡把對手當靶子。他們通常還都有大頭症。我身上有個刺青寫著ASOAB，是『安全人員都是渾蛋』的縮寫。多留意那些人，老兄。」</tutorial.roles.message.6c>
+<tutorial.roles.message.6c>「沒錯，很糟對吧？接著是安全官，要是你喜歡把對手當靶子的話。他們通常還都有大頭症。我身上有個刺青寫著ASOAB，是『安全人員都是渾蛋』的縮寫。多留意那些人，老兄。」</tutorial.roles.message.6c>
 <tutorial.roles.message.6c_player>「他們也不是都那麼糟吧？」</tutorial.roles.message.6c_player>
-<tutorial.roles.message.6d>「最後是醫生。這些人大部分比外面的怪物還要詭異，雖然有些也會好好照料別人，老兄。他們有時是這兒唯一的聖人，懂吧？\n總而言之，你還想參加的話，移駕到另一個房間去吧。」</tutorial.roles.message.6d>
+<tutorial.roles.message.6d>「最後是醫生。這些人大部分比外面的怪物還要詭異，雖然有些也會好好照料別人。他們是這兒的唯一希望，懂吧？\n總而言之，你還想參加的話，移駕到另一個房間去吧。」</tutorial.roles.message.6d>
 <tutorial.roles.message.6_player>「我要報名，長官！」</tutorial.roles.message.6_player>
 <roomname.reception>接待室</roomname.reception>
 <roomname.lounge>休息室</roomname.lounge>
@@ -6759,8 +6759,8 @@
 <tutorial.roles.captaininstructor>「嗨，我是Sterner艦長。我是你今天的指導員。我會從簡短地解釋艦長的職責是什麼開始，緊接著是實踐課程。指揮上下關係的非常重要，所以我需要你稱呼我『艦長』。回答『是，艦長』如果你沒有其他問題。」</tutorial.roles.captaininstructor>
 <charactername.captaininstructor>Sterner艦長</charactername.captaininstructor>
 <tutorial.roles.yescaptain_player>「是，艦長！」</tutorial.roles.yescaptain_player>
-<tutorial.roles.commandroomdescription>「指揮室是潛艇的腦袋。指令由此處發號──透過口頭或設備──發送給船員或機器。」”</tutorial.roles.commandroomdescription>
-<tutorial.roles.commandroomdescription2>「透過操作導航終端和狀態監視器等等設備，艦長能夠發送這些指示，例如：命令船員修復設備、操控引擎全速運轉、或排乾壓載艙使潛艇上升。”</tutorial.roles.commandroomdescription2>
+<tutorial.roles.commandroomdescription>「指揮室是潛艇的腦袋。指令由此處發號──透過口頭或設備──發送給船員或機器。」</tutorial.roles.commandroomdescription>
+<tutorial.roles.commandroomdescription2>「透過操作導航終端和狀態監視器等等設備，艦長能夠發送這些指示，例如：命令船員修復設備、操控引擎全速運轉、或排乾壓載艙使潛艇上升。」</tutorial.roles.commandroomdescription2>
 <tutorial.roles.navigationterminal>「導航終端的核心功能是移動潛艇。」</tutorial.roles.navigationterminal>
 <tutorial.roles.navigationterminal_sonar>「由於我們處於一個低光照的環境，使用聲納是辨識地形、物體、和生命體最有效率的方法。」</tutorial.roles.navigationterminal_sonar>
 <tutorial.roles.navigationterminal_sonar2>「聲納一詞是『Sound navigation and ranging (sonar)』的縮寫。它有兩種模式：被動和主動。」</tutorial.roles.navigationterminal_sonar2>
@@ -6796,7 +6796,7 @@
 <tutorial.roles.popup.captain_commandmaintenance>命令修補漏洞。</tutorial.roles.popup.captain_commandmaintenance>
 <tutorial.roles.popup.captain_commandmaintenance2>命令修復電氣設備。</tutorial.roles.popup.captain_commandmaintenance2>
 <tutorial.roles.popup.captain_commandmaintenance3>命令修復機械設備。</tutorial.roles.popup.captain_commandmaintenance3>
-<tutorial.roles.captaininstructor_firearms>「噢不，你還不會有自己的武器──你得等到你的學程結束。所以讓我們繼續吧？小丑聖母知道你會需要它的。說到武器，該是時候熱熱潛艇的武器系統了。」”</tutorial.roles.captaininstructor_firearms>
+<tutorial.roles.captaininstructor_firearms>「噢不，你還不會有自己的武器──你得等到你的學程結束。所以讓我們繼續吧？小丑聖母知道你會需要它的。說到武器，該是時候熱熱潛艇的武器系統了。」</tutorial.roles.captaininstructor_firearms>
 <tutorial.roles.popup.captain_commandsecurity>命令操作底部砲塔。</tutorial.roles.popup.captain_commandsecurity>
 <tutorial.roles.captaininstructor_end>「這些差不多就是你基本要會的了。現在來認真考考你：從哨站分離，帶我們前往下一個哨站，然後你就能從這個學程畢業了！祝你好運，學員！」</tutorial.roles.captaininstructor_end>
 <tutorial.roles.popup.captain_graduation>善用你目前為止所學到達下個哨站。</tutorial.roles.popup.captain_graduation>
@@ -6820,57 +6820,57 @@
 <tutorial.roles.captain.objective.station>到達並停靠於標示的哨站</tutorial.roles.captain.objective.station>
 <tutorial.roles.engineerinstructor>「歡迎！歡迎！我是工程長Friar，但稱呼我Kayleigh就好。」</tutorial.roles.engineerinstructor>
 <charactername.engineerinstructor>Kayleigh Friar</charactername.engineerinstructor>
-<tutorial.roles.reactorroomdescription>“The reactor room is where the heart of the submarine resides. As long as there's electrical juices flowing through the wires, there is life in the submarine. And it—the electricity—all originates from this beauty right here.”</tutorial.roles.reactorroomdescription>
-<tutorial.roles.engineerinstructor_fuelrods>“While 'nuclear reactor' may sound scary, because of the whole invisible radiation thing, there's actually nothing to worry about! Operating reactors is relatively safe.”</tutorial.roles.engineerinstructor_fuelrods>
-<tutorial.roles.engineerinstructor_fuelrods2>“Relative to the other, waaaay more dangerous dangers, that is. The reactor room is usually quite well protected, and it's centrally located!”</tutorial.roles.engineerinstructor_fuelrods2>
-<tutorial.roles.engineerinstructor_fuelrods3>“One thing to keep in mind, and I will stress this: Do NOT insert every fuel rod you have in your storage into the reactor all at once.”</tutorial.roles.engineerinstructor_fuelrods3>
-<tutorial.roles.engineerinstructor_fuelrods4>“Really. Do not. Each fuel rod increases the amount of heat generated by the reactor. Too much heat means a fire will start. Eventually a full-blown meltdown will trigger, and...KABOOM! Well, at least it's a quick death. Sure beats getting captured by pirates.”</tutorial.roles.engineerinstructor_fuelrods4>
-<tutorial.roles.engineerinstructor_fuelrods5>“For now, I'm just going to hand you one fuel rod. Let me show you how to insert it.”</tutorial.roles.engineerinstructor_fuelrods5>
-<tutorial.roles.engineerinstructor_fuelrods5_player>“Is this really safe?”</tutorial.roles.engineerinstructor_fuelrods5_player>
-<tutorial.roles.popup.engineer_fuelrods>Interact with the reactor, then drag the fuel rod into the slots on the left.</tutorial.roles.popup.engineer_fuelrods>
-<tutorial.roles.engineerinstructor_reactor>“A basic start-up of the nuclear reactor looks like this:\n1.One non-empty fuel rod inserted.\n2.Power button pressed.\n3.Automatic control toggled on.”</tutorial.roles.engineerinstructor_reactor>
-<tutorial.roles.engineerinstructor_reactor_player>“Sounds simple enough.”</tutorial.roles.engineerinstructor_reactor_player>
-<tutorial.roles.engineerinstructor_reactor2>“Give it a try then! Don't be shy!”</tutorial.roles.engineerinstructor_reactor2>
-<tutorial.roles.engineerinstructor_reactor2_player>“On it!”</tutorial.roles.engineerinstructor_reactor2_player>
-<tutorial.roles.popup.engineer_reactor>Interact with the reactor, power it up and enable automatic control.</tutorial.roles.popup.engineer_reactor>
-<tutorial.roles.engineerinstructor_reactormanual>“Great job! You're a natural! We now have power. Look at how all the lights are turning on—that was all you!”</tutorial.roles.engineerinstructor_reactormanual>
-<tutorial.roles.engineerinstructor_reactormanual_player>“That was easy enough.”</tutorial.roles.engineerinstructor_reactormanual_player>
-<tutorial.roles.engineerinstructor_reactormanual2>“Aha, getting confident, are we? Well, let's switch over to manual control then.”</tutorial.roles.engineerinstructor_reactormanual2>
-<tutorial.roles.engineerinstructor_reactormanual3>“In manual control, you're using two controls. The first one, on the left, is the fission rate and the second, on the right, is the turbine output.”</tutorial.roles.engineerinstructor_reactormanual3>
-<tutorial.roles.engineerinstructor_reactormanual4>“Increasing the fission rate makes the reactor consume more fuel and generate more heat. The heat is used to spin the turbine, which generates electricity.”</tutorial.roles.engineerinstructor_reactormanual4>
-<tutorial.roles.engineerinstructor_reactormanual5>“The higher the turbine output, the more the reactor attempts to generate electricity. If the output is too high relative to the fission rate, the reactor will cool down; too low and it'll overheat.”</tutorial.roles.engineerinstructor_reactormanual5>
-<tutorial.roles.engineerinstructor_reactormanual6>“It all boils down to: Keep the left gauge in the green, keep the right gauge in the green.”</tutorial.roles.engineerinstructor_reactormanual6>
-<tutorial.roles.engineerinstructor_reactormanual6_player>“Why bother with manual control at all?”</tutorial.roles.engineerinstructor_reactormanual6_player>
-<tutorial.roles.engineerinstructor_reactormanual7>“Great question! Ever been on a submarine and the lights suddenly turned off? That probably meant the reactor was on automatic control and the captain did some sudden maneuvering. Auto is much slower to react to and compensate for higher power needs than manual control is.”</tutorial.roles.engineerinstructor_reactormanual7>
-<tutorial.roles.engineerinstructor_reactormanual7_player>“Can I try it?”</tutorial.roles.engineerinstructor_reactormanual7_player>
-<tutorial.roles.engineer_reactormanual>Interact with the reactor, then switch to manual control.</tutorial.roles.engineer_reactormanual>
-<tutorial.roles.engineer_reactormanual2>Using the sliders, keep both needles of the gauges in the green areas.</tutorial.roles.engineer_reactormanual2>
-<tutorial.roles.electricaldescription>“Welcome to Electrical! Things are buzzing around here, aren't they?! Don't be intimidated by all the wires; they're going exactly where they need to go. I made sure of it.”</tutorial.roles.electricaldescription>
-<tutorial.roles.electricaldescription2>“This room is usually filled with junction boxes. All the power from the reactor needs to be distributed, and that's where the jay-bees—or junction boxes—come in!”</tutorial.roles.electricaldescription2>
-<tutorial.roles.engineerinstructor_junctionboxes>“When junction boxes break down, which they will, any devices connected to them will cease to function. Your job is to keep that from happening!”</tutorial.roles.engineerinstructor_junctionboxes>
-<tutorial.roles.engineerinstructor_junctionboxes_player>“Why do they break? Can't they, like, not break?”</tutorial.roles.engineerinstructor_junctionboxes_player>
-<tutorial.roles.engineerinstructor_junctionboxes2>“Good question! Some skilled engineers at outposts can make devices more damage resistant, but let's forget about that for now.”</tutorial.roles.engineerinstructor_junctionboxes2>
-<tutorial.roles.engineerinstructor_junctionboxes3>“Most captains are the rough breakey kind of captains. They prefer to accelerate at maximum power for a few seconds, then completely idle the submarine the next minute for a cigar break. These power fluctuations are what damages the sub's electrical devices most of the time.”</tutorial.roles.engineerinstructor_junctionboxes3>
-<tutorial.roles.engineerinstructor_junctionboxes4>“The other thing is water, of course. Electricity and water don't mix so well, so any time water leaks into the submarine, there will be damage.”</tutorial.roles.engineerinstructor_junctionboxes4>
-<tutorial.roles.engineerinstructor_junctionboxes4_player>“So I just sit here with my screwdriver for the whole trip?”</tutorial.roles.engineerinstructor_junctionboxes4_player>
-<tutorial.roles.engineerinstructor_junctionboxes5>“Pretty much! Except once you learn how to fast-repair, you'll have a lot of time for other things. Let me show you!”</tutorial.roles.engineerinstructor_junctionboxes5>
-<tutorial.roles.engineerinstructor_junctionboxes5_player>“Okay.”</tutorial.roles.engineerinstructor_junctionboxes5_player>
-<tutorial.roles.popup.engineer_junctionboxes>Interact with the junction box and click the repair button in rapid succession.</tutorial.roles.popup.engineer_junctionboxes>
-<tutorial.roles.popup.engineer_junctionboxes2>Ouch! Repairing too quickly gets you shocked.</tutorial.roles.popup.engineer_junctionboxes2>
-<tutorial.roles.popup.engineer_junctionboxes3>Now try to time clicking the repair button. Click when the moving line hits the colored area of the bar.</tutorial.roles.popup.engineer_junctionboxes3>
-<tutorial.roles.engineerinstructor_wiring>“That went okay, I think. But look, this one light is still off!”</tutorial.roles.engineerinstructor_wiring>
-<tutorial.roles.engineerinstructor_wiring_player>“Why's that?”</tutorial.roles.engineerinstructor_wiring_player>
-<tutorial.roles.engineerinstructor_wiring2>“It's because I removed a wire connecting the junction box to the lamp. But I have it right here—I just need you to connect it.”</tutorial.roles.engineerinstructor_wiring2>
-<tutorial.roles.engineerinstructor_wiring2_player>“How?”</tutorial.roles.engineerinstructor_wiring2_player>
-<tutorial.roles.engineerinstructor_wiring3>“All you need is a screwdriver in one hand and a wire in the other. Let me show you!”</tutorial.roles.engineerinstructor_wiring3>
-<tutorial.roles.engineerinstructor_wiring3_player>“Sure.”</tutorial.roles.engineerinstructor_wiring3_player>
-<tutorial.roles.popup.engineer_wiring>Equip the screwdriver and the wire.</tutorial.roles.popup.engineer_wiring>
-<tutorial.roles.popup.engineer_wiring2>Rewire the junction box with [InputType.Use].</tutorial.roles.popup.engineer_wiring2>
-<tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER_OUT.</tutorial.roles.popup.engineer_wiring3>
-<tutorial.roles.popup.engineer_wiring4>Rewire the lamp with [InputType.Use].</tutorial.roles.popup.engineer_wiring4>
-<tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER_IN.</tutorial.roles.popup.engineer_wiring5>
-<tutorial.roles.engineerinstructor_end>“Awesome job! That covers all the basics of engineering. The rest you can learn on your trips! You were a lovely student. Hope to see you around!”</tutorial.roles.engineerinstructor_end>
-<tutorial.roles.engineerinstructor_end_player>“Thanks Kayleigh! See you!”</tutorial.roles.engineerinstructor_end_player>
+<tutorial.roles.reactorroomdescription>「反應爐室是潛艇的心臟所在。只要還有電流在電線中流竄，潛艇就是活的。而電力──全都來自這個寶貝。」</tutorial.roles.reactorroomdescription>
+<tutorial.roles.engineerinstructor_fuelrods>「『核能反應爐』聽起來或許有點可怕，因為那些看不見的輻射什麼的，不過真的一點也不必擔心！操作它們是相對安全的任務。」</tutorial.roles.engineerinstructor_fuelrods>
+<tutorial.roles.engineerinstructor_fuelrods2>「相對其他那些風險遠遠高出許多的任務來說，的確是這樣。反應爐室多半會受到不錯的保護，而且位於船體中央！」</tutorial.roles.engineerinstructor_fuelrods2>
+<tutorial.roles.engineerinstructor_fuelrods3>「有件事一定要記好，我得強調：絕、對、別把你從庫存找到的所有燃料棒一次塞進反應爐中。」</tutorial.roles.engineerinstructor_fuelrods3>
+<tutorial.roles.engineerinstructor_fuelrods4>「我認真的。絕對不要。每多一個燃料棒反應爐就會產生更多熱能。熱能太高就會造成火災。到最後就會全面熔毀，然後爆炸！呃，至少那會讓你死得痛快。比被海盜抓走好太多了。」</tutorial.roles.engineerinstructor_fuelrods4>
+<tutorial.roles.engineerinstructor_fuelrods5>「總之，現在先只給你一個燃料棒。我來教你怎麼把它放進反應爐裡。」</tutorial.roles.engineerinstructor_fuelrods5>
+<tutorial.roles.engineerinstructor_fuelrods5_player>「這真的安全嗎？」</tutorial.roles.engineerinstructor_fuelrods5_player>
+<tutorial.roles.popup.engineer_fuelrods>與反應爐進行互動，並拖放燃料棒至左方的欄位中。</tutorial.roles.popup.engineer_fuelrods>
+<tutorial.roles.engineerinstructor_reactor>「反應爐的基本啟動程序大概是這個樣子：\n1. 插入一個還沒被消耗完畢的燃料棒。\n2. 按下開關。\n3. 切換自動控制至開啟。」</tutorial.roles.engineerinstructor_reactor>
+<tutorial.roles.engineerinstructor_reactor_player>「聽起來不會太難。」</tutorial.roles.engineerinstructor_reactor_player>
+<tutorial.roles.engineerinstructor_reactor2>「你試試看吧！別害臊！」</tutorial.roles.engineerinstructor_reactor2>
+<tutorial.roles.engineerinstructor_reactor2_player>「是的！」</tutorial.roles.engineerinstructor_reactor2_player>
+<tutorial.roles.popup.engineer_reactor>與反應爐進行互動，啟動它並開啟自動控制。</tutorial.roles.popup.engineer_reactor>
+<tutorial.roles.engineerinstructor_reactormanual>「做得好！你很有天分！我們有電力了。你看燈都亮起來了──都是你的功勞！」</tutorial.roles.engineerinstructor_reactormanual>
+<tutorial.roles.engineerinstructor_reactormanual_player>「那還蠻容易的。」</tutorial.roles.engineerinstructor_reactormanual_player>
+<tutorial.roles.engineerinstructor_reactormanual2>「啊哈，感覺自信大增對吧？那麼現在試試手動控制。」</tutorial.roles.engineerinstructor_reactormanual2>
+<tutorial.roles.engineerinstructor_reactormanual3>「手動控制下，你有兩項操作。第一項，左側的是裂變率，然後第二項，右側的是渦輪輸出。」</tutorial.roles.engineerinstructor_reactormanual3>
+<tutorial.roles.engineerinstructor_reactormanual4>「提高裂變率會使反應爐消耗更多燃料並產生更多熱能。熱能將被用來推動渦輪，進而產生電力。」</tutorial.roles.engineerinstructor_reactormanual4>
+<tutorial.roles.engineerinstructor_reactormanual5>「渦輪的輸出目標愈高，反應爐就會試著產生更多電力。但如果渦輪出目標太高，反應爐則會因為產生的熱量無法推動渦輪而冷卻；反之，在渦輪的輸出目標過低時會使反應爐過熱。」</tutorial.roles.engineerinstructor_reactormanual5>
+<tutorial.roles.engineerinstructor_reactormanual6>「簡而言之：把指針維持在綠色的範圍裡，左側和右側都一樣。」</tutorial.roles.engineerinstructor_reactormanual6>
+<tutorial.roles.engineerinstructor_reactormanual6_player>「幹嘛還要用手動控制？」</tutorial.roles.engineerinstructor_reactormanual6_player>
+<tutorial.roles.engineerinstructor_reactormanual7>「好問題！你搭過的潛艇有沒有燈光突然暗下來過？那大概表示它上面的反應爐正在使用自動控制，而它的艦長正在進行一些大幅度的操縱。自動控制對電力需求的反應速度完全無法與手動控制相比。」</tutorial.roles.engineerinstructor_reactormanual7>
+<tutorial.roles.engineerinstructor_reactormanual7_player>「我能試試嗎？」</tutorial.roles.engineerinstructor_reactormanual7_player>
+<tutorial.roles.engineer_reactormanual>與反應爐互動，並切換至手動控制。</tutorial.roles.engineer_reactormanual>
+<tutorial.roles.engineer_reactormanual2>使用滑桿將指針維持在綠色區域中。</tutorial.roles.engineer_reactormanual2>
+<tutorial.roles.electricaldescription>「歡迎來到電氣部門！這裡的嗡嗡聲很酷，對吧？！別被這些電線嚇到了；他們都好好地接在該接的地方。我檢查過了。」</tutorial.roles.electricaldescription>
+<tutorial.roles.electricaldescription2>「這個房間通常會裝滿配電箱。從反應爐產生的電力需要被分散出去，而這正是配電箱派上用場的時刻！」</tutorial.roles.electricaldescription2>
+<tutorial.roles.engineerinstructor_junctionboxes>「當配電箱故障，它們一定會故障，那時所有與其連接的設備都會無法運作。你的職責就是避免這種情形發生！」</tutorial.roles.engineerinstructor_junctionboxes>
+<tutorial.roles.engineerinstructor_junctionboxes_player>「它們為什麼這麼容易壞？有辦法讓它們不故障嗎？」</tutorial.roles.engineerinstructor_junctionboxes_player>
+<tutorial.roles.engineerinstructor_junctionboxes2>「好問題！如果是在哨站上有些熟練工程師的確能讓它們更能耐用，但先別把這件事放在心上吧。」</tutorial.roles.engineerinstructor_junctionboxes2>
+<tutorial.roles.engineerinstructor_junctionboxes3>「大部分的艦長都是那種粗暴的艦長。他們喜歡全速前進幾秒，然後下一分鐘讓潛艇完全停止跑去抽雪茄休息。這些電力波動是潛艇上配電箱故障的主要因素之一。」</tutorial.roles.engineerinstructor_junctionboxes3>
+<tutorial.roles.engineerinstructor_junctionboxes4>「另外一個因素當然就是水了。電和水沒辦法好好相處，所以如果船進水了，一定會有故障。」</tutorial.roles.engineerinstructor_junctionboxes4>
+<tutorial.roles.engineerinstructor_junctionboxes4_player>「所以我最好在整趟航行中都待在這裡，拿著螺絲起子待命？」</tutorial.roles.engineerinstructor_junctionboxes4_player>
+<tutorial.roles.engineerinstructor_junctionboxes5>「差不多！但如果你學會如何快速進行維修，你就會有很多時間做其他事情了。讓我示範一次！」</tutorial.roles.engineerinstructor_junctionboxes5>
+<tutorial.roles.engineerinstructor_junctionboxes5_player>「好的。」</tutorial.roles.engineerinstructor_junctionboxes5_player>
+<tutorial.roles.popup.engineer_junctionboxes>與配電箱互動並連續點擊維修按鈕。</tutorial.roles.popup.engineer_junctionboxes>
+<tutorial.roles.popup.engineer_junctionboxes2>噢！維修太快會害你觸電。</tutorial.roles.popup.engineer_junctionboxes2>
+<tutorial.roles.popup.engineer_junctionboxes3>現在試著改變點擊維修按鈕的節奏。當白線移動到進度條上的有色區域時再進行點擊。</tutorial.roles.popup.engineer_junctionboxes3>
+<tutorial.roles.engineerinstructor_wiring>「沒出什麼差錯，大概。不過你看，有一盞燈還是沒亮！」</tutorial.roles.engineerinstructor_wiring>
+<tutorial.roles.engineerinstructor_wiring_player>「怎麼會那樣？」</tutorial.roles.engineerinstructor_wiring_player>
+<tutorial.roles.engineerinstructor_wiring2>「那是因為我把它和配電箱之間的電線拆了。就在我這兒──現在只需要你重新接上它們。」</tutorial.roles.engineerinstructor_wiring2>
+<tutorial.roles.engineerinstructor_wiring2_player>「要怎麼做？」</tutorial.roles.engineerinstructor_wiring2_player>
+<tutorial.roles.engineerinstructor_wiring3>「你只需要一手拿著螺絲起子，另一手拿著電線。讓我來示範！」</tutorial.roles.engineerinstructor_wiring3>
+<tutorial.roles.engineerinstructor_wiring3_player>「沒問題。」</tutorial.roles.engineerinstructor_wiring3_player>
+<tutorial.roles.popup.engineer_wiring>同時裝備螺絲起子和電線。</tutorial.roles.popup.engineer_wiring>
+<tutorial.roles.popup.engineer_wiring2>以[InputType.Use]對配電箱進行配線。</tutorial.roles.popup.engineer_wiring2>
+<tutorial.roles.popup.engineer_wiring3>將電線連接至 POWER_OUT 端點。</tutorial.roles.popup.engineer_wiring3>
+<tutorial.roles.popup.engineer_wiring4>以[InputType.Use]對燈具進行配線。</tutorial.roles.popup.engineer_wiring4>
+<tutorial.roles.popup.engineer_wiring5>將電線連接至 POWER_IN 端點。</tutorial.roles.popup.engineer_wiring5>
+<tutorial.roles.engineerinstructor_end>「做得太好了！這些就是工程師的基本工作了。剩下的你能在旅途中學到！你是位好學生。希望還能再見到你！」</tutorial.roles.engineerinstructor_end>
+<tutorial.roles.engineerinstructor_end_player>「謝啦Kayleigh！再見！」</tutorial.roles.engineerinstructor_end_player>
 <tutorial.roles.engineer.objective.reactor>掌握反應爐</tutorial.roles.engineer.objective.reactor>
 <tutorial.roles.engineer.objective.reactor1>將一個燃料棒放進反應爐</tutorial.roles.engineer.objective.reactor1>
 <tutorial.roles.engineer.objective.reactor2>啟動反應爐</tutorial.roles.engineer.objective.reactor2>
@@ -6886,44 +6886,44 @@
 <tutorial.roles.engineer.objective.rewire2>裝備電線</tutorial.roles.engineer.objective.rewire2>
 <tutorial.roles.engineer.objective.rewire3>將電線接上 POWER 接點</tutorial.roles.engineer.objective.rewire3>
 <tutorial.roles.engineer.objective.rewire4>將電線接上燈具的 POWER 接點</tutorial.roles.engineer.objective.rewire4>
-<tutorial.roles.mechanicinstructor>“Hi, I'm Amos. I'm the mechanic around here. I'll teach you how to care for your submarine. Remember: If you take care of her, she'll take care of you.”</tutorial.roles.mechanicinstructor>
+<tutorial.roles.mechanicinstructor>「嗨，我是Amos。我是這兒的技師。我會教你怎麼顧好你的潛艇。記得：你顧好它，它就會顧好你。」</tutorial.roles.mechanicinstructor>
 <charactername.mechanicinstructor>Amos Arbor</charactername.mechanicinstructor>
-<tutorial.roles.engineroomdescription>“This right here is the engine room. It houses the engine. Every submarine has one. The engine moves the submarine forwards and backwards.”</tutorial.roles.engineroomdescription>
-<tutorial.roles.mechanicinstructor_engine>“The engine is a mechanical device. You will be a mechanic. You take care of mechanical devices.”</tutorial.roles.mechanicinstructor_engine>
-<tutorial.roles.mechanicinstructor_engine2>“Thing is making funny sounds or smoking? You take a wrench and fix it. Here's a wrench. Now fix it.”</tutorial.roles.mechanicinstructor_engine2>
-<tutorial.roles.popup.mechanic_engine>Equip the wrench.</tutorial.roles.popup.mechanic_engine>
-<tutorial.roles.popup.mechanic_engine2>Repair the engine.</tutorial.roles.popup.mechanic_engine2>
-<tutorial.roles.mechanicinstructor_engine3>“That wasn't terrible. Anyways, the ceiling is leaking too, which is probably what caused the damage in the first place. You know how to handle a welding tool?”</tutorial.roles.mechanicinstructor_engine3>
-<tutorial.roles.mechanicinstructor_engine3_player>“I do.”</tutorial.roles.mechanicinstructor_engine3_player>
-<tutorial.roles.popup.mechanic_welding>Equip the welding tool.</tutorial.roles.popup.mechanic_welding>
-<tutorial.roles.popup.mechanic_welding2>Weld the leak.</tutorial.roles.popup.mechanic_welding2>
-<tutorial.roles.mechanicinstructor_ballast>“Hm, that will do. Now, grab a diving mask from the supply cabinet.”</tutorial.roles.mechanicinstructor_ballast>
-<tutorial.roles.mechanicinstructor_ballast_player>“All right.”</tutorial.roles.mechanicinstructor_ballast_player>
-<tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
-<tutorial.roles.ballastdescription>“Down this ladder and through the hatch is a ballast tank. The ballast tank fills up with water when the submarine needs to go down.”</tutorial.roles.ballastdescription>
-<tutorial.roles.mechanicinstructor_ballast2>“Inside, a pump forces the water in or out. If the pump breaks down, you get in there and fix it. Since there's usually water in the ballast tank, it helps to have some diving tools on you. Still got that wrench?”</tutorial.roles.mechanicinstructor_ballast2>
-<tutorial.roles.mechanicinstructor_ballast2_player>“Yep.”</tutorial.roles.mechanicinstructor_ballast2_player>
-<tutorial.roles.popup.mechanic_ballast>Repair the ballast pump</tutorial.roles.popup.mechanic_ballast>
-<tutorial.roles.mechanicinstructor_ballast3>“Not bad, cub. Follow me. We'll do some fabricating next.”</tutorial.roles.mechanicinstructor_ballast3>
-<tutorial.roles.mechanicinstructor_ballast3_player>“Following.”</tutorial.roles.mechanicinstructor_ballast3_player>
-<tutorial.roles.engineeringdescription>“The engineering room is where you can find the fabrication and deconstruction devices. Not all submarines have them, but most outposts and stations do, and you can use them for free.”</tutorial.roles.engineeringdescription>
-<tutorial.roles.mechanicinstructor_fabrication>“Fabricating new items with a fabricator is easy: You put in some basic ingredients, select a blueprint or recipe, press the button and you got yourself some brand new toys.”</tutorial.roles.mechanicinstructor_fabrication>
-<tutorial.roles.mechanicinstructor_fabrication2>“Deconstructing is even easier: You put in some item, plant or mineral, and you get basic materials back.\nDo note that you'll lose some materials in the process.”</tutorial.roles.mechanicinstructor_fabrication2>
-<tutorial.roles.mechanicinstructor_fabrication3>“How about you make your own wrench? There's some iron ore in the cabinet—you'll need to refine it in the deconstructor first.”</tutorial.roles.mechanicinstructor_fabrication3>
-<tutorial.roles.popup.mechanic_fabrication>Acquire the iron ore.</tutorial.roles.popup.mechanic_fabrication>
-<tutorial.roles.popup.mechanic_fabrication2>Deconstruct the iron ore.</tutorial.roles.popup.mechanic_fabrication2>
-<tutorial.roles.popup.mechanic_fabrication3>Retrieve the iron.</tutorial.roles.popup.mechanic_fabrication3>
-<tutorial.roles.popup.mechanic_fabrication4>Fabricate a wrench.</tutorial.roles.popup.mechanic_fabrication4>
-<tutorial.roles.mechanicinstructor_fabrication4>“You can keep that one if you want, cub. Anyways, almost done. Last room, then some beer.”</tutorial.roles.mechanicinstructor_fabrication4>
-<tutorial.roles.mechanicinstructor_fabrication4_player>“Thanks, chief.”</tutorial.roles.mechanicinstructor_fabrication4_player>
-<tutorial.roles.oxygendescription>“This is the oxygen generator compartment. Typically quite small, but also rather important as they keep people breathing.”</tutorial.roles.oxygendescription>
-<tutorial.roles.mechanicinstructor_oxygen>“Just remember to check up on it and repair it. If you got time to spare, use it to fill up depleted oxygen tanks.”</tutorial.roles.mechanicinstructor_oxygen>
-<tutorial.roles.mechanicinstructor_oxygen2>“How about you put your oxygen tank in there and we call it a day, eh?”</tutorial.roles.mechanicinstructor_oxygen2>
-<tutorial.roles.mechanicinstructor_oxygen2_player>“Sounds good.”</tutorial.roles.mechanicinstructor_oxygen2_player>
-<tutorial.roles.popup.mechanic_oxygen>Interact with the oxygen generator</tutorial.roles.popup.mechanic_oxygen>
-<tutorial.roles.popup.mechanic_oxygen2>Drag the used oxygen tank to the oxygen generator</tutorial.roles.popup.mechanic_oxygen2>
-<tutorial.roles.mechanicinstructor_oxygen3>“Good job, cub. You made it through. Keep your tools sorted, your workplace tidy and let's have that beer now.”</tutorial.roles.mechanicinstructor_oxygen3>
-<tutorial.roles.mechanicinstructor_oxygen3_player>“Sure, thanks chief!”</tutorial.roles.mechanicinstructor_oxygen3_player>
+<tutorial.roles.engineroomdescription>「這裡是引擎室。引擎就在這裡。每艘潛艇都有。引擎負責控制潛艇前進或後退。」</tutorial.roles.engineroomdescription>
+<tutorial.roles.mechanicinstructor_engine>「引擎是一個機械設備。你是技師。你負責照顧機械設備。」</tutorial.roles.mechanicinstructor_engine>
+<tutorial.roles.mechanicinstructor_engine2>「東西發出奇怪聲響或是冒煙？拿起一把扳手修好它。這裡有把扳手。修好它。」</tutorial.roles.mechanicinstructor_engine2>
+<tutorial.roles.popup.mechanic_engine>裝備扳手。</tutorial.roles.popup.mechanic_engine>
+<tutorial.roles.popup.mechanic_engine2>修復引擎。</tutorial.roles.popup.mechanic_engine2>
+<tutorial.roles.mechanicinstructor_engine3>「還不差。另外，天花板也在漏水，那大概是造成這具引擎故障的原因。你知道怎麼用焊接工具嗎？」</tutorial.roles.mechanicinstructor_engine3>
+<tutorial.roles.mechanicinstructor_engine3_player>「知道。」</tutorial.roles.mechanicinstructor_engine3_player>
+<tutorial.roles.popup.mechanic_welding>裝備焊接工具。</tutorial.roles.popup.mechanic_welding>
+<tutorial.roles.popup.mechanic_welding2>修復漏洞。</tutorial.roles.popup.mechanic_welding2>
+<tutorial.roles.mechanicinstructor_ballast>「嗯，那樣就行了。現在，從櫃子裡拿一個潛水面罩。」</tutorial.roles.mechanicinstructor_ballast>
+<tutorial.roles.mechanicinstructor_ballast_player>「好的。」</tutorial.roles.mechanicinstructor_ballast_player>
+<tutorial.roles.popup.mechanic_divingmask>戴上潛水面罩。</tutorial.roles.popup.mechanic_divingmask>
+<tutorial.roles.ballastdescription>「這個艙門下、沿著梯子下去就是一個壓載艙。壓載艙在潛艇需要下潛時會被注滿水。」</tutorial.roles.ballastdescription>
+<tutorial.roles.mechanicinstructor_ballast2>「那裡，有個抽水機將水抽出或打進。如果抽水機壞了，你就要下去修好它。艙裡通常會有水，帶著一些潛水用具可以幫到你。你還拿著你的扳手嗎？」</tutorial.roles.mechanicinstructor_ballast2>
+<tutorial.roles.mechanicinstructor_ballast2_player>「沒錯。」</tutorial.roles.mechanicinstructor_ballast2_player>
+<tutorial.roles.popup.mechanic_ballast>修復壓載艙抽水機</tutorial.roles.popup.mechanic_ballast>
+<tutorial.roles.mechanicinstructor_ballast3>「還不錯，小鬼。跟我來。接下來我們要製作一些物品。」</tutorial.roles.mechanicinstructor_ballast3>
+<tutorial.roles.mechanicinstructor_ballast3_player>「緊跟在後。」</tutorial.roles.mechanicinstructor_ballast3_player>
+<tutorial.roles.engineeringdescription>「你可以在工程部門找到加工和解構用的設備。不是每艘潛艇都有，但大部分的哨站都會有，你能免費使用它們。」</tutorial.roles.engineeringdescription>
+<tutorial.roles.mechanicinstructor_fabrication>「用加工台製作新的物品很簡單：你放進一些基礎原料，選擇藍圖或配方，按下按鈕你就有新玩具了。」</tutorial.roles.mechanicinstructor_fabrication>
+<tutorial.roles.mechanicinstructor_fabrication2>「解構更簡單：放物品進去，植物或礦物，你就能拿到基礎原料。\n但記住這有些原料會在過程中消失。」</tutorial.roles.mechanicinstructor_fabrication2>
+<tutorial.roles.mechanicinstructor_fabrication3>「作把你自己的扳手如何？櫃子裡有些鐵礦石──你會需要先使用解構儀來處理它們。」</tutorial.roles.mechanicinstructor_fabrication3>
+<tutorial.roles.popup.mechanic_fabrication>取得鐵礦石。</tutorial.roles.popup.mechanic_fabrication>
+<tutorial.roles.popup.mechanic_fabrication2>分解鐵礦石。</tutorial.roles.popup.mechanic_fabrication2>
+<tutorial.roles.popup.mechanic_fabrication3>取回鐵。</tutorial.roles.popup.mechanic_fabrication3>
+<tutorial.roles.popup.mechanic_fabrication4>製作一把扳手。</tutorial.roles.popup.mechanic_fabrication4>
+<tutorial.roles.mechanicinstructor_fabrication4>「你可以留一些在身上，小鬼。再來，快結束了。最後的房間，然後是啤酒。」</tutorial.roles.mechanicinstructor_fabrication4>
+<tutorial.roles.mechanicinstructor_fabrication4_player>「謝啦，工頭。」</tutorial.roles.mechanicinstructor_fabrication4_player>
+<tutorial.roles.oxygendescription>「這是製氧機房。通常都不大，但人們需要靠它們呼吸所以還算重要。」</tutorial.roles.oxygendescription>
+<tutorial.roles.mechanicinstructor_oxygen>「記得檢查並保養它。如果你有空閒，去用它來填充被用光的氧氣罐。」</tutorial.roles.mechanicinstructor_oxygen>
+<tutorial.roles.mechanicinstructor_oxygen2>「把你的氧氣罐放上去我們就算結束了，怎麼樣？」</tutorial.roles.mechanicinstructor_oxygen2>
+<tutorial.roles.mechanicinstructor_oxygen2_player>「聽起來不錯。」</tutorial.roles.mechanicinstructor_oxygen2_player>
+<tutorial.roles.popup.mechanic_oxygen>與製氧機互動。</tutorial.roles.popup.mechanic_oxygen>
+<tutorial.roles.popup.mechanic_oxygen2>拖放氧氣灌至製氧機。</tutorial.roles.popup.mechanic_oxygen2>
+<tutorial.roles.mechanicinstructor_oxygen3>「做得好，小鬼。你成功了。整理好你的工具和你的工作環境，我們來些啤酒吧。」</tutorial.roles.mechanicinstructor_oxygen3>
+<tutorial.roles.mechanicinstructor_oxygen3_player>「沒問題，謝啦工頭！」</tutorial.roles.mechanicinstructor_oxygen3_player>
 <tutorial.roles.mechanic.objective.engine>修復引擎</tutorial.roles.mechanic.objective.engine>
 <tutorial.roles.mechanic.objective.leaks>使用焊接工具維修牆體</tutorial.roles.mechanic.objective.leaks>
 <tutorial.roles.mechanic.objective.ballast1>進入壓載艙</tutorial.roles.mechanic.objective.ballast1>
@@ -6931,31 +6931,31 @@
 <tutorial.roles.mechanic.objective.ballast3>離開壓載艙</tutorial.roles.mechanic.objective.ballast3>
 <tutorial.roles.mechanic.objective.engineering>學習物品加工</tutorial.roles.mechanic.objective.engineering>
 <tutorial.roles.mechanic.objective.engineering1>分解鐵礦石</tutorial.roles.mechanic.objective.engineering1>
-<tutorial.roles.mechanic.objective.engineering2>拿取鐵</tutorial.roles.mechanic.objective.engineering2>
+<tutorial.roles.mechanic.objective.engineering2>取回鐵</tutorial.roles.mechanic.objective.engineering2>
 <tutorial.roles.mechanic.objective.engineering3>製作一把扳手</tutorial.roles.mechanic.objective.engineering3>
 <tutorial.roles.mechanic.objective.oxygen>填充氧氣罐</tutorial.roles.mechanic.objective.oxygen>
-<tutorial.roles.securityinstructor>“Stand with your back straight, recruit! I’ll teach you to shoot, stab and sink your enemies. My name is Officer Pérez, but you might as well forget it now, since you’ll address me only as ma'am.”</tutorial.roles.securityinstructor>
+<tutorial.roles.securityinstructor>「站好背打直，新兵！我會教你們用槍、用刀、讓你的敵人沉入大海。我是安全官Pérez，但你不用記住，因為從現在開始你要稱呼我為女士。」</tutorial.roles.securityinstructor>
 <charactername.securityinstructor>Ofc. Pérez</charactername.securityinstructor>
-<tutorial.roles.securityinstructor.yesmaam1>“Yes ma'am!”</tutorial.roles.securityinstructor.yesmaam1>
-<tutorial.roles.armorydescription>“Welcome to the armory. Every crew needs an armory to store their weapons. Preferably one that's secured by a locked door to prevent the munitions from falling into the wrong hands. Armories are often situated near the command room and/or the gunnery compartment. In lieu of armories, secure cabinets are sometimes used to store handheld weaponry.”</tutorial.roles.armorydescription>
-<tutorial.roles.securityinstructor.bodyarmor>“Being such a quick learner, you might last longer than most. First of all, equip yourself with body armor. You can find some in that cabinet. Just follow the stink of sweat.”</tutorial.roles.securityinstructor.bodyarmor>
-<tutorial.roles.securityinstructor.yesmaam2>“Yes, ma'am...”</tutorial.roles.securityinstructor.yesmaam2>
-<tutorial.roles.popup.bodyarmor>Find body armor.</tutorial.roles.popup.bodyarmor>
-<tutorial.roles.securityinstructor.gun1>“Good. I think it was recruit Miller who died in that armor. A bright young man, but the worst aim you ever saw. Now get a gun and ammo from that rack. Make sure it’s loaded by hovering your mouse over it.”</tutorial.roles.securityinstructor.gun1>
-<tutorial.roles.popup.gun>Find a gun.</tutorial.roles.popup.gun>
-<tutorial.roles.securityinstructor.gun2>“Management wants me to remind you about trigger discipline at this point. ...Now that that’s done with, let’s get to shooting. We’re fresh out of clowns, so you’ll have to make do with a husk. Proceed to the shooting range.”</tutorial.roles.securityinstructor.gun2>
-<tutorial.roles.securityinstructor.shooting1>“Enemies that manage to board your submarine are usually weak enough to be dispatched with handheld weapons. Husks can infect humans with a deadly parasite, but this one is safely contained in the range. Kill it.”</tutorial.roles.securityinstructor.shooting1>
-<tutorial.roles.popup.shooting>Kill the enemy.</tutorial.roles.popup.shooting>
-<tutorial.roles.securityinstructor.shooting2>“Nice shooting. You beat Miller’s record. Let’s find you something bigger to shoot. Proceed to the coilgun loader.”</tutorial.roles.securityinstructor.shooting2>
-<tutorial.roles.gunnerydescription>“This here's the gunnery. From here you'll be able to control various weapons situated on the hull of your submarine.”</tutorial.roles.gunnerydescription>
-<tutorial.roles.securityinstructor.subweapons>“Submarine weaponry consists of several devices. Along with the turret itself, you’ll find a loader, a supercapacitor, and a periscope.”</tutorial.roles.securityinstructor.subweapons>
-<tutorial.roles.securityinstructor.loader>“A loader should have ammunition compatible with the weapon it's linked to. Load some coilgun ammunition into this one.”</tutorial.roles.securityinstructor.loader>
-<tutorial.roles.popup.loader>Insert a coilgun ammunition box into the loader.</tutorial.roles.popup.loader>
-<tutorial.roles.securityinstructor.supercapacitor>“Supercapacitors provide power to the weapons. Turn this one on by cranking the dial. The higher it is, the faster your weapons charge. Just be careful—on red it starts to overload.”</tutorial.roles.securityinstructor.supercapacitor>
-<tutorial.roles.popup.supercapacitor>Turn on the supercapacitor.</tutorial.roles.popup.supercapacitor>
-<tutorial.roles.securityinstructor.periscope>“Periscopes are used to control turrets. While interacting with a periscope, use your mouse to aim and [InputType.Shoot] to shoot. Now see if you can’t find something to shoot with this coilgun.”</tutorial.roles.securityinstructor.periscope>
-<tutorial.roles.popup.killoutsideenemy>Kill the enemy outside the station.</tutorial.roles.popup.killoutsideenemy>
-<tutorial.roles.securityinstructor.complete>「Good one. Now I can sleep better at night. Unlike recruit Miller.」</tutorial.roles.securityinstructor.complete>
+<tutorial.roles.securityinstructor.yesmaam1>「是的，女士！」</tutorial.roles.securityinstructor.yesmaam1>
+<tutorial.roles.armorydescription>「W歡迎來到軍械室。每組船員都需要一個軍械室來存放它們的武器。最好是在一個上鎖的門後面，以防止彈藥落入不法份子之手。軍械室多半位於指揮室和/或槍砲機房附近。有時候也會使用保險櫃代替軍械室來存放手持武器。」</tutorial.roles.armorydescription>
+<tutorial.roles.securityinstructor.bodyarmor>「你的學習力如此迅捷，或許你會活得比其他人久一點。首先，把護甲穿上。你能在那個櫃子裡找到幾件。跟著汗臭味就找得到。」</tutorial.roles.securityinstructor.bodyarmor>
+<tutorial.roles.securityinstructor.yesmaam2>「室的，女士...」</tutorial.roles.securityinstructor.yesmaam2>
+<tutorial.roles.popup.bodyarmor>尋找護甲。</tutorial.roles.popup.bodyarmor>
+<tutorial.roles.securityinstructor.gun1>「好。沒記錯的話新兵Miller掛掉的時候穿得就是那件。一位聰明的年輕人，但是他的準頭會是你所見過最糟的。現在從那個架子上拿把彈藥和槍。用你的滑鼠確認裡面裝了子彈。」</tutorial.roles.securityinstructor.gun1>
+<tutorial.roles.popup.gun>找到一把槍。</tutorial.roles.popup.gun>
+<tutorial.roles.securityinstructor.gun2>「管理層希望我在這個階段提醒你們板機的相關紀律。...既然已經懂了，那讓我們開始射擊吧。我們沒有小丑了，所以你就用畫皮當目標吧。往靶場移動。」</tutorial.roles.securityinstructor.gun2>
+<tutorial.roles.securityinstructor.shooting1>「登上船的敵人通常都弱得足以使用手持武器擊退。畫皮能夠讓人類感染致命的寄生蟲，不過這隻背安全的收容在靶場裡了。殲滅牠。」</tutorial.roles.securityinstructor.shooting1>
+<tutorial.roles.popup.shooting>殲滅敵人。</tutorial.roles.popup.shooting>
+<tutorial.roles.securityinstructor.shooting2>「打得不錯。你破了Miller的紀錄。現在給你一些更大的目標試試。移動至電磁槍裝彈機。」</tutorial.roles.securityinstructor.shooting2>
+<tutorial.roles.gunnerydescription>「這裡是槍砲機房。在這裡你能操作各種裝設於潛艇外部的武器。」</tutorial.roles.gunnerydescription>
+<tutorial.roles.securityinstructor.subweapons>「潛艇的武器由幾個裝置組成。除了砲塔本身，你可以看到還有裝彈機、超級電容、和潛望鏡。」</tutorial.roles.securityinstructor.subweapons>
+<tutorial.roles.securityinstructor.loader>「裝彈機需要使用與之連結武器種類的彈藥。為這個裝彈機裝填電磁槍彈藥。」</tutorial.roles.securityinstructor.loader>
+<tutorial.roles.popup.loader>將一個電磁槍彈藥裝進裝彈機。</tutorial.roles.popup.loader>
+<tutorial.roles.securityinstructor.supercapacitor>「超級電容提供武器電力。使用滑桿替它充電。設得愈高，充電愈快。留意──設在紅色範圍會讓它過載。」</tutorial.roles.securityinstructor.supercapacitor>
+<tutorial.roles.popup.supercapacitor>啟動超級電容。</tutorial.roles.popup.supercapacitor>
+<tutorial.roles.securityinstructor.periscope>「潛望鏡用來控制砲塔。與潛望鏡互動時，移動你的滑鼠進行瞄準，使用[InputType.Shoot]開火。現在看看你能不能用電磁槍打到什麼東西。」</tutorial.roles.securityinstructor.periscope>
+<tutorial.roles.popup.killoutsideenemy>殲滅哨站外的敵人。</tutorial.roles.popup.killoutsideenemy>
+<tutorial.roles.securityinstructor.complete>「很好。現在我晚上能睡得好一點了。不像新兵Miller。」</tutorial.roles.securityinstructor.complete>
 <tutorial.roles.airlockdescription>「這裡是氣閘。要是你需要前往室外做外部維修、調查一些礦物、或把黏在船體上的爬行者扒開，你得從這裡出去。\n還有，別忘了的潛水服──潛水面罩在外面沒辦法保護你。」</tutorial.roles.airlockdescription>
 <tutorial.roles.security.objective.gearup>做好準備</tutorial.roles.security.objective.gearup>
 <tutorial.roles.security.objective.gearup1>裝備護甲</tutorial.roles.security.objective.gearup1>
@@ -6997,7 +6997,7 @@
 <tutorial.roles.medicalinstructor.cpr1>「做得好。還有一項你需要學的，那就是施行CPR的方法。」</tutorial.roles.medicalinstructor.cpr1>
 <tutorial.roles.medicalinstructor.cpr2>「當一個人受到足夠創傷的時候，他們會陷入緊急狀態。這個狀態下他們會無法動彈，如果沒有即刻接受治療他們的生命就會消逝。」</tutorial.roles.medicalinstructor.cpr2><!--NEED EDIT-->
 <tutorial.roles.medicalinstructor.cpr3>「要在某人的生命逝去之前將他們救起，打開他們的醫療介面並按下『進行CPR』按鈕。如果你成功了，患者就會穩定下來。要記得這個動作通常會需要花點時間。」</tutorial.roles.medicalinstructor.cpr3>
-<tutorial.roles.medicalinstructor.cpr4>「到醫務室來。有一位患者需要心肺復甦。慢慢來；他不是真的快掛了。...還不是。”</tutorial.roles.medicalinstructor.cpr4>
+<tutorial.roles.medicalinstructor.cpr4>「到醫務室來。有一位患者需要心肺復甦。慢慢來；他不是真的快掛了。...還不是。」</tutorial.roles.medicalinstructor.cpr4>
 <tutorial.roles.popup.cpr>點選「進行CPR」按鈕。</tutorial.roles.popup.cpr>
 <tutorial.roles.medicalinstructor.complete>「做得好。下次我請你喝杯咖啡。」</tutorial.roles.medicalinstructor.complete>
 <tutorial.roles.medic.objective.morphine>治療指導員</tutorial.roles.medic.objective.morphine>
