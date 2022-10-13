@@ -4,22 +4,22 @@
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
-<!-- Modified values after September 5 (Hoist the Sails update) --><!--NEW TEXT FROM HERE?-->
-<tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
-<tutorial.roles.popup.medfabricator1>Find Morphine and Stabilozine.</tutorial.roles.popup.medfabricator1>
-<tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring3>
-<tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring5>
-<tutorial.roles.engineer.objective.rewire3>Wire the Junction Box's POWER output</tutorial.roles.engineer.objective.rewire3>
-<tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER input</tutorial.roles.engineer.objective.rewire4>
-<tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.healthui>
-<tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the Naloxone on me. Remember, [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
-<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them ([InputType.Health] to enter Health interface!) to learn about what ails them.”</tutorial.roles.medicalinstructor.patients2>
+<!-- Modified values after September 5 (Hoist the Sails update) -->
+<tutorial.roles.popup.healthui1>以[InputType.Health]進入醫生的醫療介面</tutorial.roles.popup.healthui1><!--DUPE LINE 6977-->
+<tutorial.roles.popup.medfabricator1>尋找嗎啡和安定素。</tutorial.roles.popup.medfabricator1><!--DUPE LINE 6980-->
+<tutorial.roles.popup.engineer_wiring3>將電線連接至 POWER 端點。</tutorial.roles.popup.engineer_wiring3><!--DUPE LINE 6869-->
+<tutorial.roles.popup.engineer_wiring5>將電線連接至 POWER 端點。</tutorial.roles.popup.engineer_wiring5><!--DUPE LINE 6871-->
+<tutorial.roles.engineer.objective.rewire3>將電線接上配電箱的 POWER 端點</tutorial.roles.engineer.objective.rewire3><!--DUPE LINE 6887-->
+<tutorial.roles.engineer.objective.rewire4>將電線接上燈具的 POWER 端點</tutorial.roles.engineer.objective.rewire4><!--DUPE LINE 6888-->
+<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--DUPE LINE 6976-->
+<tutorial.roles.medicalinstructor.medfabricator3>「現在當個好助手對用我使用納洛酮。記得，用[InputType.Health]進入我的醫療介面。」</tutorial.roles.medicalinstructor.medfabricator3><!--DUPE LINE 6985-->
+<tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。檢視每一位病患 (按下[InputType.Health]來進入醫療介面！) 好了解他們的問題。」</tutorial.roles.medicalinstructor.patients2><!--DUPE LINE 6988-->
 
-<entitydescription.magnesium>Used in the manufacture of explosives and medical compounds.</entitydescription.magnesium>
-<entitydescription.lithium>Most commonly used in the manufacture of batteries and antipsychotic drugs. Reacts violently when in contact with water.</entitydescription.lithium>
+<entitydescription.magnesium>用於製作爆裂物與醫用材料。</entitydescription.magnesium><!--DUPE LINE 2496-->
+<entitydescription.lithium>最常被用於製作電池和抗精神症藥物。與水接觸會產生激烈反應。</entitydescription.lithium><!--DUPE LINE 2498-->
 
 <!-- New values after September 5 (Hoist the Sails update) -->
   
-<tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
+<tutorial.roles.popup.mechanic_divingmask>戴上潛水面罩。</tutorial.roles.popup.mechanic_divingmask><!--DUPE LINE 6902-->
 <submarine.classandtier>[class] ([tier])</submarine.classandtier>
 </infotexts>
