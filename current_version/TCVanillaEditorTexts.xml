@@ -87,8 +87,8 @@
 <canattachtoprevious>能以何處連結</canattachtoprevious>
 <canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 
-<subeditor.packagealreadyexists>There is already a content package with the name "[name]". Please choose another name or select the package from the list if you want to edit it.</subeditor.packagealreadyexists><!--ADD-->
-<subeditor.duplicatesubinpackage>The content package already contains a submarine with the same name. Do you want to overwrite the existing submarine file?</subeditor.duplicatesubinpackage><!--ADD-->
+<subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
+<subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
 
 
 <!-- Entity Editor -->
