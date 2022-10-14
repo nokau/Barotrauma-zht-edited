@@ -2334,7 +2334,7 @@
 <entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
 <entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
 <entitydescription.proteinbar>可能含有微量的方鉛礦物質。</entitydescription.proteinbar>
-<entityname.chaingunammoboxshredder>>撕裂鏈式機槍彈藥箱</entityname.chaingunammoboxshredder>
+<entityname.chaingunammoboxshredder>撕裂鏈式機槍彈藥箱</entityname.chaingunammoboxshredder>
 <entitydescription.chaingunammoboxshredder>一箱沉重的鏈式機槍彈藥，設計用來撕裂敵人的軀體和護甲。</entitydescription.chaingunammoboxshredder>
 <entityname.shotgunshellblunt>霰彈槍橡膠彈</entityname.shotgunshellblunt>
 <entitydescription.shotgunshellblunt>霰彈槍橡膠彈藥。殺傷力較弱。</entitydescription.shotgunshellblunt>
@@ -2800,7 +2800,7 @@
 <entityname.outpostterminal>哨站終端</entityname.outpostterminal>
 <entitydescription.outpostterminal>以此使用哨站的電子服務。</entitydescription.outpostterminal>
 <entityname.sealedsupplycrate>封住的箱子</entityname.sealedsupplycrate>
-<entitydescription.sealedsupplycrate>用來運送各種物資的箱子，A box of various in-demand supplies. Fetches a high price at outposts.</entitydescription.sealedsupplycrate>
+<entitydescription.sealedsupplycrate>一個有各式物資的箱子。能在哨站賣個好價錢。</entitydescription.sealedsupplycrate>
 <entityname.redpaint>紅色油漆</entityname.redpaint>
 <entityname.greenpaint>綠色油漆</entityname.greenpaint>
 <entityname.bluepaint>藍色油漆</entityname.bluepaint>
