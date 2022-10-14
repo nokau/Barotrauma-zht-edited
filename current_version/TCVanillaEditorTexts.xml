@@ -2,14 +2,14 @@
 <!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~7016), EnglishVanillaEditorTexts.xml (7017~8317), EnglishVanilla EnglishVanillaNew.xml (8318~8343) -->
 <!-- Generic -->
-<editor.saveall>Save All</editor.saveall>
+<editor.saveall>全部儲存</editor.saveall>
   
 <!-- Submarine Editor -->
 <items>物件</items>
 <structures>結構</structures>
-<totalhullvolume>Total hull volume</totalhullvolume>
-<selectedhullvolume>Selected hull volume</selectedhullvolume>
-<optimalballastlevel>optimal neutral ballast level is [value]</optimalballastlevel>
+<totalhullvolume>總體 Hull 體積</totalhullvolume>
+<selectedhullvolume>所選 Hull 體積</selectedhullvolume>
+<optimalballastlevel>最佳壓載艙平衡水位為 [value]</optimalballastlevel>
 <saveitemassembly>保存為物件組合</saveitemassembly>
 <insufficientballast>insufficient volume for buoyancy control</insufficientballast>
 <physicsbodies>Physics bodies</physicsbodies>
@@ -17,11 +17,11 @@
 <savesubbutton>儲存</savesubbutton>
 <addsubbutton>加入潛艇</addsubbutton>
 <addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
-<holdtolink>Hold space and click with the mouse to link to another item.</holdtolink>
-<allowedlinks>Allowed links</allowedlinks>
+<holdtolink>按住空白件並點選物件以對它們建立連結。</holdtolink>
+<allowedlinks>可與其建立連結</allowedlinks>
 <filtermapentities>Filter</filtermapentities>
-<charactermodebutton>Character mode</charactermodebutton>
-<charactermodetooltip>Allows you to pick up and use items. Useful for things such as placing items inside closets, turning devices on/off and doing the wiring.</charactermodetooltip>
+<charactermodebutton>角色模式</charactermodebutton>
+<charactermodetooltip>使你能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
 <wiringmodebutton>配線模式</wiringmodebutton>
 <wiringmodetooltip>允許你對物品進行配線。</wiringmodetooltip>
 <generatewaypointsbutton>產生Waypoint</generatewaypointsbutton>
@@ -92,8 +92,8 @@
 
 
 <!-- Entity Editor -->
-<stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
-<stringpropertycannottranslate>This text will not be translated - text with the tag [tag] not found in the language files.</stringpropertycannottranslate>
+<stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
+<stringpropertycannottranslate>此串文字將不會轉換 - 文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
