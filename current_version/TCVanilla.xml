@@ -475,7 +475,7 @@
 
 <!-- Server settings -->
 <serversettingsgeneraltab>一般</serversettingsgeneraltab>
-<serversettingsantigriefingtab>Anti-griefing</serversettingsantigriefingtab>
+<serversettingsantigriefingtab>防範惡意玩家</serversettingsantigriefingtab>
 <serversettingsroundstab>遊戲</serversettingsroundstab>
 <serversettingsservertab>伺服器</serversettingsservertab>
 <serversettingsbanlisttab>黑名單</serversettingsbanlisttab>
@@ -6445,7 +6445,7 @@
 <talentdescription.crafthighqualitytanks>你製作的焊接燃料與氧氣罐品質提升[qualitybonus]。</talentdescription.crafthighqualitytanks>
 <talentdescription.crafthighqualityexplosives>你製作的爆裂物品質提升[qualitybonus]。</talentdescription.crafthighqualityexplosives>
 <talentdescription.gainitemsonmission>當你完成至少一項任務時獲得下列物品作為額外獎勵:</talentdescription.gainitemsonmission>
-<talentdescription.extramission>你能多選擇一項任務。</talentdescription.extramission>
+<talentdescription.extramission>你能多接受一項任務。</talentdescription.extramission>
 <talentdescription.extratalentpoint>免費獲得[points]點額外天賦點數。</talentdescription.extratalentpoint>
 <talentdescription.lowhealth.effectivehealing>當你的生命值低於[health]%，普通種類的傷害癒合效率增加[extraheal]%。</talentdescription.lowhealth.effectivehealing>
 <talentdescription.lowhealth.regenerate>當你的生命值低於[health]%，普通種類的傷害會自行緩緩癒合。</talentdescription.lowhealth.regenerate>
@@ -6588,7 +6588,7 @@
 <campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果你選擇了它，你將以0馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
 <campaignsubincompatible>這艘潛艇並未被標記為與戰役模式相容。這艘潛艇有可能使戰役失衡或無法完成。</campaignsubincompatible><!--NEED EDIT-->
 <inputtype.chatbox>切換聊天室窗</inputtype.chatbox>
-<duplicatebindwarning>You have bound [savedbind] to [key]. It overlaps with the new keybind [defaultbind]. This can lead to unexpected behavior. Consider revisiting your keybinds in the settings.</duplicatebindwarning>
+<duplicatebindwarning>你已將 [savedbind] 綁定至 [key]。它與新的按鍵設定 [defaultbind] 重複。這可能會導致預期外的結果。建議至設定中更改按鍵綁定。</duplicatebindwarning>
 <hudbutton.chatbox>聊天 ([key])</hudbutton.chatbox>
 <FriendPlayingOnServer>於 [servername] 伺服器中</FriendPlayingOnServer>
 <ChatMsg.DisconnectedWithReason>[client] 已經離開。原因: [reason]</ChatMsg.DisconnectedWithReason>
@@ -6600,10 +6600,10 @@
 <ChatMsg.DisconnectReason.ServerFull>伺服器已滿</ChatMsg.DisconnectReason.ServerFull>
 <ChatMsg.DisconnectReason.AuthenticationRequired>連線驗證失敗</ChatMsg.DisconnectReason.AuthenticationRequired>
 <ChatMsg.DisconnectReason.SteamAuthenticationFailed>Steam驗證失敗</ChatMsg.DisconnectReason.SteamAuthenticationFailed>
-<ChatMsg.DisconnectReason.SessionTaken>Session taken</ChatMsg.DisconnectReason.SessionTaken>
+<ChatMsg.DisconnectReason.SessionTaken>連線被佔用</ChatMsg.DisconnectReason.SessionTaken><!--NEED EDIT-->
 <ChatMsg.DisconnectReason.TooManyFailedLogins>登入失敗次數過多</ChatMsg.DisconnectReason.TooManyFailedLogins>
-<ChatMsg.DisconnectReason.InvalidName>Invalid name</ChatMsg.DisconnectReason.InvalidName>
-<ChatMsg.DisconnectReason.NameTaken>Name taken</ChatMsg.DisconnectReason.NameTaken>
+<ChatMsg.DisconnectReason.InvalidName>無效的名稱</ChatMsg.DisconnectReason.InvalidName>
+<ChatMsg.DisconnectReason.NameTaken>名稱已被使用</ChatMsg.DisconnectReason.NameTaken>
 <ChatMsg.DisconnectReason.InvalidVersion>版本不符</ChatMsg.DisconnectReason.InvalidVersion>
 <ChatMsg.DisconnectReason.SteamP2PError>SteamP2P錯誤</ChatMsg.DisconnectReason.SteamP2PError>
 <ChatMsg.DisconnectReason.Timeout>超時</ChatMsg.DisconnectReason.Timeout>
@@ -6663,7 +6663,7 @@
 <tutorial.basics.equip2>你也能透過對應的按鍵 (1-9) 裝備位於你的物品欄位中的物品。</tutorial.basics.equip2>
 <tutorial.basics.repair2>按下[InputType.Select]來維修損壞的設備。</tutorial.basics.repair2>
 <tutorial.basics.waitdrain>做得好！等待抽水機將水從室內抽出。</tutorial.basics.waitdrain>
-<tutorial.basics.repairouchie>噢！Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie><!--NEED EDIT-->
+<tutorial.basics.repairouchie>噢！試著改變點擊維修按鈕的節奏。當白線移動到進度條上的有色區域時再進行點擊。</tutorial.basics.repairouchie><!--NEED EDIT-->
 <tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
 <tutorial.basics.insertweldingfuel>將焊接燃料罐拖放至焊接工具的圖示上來裝備它。</tutorial.basics.insertweldingfuel>
