@@ -2463,7 +2463,7 @@
 <entityname.lever>拉桿</entityname.lever>
 <entitydescription.lever>產生可用於切換設備和艙門狀態的不間斷訊號。</entitydescription.lever>
 <entityname.concatcomponent>Concatenation元件</entityname.concatcomponent>
-<entitydescription.concatcomponent>將所接收到的值合併後輸出 (例如: 接收到的值為"mud"和"raptor"則輸出"mudraptor")。</entitydescription.concatcomponent>
+<entitydescription.concatcomponent>將所接收到的值合併後輸出 (例如: 接收到的值為「mud」和「raptor」則輸出「mudraptor」)。</entitydescription.concatcomponent>
 
 <!-- Material -->
 <entityname.alienblood>異星生物血液</entityname.alienblood>
