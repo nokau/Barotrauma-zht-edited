@@ -43,10 +43,9 @@ Inside this project's [current_version](./current_version) folder:
   - **TCVanillaNew.xml**
 
 # Extra files
-Inside this project's [current_version_extra](./current_version_extra) folder:
+Inside this project's [current_version-EXTRA](./current_version-EXTRA) folder:
 
-### TCVanillaEditorTexts.SP.xml
-- This file is an edited version of TCVanillaEditorTexts.xml, one of the 3 files mentioned above; it contains translation to some of the item parameters that are editable in Submarine Editor or in-game. There are missing lines and overall not a complete edit.
+Since lines of the item parameters are not a complete, this folder contains the attempt to traslate some part of them.
 
 # Recommended Tools
 - Notepad++
