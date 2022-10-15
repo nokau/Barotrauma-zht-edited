@@ -11,13 +11,13 @@
 <selectedhullvolume>所選 Hull 體積</selectedhullvolume>
 <optimalballastlevel>最佳壓載艙平衡水位為 [value]</optimalballastlevel>
 <saveitemassembly>保存為物件組合</saveitemassembly>
-<insufficientballast>insufficient volume for buoyancy control</insufficientballast>
+<insufficientballast>體積不足以控制浮力</insufficientballast>
 <physicsbodies>Physics bodies</physicsbodies>
 <opensubbutton>開啟...</opensubbutton>
 <savesubbutton>儲存</savesubbutton>
 <addsubbutton>加入潛艇</addsubbutton>
 <addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
-<holdtolink>按住空白件並點選物件以對它們建立連結。</holdtolink>
+<holdtolink>按住空白件並點選其他物件與它們建立連結。</holdtolink>
 <allowedlinks>可與其建立連結</allowedlinks>
 <filtermapentities>Filter</filtermapentities>
 <charactermodebutton>角色模式</charactermodebutton>
@@ -55,7 +55,7 @@
 <disconnectedventswarning>潛艇上有通風口尚未與製氧機連結。選取該通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
 <disconnectedturretswarning>潛艇上有[itemname]尚未與裝彈機連結。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
-<nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物件去處)。請放置新的Spawnpoint並調整它的"Spawn Type"至"Cargo"。</nocargospawnpointwarning>
+<nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物品去處)。請放置新的Spawnpoint並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
 <farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
 <adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
 <adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光；輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前數值的50%。</adjustedlightsnotification>
@@ -93,7 +93,7 @@
 
 <!-- Entity Editor -->
 <stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
-<stringpropertycannottranslate>此串文字將不會轉換 - 文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
+<stringpropertycannottranslate>此串文字將不會被轉換 - 文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
