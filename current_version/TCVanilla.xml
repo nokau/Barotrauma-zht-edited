@@ -2221,7 +2221,7 @@
 <entityname.autoinjectorheadset>自動注射器耳機麥克風</entityname.autoinjectorheadset>
 <entitydescription.autoinjectorheadset>一個內附電池的耳機麥克風，它被改造成能夠在使用者的生命跡象低於一個程度時自動對使用者注射置於其中的藥品。</entitydescription.autoinjectorheadset>
 <entityname.depletedfuel>耗乏燃料</entityname.depletedfuel>
-<entitydescription.depletedfuel>一種自以耗乏的燃料棒當中提取的堅硬、沉重原料，能被進一步加工製作成工具與彈藥。</entitydescription.depletedfuel>
+<entitydescription.depletedfuel>一種自已耗乏的燃料棒當中提取的堅硬、沉重原料，能被進一步加工製作成工具與彈藥。</entitydescription.depletedfuel>
 <entityname.wrenchhardened>硬化扳手</entityname.wrenchhardened>
 <entitydescription.wrenchhardened>A一把經過以耗乏燃料進行硬化處理的扳手，更堅固的材質使它被用於維修時更有效率，也更能將對手弄傷。</entitydescription.wrenchhardened>
 <entityname.screwdriverhardened>硬化螺絲起子</entityname.screwdriverhardened>
