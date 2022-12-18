@@ -43,9 +43,9 @@ Inside this project's [current_version](./current_version) folder:
   - **TCVanillaNew.xml**
 
 # Extra files
-Inside this project's [current_version-EXTRA](./current_version-EXTRA) folder:
+Inside this project's 'extra' folder:
 
-Since lines of the item parameters are not a complete, this folder contains the attempt to traslate some part of them.
+Since lines of the item parameters are not a complete, the folders contain the attempt to traslate some part of them.
 
 # Recommended Tools
 - Notepad++
