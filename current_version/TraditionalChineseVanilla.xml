@@ -6969,7 +6969,7 @@
 <talentname.miracleworker>奇跡創造者</talentname.miracleworker>
 <talentname.deliverysystem>運輸系統</talentname.deliverysystem>
 <talentname.labcontacts>實驗室人脈</talentname.labcontacts>
-<talentname.macrodosing>大力出奇跡</talentname.macrodosing>
+<talentname.macrodosing>微量用藥</talentname.macrodosing>
 <talentname.funwithfission>裂變的樂趣</talentname.funwithfission>
 <talentname.grounded>入土為安</talentname.grounded>
 <talentname.egghead>書呆子</talentname.egghead>
@@ -7017,7 +7017,7 @@
 <talentname.commando>突擊隊</talentname.commando>
 <talentname.slayer>殺手</talentname.slayer>
 <talentname.specops>特種部隊</talentname.specops>
-<talentname.medicalcompanion>Medical Companion</talentname.medicalcompanion>
+<talentname.medicalcompanion>醫療幫手</talentname.medicalcompanion>
 <talentname.nopressure>毫無壓力</talentname.nopressure>
 <talentname.genesplicer>基因修改</talentname.genesplicer>
 <talentname.geneticgenious>基因天才</talentname.geneticgenious>
@@ -7259,7 +7259,7 @@
 <talentdescription.sellgeneticmaterialsmultiplier>你能以[amount]%的價格賣出基因物質。</talentdescription.sellgeneticmaterialsmultiplier>
 <talentdescription.chemicalsboughtcheaper>‖color:gui.orange‖化學物‖end‖的價格便宜[amount]%。</talentdescription.chemicalsboughtcheaper>
 <talentdescription.constructmedicinefaster>你製作醫療用品的速度提升[amount]%。</talentdescription.constructmedicinefaster>
-<talentdescription.increaseappliedbuffduration>由你施加的增益效果時效增加[amount]%。</talentdescription.increaseappliedbuffduration>
+<talentdescription.increaseappliedbuffduration>由你施加的增益效果效增加[amount]%。</talentdescription.increaseappliedbuffduration>
 <talentdescription.poisonsandacidsdealmoredamage>‖color:gui.orange‖毒藥‖end‖和‖color:gui.orange‖強酸‖end‖造成的傷害提升[amount]%。</talentdescription.poisonsandacidsdealmoredamage>
 <talentdescription.junctionjunkie>在任務中修復至少[amount]項電器設備後，在任務完成時獲得額外[bonus]經驗值。</talentdescription.junctionjunkie>
 <talentdescription.aggressiveengineering>你使用‖color:gui.orange‖螺絲起子‖end‖能造成‖color:gui.green‖三倍‖end‖傷害。</talentdescription.aggressiveengineering>
