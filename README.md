@@ -46,7 +46,7 @@
   - **TCVanillaNew.xml**
 
 # 額外檔案
-在此專案中的 [current_version-EXTRA](./current_version-EXTRA) 資料夾裡:
+在此專案中名稱為 extra 的資料夾中:
 
 潛艇編輯器與遊戲中物件細部設定的條目尚不完整，此資料夾中置有嘗試對它們進行翻譯的檔案。
 
