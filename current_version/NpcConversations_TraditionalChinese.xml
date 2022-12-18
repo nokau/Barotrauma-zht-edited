@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
-<!-- edited by nokau for v0.19.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with the English text files as close as possible, until updates happen.-->
+<!-- edited by nokau for v0.20.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with the English text files as close as possible, until updates happen.-->
 <!-- Generic conversation -->
 <Conversation line="各位，讓我們啟航吧！" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="" speaker="0"/>
@@ -1138,4 +1138,36 @@
 		<Conversation line="不可能吧，你是不是在嚇我..." speaker="0"/>
 	</Conversation>
 </Conversation>
+  
+<!-- Husk Extremist conversations-->
+<!-- NEW TODO add to localization before deadline 04/11/2022 -->
+<Conversation line="誰敢在這個時候打擾我們的實驗...？" speaker="0" flags="EnterOutpost, HuskExtremist" />
+<Conversation line="一艘潛艇？或許我們能將它占為己有？這個實驗有點失控..." speaker="0" flags="EnterOutpost, HuskExtremist" />
+<Conversation line="更多人體實驗！只要他們再靠近一點..." speaker="0" flags="EnterOutpost, HuskExtremist" />
+<Conversation line="人類的邁進將在此處開始！見證歷史的時刻吧！" speaker="0" flags="EnterOutpost, HuskExtremist" />
+<Conversation line="沒有信心的人！" speaker="0" flags="EnterOutpost, HuskExtremist" />
+<Conversation line="*不祥的咔噠聲*" speaker="0" flags="EnterOutpost, HuskExtremist" />
+
+<Conversation line="你聽到了嗎？" speaker="0" flags="HuskExtremist">
+  <Conversation line="你喉嚨你的畫皮？我喉嚨裡的畫皮？走道上的畫皮？" speaker="1" flags="HuskExtremist">
+    <Conversation line="*不祥的歡快咔噠聲*" speaker="0" />
+    <Conversation line="聽起來不太一樣，畫皮的腳步聲比較像*咚、咚*，那比較像*噠、噠*。" speaker="0"/>
+    <Conversation line="你說得對，那可能是任何東西。" speaker="0"/>
+    <Conversation line="不知道為什麼，我認為共生會更舒服。共生這個詞聽起來很愉快。" speaker="0"/>
+  </Conversation>
+</Conversation>
+
+<Conversation line="你的寄生蟲叫什麼名字？" speaker="0" flags="HuskExtremist">
+	<Conversation line="共生體，笨蛋。" speaker="1" flags="HuskExtremist">	
+		<Conversation line="好怪的名字。" speaker="0"/>
+	</Conversation>
+	<Conversation line="共生體。你有幫你的寄生蟲取名字嗎？我把它視為我的一部分..." speaker="1" flags="HuskExtremist">
+		<Conversation line="我還在Lucy跟Hank之間游移。" speaker="0">
+			<Conversation line="我選Hank，Lucy聽起來太和善了。" speaker="1" />
+			<Conversation line="Calyxus怎麼樣？聽起來很酷。" speaker="1" />
+			<Conversation line="Lucy聽起來比較友善。我希望我的喉嚨沒這麼痛..." speaker="1" />
+		</Conversation>
+	</Conversation>
+</Conversation>
+
 </Conversations>
