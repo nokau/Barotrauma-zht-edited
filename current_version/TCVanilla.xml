@@ -4543,40 +4543,40 @@
 <afflictionname.physicaldamage>物理傷害</afflictionname.physicaldamage>
 <afflictionname.implacable>決意</afflictionname.implacable>
 <afflictiondescription.implacable>目標無法陷入昏迷。</afflictiondescription.implacable>
-<afflictionname.lonewolf>Lone Wolf</afflictionname.lonewolf>
-<afflictiondescription.lonewolf>You thrive in isolation. Without interference of others, your capabilities are enhanced.</afflictiondescription.lonewolf>
-<afflictionname.deputy>Deputy</afflictionname.deputy>
-<afflictiondescription.deputy>Your captain trusts you to take care of the sub in case of their absence. You wouldn't let them down.</afflictiondescription.deputy>
+<afflictionname.lonewolf>孤狼</afflictionname.lonewolf>
+<afflictiondescription.lonewolf>隻身一人時你更自在。沒有別人的干擾，你的能力更強。</afflictiondescription.lonewolf>
+<afflictionname.deputy>副手</afflictionname.deputy>
+<afflictiondescription.deputy>你的艦長信任你在他們不再崗位上時接手指揮潛艇。你不會讓他們失望。</afflictiondescription.deputy>
 <afflictionname.highmorale>士氣提升</afflictionname.highmorale>
-<afflictiondescription.highmorale>Your captain is leading by example. You feel confident and energetic.</afflictiondescription.highmorale>
+<afflictiondescription.highmorale>你的艦長以身作則。你感到自信且精力充沛。</afflictiondescription.highmorale>
 <afflictionname.excellentmorale>士氣高昂</afflictionname.excellentmorale>
-<afflictiondescription.excellentmorale>This crew is like a family to you. Nobody messes with your little submarine family.</afflictiondescription.excellentmorale>
-<afflictionname.inspirationalleader>Inspirational Leader</afflictionname.inspirationalleader>
-<afflictiondescription.inspirationalleader>Your captain inspires and encourages you to learn.</afflictiondescription.inspirationalleader>
-<afflictionname.inspiringpresence>Notice me</afflictionname.inspiringpresence>
-<afflictiondescription.inspiringpresence>The presence of your captain makes you eager to impress.</afflictiondescription.inspiringpresence>
-<afflictionname.genetampering>Gene Tampering</afflictionname.genetampering>
-<afflictiondescription.genetampering>Your medical doctor has tampered with your genes, eliminating minor health issues.</afflictiondescription.genetampering>
-<afflictionname.emergencyresponse>Emergency Response</afflictionname.emergencyresponse>
-<afflictiondescription.emergencyresponse>It's fortunate food is scarce. It makes crewmmates that much easier to carry to safety.</afflictiondescription.emergencyresponse>
-<afflictionname.medicalassistance>Medical Assistant</afflictionname.medicalassistance>
-<afflictiondescription.medicalassistance>As long as you follow the Doctor's instructions, the patient will be fine.</afflictiondescription.medicalassistance>
-<afflictionname.miracleworker>Miracle In Progress</afflictionname.miracleworker>
-<afflictiondescription.miracleworker>Your lifeforces are fading, yet one Doctor shines bright like a beacon. While they're nearby, you won't give in.</afflictiondescription.miracleworker>
-<afflictionname.quickfixer>Quickfixer</afflictionname.quickfixer>
-<afflictiondescription.quickfixer>Gotta go speedily.</afflictiondescription.quickfixer>
-<afflictionname.berserker>Berserker</afflictionname.berserker>
-<afflictiondescription.berserker>They've bruised your body and, more importantly, your ego. You'll make them pay. Deal more damage.</afflictiondescription.berserker>
-<afflictionname.foolhardy>Foolhardy</afflictionname.foolhardy>
-<afflictiondescription.foolhardy>Dang, they sure gave you a beating. But what doesn't kill you makes you stronger. Resist some physical damage.</afflictiondescription.foolhardy>
-<afflictionname.revengesquad>Revenge Squad</afflictionname.revengesquad>
-<afflictiondescription.revengesquad>They killed our assistant. You don't remember their name, but you will avenge them. Temporarily take reduced damage.</afflictiondescription.revengesquad>
-<afflictionname.journeyman>Journeyman</afflictionname.journeyman>
-<afflictiondescription.journeyman>Once an apprentice proves their skill, they can efficiently help the professionals. Gain your primary skill faster.</afflictiondescription.journeyman>
-<afflictionname.loyalassistant>Loyal Assistant</afflictionname.loyalassistant>
-<afflictiondescription.loyalassistant>A friend is someone who walks into a room when everyone else is walking out. A loyal assistant keeps working even when you walk out. Increases your crafting quality.</afflictiondescription.loyalassistant>
-<afflictionname.disloyalscum>Treacherous Assistant</afflictionname.disloyalscum>
-<afflictiondescription.disloyalscum>The assistant's dedication to their apprenticeship and their master leaves a lot to be desired, but hanging out with the other crew boosts their efficiency. Repairing and skill gains are increased.</afflictiondescription.disloyalscum>
+<afflictiondescription.excellentmorale>這艘船對你來說就像一個家庭。沒有人敢招惹你的潛艇小家庭。</afflictiondescription.excellentmorale>
+<afflictionname.inspirationalleader>>勵志領袖</afflictionname.inspirationalleader>
+<afflictiondescription.inspirationalleader>你的艦長啟發和鼓勵你學習。</afflictiondescription.inspirationalleader>
+<afflictionname.inspiringpresence>注視我</afflictionname.inspiringpresence>
+<afflictiondescription.inspiringpresence>你渴望在艦長身旁留下深刻印象。</afflictiondescription.inspiringpresence>
+<afflictionname.genetampering>篡改基因</afflictionname.genetampering>
+<afflictiondescription.genetampering>你的醫生篡改了你的基因，消除了輕微的健康問題。</afflictiondescription.genetampering>
+<afflictionname.emergencyresponse>緊急應變</afflictionname.emergencyresponse>
+<afflictiondescription.emergencyresponse>幸好吃的東西不多。這讓船員們更好被抬到安全的地方。</afflictiondescription.emergencyresponse>
+<afflictionname.medicalassistance>醫療援助</afflictionname.medicalassistance>
+<afflictiondescription.medicalassistance>只要你照著醫生的指示做，患者就不會有大礙。</afflictiondescription.medicalassistance>
+<afflictionname.miracleworker>奇跡發生中</afflictionname.miracleworker>
+<afflictiondescription.miracleworker>你的生命力正在消逝，但醫生像燈塔一般照亮著你。只要他們還在你身旁，你就不會放棄。</afflictiondescription.miracleworker>
+<afflictionname.quickfixer>快速維修員</afflictionname.quickfixer>
+<afflictiondescription.quickfixer>還要更快。</afflictiondescription.quickfixer>
+<afflictionname.berserker>狂戰士</afflictionname.berserker>
+<afflictiondescription.berserker>他們傷了你的身軀，更重要的是，傷你的尊嚴。你要讓他們付出代價。造成的傷害提升。</afflictiondescription.berserker>
+<afflictionname.foolhardy>有勇無謀</afflictionname.foolhardy>
+<afflictiondescription.foolhardy>噢，他們把你修理得好慘。但不弄死你只會讓你更強。抵抗更多物理傷害。</afflictiondescription.foolhardy>
+<afflictionname.revengesquad>復仇小隊</afflictionname.revengesquad>
+<afflictiondescription.revengesquad>他們殺了你的助手。你不記得他們的名字，但你要為他們報仇。短時間內抵抗更多傷害。</afflictiondescription.revengesquad>
+<afflictionname.journeyman>老手</afflictionname.journeyman>
+<afflictiondescription.journeyman>當一位學徒證明過他們的能力，他們就能更有效的幫助專家們。學習主要技能的速度提升。</afflictiondescription.journeyman>
+<afflictionname.loyalassistant>忠誠助手</afflictionname.loyalassistant>
+<afflictiondescription.loyalassistant>朋友就是在別人都在跑路的時候會來幫你的那個人。忠誠助手就是即使連你都跑了也會繼續工作的那個人。製作的物品品質提升。</afflictiondescription.loyalassistant>
+<afflictionname.disloyalscum>奸詐助手</afflictionname.disloyalscum>
+<afflictiondescription.disloyalscum>這位助手與同門學徒或是指導者的互動還有進步空間，但和以外的船員混在一起會提高他們的效率。獲得維修與其他技能加成。</afflictiondescription.disloyalscum>
 
 <!-- Jobs -->
 <jobname.captain>艦長</jobname.captain>
@@ -7011,7 +7011,7 @@
 <talentname.logisticssystems>物流系統</talentname.logisticssystems>
 <talentname.journeyman>老手</talentname.journeyman>
 <talentname.loyalassistant>忠誠助手</talentname.loyalassistant>
-<talentname.disloyalscum>奸詐人渣</talentname.disloyalscum>
+<talentname.disloyalscum>奸詐助手</talentname.disloyalscum>
 <talentname.commendations>表揚</talentname.commendations>
 <talentname.emergencymaneuvers>緊急回避</talentname.emergencymaneuvers>
 <talentname.commando>突擊隊</talentname.commando>
