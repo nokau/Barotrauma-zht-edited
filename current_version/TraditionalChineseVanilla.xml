@@ -1586,7 +1586,7 @@
 <missiondescription.cargoclowngear>一個當地的小丑組織出價[reward]馬克作為運送一批小丑裝備至[location2]的費用。</missiondescription.cargoclowngear>
 <missionsuccess.cargoclowngear>小丑裝備已被成功送達。</missionsuccess.cargoclowngear>
 <missionname.cargoconstructionminerals>運送礦物</missionname.cargoconstructionminerals>
-<missiondescription.cargoconstructionminerals>一批建築材料需要被運送至[location2]，工務長準備了[reward]馬克來補償你任何造成的不便。</missiondescription.cargoconstructionminerals>
+<missiondescription.cargoconstructionminerals>一批建築材料需要被運送至[location2]，工務長準備了[reward]馬克來補償對你造成的任何不便。</missiondescription.cargoconstructionminerals>
 <missionsuccess.cargoconstructionminerals>建築材料已被成功送達。</missionsuccess.cargoconstructionminerals>
 <missionname.cargosecurityminerals>運送礦物</missionname.cargosecurityminerals>
 <missiondescription.cargosecurityminerals>[location2]的守衛隊需要武器製造的原料補給，如果你答應為他們補給能夠拿到[reward]馬克。</missiondescription.cargosecurityminerals>
@@ -1640,9 +1640,9 @@
 <missionheader0.killthresherswarm1>已殲滅目標</missionheader0.killthresherswarm1>
 <missionmessage0.killthresherswarm1>虎尾煞群已被殲滅，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.killthresherswarm1>
 <missionname.salvagekillthalamus>搜刮殘骸</missionname.salvagekillthalamus>
-<missiondescription.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償帶來的任何不便。</missiondescription.salvagekillthalamus>
+<missiondescription.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償對你造成的任何不便。</missiondescription.salvagekillthalamus>
 <missionsonarlabel.salvagekillthalamus>求救信號</missionsonarlabel.salvagekillthalamus>
-<missionsuccess.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償帶來的任何不便。</missionsuccess.salvagekillthalamus>
+<missionsuccess.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償對你造成的任何不便。</missionsuccess.salvagekillthalamus>
 <missionheader0.salvagekillthalamus>已摧毀目標</missionheader0.salvagekillthalamus>
 <missionmessage0.salvagekillthalamus>那艘失蹤的船艦被某種寄生性的生物給佔領，使它對你的潛艇展開了攻擊。它現在似乎已經失去了行動能力，你應將這次事件回報給[location2]。</missionmessage0.salvagekillthalamus>
 <missionname.salvagewreck1>搜刮殘骸</missionname.salvagewreck1>
@@ -4695,10 +4695,10 @@
 <locationdescription.research>提供稀有、奇異的商品。</locationdescription.research>
 <locationdescription.mine>以優惠價格提供基礎原料。</locationdescription.mine>
 <locationdescription.abandoned>與此哨站通訊已經中斷。\n重新建立通訊或排除此處的威脅能讓你賺些外快。</locationdescription.abandoned>
-<advancedsub.all>有可用的 階級 [tiernumber] 潛艇。</advancedsub.all>
-<advancedsub.attack>有可用的 階級 [tiernumber] 攻擊型潛艇。</advancedsub.attack>
-<advancedsub.scout>有可用的 階級 [tiernumber] 偵察型潛艇。</advancedsub.scout>
-<advancedsub.transport>有可用的 階級 [tiernumber] 運輸型潛艇。</advancedsub.transport>
+<advancedsub.all>有可用的階級 [tiernumber] 潛艇。</advancedsub.all>
+<advancedsub.attack>有可用的階級 [tiernumber] 攻擊型潛艇。</advancedsub.attack>
+<advancedsub.scout>有可用的階級 [tiernumber] 偵察型潛艇。</advancedsub.scout>
+<advancedsub.transport>有可用的階級 [tiernumber] 運輸型潛艇。</advancedsub.transport>
 <advancedsub.none>沒有可用的潛艇。</advancedsub.none>
 
 <!-- Biomes -->
@@ -4775,7 +4775,7 @@
 <tutorial.basics.stairsusage>按下[InputType.Down]跳下平台至樓梯上。</tutorial.basics.stairsusage>
 <tutorial.basics.sprint>按住[InputType.Run]奔跑。</tutorial.basics.sprint>
 <tutorial.basics.repair>設備有時候會發生故障。能使用正確的維修工具將他們修復。\n按下[InputType.Use]關閉此訊息。</tutorial.basics.repair>
-<tutorial.basics.containers>Items can be found in containers. Use the cursor and [InputType.Select] to open a container.</tutorial.basics.containers>
+<tutorial.basics.containers>物品能在容器中找到。移動滑鼠，以[InputType.Select]打開一個容器。</tutorial.basics.containers>
 <tutorial.basics.equip>雙擊一項物品來裝備它。</tutorial.basics.equip>
 <tutorial.basics.equip2>你也能透過對應的按鍵 (1-9) 裝備位於你的物品欄位中的物品。</tutorial.basics.equip2>
 <tutorial.basics.repair2>按下[InputType.Select]來維修損壞的設備。</tutorial.basics.repair2>
@@ -4783,7 +4783,7 @@
 <tutorial.basics.repairouchie>噢！試著改變點擊維修按鈕的節奏。當白線移動到進度條上的有色區域時再進行點擊。</tutorial.basics.repairouchie><!--NEED EDIT-->
 <tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
-<tutorial.basics.insertweldingfuel>Drag a Welding Fuel Tank onto the Welding Tool to insert it.\nAlternatively press the hotbar number of the Welding Fuel Tank to insert it, while you have the tool equipped.</tutorial.basics.insertweldingfuel>
+<tutorial.basics.insertweldingfuel>將焊接燃料罐拖放至焊接工具欄位以進行裝填。\n或者，在裝備著焊接工具的狀態下按下與焊接燃料罐所在欄位的相對按鍵以進行裝填。</tutorial.basics.insertweldingfuel>
 <tutorial.basics.insertweldingfuelalt>或者，當你裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
 <tutorial.basics.aimandfire>按住[InputType.Aim]來以你的武器或工具進行瞄準，同時按下[InputType.Shoot]來使用工具或發射武器。</tutorial.basics.aimandfire>
 <tutorial.basics.aim>瞄準</tutorial.basics.aim>
@@ -4792,14 +4792,14 @@
 <tutorial.basics.holdaim2>按住瞄準的同時，使用[InputType.Shoot]進行焊接。</tutorial.basics.holdaim2>
 <tutorial.basics.ladders>在接近梯子時使用[InputType.Up]和[InputType.Down]來爬上或爬下。</tutorial.basics.ladders>
 <tutorial.basics.welding>修復牆壁以繼續。</tutorial.basics.welding>
-<tutorial.basics.divingsuits>Diving Suits allow you to swim underwater.\n\nEquip a Diving Suit by double clicking it, or dragging it on the highlighted slot.</tutorial.basics.divingsuits>
+<tutorial.basics.divingsuits>潛水服能幫助你在水下移動。\n\n雙擊一件潛水服以進行裝備，或將潛水服拖放至標示欄位中。</tutorial.basics.divingsuits>
 <tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖放至有醒目顯示的欄位中。</tutorial.basics.divingsuits2>
 <tutorial.basics.nooxygen>警告！你的潛水服沒有氧氣，你會無法呼吸。快裝上一個氧氣罐。</tutorial.basics.nooxygen>
 <tutorial.basics.oxygen>穿著潛水服時將緩慢地消耗其中的氧氣罐。</tutorial.basics.oxygen>
 <tutorial.basics.oxygen2>當氧氣罐快要消耗完畢時，你的潛水服會發出警告聲。</tutorial.basics.oxygen2>
 <tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖放至它所在的欄位之外。</tutorial.basics.oxygen3>
-<tutorial.basics.righttool>Pumps are a mechanical device. Mechanical devices require a Wrench to repair.\nFind a Wrench.</tutorial.basics.righttool>
-<tutorial.basics.wrenchrepair>Equip the wrench to be able to repair the pump.</tutorial.basics.wrenchrepair>
+<tutorial.basics.righttool>抽水機是機械設備。機械設備需要使用扳手修復。\n找到一把扳手。</tutorial.basics.righttool>
+<tutorial.basics.wrenchrepair>裝備扳手以修復抽水機。</tutorial.basics.wrenchrepair>
 <tutorial.basics.interact2>按下[InputType.Select]來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
 <tutorial.basics.puzzle>操作抽水機的控制介面，試著靠近梯子...</tutorial.basics.puzzle>
 <tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣你就能游近梯子。</tutorial.basics.puzzlehelp>
@@ -4829,7 +4829,7 @@
 <tutorial.basics.popup.obtainitems>你的物品欄顯示在畫面下方。\n要將螺絲起子放進物品欄，將它拖放進去。\n或者，雙擊物品來快速將它取得。</tutorial.basics.popup.obtainitems>
 <tutorial.basics.popup.deselect>按下[InputType.Aim]來關閉容器介面</tutorial.basics.popup.deselect>
 <tutorial.basic.description>這個教學用以說明基礎的遊戲控制與概念，像是移動和對環境互動。</tutorial.basic.description>
-<tutorial.basic.completed>做得好！\n你完成了基礎教學。你想要繼續進行角色相關的教學嗎？</tutorial.basic.completed>
+<tutorial.basic.completed>做得好！\n你完成了基礎教學。你想要繼續進行與角色相關的教學嗎？</tutorial.basic.completed>
 
 <!-- Roles tutorial -->
 <tutorial.roles>角色</tutorial.roles>
@@ -5125,7 +5125,7 @@
 <tutorial.roles.medic.objective.crewquarters1>前往起居室</tutorial.roles.medic.objective.crewquarters1>
 <tutorial.roles.medic.objective.crewquarters2>治療所有患者</tutorial.roles.medic.objective.crewquarters2>
 <tutorial.roles.medic.objective.cpr>施行CPR</tutorial.roles.medic.objective.cpr>
-<tutorial.roles.description>這個教學將說明潛艇中的不同職業角色。共有有五種:\n- 艦長\n- 工程師\n- 技師\n- 醫生\n- 安全官</tutorial.roles.description>
+<tutorial.roles.description>這個教學將說明潛艇中的不同職業角色。共有五種:\n- 艦長\n- 工程師\n- 技師\n- 醫生\n- 安全官</tutorial.roles.description>
 <tutorial.roles.completed>做得好！\n你完成了角色教學。你想要重新開始並選擇一個新的角色嗎？</tutorial.roles.completed>
 <tutorial.roles.popup.close_interface>用[InputType.Aim]關閉介面</tutorial.roles.popup.close_interface>
 <tutorial.roles.mechanic.objective.divingmask>裝備潛水面罩</tutorial.roles.mechanic.objective.divingmask>
@@ -5139,26 +5139,26 @@
 <tutorial.roles.popup.loadgun>為你的槍枝裝填彈藥。</tutorial.roles.popup.loadgun>
 
 <!-- Campaign tutorial -->
-<tutorial.campaign.introduction.conversation_start>[speakername]: 「終於有機或離開這個哨站了。你能相信想上潛艇的人少到他們直接從船廠贊助我們一艘嗎？」</tutorial.campaign.introduction.conversation_start>
+<tutorial.campaign.introduction.conversation_start>[speakername]: 「終於有機會離開這個哨站了。你能相信想上潛艇的人少到他們直接從船廠贊助我們一艘嗎？」</tutorial.campaign.introduction.conversation_start>
 <tutorial.campaign.introduction.conversation_start_reply>「我還是覺得這裡面一定有什麼陰謀...」</tutorial.campaign.introduction.conversation_start_reply>
-<tutorial.campaign.introduction.conversation_2>「就我看來倒覺得沒什麼。這不過是市場無形的大手：他們需要健康的水手來維持歐羅巴社會的運轉，而這艘潛艇之前的船員還沒首航就把自己喝死了。它是我們的了。」</tutorial.campaign.introduction.conversation_2>
-<tutorial.campaign.introduction.conversation_2_reply>「你說了算... 我還是覺得哪裡怪怪的，不過總比待在這兒好。出發之前我們還要做什麼準備嗎？」</tutorial.campaign.introduction.conversation_2_reply>
-<tutorial.campaign.introduction.conversation_3>「我們的第一次航行還需要一些物資。燃料棒千萬不能少，沒有它們我也沒辦法維持潛艇的動力。我們得確保它們數量充足。焊接燃料罐也一樣，沒有它們我們就無法修復船體的損傷。當然，船沒受傷就沒問題，不過還是以防萬一。\n我來把我剩下的存款放進我們共用的銀行帳戶裡出一分力。」</tutorial.campaign.introduction.conversation_3>
+<tutorial.campaign.introduction.conversation_2>「就我看來倒覺得沒什麼。這不過是市場無形的大手：他們需要健康的水手來維持歐羅巴社會的運轉，這艘潛艇之前的船員又在處女航之前就把自己喝死了。這艘船交給我們沒什麼問題。」</tutorial.campaign.introduction.conversation_2>
+<tutorial.campaign.introduction.conversation_2_reply>「你說了算... 我還是覺得哪裡怪怪的，不過總比待在這兒好。出發之前我們還要準備什麼嗎？」</tutorial.campaign.introduction.conversation_2_reply>
+<tutorial.campaign.introduction.conversation_3>「我們還需要一些物資才能出航。燃料棒千萬不能少，沒有它們維持潛艇的動力我也束手無策。我們得確保它們數量充足。焊接燃料罐也是一樣，沒有它們我們就無法修復船體的損傷。當然，船不受傷就沒問題，但還是以防萬一。\n我來把身上最後的存款存進我們的共用銀行帳戶裡，出一分力。」</tutorial.campaign.introduction.conversation_3>
 <tutorial.campaign.introduction.conversation_3_reply>「沒問題，我來準備物資！」</tutorial.campaign.introduction.conversation_3_reply>
 <tutorial.campaign.introduction.conversation_4>「好極了！你上去的時候能不能順便找找有沒有什麼需要我們的工作？畢竟盲目航行沒什麼意義，要維持潛艇運作也不便宜。」</tutorial.campaign.introduction.conversation_4>
 <tutorial.campaign.introduction.conversation_4_reply>「沒問題。」</tutorial.campaign.introduction.conversation_4_reply>
 <tutorial.campaign.objective_missions>找找賺錢的方法</tutorial.campaign.objective_missions>
-<tutorial.campaign.objective_supplies>被齊潛艇物資</tutorial.campaign.objective_supplies>
+<tutorial.campaign.objective_supplies>備齊潛艇物資</tutorial.campaign.objective_supplies>
 <tutorial.campaign.objective_supplies_fuelrods>燃料棒</tutorial.campaign.objective_supplies_fuelrods>
 <tutorial.campaign.objective_supplies_weldingfuel>焊接燃料罐</tutorial.campaign.objective_supplies_weldingfuel>
 <tutorial.campaign.objective_leave>離開哨站</tutorial.campaign.objective_leave>
 <tutorial.campaign.objective_tasks>對你的船員下達指令</tutorial.campaign.objective_tasks>
 <tutorial.campaign.message_tasks>按下[InputType.Command]打開指令介面來對你的船員下達指令。</tutorial.campaign.message_tasks>
-<tutorial.campaign.objective_tasks_reactor>請動反應爐</tutorial.campaign.objective_tasks_reactor>
-<tutorial.campaign.objective_tasks_fixleaks>修復漏洞</tutorial.campaign.objective_tasks_fixleaks>
+<tutorial.campaign.objective_tasks_reactor>啟動反應爐</tutorial.campaign.objective_tasks_reactor>
+<tutorial.campaign.objective_tasks_fixleaks>修補漏洞</tutorial.campaign.objective_tasks_fixleaks>
 <tutorial.campaign.objective_tasks_repairelectrical>修復電氣設備</tutorial.campaign.objective_tasks_repairelectrical>
 <tutorial.campaign.objective_tasks_repairmechanical>修復機械設備</tutorial.campaign.objective_tasks_repairmechanical>
-<tutorial.campaign.objective_tasks_operateturret>操作砲塔</tutorial.campaign.objective_tasks_operateturret>
+<tutorial.campaign.objective_tasks_operateturret>操作武器</tutorial.campaign.objective_tasks_operateturret>
 <tutorial.campaign.objective_move>移動潛艇</tutorial.campaign.objective_move>
 <tutorial.campaign.objective_activatesonar>啟動聲納</tutorial.campaign.objective_activatesonar>
 <tutorial.campaign.objective_reachtarget>停靠下一個哨站</tutorial.campaign.objective_reachtarget>
@@ -5166,11 +5166,11 @@
 <tutorial.campaign.objective_restock_fuel>燃料棒</tutorial.campaign.objective_restock_fuel>
 <tutorial.campaign.objective_restock_coilgunammo>電磁槍彈藥箱</tutorial.campaign.objective_restock_coilgunammo>
 <tutorial.campaign.objective_restock_handheldammo>左輪手槍子彈</tutorial.campaign.objective_restock_handheldammo>
-<tutorial.campaign.objective_3missions>取得任務線索</tutorial.campaign.objective_3missions>
-<tutorial.campaign.outro.conversation_start>[speakername]: 「看來你對執行潛艇上的例行公事適應得很好！」</tutorial.campaign.outro.conversation_start>
-<tutorial.campaign.outro.conversation_start_reply>「目前看來，潛艇工作好像也沒那麼危險。祝你一帆風順！」</tutorial.campaign.outro.conversation_start_reply>
-<tutorial.campaign.outro.conversation_2>「就我所聽說的，潛得愈深愈危險。但也更有賺頭。沒有風險，沒有回報...」</tutorial.campaign.outro.conversation_2>
-<tutorial.campaign.outro.conversation_2_reply>「我是想往深處邁進... 我的意思是，誰能對錢說不呢？」</tutorial.campaign.outro.conversation_2_reply>
+<tutorial.campaign.objective_3missions>取得任務</tutorial.campaign.objective_3missions>
+<tutorial.campaign.outro.conversation_start>[speakername]: 「看來你已經習慣做這些潛艇上的例行事務了！」</tutorial.campaign.outro.conversation_start>
+<tutorial.campaign.outro.conversation_start_reply>「目前看來，潛艇工作好像也沒那麼危險。祝我們一帆風順！」</tutorial.campaign.outro.conversation_start_reply>
+<tutorial.campaign.outro.conversation_2>「我聽說潛得愈深風險愈高。不過賺大錢的機會也比較多。沒有風險，沒有回報...」</tutorial.campaign.outro.conversation_2>
+<tutorial.campaign.outro.conversation_2_reply>「這讓我想要往深處邁進... 我的意思是，誰能對錢說不呢？」</tutorial.campaign.outro.conversation_2_reply>
 <tutorial.campaign.outro.conversation_3>「錢、冒險、探索未知... 算我一分，船長！」</tutorial.campaign.outro.conversation_3>
 <tutorial.campaign.outro.conversation_3_reply>「開始下潛！」</tutorial.campaign.outro.conversation_3_reply>
 <campaignexittutorialoutpostprompt>你想要跳過剩下的教學並離開[locationname]嗎？</campaignexittutorialoutpostprompt>
@@ -6971,7 +6971,7 @@
 <talentname.labcontacts>實驗室人脈</talentname.labcontacts>
 <talentname.macrodosing>微量用藥</talentname.macrodosing>
 <talentname.funwithfission>裂變的樂趣</talentname.funwithfission>
-<talentname.grounded>入土為安</talentname.grounded>
+<talentname.grounded>接地</talentname.grounded>
 <talentname.egghead>書呆子</talentname.egghead>
 <talentname.junctionjunkie>電路迷</talentname.junctionjunkie>
 <talentname.stationengineer>站體工程師</talentname.stationengineer>
