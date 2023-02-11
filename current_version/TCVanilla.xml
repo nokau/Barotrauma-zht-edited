@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
 <!-- edited by nokau for v0.20.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7367), EnglishVanillaEditorTexts.xml (7368~8752), EnglishVanilla EnglishVanillaNew.xml (8753~8764) -->
+<!-- INDEX: EnglishVanilla.xml (1~7360), EnglishVanilla EnglishVanillaNew.xml (7361~7375) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -1640,7 +1640,7 @@
 <missionheader0.killthresherswarm1>已殲滅目標</missionheader0.killthresherswarm1>
 <missionmessage0.killthresherswarm1>虎尾煞群已被殲滅，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.killthresherswarm1>
 <missionname.salvagekillthalamus>搜刮殘骸</missionname.salvagekillthalamus>
-<missiondescription.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償對你造成的任何不便。</missiondescription.salvagekillthalamus>
+<missiondescription.salvagekillthalamus>一艘小型運輸艦在約兩個月前在將異星原料自[location1]運送到[location2]的途中失去蹤影。那艘船應該早被深淵吞噬，但現在它的求救信號卻在[location2]附近啟動了。找到船艦並取回貨物。</missiondescription.salvagekillthalamus>
 <missionsonarlabel.salvagekillthalamus>求救信號</missionsonarlabel.salvagekillthalamus>
 <missionsuccess.salvagekillthalamus>[location2]的研究人員渴望了解這艘船隻的遭遇，不過似乎不想透漏太多關於它細節，但他們大方地提供1,000馬克來補償對你造成的任何不便。</missionsuccess.salvagekillthalamus>
 <missionheader0.salvagekillthalamus>已摧毀目標</missionheader0.salvagekillthalamus>
@@ -2649,7 +2649,7 @@
 <entityname.huskeggsbasic>畫皮寄生蟲卵</entityname.huskeggsbasic>
 <entitydescription.huskeggsbasic>學名為「Velonaceps Calyx」，俗稱畫皮的歐羅巴生物的休眠卵。</entitydescription.huskeggsbasic>
 <entityname.aliencircuitry>異星電路</entityname.aliencircuitry>
-<entitydescription.aliencircuitry>一種看起來很高科技的電路，一般會在異星遺跡中的無機守護者中找到。</entitydescription.aliencircuitry>
+<entitydescription.aliencircuitry>一種看起來非常高科技的電路，通常能從異星遺跡中守護者的無機身軀裡找到。</entitydescription.aliencircuitry>
 <entityname.diversremains>潛水夫殘骸</entityname.diversremains>
 <entitydescription.diversremains>那些太早死去可憐靈魂不易消化的遺骸。</entitydescription.diversremains>
 <entityname.hammerheadribs>錘頭煞肋骨</entityname.hammerheadribs>
@@ -2791,15 +2791,11 @@
 <entityname.hyperzine>加速粉劑</entityname.hyperzine>
 <entitydescription.hyperzine>一種非常強效的肌肉興奮劑，給那些動作需要變快的人。</entitydescription.hyperzine>
 <entityname.morbusine>莫布辛</entityname.morbusine>
-<entitydescription.morbusine>一種強效的神經毒素。</entitydescription.morbusine>
 <entityname.chloralhydrate>水合三氯乙醛</entityname.chloralhydrate>
 <entitydescription.chloralhydrate>一種可在短時間內使人失去行動能力的鎮靜劑。</entitydescription.chloralhydrate>
 <entityname.cyanide>氰化物</entityname.cyanide>
-<entitydescription.cyanide>一種強效的神經毒素。</entitydescription.cyanide>
 <entityname.radiotoxin>輻射毒劑</entityname.radiotoxin>
-<entitydescription.radiotoxin>一種強效的神經毒素。</entitydescription.radiotoxin>
 <entityname.sufforin>舒福林</entityname.sufforin>
-<entitydescription.sufforin>一種強效的神經毒素。</entitydescription.sufforin>
 <entityname.deliriumine>膽妄毒劑</entityname.deliriumine>
 <entitydescription.deliriumine>一種能夠導致精神症的有毒藥物。</entitydescription.deliriumine>
 <entityname.nitroglycerin>硝化甘油</entityname.nitroglycerin>
@@ -3366,10 +3362,13 @@
 <label.hr>人力資源部</label.hr>
 <label.store>雜貨店</label.store>
 <label.waterintakevalve>進水閥</label.waterintakevalve>
+<label.daysafterlawsuit>自上次發生醫療事故訴訟以來的天數</label.daysafterlawsuit>
 
 <!-- Submarine description -->
 <dimensions>尺寸</dimensions>
 <dimensionsformat>[width]x[height] m</dimensionsformat>
+<crushdepth>壓碎深度</crushdepth>
+<meterformat>[meters] m</meterformat>
 <subpreviewimagenotfound>找不到預覽圖</subpreviewimagenotfound>
 <subpreviewimage>預覽圖</subpreviewimage>
 <subpreviewimagebrowse>瀏覽...</subpreviewimagebrowse>
@@ -3411,6 +3410,7 @@
 <submarine.name.typhon>颱風</submarine.name.typhon>
 <submarine.description.typhon>颱風型潛艇最出名的就是它們粗獷的外形、合理的輕重火力配置、以及設備的高度可靠性，不過任何一位艦長都應該要知道它們有著糟糕的速度和浮潛性能。</submarine.description.typhon>
 <submarine.name.dugong>儒艮</submarine.name.dugong>
+<submarine.name.dugong_tutorial>儒艮</submarine.name.dugong_tutorial>
 <submarine.description.dugong>相對其他大型船艦，儒艮型潛艇在各方面都略遜一籌，除了它們蓋世無雙的性價比外。它們缺乏火力與速度，只能靠著巧妙的駕駛技術彌補。</submarine.description.dugong>
 <submarine.name.selkie>Selkie</submarine.name.selkie>
 <submarine.description.selkie>歐羅巴殖民地之間的生力軍之一。這些小艇具有不錯的速度與良好的浮潛性能，但它們脆弱且航行範圍受到其搭載的低容量蓄電池限制。</submarine.description.selkie>
@@ -3540,6 +3540,7 @@
 <reactortipautotemp>自動控制開啟時，反應爐會依照負載自動調整輸出。但是這個系統無法在用電量大幅波動時及時做出反應，因此依舊有機會需要透過手動微調。</reactortipautotemp>
 <reactor.temperatureboostup>增加壓力以暫時提升反應爐的溫度。</reactor.temperatureboostup>
 <reactor.temperatureboostdown>釋放壓力以暫時降低反應爐的溫度。</reactor.temperatureboostdown>
+<closeinfographic>關閉資訊</closeinfographic>
 <infographic.reactor.fuelslots>反應爐需要使用燃料來產生電力。將它們置入欄位中。</infographic.reactor.fuelslots>
 <infographic.reactor.power>啟動或關閉反應爐。</infographic.reactor.power>
 <infographic.reactor.load>負載是潛艇正在消耗的電量，輸出則是反應爐正在產生的電量。讓輸出盡量接近負載。</infographic.reactor.load>
@@ -4303,11 +4304,11 @@
 <afflictioncauseofdeath.morbusinepoisoning>死於莫布辛中毒。</afflictioncauseofdeath.morbusinepoisoning>
 <afflictioncauseofdeathself.morbusinepoisoning>你死於莫布辛中毒。</afflictioncauseofdeathself.morbusinepoisoning>
 <afflictionname.sufforinpoisoning>舒福林中毒</afflictionname.sufforinpoisoning>
-<afflictiondescription.sufforinpoisoning>如果不及時治療，舒福林中毒會導致妄想和快速死亡。</afflictiondescription.sufforinpoisoning>
+
 <afflictioncauseofdeath.sufforinpoisoning>死於舒福林中毒。</afflictioncauseofdeath.sufforinpoisoning>
 <afflictioncauseofdeathself.sufforinpoisoning>你死於舒福林中毒。</afflictioncauseofdeathself.sufforinpoisoning>
 <afflictionname.cyanidepoisoning>氰化物中毒</afflictionname.cyanidepoisoning>
-<afflictiondescription.cyanidepoisoning>病患神智不清、呼吸困難，他們的皮膚呈現紅色且偶爾會出現肌肉痙攣。</afflictiondescription.cyanidepoisoning>
+
 <afflictioncauseofdeath.cyanidepoisoning>死於氰化物中毒。</afflictioncauseofdeath.cyanidepoisoning>
 <afflictioncauseofdeathself.cyanidepoisoning>你死於氰化物中毒。</afflictioncauseofdeathself.cyanidepoisoning>
 <afflictionname.blunttrauma>鈍器傷</afflictionname.blunttrauma>
@@ -4404,20 +4405,22 @@
 <afflictiondescription.morbusinepoisoning.low.self>你覺得呼吸困難。</afflictiondescription.morbusinepoisoning.low.self>
 <afflictiondescription.morbusinepoisoning.high.self>你大口喘氣，但無濟於事。</afflictiondescription.morbusinepoisoning.high.self>
 <afflictiondescription.morbusinepoisoning.low>患者的呼吸似乎沒有規律。</afflictiondescription.morbusinepoisoning.low>
-<afflictiondescription.sufforinpoisoning.medium.self>你的目光逐漸模糊，你的健康狀況逐漸惡化。</afflictiondescription.sufforinpoisoning.medium.self>
-<afflictiondescription.sufforinpoisoning.high.self>你幾乎看不到了。神經毒素的症狀已經到了晚期。</afflictiondescription.sufforinpoisoning.high.self>
+<afflictiondescription.sufforinpoisoning>患者看上去不太舒服，如果不及時治療只會變得更糟。</afflictiondescription.sufforinpoisoning>
+<afflictiondescription.sufforinpoisoning.medium.self>你的目光逐漸模糊且強烈地想要嘔吐。</afflictiondescription.sufforinpoisoning.medium.self>
+<afflictiondescription.sufforinpoisoning.high>患者中了毒無法動彈。要是找不到解毒劑，病人最終會在痛苦中死去。</afflictiondescription.sufforinpoisoning.high>
 <afflictiondescription.sufforinpoisoning.low>患者幾乎沒有症狀，但有可能是中了毒。</afflictiondescription.sufforinpoisoning.low>
-<afflictiondescription.sufforinpoisoning.high>患者中了毒。除非施用解毒劑，患者將陷入妄想狀態並在短時間內失去生命。</afflictiondescription.sufforinpoisoning.high>
 <afflictiondescription.deliriuminepoisoning.high.self>你聽見、看見不存在的東西。那些是膽妄毒劑中毒的症狀。</afflictiondescription.deliriuminepoisoning.high.self>
 <afflictiondescription.deliriuminepoisoning.high>患者心浮氣躁，目光游移。他們無法理解為何周遭都被大火吞噬，而你卻如此冷靜...</afflictiondescription.deliriuminepoisoning.high>
 <afflictiondescription.cyanidepoisoning.medium.self>你感到很不對勁。你被下毒了嗎？</afflictiondescription.cyanidepoisoning.medium.self>
 <afflictiondescription.cyanidepoisoning.high.self>你後悔沒有投資一些能對付氰化物中毒的解藥。你要掛了。</afflictiondescription.cyanidepoisoning.high.self>
 <afflictiondescription.cyanidepoisoning.low>在觀察患者之後判斷是氰化物中毒。除非施用解毒劑，否則致命無法避免。</afflictiondescription.cyanidepoisoning.low>
 <afflictiondescription.cyanidepoisoning.high>患者口吐白沫無法動彈。你或許能夠偷偷把他們身上的東西偷走...</afflictiondescription.cyanidepoisoning.high>
+<afflictiondescription.cyanidepoisoning>患者大口喘氣，皮膚發青，並且全身肌肉偶發性地抽搐。對方的狀況正急轉直下。</afflictiondescription.cyanidepoisoning>
 <afflictiondescription.paralysis.low.self>你的四肢難以動彈。</afflictiondescription.paralysis.low.self>
 <afflictiondescription.paralysis.high.self>你無法動彈。</afflictiondescription.paralysis.high.self>
 <afflictiondescription.paralysis.high>患者已經完全癱瘓，無法動彈。</afflictiondescription.paralysis.high>
 <afflictiondescription.nausea.low>你感到噁心，但沒有什麼是休息一下不能解決的。</afflictiondescription.nausea.low>
+<afflictiondescription.nausea.high>你覺得很不舒服。你該感到擔心或者是休息一下？</afflictiondescription.nausea.high>
 <afflictiondescription.watchersgaze.self>>你無法擺脫它。它永遠都在那裡，盯著你。挖掉自己的眼睛會讓它消失嗎？</afflictiondescription.watchersgaze.self>
 <afflictiondescription.hallucinating.low>你的五感變得怪怪的。</afflictiondescription.hallucinating.low>
 <afflictiondescription.reaperstax.self>你被一種似曾相識的感覺所困擾，而且它太真實了。也許你應該慶倖你只記得自己的死狀，而非出生。</afflictiondescription.reaperstax.self>
@@ -5058,6 +5061,7 @@
 <tutorial.roles.popup.bodyarmor>尋找護甲。</tutorial.roles.popup.bodyarmor>
 <tutorial.roles.securityinstructor.gun1>「好。沒記錯的話新兵Miller掛掉的時候穿的就是那件。一位聰明的年輕人，但是他的準頭會是你所見過最糟的。現在從那個架子上拿把彈藥和槍。用你的滑鼠確認裡面裝了子彈。」</tutorial.roles.securityinstructor.gun1>
 <tutorial.roles.popup.gun>找到一把槍。</tutorial.roles.popup.gun>
+<tutorial.roles.popup.loadgun>為你的槍枝裝填彈藥。（將彈藥拖放至武器上）</tutorial.roles.popup.loadgun>
 <tutorial.roles.securityinstructor.gun2>「管理階層希望我在這個階段提醒你們板機的相關紀律。...既然已經懂了，那讓我們開始射擊吧。我們沒有小丑了，所以你就用畫皮當目標吧。往靶場移動。」</tutorial.roles.securityinstructor.gun2>
 <tutorial.roles.securityinstructor.shooting1>「登上船的敵人通常都弱得足以使用手持武器擊退。畫皮能夠讓人類感染致命的寄生蟲，不過這隻被安全的收容在靶場裡了。殲滅牠。」</tutorial.roles.securityinstructor.shooting1>
 <tutorial.roles.popup.shooting>殲滅敵人。</tutorial.roles.popup.shooting>
@@ -5087,7 +5091,6 @@
 <tutorial.roles.medicalinstructor.player>「準備好了，長官！」</tutorial.roles.medicalinstructor.player>
 <tutorial.roles.medicalinstructor.morphine>「小聲點好嗎？拿一些嗎啡給我。你能從那個櫃子裡找到它。那是一個標準款的醫藥櫃。你能在大部分的潛艇上找到它。」</tutorial.roles.medicalinstructor.morphine>
 <tutorial.roles.popup.morphine>尋找嗎啡。</tutorial.roles.popup.morphine>
-<tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui><!--BUTTON TEXT EDIT--><!--DUPE NEW LINE 14-->
 <tutorial.roles.popup.healthui1>以[InputType.Health]打開那位醫生的醫療介面</tutorial.roles.popup.healthui1><!--DUPE NEW LINE 8-->
 <tutorial.roles.popup.healthui2>將嗎啡拖放至任何一處身體部位。</tutorial.roles.popup.healthui2>
 <tutorial.roles.medicalinstructor.medfabricator1>「那解決了我的頭痛，但是我依舊還在顫抖。我們應該沒有納洛酮了，對吧？你得製作一些。首先，找到嗎啡和安定素。」</tutorial.roles.medicalinstructor.medfabricator1>
@@ -5097,6 +5100,7 @@
 <tutorial.roles.popup.medfabricator3>將嗎啡和安定素放進Input欄位中並按下「製作」。</tutorial.roles.popup.medfabricator3>
 <tutorial.roles.popup.medfabricator4>拿取介面右方位於Output中製作完成的納洛酮。</tutorial.roles.popup.medfabricator4>
 <tutorial.roles.medicalinstructor.healthui>「Ok，拿到我這兒。用滑鼠指著我然後按下[InputType.Health]開啟我的醫療介面。」</tutorial.roles.medicalinstructor.healthui>
+<tutorial.roles.medicalinstructor.healthui2>明顯地顫抖。\n\n「記得，用[InputType.Health]開啟我的醫療介面。愈快愈好。」</tutorial.roles.medicalinstructor.healthui2>
 <tutorial.roles.popup.naloxone>施用納洛酮。</tutorial.roles.popup.naloxone>
 <tutorial.roles.medicalinstructor.patients1>「你能為我做的差不多就這樣了。你還想幫忙的話，治療隔壁那些話者吧。喔，然後把燈關上。我要來瞇一下。」</tutorial.roles.medicalinstructor.patients1>
 <tutorial.roles.medicalinstructor.patients2>「這裡有幾位患者，每位都有不同的症狀。要知道他們身上有哪些症狀，我會給你一個生命跡象HUD。它會在你靠近親眼確認之前就顯示人們身上的問題。」</tutorial.roles.medicalinstructor.patients2>
@@ -5115,6 +5119,7 @@
 <tutorial.roles.popup.cpr>點選「進行CPR」按鈕。</tutorial.roles.popup.cpr>
 <tutorial.roles.medicalinstructor.complete>「做得好。下次我請你喝杯咖啡。」</tutorial.roles.medicalinstructor.complete>
 <tutorial.roles.medic.objective.morphine>治療指導員</tutorial.roles.medic.objective.morphine>
+<tutorial.roles.medic.objective.healthinterface>開啟指導員的醫療介面</tutorial.roles.medic.objective.healthinterface>
 <tutorial.roles.medic.objective.morphine1>尋找嗎啡</tutorial.roles.medic.objective.morphine1>
 <tutorial.roles.medic.objective.morphine2>對指導員施用嗎啡</tutorial.roles.medic.objective.morphine2>
 <tutorial.roles.medic.objective.medfabricator>製作並施用納洛酮</tutorial.roles.medic.objective.medfabricator>
@@ -5136,7 +5141,7 @@
 <tutorial.roles.security.objective.killtarget>殲滅目標</tutorial.roles.security.objective.killtarget>
 <tutorial.roles.popup.bodyarmorequip>裝備護甲。點選護甲所在欄位上方的長條圖案或按下與該欄位對應的按鍵。</tutorial.roles.popup.bodyarmorequip>
 <tutorial.roles.popup.ammo>取得彈藥。</tutorial.roles.popup.ammo>
-<tutorial.roles.popup.loadgun>為你的槍枝裝填彈藥。</tutorial.roles.popup.loadgun>
+
 
 <!-- Campaign tutorial -->
 <tutorial.campaign.introduction.conversation_start>[speakername]: 「終於有機會離開這個哨站了。你能相信想上潛艇的人少到他們直接從船廠贊助我們一艘嗎？」</tutorial.campaign.introduction.conversation_start>
@@ -6195,7 +6200,7 @@
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>「了解。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>你向一旁的房間裡窺視，房裡有個人坐在一張椅子上、手上戴著手銬。從他血淋淋、又紅又腫的臉看來，他被徹底地教訓過了。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>上前查看。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>
-<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>那個人有些神志不清，但還是有辦法小聲地問了你一個問題:「你、你吃過Versas肝臟嗎？」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1><!--source error?-->
+<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>那個人有些神志不清，但還是有辦法小聲地從嘴裡擠出了一個問題:「你、你吃過Versas肝臟嗎？」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1><!--source error?-->
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>「從來沒有。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>「真、真可惜，我聽說到死都要嚐過一次。」他笑了幾聲，「你最好、最好在守衛回來之前快點離開，如果你還能讓誰知道我在這裡那就太、太好了。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你告訴那些分離主義者他們同伴的位置。他們在感謝你的幫忙後出發營救他們的同志。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
@@ -6815,7 +6820,6 @@
 <talentname.esteemedcaptain>受尊敬的船長</talentname.esteemedcaptain>
 <talentdescription.esteemedcaptain>每完成至少一項任務時獲得一個聯盟勳章。\n當你對其他角色使用聯盟勳章時，自身獲得[selfxpgain]經驗值。</talentdescription.esteemedcaptain>
 <talentname.downwiththeship>與艦同沉</talentname.downwiththeship>
-<talentdescription.downwiththeship>當你置身於你的潛艇中且淹水達到至少[flooded]%時，獲得[duration]秒的[swimmingboost]%額外游泳速度與[skillboost]點的醫療技能和電氣工程技能點數。</talentdescription.downwiththeship>
 <talentname.camaraderie>情誼</talentname.camaraderie>
 <talentdescription.camaraderie>當你在沒有船員死亡的狀態下完成任務，且船員當前正執行[jobcount]項不同任務時，你的隊伍獲得額外的[extramoney]%報酬與經驗值。</talentdescription.camaraderie>
 <talentname.drunkensailor>爛醉水手</talentname.drunkensailor>
@@ -7224,11 +7228,8 @@
 <talentdescription.affiliationfaction>與[faction]靠攏並獲得:</talentdescription.affiliationfaction>
 <talentdescription.affiliationbenefit1>[faction]對你的評價提升速度增加[reputationincrease]%，但其他陣營對你的評價降低速度增加[reputationloss]%。</talentdescription.affiliationbenefit1>
 <talentdescription.affiliationbenefit2>為[faction]完成任務時賺取額外[amount]%馬克。</talentdescription.affiliationbenefit2>
-<talentdescription.affiliationfactionreminder>‖color:gui.red‖注意:‖end‖ 選定陣營後將無法更改，且會一併套用至其他艦長。</talentdescription.affiliationfactionreminder>
-<talentdescription.campaigning>所靠攏陣營的船廠提供[amount]%升級和購買潛艇的優惠。</talentdescription.campaigning>
-<talentdescription.networking>所靠攏陣營的商店物品價格降低[amount]%。獨特的陣營物品則為兩倍。</talentdescription.networking>
+
 <talentdescription.figurehead>將‖color:gui.orange‖獎章‖end‖替換為給予[selfxpgain]經驗值的‖color:gui.orange‖勳章‖end‖。若角色等級低於[level]，則將賦予他們能夠達到[level]等級的經驗值。</talentdescription.figurehead>
-<talentdescription.factiondiscount>所靠攏陣營哨站上的所有服務提供[discount]%的優惠。</talentdescription.factiondiscount>
 <talentdescription.leadingbyexample>只要你活著，給予所有船員‖color:gui.orange‖士氣提升‖end‖效果並獲得:</talentdescription.leadingbyexample>
 <talentdescription.helmsman>增加額外[amount]點‖color:gui.orange‖駕駛‖end‖技能點數。</talentdescription.helmsman>
 <talentdescription.increaseeffectiveness>‖color:gui.orange‖引擎‖end‖和‖color:gui.orange‖抽水機‖end‖的效率提升[amount]%。</talentdescription.increaseeffectiveness>
@@ -7250,7 +7251,7 @@
 <talentdescription.bloodybusiness>‖color:gui.orange‖大型生物‖end‖掉落一項額外[item]。</talentdescription.bloodybusiness>
 <talentdescription.genetampering>所有船員獲得額外[healthamount]%生命值且移動速度增加[movementspeed]%。</talentdescription.genetampering>
 <talentdescription.assistantdragatfullspeed>‖color:gui.orange‖助手‖end‖能夠全速拖拉其他角色。</talentdescription.assistantdragatfullspeed>
-<talentdescription.emergencyresponse>當任何角色需要CPR時，你的移動速度增加[movementspeed]%。</talentdescription.emergencyresponse>
+
 <talentdescription.slightlypowerfulcpr>船員施行的CPR對減輕‖color:gui.orange‖缺氧‖end‖狀態的效力增加[amount]%。</talentdescription.slightlypowerfulcpr>
 <talentdescription.medicalexpertise>獲得額外[amount]點‖color:gui.orange‖醫療‖end‖技能點數。你所施用的繃帶效果更好。</talentdescription.medicalexpertise>
 <talentdescription.medicalassistance>同一房間中的‖color:gui.orange‖助手‖end‖獲得額外的[amount]點‖color:gui.orange‖醫療‖end‖技能點數。</talentdescription.medicalassistance>
@@ -7300,37 +7301,29 @@
 <talentdescription.thefriendswemadereminder>Only [amount] per crew can be active at the same time.</talentdescription.thefriendswemadereminder>
 <talentdescription.clownpowerbenefits>小丑之力賦予你:</talentdescription.clownpowerbenefits>
 <talentdescription.thearrival>一個哨站一次，使用‖color:gui.orange‖自行車喇叭‖end‖將賦予你[faction]的[amount]聲望值。</talentdescription.thearrival>
-<talentdescription.chonkyhonks>使用你的喇叭有[chance]%的機率使周圍的生物暈眩一秒。</talentdescription.chonkyhonks>
+
 <talentdescription.apprenticeshipbase>選擇成為一種職業的學徒並獲得相關的技能加成。</talentdescription.apprenticeshipbase>
 <talentdescription.apprenticeshipjob>選擇成為[job]學徒並獲得:</talentdescription.apprenticeshipjob>
 <talentdescription.journeyman>你和所有與你學徒職業相同的船員獲得額外[skillamount]點所選職業的主要技能點數，且該技能升級速度提升[skillspeedboost]%。</talentdescription.journeyman>
 <talentdescription.loyalassistant>你和所有與你學徒職業相同的船員所製作的物品品質提升[amount]。</talentdescription.loyalassistant>
 <talentdescription.disloyalscum>你和所有與你學徒職業‖color:gui.orange‖不‖end‖相同的船員獲得額外[amount]%的維修、焊接、和技能升級速度。</talentdescription.disloyalscum>
 <talentdescription.unlockapprenticeshiptalents>獲得所選學徒職業的‖color:gui.orange‖隨機一種‖end‖職業天賦樹中的所有天賦。</talentdescription.unlockapprenticeshiptalents>
-<talentdescription.truepotentialtemporary>以‖color:gui.orange‖玩具槌‖end‖敲擊失去意識的隊友能將他們救起且帶著[affliction]效果[duration]秒。</talentdescription.truepotentialtemporary>
+
 <talentdescription.massproduction>製作物品時有[chance]%的機率不會消耗其中一項原料。</talentdescription.massproduction>
 <talentdescription.specops>對生命值全滿的敵人造成雙倍傷害（砲塔以外）。</talentdescription.specops>
 <talentdescription.letitdrain>能夠製作輕型抽水機並安裝在任何地方。</talentdescription.letitdrain>
 <talentdescription.powerarmor>在‖color:gui.orange‖動力服‖end‖中時移動速度增加[bonusmovement]%。</talentdescription.powerarmor>
 <talentdescription.dangerzone>穿著‖color:gui.orange‖輻射防護服‖end‖時獲得額外[resistance]%的‖color:gui.orange‖輻射病‖end‖抗性。</talentdescription.dangerzone>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<talentdescription.affiliationreputation>與陣營之間的聲望提升速度增加[reputationincrease]%。</talentdescription.affiliationreputation>
+<talentdescription.affiliationbenefit>完成‖color:gui.orange‖所屬陣營‖end‖任務時獲得額外[amount]%馬克。</talentdescription.affiliationbenefit>
+<talentdescription.currentaffiliation>當前‖color:gui.orange‖所屬陣營‖end‖為: [affiliatedfaction]</talentdescription.currentaffiliation>
+<talentdescription.affiliationfactionreminder>‖color:gui.orange‖所屬陣營:‖end‖ 你在該陣營中的聲望最高。</talentdescription.affiliationfactionreminder>
+<talentdescription.campaigning>‖color:gui.orange‖所屬陣營‖end‖船廠提供[amount]%的升級和潛艇價格折扣。</talentdescription.campaigning>
+<talentdescription.networking>‖color:gui.orange‖所屬陣營‖end‖商店提供[amount]%的價格折扣。陣營獨特物品則為此的兩倍。</talentdescription.networking>
+<talentdescription.factiondiscount>‖color:gui.orange‖所屬陣營‖end‖哨站中的任何服務都將提供[discount]%價格折扣。</talentdescription.factiondiscount>
+<talentdescription.emergencyresponse>有任何船員失去意識時你的移動速度增加[movementspeed]%。</talentdescription.emergencyresponse>
+<talentdescription.chonkyhonks>使用你的自行車喇叭有[chance]%機率使周圍的生物暈眩一秒。</talentdescription.chonkyhonks>
+<talentdescription.truepotentialtemporary>以‖color:gui.orange‖玩具槌‖end‖敲打失去意識的隊友將能救起他們並給予對方[duration]秒的[affliction]效果。需要小丑之力。</talentdescription.truepotentialtemporary>
 
 <!-- Talent stat types -->
 <stattypenames.maximumhealthmultiplier>最大生命值</stattypenames.maximumhealthmultiplier>
