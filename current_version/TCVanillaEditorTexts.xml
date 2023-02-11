@@ -1,10 +1,10 @@
-<!-- EnglishVanillaEditorTexts.xml -->
-<!-- edited by nokau for v0.20.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7367), EnglishVanillaEditorTexts.xml (7368~8752), EnglishVanilla EnglishVanillaNew.xml (8753~8764) -->
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
+<!-- edited by nokau for v0.21.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
   
-<!-- Submarine Editor -->
+<!-- Submarine editor -->
 <items>物件</items>
 <structures>結構</structures>
 <totalhullvolume>總體 Hull 體積</totalhullvolume>
@@ -58,10 +58,10 @@
 <nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物品去處)。請放置新的Spawnpoint並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
 <farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
 <adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
-<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光；輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前數值的50%。</adjustedlightsnotification>
-<noballasttagswarning>位於壓載艙的抽水機應在其Tags欄位中加入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
+<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
+<noballasttagswarning>位於壓載艙的抽水機應在其Tags欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
 <insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
-<nohullnameswarning>沒有Hull被命名，將自動進行調整。角色將在如回報船體受損時使用這些名稱。</nohullnameswarning>
+<nohullnameswarning>沒有Hull被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
 <manuallyoutfitted>手動配置的物資</manuallyoutfitted>
@@ -86,19 +86,14 @@
 <subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
 <canattachtoprevious>能以何處連結</canattachtoprevious>
 <canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
-
 <subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
 <subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
-
-
-<!-- Entity Editor -->
 <stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
-<stringpropertycannottranslate>此串文字將不會被轉換 - 文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
-<charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
+<stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 
-<!-- Character Editor -->
+<!-- Submarine editor -->
 <charactereditor.creatingnewjoint>Creating a new joint</charactereditor.creatingnewjoint>
 <charactereditor.selectanchor1pos>Select the anchor position for the joint</charactereditor.selectanchor1pos>
 <charactereditor.selectlimbtoconnect>Select another limb to connect it with the joint</charactereditor.selectlimbtoconnect>
@@ -167,7 +162,7 @@
 <charactereditor.animationoftypeloaded>Animation of type [type] loaded from [file]</charactereditor.animationoftypeloaded>
 <charactereditor.reloadtextures>Reload Textures</charactereditor.reloadtextures>
 <charactereditor.recreateragdoll>Recreate Ragdoll [F5]</charactereditor.recreateragdoll>
-<charactereditor.recreateragdolltooltip>Many of the parameters requires recreating the ragdoll. If adjusting the parameter doesn't seem to have effect, click this button.</charactereditor.recreateragdolltooltip>
+<charactereditor.recreateragdolltooltip>Many of the parameters require recreating the ragdoll. If adjusting the parameter doesn't seem to have an effect, click this button.</charactereditor.recreateragdolltooltip>
 <charactereditor.createnewcharacter>Create New Character</charactereditor.createnewcharacter>
 <charactereditor.copycharacter>Copy Character</charactereditor.copycharacter>
 <charactereditor.copycharactertooltip>Create a copy of the current character</charactereditor.copycharactertooltip>
@@ -206,13 +201,10 @@
 <charactereditor.contentpackagename>Content Package Name</charactereditor.contentpackagename>
 <charactereditor.texturedoesnotexist>The texture file does not exist!</charactereditor.texturedoesnotexist>
 <charactereditor.defineragdoll>Define Ragdoll</charactereditor.defineragdoll>
-<charactereditor.loadfromhtml>Load From HTML</charactereditor.loadfromhtml>
 <charactereditor.limbs>Limbs</charactereditor.limbs>
 <charactereditor.limb>Limb</charactereditor.limb>
 <charactereditor.joints>Joints</charactereditor.joints>
 <charactereditor.joint>Joint</charactereditor.joint>
-<charactereditor.loadhtml>Load HTML</charactereditor.loadhtml>
-<charactereditor.htmlpath>Path to the HTML file...</charactereditor.htmlpath>
 <charactereditor.selectfile>Select File</charactereditor.selectfile>
 <charactereditor.missingtorsoorhead>You need to define at least one limb as Torso or Head!</charactereditor.missingtorsoorhead>
 <charactereditor.missinglimbtype>You need to define one and only one limb as [limbtype]!</charactereditor.missinglimbtype>
@@ -224,7 +216,7 @@
 <charactereditor.limbwithindexanchor>Limb [index] Anchor</charactereditor.limbwithindexanchor>
 <charactereditor.failedtoreadhtml>Character Editor Screen: Failed to read HTML at [path]</charactereditor.failedtoreadhtml>
 <charactereditor.multipleitemswithsamehierarchy>Multiple items with the same hierarchy [hierarchy] found ([name]). Cannot continue.</charactereditor.multipleitemswithsamehierarchy>
-<charactereditor.cannoteditvanillacharacters>Cannot edit the characters defined in the 'Vanilla' content package! You can create a copy of the character (in another content package) should you want to edit it.</charactereditor.cannoteditvanillacharacters>
+<charactereditor.cannoteditvanillacharacters>Cannot edit the characters defined in the "Vanilla" content package! You can create a copy of the character (in another content package) should you want to edit it.</charactereditor.cannoteditvanillacharacters>
 <charactereditor.existingcharacterfoundreplaceverification>An existing character with the same name was found in the same content package. Do you want to replace it (the original files will be lost)?</charactereditor.existingcharacterfoundreplaceverification>
 <charactereditor.existingcharacterfoundoverrideverification>An existing character with the same name was found in another content package. Do you want to create an override of it (the original files will stay intact)?</charactereditor.existingcharacterfoundoverrideverification>
 <charactereditor.existingcharacterfound>An existing character with the same name was found.</charactereditor.existingcharacterfound>
@@ -254,41 +246,40 @@
 <charactereditor.drawlimbonspritesheet>Draw the limb on the spritesheet</charactereditor.drawlimbonspritesheet>
 <charactereditor.onlyshowselectedlimbs>Show Only Selected Limbs</charactereditor.onlyshowselectedlimbs>
 <charactereditor.newcontentpackage>New Content Package</charactereditor.newcontentpackage>
-<charactereditor.existingjointfound>A joint between limb [limbid1] and [limbid2] already found!</charactereditor.existingjointfound>
+<charactereditor.existingjointfound>A joint between limbs [limbid1] and [limbid2] already found!</charactereditor.existingjointfound>
 <charactereditor.unrestrict>Unrestrict</charactereditor.unrestrict>
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 <charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 
 <!-- Entity properties -->
 <sp.scale.name>Scale</sp.scale.name>
 <sp.spritedepth.name>Sprite Depth</sp.spritedepth.name>
 <sp.disallowedupgrades.name>Disallowed Upgrades</sp.disallowedupgrades.name>
-<sp.hiddeningame.name>Hidden In Game</sp.hiddeningame.name>
-  
-<sp.item.hiddeningame.name>Hidden In Game</sp.item.hiddeningame.name>
+<sp.hiddeningame.name>Hidden in Game</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>Hidden in Game</sp.item.hiddeningame.name>
 <sp.item.noninteractable.name>Non Interactable</sp.item.noninteractable.name>
 <sp.item.spritecolor.name>Sprite Color</sp.item.spritecolor.name>
 <sp.item.inventoryiconcolor.name>Inventory Icon Color</sp.item.inventoryiconcolor.name>
 <sp.item.containercolor.name>Container Color</sp.item.containercolor.name>
-<sp.item.containercolor.description>Changes the color of the item this item is contained inside. Only has an effect if either of the UseContainedSpriteColor or UseContainedInventoryIconColor property of the container is set to true.</sp.item.containercolor.description>
+<sp.item.containercolor.description>Changes the color of this item's container. Only has an effect if either the UseContainedSpriteColor or UseContainedInventoryIconColor property of the container is set to true.</sp.item.containercolor.description>
 <sp.item.condition.name>Condition</sp.item.condition.name>
 <sp.item.tags.name>Tags</sp.item.tags.name>
-<sp.item.displaysidebysidewhenlinked.name>Display Side By Side When Linked</sp.item.displaysidebysidewhenlinked.name>
-<sp.item.displaysidebysidewhenlinked.description>Enable if you want to display the item HUD side by side with another item's HUD, when linked together. Disclaimer: It's possible or even likely that the views block each other, if they were not designed to be viewed together!</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.displaysidebysidewhenlinked.name>Display Side by Side When Linked</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>Enable if you want to display the item HUD side by side with another item's HUD, when linked together. Disclaimer: The HUDs may block each other, if they were not designed to be viewed together!</sp.item.displaysidebysidewhenlinked.description>
 <sp.item.spritedepth.name>Sprite Depth</sp.item.spritedepth.name>
-<sp.item.nonplayerteaminteractable.name>Non Player Team Interactable</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.name>Non-Player Team Interactable</sp.item.nonplayerteaminteractable.name>
 <sp.item.nonplayerteaminteractable.description>When enabled, item is interactable only for characters on non-player teams.</sp.item.nonplayerteaminteractable.description>
 <sp.item.allowswapping.name>Allow Swapping</sp.item.allowswapping.name>
 <sp.item.allowswapping.description>Can the item be swapped with other items in outposts? Only relevant on swappable items such as turrets.</sp.item.allowswapping.description>
-<sp.item.invulnerabletodamage.name>Invulnerable To Damage</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.name>Invulnerable to Damage</sp.item.invulnerabletodamage.name>
 <sp.item.invulnerabletodamage.description>When enabled, will prevent the item from taking damage from any source.</sp.item.invulnerabletodamage.description>
-
 <sp.structure.indestructible.name>Indestructible</sp.structure.indestructible.name>
 <sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
 <sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
 <sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
 <sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points towards the sub's center of mass.</sp.structure.dropshadowoffset.description>
+<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points toward the sub's center of mass.</sp.structure.dropshadowoffset.description>
 <sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
 <sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
 <sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
@@ -296,14 +287,12 @@
 <sp.structure.noaitarget.name>No AI Target</sp.structure.noaitarget.name>
 <sp.structure.noaitarget.description>If enabled, monsters won't try to target this structure.</sp.structure.noaitarget.description>
 <sp.structure.maxhealth.name>Max Health</sp.structure.maxhealth.name>
-  
 <sp.hull.ambientlight.name>Ambient Light</sp.hull.ambientlight.name>
 <sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
 <sp.hull.iswetroom.name>Is Wet Room</sp.hull.iswetroom.name>
-<sp.hull.iswetroom.description>Is it normal for this hull to be filled with water? If the room name contains 'ballast', 'bilge', or 'airlock', you can't disable this setting.</sp.hull.iswetroom.description>
+<sp.hull.iswetroom.description>Is it normal for this hull to be filled with water? If the room name contains "ballast," "bilge," or "airlock," you can't disable this setting.</sp.hull.iswetroom.description>
 <sp.hull.avoidstaying.name>Avoid Staying</sp.hull.avoidstaying.name>
 <sp.hull.avoidstaying.description>Bots avoid staying here, but they are still allowed to access the room when needed and go through it. Forced true for wet rooms.</sp.hull.avoidstaying.description>
-
 <sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
 <sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
 <sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
@@ -319,30 +308,30 @@
 <sp.itemcomponent.pickingtime.name>Picking Time</sp.itemcomponent.pickingtime.name>
 <sp.itemcomponent.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.itemcomponent.pickingtime.description>
 <sp.itemcomponent.canbepicked.name>Can Be Picked</sp.itemcomponent.canbepicked.name>
-<sp.itemcomponent.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something else than picking up the item).</sp.itemcomponent.canbepicked.description>
-<sp.itemcomponent.allowingameediting.name>Allow In Game Editing</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something other than picking up the item).</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>Allow In-Game Editing</sp.itemcomponent.allowingameediting.name>
 <sp.itemcomponent.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.itemcomponent.allowingameediting.description>
 <sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
 <sp.itemcomponent.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. "[Mouse1] Pick up").</sp.itemcomponent.msg.description>
 <sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
-<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier In Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
-<sp.electricaldischarger.rangemultiplierinwalls.description>How much further can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier in Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>How much farther can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
 <sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
 <sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
 <sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
-<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine nor shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
+<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine or shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
 <sp.powered.minvoltage.name>Min Voltage</sp.powered.minvoltage.name>
 <sp.powered.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.powered.minvoltage.description>
 <sp.powered.powerconsumption.name>Power Consumption</sp.powered.powerconsumption.name>
 <sp.powered.powerconsumption.description>How much power the device draws (or attempts to draw) from the electrical grid when active.</sp.powered.powerconsumption.description>
-<sp.powered.vulnerabletoemp.name>Vulnerable To EMP</sp.powered.vulnerabletoemp.name>
-<sp.powered.vulnerabletoemp.description>Can the item be damaged by electomagnetic pulses?</sp.powered.vulnerabletoemp.description>
+<sp.powered.vulnerabletoemp.name>Vulnerable to EMP</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>Can the item be damaged by electromagnetic pulses?</sp.powered.vulnerabletoemp.description>
 <sp.entityspawnercomponent.itemidentifier.name>Item Identifier</sp.entityspawnercomponent.itemidentifier.name>
-<sp.entityspawnercomponent.itemidentifier.description>Identifier of the item to spawn, does nothing if SpeciesName is set. Separate by comma to have multiple items spawn at random.</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.itemidentifier.description>Identifier of the item to spawn; does nothing if SpeciesName is set. Separate by comma to have multiple items spawn at random.</sp.entityspawnercomponent.itemidentifier.description>
 <sp.entityspawnercomponent.speciesname.name>Species Name</sp.entityspawnercomponent.speciesname.name>
-<sp.entityspawnercomponent.speciesname.description>Species name of the creature to spawn, takes priority if ItemIdentifier is set. Separate by comma to have multiple creatures spawn at random.</sp.entityspawnercomponent.speciesname.description>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Only Spawn When Crew In Range</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Only spawn if crew members are within certain area</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.speciesname.description>Species name of the creature to spawn; takes priority if ItemIdentifier is set. Separate by comma to have multiple creatures spawn at random.</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Only Spawn When Crew in Range</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Only spawn if crew members are within a certain area</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
 <sp.entityspawnercomponent.crewareashape.name>Crew Area Shape</sp.entityspawnercomponent.crewareashape.name>
 <sp.entityspawnercomponent.crewareashape.description>Shape of the area where crew members need to stay</sp.entityspawnercomponent.crewareashape.description>
 <sp.entityspawnercomponent.crewareabounds.name>Crew Area Bounds</sp.entityspawnercomponent.crewareabounds.name>
@@ -362,15 +351,15 @@
 <sp.entityspawnercomponent.spawntimerrange.name>Spawn Timer Range</sp.entityspawnercomponent.spawntimerrange.name>
 <sp.entityspawnercomponent.spawntimerrange.description>Time range between spawn attempts in seconds. Set both to a negative value to disable automatic spawning.</sp.entityspawnercomponent.spawntimerrange.description>
 <sp.entityspawnercomponent.spawnamountrange.name>Spawn Amount Range</sp.entityspawnercomponent.spawnamountrange.name>
-<sp.entityspawnercomponent.spawnamountrange.description>Minumum and maximum amount of items or creatures to spawn in one attempt</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.spawnamountrange.description>Minimum and maximum amount of items or creatures to spawn in one attempt</sp.entityspawnercomponent.spawnamountrange.description>
 <sp.entityspawnercomponent.maximumamount.name>Maximum Amount</sp.entityspawnercomponent.maximumamount.name>
 <sp.entityspawnercomponent.maximumamount.description>Total maximum amount of items or creatures that can be spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamount.description>
 <sp.entityspawnercomponent.maximumamountinarea.name>Maximum Amount In Area</sp.entityspawnercomponent.maximumamountinarea.name>
 <sp.entityspawnercomponent.maximumamountinarea.description>Amount of items or creatures in the spawn area that will prevent further items or creatures from being spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamountinarea.description>
 <sp.entityspawnercomponent.maximumamountrangepadding.name>Maximum Amount Range Padding</sp.entityspawnercomponent.maximumamountrangepadding.name>
-<sp.entityspawnercomponent.maximumamountrangepadding.description>Inflate the circle of rectangle by this value to extend the area that counts towards the maximum amount of items or enemies to be spawned</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>Inflate the circle or rectangle by this value to extend the area that counts toward the maximum amount of items or enemies to be spawned</sp.entityspawnercomponent.maximumamountrangepadding.description>
 <sp.holdable.holdpos.name>Hold Pos</sp.holdable.holdpos.name>
-<sp.holdable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forwards.</sp.holdable.holdpos.description>
+<sp.holdable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forward.</sp.holdable.holdpos.description>
 <sp.holdable.holdangle.name>Hold Angle</sp.holdable.holdangle.name>
 <sp.holdable.holdangle.description>The rotation at which the character holds the item (in degrees, relative to the rotation of the character's hand).</sp.holdable.holdangle.description>
 <sp.holdable.swingamount.name>Swing Amount</sp.holdable.swingamount.name>
@@ -382,7 +371,7 @@
 <sp.holdable.swingwhenaiming.name>Swing When Aiming</sp.holdable.swingwhenaiming.name>
 <sp.holdable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.holdable.swingwhenaiming.description>
 <sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
-<sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.holdable.swingwhenusing.description>
+<sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or operating a welding tool).</sp.holdable.swingwhenusing.description>
 <sp.holdable.disableheadrotation.name>Disable Head Rotation</sp.holdable.disableheadrotation.name>
 <sp.holdable.spritedepthwhendropped.name>Sprite Depth When Dropped</sp.holdable.spritedepthwhendropped.name>
 <sp.holdable.spritedepthwhendropped.description>Sprite depth that's used when the item is NOT attached to a wall.</sp.holdable.spritedepthwhendropped.description>
@@ -396,9 +385,9 @@
 <sp.itemlabel.ignorelocalization.description>Whether or not to skip localization and always display the raw value.</sp.itemlabel.ignorelocalization.description>
 <sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
 <sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
-<sp.lightcomponent.range.description>The range of the emitted light. Higher values are more performance-intensive.</sp.lightcomponent.range.description>
+<sp.lightcomponent.range.description>The range of the emitted light. Higher values are more performance intensive.</sp.lightcomponent.range.description>
 <sp.lightcomponent.castshadows.name>Cast Shadows</sp.lightcomponent.castshadows.name>
-<sp.lightcomponent.castshadows.description>Should structures cast shadows when light from this light source hits them. Disabling shadows increases the performance of the game, and is recommended for lights with a short range. Lights that are set to be drawn behind subs don't cast shadows, regardless of this setting.</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.castshadows.description>Whether structures should cast shadows when light from this light source hits them. Disabling shadows increases the performance of the game, and is recommended for lights with a short range. Lights that are set to be drawn behind subs don't cast shadows, regardless of this setting.</sp.lightcomponent.castshadows.description>
 <sp.lightcomponent.drawbehindsubs.name>Draw Behind Subs</sp.lightcomponent.drawbehindsubs.name>
 <sp.lightcomponent.drawbehindsubs.description>Lights drawn behind submarines don't cast any shadows and are much faster to draw than shadow-casting lights. It's recommended to enable this on decorative lights outside the submarine's hull.</sp.lightcomponent.drawbehindsubs.description>
 <sp.lightcomponent.ison.description>Is the light currently on.</sp.lightcomponent.ison.description>
@@ -414,7 +403,7 @@
 <sp.lightcomponent.blinkfrequency.description>How rapidly the light blinks on and off (in Hz). 0 = no blinking.</sp.lightcomponent.blinkfrequency.description>
 <sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
 <sp.controller.istoggle.name>Is Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
+<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal, and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
 <sp.controller.state.name>State</sp.controller.state.name>
 <sp.controller.state.description>Whether the item is toggled on/off. Only valid if IsToggle is set to true.</sp.controller.state.description>
 <sp.deconstructor.deconstructionspeed.name>Deconstruction Speed</sp.deconstructor.deconstructionspeed.name>
@@ -440,37 +429,37 @@
 <sp.reactor.maxpoweroutput.name>Max Power Output</sp.reactor.maxpoweroutput.name>
 <sp.reactor.maxpoweroutput.description>How much power (kW) the reactor generates when operating at full capacity.</sp.reactor.maxpoweroutput.description>
 <sp.reactor.meltdowndelay.name>Meltdown Delay</sp.reactor.meltdowndelay.name>
-<sp.reactor.meltdowndelay.description>How long the temperature has to stay critical until a meltdown occurs.</sp.reactor.meltdowndelay.description>
+<sp.reactor.meltdowndelay.description>How long the temperature has to stay critical before a meltdown occurs.</sp.reactor.meltdowndelay.description>
 <sp.reactor.firedelay.name>Fire Delay</sp.reactor.firedelay.name>
-<sp.reactor.firedelay.description>How long the temperature has to stay critical until the reactor catches fire.</sp.reactor.firedelay.description>
+<sp.reactor.firedelay.description>How long the temperature has to stay critical before the reactor catches fire.</sp.reactor.firedelay.description>
 <sp.reactor.fuelconsumptionrate.name>Fuel Consumption Rate</sp.reactor.fuelconsumptionrate.name>
 <sp.reactor.fuelconsumptionrate.description>How fast the condition of the contained fuel rods deteriorates per second.</sp.reactor.fuelconsumptionrate.description>
 <sp.reactor.explosiondamagesothersubs.name>Explosion Damages Other Subs</sp.reactor.explosiondamagesothersubs.name>
 <sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
 <sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
-<sp.sonar.centerontransducers.name>Center On Transducers</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.name>Center on Transducers</sp.sonar.centerontransducers.name>
 <sp.sonar.centerontransducers.description>Should the sonar view be centered on the transducers or the submarine's center of mass. Only has an effect if UseTransducers is enabled.</sp.sonar.centerontransducers.description>
 <sp.sonar.hasmineralscanner.name>Has Mineral Scanner</sp.sonar.hasmineralscanner.name>
-<sp.sonar.hasmineralscanner.description>Does the sonar have mineral scanning mode. </sp.sonar.hasmineralscanner.description>
+<sp.sonar.hasmineralscanner.description>Does the sonar have mineral scanning mode.</sp.sonar.hasmineralscanner.description>
 <sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
 <sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
 <sp.powercontainer.maxoutput.name>Max Output</sp.powercontainer.maxoutput.name>
 <sp.powercontainer.maxoutput.description>Maximum output of the device when fully charged (kW).</sp.powercontainer.maxoutput.description>
 <sp.powercontainer.capacity.name>Capacity</sp.powercontainer.capacity.name>
-<sp.powercontainer.capacity.description>The maximum capacity of the device (kW * min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
+<sp.powercontainer.capacity.description>The maximum capacity of the device (kW/min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
 <sp.powercontainer.charge.description>The current charge of the device.</sp.powercontainer.charge.description>
 <sp.powercontainer.maxrechargespeed.name>Max Recharge Speed</sp.powercontainer.maxrechargespeed.name>
-<sp.powercontainer.maxrechargespeed.description>How fast the device can be recharged. For example, a recharge speed of 100 kW and a capacity of 1000 kW*min would mean it takes 10 minutes to fully charge the device.</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.maxrechargespeed.description>How fast the device can be recharged. For example, a recharge speed of 100 kW and a capacity of 1000 kW/min would mean it takes 10 minutes to fully charge the device.</sp.powercontainer.maxrechargespeed.description>
 <sp.powercontainer.rechargespeed.name>Recharge Speed</sp.powercontainer.rechargespeed.name>
 <sp.powercontainer.rechargespeed.description>The current recharge speed of the device.</sp.powercontainer.rechargespeed.description>
 <sp.powercontainer.efficiency.name>Efficiency</sp.powercontainer.efficiency.name>
-<sp.powercontainer.efficiency.description>The amount of power you can get out of a item relative to the amount of power that's put into it.</sp.powercontainer.efficiency.description>
+<sp.powercontainer.efficiency.description>The amount of power you can get out of an item relative to the amount of power that's put into it.</sp.powercontainer.efficiency.description>
 <sp.PowerContainer.FlipIndicator.name>Flip Indicator</sp.PowerContainer.FlipIndicator.name>
-<sp.PowerContainer.FlipIndicator.description>Should the progress bar indicating the charge be flipped to fill from the other side.</sp.PowerContainer.FlipIndicator.description>  
+<sp.PowerContainer.FlipIndicator.description>Should the progress bar indicating the charge be flipped to fill from the other side.</sp.PowerContainer.FlipIndicator.description>
 <sp.powertransfer.canbeoverloaded.name>Can Be Overloaded</sp.powertransfer.canbeoverloaded.name>
 <sp.powertransfer.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.powertransfer.canbeoverloaded.description>
 <sp.powertransfer.overloadvoltage.name>Overload Voltage</sp.powertransfer.overloadvoltage.name>
-<sp.powertransfer.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before the item starts taking damage. E.g., a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.powertransfer.overloadvoltage.description>
 <sp.powertransfer.fireprobability.name>Fire Probability</sp.powertransfer.fireprobability.name>
 <sp.powertransfer.fireprobability.description>The probability for a fire to start when the item breaks.</sp.powertransfer.fireprobability.description>
 <sp.quality.qualitylevel.name>Quality Level</sp.quality.qualitylevel.name>
@@ -483,7 +472,7 @@
 <sp.repairable.mindeteriorationcondition.name>Min Deterioration Condition</sp.repairable.mindeteriorationcondition.name>
 <sp.repairable.mindeteriorationcondition.description>The item won't deteriorate spontaneously if the condition is below this value. For example, if set to 10, the condition will spontaneously drop to 10 and then stop dropping (unless the item is damaged further by external factors). Percentages of max condition.</sp.repairable.mindeteriorationcondition.description>
 <sp.repairable.repairthreshold.name>Repair Threshold</sp.repairable.repairthreshold.name>
-<sp.repairable.repairthreshold.description>The condition of the item has to be below this for it to become repairable. Percentages of max condition.</sp.repairable.repairthreshold.description>
+<sp.repairable.repairthreshold.description>The item's condition has to be below this before it becomes repairable. Percentages of max condition.</sp.repairable.repairthreshold.description>
 <sp.repairable.fixdurationlowskill.name>Fix Duration Low Skill</sp.repairable.fixdurationlowskill.name>
 <sp.repairable.fixdurationlowskill.description>The amount of time it takes to fix the item with insufficient skill levels.</sp.repairable.fixdurationlowskill.description>
 <sp.repairable.fixdurationhighskill.name>Fix Duration High Skill</sp.repairable.fixdurationhighskill.name>
@@ -497,7 +486,7 @@
 <sp.connectionpanel.locked.name>Locked</sp.connectionpanel.locked.name>
 <sp.connectionpanel.locked.description>Locked connection panels cannot be rewired in-game.</sp.connectionpanel.locked.description>
 <sp.memorycomponent.maxvaluelength.name>Max Value Length</sp.memorycomponent.maxvaluelength.name>
-<sp.memorycomponent.maxvaluelength.description>The maximum length of the stored value. Warning: Large values can lead to large memory usage or networking issues.</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.maxvaluelength.description>The maximum length of the stored value. Warning: Large values can lead to high memory usage or networking issues.</sp.memorycomponent.maxvaluelength.description>
 <sp.memorycomponent.writeable.name>Writeable</sp.memorycomponent.writeable.name>
 <sp.memorycomponent.writeable.description>Can the value stored in the memory component be changed via signals.</sp.memorycomponent.writeable.description>
 <sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
@@ -505,24 +494,24 @@
 <sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
 <sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
 <sp.motionsensor.detectoffset.name>Detect Offset</sp.motionsensor.detectoffset.name>
-<sp.motionsensor.detectoffset.description>The position to detect the movement at relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.detectoffset.description>The position to detect movement at, relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
 <sp.motionsensor.updateinterval.name>Update Interval</sp.motionsensor.updateinterval.name>
 <sp.motionsensor.updateinterval.description>How often the sensor checks if there's something moving near it. Higher values are better for performance.</sp.motionsensor.updateinterval.description>
 <sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
 <sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
 <sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>How fast the objects within the detector's range have to be moving (in m/s).</sp.motionsensor.minimumvelocity.description>
+<sp.motionsensor.minimumvelocity.description>How fast objects within the detector's range have to be moving (in m/s) before they're detected.</sp.motionsensor.minimumvelocity.description>
 <sp.terminal.welcomemessage.name>Welcome Message</sp.terminal.welcomemessage.name>
-<sp.terminal.welcomemessage.description>Message to be displayed on the terminal display when it is first opened.</sp.terminal.welcomemessage.description>
+<sp.terminal.welcomemessage.description>Message to be shown on the terminal display when it is first opened.</sp.terminal.welcomemessage.description>
 <sp.terminal.usemonospacefont.name>Use Monospace Font</sp.terminal.usemonospacefont.name>
 <sp.terminal.usemonospacefont.description>The terminal will use a monospace font if this box is ticked.</sp.terminal.usemonospacefont.description>
 <sp.textcolor.name>Text Color</sp.textcolor.name>
 <sp.terminal.textcolor.description>Color of the terminal text.</sp.terminal.textcolor.description>
 <sp.range.name>Range</sp.range.name>
-<sp.wificomponent.range.description>How close the recipient has to be to receive a signal from this WiFi component.</sp.wificomponent.range.description>
-<sp.wificomponent.allowcrossteamcommunication.name>Allow Cross Team Communication</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.range.description>How close the recipient has to be to receive a signal from this wifi component.</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>Allow Cross-Team Communication</sp.wificomponent.allowcrossteamcommunication.name>
 <sp.wificomponent.allowcrossteamcommunication.description>Can the component communicate with wifi components in another team's submarine (e.g. enemy sub in Combat missions, respawn shuttle). Needs to be enabled on both the component transmitting the signal and the component receiving it.</sp.wificomponent.allowcrossteamcommunication.description>
-<sp.wificomponent.linktochat.name>Link To Chat</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.name>Link to Chat</sp.wificomponent.linktochat.name>
 <sp.wificomponent.linktochat.description>If enabled, any signals received from another chat-linked wifi component are displayed as chat messages in the chatbox of the player holding the item.</sp.wificomponent.linktochat.description>
 <sp.wificomponent.minchatmessageinterval.name>Min Chat Message Interval</sp.wificomponent.minchatmessageinterval.name>
 <sp.wificomponent.minchatmessageinterval.description>How many seconds have to pass between signals for a message to be displayed in the chatbox. Setting this to a very low value is not recommended, because it may cause an excessive amount of chat messages to be created if there are chat-linked wifi components that transmit a continuous signal.</sp.wificomponent.minchatmessageinterval.description>
@@ -532,25 +521,25 @@
 <sp.wire.noautolock.description>If enabled, this wire will be ignored by the "Lock all default wires" setting.</sp.wire.noautolock.description>
 <sp.wire.usespritedepth.name>Use Sprite Depth</sp.wire.usespritedepth.name>
 <sp.wire.usespritedepth.description>If enabled, this wire will use the sprite depth instead of a constant depth.</sp.wire.usespritedepth.description>
-<sp.triggercomponent.force.description>The maximum amount of force applied to the triggering entitites.</sp.triggercomponent.force.description>
-<sp.triggercomponent.distancebasedforce.name>Distance Based Force</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.force.description>The maximum amount of force applied to the triggering entities.</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>Distance-Based Force</sp.triggercomponent.distancebasedforce.name>
 <sp.triggercomponent.distancebasedforce.description>Determines if the force gets higher the closer the triggerer is to the center of the trigger.</sp.triggercomponent.distancebasedforce.description>
 <sp.triggercomponent.forcefluctuation.name>Force Fluctuation</sp.triggercomponent.forcefluctuation.name>
 <sp.triggercomponent.forcefluctuation.description>Determines if the force fluctuates over time or if it stays constant.</sp.triggercomponent.forcefluctuation.description>
-<sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
+<sp.turret.hudtint.name>HUD Tint</sp.turret.hudtint.name>
 <sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
 <sp.turret.reload.name>Reload</sp.turret.reload.name>
 <sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
 <sp.turret.shotsperburst.name>Shots Per Burst</sp.turret.shotsperburst.name>
-<sp.turret.shotsperburst.description>How many projectiles needs to be shot before we add an extra break? Think of the double coilgun.</sp.turret.shotsperburst.description>
+<sp.turret.shotsperburst.description>How many projectiles need to be fired before there's an extra break. (Think of the double coilgun.)</sp.turret.shotsperburst.description>
 <sp.turret.delaybetweenbursts.name>Delay Between Bursts</sp.turret.delaybetweenbursts.name>
 <sp.turret.delaybetweenbursts.description>An extra delay between the bursts. Added to the reload.</sp.turret.delaybetweenbursts.description>
 <sp.turret.retractiondurationmultiplier.name>Retraction Duration Multiplier</sp.turret.retractiondurationmultiplier.name>
-<sp.turret.retractiondurationmultiplier.description>Modifies the duration of retraction of the barrell after recoil to get back to the original position after shooting. Reload time affects this too.</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.retractiondurationmultiplier.description>Modifies how long it takes for the barrel to get back to the original position after shooting. Reload time affects this, too.</sp.turret.retractiondurationmultiplier.description>
 <sp.turret.recoiltime.name>Recoil Time</sp.turret.recoiltime.name>
 <sp.turret.recoiltime.description>How quickly the recoil moves the barrel after launching.</sp.turret.recoiltime.description>
 <sp.turret.retractiondelay.name>Retraction Delay</sp.turret.retractiondelay.name>
-<sp.turret.retractiondelay.description>How long the barrell stays in place after the recoil and before retracting back to the original position.</sp.turret.retractiondelay.description>
+<sp.turret.retractiondelay.description>How long the barrel stays in place after the recoil and before retracting back to the original position.</sp.turret.retractiondelay.description>
 <sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
 <sp.turret.rotationlimits.description>The range at which the barrel can rotate.</sp.turret.rotationlimits.description>
 <sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
@@ -558,35 +547,34 @@
 <sp.turret.springstiffnesshighskill.name>Spring Stiffness High Skill</sp.turret.springstiffnesshighskill.name>
 <sp.turret.springstiffnesshighskill.description>How much torque is applied to rotate the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesshighskill.description>
 <sp.turret.springdampinglowskill.name>Spring Damping Low Skill</sp.turret.springdampinglowskill.name>
-<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more "snappy", stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more "snappy," stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
 <sp.turret.springdampinghighskill.name>Spring Damping High Skill</sp.turret.springdampinghighskill.name>
-<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more "snappy", stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
+<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more "snappy," stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
 <sp.turret.rotationspeedlowskill.name>Rotation Speed Low Skill</sp.turret.rotationspeedlowskill.name>
 <sp.turret.rotationspeedlowskill.description>Maximum angular velocity of the barrel when used by a character with insufficient skills to operate it.</sp.turret.rotationspeedlowskill.description>
 <sp.turret.rotationspeedhighskill.name>Rotation Speed High Skill</sp.turret.rotationspeedhighskill.name>
 <sp.turret.rotationspeedhighskill.description>Maximum angular velocity of the barrel when used by a character with sufficient skills to operate it.</sp.turret.rotationspeedhighskill.description>
 <sp.dockingport.maindockingport.name>Main Docking Port</sp.dockingport.maindockingport.name>
 <sp.dockingport.maindockingport.description>If set to true, this docking port is used when spawning the submarine docked to an outpost (if possible).</sp.dockingport.maindockingport.description>
-<sp.dockingport.applyeffectsondocking.name>Apply Effects On Docking</sp.dockingport.applyeffectsondocking.name>
-<sp.dockingport.applyeffectsondocking.description>Should the OnUse StatusEffects trigger when docking (on vanilla docking ports these effects emit particles and play a sound).)</sp.dockingport.applyeffectsondocking.description>
+<sp.dockingport.applyeffectsondocking.name>Apply Effects on Docking</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>Should the OnUse StatusEffects trigger when docking (on vanilla docking ports these effects emit particles and play a sound).</sp.dockingport.applyeffectsondocking.description>
 <sp.dockingport.forcedockingdirection.name>Force Docking Direction</sp.dockingport.forcedockingdirection.name>
 <sp.dockingport.forcedockingdirection.description>Which direction the port is allowed to dock in. For example, "Top" would mean the port can dock to another port above it. Normally there's no need to touch this setting, but if you notice the docking position is incorrect (for example due to some unusual docking port configuration without hulls or doors), you can use this to enforce the direction.</sp.dockingport.forcedockingdirection.description>
 <sp.meleeweapon.swing.name>Swing</sp.meleeweapon.swing.name>
 <sp.meleeweapon.swingpos.name>Swing Pos</sp.meleeweapon.swingpos.name>
 <sp.meleeweapon.swingforce.name>Swing Force</sp.meleeweapon.swingforce.name>
-<sp.swingforce.description></sp.swingforce.description>
 <sp.force.name>Force</sp.force.name>
 <sp.propulsion.force.description>The force to apply to the user's body.</sp.propulsion.force.description>
 <sp.oxygengenerator.generatedamount.name>Generated Amount</sp.oxygengenerator.generatedamount.name>
 <sp.oxygengenerator.generatedamount.description>How much oxygen the machine generates when operating at full power.</sp.oxygengenerator.generatedamount.description>
 <sp.booleanoperatorcomponent.output.description>The signal sent when the condition is met.</sp.booleanoperatorcomponent.output.description>
 <sp.booleanoperatorcomponent.falseoutput.description>The signal sent when the condition is met (if empty, no signal is sent).</sp.booleanoperatorcomponent.falseoutput.description>
-<sp.concatcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to large memory usage or networking load.</sp.concatcomponent.maxoutputlength.description>
+<sp.concatcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to high memory usage or networking load.</sp.concatcomponent.maxoutputlength.description>
 <sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
 <sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
 <sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
 <sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
-<sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: periodically sends out a signal of 1. Sawtooth: sends out a periodic wave that increases linearly from 0 to 1. Sine: sends out a sine wave oscillating between -1 and 1. Square: sends out a signal that alternates between 0 and 1. Triangle: sends out a wave that alternates between increasing linearly from -1 to 1 and decreasing from 1 to -1.</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.outputtype.description>What kind of signal the item outputs. Pulse: periodically sends out a signal of 1. Sawtooth: sends out a periodic wave that increases linearly from 0 to 1. Sine: sends out a sine wave oscillating between -1 and 1. Square: sends out a signal that alternates between 0 and 1. Triangle: sends out a wave that alternates between increasing linearly from -1 to 1 and decreasing from 1 to -1.</sp.oscillatorcomponent.outputtype.description>
 <sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
 <sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
 <sp.regexfindcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to large memory usage or networking issues.</sp.regexfindcomponent.maxoutputlength.description>
@@ -598,14 +586,13 @@
 <sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
 <sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
 <sp.maxoutputlength.name>Max Output Length</sp.maxoutputlength.name>
-<sp.maxoutputlength.description>The maximum length of the output strings. Warning: Large values can lead to large memory usage or networking issues.</sp.maxoutputlength.description>
+<sp.maxoutputlength.description>The maximum length of the output strings. Warning: Large values can lead to high memory usage or networking issues.</sp.maxoutputlength.description>
 <sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
 <sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
 
-
-<!-- Structure -->
+<!-- Entity names -->
 <entityname.hull>Hull</entityname.hull>
-<entitydescription.hull>Hull用於定義潛艇的 '內部空間'，普遍來說作為艙房的空間都會置於Hull的範圍之內。</entitydescription.hull>
+<entitydescription.hull>Hull用於定義潛艇的 "內部空間"，普遍來說作為艙房的空間都會置於Hull的範圍之內。</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
 <entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
 <entityname.waypoint>Waypoint</entityname.waypoint>
@@ -613,13 +600,13 @@
 <entityname.spawnpoint>Spawnpoint</entityname.spawnpoint>
 <entitydescription.spawnpoint>控制船員生成的位置。</entitydescription.spawnpoint>
 
+<!-- Structure names -->
 <entityname.horizontalresizablewindow>Window Horizontal Resizable</entityname.horizontalresizablewindow>
 <entityname.verticalresizablewindow>Window Vertical Resizable</entityname.verticalresizablewindow>
-  
 <entityname.ff_x_wall>Large Horizontal Inside Wall</entityname.ff_x_wall>
-<entityname.ff_x_wall_cables>Large Horizontal Inside Wall with Cables</entityname.ff_x_wall_cables>
+<entityname.ff_x_wall_cables>Large Horizontal Inside Wall With Cables</entityname.ff_x_wall_cables>
 <entityname.ff_y_wall>Large Vertical Inside Wall</entityname.ff_y_wall>
-<entityname.inwalll90cables>Large Vertical Inside Wall with Cables</entityname.inwalll90cables>
+<entityname.inwalll90cables>Large Vertical Inside Wall With Cables</entityname.inwalll90cables>
 <entitydescription.resizeablewallwithcollisiondetection>一面帶有碰撞的可縮放大型牆壁。</entitydescription.resizeablewallwithcollisiondetection>
 <entityname.inwalllcaph1>Large Inside Wall Cap H1</entityname.inwalllcaph1>
 <entityname.inwalllcaph2>Large Inside Wall Cap H2</entityname.inwalllcaph2>
@@ -657,7 +644,6 @@
 <entityname.roughbgwall>Back Wall Rough</entityname.roughbgwall>
 <entityname.cleanbgwall>Back Wall Clean</entityname.cleanbgwall>
 <entitydescription.backgroundwall>一個裝飾性背景牆。</entitydescription.backgroundwall>
-
 <entityname.exta_tail>Tail Fin Old A</entityname.exta_tail>
 <entitydescription.tailwithcollision>帶有碰撞的潛艇尾翼配件。</entitydescription.tailwithcollision>
 <entityname.tailfina>Tail Fin A</entityname.tailfina>
@@ -689,30 +675,25 @@
 <entityname.subfrontg2p1>Submarine Bow G Top</entityname.subfrontg2p1>
 <entityname.subfrontg2p2>Submarine Bow G Center</entityname.subfrontg2p2>
 <entityname.subfrontg2p3>Submarine Bow G Bottom</entityname.subfrontg2p3>
-
 <entitydescription.frontwithcollision>帶碰撞的潛艇前端配件。</entitydescription.frontwithcollision>
-  
 <entityname.frontfchaina1>Front Chain 1</entityname.frontfchaina1>
 <entityname.frontfchaina2>Front Chain 2</entityname.frontfchaina2>
 <entityname.frontpulley>Front Pulley</entityname.frontpulley>
-
 <entityname.shellaboard0dega>Metal Strip Horizontal Small</entityname.shellaboard0dega>
 <entityname.shellaboard0degb>Metal Strip Horizontal Large</entityname.shellaboard0degb>
 <entityname.shellaboard90dega>Metal Strip Vertical Small</entityname.shellaboard90dega>
 <entityname.shellaboard90degb>Metal Strip Vertical Large</entityname.shellaboard90degb>
-  
 <entityname.leftwall>Basic Wall Left</entityname.leftwall>
 <entityname.LeftWallHeavy>Heavy Wall Left</entityname.LeftWallHeavy>
 <entityname.rightwall>Basic Wall Right</entityname.rightwall>
 <entityname.RightWallHeavy>Heavy Wall Right</entityname.RightWallHeavy>
 <entityname.topwall>Basic Wall Top</entityname.topwall>
 <entityname.TopWallHeavy>Heavy Wall Top</entityname.TopWallHeavy>
-  
 <entityname.shella90deg>Shell A 90 Degrees</entityname.shella90deg>
 <entityname.shella16deg>Shell A 16 Degrees</entityname.shella16deg>
 <entityname.shella34deg>Shell A 34 Degrees</entityname.shella34deg>
 <entityname.shella0deg>Shell A 0 Degrees</entityname.shella0deg>
-<entityname.shella04deg>Shell A 04 Degrees</entityname.shella04deg>
+<entityname.shella04deg>Shell A 4 Degrees</entityname.shella04deg>
 <entityname.shella14adeg>Shell A 14 Degrees</entityname.shella14adeg>
 <entityname.shella52deg>Shell A 52 Degrees</entityname.shella52deg>
 <entityname.shella16degb>Shell A 16 Degrees B</entityname.shella16degb>
@@ -742,12 +723,10 @@
 <entityname.shellacombo11>Shell A Combo 1 1</entityname.shellacombo11>
 <entityname.shellacombo12>Shell A Combo 1 2</entityname.shellacombo12>
 <entitydescription.exteriorshell>潛艇外牆。</entitydescription.exteriorshell>
-
 <entityname.shellacap0dega>Shell A Cap Horizontal Round</entityname.shellacap0dega>
 <entityname.shellacap0degb>Shell A Cap Horizontal Square</entityname.shellacap0degb>
 <entityname.shellacap90dega>Shell A Cap Vertical Round</entityname.shellacap90dega>
 <entityname.shellacap90degb>Shell A Cap Vertical Square</entityname.shellacap90degb>  
-  
 <entityname.sshella01>Shuttle Shell A01</entityname.sshella01>
 <entityname.sshella02>Shuttle Shell A02</entityname.sshella02>
 <entityname.sshella04>Shuttle Shell A04</entityname.sshella04>
@@ -793,7 +772,6 @@
 <entityname.sshellaglasse>Shuttle Shell A Glass E</entityname.sshellaglasse>
 <entityname.sshellaglassf>Shuttle Shell A Glass F</entityname.sshellaglassf>
 <entitydescription.exteriorshuttleshell>小艇外牆。</entitydescription.exteriorshuttleshell>
-
 <entityname.ventbendducta1>Vent Bend Duct A1</entityname.ventbendducta1>
 <entityname.ventbendducta2>Vent Bend Duct A2</entityname.ventbendducta2>
 <entityname.ventconnectora1>Vent Connector A1</entityname.ventconnectora1>
@@ -844,7 +822,6 @@
 <entityname.ventpipecapa1>Vent Pipe Cap A1</entityname.ventpipecapa1>
 <entityname.ventpipecapa190deg>Vent Pipe  Cap A1 Vertical</entityname.ventpipecapa190deg>
 <entityname.ventsmallductreducera>Vent Small Duct Reducer A</entityname.ventsmallductreducera>
-
 <entityname.sshellalightsa>Shuttle Lights A</entityname.sshellalightsa>
 <entityname.sshellaplatea>Shuttle Plate A</entityname.sshellaplatea>
 <entityname.sshellaplateb>Shuttle Plate B</entityname.sshellaplateb>
@@ -860,7 +837,6 @@
 <entityname.sshellagromitc>Shuttle Gromit C</entityname.sshellagromitc>
 <entityname.sshellagromitd>Shuttle Gromit D</entityname.sshellagromitd>
 <entitydescription.decorativeshuttlepiece>一個裝飾性小艇配件。</entitydescription.decorativeshuttlepiece>
-
 <entityname.finabelt01>Fin Wing Belt 1</entityname.finabelt01>
 <entityname.finabelt02>Fin Wing Belt 2</entityname.finabelt02>
 <entityname.finabelt03>Fin Wing Belt 3</entityname.finabelt03>
@@ -967,7 +943,6 @@
 <entityname.finawingpart54>Fin Wing Curve B 2</entityname.finawingpart54>
 <entityname.finawingpart55>Fin Wing Curve C 1 </entityname.finawingpart55>
 <entityname.finawingpart56>Fin Wing Curve C 2</entityname.finawingpart56>
-   
 <entityname.finawingpart17>Fin Wing Part 1</entityname.finawingpart17>
 <entityname.finawingpart18>Fin Wing Part 2</entityname.finawingpart18>
 <entityname.finawingpart21>Fin Wing Part 3</entityname.finawingpart21>
@@ -991,7 +966,6 @@
 <entityname.finawingpart70>Fin Wing Part 21</entityname.finawingpart70>
 <entityname.finawingpart71>Fin Wing Part 22</entityname.finawingpart71>
 <entityname.finawingpart73>Fin Wing Part 23</entityname.finawingpart73>
-
 <entityname.largehorizontalback>Large Horizontal Back</entityname.largehorizontalback>
 <entityname.smallhorizontalback>Small Horizontal Back</entityname.smallhorizontalback>
 <entityname.largeverticalback>Large Vertical Back</entityname.largeverticalback>
@@ -999,7 +973,6 @@
 <entityname.smallverticalback>Small Vertical Back</entityname.smallverticalback>
 <entityname.smallverticalback2>Small Vertical Back 2</entityname.smallverticalback2>
 <entitydescription.decorativestructure>一個不帶碰撞的裝飾性結構配件。</entitydescription.decorativestructure>
-
 <entityname.doorlabel>Door Label</entityname.doorlabel>
 <entityname.engineeringlabel>Engineering Label</entityname.engineeringlabel>
 <entityname.commandlabel>Command Label</entityname.commandlabel>
@@ -1103,26 +1076,20 @@
 <entityname.labelsarrowhorizontala>Label Arrow Horizontal A</entityname.labelsarrowhorizontala>
 <entityname.labelsarrowhorizontalb>Label Arrow Horizontal B</entityname.labelsarrowhorizontalb>
 <entityname.decorativelabel>A decorative label.</entityname.decorativelabel>
-
 <entityname.cableholderhorizontal>Cable Holder Horizontal</entityname.cableholderhorizontal>
 <entityname.cableholdervertical>Cable Holder Vertical</entityname.cableholdervertical>
 <entitydescription.cableholder>用於整齊擺設電線的裝飾性配件。</entitydescription.cableholder>
-
 <entityname.topwindow>Window Top</entityname.topwindow>
 <entityname.verticalwindow>Window Vertical</entityname.verticalwindow>
-
 <entityname.largeplatform>Platform Large</entityname.largeplatform>
 <entityname.platform>Platform Basic</entityname.platform>
 <entitydescription.platform>供角色行走與上下移動的平台。</entitydescription.platform>
-
 <entityname.slopeforward>Slope Forwards</entityname.slopeforward>
 <entityname.slopeback>Slope Backwards</entityname.slopeback>
 <entitydescription.decorativepiece>一個裝飾性配件。</entitydescription.decorativepiece>
-
 <entityname.stairs>Stairs</entityname.stairs>
 <entityname.stairsshort>Stairs Short</entityname.stairsshort>
 <entityname.stairslong>Stairs Long</entityname.stairslong>
-
 <entityname.ruinwallhorizontal>Ruin Wall Horizontal</entityname.ruinwallhorizontal>
 <entityname.ruinwallvertical>Ruin Wall Vertical</entityname.ruinwallvertical>
 <entityname.ruinwallheavyhorizontal>Ruin Wall Heavy Horizontal</entityname.ruinwallheavyhorizontal>
@@ -1131,10 +1098,7 @@
 <entityname.ruinwallverticalsmall>Ruin Wall Small Vertical</entityname.ruinwallverticalsmall>
 <entityname.ruinback>Ruin Back Wall Basic</entityname.ruinback>
 <entityname.ruinprop>Ruin Prop</entityname.ruinprop>
-  
 <entityname.bunk>床鋪</entityname.bunk>
-
-<!--Outpost decorative structures-->
 <entityname.opdeco_weaponstoragesuit1>Outfit Display Case</entityname.opdeco_weaponstoragesuit1>
 <entityname.op_weaponstoragesmall>Small Weapons Display Case</entityname.op_weaponstoragesmall>
 <entityname.op_weaponstoragemedium>Medium Weapons Display Case</entityname.op_weaponstoragemedium>
@@ -1206,7 +1170,7 @@
 <entityname.op_cafeteriaposter>Cafeteria Poster</entityname.op_cafeteriaposter>
 <entityname.op_cafeteriacart>Cafeteria Cart</entityname.op_cafeteriacart>
 <entityname.op_gardenproducebox>Produce Boxes</entityname.op_gardenproducebox>
-<entityname.op_gardenbags>Bags of soil</entityname.op_gardenbags>
+<entityname.op_gardenbags>Bags of Soil</entityname.op_gardenbags>
 <entityname.op_gardenposter>Garden Poster</entityname.op_gardenposter>
 <entityname.table>Table</entityname.table>
 <entityname.Target>Target</entityname.Target>
@@ -1227,8 +1191,6 @@
 <entityname.op_shower>Shower Set</entityname.op_shower>
 <entityname.op_painting1>Framed Painting</entityname.op_painting1>
 <entityname.op_wetsign>Cleaning Sign</entityname.op_wetsign>
-
-<!--Outpost structures-->
 <entityname.FF_Wall_I1>Outpost Wall 1</entityname.FF_Wall_I1>
 <entityname.FF_Wall_I2>Outpost Wall 2</entityname.FF_Wall_I2>
 <entityname.FF_Wall_I3>Outpost Wall 3</entityname.FF_Wall_I3>
@@ -1265,10 +1227,10 @@
 <entityname.opbg_manageroffice3>Outpost Manager's Office Background 3</entityname.opbg_manageroffice3>
 <entityname.opbg_dorm1>Outpost Dorm Background</entityname.opbg_dorm1>
 <entityname.opbg_messhall1>Outpost Mess Hall Background</entityname.opbg_messhall1>
-<entityname.opdeco_nuclearsign>Nuclear sign</entityname.opdeco_nuclearsign>
-<entityname.opdeco_instructionsign>Instruction sign</entityname.opdeco_instructionsign>
+<entityname.opdeco_nuclearsign>Nuclear Sign</entityname.opdeco_nuclearsign>
+<entityname.opdeco_instructionsign>Instruction Sign</entityname.opdeco_instructionsign>
 <entityname.opdeco_propagandaposter>Propaganda Banner</entityname.opdeco_propagandaposter>
-<entityname.crackedwall1>Cracked wall decal</entityname.crackedwall1>
+<entityname.crackedwall1>Cracked Wall Decal</entityname.crackedwall1>
 <entityname.graffiti1>Graffiti</entityname.graffiti1>
 <entityname.icewall>Tunnel Ice Wall</entityname.icewall>
 <entityname.icewallcracked>Tunnel Ice Wall Cracked</entityname.icewallcracked>
@@ -1291,10 +1253,10 @@
 <entityname.opdeco_icecube>Ice Cube</entityname.opdeco_icecube>
 <entityname.opdeco_icepillar>Ice Pillar</entityname.opdeco_icepillar>
 <entityname.opdeco_monitor>Monitor</entityname.opdeco_monitor>
-<entityname.decowire1>Decorative wire</entityname.decowire1>
-<entityname.decopanel1>Decorative panel</entityname.decopanel1>
-<entityname.decocolumn1>Decorative column</entityname.decocolumn1>
-<entityname.decobarrier1>Protective barrier</entityname.decobarrier1>
+<entityname.decowire1>Decorative Wire</entityname.decowire1>
+<entityname.decopanel1>Decorative Panel</entityname.decopanel1>
+<entityname.decocolumn1>Decorative Column</entityname.decocolumn1>
+<entityname.decobarrier1>Protective Barrier</entityname.decobarrier1>
 <entityname.opbg_jail>White Prison</entityname.opbg_jail>
 <entityname.opbg_rock>Rock Background</entityname.opbg_rock>
 <entityname.opdeco_prisonbed>Prison Bed</entityname.opdeco_prisonbed>
@@ -1306,8 +1268,9 @@
 <entityname.Jaildoor>Jail Door</entityname.Jaildoor>
 <entityname.shelf>Shelf</entityname.shelf>
 
+<!-- The following texts are only used in "hidden editors" only accessible by console commands and intended for very advanced modders (and the devs), these don't need to be localized -->
 
-<!-- Sprite Editor -->
+<!-- Sprite editor -->
 <spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
 <spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
 <spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
@@ -1346,13 +1309,12 @@
 <eventeditor.opentextheader>Open event</eventeditor.opentextheader>
 <eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
 <eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
-<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined so they have been automatically generated.</eventeditor.randomgenerationbody>
+<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined, so they have been automatically generated.</eventeditor.randomgenerationbody>
 
-
-<!-- Particle Editor -->
+<!-- Particle editor -->
 <particleeditor.emitter>Emitter</particleeditor.emitter>
 
-<!-- Level Editor -->
+<!-- Level editor -->
 <leveleditor.levelseed>Level Seed</leveleditor.levelseed>
 <leveleditor.generate>Generate</leveleditor.generate>
 <leveleditor.test>Test</leveleditor.test>
@@ -1380,5 +1342,4 @@
 <leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
 <leveleditor.allsaved>All changes saved</leveleditor.allsaved>
 
-
-<!-- </infotexts> -->
+</infotexts>
