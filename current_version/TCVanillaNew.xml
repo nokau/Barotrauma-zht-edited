@@ -1,11 +1,14 @@
 <!-- EnglishVanillaNew.xml -->
 <!-- edited by nokau for v0.20.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7367), EnglishVanillaEditorTexts.xml (7368~8752), EnglishVanilla EnglishVanillaNew.xml (8753~8764) -->
+<!-- INDEX: EnglishVanilla.xml (1~7360), EnglishVanilla EnglishVanillaNew.xml (7361~7375) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
-<!-- Modified values after November 7 (December pre-patch) -->
-
-<talentdescription.emergencyresponse>當任何船員失去意識時你的移動速度增加[movementspeed]%。</talentdescription.emergencyresponse>
+<!-- Modified values after January 11 (These are missing from the latest localization pass) -->
+  
+<entitydescription.morbusine>一種強效的神經毒素，最終會導致肺部和肌肉停止擺，有效地阻礙運動。</entitydescription.morbusine>
+<entitydescription.cyanide>一種高毒性化學物，一旦給予足夠劑量就會導致迅速死亡。</entitydescription.cyanide>
+<entitydescription.radiotoxin>一種高放射性物質，會導致輻射病，最終使內臟器官液化。</entitydescription.radiotoxin>
+<entitydescription.sufforin>一種善於隱身的神經毒素，中毒初期沒有症狀。會導致失明，最終死亡。</entitydescription.sufforin>
 
 </infotexts>
