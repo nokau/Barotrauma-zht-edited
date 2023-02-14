@@ -18,7 +18,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - Main menu UI
 - Gameplay UI
 - Editor UIs
-- Names and descriptions of in-game interactable devices, items
+- Names and descriptions of devices, items
 - Events and missions
 - NPC conversations
 
