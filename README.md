@@ -35,14 +35,14 @@
 # 專案中的檔案
 在此專案中的 [current_version](./current_version) 資料夾裡:
 
-- NpcConversations_TraditionalChinese.xml
+- **NpcConversations_TraditionalChinese.xml**
   - 這個檔案包含了編輯過的NPC對話。
   - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 
-- TraditionalChineseVanilla.xml
+- **TraditionalChineseVanilla.xml**
   - 這個檔案包含了 EnglishVanilla.xml、EnglishVanillaNew.xml 的檔案內容，為任務與UI等文本。
   - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- TraditionalChineseVanillaEditorTexts.xml
+- **TraditionalChineseVanillaEditorTexts.xml**
   - 這個檔案包含了與編輯器相關的文本內容。
   - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 
