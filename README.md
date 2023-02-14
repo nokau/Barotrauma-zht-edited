@@ -35,6 +35,8 @@
 # 專案中的檔案
 在此專案中的 [current_version](./current_version) 資料夾裡:
 
+有 6 個檔案
+
 - **NpcConversations_TraditionalChinese.xml**
   - 這個檔案包含了編輯過的NPC對話。
   - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
