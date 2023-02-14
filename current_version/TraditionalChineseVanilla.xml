@@ -709,7 +709,7 @@
 <restart>重新開始</restart>
 
 <!-- Editor -->
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
+<charactereditor.contentpackagenameinuse>已有相同名稱的內容套件存在。請使用其他名稱或自下拉選單中選擇該內容套件並將角色加入其中。</charactereditor.contentpackagenameinuse>
 <charactereditor.crouch>Crouch</charactereditor.crouch>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
@@ -758,7 +758,7 @@
 <loadautosavetooltip>從最新的自動存檔回復。</loadautosavetooltip>
 <autosaved>自動存檔。</autosaved>
 <wirelistformat>[item] ([pin])</wirelistformat>
-<entitymenutoggletooltip>Toggle entity menu</entitymenutoggletooltip>
+<entitymenutoggletooltip>切換Entity Menu</entitymenutoggletooltip>
 <testsubbutton>測試</testsubbutton>
 <pausemenureturntoeditor>返回編輯器</pausemenureturntoeditor>
 <gamemode.subtest>潛艇測試模式</gamemode.subtest>
@@ -768,42 +768,42 @@
 <savesubtospecialfolderprompt>你已將潛艇設為 '[type]'，你想要將檔案儲存至 '[outpostpath]' 而非預設的Submarines資料夾嗎？</savesubtospecialfolderprompt>
 <addtocontentpackageprompt>你要加入這個檔案至 '[packagename]' 內容套件嗎？</addtocontentpackageprompt>
 <editor.selectsame>選取同類型物件</editor.selectsame>
-<sp.regexfindcomponent.usecapturegroup.name>Use capture group</sp.regexfindcomponent.usecapturegroup.name>
-<sp.regexfindcomponent.usecapturegroup.description>Should the component output a value of a named capture group.</sp.regexfindcomponent.usecapturegroup.description>
-<sp.regexfindcomponent.output.description>The signal this item outputs when the received signal matches the target signal or the name of the capture group to use as a signal.</sp.regexfindcomponent.output.description>
-<sp.nametag.writtenname.name>Name</sp.nametag.writtenname.name>
-<sp.nametag.writtenname.description>Name written on the tag.</sp.nametag.writtenname.description>
-<sp.item.rotation.name>Rotation</sp.item.rotation.name>
-<sp.colorcomponent.usehsv.name>Use HSV</sp.colorcomponent.usehsv.name>
-<sp.colorcomponent.usehsv.description>When enabled makes the component translate the signal from HSV into RGB where red is the hue between 0 and 360, green is the saturation between 0 and 1 and blue is the value between 0 and 1.</sp.colorcomponent.usehsv.description>
-<lightcomponent.lightcolor>Color</lightcomponent.lightcolor>
-<sp.memorycomponent.value.description>The currently stored signal the item outputs.</sp.memorycomponent.value.description>
-<sp.motionsensor.target.name>Target</sp.motionsensor.target.name>
-<sp.motionsensor.target.description>Which kind of targets can trigger the sensor?</sp.motionsensor.target.description>
-<sp.wificomponent.channel.description>WiFi components can only communicate with components that use the same channel.</sp.wificomponent.channel.description>
-<sp.arithmeticcomponent.clampmin.name>Clamp min</sp.arithmeticcomponent.clampmin.name>
-<sp.arithmeticcomponent.clampmin.description>The output of the item is restricted above this value.</sp.arithmeticcomponent.clampmin.description>
-<sp.arithmeticcomponent.clampmax.name>Clamp max</sp.arithmeticcomponent.clampmax.name>
-<sp.arithmeticcomponent.clampmax.description>The output of the item is restricted below this value.</sp.arithmeticcomponent.clampmax.description>
-<sp.concatcomponent.separator.name>Separator</sp.concatcomponent.separator.name>
-<sp.concatcomponent.separator.description>Symbol(s) to place between the input strings.</sp.concatcomponent.separator.description>
-<falseoutput>False output</falseoutput>
-<timeframe>Timeframe</timeframe>
-<timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time</timeframe.description>
-<sp.equalscomponent.output.description>The signal sent when the received inputs are equal (if empty, no signal is sent).</sp.equalscomponent.output.description>
-<sp.equalscomponent.falseoutput.description>The signal sent when the received inputs are not equal (if empty, no signal is sent).</sp.equalscomponent.falseoutput.description>
-<sp.exponentiationcomponent.exponent.name>Exponent</sp.exponentiationcomponent.exponent.name>
-<sp.exponentiationcomponent.exponent.description>The exponent of the operation.</sp.exponentiationcomponent.exponent.description>
-<sp.modulocomponent.modulus.name>Modulus</sp.modulocomponent.modulus.name>
-<sp.modulocomponent.modulus.description>The modulus of the operation. Must be non-zero.</sp.modulocomponent.modulus.description>
-<sp.regexfindcomponent.modulus.name>Modulus</sp.regexfindcomponent.modulus.name>
-<sp.regexfindcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the regular expression.</sp.regexfindcomponent.falseoutput.description>
-<continuousoutput.description>Should the component keep sending the output even after it stops receiving a signal, or only send an output when it receives a signal.</continuousoutput.description>
-<sp.regexfindcomponent.expression.description>The regular expression used to check the incoming signals.</sp.regexfindcomponent.expression.description>
-<sp.smokedetector.output.description>The signal the item outputs when it has detected a fire.</sp.smokedetector.output.description>
-<sp.smokedetector.falseoutput.description>The signal the item outputs when it has not detected a fire.</sp.smokedetector.falseoutput.description>
-<sp.trigonometricfunctioncomponent.useradians.name>Use radians</sp.trigonometricfunctioncomponent.useradians.name>
-<sp.trigonometricfunctioncomponent.useradians.description>If set to true, the trigonometric function uses radians instead of degrees.</sp.trigonometricfunctioncomponent.useradians.description>
+<sp.regexfindcomponent.usecapturegroup.name>使用Capture Group</sp.regexfindcomponent.usecapturegroup.name>
+<sp.regexfindcomponent.usecapturegroup.description>此元件是否輸出Named Capture Group。</sp.regexfindcomponent.usecapturegroup.description>
+<sp.regexfindcomponent.output.description>當所收到的訊號符合目標訊號時所輸出的值，或使用Named Capture Group的名稱將Capture Group作為輸出的值。</sp.regexfindcomponent.output.description>
+<sp.nametag.writtenname.name>名稱</sp.nametag.writtenname.name>
+<sp.nametag.writtenname.description>寫在名牌上的名字。</sp.nametag.writtenname.description>
+<sp.item.rotation.name>旋轉</sp.item.rotation.name>
+<sp.colorcomponent.usehsv.name>使用HSV</sp.colorcomponent.usehsv.name>
+<sp.colorcomponent.usehsv.description>啟用時將轉換此元件的RGB輸出為HSV，R為0至360的色相、G為0至1的飽和度，B為0至1的明度。</sp.colorcomponent.usehsv.description>
+<lightcomponent.lightcolor>色彩</lightcomponent.lightcolor>
+<sp.memorycomponent.value.description>儲存此物件中的輸出訊號。</sp.memorycomponent.value.description>
+<sp.motionsensor.target.name>目標</sp.motionsensor.target.name>
+<sp.motionsensor.target.description>哪種目標物能夠觸發偵測器？</sp.motionsensor.target.description>
+<sp.wificomponent.channel.description>只能與使用相同頻道的WiFi元件進行通信。</sp.wificomponent.channel.description>
+<sp.arithmeticcomponent.clampmin.name>鉗制最小值</sp.arithmeticcomponent.clampmin.name>
+<sp.arithmeticcomponent.clampmin.description>此物件的輸出被限制在此值以上。</sp.arithmeticcomponent.clampmin.description>
+<sp.arithmeticcomponent.clampmax.name>鉗制最大值</sp.arithmeticcomponent.clampmax.name>
+<sp.arithmeticcomponent.clampmax.description>此物件的輸出被限制在此值以下。</sp.arithmeticcomponent.clampmax.description>
+<sp.concatcomponent.separator.name>分隔符號</sp.concatcomponent.separator.name>
+<sp.concatcomponent.separator.description>用以分隔所收到字串的符號。</sp.concatcomponent.separator.description>
+<falseoutput>False輸出</falseoutput>
+<timeframe>時間範圍</timeframe>
+<timeframe.description>此物件的所有input必須在此時間範圍內同時收到訊號才會輸出訊號。若設為 0，則所有input必須同時收到訊號。</timeframe.description>
+<sp.equalscomponent.output.description>當所收到訊號相等時所輸出的值 (若為空白則不輸出訊號)。</sp.equalscomponent.output.description>
+<sp.equalscomponent.falseoutput.description>當所收到訊號不相等時所輸出的值 (若為空白則不輸出訊號)。</sp.equalscomponent.falseoutput.description>
+<sp.exponentiationcomponent.exponent.name>指數</sp.exponentiationcomponent.exponent.name>
+<sp.exponentiationcomponent.exponent.description>進行操作的指數。</sp.exponentiationcomponent.exponent.description>
+<sp.modulocomponent.modulus.name>模數</sp.modulocomponent.modulus.name>
+<sp.modulocomponent.modulus.description>進行操作的模數。不可為零。</sp.modulocomponent.modulus.description>
+<sp.regexfindcomponent.modulus.name>模數</sp.regexfindcomponent.modulus.name>
+<sp.regexfindcomponent.falseoutput.description>當所收到訊號與規則運算式不符時所輸出的值。</sp.regexfindcomponent.falseoutput.description>
+<continuousoutput.description>此元件是否在收到訊號停止後持續輸出，或僅在收到訊號時進行輸出。</continuousoutput.description>
+<sp.regexfindcomponent.expression.description>用以檢查所輸入訊號的規則運算式。</sp.regexfindcomponent.expression.description>
+<sp.smokedetector.output.description>當偵測到火焰時物件輸出的訊號。</sp.smokedetector.output.description>
+<sp.smokedetector.falseoutput.description>當未偵測到火焰時物件輸出的訊號。</sp.smokedetector.falseoutput.description>
+<sp.trigonometricfunctioncomponent.useradians.name>使用弧度</sp.trigonometricfunctioncomponent.useradians.name>
+<sp.trigonometricfunctioncomponent.useradians.description>啟用時，三角函數將使用弧度而非角度。</sp.trigonometricfunctioncomponent.useradians.description>
 <editor.undohistorybutton>歷史</editor.undohistorybutton>
 <undo.beginning>Beginning</undo.beginning>
 <undo.beginningtooltip>回復歷史的最開頭。</undo.beginningtooltip>
@@ -3319,7 +3319,7 @@
 <label.armory>軍械室</label.armory>
 <label.batteryoutput>蓄電池輸出</label.batteryoutput>
 <label.onoff>On/Off</label.onoff>
-<label.bilge>艙底</label.bilge>
+<label.bilge>底艙</label.bilge>
 <label.powermainline>主要電纜</label.powermainline>
 <label.command>指揮室</label.command>
 <label.engine>引擎</label.engine>
@@ -4740,7 +4740,7 @@
 <tutorial.skiptotutorial>跳至教學。</tutorial.skiptotutorial>
 
 <!-- Job descriptions -->
-<tutorial.mechanictitle>技師──膠水、膠帶、和你緊繃的神經是船員生存的最後保障。</tutorial.mechanictitle><!--source error?-->
+<tutorial.mechanictitle>技師──膠水、膠帶、和你緊繃的神經是船員生存的最後保障。</tutorial.mechanictitle><!--source error fixed-->
 <tutorial.mechanicdescription>為了使計畫持去進行，要維持設備正常運行比人類想離開這顆星球還難。你沒有休息時間，因為設備隨時會、終究會故障，就算沒有，你也得不停保養、保養、保養。最重要的是要抵達下一個目的地，而你功不可沒。別指望你的「好同事」們會感激你，他們只會講講風涼話──但是沒有關係，這艘船也是你的生活空間，如果他們太超過...希望你不會突然搞砸。</tutorial.mechanicdescription>
 <tutorial.mechanicresponsibilities>職責\n-設備維護\n-修復漏洞</tutorial.mechanicresponsibilities>
 <tutorial.engineertitle>工程師──操縱著自然能量的人。</tutorial.engineertitle>
@@ -6046,7 +6046,7 @@
 <eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>「直到他又逃走之前確實是好消息。」一個聲音響起，休息時間結束了。那位工人收起報紙起步向碼頭走去，「我聽說如果有人能將他繩之以法的話可以拿到一筆獎勵」他邊走邊喊。</eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>
 <eventtext.assassinationofjacovsubra2.o2>「他幹了什麼好事？」</eventtext.assassinationofjacovsubra2.o2>
 <eventtext.assassinationofjacovsubra2.o3>「別向我搭話、廢物。」</eventtext.assassinationofjacovsubra2.o3>
-<eventtext.assassinationofjacovsubra3.c1>「歡迎來到一年一度的『軟體動物教會』慶典！我們邀請了: Sonata Aquatica、Jethro Hull、Irma-Donna、Draft Bunk等諸多名人！還有特別來賓Sacov Jubra！」「軟體動物」幾個字寫在底下潦草的「畫皮」之上，看來這個慶典就辦在附近。一個經過的人驚呼:「Draft Bunk要來耶！太讚了！」</eventtext.assassinationofjacovsubra3.c1><!--source error?-->
+<eventtext.assassinationofjacovsubra3.c1>「歡迎來到一年一度的『軟體動物教會』慶典！我們邀請了: Sonata Aquatica、Jethro Hull、Irma-Donna、Draft Bunk等諸多名人！還有特別來賓Sacov Jubra！」「軟體動物」幾個字寫在底下潦草的「畫皮」之上，看來這個慶典就辦在附近。一個經過的人驚呼:「Draft Bunk要來耶！太讚了！」</eventtext.assassinationofjacovsubra3.c1><!--source error  fixed-->
 <eventtext.assassinationofjacovsubra3.o1>真有趣。</eventtext.assassinationofjacovsubra3.o1>
 <eventtext.assassinationofjacovsubra4.c1>「你永遠也別想抓到我！」</eventtext.assassinationofjacovsubra4.c1>
 <eventtext.assassinationofjacovsubra4.o1>「放棄吧Jacov！跟我走！」</eventtext.assassinationofjacovsubra4.o1>
@@ -6188,7 +6188,7 @@
 <eventtext.terrorism101.o1.o2.o2>「算了，我去叫守衛來。」</eventtext.terrorism101.o1.o2.o2>
 <eventtext.stuckinthemiddle.c1>這個哨站顯得很匆忙，許多工人正在在將物資送上潛艇。你看到有兩個人悄悄地在人群中與對方爭論，他們的手不斷地指向你。</eventtext.stuckinthemiddle.c1>
 <eventtext.stuckinthemiddle.o1>走近他們。</eventtext.stuckinthemiddle.o1>
-<eventtext.stuckinthemiddle.o1.c1>你一走近，那兩個人立刻安靜下來。近距離觀察之下，你可以看到他們的外套上繡著一塊無政府主義者的標誌，原來他們是木星分裂主義者。「你是幫過我們的那個人嗎？」其中一個人問。</eventtext.stuckinthemiddle.o1.c1><!--source error?-->
+<eventtext.stuckinthemiddle.o1.c1>你一走近，那兩個人立刻安靜下來。近距離觀察之下，你可以看到他們的外套上繡著一塊無政府主義者的標誌，原來他們是木星分裂主義者。「你是幫過我們的那個人嗎？」其中一個人問。</eventtext.stuckinthemiddle.o1.c1><!--source error fixed-->
 <eventtext.stuckinthemiddle.o1.o1>「是我。」</eventtext.stuckinthemiddle.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.c1>「你看到那些跑來跑去的人了吧？這裡有很多潛艇正在準備出航。」</eventtext.stuckinthemiddle.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1>「真好奇它們要去哪裡。」</eventtext.stuckinthemiddle.o1.o1.o1>
@@ -6200,7 +6200,7 @@
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>「了解。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>你向一旁的房間裡窺視，房裡有個人坐在一張椅子上、手上戴著手銬。從他血淋淋、又紅又腫的臉看來，他被徹底地教訓過了。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>上前查看。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1>
-<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>那個人有些神志不清，但還是有辦法小聲地從嘴裡擠出了一個問題:「你、你吃過Versas肝臟嗎？」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1><!--source error?-->
+<eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1>那個人有些神志不清，但還是有辦法小聲地從嘴裡擠出了一個問題:「你、你吃過Versas肝臟嗎？」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.c1><!--source error fixed-->
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>「從來沒有。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>「真、真可惜，我聽說到死都要嚐過一次。」他笑了幾聲，「你最好、最好在守衛回來之前快點離開，如果你還能讓誰知道我在這裡那就太、太好了。」</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你告訴那些分離主義者他們同伴的位置。他們在感謝你的幫忙後出發營救他們的同志。</eventtext.stuckinthemiddle.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
@@ -6320,7 +6320,7 @@
 <EventText.hognose.o1.o1.o1.o1>「然後呢？」</EventText.hognose.o1.o1.o1.o1>
 <EventText.hognose.o1.o1.o1.o1.c1>「然後呢？它被擊沉了! 被悲傷Jack擊沉了！」他用他的拳頭敲了桌子，空杯子都被震得跳了起來。「我被打得措手不及。第一下、引擎壞了。第二下，船體破了。」他的目光穿過你，看著遠方。</EventText.hognose.o1.o1.o1.o1.c1>
 <EventText.hognose.o1.o1.o1.o1.o1>「那你是怎麼活下來的？」</EventText.hognose.o1.o1.o1.o1.o1>
-<EventText.hognose.o1.o1.o1.o1.o1.c1>「游泳。」他認真地說，「我帶上了我拿得動的所有氧氣然後用推進器逃跑。我丟下了Ringo，我的寵物巨蟾。」一滴眼淚從他僅存的那隻眼睛滾落下來。「在那一刻，我發誓要向那個畜生復仇。」他把一台無線電摔在桌子上。注意到你疑惑的眼神，他解釋:「它吃了我的無線電發信器。我在歐羅巴各地奔波，一直想要收到它發出的訊號，如果被我找到──」他的無線電發出了一連串的嗶嗶聲。</EventText.hognose.o1.o1.o1.o1.o1.c1><!--source error?-->
+<EventText.hognose.o1.o1.o1.o1.o1.c1>「游泳。」他認真地說，「我帶上了我拿得動的所有氧氣然後用推進器逃跑。我丟下了Ringo，我的寵物巨蟾。」一滴眼淚從他僅存的那隻眼睛滾落下來。「在那一刻，我發誓要向那個畜生復仇。」他把一台無線電摔在桌子上。注意到你疑惑的眼神，他解釋:「它吃了我的無線電發信器。我在歐羅巴各地奔波，一直想要收到它發出的訊號，如果被我找到──」他的無線電發出了一連串的嗶嗶聲。</EventText.hognose.o1.o1.o1.o1.o1.c1><!--source error fixed-->
 <EventText.hognose.o1.o1.o1.o1.o1.o1.c1>「牠來了！你有一艘船對吧？準備好去打獵了嗎，年輕人？」他興奮得直發抖，「當然，你也會拿到應得的獎賞。」</EventText.hognose.o1.o1.o1.o1.o1.o1.c1>
 <EventText.hognose.o1.o1.o1.o1.o1.o1.o1>「沒問題！」</EventText.hognose.o1.o1.o1.o1.o1.o1.o1>
 <EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>「我就知道你們這群年輕人還是有鬥志的！我們船上見。」</EventText.hognose.o1.o1.o1.o1.o1.o1.o1.c1>
@@ -6377,21 +6377,21 @@
 <upgradename.decreasedeteriorationspeed>升級備用系統</upgradename.decreasedeteriorationspeed>
 <upgradedescription.decreasedeteriorationspeed>設備自然劣化的速度更慢。</upgradedescription.decreasedeteriorationspeed>
 <upgradename.decreaselowskillfixduration>模組化維修</upgradename.decreaselowskillfixduration><!--SOURCE TEXT CHANGE CHECK-->
-<upgradedescription.decreaselowskillfixduration>降低設備維修的等級要求與所花費的時間。</upgradedescription.decreaselowskillfixduration><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.decreaselowskillfixduration>降低設備維修的等級水準要求與所花費的時間。</upgradedescription.decreaselowskillfixduration><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.decreaserequiredskilllevel>更簡單的維修</upgradename.decreaserequiredskilllevel>
-<upgradedescription.decreaserequiredskilllevel>降低設備的維修等級要求。</upgradedescription.decreaserequiredskilllevel>
+<upgradedescription.decreaserequiredskilllevel>降低設備的維修等級水準要求。</upgradedescription.decreaserequiredskilllevel>
 <upgradename.decreasepowerconsumption>能源效率</upgradename.decreasepowerconsumption>
 <upgradedescription.decreasepowerconsumption>降低電力消耗。</upgradedescription.decreasepowerconsumption>
 <upgradename.increasefabricationspeed>更快速地製造</upgradename.increasefabricationspeed>
 <upgradedescription.increasefabricationspeed>縮短製作物品的時間，但使用更多電力。</upgradedescription.increasefabricationspeed><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.decreasefabricationskillrequirement>更簡單地製造</upgradename.decreasefabricationskillrequirement>
-<upgradedescription.decreasefabricationskillrequirement>降低製作物品的等級要求。</upgradedescription.decreasefabricationskillrequirement>
+<upgradedescription.decreasefabricationskillrequirement>降低製作物品的等級水準要求。</upgradedescription.decreasefabricationskillrequirement>
 <upgradename.decreasedeconstructiontime>更快速地解構</upgradename.decreasedeconstructiontime>
 <upgradedescription.decreasedeconstructiontime>縮短拆解物品的時間，且用電量稍稍提升。</upgradedescription.decreasedeconstructiontime><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.turretdecreasepowerconsumption>能源效率</upgradename.turretdecreasepowerconsumption>
 <upgradedescription.turretdecreasepowerconsumption>降低電力消耗。</upgradedescription.turretdecreasepowerconsumption>
 <upgradename.turretincreaserotationlowskill>更快的砲塔</upgradename.turretincreaserotationlowskill>
-<upgradedescription.turretincreaserotationlowskill>提升所有砲塔在船員技能不足進行操作時的旋轉速度。</upgradedescription.turretincreaserotationlowskill><!--SOURCE TEXT CHANGE CHECK-->
+<upgradedescription.turretincreaserotationlowskill>提升所有砲塔在船員技能水準不足時進行操作的旋轉速度。</upgradedescription.turretincreaserotationlowskill><!--SOURCE TEXT CHANGE CHECK-->
 <upgradename.turretincreaseoffsetonselected>潛望鏡升級</upgradename.turretincreaseoffsetonselected>
 <upgradedescription.turretincreaseoffsetonselected>提升所有武器的視野範圍。</upgradedescription.turretincreaseoffsetonselected>
 <upgradename.increaseoxygengeneration>製氧機效率</upgradename.increaseoxygengeneration>
@@ -7141,7 +7141,7 @@
 <talentdescription.coauthor>你能夠與技師共同撰寫一本書。\n雙方在選取對方的角色[seconds]秒後會獲得一本[itemname]並得到[experienceamount]經驗值。</talentdescription.coauthor>
 <talentdescription.polymath>全部技能獲得[skillincrease]點並能夠得到額外[experiencegain]%的任務經驗值加成，但你的最大生命值減少[maximumhealthreduction]%。</talentdescription.polymath>
 <talentdescription.optimizedpowerflow>獲得相當於你的電氣工程技能點數[statamount]%的砲塔耗電量降低和砲塔充電速度加成。\n當你完全修復一項設備時獲得[skillamount]點電氣工程技能獎勵。</talentdescription.optimizedpowerflow>
-<talentdescription.pyromaniac>當你受到來自敵方的燒傷效果時獲得維持[seconds]秒的額外[physicaldamagereduction]%提升物理傷害抗性。\n燃燒傷害提升[burnincrease]%。</talentdescription.pyromaniac>
+<talentdescription.pyromaniac>造成額外[burnincrease]%燃燒傷害。對付‖color:gui.orange‖壓載艙寄生植物群‖end‖時則為兩倍。</talentdescription.pyromaniac>
 <talentdescription.scrapsavant>你能將[scrapamount]廢料加工成為異星原料。\n對義興原料進行加工時獲得[experienceamount]經驗值。</talentdescription.scrapsavant>
 <talentdescription.scrounger>當你拆解廢料時獲得[experienceamount]經驗值。</talentdescription.scrounger>
 <talentdescription.elbowgrease>獲得相當於你的醫療技能點數[statamount]%的近戰攻擊力與最大生命值加成。\n當你拆解廢料時獲得[skillamount]點機械工程技能獎勵。</talentdescription.elbowgrease>
