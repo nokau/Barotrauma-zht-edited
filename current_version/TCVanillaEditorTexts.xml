@@ -19,25 +19,25 @@
 <addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
 <holdtolink>按住空白件並點選其他物件與它們建立連結。</holdtolink>
 <allowedlinks>可與其建立連結</allowedlinks>
-<filtermapentities>Filter</filtermapentities>
+<filtermapentities>篩選</filtermapentities>
 <charactermodebutton>角色模式</charactermodebutton>
 <charactermodetooltip>使你能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
 <wiringmodebutton>配線模式</wiringmodebutton>
 <wiringmodetooltip>允許你對物品進行配線。</wiringmodetooltip>
 <generatewaypointsbutton>產生Waypoint</generatewaypointsbutton>
-<generatewaypointstooltip>AI控制的船員需要以waypoint作為在潛艇中移動的標示。</generatewaypointstooltip>
-<showentitieslabel>檢視</showentitieslabel>
+<generatewaypointstooltip>AI控制的船員需要以Waypoint作為在潛艇中的移動標示。</generatewaypointstooltip>
+<showentitieslabel>顯示</showentitieslabel>
 <showwalls>牆壁</showwalls>
 <showstructures>結構</showstructures>
 <showitems>物件</showitems>
 <showlighting>光線</showlighting>
-<showwaypoints>Waypoints</showwaypoints>
-<showspawnpoints>Spawnpoints</showspawnpoints>
+<showwaypoints>Waypoint</showwaypoints>
+<showspawnpoints>Spawnpoint</showspawnpoints>
 <showlinks>連結</showlinks>
-<showhulls>Hulls</showhulls>
-<showgaps>Gaps</showgaps>
+<showhulls>Hull</showhulls>
+<showgaps>Gap</showgaps>
 <previouslyusedlabel>先前使用</previouslyusedlabel>
-<subnamemissingwarning>請為你的潛艇命名。</subnamemissingwarning>
+<subnamemissingwarning>在儲存之前，請為你的潛艇命名。</subnamemissingwarning>
 <subnameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</subnameillegalcharswarning>
 <subsavednotification>潛艇已儲存至 [filepath]。</subsavednotification>
 <savesubdialogheader>儲存潛艇</savesubdialogheader>
@@ -48,12 +48,12 @@
 <saveitemassemblyhideinmenus>在主選單中隱藏</saveitemassemblyhideinmenus>
 <saveitemassemblydialogname>名稱</saveitemassemblydialogname>
 <saveitemassemblydialogdescription>描述</saveitemassemblydialogdescription>
-<itemassemblynamemissingwarning>請為你的物件組合命名。</itemassemblynamemissingwarning>
-<itemassemblyfileexistswarning>這個名稱已經有物件組合使用。你要覆蓋已存在的物件組合嗎。</itemassemblyfileexistswarning>
+<itemassemblynamemissingwarning>在儲存之前，請為你的物件組合命名。</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。你要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
-<nohullswarning>潛艇上沒有Hull。Hull用於定義潛艇的"內部空間"範圍，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
-<disconnectedventswarning>潛艇上有通風口尚未與製氧機連結。選取該通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
-<disconnectedturretswarning>潛艇上有[itemname]尚未與裝彈機連結。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
+<nohullswarning>潛艇上沒有Hull。Hull用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
+<disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
+<disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
 <nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物品去處)。請放置新的Spawnpoint並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
 <farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
@@ -65,7 +65,7 @@
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
 <manuallyoutfitted>手動配置的物資</manuallyoutfitted>
-<manuallyoutfittedtooltip>此潛艇配有足夠的起始物資，或者它需要依賴自動產生的物資和/或玩家進行物品轉移？</manuallyoutfittedtooltip>
+<manuallyoutfittedtooltip>此潛艇是否已經包含了足夠的起始物資，或者它需要依賴自動產生的物資和/或玩家進行物品轉移？</manuallyoutfittedtooltip>
 <unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
 <reloadsprite>重新讀取Sprite</reloadsprite>
 <resettoprefab>回復至預設</resettoprefab>
@@ -89,506 +89,506 @@
 <subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
 <subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
 <stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
-<stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的Tag。</stringpropertycannottranslate>
+<stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的文字。</stringpropertycannottranslate>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 
 <!-- Submarine editor -->
-<charactereditor.creatingnewjoint>Creating a new joint</charactereditor.creatingnewjoint>
-<charactereditor.selectanchor1pos>Select the anchor position for the joint</charactereditor.selectanchor1pos>
-<charactereditor.selectlimbtoconnect>Select another limb to connect it with the joint</charactereditor.selectlimbtoconnect>
-<charactereditor.frozen>Frozen</charactereditor.frozen>
-<charactereditor.spriteorientation>Sprite Orientation</charactereditor.spriteorientation>
-<charactereditor.spritesheetorientation>Spritesheet Orientation</charactereditor.spritesheetorientation>
-<charactereditor.cantaddjointsnolimbelements>Cannot add joints, because no limb elements were found!</charactereditor.cantaddjointsnolimbelements>
-<charactereditor.humanoidlimbdeletiondisabled>Deleting limbs from a humanoid is currently disabled to prevent crashing</charactereditor.humanoidlimbdeletiondisabled>
-<charactereditor.tryingtospawncharacter>Trying to spawn [config]</charactereditor.tryingtospawncharacter>
-<charactereditor.nocontentpackageselected>No content package selected!</charactereditor.nocontentpackageselected>
-<charactereditor.contentpackagesaved>Content package saved at: [path]</charactereditor.contentpackagesaved>
-<charactereditor.backgroundcolor>Background \nColor</charactereditor.backgroundcolor>
-<charactereditor.spritesheetzoom>Spritesheet Zoom</charactereditor.spritesheetzoom>
-<charactereditor.reset>Reset</charactereditor.reset>
-<charactereditor.hidebodysprites>Hide Body Sprites</charactereditor.hidebodysprites>
-<charactereditor.showwearables>Show Wearables</charactereditor.showwearables>
-<charactereditor.lockspriteorigin>Lock Sprite Origin</charactereditor.lockspriteorigin>
-<charactereditor.lockspriteposition>Lock Sprite Position</charactereditor.lockspriteposition>
-<charactereditor.lockspritesize>Lock Sprite Size</charactereditor.lockspritesize>
-<charactereditor.adjustcollider>Adjust Collider</charactereditor.adjustcollider>
-<charactereditor.uniformscale>Uniform Scale</charactereditor.uniformscale>
-<charactereditor.copyjointsettings>Copy Joint Settings</charactereditor.copyjointsettings>
-<charactereditor.copyjointsettingstooltip>Copies the currently tweaked settings to all selected joints.</charactereditor.copyjointsettingstooltip>
-<charactereditor.jointscale>Joint Scale</charactereditor.jointscale>
-<charactereditor.limbscale>Limb Scale</charactereditor.limbscale>
-<charactereditor.selectedanimation>Selected Animation</charactereditor.selectedanimation>
-<charactereditor.previouscharacter>Previous</charactereditor.previouscharacter>
-<charactereditor.nextcharacter>Next</charactereditor.nextcharacter>
-<charactereditor.showparameters>Parameters [F1]</charactereditor.showparameters>
+<charactereditor.creatingnewjoint>建立新關節</charactereditor.creatingnewjoint>
+<charactereditor.selectanchor1pos>選擇作為此關節錨點的位置</charactereditor.selectanchor1pos>
+<charactereditor.selectlimbtoconnect>選擇另一肢體與關節連結</charactereditor.selectlimbtoconnect>
+<charactereditor.frozen>凍結</charactereditor.frozen>
+<charactereditor.spriteorientation>Sprite方向</charactereditor.spriteorientation>
+<charactereditor.spritesheetorientation>Spritesheet方向</charactereditor.spritesheetorientation>
+<charactereditor.cantaddjointsnolimbelements>無法添加關節，找不到到肢體元素！</charactereditor.cantaddjointsnolimbelements>
+<charactereditor.humanoidlimbdeletiondisabled>自類人生物刪除肢體的功能已被暫時停用以避免遊戲崩潰</charactereditor.humanoidlimbdeletiondisabled>
+<charactereditor.tryingtospawncharacter>正在產生 [config]</charactereditor.tryingtospawncharacter>
+<charactereditor.nocontentpackageselected>未選擇內容套件！</charactereditor.nocontentpackageselected>
+<charactereditor.contentpackagesaved>內容套件已儲存至: [path]</charactereditor.contentpackagesaved>
+<charactereditor.backgroundcolor>背景\n色彩</charactereditor.backgroundcolor>
+<charactereditor.spritesheetzoom>Spritesheet縮放</charactereditor.spritesheetzoom>
+<charactereditor.reset>重置</charactereditor.reset>
+<charactereditor.hidebodysprites>隱藏身體Sprite</charactereditor.hidebodysprites>
+<charactereditor.showwearables>顯示穿戴物</charactereditor.showwearables>
+<charactereditor.lockspriteorigin>鎖定Sprite原點</charactereditor.lockspriteorigin>
+<charactereditor.lockspriteposition>鎖定Sprite位置</charactereditor.lockspriteposition>
+<charactereditor.lockspritesize>鎖定Sprite大小</charactereditor.lockspritesize>
+<charactereditor.adjustcollider>調整Collider</charactereditor.adjustcollider>
+<charactereditor.uniformscale>統一大小</charactereditor.uniformscale>
+<charactereditor.copyjointsettings>複製關節設定</charactereditor.copyjointsettings>
+<charactereditor.copyjointsettingstooltip>將目前的設定套用至所有選擇的關節。</charactereditor.copyjointsettingstooltip>
+<charactereditor.jointscale>關節大小</charactereditor.jointscale>
+<charactereditor.limbscale>肢體大小</charactereditor.limbscale>
+<charactereditor.selectedanimation>選擇動畫</charactereditor.selectedanimation>
+<charactereditor.previouscharacter>前一項</charactereditor.previouscharacter>
+<charactereditor.nextcharacter>後一項</charactereditor.nextcharacter>
+<charactereditor.showparameters>參數 [F1]</charactereditor.showparameters>
 <charactereditor.showspritesheet>Spritesheet [T]</charactereditor.showspritesheet>
-<charactereditor.drawskeleton>Skeleton [N]</charactereditor.drawskeleton>
-<charactereditor.enablelights>Lights [L]</charactereditor.enablelights>
-<charactereditor.drawdamagemodifiers>Damage Modifiers [M]</charactereditor.drawdamagemodifiers>
-<charactereditor.editcharacter>CHARACTER [1]</charactereditor.editcharacter>
+<charactereditor.drawskeleton>骨架 [N]</charactereditor.drawskeleton>
+<charactereditor.enablelights>光線 [L]</charactereditor.enablelights>
+<charactereditor.drawdamagemodifiers>傷害修改器 [M]</charactereditor.drawdamagemodifiers>
+<charactereditor.editcharacter>角色 [1]</charactereditor.editcharacter>
 <charactereditor.editragdoll>RAGDOLL [2]</charactereditor.editragdoll>
-<charactereditor.editlimbs>LIMBS [3]</charactereditor.editlimbs>
-<charactereditor.editjoints>JOINTS [4]</charactereditor.editjoints>
-<charactereditor.editanimations>ANIMATIONS [5]</charactereditor.editanimations>
-<charactereditor.editiktargets>IK Targets [I]</charactereditor.editiktargets>
-<charactereditor.freeze>Freeze</charactereditor.freeze>
-<charactereditor.autofreeze>Auto Freeze</charactereditor.autofreeze>
-<charactereditor.limbpairediting>Limb Pair Editing</charactereditor.limbpairediting>
-<charactereditor.animationtestpose>Test Pose [X]</charactereditor.animationtestpose>
-<charactereditor.animationtestposeenabled>Test Pose Enabled</charactereditor.animationtestposeenabled>
-<charactereditor.automove>Auto Move</charactereditor.automove>
-<charactereditor.followcursor>Follow Cursor</charactereditor.followcursor>
+<charactereditor.editlimbs>肢體 [3]</charactereditor.editlimbs>
+<charactereditor.editjoints>關節 [4]</charactereditor.editjoints>
+<charactereditor.editanimations>動畫 [5]</charactereditor.editanimations>
+<charactereditor.editiktargets>IK目標 [I]</charactereditor.editiktargets>
+<charactereditor.freeze>凍結</charactereditor.freeze>
+<charactereditor.autofreeze>自動凍結</charactereditor.autofreeze>
+<charactereditor.limbpairediting>配對肢體編輯</charactereditor.limbpairediting>
+<charactereditor.animationtestpose>測試姿勢 [X]</charactereditor.animationtestpose>
+<charactereditor.animationtestposeenabled>測試姿勢已啟用</charactereditor.animationtestposeenabled>
+<charactereditor.automove>自動移動</charactereditor.automove>
+<charactereditor.followcursor>跟隨滑鼠</charactereditor.followcursor>
 <charactereditor.showcolliders>Colliders [C]</charactereditor.showcolliders>
-<charactereditor.editbackgroundcolor>Edit Background Color</charactereditor.editbackgroundcolor>
-<charactereditor.savebutton>Save All</charactereditor.savebutton>
-<charactereditor.allanimationssaved>All animations saved</charactereditor.allanimationssaved>
-<charactereditor.ragdollsavedto>Ragdoll saved to [path]</charactereditor.ragdollsavedto>
-<charactereditor.charactersavedto>Character config file saved to [path]</charactereditor.charactersavedto>
-<charactereditor.resetbutton>Reset</charactereditor.resetbutton>
-<charactereditor.saveragdoll>Save Ragdoll</charactereditor.saveragdoll>
-<charactereditor.providefilename>Please provide a name for the file</charactereditor.providefilename>
-<charactereditor.loadragdoll>Load Ragdoll</charactereditor.loadragdoll>
-<charactereditor.couldntopendirectory>Couldn't open directory [folder]!</charactereditor.couldntopendirectory>
-<charactereditor.ragdolldeletedfrom>Ragdoll deleted from [file]</charactereditor.ragdolldeletedfrom>
-<charactereditor.ragdollloadedfrom>Ragdoll loaded from [file]</charactereditor.ragdollloadedfrom>
-<charactereditor.saveanimation>Save Animation</charactereditor.saveanimation>
-<charactereditor.selectanimationtype>Select Animation Type</charactereditor.selectanimationtype>
-<charactereditor.animationoftypesavedto>Animation of type [type] saved to [path]</charactereditor.animationoftypesavedto>
-<charactereditor.loadanimation>Load Animation</charactereditor.loadanimation>
-<charactereditor.animationoftypedeleted>Animation of type [type] at [file] deleted</charactereditor.animationoftypedeleted>
-<charactereditor.animationtypenotimplemented>Animation type [type] not implemented!</charactereditor.animationtypenotimplemented>
-<charactereditor.animationoftypeloaded>Animation of type [type] loaded from [file]</charactereditor.animationoftypeloaded>
-<charactereditor.reloadtextures>Reload Textures</charactereditor.reloadtextures>
-<charactereditor.recreateragdoll>Recreate Ragdoll [F5]</charactereditor.recreateragdoll>
-<charactereditor.recreateragdolltooltip>Many of the parameters require recreating the ragdoll. If adjusting the parameter doesn't seem to have an effect, click this button.</charactereditor.recreateragdolltooltip>
-<charactereditor.createnewcharacter>Create New Character</charactereditor.createnewcharacter>
-<charactereditor.copycharacter>Copy Character</charactereditor.copycharacter>
-<charactereditor.copycharactertooltip>Create a copy of the current character</charactereditor.copycharactertooltip>
-<charactereditor.nofieldforparameterfound>No field for [parameter] found!</charactereditor.nofieldforparameterfound>
-<charactereditor.holdleftalttoadjustcyclespeed>Hold Left Alt to adjust the cycle speed</charactereditor.holdleftalttoadjustcyclespeed>
-<charactereditor.cyclespeed>Cycle Speed</charactereditor.cyclespeed>
-<charactereditor.movementspeed>Movement Speed</charactereditor.movementspeed>
-<charactereditor.headangle>Head Angle</charactereditor.headangle>
-<charactereditor.head>Head</charactereditor.head>
-<charactereditor.headposition>Head Position</charactereditor.headposition>
-<charactereditor.torsoangle>Torso Angle</charactereditor.torsoangle>
-<charactereditor.torso>Torso</charactereditor.torso>
-<charactereditor.torsoposition>Torso Position</charactereditor.torsoposition>
-<charactereditor.tailangle>Tail Angle</charactereditor.tailangle>
-<charactereditor.footangle>Foot Angle</charactereditor.footangle>
-<charactereditor.stepsize>Step Size</charactereditor.stepsize>
-<charactereditor.handmoveamount>Hand Move Amount</charactereditor.handmoveamount>
-<charactereditor.tailmovementspeed>Tail Movement Speed</charactereditor.tailmovementspeed>
-<charactereditor.tailmovementamount>Tail Movement Amount</charactereditor.tailmovementamount>
-<charactereditor.legmovementspeed>Leg Movement Speed</charactereditor.legmovementspeed>
-<charactereditor.legmovementamount>Leg Movement Amount</charactereditor.legmovementamount>
-<charactereditor.handmovementamount>Hand Movement Amount</charactereditor.handmovementamount>
-<charactereditor.holdleftalttomanipulatejoint>Hold Left Alt to manipulate the other end of the joint</charactereditor.holdleftalttomanipulatejoint>
-<charactereditor.origin>Origin</charactereditor.origin>
-<charactereditor.position>Position: [coordinates]</charactereditor.position>
-<charactereditor.size>Size</charactereditor.size>
-<charactereditor.upperlimit>Upper Limit</charactereditor.upperlimit>
-<charactereditor.lowerlimit>Lower Limit</charactereditor.lowerlimit>
+<charactereditor.editbackgroundcolor>編輯背景色彩</charactereditor.editbackgroundcolor>
+<charactereditor.savebutton>全部儲存</charactereditor.savebutton>
+<charactereditor.allanimationssaved>已儲存所有動畫</charactereditor.allanimationssaved>
+<charactereditor.ragdollsavedto>已儲存Ragdoll至 [path]</charactereditor.ragdollsavedto>
+<charactereditor.charactersavedto>已儲存角色設定檔至 [path]</charactereditor.charactersavedto>
+<charactereditor.resetbutton>重置</charactereditor.resetbutton>
+<charactereditor.saveragdoll>儲存Ragdoll</charactereditor.saveragdoll>
+<charactereditor.providefilename>請為檔案命名</charactereditor.providefilename>
+<charactereditor.loadragdoll>讀取Ragdoll</charactereditor.loadragdoll>
+<charactereditor.couldntopendirectory>無法開啟路徑 [folder]!</charactereditor.couldntopendirectory>
+<charactereditor.ragdolldeletedfrom>已刪除於 [file] 的Ragdoll</charactereditor.ragdolldeletedfrom>
+<charactereditor.ragdollloadedfrom>已自 [file] 讀取Ragdoll</charactereditor.ragdollloadedfrom>
+<charactereditor.saveanimation>儲存動畫</charactereditor.saveanimation>
+<charactereditor.selectanimationtype>選擇動畫類型</charactereditor.selectanimationtype>
+<charactereditor.animationoftypesavedto>[type] 類型動畫已儲存至 [path]</charactereditor.animationoftypesavedto>
+<charactereditor.loadanimation>讀取動畫</charactereditor.loadanimation>
+<charactereditor.animationoftypedeleted>已刪除於 [file] 的 [type] 類型動畫</charactereditor.animationoftypedeleted>
+<charactereditor.animationtypenotimplemented>不存在 [type] 類型動畫！</charactereditor.animationtypenotimplemented>
+<charactereditor.animationoftypeloaded>已讀取來自 [file] 的 [type] 類型動畫</charactereditor.animationoftypeloaded>
+<charactereditor.reloadtextures>重新讀取貼圖</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>重新建立Ragdoll [F5]</charactereditor.recreateragdoll>
+<charactereditor.recreateragdolltooltip>多種參數需要重新建立Ragdoll。若有參數在調整後沒有發生變化，請點擊此按鈕。</charactereditor.recreateragdolltooltip>
+<charactereditor.createnewcharacter>建立新角色</charactereditor.createnewcharacter>
+<charactereditor.copycharacter>複製角色</charactereditor.copycharacter>
+<charactereditor.copycharactertooltip>複製當前角色</charactereditor.copycharactertooltip>
+<charactereditor.nofieldforparameterfound>找不到[parameter]參數欄位！</charactereditor.nofieldforparameterfound>
+<charactereditor.holdleftalttoadjustcyclespeed>使用左Alt鍵調整循環速度</charactereditor.holdleftalttoadjustcyclespeed>
+<charactereditor.cyclespeed>循環速度</charactereditor.cyclespeed>
+<charactereditor.movementspeed>移動速度</charactereditor.movementspeed>
+<charactereditor.headangle>頭部角度</charactereditor.headangle>
+<charactereditor.head>頭部</charactereditor.head>
+<charactereditor.headposition>頭部位置</charactereditor.headposition>
+<charactereditor.torsoangle>軀幹角度</charactereditor.torsoangle>
+<charactereditor.torso>軀幹</charactereditor.torso>
+<charactereditor.torsoposition>軀幹位置</charactereditor.torsoposition>
+<charactereditor.tailangle>尾巴角度</charactereditor.tailangle>
+<charactereditor.footangle>足部角度</charactereditor.footangle>
+<charactereditor.stepsize>步距</charactereditor.stepsize>
+<charactereditor.handmoveamount>手部移動量</charactereditor.handmoveamount>
+<charactereditor.tailmovementspeed>尾巴移動速度</charactereditor.tailmovementspeed>
+<charactereditor.tailmovementamount>尾巴移動量</charactereditor.tailmovementamount>
+<charactereditor.legmovementspeed>足部移動速度</charactereditor.legmovementspeed>
+<charactereditor.legmovementamount>足部移動量</charactereditor.legmovementamount>
+<charactereditor.handmovementamount>手部移動量</charactereditor.handmovementamount>
+<charactereditor.holdleftalttomanipulatejoint>使用左Alt鍵調整調整關節的另一端</charactereditor.holdleftalttomanipulatejoint>
+<charactereditor.origin>原點</charactereditor.origin>
+<charactereditor.position>位置: [coordinates]</charactereditor.position>
+<charactereditor.size>大小</charactereditor.size>
+<charactereditor.upperlimit>上限</charactereditor.upperlimit>
+<charactereditor.lowerlimit>下限</charactereditor.lowerlimit>
 <charactereditor.defaultname>Character X</charactereditor.defaultname>
-<charactereditor.ishumanoid>Is Humanoid?</charactereditor.ishumanoid>
-<charactereditor.canentersubmarines>Can Enter Submarines?</charactereditor.canentersubmarines>
-<charactereditor.canwalk>Can Walk?</charactereditor.canwalk>
-<charactereditor.configfileoutput>Config File Output</charactereditor.configfileoutput>
-<charactereditor.texturepath>Texture Path</charactereditor.texturepath>
-<charactereditor.selecttexture>Select Texture</charactereditor.selecttexture>
-<charactereditor.contentpackagename>Content Package Name</charactereditor.contentpackagename>
-<charactereditor.texturedoesnotexist>The texture file does not exist!</charactereditor.texturedoesnotexist>
-<charactereditor.defineragdoll>Define Ragdoll</charactereditor.defineragdoll>
-<charactereditor.limbs>Limbs</charactereditor.limbs>
-<charactereditor.limb>Limb</charactereditor.limb>
-<charactereditor.joints>Joints</charactereditor.joints>
-<charactereditor.joint>Joint</charactereditor.joint>
-<charactereditor.selectfile>Select File</charactereditor.selectfile>
-<charactereditor.missingtorsoorhead>You need to define at least one limb as Torso or Head!</charactereditor.missingtorsoorhead>
-<charactereditor.missinglimbtype>You need to define one and only one limb as [limbtype]!</charactereditor.missinglimbtype>
-<charactereditor.charactercreated>Character [name] Created</charactereditor.charactercreated>
-<charactereditor.limbtype>Limb Type</charactereditor.limbtype>
-<charactereditor.sourcerectangle>Source Rectangle</charactereditor.sourcerectangle>
+<charactereditor.ishumanoid>是類人生物？</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>可進入潛艇？</charactereditor.canentersubmarines>
+<charactereditor.canwalk>可步行？</charactereditor.canwalk>
+<charactereditor.configfileoutput>輸出設定檔</charactereditor.configfileoutput>
+<charactereditor.texturepath>貼圖位址</charactereditor.texturepath>
+<charactereditor.selecttexture>選擇貼圖</charactereditor.selecttexture>
+<charactereditor.contentpackagename>內容套件名稱</charactereditor.contentpackagename>
+<charactereditor.texturedoesnotexist>貼圖檔案不存在！</charactereditor.texturedoesnotexist>
+<charactereditor.defineragdoll>定義Ragdoll</charactereditor.defineragdoll>
+<charactereditor.limbs>肢體</charactereditor.limbs>
+<charactereditor.limb>肢體</charactereditor.limb>
+<charactereditor.joints>關節</charactereditor.joints>
+<charactereditor.joint>關節</charactereditor.joint>
+<charactereditor.selectfile>選擇檔案</charactereditor.selectfile>
+<charactereditor.missingtorsoorhead>需要定義至少一個肢體為軀幹或頭部！</charactereditor.missingtorsoorhead>
+<charactereditor.missinglimbtype>需要定義至少一個肢體為[limbtype]！</charactereditor.missinglimbtype>
+<charactereditor.charactercreated>已建立 [name] 角色</charactereditor.charactercreated>
+<charactereditor.limbtype>肢體類型</charactereditor.limbtype>
+<charactereditor.sourcerectangle>來源矩形</charactereditor.sourcerectangle>
 <charactereditor.id>Identifier</charactereditor.id>
-<charactereditor.limbwithindex>Limb [index]</charactereditor.limbwithindex>
-<charactereditor.limbwithindexanchor>Limb [index] Anchor</charactereditor.limbwithindexanchor>
-<charactereditor.failedtoreadhtml>Character Editor Screen: Failed to read HTML at [path]</charactereditor.failedtoreadhtml>
-<charactereditor.multipleitemswithsamehierarchy>Multiple items with the same hierarchy [hierarchy] found ([name]). Cannot continue.</charactereditor.multipleitemswithsamehierarchy>
-<charactereditor.cannoteditvanillacharacters>Cannot edit the characters defined in the "Vanilla" content package! You can create a copy of the character (in another content package) should you want to edit it.</charactereditor.cannoteditvanillacharacters>
-<charactereditor.existingcharacterfoundreplaceverification>An existing character with the same name was found in the same content package. Do you want to replace it (the original files will be lost)?</charactereditor.existingcharacterfoundreplaceverification>
-<charactereditor.existingcharacterfoundoverrideverification>An existing character with the same name was found in another content package. Do you want to create an override of it (the original files will stay intact)?</charactereditor.existingcharacterfoundoverrideverification>
-<charactereditor.existingcharacterfound>An existing character with the same name was found.</charactereditor.existingcharacterfound>
-<charactereditor.modespanel>Edit</charactereditor.modespanel>
-<charactereditor.fileeditpanel>Files</charactereditor.fileeditpanel>
-<charactereditor.optionspanel>Options</charactereditor.optionspanel>
-<charactereditor.characterpanel>Character</charactereditor.characterpanel>
-<charactereditor.toolspanel>Tools</charactereditor.toolspanel>
-<charactereditor.minormodestitle>Show</charactereditor.minormodestitle>
-<charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.addaitarget>Add Target</charactereditor.addaitarget>
-<charactereditor.addbloodemitter>Add Blood Emitter</charactereditor.addbloodemitter>
-<charactereditor.addgibemitter>Add Gib Emitter</charactereditor.addgibemitter>
-<charactereditor.adddamageemitter>Add Damage Emitter</charactereditor.adddamageemitter>
-<charactereditor.addsound>Add Sound</charactereditor.addsound>
-<charactereditor.addlightsource>Add Light</charactereditor.addlightsource>
-<charactereditor.addattack>Add Attack</charactereditor.addattack>
-<charactereditor.addaffliction>Add Affliction</charactereditor.addaffliction>
-<charactereditor.adddamagemodifier>Add Damage Modifier</charactereditor.adddamagemodifier>
-<charactereditor.addinventory>Add Inventory</charactereditor.addinventory>
-<charactereditor.addinventoryitem>Add Inventory Item</charactereditor.addinventoryitem>
-<charactereditor.selected>Selected</charactereditor.selected>
-<charactereditor.duplicatelimb>Duplicate Limb</charactereditor.duplicatelimb>
-<charactereditor.deleteselected>Delete Selected</charactereditor.deleteselected>
-<charactereditor.createjoint>Create Joint</charactereditor.createjoint>
-<charactereditor.createlimb>Create Limb</charactereditor.createlimb>
-<charactereditor.drawlimbonspritesheet>Draw the limb on the spritesheet</charactereditor.drawlimbonspritesheet>
-<charactereditor.onlyshowselectedlimbs>Show Only Selected Limbs</charactereditor.onlyshowselectedlimbs>
-<charactereditor.newcontentpackage>New Content Package</charactereditor.newcontentpackage>
-<charactereditor.existingjointfound>A joint between limbs [limbid1] and [limbid2] already found!</charactereditor.existingjointfound>
-<charactereditor.unrestrict>Unrestrict</charactereditor.unrestrict>
-<charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
-<charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
+<charactereditor.limbwithindex>肢體 [index]</charactereditor.limbwithindex>
+<charactereditor.limbwithindexanchor>肢體 [index] 錨點</charactereditor.limbwithindexanchor>
+<charactereditor.failedtoreadhtml>角色編輯器介面: 無法讀取位於 [path] 的 HTML檔案</charactereditor.failedtoreadhtml>
+<charactereditor.multipleitemswithsamehierarchy>發現複數擁有相同 [hierarchy] 層級的物件 ([name])。無法繼續。</charactereditor.multipleitemswithsamehierarchy>
+<charactereditor.cannoteditvanillacharacters>無法對存在於 "Vanilla" 內容套件中的角色！若要進行編輯，可以建立該角色的副本 (在其他內容套件中)。</charactereditor.cannoteditvanillacharacters>
+<charactereditor.existingcharacterfoundreplaceverification>此內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (將遺失原始檔案)？</charactereditor.existingcharacterfoundreplaceverification>
+<charactereditor.existingcharacterfoundoverrideverification>其他內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (不會遺失原始檔案)？</charactereditor.existingcharacterfoundoverrideverification>
+<charactereditor.existingcharacterfound>已有相同名稱的角色存在。</charactereditor.existingcharacterfound>
+<charactereditor.modespanel>編輯</charactereditor.modespanel>
+<charactereditor.fileeditpanel>檔案</charactereditor.fileeditpanel>
+<charactereditor.optionspanel>選項</charactereditor.optionspanel>
+<charactereditor.characterpanel>角色</charactereditor.characterpanel>
+<charactereditor.toolspanel>工具</charactereditor.toolspanel>
+<charactereditor.minormodestitle>顯示</charactereditor.minormodestitle>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<charactereditor.addaitarget>添加目標</charactereditor.addaitarget>
+<charactereditor.addbloodemitter>添加血液發射器</charactereditor.addbloodemitter>
+<charactereditor.addgibemitter>添加內臟發射器</charactereditor.addgibemitter>
+<charactereditor.adddamageemitter>添加傷害發射器</charactereditor.adddamageemitter>
+<charactereditor.addsound>添加音效</charactereditor.addsound>
+<charactereditor.addlightsource>添加光線</charactereditor.addlightsource>
+<charactereditor.addattack>添加攻擊</charactereditor.addattack>
+<charactereditor.addaffliction>添加效果</charactereditor.addaffliction>
+<charactereditor.adddamagemodifier>添加傷害修改器</charactereditor.adddamagemodifier>
+<charactereditor.addinventory>添加物品欄</charactereditor.addinventory>
+<charactereditor.addinventoryitem>添加物品欄物品</charactereditor.addinventoryitem>
+<charactereditor.selected>所選</charactereditor.selected>
+<charactereditor.duplicatelimb>複製肢體</charactereditor.duplicatelimb>
+<charactereditor.deleteselected>刪除所選</charactereditor.deleteselected>
+<charactereditor.createjoint>建立關節</charactereditor.createjoint>
+<charactereditor.createlimb>建立肢體</charactereditor.createlimb>
+<charactereditor.drawlimbonspritesheet>於Spritesheet上繪製肢體</charactereditor.drawlimbonspritesheet>
+<charactereditor.onlyshowselectedlimbs>僅顯示所選肢體</charactereditor.onlyshowselectedlimbs>
+<charactereditor.newcontentpackage>新內容套件</charactereditor.newcontentpackage>
+<charactereditor.existingjointfound>肢體 [limbid1] 和 [limbid2] 之間已有關節！</charactereditor.existingjointfound>
+<charactereditor.unrestrict>無限制</charactereditor.unrestrict>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<charactereditor.contentpackagenameinuse>已有相同名稱的內容套件存在。請使用其他名稱或自下拉選單中選擇該內容套件並將角色加入其中。</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
 
 <!-- Entity properties -->
-<sp.scale.name>Scale</sp.scale.name>
-<sp.spritedepth.name>Sprite Depth</sp.spritedepth.name>
-<sp.disallowedupgrades.name>Disallowed Upgrades</sp.disallowedupgrades.name>
-<sp.hiddeningame.name>Hidden in Game</sp.hiddeningame.name>
-<sp.item.hiddeningame.name>Hidden in Game</sp.item.hiddeningame.name>
-<sp.item.noninteractable.name>Non Interactable</sp.item.noninteractable.name>
-<sp.item.spritecolor.name>Sprite Color</sp.item.spritecolor.name>
-<sp.item.inventoryiconcolor.name>Inventory Icon Color</sp.item.inventoryiconcolor.name>
-<sp.item.containercolor.name>Container Color</sp.item.containercolor.name>
-<sp.item.containercolor.description>Changes the color of this item's container. Only has an effect if either the UseContainedSpriteColor or UseContainedInventoryIconColor property of the container is set to true.</sp.item.containercolor.description>
-<sp.item.condition.name>Condition</sp.item.condition.name>
+<sp.scale.name>縮放</sp.scale.name>
+<sp.spritedepth.name>Sprite深度</sp.spritedepth.name>
+<sp.disallowedupgrades.name>禁用升級</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>在遊戲進行時隱藏</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>在遊戲進行時隱藏</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>不可互動</sp.item.noninteractable.name>
+<sp.item.spritecolor.name>Sprite色彩</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
+<sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為True時有效。</sp.item.containercolor.description>
+<sp.item.condition.name>狀態</sp.item.condition.name>
 <sp.item.tags.name>Tags</sp.item.tags.name>
-<sp.item.displaysidebysidewhenlinked.name>Display Side by Side When Linked</sp.item.displaysidebysidewhenlinked.name>
-<sp.item.displaysidebysidewhenlinked.description>Enable if you want to display the item HUD side by side with another item's HUD, when linked together. Disclaimer: The HUDs may block each other, if they were not designed to be viewed together!</sp.item.displaysidebysidewhenlinked.description>
-<sp.item.spritedepth.name>Sprite Depth</sp.item.spritedepth.name>
-<sp.item.nonplayerteaminteractable.name>Non-Player Team Interactable</sp.item.nonplayerteaminteractable.name>
-<sp.item.nonplayerteaminteractable.description>When enabled, item is interactable only for characters on non-player teams.</sp.item.nonplayerteaminteractable.description>
-<sp.item.allowswapping.name>Allow Swapping</sp.item.allowswapping.name>
-<sp.item.allowswapping.description>Can the item be swapped with other items in outposts? Only relevant on swappable items such as turrets.</sp.item.allowswapping.description>
-<sp.item.invulnerabletodamage.name>Invulnerable to Damage</sp.item.invulnerabletodamage.name>
-<sp.item.invulnerabletodamage.description>When enabled, will prevent the item from taking damage from any source.</sp.item.invulnerabletodamage.description>
-<sp.structure.indestructible.name>Indestructible</sp.structure.indestructible.name>
+<sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>與物件互動時若想已連結物件的介面同時顯示在遊戲畫面中，請啟用這個選項。請注意: 若物件介面在設計上不適合同時顯示，它們非常有可能會遮住彼此！</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Sprite深度</sp.item.spritedepth.name>
+<sp.item.nonplayerteaminteractable.name>非玩家隊伍可進行互動</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>啟用後此物品將只能由非玩家隊伍角色進行互動。</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>允許替換</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>此物品能否在哨站上替換為其他物品？僅對砲塔等可替換物品有效。</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>不受傷害</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>啟用時，該物品不會受到來自任何來源的傷害。</sp.item.invulnerabletodamage.description>
+<sp.structure.indestructible.name>不可摧毀</sp.structure.indestructible.name>
 <sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
-<sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
-<sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
-<sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points toward the sub's center of mass.</sp.structure.dropshadowoffset.description>
-<sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
-<sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.description>If the structure is linked to a door at the edge of an outpost module, this setting will cause the structure to be removed if the door gets used in the outpost. Otherwise the structure is removed if the door is NOT used.</sp.structure.removeiflinkedoutpostdoorinuse.description>
-<sp.structure.noaitarget.name>No AI Target</sp.structure.noaitarget.name>
-<sp.structure.noaitarget.description>If enabled, monsters won't try to target this structure.</sp.structure.noaitarget.description>
-<sp.structure.maxhealth.name>Max Health</sp.structure.maxhealth.name>
-<sp.hull.ambientlight.name>Ambient Light</sp.hull.ambientlight.name>
-<sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
-<sp.hull.iswetroom.name>Is Wet Room</sp.hull.iswetroom.name>
-<sp.hull.iswetroom.description>Is it normal for this hull to be filled with water? If the room name contains "ballast," "bilge," or "airlock," you can't disable this setting.</sp.hull.iswetroom.description>
-<sp.hull.avoidstaying.name>Avoid Staying</sp.hull.avoidstaying.name>
-<sp.hull.avoidstaying.description>Bots avoid staying here, but they are still allowed to access the room when needed and go through it. Forced true for wet rooms.</sp.hull.avoidstaying.description>
-<sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
-<sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
-<sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
-<sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
-<sp.door.togglecooldown.name>Toggle Cool Down</sp.door.togglecooldown.name>
-<sp.door.togglecooldown.description>The door cannot be opened/closed during this time after it has been opened/closed by another character.</sp.door.togglecooldown.description>
-<sp.door.isopen.name>Is Open</sp.door.isopen.name>
-<sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
-<sp.door.usebetweenoutpostmodules.name>Use Between Outpost Modules</sp.door.usebetweenoutpostmodules.name>
-<sp.door.usebetweenoutpostmodules.description>Is this a door that should lead to another outpost module? Only relevant for outpost modules.</sp.door.usebetweenoutpostmodules.description>
-<sp.door.botsshouldkeepopen.name>Bots Should Keep Open</sp.door.botsshouldkeepopen.name>
-<sp.door.botsshouldkeepopen.description>If true, bots won't try to close this door behind them.</sp.door.botsshouldkeepopen.description>
-<sp.itemcomponent.pickingtime.name>Picking Time</sp.itemcomponent.pickingtime.name>
-<sp.itemcomponent.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.itemcomponent.pickingtime.description>
-<sp.itemcomponent.canbepicked.name>Can Be Picked</sp.itemcomponent.canbepicked.name>
-<sp.itemcomponent.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something other than picking up the item).</sp.itemcomponent.canbepicked.description>
-<sp.itemcomponent.allowingameediting.name>Allow In-Game Editing</sp.itemcomponent.allowingameediting.name>
-<sp.itemcomponent.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.itemcomponent.allowingameediting.description>
+<sp.structure.spritecolor.name>Sprite色彩</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>使用投放陰影</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>投放陰影偏移</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>陰影與結構配件的相對位置，若為 0，陰影將自動朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>貼圖大小</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>貼圖位移</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>若此結構與一處哨站模組邊緣的門連結，若該門被哨站使用，這個選項將移除此結構。否則此結構將在該門未被使用時被移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
+<sp.structure.noaitarget.name>不為AI目標</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>啟用時，怪物不會嘗試破壞此結構。</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>最大生命值</sp.structure.maxhealth.name>
+<sp.hull.ambientlight.name>環境光</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>艙房名稱</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>是潮濕艙房</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>此Hull是否會常態性進水？若艙房名稱包含 "ballast (壓載艙)"、"bilge (底艙)"、或 "airlock (氣閘)" 則將無法取消此設選項。</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>避免逗留</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Bot會避免在此逗留，但若有必要他們依然會被允許進入和通過。在設定是潮濕艙房時則強制啟用。</sp.hull.avoidstaying.description>
+<sp.door.openingspeed.name>開啟速度</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>門開啟的速度。</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>關閉速度</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>門關上的速度。</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>切換冷卻</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>這扇門被一個角色打開/關閉無法在此時間內再度被打開/關閉。</sp.door.togglecooldown.description>
+<sp.door.isopen.name>敞開</sp.door.isopen.name>
+<sp.door.isopen.description>這扇門當下是否為開啟狀態。</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>在哨站模組之間使用</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>這扇門是否通往其他哨站模組？僅影響哨站模組。</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Bot保持敞開</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>啟用時，Bots將不會在通過後關上此門。</sp.door.botsshouldkeepopen.description>
+<sp.itemcomponent.pickingtime.name>拾取時間</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>撿起此物品需要的時間 (秒)。</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>可被拾取</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>物件是否能被撿起 (或當撿起動作在這個物件上會產生其他效果時，可否與其進行互動)。</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>允許遊戲中編輯</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>此元件的屬性能否在遊戲進行中被編輯 (只在物件本身擁有可在遊戲中被編輯的數值時有效)。</sp.itemcomponent.allowingameediting.description>
 <sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
-<sp.itemcomponent.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. "[Mouse1] Pick up").</sp.itemcomponent.msg.description>
-<sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
-<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier in Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
-<sp.electricaldischarger.rangemultiplierinwalls.description>How much farther can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
-<sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
-<sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
-<sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
-<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine or shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
-<sp.powered.minvoltage.name>Min Voltage</sp.powered.minvoltage.name>
-<sp.powered.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.powered.minvoltage.description>
-<sp.powered.powerconsumption.name>Power Consumption</sp.powered.powerconsumption.name>
-<sp.powered.powerconsumption.description>How much power the device draws (or attempts to draw) from the electrical grid when active.</sp.powered.powerconsumption.description>
-<sp.powered.vulnerabletoemp.name>Vulnerable to EMP</sp.powered.vulnerabletoemp.name>
-<sp.powered.vulnerabletoemp.description>Can the item be damaged by electromagnetic pulses?</sp.powered.vulnerabletoemp.description>
-<sp.entityspawnercomponent.itemidentifier.name>Item Identifier</sp.entityspawnercomponent.itemidentifier.name>
-<sp.entityspawnercomponent.itemidentifier.description>Identifier of the item to spawn; does nothing if SpeciesName is set. Separate by comma to have multiple items spawn at random.</sp.entityspawnercomponent.itemidentifier.description>
-<sp.entityspawnercomponent.speciesname.name>Species Name</sp.entityspawnercomponent.speciesname.name>
-<sp.entityspawnercomponent.speciesname.description>Species name of the creature to spawn; takes priority if ItemIdentifier is set. Separate by comma to have multiple creatures spawn at random.</sp.entityspawnercomponent.speciesname.description>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Only Spawn When Crew in Range</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Only spawn if crew members are within a certain area</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
-<sp.entityspawnercomponent.crewareashape.name>Crew Area Shape</sp.entityspawnercomponent.crewareashape.name>
-<sp.entityspawnercomponent.crewareashape.description>Shape of the area where crew members need to stay</sp.entityspawnercomponent.crewareashape.description>
-<sp.entityspawnercomponent.crewareabounds.name>Crew Area Bounds</sp.entityspawnercomponent.crewareabounds.name>
-<sp.entityspawnercomponent.crewareabounds.description>Size of the rectangle where crew members need to stay. Does nothing if CrewAreaShape is set to Circle</sp.entityspawnercomponent.crewareabounds.description>
-<sp.entityspawnercomponent.crewarearadius.name>Crew Area Radius</sp.entityspawnercomponent.crewarearadius.name>
-<sp.entityspawnercomponent.crewarearadius.description>Radius of the circle to spawn stuff in. Does nothing if CrewAreaShape is set to Rectangle</sp.entityspawnercomponent.crewarearadius.description>
-<sp.entityspawnercomponent.crewareaoffset.name>Crew Area Offset</sp.entityspawnercomponent.crewareaoffset.name>
-<sp.entityspawnercomponent.crewareaoffset.description>Offset of the crew area from the center of the item</sp.entityspawnercomponent.crewareaoffset.description>
-<sp.entityspawnercomponent.spawnareashape.name>Spawn Area Shape</sp.entityspawnercomponent.spawnareashape.name>
-<sp.entityspawnercomponent.spawnareashape.description>Shape of the area where enemies or items are spawned</sp.entityspawnercomponent.spawnareashape.description>
-<sp.entityspawnercomponent.spawnareabounds.name>Spawn Area Bounds</sp.entityspawnercomponent.spawnareabounds.name>
-<sp.entityspawnercomponent.spawnareabounds.description>Size of the rectangle where items or creatures will be spawned. Does nothing if SpawnAreaShape is set to Circle</sp.entityspawnercomponent.spawnareabounds.description>
-<sp.entityspawnercomponent.spawnarearadius.name>Spawn Area Radius</sp.entityspawnercomponent.spawnarearadius.name>
-<sp.entityspawnercomponent.spawnarearadius.description>Radius of the circle where items or creatures will be spawned. Does nothing if SpawnAreaShape is set to Rectangle</sp.entityspawnercomponent.spawnarearadius.description>
-<sp.entityspawnercomponent.spawnareaoffset.name>Spawn Area Offset</sp.entityspawnercomponent.spawnareaoffset.name>
-<sp.entityspawnercomponent.spawnareaoffset.description>Offset of the spawn area from the center of the item</sp.entityspawnercomponent.spawnareaoffset.description>
-<sp.entityspawnercomponent.spawntimerrange.name>Spawn Timer Range</sp.entityspawnercomponent.spawntimerrange.name>
-<sp.entityspawnercomponent.spawntimerrange.description>Time range between spawn attempts in seconds. Set both to a negative value to disable automatic spawning.</sp.entityspawnercomponent.spawntimerrange.description>
-<sp.entityspawnercomponent.spawnamountrange.name>Spawn Amount Range</sp.entityspawnercomponent.spawnamountrange.name>
-<sp.entityspawnercomponent.spawnamountrange.description>Minimum and maximum amount of items or creatures to spawn in one attempt</sp.entityspawnercomponent.spawnamountrange.description>
-<sp.entityspawnercomponent.maximumamount.name>Maximum Amount</sp.entityspawnercomponent.maximumamount.name>
-<sp.entityspawnercomponent.maximumamount.description>Total maximum amount of items or creatures that can be spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamount.description>
-<sp.entityspawnercomponent.maximumamountinarea.name>Maximum Amount In Area</sp.entityspawnercomponent.maximumamountinarea.name>
-<sp.entityspawnercomponent.maximumamountinarea.description>Amount of items or creatures in the spawn area that will prevent further items or creatures from being spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamountinarea.description>
-<sp.entityspawnercomponent.maximumamountrangepadding.name>Maximum Amount Range Padding</sp.entityspawnercomponent.maximumamountrangepadding.name>
-<sp.entityspawnercomponent.maximumamountrangepadding.description>Inflate the circle or rectangle by this value to extend the area that counts toward the maximum amount of items or enemies to be spawned</sp.entityspawnercomponent.maximumamountrangepadding.description>
-<sp.holdable.holdpos.name>Hold Pos</sp.holdable.holdpos.name>
-<sp.holdable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forward.</sp.holdable.holdpos.description>
-<sp.holdable.holdangle.name>Hold Angle</sp.holdable.holdangle.name>
-<sp.holdable.holdangle.description>The rotation at which the character holds the item (in degrees, relative to the rotation of the character's hand).</sp.holdable.holdangle.description>
-<sp.holdable.swingamount.name>Swing Amount</sp.holdable.swingamount.name>
-<sp.holdable.swingamount.description>How much the item swings around when aiming/holding it (in pixels, as an offset from AimPos/HoldPos).</sp.holdable.swingamount.description>
-<sp.holdable.swingspeed.name>Swing Speed</sp.holdable.swingspeed.name>
-<sp.holdable.swingspeed.description>How fast the item swings around when aiming/holding it (only valid if SwingAmount is set).</sp.holdable.swingspeed.description>
-<sp.holdable.swingwhenholding.name>Swing When Holding</sp.holdable.swingwhenholding.name>
-<sp.holdable.swingwhenholding.description>Should the item swing around when it's being held.</sp.holdable.swingwhenholding.description>
-<sp.holdable.swingwhenaiming.name>Swing When Aiming</sp.holdable.swingwhenaiming.name>
-<sp.holdable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.holdable.swingwhenaiming.description>
-<sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
-<sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or operating a welding tool).</sp.holdable.swingwhenusing.description>
-<sp.holdable.disableheadrotation.name>Disable Head Rotation</sp.holdable.disableheadrotation.name>
-<sp.holdable.spritedepthwhendropped.name>Sprite Depth When Dropped</sp.holdable.spritedepthwhendropped.name>
-<sp.holdable.spritedepthwhendropped.description>Sprite depth that's used when the item is NOT attached to a wall.</sp.holdable.spritedepthwhendropped.description>
-<sp.itemcontainer.containablerestrictions.name>Containable Restrictions</sp.itemcontainer.containablerestrictions.name>
-<sp.itemcontainer.containablerestrictions.description>Define items (by identifiers or tags) that bots should place inside this container. If empty, no restrictions are applied.</sp.itemcontainer.containablerestrictions.description>
-<sp.itemcontainer.autofill.name>Auto Fill</sp.itemcontainer.autofill.name>
-<sp.itemcontainer.autofill.description>Should this container be automatically filled with items?</sp.itemcontainer.autofill.description>
-<sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
-<sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
-<sp.itemlabel.ignorelocalization.name>Ignore Localization</sp.itemlabel.ignorelocalization.name>
-<sp.itemlabel.ignorelocalization.description>Whether or not to skip localization and always display the raw value.</sp.itemlabel.ignorelocalization.description>
-<sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
-<sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
-<sp.lightcomponent.range.description>The range of the emitted light. Higher values are more performance intensive.</sp.lightcomponent.range.description>
-<sp.lightcomponent.castshadows.name>Cast Shadows</sp.lightcomponent.castshadows.name>
-<sp.lightcomponent.castshadows.description>Whether structures should cast shadows when light from this light source hits them. Disabling shadows increases the performance of the game, and is recommended for lights with a short range. Lights that are set to be drawn behind subs don't cast shadows, regardless of this setting.</sp.lightcomponent.castshadows.description>
-<sp.lightcomponent.drawbehindsubs.name>Draw Behind Subs</sp.lightcomponent.drawbehindsubs.name>
-<sp.lightcomponent.drawbehindsubs.description>Lights drawn behind submarines don't cast any shadows and are much faster to draw than shadow-casting lights. It's recommended to enable this on decorative lights outside the submarine's hull.</sp.lightcomponent.drawbehindsubs.description>
-<sp.lightcomponent.ison.description>Is the light currently on.</sp.lightcomponent.ison.description>
-<sp.lightcomponent.flicker.name>Flicker</sp.lightcomponent.flicker.name>
-<sp.lightcomponent.flicker.description>How heavily the light flickers. 0 = no flickering, 1 = the light will alternate between completely dark and full brightness.</sp.lightcomponent.flicker.description>
-<sp.lightcomponent.flickerspeed.name>Flicker Speed</sp.lightcomponent.flickerspeed.name>
-<sp.lightcomponent.flickerspeed.description>How fast the light flickers.</sp.lightcomponent.flickerspeed.description>
-<sp.lightcomponent.pulsefrequency.name>Pulse Frequency</sp.lightcomponent.pulsefrequency.name>
-<sp.lightcomponent.pulsefrequency.description>How rapidly the light pulsates (in Hz). 0 = no blinking.</sp.lightcomponent.pulsefrequency.description>
-<sp.lightcomponent.pulseamount.name>Pulse Amount</sp.lightcomponent.pulseamount.name>
-<sp.lightcomponent.pulseamount.description>How much light pulsates (in Hz). 0 = not at all, 1 = alternates between full brightness and off.</sp.lightcomponent.pulseamount.description>
-<sp.lightcomponent.blinkfrequency.name>Blink Frequency</sp.lightcomponent.blinkfrequency.name>
-<sp.lightcomponent.blinkfrequency.description>How rapidly the light blinks on and off (in Hz). 0 = no blinking.</sp.lightcomponent.blinkfrequency.description>
-<sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
-<sp.controller.istoggle.name>Is Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal, and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
-<sp.controller.state.name>State</sp.controller.state.name>
-<sp.controller.state.description>Whether the item is toggled on/off. Only valid if IsToggle is set to true.</sp.controller.state.description>
-<sp.deconstructor.deconstructionspeed.name>Deconstruction Speed</sp.deconstructor.deconstructionspeed.name>
-<sp.engine.maxforce.name>Max Force</sp.engine.maxforce.name>
-<sp.engine.maxforce.description>The amount of force exerted on the submarine when the engine is operating at full power.</sp.engine.maxforce.description>
-<sp.engine.propellerpos.name>Propeller Pos</sp.engine.propellerpos.name>
-<sp.engine.propellerpos.description>The position of the propeller as an offset from the item's center (in pixels). Determines where the particles spawn and the position that causes characters to take damage from the engine if the PropellerDamage is defined.</sp.engine.propellerpos.description>
-<sp.engine.disablepropellerdamage.name>Disable Propeller Damage</sp.engine.disablepropellerdamage.name>
-<sp.minimap.requirewaterdetectors.name>Require Water Detectors</sp.minimap.requirewaterdetectors.name>
-<sp.minimap.requirewaterdetectors.description>Does the machine require inputs from water detectors in order to show the water levels inside rooms.</sp.minimap.requirewaterdetectors.description>
-<sp.minimap.requireoxygendetectors.name>Require Oxygen Detectors</sp.minimap.requireoxygendetectors.name>
-<sp.minimap.requireoxygendetectors.description>Does the machine require inputs from oxygen detectors in order to show the oxygen levels inside rooms.</sp.minimap.requireoxygendetectors.description>
-<sp.minimap.showhullintegrity.name>Show Hull Integrity</sp.minimap.showhullintegrity.name>
-<sp.minimap.showhullintegrity.description>Should damaged walls be displayed by the machine.</sp.minimap.showhullintegrity.description>
-<sp.minimap.enablehullstatus.name>Enable Hull Status</sp.minimap.enablehullstatus.name>
-<sp.minimap.enablehullstatus.description>Enable hull status mode.</sp.minimap.enablehullstatus.description>
-<sp.minimap.enableelectricalview.name>Enable Electrical View</sp.minimap.enableelectricalview.name>
-<sp.minimap.enableelectricalview.description>Enable electrical view mode.</sp.minimap.enableelectricalview.description>
-<sp.minimap.enableitemfinder.name>Enable Item Finder</sp.minimap.enableitemfinder.name>
-<sp.minimap.enableitemfinder.description>Enable item finder mode.</sp.minimap.enableitemfinder.description>
-<sp.pump.maxflow.name>Max Flow</sp.pump.maxflow.name>
-<sp.pump.maxflow.description>How fast the item pumps water in/out when operating at 100%.</sp.pump.maxflow.description>
-<sp.reactor.maxpoweroutput.name>Max Power Output</sp.reactor.maxpoweroutput.name>
-<sp.reactor.maxpoweroutput.description>How much power (kW) the reactor generates when operating at full capacity.</sp.reactor.maxpoweroutput.description>
-<sp.reactor.meltdowndelay.name>Meltdown Delay</sp.reactor.meltdowndelay.name>
-<sp.reactor.meltdowndelay.description>How long the temperature has to stay critical before a meltdown occurs.</sp.reactor.meltdowndelay.description>
-<sp.reactor.firedelay.name>Fire Delay</sp.reactor.firedelay.name>
-<sp.reactor.firedelay.description>How long the temperature has to stay critical before the reactor catches fire.</sp.reactor.firedelay.description>
-<sp.reactor.fuelconsumptionrate.name>Fuel Consumption Rate</sp.reactor.fuelconsumptionrate.name>
-<sp.reactor.fuelconsumptionrate.description>How fast the condition of the contained fuel rods deteriorates per second.</sp.reactor.fuelconsumptionrate.description>
-<sp.reactor.explosiondamagesothersubs.name>Explosion Damages Other Subs</sp.reactor.explosiondamagesothersubs.name>
-<sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
-<sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
-<sp.sonar.centerontransducers.name>Center on Transducers</sp.sonar.centerontransducers.name>
-<sp.sonar.centerontransducers.description>Should the sonar view be centered on the transducers or the submarine's center of mass. Only has an effect if UseTransducers is enabled.</sp.sonar.centerontransducers.description>
-<sp.sonar.hasmineralscanner.name>Has Mineral Scanner</sp.sonar.hasmineralscanner.name>
-<sp.sonar.hasmineralscanner.description>Does the sonar have mineral scanning mode.</sp.sonar.hasmineralscanner.description>
-<sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
-<sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
-<sp.powercontainer.maxoutput.name>Max Output</sp.powercontainer.maxoutput.name>
-<sp.powercontainer.maxoutput.description>Maximum output of the device when fully charged (kW).</sp.powercontainer.maxoutput.description>
-<sp.powercontainer.capacity.name>Capacity</sp.powercontainer.capacity.name>
-<sp.powercontainer.capacity.description>The maximum capacity of the device (kW/min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
-<sp.powercontainer.charge.description>The current charge of the device.</sp.powercontainer.charge.description>
-<sp.powercontainer.maxrechargespeed.name>Max Recharge Speed</sp.powercontainer.maxrechargespeed.name>
-<sp.powercontainer.maxrechargespeed.description>How fast the device can be recharged. For example, a recharge speed of 100 kW and a capacity of 1000 kW/min would mean it takes 10 minutes to fully charge the device.</sp.powercontainer.maxrechargespeed.description>
-<sp.powercontainer.rechargespeed.name>Recharge Speed</sp.powercontainer.rechargespeed.name>
-<sp.powercontainer.rechargespeed.description>The current recharge speed of the device.</sp.powercontainer.rechargespeed.description>
-<sp.powercontainer.efficiency.name>Efficiency</sp.powercontainer.efficiency.name>
-<sp.powercontainer.efficiency.description>The amount of power you can get out of an item relative to the amount of power that's put into it.</sp.powercontainer.efficiency.description>
-<sp.PowerContainer.FlipIndicator.name>Flip Indicator</sp.PowerContainer.FlipIndicator.name>
-<sp.PowerContainer.FlipIndicator.description>Should the progress bar indicating the charge be flipped to fill from the other side.</sp.PowerContainer.FlipIndicator.description>
-<sp.powertransfer.canbeoverloaded.name>Can Be Overloaded</sp.powertransfer.canbeoverloaded.name>
-<sp.powertransfer.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.powertransfer.canbeoverloaded.description>
-<sp.powertransfer.overloadvoltage.name>Overload Voltage</sp.powertransfer.overloadvoltage.name>
-<sp.powertransfer.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before the item starts taking damage. E.g., a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.powertransfer.overloadvoltage.description>
-<sp.powertransfer.fireprobability.name>Fire Probability</sp.powertransfer.fireprobability.name>
-<sp.powertransfer.fireprobability.description>The probability for a fire to start when the item breaks.</sp.powertransfer.fireprobability.description>
-<sp.quality.qualitylevel.name>Quality Level</sp.quality.qualitylevel.name>
-<sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
-<sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
-<sp.repairable.mindeteriorationdelay.name>Min Deterioration Delay</sp.repairable.mindeteriorationdelay.name>
-<sp.repairable.mindeteriorationdelay.description>Minimum initial delay before the item starts to deteriorate.</sp.repairable.mindeteriorationdelay.description>
-<sp.repairable.maxdeteriorationdelay.name>Max Deterioration Delay</sp.repairable.maxdeteriorationdelay.name>
-<sp.repairable.maxdeteriorationdelay.description>Maximum initial delay before the item starts to deteriorate.</sp.repairable.maxdeteriorationdelay.description>
-<sp.repairable.mindeteriorationcondition.name>Min Deterioration Condition</sp.repairable.mindeteriorationcondition.name>
-<sp.repairable.mindeteriorationcondition.description>The item won't deteriorate spontaneously if the condition is below this value. For example, if set to 10, the condition will spontaneously drop to 10 and then stop dropping (unless the item is damaged further by external factors). Percentages of max condition.</sp.repairable.mindeteriorationcondition.description>
-<sp.repairable.repairthreshold.name>Repair Threshold</sp.repairable.repairthreshold.name>
-<sp.repairable.repairthreshold.description>The item's condition has to be below this before it becomes repairable. Percentages of max condition.</sp.repairable.repairthreshold.description>
-<sp.repairable.fixdurationlowskill.name>Fix Duration Low Skill</sp.repairable.fixdurationlowskill.name>
-<sp.repairable.fixdurationlowskill.description>The amount of time it takes to fix the item with insufficient skill levels.</sp.repairable.fixdurationlowskill.description>
-<sp.repairable.fixdurationhighskill.name>Fix Duration High Skill</sp.repairable.fixdurationhighskill.name>
-<sp.repairable.fixdurationhighskill.description>The amount of time it takes to fix the item with sufficient skill levels.</sp.repairable.fixdurationhighskill.description>
-<sp.repairtool.barrelrotation.name>Barrel Rotation</sp.repairtool.barrelrotation.name>
-<sp.repairtool.barrelrotation.description>Rotation of the barrel in degrees.</sp.repairtool.barrelrotation.description>
-<sp.buttonterminal.signals.name>Signals</sp.buttonterminal.signals.name>
-<sp.buttonterminal.signals.description>Signals sent when the corresponding buttons are pressed.</sp.buttonterminal.signals.description>
-<sp.buttonterminal.activatingitems.name>Activating Items</sp.buttonterminal.activatingitems.name>
-<sp.buttonterminal.activatingitems.description>Identifiers or tags of items that, when contained, allow the terminal buttons to be used. Multiple ones should be separated by commas.</sp.buttonterminal.activatingitems.description>
-<sp.connectionpanel.locked.name>Locked</sp.connectionpanel.locked.name>
-<sp.connectionpanel.locked.description>Locked connection panels cannot be rewired in-game.</sp.connectionpanel.locked.description>
-<sp.memorycomponent.maxvaluelength.name>Max Value Length</sp.memorycomponent.maxvaluelength.name>
-<sp.memorycomponent.maxvaluelength.description>The maximum length of the stored value. Warning: Large values can lead to high memory usage or networking issues.</sp.memorycomponent.maxvaluelength.description>
-<sp.memorycomponent.writeable.name>Writeable</sp.memorycomponent.writeable.name>
-<sp.memorycomponent.writeable.description>Can the value stored in the memory component be changed via signals.</sp.memorycomponent.writeable.description>
-<sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
-<sp.motionsensor.ignoredead.description>Should the sensor ignore the bodies of dead characters?</sp.motionsensor.ignoredead.description>
-<sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
-<sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
-<sp.motionsensor.detectoffset.name>Detect Offset</sp.motionsensor.detectoffset.name>
-<sp.motionsensor.detectoffset.description>The position to detect movement at, relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
-<sp.motionsensor.updateinterval.name>Update Interval</sp.motionsensor.updateinterval.name>
-<sp.motionsensor.updateinterval.description>How often the sensor checks if there's something moving near it. Higher values are better for performance.</sp.motionsensor.updateinterval.description>
-<sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
-<sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
-<sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>How fast objects within the detector's range have to be moving (in m/s) before they're detected.</sp.motionsensor.minimumvelocity.description>
-<sp.terminal.welcomemessage.name>Welcome Message</sp.terminal.welcomemessage.name>
-<sp.terminal.welcomemessage.description>Message to be shown on the terminal display when it is first opened.</sp.terminal.welcomemessage.description>
-<sp.terminal.usemonospacefont.name>Use Monospace Font</sp.terminal.usemonospacefont.name>
-<sp.terminal.usemonospacefont.description>The terminal will use a monospace font if this box is ticked.</sp.terminal.usemonospacefont.description>
-<sp.textcolor.name>Text Color</sp.textcolor.name>
-<sp.terminal.textcolor.description>Color of the terminal text.</sp.terminal.textcolor.description>
-<sp.range.name>Range</sp.range.name>
-<sp.wificomponent.range.description>How close the recipient has to be to receive a signal from this wifi component.</sp.wificomponent.range.description>
-<sp.wificomponent.allowcrossteamcommunication.name>Allow Cross-Team Communication</sp.wificomponent.allowcrossteamcommunication.name>
-<sp.wificomponent.allowcrossteamcommunication.description>Can the component communicate with wifi components in another team's submarine (e.g. enemy sub in Combat missions, respawn shuttle). Needs to be enabled on both the component transmitting the signal and the component receiving it.</sp.wificomponent.allowcrossteamcommunication.description>
-<sp.wificomponent.linktochat.name>Link to Chat</sp.wificomponent.linktochat.name>
-<sp.wificomponent.linktochat.description>If enabled, any signals received from another chat-linked wifi component are displayed as chat messages in the chatbox of the player holding the item.</sp.wificomponent.linktochat.description>
-<sp.wificomponent.minchatmessageinterval.name>Min Chat Message Interval</sp.wificomponent.minchatmessageinterval.name>
-<sp.wificomponent.minchatmessageinterval.description>How many seconds have to pass between signals for a message to be displayed in the chatbox. Setting this to a very low value is not recommended, because it may cause an excessive amount of chat messages to be created if there are chat-linked wifi components that transmit a continuous signal.</sp.wificomponent.minchatmessageinterval.description>
-<sp.wificomponent.discardduplicatechatmessages.name>Discard Duplicate Chat Messages</sp.wificomponent.discardduplicatechatmessages.name>
-<sp.wificomponent.discardduplicatechatmessages.description>If set to true, the component will only create chat messages when the received signal changes.</sp.wificomponent.discardduplicatechatmessages.description>
-<sp.wire.noautolock.name>No Auto Lock</sp.wire.noautolock.name>
-<sp.wire.noautolock.description>If enabled, this wire will be ignored by the "Lock all default wires" setting.</sp.wire.noautolock.description>
-<sp.wire.usespritedepth.name>Use Sprite Depth</sp.wire.usespritedepth.name>
-<sp.wire.usespritedepth.description>If enabled, this wire will use the sprite depth instead of a constant depth.</sp.wire.usespritedepth.description>
-<sp.triggercomponent.force.description>The maximum amount of force applied to the triggering entities.</sp.triggercomponent.force.description>
-<sp.triggercomponent.distancebasedforce.name>Distance-Based Force</sp.triggercomponent.distancebasedforce.name>
-<sp.triggercomponent.distancebasedforce.description>Determines if the force gets higher the closer the triggerer is to the center of the trigger.</sp.triggercomponent.distancebasedforce.description>
-<sp.triggercomponent.forcefluctuation.name>Force Fluctuation</sp.triggercomponent.forcefluctuation.name>
-<sp.triggercomponent.forcefluctuation.description>Determines if the force fluctuates over time or if it stays constant.</sp.triggercomponent.forcefluctuation.description>
-<sp.turret.hudtint.name>HUD Tint</sp.turret.hudtint.name>
-<sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
-<sp.turret.reload.name>Reload</sp.turret.reload.name>
-<sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
-<sp.turret.shotsperburst.name>Shots Per Burst</sp.turret.shotsperburst.name>
-<sp.turret.shotsperburst.description>How many projectiles need to be fired before there's an extra break. (Think of the double coilgun.)</sp.turret.shotsperburst.description>
-<sp.turret.delaybetweenbursts.name>Delay Between Bursts</sp.turret.delaybetweenbursts.name>
-<sp.turret.delaybetweenbursts.description>An extra delay between the bursts. Added to the reload.</sp.turret.delaybetweenbursts.description>
-<sp.turret.retractiondurationmultiplier.name>Retraction Duration Multiplier</sp.turret.retractiondurationmultiplier.name>
-<sp.turret.retractiondurationmultiplier.description>Modifies how long it takes for the barrel to get back to the original position after shooting. Reload time affects this, too.</sp.turret.retractiondurationmultiplier.description>
-<sp.turret.recoiltime.name>Recoil Time</sp.turret.recoiltime.name>
-<sp.turret.recoiltime.description>How quickly the recoil moves the barrel after launching.</sp.turret.recoiltime.description>
-<sp.turret.retractiondelay.name>Retraction Delay</sp.turret.retractiondelay.name>
-<sp.turret.retractiondelay.description>How long the barrel stays in place after the recoil and before retracting back to the original position.</sp.turret.retractiondelay.description>
-<sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
-<sp.turret.rotationlimits.description>The range at which the barrel can rotate.</sp.turret.rotationlimits.description>
-<sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
-<sp.turret.springstiffnesslowskill.description>How much torque is applied to rotate the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesslowskill.description>
-<sp.turret.springstiffnesshighskill.name>Spring Stiffness High Skill</sp.turret.springstiffnesshighskill.name>
-<sp.turret.springstiffnesshighskill.description>How much torque is applied to rotate the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesshighskill.description>
-<sp.turret.springdampinglowskill.name>Spring Damping Low Skill</sp.turret.springdampinglowskill.name>
-<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more "snappy," stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
-<sp.turret.springdampinghighskill.name>Spring Damping High Skill</sp.turret.springdampinghighskill.name>
-<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more "snappy," stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
-<sp.turret.rotationspeedlowskill.name>Rotation Speed Low Skill</sp.turret.rotationspeedlowskill.name>
-<sp.turret.rotationspeedlowskill.description>Maximum angular velocity of the barrel when used by a character with insufficient skills to operate it.</sp.turret.rotationspeedlowskill.description>
-<sp.turret.rotationspeedhighskill.name>Rotation Speed High Skill</sp.turret.rotationspeedhighskill.name>
-<sp.turret.rotationspeedhighskill.description>Maximum angular velocity of the barrel when used by a character with sufficient skills to operate it.</sp.turret.rotationspeedhighskill.description>
-<sp.dockingport.maindockingport.name>Main Docking Port</sp.dockingport.maindockingport.name>
-<sp.dockingport.maindockingport.description>If set to true, this docking port is used when spawning the submarine docked to an outpost (if possible).</sp.dockingport.maindockingport.description>
-<sp.dockingport.applyeffectsondocking.name>Apply Effects on Docking</sp.dockingport.applyeffectsondocking.name>
-<sp.dockingport.applyeffectsondocking.description>Should the OnUse StatusEffects trigger when docking (on vanilla docking ports these effects emit particles and play a sound).</sp.dockingport.applyeffectsondocking.description>
-<sp.dockingport.forcedockingdirection.name>Force Docking Direction</sp.dockingport.forcedockingdirection.name>
-<sp.dockingport.forcedockingdirection.description>Which direction the port is allowed to dock in. For example, "Top" would mean the port can dock to another port above it. Normally there's no need to touch this setting, but if you notice the docking position is incorrect (for example due to some unusual docking port configuration without hulls or doors), you can use this to enforce the direction.</sp.dockingport.forcedockingdirection.description>
-<sp.meleeweapon.swing.name>Swing</sp.meleeweapon.swing.name>
-<sp.meleeweapon.swingpos.name>Swing Pos</sp.meleeweapon.swingpos.name>
-<sp.meleeweapon.swingforce.name>Swing Force</sp.meleeweapon.swingforce.name>
-<sp.force.name>Force</sp.force.name>
-<sp.propulsion.force.description>The force to apply to the user's body.</sp.propulsion.force.description>
-<sp.oxygengenerator.generatedamount.name>Generated Amount</sp.oxygengenerator.generatedamount.name>
-<sp.oxygengenerator.generatedamount.description>How much oxygen the machine generates when operating at full power.</sp.oxygengenerator.generatedamount.description>
-<sp.booleanoperatorcomponent.output.description>The signal sent when the condition is met.</sp.booleanoperatorcomponent.output.description>
-<sp.booleanoperatorcomponent.falseoutput.description>The signal sent when the condition is met (if empty, no signal is sent).</sp.booleanoperatorcomponent.falseoutput.description>
-<sp.concatcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to high memory usage or networking load.</sp.concatcomponent.maxoutputlength.description>
-<sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
-<sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
-<sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
-<sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
-<sp.oscillatorcomponent.outputtype.description>What kind of signal the item outputs. Pulse: periodically sends out a signal of 1. Sawtooth: sends out a periodic wave that increases linearly from 0 to 1. Sine: sends out a sine wave oscillating between -1 and 1. Square: sends out a signal that alternates between 0 and 1. Triangle: sends out a wave that alternates between increasing linearly from -1 to 1 and decreasing from 1 to -1.</sp.oscillatorcomponent.outputtype.description>
-<sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
-<sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
-<sp.regexfindcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to large memory usage or networking issues.</sp.regexfindcomponent.maxoutputlength.description>
-<sp.relaycomponent.maxpower.name>Max Power</sp.relaycomponent.maxpower.name>
-<sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
-<sp.ison.name>Is On</sp.ison.name>
-<sp.relaycomponent.ison.description>Can the relay currently pass power and signals through it.</sp.relaycomponent.ison.description>
-<sp.signalcheckcomponent.output.description>The signal this item outputs when the received signal matches the target signal.</sp.signalcheckcomponent.output.description>
-<sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
-<sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
-<sp.maxoutputlength.name>Max Output Length</sp.maxoutputlength.name>
-<sp.maxoutputlength.description>The maximum length of the output strings. Warning: Large values can lead to high memory usage or networking issues.</sp.maxoutputlength.description>
-<sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
-<sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
+<sp.itemcomponent.msg.description>當滑鼠游標漂浮於物件上時所顯示的一段訊息 (通常用於標註與物件的互動方式，例如: [Mouse1] 撿起)。</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>物件產生的電擊自其本身擴散的範圍。</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>牆體擴散範圍</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>產生的電擊能夠沿著牆壁進一步擴散的距離。</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>持續時間</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>單次放電的持續時間 (秒)。</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>只在艙外</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>啟用時，產生的電擊將無法傳達進入艙內或傷害位於艙內的角色。</sp.electricaldischarger.outdoorsonly.description>
+<sp.powered.minvoltage.name>最低電壓</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>這個物件運作時所需的最低電壓。遊戲中電壓的計算方式為 供電量/耗電量，若"耗電量"為1000 kW，而"最低電壓"為0.5時，則需要對物件提供至少500 kW的電力才能使其開始運作。</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>耗電量</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>這個物件運作時消耗 (或嘗試消耗) 的電量。</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>能受EMP影響</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>物件能否受到電磁脈衝的影響？</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>物品識別字</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>用於生成物品的識別字 (Identifier)；若 "生物名稱" 已有設定時則沒有效果。能夠以半形逗號分隔隨機產生多種物品。</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>生物名稱</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>用於產生生物；將優先於 "物品識別字" 的設定效果。能夠以半形逗號分隔隨機產生多種生物。</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>僅在船員於範圍內時產生</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>僅會在船員接近一定範圍內產生。</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>船員範圍形狀</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>船員需要處在其中的範圍形狀。</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>船員區域範圍</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>船員必須處於其中的矩形範圍大小。若"船員範圍形狀"為 Circle 時無效。</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>船員區域半徑</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>船員必須處於其中的圓形範圍半徑。若"船員範圍形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.crewarearadius.description><!--source error?-->
+<sp.entityspawnercomponent.crewareaoffset.name>船員區域位移</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>以物件中心點為基準的船員範圍位移量。</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>產生區域形狀</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>產生物品或生物的範圍形狀。</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>產生區域範圍</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>產生物品或生物的圓形範圍大小。若"產生區域形狀"為 Circle 時無效。</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>產生區域半徑</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>產生物品或生物的圓形範圍半徑。若"產生區域形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>產生區域位移</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>以物件中心點為基準的產生區域位移量。</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>產生時間範圍</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>嘗試產生的間隔秒數。將兩項目設為負數值來停用自動產生。</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>產生數量範圍</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>單次產生物品或生物的最大與最小數量。</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>最多數量</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>最多能夠產生的物品或生物數量。0 = 沒有限制。</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>區域內最多數量</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>產生區域內達此物品或生物數量時將不再產生。0 = 沒有限制。</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>最大值緩衝範圍</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>以此值將計算物品或敵人最大數量的矩形或圓形範圍擴大。</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.holdable.holdpos.name>握持位置</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>握持角度</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>角色裝備物件時它的角度 (以角度為單位，以角色的手為基準的旋轉角度)。</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>擺動量</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>瞄準/握住物品時，物品的擺動程度 (以像素為單位，以 "瞄準位置/握持位置" 為基準進行移動的量)。</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>擺動速度</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>瞄準/握住物品時的擺動速度 (只在 "揮舞量" 有數值時有效)。</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>握持時擺動</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>角色裝備物件時是否揮舞它。</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>瞄準時擺動</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>以物件進行瞄準時是否揮舞它。</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>使用時擺動</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.holdable.swingwhenusing.description>
+<sp.holdable.disableheadrotation.name>停用頭部旋轉</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>掉落時Sprite深度</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>當物品未連至牆壁時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
+<sp.itemcontainer.containablerestrictions.name>可容納限制</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>Define用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>自動填充</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>這個容器是否自動被物品填充？</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>文字</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>顯示於標識上的文字。</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>忽略當地語系化</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>是否忽略忽略當地語系化並總是顯示原始值。</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>標識上所顯示文字的色彩 (R,G,B,A)。</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>標識上所顯示文字的縮放。</sp.itemlabel.textscale.description>
+<sp.lightcomponent.range.description>燈光的照射範圍。數值愈高，對遊戲的效能影響愈大。</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>投射陰影</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>當結構配件受到此光線照射時是否會產生陰影。關閉這個選項將改善遊戲效能，建議小範圍燈光停用此選項。設為 "顯示在潛艇之後" 的燈光不會投射任何陰影，且不受到此選項影響。</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>顯示在潛艇之後</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>顯示在潛艇之後的燈光不會投射任何陰影，能夠更快地被顯示。建議潛艇外的裝飾性燈光啟用這個選項。</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.ison.description>這個燈光當下為On。</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>閃爍</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>燈光閃爍的程度。0 = 沒有閃爍、1 = 燈光將在最大亮度與完全無光之間交替。</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>閃爍速度</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>燈光閃爍的速度。</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>脈衝頻率</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>燈光進行脈衝的頻率 (Hz)。0 = 不動作。</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>脈衝量</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>燈光進行脈衝的程度 (Hz)。0 = 不動作、1 = 在最大亮度與完全無光之間交替。</sp.lightcomponent.pulseamount.description>
+<sp.lightcomponent.blinkfrequency.name>開關頻率</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>可切換</sp.controller.istoggle.name>
+<sp.controller.istoggle.description>啟用時，物品將持續發送0/1訊號，與其互動將翻轉訊號 (使物品如開關一般作動)。停用時，物品僅在互動當下發送訊號1。</sp.controller.istoggle.description>
+<sp.controller.state.name>狀態</sp.controller.state.name>
+<sp.controller.state.description>物品當下處於開/關狀態。僅在"可切換"啟用時有效。</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
+<sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>推進器位置</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>以物件中心點為基準的推進器位置 (以像素為單位)。用以定義產生粒子和角色受到推進器傷害的位置。</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>停用推進器傷害</sp.engine.disablepropellerdamage.name>
+<sp.minimap.requirewaterdetectors.name>需要水體偵測器</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>此設備是否需要透過水體偵測器的輸入才能顯示艙房內的水位。</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>需要氧氣偵測器</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>此設備是否需要透過氧氣偵測器的輸入才能顯示艙房內的氧氣狀態。</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>顯示船體完整性</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>此設備是否顯示牆體損傷。</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>顯示船體狀態</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>啟用狀態模式。</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>啟用電氣視圖</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>啟用電氣視圖模式。</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>啟用物品搜索器</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>啟用物品搜索器模式。</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>最大流量</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>抽水機以100%將水打入/抽出的速度。</sp.pump.maxflow.description>
+<sp.reactor.maxpoweroutput.name>最大輸出功率</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>反應爐全力運轉時的最大輸出功率 (kW)。</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>熔毀延遲時間</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>臨界溫度持續多久才會使反應爐熔毀。</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>起火延遲時間</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>臨界溫度持續多久才會使反應爐起火。</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>燃料消耗率</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>置於當中的燃料棒每秒被消耗的量。</sp.reactor.fuelconsumptionrate.description>
+<sp.reactor.explosiondamagesothersubs.name>爆炸對於其他潛艇造成的傷害</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>使用聲納發射器</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>此聲納是否需要外接聲納發射器。</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>以聲納發射器為中心</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>聲納畫面是否以潛艇或以聲納發射器為畫面中心點。僅在"以聲納發射器為中心"啟用時有效。</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>有礦物偵測器</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>此聲納是否有礦物偵測模式。</sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>壓載艙中立水位</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>當潛艇未進行上浮/下潛時壓載艙的水位。能用於彌補壓載艙尺寸相對於潛艇過大/過小的情形。</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>此設備的最大容量 (kW * 分鐘)。若為 1000 則此設備將能夠輸出100 kW的電力10分鐘，或 1000 kW的電力1分鐘。</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.description>此設備當下的電量。</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>最大充電率</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>此設備的最大充電速度。若設為 100 kW，而設備容量為 1000 kW時，則將耗費10分鐘才能使此設備完全充飽電力。</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>充電率</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>此設備當下的充電速度。</sp.powercontainer.rechargespeed.description>
+<sp.powercontainer.efficiency.name>效率</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>自物品中取得電量與輸入電量的比率。</sp.powercontainer.efficiency.description><!--need edit-->
+<sp.PowerContainer.FlipIndicator.name>反轉進度條</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>進度條是否自另一端開始發展。</sp.PowerContainer.FlipIndicator.description>
+<sp.powertransfer.canbeoverloaded.name>能否超載</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>超載電壓</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>起火機率</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>當物件受到電力損害時起火的機率。</sp.powertransfer.fireprobability.description>
+<sp.quality.qualitylevel.name>品質等級</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>劣化速度</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>設備狀態自然劣化的速度 (秒)。</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>最短劣化延遲</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>最長劣化延遲</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>劣化最低耐久值</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>設備耐久值低於此後將不再劣化。若設為 10，其耐久值將自然地降至10並停止 (除非進一步受到來自外部的損害)。為最大耐久值的百分比。</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>維修臨界點</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>設備耐久值必須在此值以下才能被修復。為最大耐久值的百分比。</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>低技能修復時間</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>在技能水準不足的情況下修復物品所需的時間。</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>高技能修復時間</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>在技能水準足夠的情況下修復物品所需的時間。</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>槍管旋轉</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>槍管的旋轉角度。</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>訊號</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>按下相應按鈕時所輸出的值。</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>啟動物品</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>當放有包含特定識別字 (Identifier) 或標籤 (Tag)的物品之後允許使用終端按鈕。能以半形逗號分隔多個。</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>鎖定</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>鎖定的配線盤無法在遊戲進行時對它進行配線。</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>最大輸出長度</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>可被寫入</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>儲存在Memory元件中的數值能透過收到訊號而改變。</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>忽略已死亡</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>偵測器是否忽略角色的屍體？</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>水平偵測範圍。</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>垂直偵測範圍。</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>偵測範圍位移</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>偵測範圍與物件本身的相對位置。若設為 0,100 則偵測範圍將位於距離物件上方 100 單位的位置。</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>更新間隔</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>偵測器檢查周遭是否有物件移動的間隔時間。數值愈高對遊戲效能影響愈低。</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>物件偵測到動態時所輸出的值。</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的值。</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s).</sp.motionsensor.minimumvelocity.description>
+<sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>首次打開終端時所顯示的訊息。</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>使用Monospace字體</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>若啟用，此終端將使用Monospace字體。</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>文字色彩</sp.textcolor.name>
+<sp.terminal.textcolor.description>終端的文字色彩。</sp.terminal.textcolor.description>
+<sp.range.name>範圍</sp.range.name>
+<sp.wificomponent.range.description>接收者要多近才能收到此Wifi元件的訊號。</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>允許跨團隊通訊</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>此元件能否與另一隊伍潛艇中的Wifi元件進行通訊 (如復活小艇或戰鬥任務中的敵方潛艇)。輸出和輸入方元件都必須啟用此選項。</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>連接至聊天</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>啟用時，來自任何與聊天室連接的Wifi元件訊號都將對持有該物品的玩家顯示為聊天室訊息。</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>最短聊天訊息間隔</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>訊息之間需要經過多長秒數之後才會顯示於聊天室。不建議將數值設定過低，若有與聊天連接的Wifi元件連續輸出訊號，這將產生大量聊天訊息。</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>捨棄重複的聊天訊息</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>啟用時，此元件將僅在所收到訊號改變時才會發送聊天訊息。</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>不自動鎖定</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>啟用時，這條電線將不受到"固定所有預設線路"設定影響。</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>使用Sprite深度</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>啟用時，這條電線將使用Sprite深度而非固定深度。</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>施加於觸發者的最大力道。</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>基於距離的力</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>用以定義力是否隨著觸發者與被觸發物中心點的距離接近而變大。</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>浮動的力</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>用以定義力將隨時間發生變化或保持穩定。</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>HUD色調</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>操作砲塔時的覆蓋遊戲畫面的顏色 (R,G,B,A)。</sp.turret.hudtint.description>
+<sp.turret.reload.name>裝彈時間</sp.turret.reload.name>
+<sp.turret.reload.description>在兩次射擊之間需要等待的時間。</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>連發彈數</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>在多少子彈被發射之後觸發的額外等待時間 (如雙管電磁槍)。</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>連發延遲</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>連發之間的額外延遲。與裝彈時間疊加。</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>復位持續時間倍率</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>修改槍管受到後座力移動後回復原位所需的時間。裝彈時間也對此數值造成影響。</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>後座力時間</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>開火後後座力移動槍管的速度。</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>復位延遲</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>槍管受到後座力移動後回復原位前的靜止時間。</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>旋轉範圍</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>砲塔的旋轉範圍。</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>低技能晃動力量</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>技能水準不足的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>高技能晃動力量</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>技能水準足夠的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>低技能晃動阻尼</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>技能水準不足的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>高技能晃動阻尼</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>技能水準足夠的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>低技能旋轉速度</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>技能水準不足的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>技能水準足夠的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
+<sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>對接時是否觸發 OnUse StatusEffects (預設的對接艙口效果將發射粒子並撥放音效)。</sp.dockingport.applyeffectsondocking.description><!--need edit-->
+<sp.dockingport.forcedockingdirection.name>強制對接方向</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>允許的對接方向。若為 "Top" 則此艙口將能與其上方的另一艙口對接。通常此選項不需要特別設定，但若對接時位置不正確 (例如對接艙口未使用門或牆體的特殊配置)，能以此強制設定對接方向。</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>擺動</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>擺動位置</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>擺動力道</sp.meleeweapon.swingforce.name>
+<sp.propulsion.force.name>力道</sp.propulsion.force.name>
+<sp.propulsion.force.description>施加至使用者身上的力道。</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>氧氣製造量</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>在此設備全力運轉時能夠產生的氧氣量。</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>條件滿足時所輸出的值。</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>條件滿足時所輸出的值 (若為空白則不輸出訊號)。</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>此物件延後訊號通過的時間 (秒)。</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>物件是否在收到新的值後清除上一次收到的值。</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>物件是否在收到的訊號發生變化時清除先前收到的訊號。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>連續輸出</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出來回 -1 與 1 之間的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出來回 -1 與 1 之間的數值。</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz).</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>能夠通過此物件的最大電力。</sp.relaycomponent.maxpower.description>
+<sp.ison.name>為On</sp.ison.name>
+<sp.relaycomponent.ison.description>此繼電器當下能否讓電力和訊號通過。</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>當物件收到與目標訊號相符的值時所輸出的值。</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>當物件收到與目標訊號不符的值時所輸出的值。</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>用以與所收到訊號進行比較的值。</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>最大輸出長度</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>此物品在水中時發送的訊號。</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>此物品不在水中時發送的訊號。</sp.waterdetector.falseoutput.description>
 
 <!-- Entity names -->
 <entityname.hull>Hull</entityname.hull>
