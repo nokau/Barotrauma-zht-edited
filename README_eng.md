@@ -33,7 +33,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 # Project files
 Inside this project's [current_version](./current_version) folder:
 
-T
+There are 6 files
 
 - **NpcConversations_TraditionalChinese.xml**
   - This file contains edited lines of NPC conversations.
