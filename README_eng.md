@@ -24,7 +24,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 
 ### Notes
 - Very different translations for some of the items and devices.
--	~~he item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.~~
+-	~~The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.~~
 - Since game version v0.21.6.0, the Editor UIs and item parameters are now translated.
 - Component names (Wifi, Sin, Cos, etc.) are un-translated.
 - Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
