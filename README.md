@@ -35,28 +35,21 @@
 # 專案中的檔案
 在此專案中的 [current_version](./current_version) 資料夾裡:
 
+- NpcConversations_TraditionalChinese.xml
+  - 這個檔案包含了編輯過的NPC對話。
+  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 
-- 在遊戲資料夾中的路徑為
-`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
-### NpcConversations_TraditionalChinese.xml
-- 這個檔案包含了編輯過的NPC對話。
+- TraditionalChineseVanilla.xml
+  - 這個檔案包含了 EnglishVanilla.xml、EnglishVanillaNew.xml 的檔案內容，為任務與UI等文本。
+  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
+- TraditionalChineseVanillaEditorTexts.xml
+  - 這個檔案包含了與編輯器相關的文本內容。
+  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 
-- 在遊戲資料夾中的路徑為
-`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-### TraditionalChineseVanilla.xml
-- 這個檔案包含了 EnglishVanilla.xml、EnglishVanillaNew.xml 的檔案內容，為任務與UI等文本。
-### TraditionalChineseVanillaEditorTexts.xml
-- 這個檔案包含了與編輯器相關的文本內容。
-
-- 若想要與英文文本檔案進行對照，資料夾中也附有被我進行編輯時使用的3個檔案:
+- 若想要與英文文本檔案進行對照，資料夾中也附有我編輯時使用的3個檔案:
   - **TCVanilla.xml**
   - **TCVanillaEditorTexts.xml**
   - **TCVanillaNew.xml**
-
-# 額外檔案
-在此專案中名稱為 extra 的資料夾中:
-
-此資料夾中置有嘗試對它們進行翻譯的舊版本檔案。
 
 # 推薦工具
 - Notepad++
