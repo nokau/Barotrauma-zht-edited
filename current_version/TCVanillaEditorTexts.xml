@@ -444,7 +444,7 @@
 <sp.steering.neutralballastlevel.name>壓載艙中立水位</sp.steering.neutralballastlevel.name>
 <sp.steering.neutralballastlevel.description>當潛艇未進行上浮/下潛時壓載艙的水位。能用於彌補壓載艙尺寸相對於潛艇過大/過小的情形。</sp.steering.neutralballastlevel.description>
 <sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
-<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW)。</sp.powercontainer.maxoutput.description>
 <sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
 <sp.powercontainer.capacity.description>此設備的最大容量 (kW * 分鐘)。若為 1000 則此設備將能夠輸出100 kW的電力10分鐘，或 1000 kW的電力1分鐘。</sp.powercontainer.capacity.description>
 <sp.powercontainer.charge.description>此設備當下的電量。</sp.powercontainer.charge.description>
@@ -500,7 +500,7 @@
 <sp.motionsensor.output.description>物件偵測到動態時所輸出的值。</sp.motionsensor.output.description>
 <sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的值。</sp.motionsensor.falseoutput.description>
 <sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s).</sp.motionsensor.minimumvelocity.description>
+<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s)。</sp.motionsensor.minimumvelocity.description>
 <sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
 <sp.terminal.welcomemessage.description>首次打開終端時所顯示的訊息。</sp.terminal.welcomemessage.description>
 <sp.terminal.usemonospacefont.name>使用Monospace字體</sp.terminal.usemonospacefont.name>
@@ -576,7 +576,7 @@
 <sp.notcomponent.continuousoutput.name>連續輸出</sp.notcomponent.continuousoutput.name>
 <sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出來回 -1 與 1 之間的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出來回 -1 與 1 之間的數值。</sp.oscillatorcomponent.outputtype.description>
 <sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
-<sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz).</sp.oscillatorcomponent.frequency.description>
+<sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz)。</sp.oscillatorcomponent.frequency.description>
 <sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
 <sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
 <sp.relaycomponent.maxpower.description>能夠通過此物件的最大電力。</sp.relaycomponent.maxpower.description>
