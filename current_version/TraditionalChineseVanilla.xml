@@ -7049,7 +7049,7 @@
 <talentdescription.gainexperiencefromartifacts>拆解異星文物時你和另一名隨機船員將獲得[experiencegain]經驗值。拆解小型異星文物時則將給予[smallexperiencegain]經驗值。</talentdescription.gainexperiencefromartifacts>
 <talentdescription.maxtriggeruntildeath>這項效果每回合每條命只能觸發一次。</talentdescription.maxtriggeruntildeath>
 <talentdescription.maxskillfromtalent>這項天賦最多只能增加額外的[skillamount]點。</talentdescription.maxskillfromtalent>
-<talentdescription.expertcommando>在蹲下時開火將減少[spreadreduction]%的子彈分散程度、且提升[powerincrease]%攻擊力，但你的射擊速度降低[firingratedecrease]%。\n你將更快的從流血狀態恢復。</talentdescription.expertcommando>
+<talentdescription.expertcommando>蹲下以遠程武器開火時減少[spreadreduction]%的子彈分散程度並提升[powerincrease]%攻擊力，但你的射擊速度降低[firingratedecrease]%。\n你將更快的從流血狀態恢復。</talentdescription.expertcommando>
 <talentdescription.gainmedicalitemeffectiveness>你使用的醫療物品效果提升[amount]%。</talentdescription.gainmedicalitemeffectiveness>
 <talentdescription.geneticmaterialrefineflatbonus>精煉遺傳物質將使它們的效果提升[amount]%。</talentdescription.geneticmaterialrefineflatbonus>
 <talentdescription.stillkickingheal>當你的生命值低於0，短時間內快速治療普通類型傷害，並消除暈眩。</talentdescription.stillkickingheal>
@@ -7135,7 +7135,7 @@
 <talentdescription.inspiringtunes>小丑之力賦予你以自行車喇叭修復周遭電氣與機械設備的能力，同時你周遭隊友的全部技能也會在一段時間內獲得額外的[skillamount]點。</talentdescription.inspiringtunes>
 <talentdescription.psychoclown>小丑之力賦予你在受精神症影響時根據程度獲得最高[maxattackspeed]%的近戰武器攻擊速度，但你受精神症影響時將無法奔跑。</talentdescription.psychoclown>
 <talentdescription.slapstickexpert>小丑之力賦予奔跑時有一定機率會跌倒的命運。\n當你進入ragdoll狀態時，小丑之力賦予所承受的攻擊力道降低[powerreduction]%的能力，而你的攻擊者將有[probability]%的機率陷入[stunseconds]秒的暈眩狀態。</talentdescription.slapstickexpert>
-<talentdescription.commando>蹲下以遠程武器開火時獲得[armorpenetration]%穿甲力道，你的攻擊力也會增加[powerincrease]%，但你的射速降低[firingratedecrease]%。\n更快自流血狀態回復。</talentdescription.commando>
+<talentdescription.commando>蹲下以遠程武器開火時減少[spreadreduction]%的子彈分散程度並提升[powerincrease]%攻擊力。</talentdescription.commando>
 <talentdescription.phdinnuclearphysics>橇棍的攻擊力增加[powerincrease]%。</talentdescription.phdinnuclearphysics>
 <talentdescription.intheflow>在完全修復一項設備之後提升[repairspeed]%維修速度[seconds]秒。</talentdescription.intheflow>
 <talentdescription.coauthor>你能夠與技師共同撰寫一本書。\n雙方在選取對方的角色[seconds]秒後會獲得一本[itemname]並得到[experienceamount]經驗值。</talentdescription.coauthor>
@@ -7212,7 +7212,7 @@
 <talentdescription.logisticsexpert>在完成[missiontype1]或[missiontype2]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.logisticsexpert>
 <talentdescription.healthinsurance>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.healthinsurance>
 <talentdescription.mailman>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.mailman>
-<talentdescription.protectandserve>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.protectandserve>
+<talentdescription.protectandserve>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值。</talentdescription.protectandserve>
 <talentdescription.nobodyimportantdies>在完成任務且全員生還時獲得[xpbonus]%額外經驗值。</talentdescription.nobodyimportantdies>
 <talentdescription.travelingtradesman>隊友賣出物品的價錢增加[amount]%。</talentdescription.travelingtradesman>
 <talentdescription.appliestoallcrew>適用於所有船員:</talentdescription.appliestoallcrew>
@@ -7298,7 +7298,7 @@
 <talentdescription.miracleworkerreminder>你不再受到‖color:gui.orange‖奇跡進行中‖end‖效果的影響。</talentdescription.miracleworkerreminder>
 <talentdescription.thewaitinglist>等待CPR救援時，你的生命跡象消逝速度減緩[amount]%。</talentdescription.thewaitinglist>
 <talentdescription.thefriendswemade>能透過醫用加工台馴服未孵化的泥偶迅猛龍。</talentdescription.thefriendswemade>
-<talentdescription.thefriendswemadereminder>Only [amount] per crew can be active at the same time.</talentdescription.thefriendswemadereminder>
+<talentdescription.thefriendswemadereminder>一位船員僅能同時使用[amount]隻。</talentdescription.thefriendswemadereminder><!--need edit-->
 <talentdescription.clownpowerbenefits>小丑之力賦予你:</talentdescription.clownpowerbenefits>
 <talentdescription.thearrival>一個哨站一次，使用‖color:gui.orange‖自行車喇叭‖end‖將賦予你[faction]的[amount]聲望值。</talentdescription.thearrival>
 
