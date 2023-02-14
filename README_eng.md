@@ -32,6 +32,9 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 
 # Project files
 Inside this project's [current_version](./current_version) folder:
+
+T
+
 - **NpcConversations_TraditionalChinese.xml**
   - This file contains edited lines of NPC conversations.
   - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
