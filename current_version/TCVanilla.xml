@@ -775,7 +775,7 @@
 <sp.nametag.writtenname.description>寫在名牌上的名字。</sp.nametag.writtenname.description>
 <sp.item.rotation.name>旋轉</sp.item.rotation.name>
 <sp.colorcomponent.usehsv.name>使用HSV</sp.colorcomponent.usehsv.name>
-<sp.colorcomponent.usehsv.description>啟用時將轉換此元件的RGB輸出為HSV，R為0至360的色相、G為0至1的飽和度，B為0至1的明度。</sp.colorcomponent.usehsv.description>
+<sp.colorcomponent.usehsv.description>啟用時將轉換此元件的RGB輸出為HSV，R為 0 至 360 的色相、G為 0 至 1 的飽和度，B為 0 至 1 的明度。</sp.colorcomponent.usehsv.description>
 <lightcomponent.lightcolor>色彩</lightcomponent.lightcolor>
 <sp.memorycomponent.value.description>儲存此物件中的輸出訊號。</sp.memorycomponent.value.description>
 <sp.motionsensor.target.name>目標</sp.motionsensor.target.name>
@@ -2916,8 +2916,8 @@
 <entitydescription.dockinghatch>一個水平的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
 <entityname.ductblock>排水口</entityname.ductblock>
 <entitydescription.ductblock>一個可以被打開或關閉來控制水流的機械式通道。</entitydescription.ductblock>
-<entityname.label>Label</entityname.label>
-<entitydescription.label>裝飾性的文字標籤。</entitydescription.label>
+<entityname.label>標識</entityname.label>
+<entitydescription.label>裝飾性的文字標識。</entitydescription.label>
 <entityname.textdisplay>文字顯示器</entityname.textdisplay>
 <entitydescription.textdisplay>一個文字跑馬燈顯示器。</entitydescription.textdisplay>
 <entityname.ladder>梯子</entityname.ladder>
@@ -3126,8 +3126,8 @@
 <entitydescription.alienbutton>向異星設備發出信號。</entitydescription.alienbutton>
 <entityname.alienturret>異星砲塔</entityname.alienturret>
 <entitydescription.alienturret>一座能在異星遺蹟中找到的定點砲塔。</entitydescription.alienturret>
-<entityname.alienturretammo>Alien Projectile</entityname.alienturretammo>
-<entitydescription.alienturretammo>Fired from alien turrets.</entitydescription.alienturretammo>
+<entityname.alienturretammo>異星彈丸</entityname.alienturretammo>
+<entitydescription.alienturretammo>能以異星炮塔發射。</entitydescription.alienturretammo>
 <entityname.aliencoil>異星電磁線圈</entityname.aliencoil>
 <entitydescription.aliencoil>產生電擊；用於異星遺蹟。</entitydescription.aliencoil>
 <entityname.alienvent>異星通風口</entityname.alienvent>
@@ -3144,18 +3144,18 @@
 <entitydescription.artifacttransportcase>一個用來減輕運送異星文物麻煩的箱子。</entitydescription.artifacttransportcase>
 <entityname.aliendoorwbuttons>附按鈕的異星遺跡滑門</entityname.aliendoorwbuttons>
 <entityname.alienhatchwbuttons>附按鈕的異星遺跡艙門</entityname.alienhatchwbuttons>
-<entityname.ruindecal1>Ruin Decal</entityname.ruindecal1>
+<entityname.ruindecal1>遺跡圖樣</entityname.ruindecal1>
 <entityname.incubationbubble>孵化泡艙</entityname.incubationbubble>
 <entitydescription.incubationbubble>用於存放異星基因物質。</entitydescription.incubationbubble>
 <entityname.gravitysphere>引力球</entityname.gravitysphere>
 <entitydescription.gravitysphere>產生一股強力的人造力場。</entitydescription.gravitysphere>
-<entityname.ruinwallcorner1>Ruin Wall Corner Piece</entityname.ruinwallcorner1>
-<entitydescription.ruinwallcorner1>A basic wall with collision for alien ruins.</entitydescription.ruinwallcorner1>
+<entityname.ruinwallcorner1>遺跡牆 角落配件</entityname.ruinwallcorner1>
+<entitydescription.ruinwallcorner1>使用於異星遺蹟中的帶碰撞基礎牆體。</entitydescription.ruinwallcorner1>
 <entityname.guardianpod>守衛者艙</entityname.guardianpod>
 <entitydescription.guardianpod>變形守衛者的保護艙。</entitydescription.guardianpod>
 <entityname.ruinscanner>遺跡探測器</entityname.ruinscanner>
 <entitydescription.ruinscanner>一個用來以聲納探測遺跡的裝置。</entitydescription.ruinscanner>
-<entityname.ruinvent>Ruin Vent</entityname.ruinvent>
+<entityname.ruinvent>遺跡通風口</entityname.ruinvent>
 <entitydescription.ruinvent>一個可能會釋放有害氣體或孢子的通風口。</entitydescription.ruinvent>
 <entityname.guardiancutter>守護者切割器</entityname.guardiancutter>
 <entitydescription.guardiancutter>變形守衛者的武器</entitydescription.guardiancutter>
@@ -3165,15 +3165,15 @@
 <entityname.guardianspear>守護者矛</entityname.guardianspear>
 <entityname.guardianinjector>守護者針筒</entityname.guardianinjector>
 <character.swarmfeeder>捕食生物群</character.swarmfeeder>
-<entityname.ruincolumn>Ruin Column</entityname.ruincolumn>
-<entitydescription.ruincolumn>Ruin decoration.</entitydescription.ruincolumn>
-<entityname.ruincolumntop>Ruin Column Top</entityname.ruincolumntop>
-<entityname.ruincolumnbottom>Ruin Column Bottom</entityname.ruincolumnbottom>
+<entityname.ruincolumn>遺跡柱子</entityname.ruincolumn>
+<entitydescription.ruincolumn>遺跡裝飾物件。</entitydescription.ruincolumn>
+<entityname.ruincolumntop>遺跡柱子 頂端</entityname.ruincolumntop>
+<entityname.ruincolumnbottom>遺跡柱子 底端</entityname.ruincolumnbottom>
 <entityname.ruinlight>異星遺蹟燈光</entityname.ruinlight>
-<entityname.alienmachine>Alien Machine</entityname.alienmachine>
+<entityname.alienmachine>異星機器</entityname.alienmachine>
 <entityname.incendium>燃素結晶</entityname.incendium>
 <entitydescription.incendium>一種能夠釋放極大熱能的稀有異星晶體，被用於燃燒武器中。</entitydescription.incendium>
-<entityname.fulgurium>雷素棒</entityname.fulgurium>
+<entityname.fulgurium>雷素塊</entityname.fulgurium>
 <entitydescription.fulgurium>一種稀有的金屬異星材料，能夠儲存大量能量。被用於高容量乾電池中。</entitydescription.fulgurium>
 <entityname.physicorium>剛素棒</entityname.physicorium>
 <entitydescription.physicorium>一種硬度極高且堅固的異星材料，被用於高度先進的武器與彈藥中。</entitydescription.physicorium>
@@ -5557,35 +5557,35 @@
 <traitorgoalinfos_trap2>檢查船員的肝臟，找一顆最像爬行者的。</traitorgoalinfos_trap2>
 
 <!-- Component labels -->
-<addercomponent.timeframe>Timeframe</addercomponent.timeframe>
-<addercomponent.clampmin>Clamp min</addercomponent.clampmin>
-<addercomponent.clampmax>Clamp max</addercomponent.clampmax>
-<equalscomponent.timeframe>Timeframe</equalscomponent.timeframe>
-<equalscomponent.output>Output</equalscomponent.output>
-<equalscomponent.falseoutput>False output</equalscomponent.falseoutput>
-<andcomponent.timeframe>Timeframe</andcomponent.timeframe>
-<andcomponentcomponent.output>Output</andcomponentcomponent.output>
-<andcomponentcomponent.falseoutput>False output</andcomponentcomponent.falseoutput>
-<oscillatorcomponent.timeframe>Timeframe</oscillatorcomponent.timeframe>
-<oscillatorcomponent.outputtype>Output type</oscillatorcomponent.outputtype>
-<delaycomponent.delay>Delay</delaycomponent.delay>
-<delaycomponent.resetwhensignalreceived>Reset when signal received</delaycomponent.resetwhensignalreceived>
-<delaycomponent.resetwhendifferentsignalreceived>Reset when different signal received</delaycomponent.resetwhendifferentsignalreceived>
-<regexfindcomponent.output>Output</regexfindcomponent.output>
-<regexfindcomponent.falseoutput>False output</regexfindcomponent.falseoutput>
-<regexfindcomponent.expression>Expression</regexfindcomponent.expression>
-<regexfindcomponent.continuousoutput>Continuous output</regexfindcomponent.continuousoutput>
-<memorycomponent.value>Value</memorycomponent.value>
-<motionsensor.output>Output</motionsensor.output>
-<motionsensor.falseoutput>False output</motionsensor.falseoutput>
-<motionsensor.rangex>Range X</motionsensor.rangex>
-<motionsensor.rangey>Range Y</motionsensor.rangey>
-<signalcheckcomponent.targetsignal>Target signal</signalcheckcomponent.targetsignal>
-<signalcheckcomponent.output>Output</signalcheckcomponent.output>
-<signalcheckcomponent.falseoutput>False output</signalcheckcomponent.falseoutput>
-<waterdetector.output>Output</waterdetector.output>
-<waterdetector.falseoutput>False output</waterdetector.falseoutput>
-<wificomponent.channel>Channel</wificomponent.channel>
+<addercomponent.timeframe>時間範圍</addercomponent.timeframe>
+<addercomponent.clampmin>鉗制最小值</addercomponent.clampmin>
+<addercomponent.clampmax>鉗制最大值</addercomponent.clampmax>
+<equalscomponent.timeframe>時間範圍</equalscomponent.timeframe>
+<equalscomponent.output>輸出</equalscomponent.output>
+<equalscomponent.falseoutput>False輸出</equalscomponent.falseoutput>
+<andcomponent.timeframe>時間範圍</andcomponent.timeframe>
+<andcomponentcomponent.output>輸出</andcomponentcomponent.output>
+<andcomponentcomponent.falseoutput>False輸出</andcomponentcomponent.falseoutput>
+<oscillatorcomponent.timeframe>時間範圍</oscillatorcomponent.timeframe>
+<oscillatorcomponent.outputtype>輸出種類</oscillatorcomponent.outputtype>
+<delaycomponent.delay>延遲</delaycomponent.delay>
+<delaycomponent.resetwhensignalreceived>收到訊號時重置</delaycomponent.resetwhensignalreceived>
+<delaycomponent.resetwhendifferentsignalreceived>收到不同訊號時重置</delaycomponent.resetwhendifferentsignalreceived>
+<regexfindcomponent.output>輸出</regexfindcomponent.output>
+<regexfindcomponent.falseoutput>False輸出</regexfindcomponent.falseoutput>
+<regexfindcomponent.expression>規則運算式</regexfindcomponent.expression>
+<regexfindcomponent.continuousoutput>連續輸出</regexfindcomponent.continuousoutput>
+<memorycomponent.value>值</memorycomponent.value>
+<motionsensor.output>輸出</motionsensor.output>
+<motionsensor.falseoutput>False輸出</motionsensor.falseoutput>
+<motionsensor.rangex>範圍 X</motionsensor.rangex>
+<motionsensor.rangey>範圍 Y</motionsensor.rangey>
+<signalcheckcomponent.targetsignal>目標訊號</signalcheckcomponent.targetsignal>
+<signalcheckcomponent.output>輸出</signalcheckcomponent.output>
+<signalcheckcomponent.falseoutput>False輸出</signalcheckcomponent.falseoutput>
+<waterdetector.output>輸出</waterdetector.output>
+<waterdetector.falseoutput>False輸出</waterdetector.falseoutput>
+<wificomponent.channel>頻道</wificomponent.channel>
 
 <!-- Personality traits -->
 <personalitytrait>個性</personalitytrait>
