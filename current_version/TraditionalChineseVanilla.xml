@@ -1703,7 +1703,7 @@
 <missiontypedescription.scanalienruins>在異星遺跡中放置掃描器。回收它們並將所收集的數據交付至哨站。</missiontypedescription.scanalienruins><!--NEED EDIT-->
 <missiontypedescription.pirate>找到海盜的船艦並將它的船員與其一同殲滅。</missiontypedescription.pirate>
 <missionname.crawlernest>清除爬行者巢穴</missionname.crawlernest>
-<missiondescription.crawlernest>最近在[location1]附近發現了一處爬行者的巢穴，任何將其清除的人員能夠獲得[reward]馬克的獎勵。</missiondescription.crawlernest>
+<missiondescription.crawlernest>最近在[location1]附近發現了一處藻鬃爬行者的巢穴，任何將其清除的人員能夠獲得[reward]馬克的獎勵。</missiondescription.crawlernest>
 <missionsonarlabel.crawlernest>爬行者巢穴</missionsonarlabel.crawlernest>
 <missionmessage0.crawlernest>已經將巢穴清除，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.crawlernest>
 <missionsuccess.crawlernest>爬行者巢穴已被清除。</missionsuccess.crawlernest>
@@ -1871,16 +1871,16 @@
 <missionheader0.killmopingjack>已殲滅目標</missionheader0.killmopingjack>
 <missionmessage0.killmopingjack>悲傷Jack已被殲滅。再來只需要領取獎勵。</missionmessage0.killmopingjack>
 <missionname.killcrawlerswarm1large>殲滅大量生物群</missionname.killcrawlerswarm1large>
-<missiondescription.killcrawlerswarm1large>一大群爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1large>
+<missiondescription.killcrawlerswarm1large>一大群藻鬃爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1large>
 <missionname.killcrawlerswarm1huge>殲滅巨量生物群</missionname.killcrawlerswarm1huge>
-<missiondescription.killcrawlerswarm1huge>一大群爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1huge>
+<missiondescription.killcrawlerswarm1huge>一大群藻鬃爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killcrawlerswarm1huge>
 <missionname.killspinelingswarm1>殲滅脊刺群</missionname.killspinelingswarm1>
 <missiondescription.killspinelingswarm1>A small swarm of Spinelings不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killspinelingswarm1>
 <missionname.killlargecrawler>殲滅巨大爬行者</missionname.killlargecrawler>
-<missiondescription.killlargecrawler>一隻特別龐大的爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killlargecrawler>
-<missionsonarlabel.killlargecrawler>爬行者</missionsonarlabel.killlargecrawler>
-<missionsuccess.killlargecrawler>爬行者已被殲滅。</missionsuccess.killlargecrawler>
-<missionmessage0.killlargecrawler>爬行者已被殲滅，抵達下一個哨站以領取獎勵。</missionmessage0.killlargecrawler>
+<missiondescription.killlargecrawler>一隻特別龐大的藻鬃爬行者不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將牠們殲滅的人員能夠獲得[reward]馬克的獎勵。</missiondescription.killlargecrawler>
+<missionsonarlabel.killlargecrawler>藻鬃爬行者</missionsonarlabel.killlargecrawler>
+<missionsuccess.killlargecrawler>藻鬃爬行者已被殲滅。</missionsuccess.killlargecrawler>
+<missionmessage0.killlargecrawler>藻鬃爬行者已被殲滅，抵達下一個哨站以領取獎勵。</missionmessage0.killlargecrawler>
 <missionname.miningmission1>採集[resourcename1]</missionname.miningmission1>
 <missiondescription.miningmission1>傳出[location1]與[location2]之間有[resourcename1]礦脈的消息，採集[resourcequantity1]個[resourcename1]樣本以證實這項說法。你將需要交出採集量的[handoverpercentage]。</missiondescription.miningmission1>
 <missionmessage0.miningmission1>已經採集到足夠的[resourcename1]，將它們帶到一處哨站以領取獎勵。</missionmessage0.miningmission1>
@@ -5834,7 +5834,7 @@
 <eventtext.huskcultambush.o2>「放鬆，親愛的兄弟姊妹們，我昇華的時刻未到。」</eventtext.huskcultambush.o2>
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
-<eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，得由我們進行配送。一項簡單的運輸工作；最適合你們這些新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
+<eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，但還得由我們進行配送。一項簡單的運輸工作；這種事最適合你們這些新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
 <eventtext.missionevent_cargo1.c1>「我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
 <eventtext.missionevent_cargo2.c1>「有一批需要被『小心運送』的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>「附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。」</eventtext.missionevent_cargo3.c1>
