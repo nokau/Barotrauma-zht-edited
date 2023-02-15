@@ -255,7 +255,7 @@
 <!-- Entity properties -->
 <sp.scale.name>縮放</sp.scale.name>
 <sp.spritedepth.name>Sprite深度</sp.spritedepth.name>
-<sp.disallowedupgrades.name>禁用升級</sp.disallowedupgrades.name>
+<sp.disallowedupgrades.name>禁用的升級</sp.disallowedupgrades.name>
 <sp.hiddeningame.name>在遊戲進行時隱藏</sp.hiddeningame.name>
 <sp.item.hiddeningame.name>在遊戲進行時隱藏</sp.item.hiddeningame.name>
 <sp.item.noninteractable.name>不可互動</sp.item.noninteractable.name>
@@ -263,10 +263,10 @@
 <sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
 <sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
 <sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為True時有效。</sp.item.containercolor.description>
-<sp.item.condition.name>狀態</sp.item.condition.name>
+<sp.item.condition.name>耐久值</sp.item.condition.name>
 <sp.item.tags.name>Tags</sp.item.tags.name>
 <sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
-<sp.item.displaysidebysidewhenlinked.description>與物件互動時若想已連結物件的介面同時顯示在遊戲畫面中，請啟用這個選項。請注意: 若物件介面在設計上不適合同時顯示，它們非常有可能會遮住彼此！</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.displaysidebysidewhenlinked.description>若想要在互動時讓已連結物件的介面同時顯示在遊戲畫面中，請啟用這個選項。注意: 若物件介面在設計上不適合同時顯示，它們可能會遮住彼此！</sp.item.displaysidebysidewhenlinked.description>
 <sp.item.spritedepth.name>Sprite深度</sp.item.spritedepth.name>
 <sp.item.nonplayerteaminteractable.name>非玩家隊伍可進行互動</sp.item.nonplayerteaminteractable.name>
 <sp.item.nonplayerteaminteractable.description>啟用後此物品將只能由非玩家隊伍角色進行互動。</sp.item.nonplayerteaminteractable.description>
@@ -374,9 +374,9 @@
 <sp.holdable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.holdable.swingwhenusing.description>
 <sp.holdable.disableheadrotation.name>停用頭部旋轉</sp.holdable.disableheadrotation.name>
 <sp.holdable.spritedepthwhendropped.name>掉落時Sprite深度</sp.holdable.spritedepthwhendropped.name>
-<sp.holdable.spritedepthwhendropped.description>當物品未連至牆壁時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
+<sp.holdable.spritedepthwhendropped.description>當物品未裝設於牆上時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
 <sp.itemcontainer.containablerestrictions.name>可容納限制</sp.itemcontainer.containablerestrictions.name>
-<sp.itemcontainer.containablerestrictions.description>Define用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.containablerestrictions.description>用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
 <sp.itemcontainer.autofill.name>自動填充</sp.itemcontainer.autofill.name>
 <sp.itemcontainer.autofill.description>這個容器是否自動被物品填充？</sp.itemcontainer.autofill.description>
 <sp.itemlabel.text.name>文字</sp.itemlabel.text.name>
@@ -402,10 +402,10 @@
 <sp.lightcomponent.blinkfrequency.name>開關頻率</sp.lightcomponent.blinkfrequency.name>
 <sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
 <sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
-<sp.controller.istoggle.name>可切換</sp.controller.istoggle.name>
+<sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
 <sp.controller.istoggle.description>啟用時，物品將持續發送0/1訊號，與其互動將翻轉訊號 (使物品如開關一般作動)。停用時，物品僅在互動當下發送訊號1。</sp.controller.istoggle.description>
 <sp.controller.state.name>狀態</sp.controller.state.name>
-<sp.controller.state.description>物品當下處於開/關狀態。僅在"可切換"啟用時有效。</sp.controller.state.description>
+<sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
 <sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
 <sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
 <sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
@@ -419,7 +419,7 @@
 <sp.minimap.showhullintegrity.name>顯示船體完整性</sp.minimap.showhullintegrity.name>
 <sp.minimap.showhullintegrity.description>此設備是否顯示牆體損傷。</sp.minimap.showhullintegrity.description>
 <sp.minimap.enablehullstatus.name>顯示船體狀態</sp.minimap.enablehullstatus.name>
-<sp.minimap.enablehullstatus.description>啟用狀態模式。</sp.minimap.enablehullstatus.description>
+<sp.minimap.enablehullstatus.description>啟用船體狀態模式。</sp.minimap.enablehullstatus.description>
 <sp.minimap.enableelectricalview.name>啟用電氣視圖</sp.minimap.enableelectricalview.name>
 <sp.minimap.enableelectricalview.description>啟用電氣視圖模式。</sp.minimap.enableelectricalview.description>
 <sp.minimap.enableitemfinder.name>啟用物品搜索器</sp.minimap.enableitemfinder.name>
@@ -453,10 +453,10 @@
 <sp.powercontainer.rechargespeed.name>充電率</sp.powercontainer.rechargespeed.name>
 <sp.powercontainer.rechargespeed.description>此設備當下的充電速度。</sp.powercontainer.rechargespeed.description>
 <sp.powercontainer.efficiency.name>效率</sp.powercontainer.efficiency.name>
-<sp.powercontainer.efficiency.description>自物品中取得電量與輸入電量的比率。</sp.powercontainer.efficiency.description><!--need edit-->
+<sp.powercontainer.efficiency.description>能自物品取得的電量與輸入其中電量的比例。</sp.powercontainer.efficiency.description><!--need edit-->
 <sp.PowerContainer.FlipIndicator.name>反轉進度條</sp.PowerContainer.FlipIndicator.name>
 <sp.PowerContainer.FlipIndicator.description>進度條是否自另一端開始發展。</sp.PowerContainer.FlipIndicator.description>
-<sp.powertransfer.canbeoverloaded.name>能否超載</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.name>能被超載</sp.powertransfer.canbeoverloaded.name>
 <sp.powertransfer.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.powertransfer.canbeoverloaded.description>
 <sp.powertransfer.overloadvoltage.name>超載電壓</sp.powertransfer.overloadvoltage.name>
 <sp.powertransfer.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.powertransfer.overloadvoltage.description>
@@ -468,7 +468,7 @@
 <sp.repairable.mindeteriorationdelay.name>最短劣化延遲</sp.repairable.mindeteriorationdelay.name>
 <sp.repairable.mindeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.mindeteriorationdelay.description>
 <sp.repairable.maxdeteriorationdelay.name>最長劣化延遲</sp.repairable.maxdeteriorationdelay.name>
-<sp.repairable.maxdeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.description>設備開始自然劣化前的最長時間。</sp.repairable.maxdeteriorationdelay.description>
 <sp.repairable.mindeteriorationcondition.name>劣化最低耐久值</sp.repairable.mindeteriorationcondition.name>
 <sp.repairable.mindeteriorationcondition.description>設備耐久值低於此後將不再劣化。若設為 10，其耐久值將自然地降至10並停止 (除非進一步受到來自外部的損害)。為最大耐久值的百分比。</sp.repairable.mindeteriorationcondition.description>
 <sp.repairable.repairthreshold.name>維修臨界點</sp.repairable.repairthreshold.name>
@@ -512,7 +512,7 @@
 <sp.wificomponent.allowcrossteamcommunication.name>允許跨團隊通訊</sp.wificomponent.allowcrossteamcommunication.name>
 <sp.wificomponent.allowcrossteamcommunication.description>此元件能否與另一隊伍潛艇中的Wifi元件進行通訊 (如復活小艇或戰鬥任務中的敵方潛艇)。輸出和輸入方元件都必須啟用此選項。</sp.wificomponent.allowcrossteamcommunication.description>
 <sp.wificomponent.linktochat.name>連接至聊天</sp.wificomponent.linktochat.name>
-<sp.wificomponent.linktochat.description>啟用時，來自任何與聊天室連接的Wifi元件訊號都將對持有該物品的玩家顯示為聊天室訊息。</sp.wificomponent.linktochat.description>
+<sp.wificomponent.linktochat.description>啟用時，也對持有該物品的玩家顯示來自任何連接至聊天的Wifi元件訊號為聊天室訊息。</sp.wificomponent.linktochat.description>
 <sp.wificomponent.minchatmessageinterval.name>最短聊天訊息間隔</sp.wificomponent.minchatmessageinterval.name>
 <sp.wificomponent.minchatmessageinterval.description>訊息之間需要經過多長秒數之後才會顯示於聊天室。不建議將數值設定過低，若有與聊天連接的Wifi元件連續輸出訊號，這將產生大量聊天訊息。</sp.wificomponent.minchatmessageinterval.description>
 <sp.wificomponent.discardduplicatechatmessages.name>捨棄重複的聊天訊息</sp.wificomponent.discardduplicatechatmessages.name>
@@ -574,7 +574,7 @@
 <sp.delaycomponent.resetwhensignalreceived.description>物件是否在收到新的值後清除上一次收到的值。</sp.delaycomponent.resetwhensignalreceived.description>
 <sp.delaycomponent.resetwhendifferentsignalreceived.description>物件是否在收到的訊號發生變化時清除先前收到的訊號。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
 <sp.notcomponent.continuousoutput.name>連續輸出</sp.notcomponent.continuousoutput.name>
-<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出來回 -1 與 1 之間的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出來回 -1 與 1 之間的數值。</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出在 -1 與 1 之間擺盪的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出在 -1 與 1 之間來回的數值。</sp.oscillatorcomponent.outputtype.description>
 <sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
 <sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz)。</sp.oscillatorcomponent.frequency.description>
 <sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
@@ -639,8 +639,8 @@
 <entityname.bgorangepanels>橘色板塊背景牆</entityname.bgorangepanels>
 <entityname.bgorangepanelwindow>橘色板塊背景牆 窗戶</entityname.bgorangepanelwindow>
 <entityname.bgpanels>板塊背景牆</entityname.bgpanels>
-<entityname.bgpanelswindow>背景牆 Window</entityname.bgpanelswindow>
-<entityname.PipesBackground>背景牆 Pipes</entityname.PipesBackground>
+<entityname.bgpanelswindow>背景牆 窗戶</entityname.bgpanelswindow>
+<entityname.PipesBackground>背景牆 管道</entityname.PipesBackground>
 <entityname.roughbgwall>粗糙背景牆</entityname.roughbgwall>
 <entityname.cleanbgwall>乾淨背景牆</entityname.cleanbgwall>
 <entitydescription.backgroundwall>一個裝飾性背景牆。</entitydescription.backgroundwall>
@@ -1092,10 +1092,10 @@
 <entityname.stairslong>樓梯 長</entityname.stairslong>
 <entityname.ruinwallhorizontal>遺跡牆 水平</entityname.ruinwallhorizontal>
 <entityname.ruinwallvertical>遺跡牆 垂直</entityname.ruinwallvertical>
-<entityname.ruinwallheavyhorizontal>遺跡牆 Heavy 水平</entityname.ruinwallheavyhorizontal>
-<entityname.ruinwallheavyvertical>遺跡牆 Heavy 垂直</entityname.ruinwallheavyvertical>
-<entityname.ruinwallhorizontalsmall>遺跡牆 Small 水平</entityname.ruinwallhorizontalsmall>
-<entityname.ruinwallverticalsmall>遺跡牆 Small 垂直</entityname.ruinwallverticalsmall>
+<entityname.ruinwallheavyhorizontal>遺跡牆 大型 水平</entityname.ruinwallheavyhorizontal>
+<entityname.ruinwallheavyvertical>遺跡牆 大型 垂直</entityname.ruinwallheavyvertical>
+<entityname.ruinwallhorizontalsmall>遺跡牆 小型 水平</entityname.ruinwallhorizontalsmall>
+<entityname.ruinwallverticalsmall>遺跡牆 小型 垂直</entityname.ruinwallverticalsmall>
 <entityname.ruinback>遺跡背景牆 基礎</entityname.ruinback>
 <entityname.ruinprop>遺跡裝飾</entityname.ruinprop>
 <entityname.bunk>床鋪</entityname.bunk>
