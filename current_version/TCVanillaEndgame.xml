@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+
+<!-- New values -->
+<loadingscreentip>自首次對歐羅巴展開的無人偵查中發現了歐羅巴之眼及其周遭的重力異常現象以來，它們一直使科學家們困惑不解。但對歐羅巴上的殖民者而言有一個好消息，歐羅巴之眼周遭的重力和地球非常相近，而不是如其他地方0.13 G的表面重力。</loadingscreentip>
+<eyeofeuropa>歐羅巴之眼</eyeofeuropa>
+<entityname.anomaly>異常</entityname.anomaly>
+<entityname.alienwriting>異星文字</entityname.alienwriting>
+<entityname.endruinheavydoor>重型異星大門</entityname.endruinheavydoor>
+<entityname.endruinheavydoorbackground>重型異星大門背景</entityname.endruinheavydoorbackground>
+<entityname.ruindebris>遺跡殘骸</entityname.ruindebris>
+<entityname.ruinblock>遺跡地塊</entityname.ruinblock>
+<entityname.pylon>塔臺</entityname.pylon>
+<entityname.alientranslator>???</entityname.alientranslator>
+<entitydescription.alientranslator>在這圓形的板子上刻著奇特符號。</entitydescription.alientranslator>
+<sonarlabel.alienpylon>塔臺</sonarlabel.alienpylon>
+<character.portalguardian>傳送門守衛</character.portalguardian>
+<character.jove>???</character.jove>
+<character.guardianrepairbot>守衛修復機</character.guardianrepairbot>
+<missionname.gotoend1>歐羅巴之眼</missionname.gotoend1><!--The Eye-->
+<missiondescription.gotoend1>你和你的船員抵達了歐羅巴之眼中心的神秘重力異常所在咫尺。你的聲納顯示有什麼東西在你之下。</missiondescription.gotoend1>
+<missionsuccess.gotoend1>重力似乎進退消長，突然間一陣強烈的頭暈目眩向你與船員們襲來，緊接著一道刺眼的光線吞噬了你的潛艇。</missionsuccess.gotoend1>
+<missionname.gotoend2>歐羅巴之眼</missionname.gotoend2><!--The Eye-->
+<missiondescription.gotoend2>強光褪去只餘一抹橙芒，海洋的聲音被雷鳴般的轟響取代。也許探索一下周遭能讓你弄清楚現在的狀況。</missiondescription.gotoend2>
+<missionsuccess.gotoend2>當你通過那扇門，某種微弱的旋律從你的前方傳來。門在你身後猛然關上，震顫傳遍了整座建築。</missionsuccess.gotoend2>
+<missionsonarlabel.gotoend2.logbook>緊急聯絡</missionsonarlabel.gotoend2.logbook>
+<missionsonarlabel.gotoend2.eva>EVA任務</missionsonarlabel.gotoend2.eva>
+<missionsonarlabel.gotoend2.switch>開關</missionsonarlabel.gotoend2.switch>
+<missionsonarlabel.gotoend2.door>出口？</missionsonarlabel.gotoend2.door>
+<mission.gotoend2.logbooktext1>龐大的結構群似乎無窮無盡。我們航行了好幾天也沒有見到出口。無數擋住去路的巨門與塌方。\n船長派出船員探索一個附近的洞穴，希望能夠有所發現，什麼發現都好。他們至今未歸。\n我知道船長不想重蹈在入口發生的事，所以我們只能在這兒等待。希望他們早點回來。</mission.gotoend2.logbooktext1>
+<mission.gotoend2.logbooktext2>[9:15] 那不是一道牆，而是一扇門。站在門前能聽到那後面一定有什麼東西。也許是電流的嗡鳴？\n[10:42] 這些巨門的控制台在一個巨大的房間裡。看來只能繼續向前了。\n[10:51] 聲納上出現了一道陰影。我們別無選擇，只能繼續探索未知。</mission.gotoend2.logbooktext2>
+<welcomemsg.endcaptainslog1>船長日誌，第一部分\n\n曾經我並沒有記錄雞毛蒜皮小事的習慣。當時覺得海水一成不變，寫日誌無異於杯水車薪。而現在我後悔了，明白自己不寫日誌是對船長職責的褻瀆。這是我對那過錯的彌補。過去幾日我的所見所聞必須被記錄下來，即使讀它的人也已經落入這個必死無疑的世界盡頭。我希望你能有耐心地讀下去，因為要把事情講清楚，就得重頭開始。\n\n從小，歐羅巴之眼就一直莫名地吸引著我。這似乎沒什麼大不了，畢竟那重力異常早就被遠比我聰明的人觀測到了，但我的好奇心更勝一籌。夜晚裡我常常會做一個夢，夢到自己剝開了一顆迅猛龍殺手，卻發現裡面是一顆怪物般的烈焰眼瞳，它不眨眼也不動地死死盯著我。每當我醒來，我都在書桌前，眼前的是一幅畫了無數同心圓的圖畫，而我卻毫無印象曾經動筆。\n\n為了滿足我的好奇心，以及治療我的異態睡眠，我乘上了第一艘前往歐羅巴之眼的偵察船。</welcomemsg.endcaptainslog1>
+<welcomemsg.endcaptainslog2>船長日誌，第二部分\n\n在我初次潛航時我是個助手。但那只持續了一周。船上的機械師被某種寄生蟲感染，所以我就被提拔接替了他的位置。我在熱力逼人的引擎室裡做牛做馬，終於掌握了技師的技術。或許是因為過於疲憊還是因為我們正在接近歐羅巴之眼，但那時我的睡眠總是平靜無夢。然而好景不長，我們的潛艇受到攻擊，拋錨沉底。我和剩餘的幾名倖存者被一艘路過的潛艇救下，送到了最近的哨站。不久惡夢又回來了。\n\n顯然我別無選擇，只能繼續朝歐羅巴之眼前進。但這座哨站已經位於前線，很少有船願意繼續向深處潛航。在我等待機會時為了找點事做，我去當了造船工人。時光飛逝，願意深入歐羅巴之眼的船還是一艘都沒有。\n\n經過幾年的辛勞和不安的夜晚，我有了可觀積蓄。夠我買下一艘屬於我的潛艇。當時我想，既然機會不找上我，那我就自己創造機會。</welcomemsg.endcaptainslog2>
+<welcomemsg.endcaptainslog3>船長日誌，第三部分\n\n徵求船員並不容易，但金錢總能招來最合適的水手。六名船員加上一艘整新聯盟巡邏艦，我終於成為了自己潛艇的艦長，為自己的命運掌舵。我駛離Sermilik船廠。這將是我與文明世界的道別。\n\n接下來的旅程不出預料的充滿艱險，從歐羅巴文明區域見所未見的生物到危險的環境因素；海底火山和水下植物群都成為了潛艇的敵人，但它都撐了過去。然而並非所有危險都來自外部。生理和心理壓力讓人們備受挑戰，遺憾的是我們之中並非所有人都熬了過來。\n\n對路上困難的記敘就到此為止吧，因為找到這日誌的人一定也遭遇過相同的事情。總之，在漫長而險厄的旅程後，飽受風霜的潛艇和我們終於來到了歐羅巴之眼。它和我夢境中眼瞳一樣，以一團烈火吞噬了我。</welcomemsg.endcaptainslog3>
+<welcomemsg.endcaptainslog4>船長日誌，第四部分\n\n人們知道歐羅巴之眼是一個位於歐羅巴中心的重力異常。這個理論被提出假設，被研究，被科學證明，然而異常的起源卻不得而知。我認為它是一道門。通向哪裡我不知道。諷刺的是，我為了滿足那折磨著自己的好奇心而來到了歐羅巴之眼，卻迷失在了其中。\n\n回頭無路。將我送到這裡的異常已經消失。巨型建築無邊無際，而手頭的武器甚至無法在牆壁上留下劃痕。我已經向潛艇無法進入的縫隙中派出了兩支潛水隊，但一人也沒有回來。</welcomemsg.endcaptainslog4>
+<welcomemsg.endlogbook1>我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。我不會放棄的。</welcomemsg.endlogbook1>
+<missionmessage0.gotoend2.logbook1>你找到了緊急廣播的源頭。檢查日誌，看看其中會不會提到任何有幫助的情報。</missionmessage0.gotoend2.logbook1>
+<missionname.end>終結</missionname.end>
+<missiondescription.end>你抵達了結構群內一處寬廣空間。在空曠之中似乎有什麼對聲納發出干擾。</missiondescription.end>
+<missiondescription.radiationescapee>一名認為木星輻射即將穿透冰層毀滅所在哨站的居民開價將他送到更深海中的哨站上。</missiondescription.radiationescapee>
+<missionsuccess.escortgeneric>成功運送人員。</missionsuccess.escortgeneric>
+<missionfailure.escortgeneric>並未將人員送達目的地。</missionfailure.escortgeneric>
+<eventtext.radiationescapee.c1>一位神情緊張的人抓住了你的手臂。「嘿、嘿！你從那艘剛靠岸的潛艇來的對吧？幫幫我，拜託！可以問一下，你的下個目的地嗎？」</eventtext.radiationescapee.c1>
+<eventtext.radiationescapee.o1>「那得看我們的任務要我們去哪。怎麼了？」</eventtext.radiationescapee.o1>
+<eventtext.radiationescapee.o1.c1>「我得逃出這裡，不能再等了！老實說，每個人都該逃，他們已經不願意面對現實太久了，根本沒有意識到不久之後木星輻射也會把這裡吞噬。」</eventtext.radiationescapee.o1.c1>
+<eventtext.radiationescapee.o1.o1>「希望更多人能注意到。」</eventtext.radiationescapee.o1.o1>
+<eventtext.radiationescapee.o1.o1.c1>「對吧？總之我猜你往深處前進就是要躲開它吧？拜託，帶上我，我不會妨礙你們工作！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o1.c1>
+<eventtext.radiationescapee.o1.o2>「別緊張兮兮。輻射總是來來去去的；我敢說一陣子就又沒事了。」</eventtext.radiationescapee.o1.o2>
+<eventtext.radiationescapee.o1.o2.c1>「或許吧，但是以它目前的速度去我們在它消退前就先完蛋了。我不管你覺得我說得對不對，如果你要往更深處前進，帶上我，我保證不會礙到你們！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o2.c1>
+<eventtext.radiationescapee.great>「謝謝、謝謝！」他感嘆地說。「你救了我一命！」</eventtext.radiationescapee.great>
+<missiondescription.researcherescort>一名相信歐羅巴之眼和木星輻射周圍重力異常現象有關聯性的研究員出價[reward]馬克將他送往附近的哨站。</missiondescription.researcherescort>
+<eventtext.researcherescort.c1>「打擾一下，你是從那艘剛停靠的潛艇上下來的吧？會不會碰巧你們將往深處區域航行？」</eventtext.researcherescort.c1>
+<eventtext.researcherescort.o1>「那得看我們的任務要我們去哪。怎麼了？」</eventtext.researcherescort.o1>
+<eventtext.researcherescort.o1.c1>「我和我的同僚一直在研究歐羅巴之眼及其周圍的重力異常。簡單來說，我們認為那異常正是導致木星輻射激增的元凶。」</eventtext.researcherescort.o1.c1>
+<eventtext.researcherescort.o1.o1>「重力異常...？」</eventtext.researcherescort.o1.o1>
+<eventtext.researcherescort.o1.o1.c1>「你不可能沒聽說過吧？我們聚集在歐羅巴之眼周圍對它進行研究的原因？那區域的重力正好和地球相近，而不是以外地方的區區0.13 G？」</eventtext.researcherescort.o1.o1.c1>
+<eventtext.researcherescort.o1.o1.o1>「我想起來了。不過那與我們的關聯是？」</eventtext.researcherescort.o1.o1.o1>
+<eventtext.researcherescort.o1.o1.o1.c1>「我希望進行一些實驗來驗證那異常與木星輻射之間存在關連性的假設。但若要從實驗中獲得任何有意義的數據，我需要盡可能靠近中央。所以如果你碰巧要往深處前進，我願意付錢讓我到達下一個哨站。」</eventtext.researcherescort.o1.o1.o1.c1>
+<eventtext.researcherescort.great>「謝謝。你不知道這對我、對整個歐羅巴而言有多重大的意義。」</eventtext.researcherescort.great>
+<EventText.returner.c1>一位衣裝襤褸的人抓住了你的手臂。「分點馬克給... 嘿，你是從那艘剛靠岸的船上來的是吧？向著目光前進，我猜？」</EventText.returner.c1>
+<EventText.returner.o1>「目光？你是說歐羅巴之眼？有可能，怎麼了嗎？」</EventText.returner.o1>
+<EventText.returner.o1.c1>「你們這群呆子！在那兒沒有救贖，他們只會把你送回去，一直以來都是那樣。」</EventText.returner.o1.c1>
+<EventText.returner.o1.o1>「什麼意思？你去過那裡嗎？」</EventText.returner.o1.o1>
+<EventText.returner.o1.o1.c1>「我去過那裡嗎？我不清楚，一切都矇矇的。也許那只是一場夢，或許我只是個瘋子，又或者他們真的把我送回來了？」</EventText.returner.o1.o1.c1>
+<EventText.returner.o1.o1.o1>「他們？」</EventText.returner.o1.o1.o1>
+<EventText.returner.o1.o1.o1.c1>「活在那兒的傢伙。他們和他們的那個怪物。我真希望那只是一場夢。」</EventText.returner.o1.o1.o1.c1>
+<EventText.returner.o1.o1.o1.o1>「請告訴我，你在歐羅巴之眼見到什麼了？」</EventText.returner.o1.o1.o1.o1>
+<EventText.returner.o1.o1.o1.o1.c1>「我不該提起的，僅是回憶就讓我頭暈腦脹。我只想說，如果你們呆得還是要往那兒走，希望你們面對他們時的運氣能比我來得好。」</EventText.returner.o1.o1.o1.o1.c1>
+<terminalwelcomemsg.endgamelog1>[開始播放]\n「好，我找到了一個按鈕之類的東西。正將它按下。」\n「有動靜嗎？我好像聽到什麼。」\n「你們還在嗎？別丟下我，我還...」\n[結束播放]</terminalwelcomemsg.endgamelog1>
+<terminalwelcomemsg.endgamelog2>研究日誌: 設備？\n這件文物上的凹槽意味著它的功能與眾不同。但到底是什麼？我們還是帶著它吧，如果我們有辦法走出這座迷宮的話就能好好進行研究了。\n附注: 我們完蛋了。</terminalwelcomemsg.endgamelog2>
+<charactername.prophetofsierpinsk>af Grann博士</charactername.prophetofsierpinsk>
+<EventText.prophetofsierpinsk.c1>你遇上一位陰森的老人。注意到你之後，他似乎嚇了一跳。「誰... 什麼... 你怎麼在這裡？你在這兒一定有什麼原因。你見到終點了嗎？」</EventText.prophetofsierpinsk.c1>
+<EventText.prophetofsierpinsk.o1>「抱歉，我不知道你在說什麼。」</EventText.prophetofsierpinsk.o1>
+<EventText.prophetofsierpinsk.o1.c1>「我見過，而且我知道時間不多了。不管你多麼不想面對現實，輻射都會把我們燒光。」</EventText.prophetofsierpinsk.o1.c1>
+<EventText.prophetofsierpinsk.o1.c1.c1>「所以，等等... 你不是要研究歐羅巴之眼的話到這裡幹嘛？」</EventText.prophetofsierpinsk.o1.c1.c1>
+<EventText.prophetofsierpinsk.o1.c1.o1>「我們的確是想要一探它的中心到底有什麼。」</EventText.prophetofsierpinsk.o1.c1.o1>
+<EventText.prophetofsierpinsk.o1.c1.o1.c1>「那你來對地方了，儘管我認為就算你們就算到了那裡還是沒辦法搞清楚那兒到底有什麼。除非你們剛好對N維拓補學有所涉獵。」</EventText.prophetofsierpinsk.o1.c1.o1.c1>
+<EventText.prophetofsierpinsk.o1.c1.o1.o1>「那是什麼東西？」</EventText.prophetofsierpinsk.o1.c1.o1.o1>
+<EventText.prophetofsierpinsk.o1.c1.o2>「我們希望找到阻止木星輻射持續擴展的方法。」</EventText.prophetofsierpinsk.o1.c1.o2>
+<EventText.prophetofsierpinsk.o1.c1.o2.c1>「那你來對地方了，儘管我不認為你們有什麼幫助。除非你們剛好對N維拓補學有所涉獵。」</EventText.prophetofsierpinsk.o1.c1.o2.c1>
+<EventText.prophetofsierpinsk.o1.c1.o2.o1>「那是什麼東西？」</EventText.prophetofsierpinsk.o1.c1.o2.o1>
+<EventText.prophetofsierpinsk.o1.c1.o2.c1.c1>「我覺得我沒辦法用通俗的說法解釋它。這麼說吧: 這個強大的『卡拉比–丘流形』像一枚巨大磁鐵，扭曲了木星的輻射帶之後將它扯到我們頭上撒了下來。」</EventText.prophetofsierpinsk.o1.c1.o2.c1.c1>
+<EventText.prophetofsierpinsk.o1.c1.o2.c1.c1.c1>「向你解釋這些大概沒什麼意義。希望你深入歐羅巴之眼時運氣不錯。或許我們在下個輪迴還能見面，那時希望你變得明智點。那麼，請允許我告辭，我還有工作要做。」</EventText.prophetofsierpinsk.o1.c1.o2.c1.c1.c1>
+<EventText.prophetofsierpinsk.o2>「是的，怎麼了嗎？」</EventText.prophetofsierpinsk.o2>
+<EventText.prophetofsierpinsk.o2.c1>「那麼你們一定知道我們沒剩多少時間。我和其他那些回來的人一直對那重力異常和其後的東西進行研究。儘管我們記憶模糊也沒多少可用資料，但我們最近似乎還是有了一點進展。」</EventText.prophetofsierpinsk.o2.c1>
+<EventText.prophetofsierpinsk.o2.o1>「你搞清楚那個重力異常是什麼東西了嗎？」</EventText.prophetofsierpinsk.o2.o1>
+<EventText.prophetofsierpinsk.o2.o1.c1>「還沒有，但我認為它和輻射的擴展有關聯。這個『卡拉比–丘流形』像一枚巨大磁鐵，扭曲了木星的輻射帶之後將它扯到我們頭上撒了下來。而在歐羅巴之眼之後的是負純量曲率、刺眼的光芒、風暴中的亮點。」</EventText.prophetofsierpinsk.o2.o1.c1>
+<EventText.prophetofsierpinsk.o2.o1.o1>「歐羅巴之眼之後？」</EventText.prophetofsierpinsk.o2.o1.o1>
+<EventText.prophetofsierpinsk.o2.o1.o1.c1>「我不會假裝我明白和你一樣見過它的人們為何、如何、或更重要的，『何時』又回來了。『回來』指的不只是三維意義上的，而是所有維度。」</EventText.prophetofsierpinsk.o2.o1.o1.c1>
+<EventText.prophetofsierpinsk.o2.o1.o1.o1>「什麼意思？你是在說時空旅行嗎？」</EventText.prophetofsierpinsk.o2.o1.o1.o1>
+<EventText.prophetofsierpinsk.o2.o1.o1.o1.c1>「我真的不知道。但我確定的是我們是那極少數對實際狀況有所瞭解的人，而且我們必須做些什麼來防止人類滅絕。」</EventText.prophetofsierpinsk.o2.o1.o1.o1.c1>
+<EventText.prophetofsierpinsk.o2.o1.o1.o1.o1>「我們能幫上什麼忙嗎？」</EventText.prophetofsierpinsk.o2.o1.o1.o1.o1>
+<EventText.prophetofsierpinsk.o2.o1.o1.o1.o1.c1>「不一定。也許你們能在歐羅巴之眼後找到答案。或許我們在下個輪迴還能見面，那時希望你們變得更有智慧。祝你們好運，那麼，請允許我告辭，我得繼續我的工作了。那些更高維度的超材料可不會自己填好自己的座標圖譜。」</EventText.prophetofsierpinsk.o2.o1.o1.o1.o1.c1>
+<eventtext.buttonpressed1.c1>你聽見來自下方的低鳴，像是石塊互相摩擦的聲音。</eventtext.buttonpressed1.c1>
+<eventtext.buttonpressed2.c1>你聽見來自遠方的低鳴。或許向前的通道開啟了？</eventtext.buttonpressed2.c1>
+<eventtext.alienwriting.start>符號像藤蔓一般上上下下爬滿了整面牆，偶爾岔開分為小段的枝條。你懷裡的神秘板子開始了無聲的顫抖。</eventtext.alienwriting.start>
+<eventtext.alienwriting.start_alt>符號像藤蔓一般上上下下爬滿了整面牆，偶爾岔開分為小段的枝條。</eventtext.alienwriting.start_alt>
+<eventtext.alienwriting.listen>聽。</eventtext.alienwriting.listen>
+<eventtext.alienwriting.dontlisten>別聽。</eventtext.alienwriting.dontlisten>
+<eventtext.alienwriting.writingstart>一個想法在你的腦海中成形。不是字句或圖案，但依舊能明白當中的意涵:</eventtext.alienwriting.writingstart>
+<eventtext.alienwriting.1_1>歌者誕生──聽眾彙聚\n[無法翻譯？] 蔓生──陵駕光燭\nn堡壘築起──為容納──為保護</eventtext.alienwriting.1_1><!-- use ── -->
+<eventtext.alienwriting.2_1>冰下孵化生命──形成意識\n知識混凝──文明衍化\n與危險絕緣</eventtext.alienwriting.2_1><!-- use ── -->
+<eventtext.alienwriting.3_1>歌聲未停──成長先滯\n此間無星僅有家園\n此間無識，僅有[無法翻譯？]</eventtext.alienwriting.3_1><!-- use ── -->
+<EventText.ancientencounter.c1>你的餘光看到了什麼東西出現。它有著人的輪廓但若隱若現，外觀隨著你的觀察不斷地生滅變化。\n猶如溫暖的輕撫，它的思想蔓入了你的腦海，包裹了你的腦袋。\n「止步，闖入者。汝踏入了不屬於汝等的聖地。此處對汝等而言得不到任何東西。」</EventText.ancientencounter.c1>
+<EventText.ancientencounter.o1>「你是誰？」</EventText.ancientencounter.o1>
+<EventText.ancientencounter.o1.c1>「吾非，吾族亦非。『優維』之歌流淌忠誠者中。歌聲不停，他們便會傾聽... 而酣夢。」</EventText.ancientencounter.o1.c1>
+<EventText.ancientencounter.o1.o1>「那麼，忠誠者們是誰？」</EventText.ancientencounter.o1.o1>
+<EventText.ancientencounter.o1.o1.c1>被一道道牆一般的黑石包裹的擁擠走廊在你的腦海中浮現。「建造者──探索者──發明者。但他們曾經的造物現在已成殘垣；他們曾經的探索，現在已然失落；他們曾經的發明，現在已經扭曲。殘膏剩馥，僅有『優維』之歌。聽而不聞者，將被排除。」</EventText.ancientencounter.o1.o1.c1>
+<EventText.ancientencounter.o1.o1.o1>「『優維』是什麼？」</EventText.ancientencounter.o1.o1.o1>
+<EventText.ancientencounter.o1.o1.o1.c1>「歌者。誕生于欲望，成長於愚昧。」</EventText.ancientencounter.o1.o1.o1.c1>
+<EventText.ancientencounter.o1.o1.o1.o1>「所以你...會聽它唱歌？」</EventText.ancientencounter.o1.o1.o1.o1>
+<EventText.ancientencounter.o1.o1.o1.o1.c1>「聽者──信眾──囚徒。他們已永恆傾聽，萬古他們祈求寂靜。」</EventText.ancientencounter.o1.o1.o1.o1.c1>
+<EventText.ancientencounter.o1.o1.o1.o1.o1>「那你為什麼還要聽？不能不聽嗎？」</EventText.ancientencounter.o1.o1.o1.o1.o1>
+<EventText.ancientencounter.o1.o1.o1.o1.o1.c1>「歌者聽眾一體二元，不可分割。一者汲取他這忠誠，他者汲取一者生命。一者失聲，二者皆死。」</EventText.ancientencounter.o1.o1.o1.o1.o1.c1>
+<EventText.ancientencounter.o1.o1.o1.o1.o1.o1>「聽起來你巴不得那樣。」</EventText.ancientencounter.o1.o1.o1.o1.o1.o1>
+<EventText.ancientencounter.o1.o1.o1.o1.o1.o1.c1>對方沒有立即回應。「忠誠者建造了外殼保護『優維』。支柱不倒，外殼不破；外殼不破，歌者無敵。汝能否明白？」對方的話語中似乎帶著一絲希望。</EventText.ancientencounter.o1.o1.o1.o1.o1.o1.c1>
+<EventText.ancientencounter.o1.o1.o1.o1.o1.o1.o1>「我明白。」</EventText.ancientencounter.o1.o1.o1.o1.o1.o1.o1>
+<EventText.ancientencounter.o1.o1.o2>「我能夠傾聽。」</EventText.ancientencounter.o1.o1.o2>
+<EventText.ancientencounter.o1.o1.o2.c1>突然，一陣劇痛讓你蜷縮了起來。「汝不想。聽者唯有毀滅。」</EventText.ancientencounter.o1.o1.o2.c1>
+<EventText.ancientencounterfinal>「吾等歌聲已然唱響，卻不知汝等詩節數量。橋樑即將崩潰，汝還有一線生機返回。對於吾等，群星不存，唯有家園；但對汝等，星空開闊。他們永遠不會知道汝的犧牲，但吾等明白。」</EventText.ancientencounterfinal>
+<campaignstart1>21世紀初期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。\n\n在那發現之後沒有多久，人類首次抵達歐羅巴且確定這顆衛星確實充滿生機，不只是微生物，更有高度演化的，充滿敵意的生物。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。</campaignstart1>
+<campaignstart2>儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。這月亮上最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。</campaignstart2>
+<campaignstart3>在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地、保護公民免受生物攻擊、並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。\n\n在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。你下定決心迎接挑戰，建立了自己的團隊。如今，有了你新購入、停靠在[location]的[submarine]，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展、一切由你決定。</campaignstart3>
+<campaignending1>重力崩潰後，T+ 02:14:39\n\n「這裡是表面觀測站E5。我們正在遭受...呃...上面又發生了一些狀況。是否收到？完畢。」\n\n「表面觀測站E5，這裡是Merrivale Linea哨站，請發話，完畢。」</campaignending1>
+<campaignending2>「木星的大紅斑──我不知道該怎麼描述，好像安靜了下來一樣。輻射水準依然低得異常。你們那裡情況如何？有什麼新狀況嗎？完畢。」\n\n「這裡的輻射水準也是一樣低，而且很穩定。重力也是。我們聯繫過af Grann博士，但他似乎也和我們一樣毫無頭緒。不過他提到早些有一支隊伍駕著一艘[submarine]通過了他的所在哨站，不過我們不清楚兩者間有什麼關聯性，完畢。」</campaignending2>
+<campaignending3>「我猜你沒有和那支隊伍進行通話的機會？完畢。」\n\n「沒有。af Grann博士說我們在這個類時超曲面上不會再見到他們了...不知道是什麼意思。他總是說這種沒人聽得懂的話。完畢。」\n\n「好吧，如果真是他們幹的，那我可得向他們致敬。願他們從此以後的航行永遠風平浪靜。通話完畢。」</campaignending3>
+
+</infotexts>
