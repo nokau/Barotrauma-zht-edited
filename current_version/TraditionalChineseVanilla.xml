@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v0.21.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7360), EnglishVanilla EnglishVanillaNew.xml (7361~7375) -->
+<!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -1094,7 +1094,6 @@
 <killedbytraitornotification>你被一個正在進行秘密任務的的叛徒害死了...</killedbytraitornotification>
 <endroundsubnotatlevelend>你確定要終止任務並結束這一回合嗎？</endroundsubnotatlevelend>
 <lockedpathtooltip>這條通道已經被封鎖了，你需要得到哨站官員的許可才能繼續前進。</lockedpathtooltip>
-<lockedpathtooltipcoalitionreputation>這條通道已被封鎖，你需要歐羅巴聯盟對於你的看法達到[requiredreputation]，還要獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipcoalitionreputation>
 <lockedpathreputationrequirement>需要[reputation]聲望以前往[biomename]</lockedpathreputationrequirement>
 <pathunlockedgeneric>通往下一個區域的通道已被開啟。</pathunlockedgeneric>
 <respawnquestionprompt>你想要帶著「死神之稅」受到技能和生命值懲罰立刻重生，或等到下一回合再加入遊戲？</respawnquestionprompt><!--SOURCE TEXT CHANGE CHECK-->
@@ -1488,7 +1487,7 @@
 <missiontype.monster>怪物</missiontype.monster>
 <missiontype.cargo>貨物</missiontype.cargo>
 <missiontype.combat>戰鬥</missiontype.combat>
-<missiontype.personneltransport>人員運輸</missiontype.personneltransport>
+<missiontype.personneltransport>運送人員</missiontype.personneltransport>
 <missiontype.swarm>生物群</missiontype.swarm>
 <missiontype.prospect>探勘</missiontype.prospect>
 <missiontype.nest>巢穴</missiontype.nest>
@@ -1568,7 +1567,6 @@
 <missionheader0.salvagekillmoloch>已殲滅目標</missionheader0.salvagekillmoloch>
 <missionmessage0.salvagekillmoloch>沒有想到這個訊號是一隻摩螺克發出來的！離開這裡並通知那些研究人員。</missionmessage0.salvagekillmoloch>
 <missionname.cargocompoundn>運送爆裂物</missionname.cargocompoundn>
-<missiondescription.cargocompoundn>一個當地的軍火商出價[reward]馬克作為運送一批爆裂物給商家位於[location2]的客戶的費用。</missiondescription.cargocompoundn>
 <missionsuccess.cargocompoundn>爆裂物已被成功送達。</missionsuccess.cargocompoundn>
 <missionname.cargovolatilecompoundn>運送爆裂物</missionname.cargovolatilecompoundn>
 <missiondescription.cargovolatilecompoundn>一個當地的軍火商出價[reward]馬克作為運送一批爆裂物給商家位於[location2]的客戶的費用。</missiondescription.cargovolatilecompoundn>
@@ -1594,7 +1592,7 @@
 <missionname.cargomeditems>運送醫療物品</missionname.cargomeditems>
 <missiondescription.cargomeditems>一批醫用材料需要被運送至[location2]，如果你將它們送達將能夠拿到[reward]馬克。</missiondescription.cargomeditems>
 <missionsuccess.cargomeditems>醫療物品已被成功送達。</missionsuccess.cargomeditems>
-<missionname.personneltransport>人員運輸</missionname.personneltransport>
+<missionname.personneltransport>運送人員</missionname.personneltransport>
 <missiondescription.personneltransport>有人員需要迅速前往[location2]，如果你能毫髮無傷地將他們送達，他們將支付你[reward]馬克。</missiondescription.personneltransport>
 <missionsuccess.personneltransport>人員已被成功送達。</missionsuccess.personneltransport>
 <missionname.prospect>探勘</missionname.prospect>
@@ -1802,7 +1800,7 @@
 <progressbar.scanning>正在掃描...</progressbar.scanning>
 <missionsonarlabel.scantarget>對目標進行掃描</missionsonarlabel.scantarget>
 <missionname.stowawayescort1>偷渡客</missionname.stowawayescort1>
-<missiondescription.stowawayescort1>有偷渡客偷偷摸地上船了，將他們送到能讓他們回家的地方。</missiondescription.stowawayescort1>
+<missiondescription.stowawayescort1>有偷渡客偷偷地摸上船了，將他們送到一處哨站好讓他們找路回家。</missiondescription.stowawayescort1>
 <missionheader0.stowawayescort1>偷渡客死亡</missionheader0.stowawayescort1>
 <missionmessage0.stowawayescort1>偷渡客已經死亡，任務失敗。</missionmessage0.stowawayescort1>
 <missionsuccess.stowawayescort1>任務成功，偷渡客將能夠找到回家的路。</missionsuccess.stowawayescort1>
@@ -1810,7 +1808,7 @@
 <missionname.gotosubra>找到Jacov Subra</missionname.gotosubra>
 <missiondescription.gotosubra>調查哨站以找到Jacov Subra。</missiondescription.gotosubra>
 <missionsuccess.gotosubra>你抵達了[location1]，找到Jacov Subra並將他繩之以法。</missionsuccess.gotosubra>
-<missionname.subraescort>人員運輸</missionname.subraescort>
+<missionname.subraescort>運送人員</missionname.subraescort>
 <missiondescription.subraescort>運送危險的罪犯Jacov Subra至附近的哨站。</missiondescription.subraescort>
 <missionheader0.subraescort>犯人已死亡</missionheader0.subraescort>
 <missionmessage0.subraescort>犯人已死亡，任務失敗。</missionmessage0.subraescort>
@@ -1823,46 +1821,35 @@
 <missionfailure.badvibrationsartifactruins>回收異星文物失敗。</missionfailure.badvibrationsartifactruins>
 <missionheader0.badvibrationsartifactruins>得到異星文物</missionheader0.badvibrationsartifactruins>
 <missionmessage0.badvibrationsartifactruins>異星文物已被帶回船上，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.badvibrationsartifactruins>
-<missionname.raptorescort>平民運輸</missionname.raptorescort>
+<missionname.raptorescort>運送平民</missionname.raptorescort>
 <missiondescription.raptorescort>運送乘客與他們的夥伴至附近的哨站。</missiondescription.raptorescort>
 <missionheader0.raptorescort>乘客已死亡</missionheader0.raptorescort>
 <missionmessage0.raptorescort>乘客已死亡，任務失敗。</missionmessage0.raptorescort>
 <missionsuccess.raptorescort>任務成功，乘客與他們危險的夥伴安全地下船了。</missionsuccess.raptorescort>
 <missionfailure.raptorescort>並未將乘客送達至目的地。</missionfailure.raptorescort>
-<missionname.escort1>人員運輸</missionname.escort1>
-<missiondescription.escort1>一些人員需要被運送至[location2]，留意不要危害他們的生命安全，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort1>
 <missionheader0.escort1>人員死亡</missionheader0.escort1>
-<missionmessage0.escort1>太多人員在運輸途中喪生，任務失敗。</missionmessage0.escort1>
-<missionsuccess.escort1>成功運輸人員。</missionsuccess.escort1>
+<missionmessage0.escort1>太多人員在運送途中喪生，任務失敗。</missionmessage0.escort1>
+<missionsuccess.escort1>成功運送人員。</missionsuccess.escort1>
 <missionfailure.escort1>並未將人員送達目的地。</missionfailure.escort1>
-<missionname.escort2>VIP運輸</missionname.escort2>
-<missiondescription.escort2>一位非常有價值的人員和他們的武裝護衛必須被運送至[location2]，留意不要使VIP暴露在不必要的風險之中，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort2>
 <missionheader0.escort2>人員死亡</missionheader0.escort2>
-<missionmessage0.escort2>太多人員在運輸途中喪生，任務失敗。</missionmessage0.escort2>
-<missionsuccess.escort2>成功運輸VIP。</missionsuccess.escort2>
+<missionmessage0.escort2>太多人員在運送途中喪生，任務失敗。</missionmessage0.escort2>
+<missionsuccess.escort2>成功運送VIP。</missionsuccess.escort2>
 <missionfailure.escort2>並未將人員送達目的地。</missionfailure.escort2>
 <missionname.escort3>轉移犯人</missionname.escort3>
-<missiondescription.escort3>一批犯人需要被運送至位於[location2]的高戒備監獄，報酬為[reward]馬克。旅途中務必看好這些犯人，他們有可能試圖脫逃，也切勿讓他們喪生。</missiondescription.escort3>
+<missiondescription.escort3>一批犯人需要被運送至位於[location2]的高戒備監獄，報酬為[reward]馬克。旅途中務必看好他們，這些人有可能試圖脫逃。切勿讓他們喪生。</missiondescription.escort3>
 <missionheader0.escort3>人員死亡</missionheader0.escort3>
-<missionmessage0.escort3>太多人員在運輸途中喪生，任務失敗。</missionmessage0.escort3>
-<missionsuccess.escort3>成功運輸犯人。</missionsuccess.escort3>
+<missionmessage0.escort3>太多人員在運送途中喪生，任務失敗。</missionmessage0.escort3>
+<missionsuccess.escort3>成功運送犯人。</missionsuccess.escort3>
 <missionfailure.escort3>並未將人員送達目的地。</missionfailure.escort3>
-<missionname.escort4>監視恐怖分子</missionname.escort4>
+<missionname.escort4>釣出恐怖分子</missionname.escort4>
 <missiondescription.escort4>分離主義恐怖分子不斷在該區域劫持船艦，我們相信他們已經混著無辜的乘客潛入你的船上，確保乘客能安全抵達[location2]並處理那些現出真面目的恐怖分子，你將會收到[reward]馬克的獎勵。</missiondescription.escort4>
-<missionsuccess.escort4>成功運輸人員且成功處理恐怖分子。</missionsuccess.escort4>
+<missionsuccess.escort4>成功運送人員且成功處理恐怖分子。</missionsuccess.escort4>
 <missionfailure.escort4>並未將人員送達目的地，或者並未揭發恐怖分子並將其打倒。</missionfailure.escort4>
 <missionheader0.escort4>人員死亡</missionheader0.escort4>
-<missionmessage0.escort4>太多人員在運輸途中喪生，任務失敗。</missionmessage0.escort4>
+<missionmessage0.escort4>太多人員在運送途中喪生，任務失敗。</missionmessage0.escort4>
 <missionheader1.escort4>擊敗恐怖分子</missionheader1.escort4>
 <missionmessage1.escort4>看來那是最後一名恐怖分子了，駕駛潛艇至[location2]以領取你的獎勵。</missionmessage1.escort4>
-<missionname.pirate1>海盜船艦</missionname.pirate1>
-<missiondescription.pirate1>找到並殲滅在這個區域中橫行霸道的海盜，標示的地點為最後一次目擊海盜的位置。</missiondescription.pirate1>
-<missionsuccess.pirate1>成功殲滅海盜。</missionsuccess.pirate1>
-<missionfailure.pirate1>並未殲滅海盜。</missionfailure.pirate1>
-<missionsonarlabel.pirate1>海盜目擊地</missionsonarlabel.pirate1>
-<missionheader0.pirate1>偵測到海盜</missionheader0.pirate1>
 <missionmessage0.pirate1>打倒海盜或讓他們的潛艇沉入深海！</missionmessage0.pirate1>
-<missionheader1.pirate1>已殲滅海盜</missionheader1.pirate1>
 <missionmessage1.pirate1>駕駛潛艇至[location2]以領取你的獎勵。</missionmessage1.pirate1>
 <missionname.killmopingjack>殺死悲傷Jack</missionname.killmopingjack>
 <missiondescription.killmopingjack>豬鼻Huber船長招募了你幫助他對付他的死對頭，悲傷Jack，一隻錘頭煞。</missiondescription.killmopingjack>
@@ -2332,10 +2319,6 @@
 <entitydescription.abyssdivingsuit>一套為深海探索而設計的厚重潛水服，它能夠承受強大水壓直至10,000公尺、降低氧氣消耗，但代價是移動速度降低。</entitydescription.abyssdivingsuit>
 <entityname.combatdivingsuit>戰鬥潛水服</entityname.combatdivingsuit>
 <entitydescription.combatdivingsuit>一套為戰鬥而設計的靈活、輕量化潛水服，它能夠抵禦些許傷害且能承受最低6,000公尺深度的高壓。</entitydescription.combatdivingsuit>
-<entityname.piratehelmet>海盜頭盔</entityname.piratehelmet>
-<entitydescription.piratehelmet>一頂由海盜改造過的頭盔，儘管做工粗糙，這頂頭盔意外的堅固。</entitydescription.piratehelmet>
-<entityname.piratebodyarmor>海盜護甲</entityname.piratebodyarmor>
-<entitydescription.piratebodyarmor>一套護甲，部分由海盜們手工加工改造。它比看起來的還要重。</entitydescription.piratebodyarmor>
 <entityname.pressurestabilizer>壓力穩定劑</entityname.pressurestabilizer>
 <entitydescription.pressurestabilizer>一種可讓使用者對壓力產生免疫，並在短時間內消除對氧氣的需求的特殊藥物。</entitydescription.pressurestabilizer>
 <entityname.endocrinebooster>內分泌促進劑</entityname.endocrinebooster>
@@ -2500,10 +2483,6 @@
 <entitydescription.genesplicer>一個用來將異星遺傳物質編輯進入人類體內的裝置，裝備基因編輯器並於醫療介面中將異星遺傳物質放入裝置內以使其活化。一旦對象接受過基因編輯，要將對象體內已活化的遺傳物質移除必須直接將其破壞。</entitydescription.genesplicer>
 <entityname.advancedgenesplicer>進階基因編輯器</entityname.advancedgenesplicer>
 <entitydescription.advancedgenesplicer>更為進階的基因編輯器，能夠同時活化兩種遺傳物質。</entitydescription.advancedgenesplicer>
-<entityname.piratecaptainhat>海盜船長的帽子</entityname.piratecaptainhat>
-<entityname.piratebandana>海盜面罩</entityname.piratebandana>
-<entityname.pirateclothes>海盜服裝</entityname.pirateclothes>
-<entitydescription.pirateclothes>由海盜手工製作的粗糙衣物，它的設計能夠抵禦歐羅巴海中的嚴峻生活，這件衣物上還另外配備了輕型護甲。</entitydescription.pirateclothes>
 <entityname.energydrink>能量飲料</entityname.energydrink>
 <entitydescription.energydrink>Mantis Energy讓你從黎明到黃昏都精力充沛！</entitydescription.energydrink>
 <entityname.proteinbar>蛋白能量棒</entityname.proteinbar>
@@ -3031,8 +3010,6 @@
 <entityname.metalwalls>Metal Wall</entityname.metalwalls>
 <entityname.metalbox>Metal Box</entityname.metalbox>
 <entityname.ff_wall_airlock1>Airlock</entityname.ff_wall_airlock1>
-<entityname.piratesubexterior>Pirate Submarine Exterior Part</entityname.piratesubexterior>
-<entityname.piratesubdeco>Pirate Submarine Decoration</entityname.piratesubdeco>
 <entityname.unitloaddevice>單位裝載器</entityname.unitloaddevice>
 <entitydescription.unitloaddevice>一個能夠容納許多箱子的容器。</entitydescription.unitloaddevice>
 <entityname.streetlight>街燈</entityname.streetlight>
@@ -3913,6 +3890,7 @@
 <dialogmentalstatereactionoffensive>我會幹掉你！</dialogmentalstatereactionoffensive>
 <dialogmentalstatereactionoffensive>死吧、混帳！</dialogmentalstatereactionoffensive>
 <dialogmentalstatereactionoffensive>殺！ 殺！ 殺！</dialogmentalstatereactionoffensive>
+
 <dialogterroristannounce>這艘船屬於木星分離主義者！</dialogterroristannounce>
 <dialogterroristannounce>聯盟去死！</dialogterroristannounce>
 <dialogterroristannounce>革命永存！</dialogterroristannounce>
@@ -3920,6 +3898,7 @@
 <dialogterroristannounce>為了革命而死吧！</dialogterroristannounce>
 <dialogterroristannounce>木星分離主義者萬歲！</dialogterroristannounce>
 <dialogterroristannounce>歐羅巴屬於木星分離主義者！</dialogterroristannounce>
+
 <dialogoutofchaingunammo>我們沒有鏈式機槍彈藥了。</dialogoutofchaingunammo>
 <dialogoutofpulselaserammo>我們沒有脈衝雷射燃料了。</dialogoutofpulselaserammo>
 <dialoglowonchaingunammo>鏈式機槍彈藥快沒了！以斷續方式開火！</dialoglowonchaingunammo>
@@ -4406,8 +4385,8 @@
 <afflictiondescription.morbusinepoisoning.high.self>你大口喘氣，但無濟於事。</afflictiondescription.morbusinepoisoning.high.self>
 <afflictiondescription.morbusinepoisoning.low>患者的呼吸似乎沒有規律。</afflictiondescription.morbusinepoisoning.low>
 <afflictiondescription.sufforinpoisoning>患者看上去不太舒服，如果不及時治療只會變得更糟。</afflictiondescription.sufforinpoisoning>
-<afflictiondescription.sufforinpoisoning.medium.self>你的目光逐漸模糊且強烈地想要嘔吐。</afflictiondescription.sufforinpoisoning.medium.self>
 <afflictiondescription.sufforinpoisoning.high>患者中了毒無法動彈。要是找不到解毒劑，病人最終會在痛苦中死去。</afflictiondescription.sufforinpoisoning.high>
+<afflictiondescription.sufforinpoisoning.medium.self>你的目光逐漸模糊且強烈地想要嘔吐。</afflictiondescription.sufforinpoisoning.medium.self>
 <afflictiondescription.sufforinpoisoning.low>患者幾乎沒有症狀，但有可能是中了毒。</afflictiondescription.sufforinpoisoning.low>
 <afflictiondescription.deliriuminepoisoning.high.self>你聽見、看見不存在的東西。那些是膽妄毒劑中毒的症狀。</afflictiondescription.deliriuminepoisoning.high.self>
 <afflictiondescription.deliriuminepoisoning.high>患者心浮氣躁，目光游移。他們無法理解為何周遭都被大火吞噬，而你卻如此冷靜...</afflictiondescription.deliriuminepoisoning.high>
@@ -5834,7 +5813,7 @@
 <eventtext.huskcultambush.o2>「放鬆，親愛的兄弟姊妹們，我昇華的時刻未到。」</eventtext.huskcultambush.o2>
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
-<eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，但還得由我們進行配送。一項簡單的運輸工作；這種事最適合你們這些新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
+<eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，但還得由我們進行配送。一項簡單的運輸工作；這種事最適合新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
 <eventtext.missionevent_cargo1.c1>「我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
 <eventtext.missionevent_cargo2.c1>「有一批需要被『小心運送』的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>「附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。」</eventtext.missionevent_cargo3.c1>
@@ -5956,7 +5935,7 @@
 <eventtext.missionevent_pirate1.c1>「一艘流氓船艦不斷地對我方的貨物運輸進行掠奪，如果有人能將他們殲滅，我們會表達感激。但小心行事，他們的船艦有著厚重裝甲。」</eventtext.missionevent_pirate1.c1>
 <eventtext.missionevent_escort4.c1>「我們相信木星分離主義者的恐怖分子們已經混入了無辜平民之中。他們想要搭上下一艘從這裡出發的船艦離開這個地方，如果你願意當那艘船，我們或許就能夠揪出並逮捕他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4.c1>
 <eventtext.missionevent_escort3.c1>「我們有一些犯人需要被轉移到另一座哨站上的監獄，你會收到不錯的報酬，但是途中你得緊緊盯著他們。」</eventtext.missionevent_escort3.c1>
-<eventtext.missionevent_escort1.c1>「有一些平民想要安全地前往附近的哨站，安全地護送他們過去你就能得到報酬。」</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort1.c1>「有一些平民想要安全地前往附近的哨站，護送他們安全抵達你就能得到報酬。」</eventtext.missionevent_escort1.c1>
 <EventText.unlockpathgeneric.c1>「我聽說了不少與你的小對有關的事蹟，我替聯盟感謝你們所付出的行動。並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的隊員們通過這裡。」</EventText.unlockpathgeneric.c1>
 <EventText.unlockpathgeneric.c2>「你們想要通過這裡進到更深的區域？聯盟不允許新手船員進到那裡，你們的名聲也沒有好到能讓我心服口服放行。當然了，假如你們正好有5,000馬克能和我分享，或許那會一定程度地提升我對你們的看法...」</EventText.unlockpathgeneric.c2>
 <EventText.unlockpathgeneric.o1>支付5,000馬克。</EventText.unlockpathgeneric.o1>
@@ -6040,7 +6019,7 @@
 <eventtext.assassinationofjacovsubra1.o2>忽略它。</eventtext.assassinationofjacovsubra1.o2>
 <eventtext.assassinationofjacovsubra2.c1>一位似乎正在休息的工人正閱讀著報紙，「嘿，你認識那個姓Subra的嗎？」</eventtext.assassinationofjacovsubra2.c1>
 <eventtext.assassinationofjacovsubra2.o1>「不認識，他是誰？」</eventtext.assassinationofjacovsubra2.o1>
-<eventtext.assassinationofjacovsubra2.o1.c1>「Jacov Subra，他就是那個──怎麼說比較好──舉辦了那些『主題』慶典的人。」那人翻了個白眼。「那些慶典全是畫皮，搞得死傷慘重，他不久前被高調地判了刑，你應該有在歐羅巴報上面看過吧。」</eventtext.assassinationofjacovsubra2.o1.c1>
+<eventtext.assassinationofjacovsubra2.o1.c1>「Jacov Subra，他就是那個──怎麼說比較好──舉辦了那些『主題』慶典的人。」那人翻了個白眼。「那些慶典全是畫皮，搞得死傷慘重，他不久前被高調地判了刑，你應該有在『歐羅巴報』上面看過吧。」</eventtext.assassinationofjacovsubra2.o1.c1>
 <eventtext.assassinationofjacovsubra2.o1.o1.c1>「他幾個星期前在這裡被抓。我聽說他在附近又辦了一次那種災難性的慶典，後來他就被抓進礦坑了。」</eventtext.assassinationofjacovsubra2.o1.o1.c1>
 <eventtext.assassinationofjacovsubra2.o1.o1.o1>「真是好消息。」</eventtext.assassinationofjacovsubra2.o1.o1.o1>
 <eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>「直到他又逃走之前確實是好消息。」一個聲音響起，休息時間結束了。那位工人收起報紙起步向碼頭走去，「我聽說如果有人能將他繩之以法的話可以拿到一筆獎勵」他邊走邊喊。</eventtext.assassinationofjacovsubra2.o1.o1.o1.c1>
@@ -6332,7 +6311,7 @@
 <EventText.nothingtoseehere.o1>照做。</EventText.nothingtoseehere.o1>
 <EventText.nothingtoseehere.o1.c1>你很高興你終於擺脫了那老太婆交給你的垃圾。在你扔下你那些臭氣熏天的貨物時，你瞥見了垃圾中有一根人類手指。</EventText.nothingtoseehere.o1.c1>
 <EventText.nothingtoseehere.o1.o1>進一步調查。</EventText.nothingtoseehere.o1.o1>
-<EventText.nothingtoseehere.o1.o1.c1>你把兩手插進垃圾堆翻找引來了路人的目光，但他們沒有多管閒事，畢竟大家生活都不好過。在成堆的漢堡包裝紙下你看到一具身上掛著名牌的屍體，這具屍體曾經是一間報導素質參差不齊的報社、歐羅巴報的記者。奇怪的是寫著姓名的位置被劃掉了。</EventText.nothingtoseehere.o1.o1.c1>
+<EventText.nothingtoseehere.o1.o1.c1>你把兩手插進垃圾堆翻找引來了路人的目光，但他們沒有多管閒事，畢竟大家生活都不好過。在成堆的漢堡包裝紙下你看到一具身上掛著名牌的屍體，這具屍體曾經是一間報導素質參差不齊的報社、「歐羅巴報」的記者。奇怪的是寫著姓名的位置被劃掉了。</EventText.nothingtoseehere.o1.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1>在垃圾與屍體的氣味中，你忍著不吐出來，把名牌扯了下來。或許哪個守衛會對這個東西有興趣？</EventText.nothingtoseehere.o1.o1.o1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.c1>「有什麼我幫得上忙的嗎？」</EventText.nothingtoseehere.o1.o1.o1.c1.c1>
 <EventText.nothingtoseehere.o1.o1.o1.c1.o1>「我想回報發現一具屍體。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1>
@@ -6613,7 +6592,7 @@
 <reputationgainnotification>[value] [reputationname]聲望值</reputationgainnotification>
 
 <!-- Campaign meta texts -->
-<campaignstart>20世紀末期，人們在木星的第二個月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
+<campaignstart>20世紀末期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
 <campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
 <campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
 <campaignend5>在通過旅途的終點之後，你的冒險抵達了全新的開端，這一次還為你準備了更多風險。</campaignend5>
@@ -7229,7 +7208,10 @@
 <talentdescription.affiliationbenefit1>[faction]對你的評價提升速度增加[reputationincrease]%，但其他陣營對你的評價降低速度增加[reputationloss]%。</talentdescription.affiliationbenefit1>
 <talentdescription.affiliationbenefit2>為[faction]完成任務時賺取額外[amount]%馬克。</talentdescription.affiliationbenefit2>
 
+<talentdescription.campaigning>所屬陣營船廠提供[amount]%的升級和潛艇價格折扣。</talentdescription.campaigning><!--source error?-->
+<talentdescription.networking>所屬陣營商店提供[amount]%的價格折扣。陣營獨特物品則為此的兩倍。</talentdescription.networking><!--source error?-->
 <talentdescription.figurehead>將‖color:gui.orange‖獎章‖end‖替換為給予[selfxpgain]經驗值的‖color:gui.orange‖勳章‖end‖。若角色等級低於[level]，則將賦予他們能夠達到[level]等級的經驗值。</talentdescription.figurehead>
+<talentdescription.factiondiscount>所屬陣營哨站中的任何服務都將提供[discount]%價格折扣。</talentdescription.factiondiscount><!--source error?-->
 <talentdescription.leadingbyexample>只要你活著，給予所有船員‖color:gui.orange‖士氣提升‖end‖效果並獲得:</talentdescription.leadingbyexample>
 <talentdescription.helmsman>增加額外[amount]點‖color:gui.orange‖駕駛‖end‖技能點數。</talentdescription.helmsman>
 <talentdescription.increaseeffectiveness>‖color:gui.orange‖引擎‖end‖和‖color:gui.orange‖抽水機‖end‖的效率提升[amount]%。</talentdescription.increaseeffectiveness>
@@ -7359,8 +7341,8 @@
 <!-- </infotexts> -->
 
 <!-- EnglishVanillaNew.xml -->
-<!-- edited by nokau for v0.21.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7360), EnglishVanilla EnglishVanillaNew.xml (7361~7375) -->
+<!-- edited by nokau for v0.1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
@@ -7370,5 +7352,37 @@
 <entitydescription.cyanide>一種高毒性化學物，一旦給予足夠劑量就會導致迅速死亡。</entitydescription.cyanide>
 <entitydescription.radiotoxin>一種高放射性物質，會導致輻射病，最終使內臟器官液化。</entitydescription.radiotoxin>
 <entitydescription.sufforin>一種善於隱身的神經毒素，中毒初期沒有症狀。會導致失明，最終死亡。</entitydescription.sufforin>
+
+<!-- New values after January 11 (These are missing from the latest localization pass) -->
+
+<sp.turret.AutoOperate.name>自動操作</sp.turret.AutoOperate.name>
+<sp.turret.AutoOperate.description>此砲塔是否使用AI自動操作？以下為其可調整的選用隨機動態。</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.name>隨機瞄準量</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimAmount.description>[自動操作] 砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.name>隨機瞄準最短時間</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMinTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.name>隨機瞄準最長時間</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomAimMaxTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.name>隨機動作</sp.turret.RandomMovement.name>
+<sp.turret.RandomMovement.description>[自動操作] 砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.name>瞄準延遲</sp.turret.AimDelay.name>
+<sp.turret.AimDelay.description>[自動操作] 砲塔對目標進行瞄準時是否延遲而非完美地進行瞄準？</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.name>角色目標</sp.turret.TargetCharacters.name>
+<sp.turret.TargetCharacters.description>[自動操作] 砲塔是否將角色設為目標？</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.name>怪物目標</sp.turret.TargetMonsters.name>
+<sp.turret.TargetMonsters.description>[自動操作] 砲塔是否將怪物設為目標？</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.name>人類目標</sp.turret.TargetHumans.name>
+<sp.turret.TargetHumans.description>[自動操作] 砲塔是否將人類設為目標 (或於同一Group中的生物，如寵物)？</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetSubmarines.description>[自動操作] 砲塔是否將潛艇設為目標？</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
+<sp.turret.TargetItems.description>[自動操作] 砲塔是否將物品設為目標？</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
+<sp.turret.FriendlyTag.description>[自動操作] 在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
+  
+<sp.greatercomponent.output.description>當signal_in1所收到的數值大於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>當signal_in1所收到的數值小於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.falseoutput.description>
+
+<beaconstationplacement>置於天花板</beaconstationplacement>
 
 </infotexts>
