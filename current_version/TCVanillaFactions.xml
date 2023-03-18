@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+
+
+<!-- Modified values -->
+<entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
+<entitydescription.piratehelmet>一頂改造過的防彈頭盔。儘管做工粗糙，這頂頭盔意外的堅固。</entitydescription.piratehelmet>
+<entityname.piratebodyarmor>分離主義者護甲</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>一套護甲，部分由木星分離主義份子手工加工改造。它比看起來的還要重。</entitydescription.piratebodyarmor>
+<entityname.piratecaptainhat>分離主義者艦長帽子</entityname.piratecaptainhat>
+<entityname.piratebandana>分離主義者頭巾</entityname.piratebandana>
+<entityname.pirateclothes>分離主義者服裝</entityname.pirateclothes>
+<entitydescription.pirateclothes>由木星分離主義份子手工製作的粗糙衣物，它的設計能夠抵禦歐羅巴海中的嚴峻生活，這件衣物上還另外配備了輕型護甲。</entitydescription.pirateclothes>
+<entityname.piratesubexterior>分離主義者潛艇外觀配件</entityname.piratesubexterior>
+<entityname.piratesubdeco>分離主義者潛艇裝飾</entityname.piratesubdeco>
+<missionname.escort1>運送聯盟人員</missionname.escort1>
+<missiondescription.escort1>聯盟自[location1]雇用了一組人員，他們需要被送至[location2]。留意不要危害他們的生命安全，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort1>
+<missiondescription.escort3>一群被捕的分離主義者需要被運送至[location2]，報酬為[reward]馬克。旅途中務必看好他們，這些人有可能試圖脫逃。切勿讓他們喪生。</missiondescription.escort3>
+<missionname.escort2>運送聯盟官員</missionname.escort2>
+<missiondescription.escort2>一位聯盟的官員貴賓和他們的武裝護衛必須被送至[location2]。留意不要使這位VIP暴露在不必要的風險之中，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort2>
+<missionname.pirate1>分離主義者船艦</missionname.pirate1>
+<missiondescription.pirate1>找到並殲滅在這個區域中橫行霸道的木星分離主義份子船艦。標示的地點為最後一次目擊海盜的位置。</missiondescription.pirate1>
+<missionsuccess.pirate1>成功殲滅分離主義者船艦船員。</missionsuccess.pirate1>
+<missionfailure.pirate1>並未殲滅分離主義者船艦船員。</missionfailure.pirate1>
+<missionsonarlabel.pirate1>分離主義者海盜目擊地</missionsonarlabel.pirate1>
+<missionheader0.pirate1>偵測到分離主義者</missionheader0.pirate1>
+<missionheader1.pirate1>已殲滅分離主義者</missionheader1.pirate1>
+<eventtext.missionevent_escort1.c1>「在找工作嗎？聯盟從我們這裡雇了些新人，他們的新工作在附近的哨站上。護送他們安全抵達那兒，我們就會付給你一筆報酬。」</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort2.c1>「如果你想在聯盟高層之間打開知名度，我這兒有個好機會... 一位高階聯盟官員和他的武裝護衛到了這裡，他們正需要有人能送他們到附近的另一個哨站。護送他們平安抵達，你還能拿點報酬。」</eventtext.missionevent_escort2.c1>
+<eventtext.missionevent_escort3.c1>「我們最近逮捕了一些分離主義者，他們需要被轉移到附近另一座哨站上。要是我就會把他們給丟出氣閘，但聯盟高層想對他們進行訊問。你會收到不錯的報酬，但小心別忘了途中得緊緊盯著他們。」</eventtext.missionevent_escort3.c1>
+<eventtext.missionevent_escort4.c1>「我們相信木星分離主義恐怖分子已經混入了無辜平民之中。他們想要搭上下一艘從這裡出發的船艦離開這個地方，如果你願意當那艘船，你或許能夠揪出並逮捕他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4.c1>
+<missiondescription.cargocompoundn>分離主義者出價[reward]馬克，要求運送一批爆裂物給位於[location2]的一組隊伍手上。</missiondescription.cargocompoundn>
+<lockedpathtooltipcoalitionreputation>這條通道已被封鎖，你在‖color:faction.coalition‖歐羅巴聯盟‖end‖中的聲望必須到達[requiredreputation]，並獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipcoalitionreputation>
+
+<!-- New values -->
+<missionname.separatistattack1>分離主義者埋伏</missionname.separatistattack1>
+<missionheader0.separatistattack1>接收訊息</missionheader0.separatistattack1>
+<missionmessage0.separatistattack1>「這個通道已經被木星分離主義份子接管。立刻回頭，否則我們會殺光你們這群法西斯。」</missionmessage0.separatistattack1>
+<missionname.coalitionattack1>聯盟埋伏</missionname.coalitionattack1>
+<missionheader0.coalitionattack1>接收訊息</missionheader0.coalitionattack1>
+<missionmessage0.coalitionattack1>「死路一條，叛徒！背叛聯盟死罪一條！」</missionmessage0.coalitionattack1>
+<missionname.escort1separatists>運送分離主義者</missionname.escort1separatists>
+<missiondescription.escort1separatists>一群木星分離主義份子需要被運送至[location2]。他們正在進行一件重要任務，所有人都得安全地送達──若當中有人陣亡，你將只能獲得[reward]馬克。</missiondescription.escort1separatists>
+<missionname.escort2separatists>運送分離主義激進份子</missionname.escort2separatists>
+<missiondescription.escort2separatists>一位具影響力的木星分離主義激進份子與他的武裝護衛需要被運送至[location2]。留意不要使這位VIP暴露在不必要的風險之中，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort2separatists>
+<missionname.escort3separatists>運送俘虜</missionname.escort3separatists>
+<missiondescription.escort3separatists>木星分離主義份子出價[reward]馬克讓你運送一批被俘虜的聯盟人員至[location2]。旅途中務必看好他們，這些人有可能試圖脫逃。切勿讓他們喪生。</missiondescription.escort3separatists>
+<missionname.escort4separatists>反釣魚行動</missionname.escort4separatists>
+<missiondescription.escort4separatists>情報指出有聯盟的臥底在這個區域試圖釣出分離主義者的行動。有些已經混入無辜平民之中並溜上了你的船。確保乘客能安全抵達[location2]並處理那些現出真面目的聯盟臥底，你將會收到[reward]馬克的獎勵。</missiondescription.escort4separatists>
+<missionsuccess.escort4separatists>成功運送人員且成功處理聯盟臥底。</missionsuccess.escort4separatists>
+<missionfailure.escort4separatists>並未將人員送達目的地，或者並未揭發連臥底並將其打倒。</missionfailure.escort4separatists>
+<missionheader1.escort4separatists>擊敗聯盟臥底</missionheader1.escort4separatists>
+<missionmessage1.escort4separatists>看來那是最後一名臥底了，駕駛潛艇至[location2]以領取你的獎勵。</missionmessage1.escort4separatists>
+<eventtext.missionevent_escort1separatists.c1>「這兒有一群激進份子正需要前往附近哨站。他們在執行重要任務，但細節我就不說了。如果你們想盡一份心力，護送他們安全抵達那裡，我們會給你一筆酬勞的。」</eventtext.missionevent_escort1separatists.c1>
+<eventtext.missionevent_escort2separatists.c1>「如果你對幫助我們對抗聯盟那些法西斯主義者，我們有份工作給你... 有位重要的激進份子和他的武裝護衛正需要前往附近的哨站。護送他們平安抵達，我們會付給你一筆酬勞。」</eventtext.missionevent_escort2separatists.c1>
+<eventtext.missionevent_escort3separatists.c1>「我們最近和聯盟的攻擊艦艇有點摩擦，長話短說，我們已經把倖存船員關進禁閉室了。經過談判協商，我們同意把他們送往下一個哨站。如果你願意把他們護送過去，我們會付給你一筆報酬，但小心別忘了途中得緊緊盯著他們。」</eventtext.missionevent_escort3separatists.c1>
+<eventtext.missionevent_escort4separatists.c1>「根據線報，聯盟派出了一些臥底來調查這區域的分離主義者動態。我們相信他們已經混入了無辜平民之中想要搭上下一艘從這裡出發的船。如果你願意當那艘船，你或許能夠揪出並抓住他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4separatists.c1>
+<missionname.escort1huskcult>運送邪教教徒</missionname.escort1huskcult>
+<missiondescription.escort1huskcult>畫皮教會出價[reward]馬克讓你運送一批教徒至[location2]。有理由相信他們之中有些打算計畫提前「交融」並逃進冰洋之中，但教會要求你緊緊盯著他們，讓他們以人類姿態登上[location2]。</missiondescription.escort1huskcult>
+<EventText.missionevent_escort1huskcult.c1>「喂！找工作嗎？有幾個我們的教徒想到別的哨站上去。但我得先說；我們已經和他們解釋得很清楚，他們還沒準備好，不過他們似乎計畫好了要自己進行『交融』。你最好緊緊盯著他們，確保他們不會在船上做出什麼蠢事。」</EventText.missionevent_escort1huskcult.c1>
+<missionname.huskcultspecialassassinate>寂靜守護者</missionname.huskcultspecialassassinate>
+<missiondescription.huskcultspecialassassinate>教會注意到有聯盟的特務在調查他們的動態。對方的調查已經深入教會的秘密，我們別無選擇，只能讓他消失。前往[location1]並儘可能謹慎地消滅特務。</missiondescription.huskcultspecialassassinate>
+<missionsuccess.huskcultspecialassassinate>已殲滅目標，教會的秘密安全了。</missionsuccess.huskcultspecialassassinate>
+<missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
+<missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首腦領袖」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。</missionsuccess.huskcultrescuesubra>
+<missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
+<missionname.escort1clowns>運送小丑</missionname.escort1clowns>
+<missiondescription.escort1clowns>一群小丑出價[reward]馬克要前往[location2]。你已經被警告他們可能有些不守規矩，或者至少不習慣待在潛艇上。</missiondescription.escort1clowns>
+<EventText.missionevent_escort1clowns.c1>「嘿！你的船上還有位子多載幾位乘客嗎？我朋友他們想去別的哨站，他們會付錢的。」那小丑低聲地說。「但你最好得盯緊他們。他們的腦袋裡都養了爬行者，聽得懂吧。他們也沒在潛艇上待過，我不知道他們有沒有辦法應付。」</EventText.missionevent_escort1clowns.c1>
+<missionname.gotoclownhaven>終極玩笑</missionname.gotoclownhaven>
+<missiondescription.gotoclownhaven>小丑聖母之子要求你奪回一個曾經屬於他們的哨站。他們的計畫是不停地去騷擾居民，直到他們不堪其擾，別無選擇只能搬離。他們給了你一件特殊衣裝，協助你完成任務。</missiondescription.gotoclownhaven>
+<missionsuccess.gotoclownhaven>計畫似乎奏效了: 哨站居民似乎已經放棄掙扎，決定將哨站讓給小丑們。</missionsuccess.gotoclownhaven>
+<eventtext.missionevent_pirate1separatists.c1>「最近有艘聯盟艦艇在我們哨站附近巡邏，不斷攔截貨物、騷擾我們的船。我們一直避免讓事態升級，但物資已經開始短缺了。如果你願意幫我們弄沉那艘船，對這座哨站或是分離主義大業都是巨大貢獻，我們也非常樂意付你酬勞。」</eventtext.missionevent_pirate1separatists.c1>
+<EventText.missionevent_cargocompoundn.c1>「如果你願意幫助我們對抗聯盟，我有一項任務給你... 我們在附近哨站上有幾名特務，他們需要一些炸藥好完成任務。原封不動地把東西運過去，我們會給你合適報酬的。」</EventText.missionevent_cargocompoundn.c1>
+<missionname.cargoweaponscoalition>運送武器</missionname.cargoweaponscoalition>
+<missiondescription.cargoweaponscoalition>聯盟派出了幾名臥底在[location2]調查分離主義者的動態。他們亟需武器和彈藥──將物資送達以獲得[reward]馬克的獎勵。</missiondescription.cargoweaponscoalition>
+<missionsuccess.cargoweaponscoalition>武器已被成功送達。</missionsuccess.cargoweaponscoalition>
+<EventText.missionevent_cargoweaponscoalition.c1>「我這兒有一項重要任務。聯盟派了幾名臥底在附近的哨站上調查分離主義者的動態。細節我最好還是別說了，總之我們得運送一批武器和彈藥。把它們送過去，這對聯盟而言是重大貢獻，當然我們也會付上酬勞。」</EventText.missionevent_cargoweaponscoalition.c1>
+<missionname.pirate1separatists>聯盟艦艇</missionname.pirate1separatists>
+<missiondescription.pirate1separatists>找到並殲滅在這個區域中橫行霸道的聯盟艦艇，標示的地點為最後一次目擊他們的位置。</missiondescription.pirate1separatists>
+<missionsuccess.pirate1separatists>成功殲滅聯盟艦艇船員。</missionsuccess.pirate1separatists>
+<missionfailure.pirate1separatists>並未殲滅聯盟艦艇船員。</missionfailure.pirate1separatists>
+<missionsonarlabel.pirate1separatists>聯盟艦艇目擊第</missionsonarlabel.pirate1separatists>
+<missionheader0.pirate1separatists>偵測到聯盟艦艇</missionheader0.pirate1separatists>
+<missionmessage0.pirate1separatists>消滅艦艇船員或讓艦艇沉落海底！</missionmessage0.pirate1separatists>
+<missionheader1.pirate1separatists>成功殲滅聯盟船艦</missionheader1.pirate1separatists>
+<missionmessage1.pirate1separatists>駕駛潛艇前往[location2]領取獎勵。</missionmessage1.pirate1separatists>
+<missionname.tormsdalereport>Tormsdale報告</missionname.tormsdalereport>
+<missiondescription.tormsdalereport>木星分離主義份子交給了你一項任務，取回一份被稱為「Tormsdale事件」的機密報告。他們認為該事件是聯盟為了消除政治對手而精心策劃。</missiondescription.tormsdalereport>
+<missionsuccess.tormsdalereport>成功取回文件。</missionsuccess.tormsdalereport>
+<missionfailure.tormsdalereport>未能取回文件。</missionfailure.tormsdalereport>
+<missionmessage0.tormsdalereport>你找到了Tormsdale事件的相關文件。你需要將它們送至受到分離主義者掌控的哨站。</missionmessage0.tormsdalereport>
+<entityname.tormsdalereport>Tormsdale報告</entityname.tormsdalereport>
+<entitydescription.tormsdalereport>一封似乎裝著機密資料的未開封文件夾。</entitydescription.tormsdalereport>
+<missionname.jailbreak>逃獄</missionname.jailbreak>
+<missiondescription.jailbreak_separatists>木星分離主義份子求你解救幾位聯盟俘虜的特務。</missiondescription.jailbreak_separatists>
+<missiondescription.jailbreak_coalition>歐羅巴聯盟要求你解救幾位被木星分離主義份子俘虜的特務。</missiondescription.jailbreak_coalition>
+<missiondescription.jailbreak_sootman>木星分離主義份子要求你解救一位被聯盟俘虜的重要特務。</missiondescription.jailbreak_sootman>
+<missionsuccess.jailbreak>成功救出囚犯。</missionsuccess.jailbreak>
+<missionfailure.jailbreak>未能救出囚犯。</missionfailure.jailbreak>
+<missionsuccess.jailbreak_singletarget>成功救出囚犯。</missionsuccess.jailbreak_singletarget>
+<missionfailure.jailbreak_singletarget>未能救出囚犯。</missionfailure.jailbreak_singletarget>
+<missionheader0.prisonerrescue>成功救出囚犯</missionheader0.prisonerrescue>
+<missionmessage0.prisonerrescue>囚犯已經安全登上潛艇。與哨站分離以完成任務。</missionmessage0.prisonerrescue>
+<missionheader0.prisonerrescue_singletarget>成功救出囚犯</missionheader0.prisonerrescue_singletarget>
+<missionmessage0.prisonerrescue_singletarget>囚犯已經安全登上潛艇。與哨站分離以完成任務。</missionmessage0.prisonerrescue_singletarget>
+<prisonerkilled>任務失敗；一名囚犯死亡。</prisonerkilled>
+<dialogundercoverannounce>歐羅巴聯盟在此沒收這艘船！</dialogundercoverannounce>
+<dialogundercoverannounce>背叛聯盟死罪一條！</dialogundercoverannounce>
+<dialogundercoverannounce>我們不會讓你們這群恐怖分子活著離開！</dialogundercoverannounce>
+<dialogundercoverannounce>我們知道你們和分離主義者之間的勾當！我們會讓這在此結束。</dialogundercoverannounce>
+<dialogundercoverannounce>聯盟萬歲！</dialogundercoverannounce>
+<label.securespecimenenclosure>安全樣本盒</label.securespecimenenclosure><!--NEED EDIT-->
+<faction>陣營</faction>
+<locationchange.none.changeto.outpost.separatists>一‖color:faction.separatists‖木星分離主義份子‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>一‖color:faction.separatists‖分離主義‖end‖激進勢力進駐了[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力進駐[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.coalition>
+<locationchange.military.changeto.city.separatists>[previousname]的指揮官被任命為治理階層，使其被官方定為[name]市。</locationchange.military.changeto.city.separatists>
+<locationchange.military.changeto.city.coalition>[previousname]的人口已成長至足以被官方定為[name]市。</locationchange.military.changeto.city.coalition>
+<locationchange.outpost.changeto.mine.separatists>‖color:faction.separatists‖木星分離主義份子‖end‖開始於[previousname]進行採礦作業。</locationchange.outpost.changeto.mine.separatists>
+<locationchange.outpost.changeto.mine.coalition>‖color:faction.coalition‖聯盟‖end‖開始於[previousname]進行採礦作業。</locationchange.outpost.changeto.mine.coalition>
+<locationchange.outpost.changeto.research.separatists>一批自由研究人員將[previousname]發展為一座受到‖color:faction.separatists‖分離主義份子‖end‖支援的研究站。</locationchange.outpost.changeto.research.separatists>
+<locationchange.outpost.changeto.research.coalition>‖color:faction.coalition‖聯盟‖end‖將[previousname]發展為一座研究站並開始研究周遭的生物群。</locationchange.outpost.changeto.research.coalition>
+<location.clownhaven>小丑天堂</location.clownhaven>
+<breakingnews>新聞快報</breakingnews>
+<randomnews1>本週木星輻射預測仍不樂觀</randomnews1>
+<randomnews2>艦上小丑表示，工作場所內敵意和消極態度增加</randomnews2>
+<randomnews3>聯盟官員提醒所有守法公民，向隸屬分離主義份子的哨站出售管制原料屬於刑事犯罪</randomnews3>
+<randomnews4>科學界提出請願要求歐羅巴之眼深度研究資金</randomnews4>
+<randomnews5>「深入歐羅巴之眼」行動持續</randomnews5>
+<randomnews6>末日蠕蟲目擊次數增加</randomnews6>
+<randomnews7>畫皮教會疑使皮蟲淨短缺加劇</randomnews7>
+<randomnews8>與Dunsomin區域居民失去聯繫</randomnews8>
+<randomnews9>住房價格續漲，年底將達到歷史新高</randomnews9>
+<randomnews10>乖僻、武裝、危險人物Subra依舊逍遙法外</randomnews10>
+<randomnews11>「溫特豪德」型潛艇失火沉沒，八名船員親友哀悼</randomnews11>
+<randomnews12>小丑幣大跳水，跌破0.0001馬克</randomnews12>
+<randomnews13>火球Ford於Dunwice的曲棍球賽事中奪勝</randomnews13>
+<randomnews14>人類並不是木衛二的第一批居民，科學家表示「廢話」</randomnews14>
+<randomnews15>畫皮寄生蟲卵：研究表示對健康並無顯著益處</randomnews15>
+<randomnews16>記者在Meltwater失蹤，「歐羅巴報」展開調查</randomnews16>
+<randomnews17>現任聯盟首腦以壓倒性優勢勝選</randomnews17>
+<randomnews18>民眾對檢測十分困惑：陽性結果不被期望</randomnews18>
+<randomnews19>Stomburn出現奇特石雕，發現者表示「觸感溫暖」</randomnews19>
+<randomnews20>研究表明水罌粟不適合作為煙草吸食，健康官員表示「可以聞，但別吸」</randomnews20>
+<randomnews21>EHOEHO對遭輻射的爬行者香腸進行召回</randomnews21>
+<randomnews22>工程師超越技師成為最受歡迎職業，牧師依舊墊底</randomnews22>
+<randomnews23>頭條新聞寫手飽受孤獨之苦</randomnews23>
+<randomnews24>多數歐羅巴居民不再關心全球暖化</randomnews24>
+<randomnews25>當地兒童的惡作劇被誤認為來自地球的新訊息</randomnews25>
+<randomnews26>地球依舊毫無音訊</randomnews26>
+<randomnews27>第17季「和Doris阿姨吃美食」確定製作</randomnews27>
+<randomnews28>「Doris阿姨」連鎖餐飲遭控違反食品安全法</randomnews28>
+<randomnews29>聯盟對神祕恐怖份子「煙燻人」設下懸賞。</randomnews29>
+<randomnews30>聯盟造船廠祝融──安全人員指控蒙面恐怖份子「煙燻人」</randomnews30>
+<randomnews31>今夜深航：煙燻人──謎樣的蒙面變節者</randomnews31>
+<randomnews32>畫皮教派領袖Jacov Subra仍逍遙法外</randomnews32>
+<randomnews33>Ignatius May連任內務部主席，有關他利用裙帶關係的指控此起彼伏</randomnews33>
+<randomnews34>木星崇拜和非線性的空間與時間：密碼學揭示古代異星文化新線索</randomnews34>
+<npctitle.merchantclown>小丑商人</npctitle.merchantclown>
+<npctitle.merchanthusk>邪教徒商人</npctitle.merchanthusk>
+<npctitle.huskcultecclesiast>傳教士</npctitle.huskcultecclesiast>
+<npctitle.coalitionspy>聯盟特務</npctitle.coalitionspy>
+<npctitle.separatistcaptain>分離主義者上校</npctitle.separatistcaptain>
+<npctitle.separatistcaptainlord>分離主義者上將</npctitle.separatistcaptainlord>
+<npctitle.separatistsecurityrecruit>分離主義者新兵</npctitle.separatistsecurityrecruit>
+<npctitle.separatistsecuritygunner>分離主義者槍手</npctitle.separatistsecuritygunner>
+<npctitle.separatistsecuritybrute>分離主義者打手</npctitle.separatistsecuritybrute>
+<npctitle.separatistsecurityelite>分離主義者菁英</npctitle.separatistsecurityelite>
+<npctitle.separatistmechanicrecruit>分離主義者技師</npctitle.separatistmechanicrecruit>
+<npctitle.separatistmechanicveteran>資深分離主義者技師</npctitle.separatistmechanicveteran>
+<npctitle.separatistengineerrecruit>分離主義者工程師</npctitle.separatistengineerrecruit>
+<npctitle.separatistengineerveteran>資深分離主義者工程師</npctitle.separatistengineerveteran>
+<npctitle.coalitioncaptain>聯盟上校</npctitle.coalitioncaptain>
+<npctitle.coalitioncaptainlord>聯盟上將</npctitle.coalitioncaptainlord>
+<npctitle.coalitionsecurityrecruit>聯盟新兵</npctitle.coalitionsecurityrecruit>
+<npctitle.coalitionsecuritygunner>聯盟槍手</npctitle.coalitionsecuritygunner>
+<npctitle.coalitionsecuritybrute>聯盟下士</npctitle.coalitionsecuritybrute>
+<npctitle.coalitionsecurityelite>聯盟中尉</npctitle.coalitionsecurityelite>
+<npctitle.coalitionmechanicrecruit>聯盟技師</npctitle.coalitionmechanicrecruit>
+<npctitle.coalitionmechanicveteran>資深聯盟技師</npctitle.coalitionmechanicveteran>
+<npctitle.coalitionengineerrecruit>聯盟工程師</npctitle.coalitionengineerrecruit>
+<npctitle.coalitionengineerveteran>資深聯盟工程師</npctitle.coalitionengineerveteran>
+<npctitle.hireablecoalitionsecurityofficer>聯盟下士</npctitle.hireablecoalitionsecurityofficer>
+<npctitle.hireablecoalitionsecurityofficerveteran>聯盟中尉</npctitle.hireablecoalitionsecurityofficerveteran>
+<npctitle.hireablecoalitionmechanic>聯盟技師</npctitle.hireablecoalitionmechanic>
+<npctitle.hireablecoalitionmechanicveteran>資深聯盟技師</npctitle.hireablecoalitionmechanicveteran>
+<npctitle.hireablecoalitionengineer>聯盟工程師</npctitle.hireablecoalitionengineer>
+<npctitle.hireablecoalitionengineerveteran>資深聯盟工程師</npctitle.hireablecoalitionengineerveteran>
+<npctitle.hireablecoalitionmedic>聯盟醫生</npctitle.hireablecoalitionmedic>
+<npctitle.hireablecoalitionmedicveteran>資深聯盟醫生</npctitle.hireablecoalitionmedicveteran>
+<npctitle.hireableseparatistsecurityofficer>分離主義者下士</npctitle.hireableseparatistsecurityofficer>
+<npctitle.hireableseparatistsecurityofficerveteran>分離主義者中尉</npctitle.hireableseparatistsecurityofficerveteran>
+<npctitle.hireableseparatistmechanic>分離主義者技師</npctitle.hireableseparatistmechanic>
+<npctitle.hireableseparatistmechanicveteran>資深分離主義者技師</npctitle.hireableseparatistmechanicveteran>
+<npctitle.hireableseparatistengineer>分離主義者工程師</npctitle.hireableseparatistengineer>
+<npctitle.hireableseparatistengineerveteran>資深分離主義者工程師</npctitle.hireableseparatistengineerveteran>
+<npctitle.hireableseparatistmedic>分離主義者醫生</npctitle.hireableseparatistmedic>
+<npctitle.hireableseparatistmedicveteran>資深分離主義者醫生</npctitle.hireableseparatistmedicveteran>
+<entityname.op_husktable>驗屍台</entityname.op_husktable>
+<entityname.op_huskscribble>神秘物品</entityname.op_huskscribble>
+<entityname.op_huskstatue1>神秘雕像</entityname.op_huskstatue1>
+<entityname.op_huskgraffiti>神秘符號</entityname.op_huskgraffiti>
+<entityname.op_husklabel>禁止進入標識</entityname.op_husklabel>
+<entityname.op_husklabel1>褪色的名牌</entityname.op_husklabel1>
+<entityname.op_huskbody>嬰兒屍體</entityname.op_huskbody>
+<entityname.op_humantank>實驗槽</entityname.op_humantank>
+<entityname.op_huskincubator>嬰兒保溫箱</entityname.op_huskincubator>
+<entityname.op_huskphoto1>模糊的相片</entityname.op_huskphoto1>
+<entityname.op_huskcloak>邪教徒斗篷</entityname.op_huskcloak>
+<entityname.op_huskstroller1>嬰兒車</entityname.op_huskstroller1>
+<entityname.op_huskposter1>藥物海報</entityname.op_huskposter1>
+<entityname.op_husksign>紙板標識</entityname.op_husksign>
+<entityname.op_sepsandbag>分離主義者裝飾</entityname.op_sepsandbag>
+<entityname.op_clowncurtain2>裝飾窗簾</entityname.op_clowncurtain2>
+<entityname.op_clownmannequin1>人體模型</entityname.op_clownmannequin1>
+<entityname.op_clownjukebox>點唱機</entityname.op_clownjukebox>
+<entityname.op_clowninstrument1>大提琴</entityname.op_clowninstrument1>
+<entityname.op_clownball1>氣球</entityname.op_clownball1>
+<entityname.op_clownmic>舞臺麥克風</entityname.op_clownmic>
+<entityname.op_clownsign1>劇院標誌</entityname.op_clownsign1>
+<entityname.op_clownmask2>裝飾面具</entityname.op_clownmask2>
+<entityname.op_clownshow1>演出海報</entityname.op_clownshow1>
+<entityname.op_clownmarquee>招牌</entityname.op_clownmarquee>
+<entityname.op_clowninstrument2>爵士鼓</entityname.op_clowninstrument2>
+<entityname.op_clownfence>劇場圍欄</entityname.op_clownfence>
+<entityname.op_clownball2>巨大的球</entityname.op_clownball2>
+<entityname.op_clownposter1>廣告海報</entityname.op_clownposter1>
+<entityname.banana>香蕉</entityname.banana>
+<entitydescription.banana>源自地球的水果，非常美味，富含鉀元素。</entitydescription.banana>
+<entityname.bananapeel>香蕉皮</entityname.bananapeel>
+<entitydescription.bananapeel>富含鉀元素。如果擺在地上則會產生安全疑慮。</entitydescription.bananapeel>
+<entityname.cymbals>攝魂鈸</entityname.cymbals>
+<entitydescription.cymbals>一對用於小丑聖母教派進行冥想練習所用的鈸。攝魂材質使這對鈸發出獨特而可憎的巨大聲響讓外行人頭暈目眩。</entitydescription.cymbals>
+<entityname.clowncrate>小丑箱</entityname.clowncrate>
+<entitydescription.clowncrate>一個大小足以容納一位搗蛋鬼的箱子。</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] 進入</itemmsggoinside>
+<entityname.clownexosuit>歡樂製造機3000</entityname.clownexosuit>
+<entitydescription.clownexosuit>小丑聖母教派的科技結晶: 一架配有強大惡作劇武力的核能動力服。</entitydescription.clownexosuit>
+<clownexosuitweapon>爆裂叭叭</clownexosuitweapon>
+<entityname.honkmotherianscriptures1>小丑聖經：歡樂九章 (I-III)</entityname.honkmotherianscriptures1>
+<pillarsoffun1>I. 能被傳述的叭叭不是永恆的叭叭。能被叫出名諱的小丑聖母不是永恆的小丑聖母。無名者才是舞臺的靈魂。有名者是場戲、是演員、是觀眾、是他們之間的那面牆。從嚴肅中解放，如此就能看到隱藏的秘密。嚴肅的雙眼只能看到眼前的真相。\n\nII. 我們把氣球塑造成動物的形狀，但當中的虛無才是真正為氣球塑形。我們利用物質，但真正運用的介於虛實。\n\nIII. 最高級的樂趣不是創造樂趣，而是讓自己成為樂趣。嚴肅之人總在找樂子，最後只發現那種歡樂無法持續。嚴肅之人榨乾生命賦予的檸檬，最後只發現酸澀的汁液。</pillarsoffun1>
+<entityname.honkmotherianscriptures2>小丑聖經：歡樂九章 (IV-VI)</entityname.honkmotherianscriptures2>
+<pillarsoffun2>IV. 一名小丑聽聞宇宙最大的笑話時，他以此為引。一名普通人聽聞宇宙最大的笑話時，他半信半疑。一名愚者聽聞宇宙最大的笑話時，他爆笑如雷。若他沒笑，那就不是個笑話了，是吧？\n\nV. 最棒的小丑是籍籍無名的。其次的是人們讚美喜愛的。再次是受人懼怕的。最差勁的是被看不起的。一名偉大的小丑完成任務時，人們會說「那還真有趣」，卻不曾察覺歡樂之流從何而來，如同他們不曾察覺各方小丑之傑、歡樂的源頭、那空白的石板。\n\nVI. 如同那那空白的石板，小丑的思緒即是如此。他們把人們的思緒作為自己的思緒。他們用善良對待善良之人。他們也用善良對待不善之人。他們信任值得信任之人。他們也信任不值得信任之人。因而，他們獲得善良與信任，免得腦滿糞土的嚴肅之人阻擋歡樂之流蕩漾。</pillarsoffun2>
+<entityname.honkmotherianscriptures3>小丑聖經：歡樂九章 (VII-IX)</entityname.honkmotherianscriptures3>
+<pillarsoffun3>VII. 若你不懼怕死亡，它又能如何威脅到你呢？要真正理解這一點，順著自行車喇叭之道大步邁進。不自然地延續生命就是對死亡的恐懼。試圖改變生命的走向就是對死亡的恐懼。小丑明白事物，合久必分，盛極必衰。違背自然規律背離了自行車喇叭之道，背離之人最後一點歡樂也找不到。\n\nVIII. 心存憐憫，就能充滿勇氣。心有節制，就能為世界帶來歡樂。心懷謙卑，就能指引他人。放棄憐憫卻尋找勇氣、在歡樂中放棄節制、亦或是在尋求指引時放棄謙卑都不會迎來歡樂。\n\nIX. 風箏隨風高飛，小丑任其翱翔；風箏斷了線，小丑由它去。小丑擁有而不佔有，行動但不期待。當他的任務完成，他就將其遺忘。這就是歡樂如何永恆，如同各方小丑之傑。讚美小丑聖母！</pillarsoffun3>
+<storename.merchantclown>小丑物資</storename.merchantclown>
+<storename.merchanthusk>信徒物資</storename.merchanthusk>
+<entityname.cultistrobes>邪教徒長袍</entityname.cultistrobes>
+<entitydescription.cultistrobes>畫皮教會信徒傳統上穿著的深色服飾。上面塗抹能夠安撫野生畫皮蟲的費洛蒙，讓他們能夠安全度過昇華前的時光。</entitydescription.cultistrobes>
+<entityname.zealotrobes>狂熱者長袍</entityname.zealotrobes>
+<entitydescription.zealotrobes>畫皮教派高階成員穿著的深色服飾。帶有基因科技和荷爾蒙注射器，使穿著者獲得其共生體的強大回復能力，同時使它們保持休眠狀態。</entitydescription.zealotrobes>
+<entityname.rituallantern>儀式燈籠</entityname.rituallantern>
+<entitydescription.rituallantern>畫皮教會進行儀式時常見的燈籠。含有能鎮靜野生畫皮寄生蟲的化學物質，也具有治療功能。</entitydescription.rituallantern>
+<entityname.huskcontainerspawner>畫皮寄生蟲置物箱</entityname.huskcontainerspawner>
+<entitydescription.huskcontainerspawner>一個受到「Velonaceps Calyx」，俗稱畫皮寄生蟲寄宿的置物箱。能被當成一種自動置物箱使用，不過效果頗為短暫，因為畫皮寄生蟲很難在無機物中存活太久。</entitydescription.huskcontainerspawner>
+<entityname.bookofchalices1>聖杯之書：三重蛻變</entityname.bookofchalices1>
+<threemetamorphoses>Three metamorphoses of the spirit do I designate to you: how the spirit becometh a chalice in the shape of a man’s fortitude, the chalice emptieth of the stale wine, and the chalice refilleth with fresh wine.\n\nMany things are there for the spirit to carry, the strong spirit in which the reverence dwelleth.\n\nWhat is there to carry? so asketh the spirit, holding out its hands. What is the heaviest thing? asketh the spirit, that I may take it upon me and rejoice in my strength.\n\nIs it not this: To descend to the deepest depths to tempt the temper?\n\nOr is it this: To feed on the fruit of knowledge, and for the sake of truth to suffer hunger of soul?\n\nOr is it this: To go into foul water when it is the water of truth, and not disclaim the pests and parasites within it?\n\nOr is it this: To love those who despise us, and to give one's hand to the phantom when it is going to frighten us?\n\nAll these heaviest things the spirit taketh upon itself: and as a chalice in the shape of a man’s fortitude, it rejoiceth in its strength.\n\nBut then riseth a miasma from the chalice, for the man’s fortitude carrieth burdens of old, now stale and foul.\n\nThus speaketh the miasma to the spirit, "Thou shalt!"\n\nThe ideas and values of thousands of years in the air reeketh. "All the values of things embalming me. All values have already been created, and all created values—do I represent. Verily, there shall be no 'I will' any more." Thus speaketh the miasma.\n\nMy brethren, wherefore is there need of emptying the chalice? Why sufficeth not the fortitude of man, which renounceth and is reverent? To create new values—that, a mere man cannot accomplish: but to create itself freedom for new creating—that can the fortitude of man do.\n\nTo create itself freedom, and give a holy Nay even unto duty and humanity: for that, my brethren, there is no need of the man. To assume the ride into new values—that is the most formidable assumption for a reverent spirit.\n\nBut tell me, my brethren, what is the value of an empty chalice? For is it not the wine that gives it purpose? Thus must we find a new wine, fresh and untainted, beyond the fortitude of man, yet within its grasp.\n\nAye, for the game of creating, my brethren, there is needed a holy Yea unto life, the fortitude of life itself. A fortitude readily within the grasp of those who dare to reach out, as if a Gift the world has handed us.\n\nThus comes the third and final metamorphosis, the Ascension: the man’s spirit filled with new life, the fortitude of man and the fortitude of the world as one. Its own will, willeth now the spirit; his own world winneth the world's outcast. Thus is the quintessential form.</threemetamorphoses>
+<entityname.bookofchalices2>聖杯之書：化身浪潮的先驅</entityname.bookofchalices2>
+<heraldofthetide>人類是動物與本質形態之間的橋樑──一座位於深淵之上的橋梁。\n\一處危險的通道，一趟危險的旅途，一個危險的記憶，一陣危險的顫抖和停滯。\n\n人的偉大之處在於，他是一座橋樑而非一個終點：人的可愛之處在於，他既由上而過又向下前行。鮮少有人能跨過那座橋樑，但跨過的人都擁有偉大德行：\n\n他們為了向下以而活，正因他們由上而過。\n\n他們最初不顧一切而躍身群星之上好為向下前行獻身，而是將自己奉獻給了世界，因而到達了本質形態才能到達的世界。\n\n他們為求知而生，他們尋求成為本質形態的知識。為此他們尋求自身的向下前行。\n\n他們勞動並創造，為本質形態修築新家，將其準備給大海、動物、植物、以及自身的肉體：為此他們尋求自身的向下前行。\n\n他們懲戒自己的神，因為他們愛他們的神：因此也得屈服來自他們的神的怒火。\n\nTheir soul is deep even in the wounding, and may succumb through a small matter: thus goeth they willingly over the bridge.\n\nThey are an open spirit and an open heart: thus is their head only the bowels of their heart; their heart, however, causeth their down-going.\n\nLo, I am become a herald of the tide, and a strong stream amidst the water: the tide is the quintessential form.</heraldofthetide>
+<character.huskcontainer>畫皮寄生蟲置物箱</character.huskcontainer>
+<entityname.40mmnuke>40mm迷你核彈</entityname.40mmnuke>
+<entitydescription.40mmnuke>能以榴彈發射器發射的一種小型核裝置。</entitydescription.40mmnuke>
+<entityname.molotovcoctail>燃燒瓶</entityname.molotovcoctail>
+<entitydescription.molotovcoctail>一種廉價的克難燃燒武器。</entitydescription.molotovcoctail>
+<campaignstore.reputationrequired>需要[amount][faction]聲望</campaignstore.reputationrequired>
+<charactername.ignatiusmay>Ignatius May</charactername.ignatiusmay>
+<charactername.auntdoris>Doris阿姨</charactername.auntdoris>
+<charactername.victoriapetran>Victoria Petran</charactername.victoriapetran>
+<charactername.sootman>煙燻人</charactername.sootman>
+<charactername.jestmaster>惡作劇大師</charactername.jestmaster>
+<eventtext.separatistspecialhire1.c1>A stern-looking woman walks up to you. For a second you wonder why she looks so familiar, until you realize you've seen this face in the news a bunch of times.\n\nShe reaches out to shake your hand. “Hello. I've been waiting to meet you. Victoria Petran, the First Lieutenant of the Jovian Separatists.”</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>“It's an honor to meet you. How can I be of service?”</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>“Actually, I'm not here to ask for your service, in fact quite the opposite. I've been following you and your crew's endeavors for a while now, and your work for our cause has been astounding. If we had more people like you in our ranks, the Coalition would've already been wiped off the face of Europa.”</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>“Thank you. We're doing our best.”</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>“In fact, I believe the work you've been doing has been so exceptional, that I've come to think I could make a bigger difference as a part of your crew than behind my desk in my office. And I believe I could be of value to you as well; I've seen a fair share of submarine life and know a thing or two about weapons and medicine. So, how's that sound—would you have an opening for another security officer?”</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>“How could I say no! Welcome on board, ma'am!”</eventtext.separatistspecialhire1.o1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>“Great! In that case, you can cut it with the ma'ams—I'm a part of your crew now, not your superior. Can't wait to embark on our first mission!”</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>“I'm honored, but we need to think about this a bit.”</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>“I understand. Well, if you decide to take me on board in the future, I'm sure we'll run into each other again in one of the Separatist-controlled outposts.”</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>“Hello again. Have you thought about my proposal? Would you be interested in taking me on board?”</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>“Yes, we do have room for an extra security officer. Welcome on board, ma'am!”</eventtext.separatistspecialhire1.o1.o1.repeat>
+<eventtext.separatistspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>Someone who looks like they'd just crawled out from a diesel generator's exhaust pipe walks up to you.\n\n“Oi, I've been looking for you.”</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>“You look familiar. Have we met?”</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>“It was your crew who got me out of that Coalition holding cell, wasn't it? Didn't have time for introductions then, but they call me Sootman. Let's go with that. Say, you don't happen to need an extra crewmate?”</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>“Sootman? As in that masked Separatist the Coalition has been trying to track down for ages? Are you shitting me?”</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>“Aye, that's me. The word around the outposts is that you folks have been putting up a real good fight against the Coalition, and I want in on that. So, how about it?”</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>“Absolutely! We'd be honored to have someone of your caliber join us.”</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>“Nice. See you on board.”</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>“We need to think about this a bit.”</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>“Aight.”</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>“So? You got a place for me on board?”</eventtext.separatistspecialhire2.repeat>
+<eventtext.coalitionspecialhire2.c1>You notice an old lady with a familiar-looking face. Aunt Doris! Her food kiosk franchise might leave something to be desired, but her cooking shows have always been excellent.\n\nTo your surprise, she approaches you. “Well hello there! I heard you and your troop were in the neighborhood, so I came here in hopes of running into you.”</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>“It's nice to meet you, ma'am! What can we do for you?”</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>“This may be a bit silly, but I suppose no harm in asking! You see, I've been having a…how should I put this…late-life crisis as of late. As I'm sure you know, I've been hosting cooking shows, running my restaurants and whatnot for almost four decades now. Hearing stories of your crew's wild adventures, all the things you've done to help make our little moon something better, I just can't help feeling curious about what life as a submariner would've been like.”</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>“It's not a life for everyone.”</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>“Yes, I bet! But it sure is something I'd love to take a shot at. And you know, I'm not as soft as I may look—as a young girl, back in my activist days, I bashed in more filthy separatist heads than you'd believe. And I loved every second of it! I also know a thing or two about medicine, and there isn't an animal on Europa I don't know how to slice.\n\nSo, how about it, would you give this old-timer a chance in your crew? I'd love nothing more than to do my part in our fight for a better Europa!”</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>“How could I say no! Welcome on board, ma'am!”</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>“Oh, splendid! I'll just grab a few things and meet you on board!”</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>“I understand. Take all the time you need, dear!”</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>“Oh, hello again! Have you thought about letting me join you folks?”</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>“Always happy to run into you folks! You know, I actually had a fun idea I'd like to talk to you about.”</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>“Of course, I'm all ears!”</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>“You see, life inside the confines of this outpost can get quite dull at times. It's not often we get visitors I could guide on their path, and I can't help wondering how much more I could give if I embarked on a journey like yours. A joke you've never heard before tends to be funnier than one you've heard a thousand times, wouldn't you agree?”</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>“I see what you mean. Do tell me about this idea of yours!”</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>“I was wondering, would your crew happen to have any room for an extra assistant? Getting to join you on your adventures would make this old fool happier than you can imagine. Even though I've never been a submariner, I've got quite a few tricks up my sleeve that might be of use to use.”</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>“By the Honkmother, of course! Welcome on board!”</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>“Wonderful! I'm honored to join you.”</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>“I understand. I'm sure you'll run into me again—let me know when you've made up your mind!”</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>“A jolly day to you! Have you thought about my proposal? Would you be willing to let me join you folks?”</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>“I think we have room for an extra assistant. Welcome on board!”</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>A familiar-looking man walks up to you. “Hey, it's you! I was actually hoping I'd run into you again.”</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>“Pleasure to meet you again as well, Mr. Subra!”</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>“How about we set the courtesies aside and cut to the chase. It's not every day we come across a submarine crew as open-minded as yours, much less one this competent. So I've got a proposition for you that'd take this collaboration between you and the Church even further. And, well, if I'm quite honest, this'd also be a gracious gift for me personally.”</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>“I'm listening.”</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>“To put it simply, I've been itching to join your crew for some time now, even before that ordeal with the bounty hunters. The work you've been doing for the Church has been phenomenal, and if I were to join forces with you, I believe together we could drown this world in the grace of our lord. And again, if I'm completely honest, I've been dying to get a taste of life in the untamed waters outside the outposts. So, what say you?”</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>“How could I say no! Welcome to our crew, brother!”</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>“Fantastic! I'll meet you on board.”</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>“Absolutely, take all the time you need.”</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>“A pleasure to meet you again, brother. So, have you thought about my proposition? Would you have room for one more crewmate?”</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>“We'd be thrilled to have you.”</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>An announcement comes over the PA: “Calling the crew of the vessel that just docked. Please report to administration immediately.”</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>An old man in an expensive-looking uniform walks up to you and shakes your hand. “Ah, there you are. I was starting to wonder whether the PA system worked. Anyhow, it's a pleasure to meet you! I heard your crew was heading this way and had to come and meet you in person. If you can spare a moment, I'd like to propose you something.”</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>“I'm sorry, who are you again?”</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>“Ah, excuse my manners—it's not every day I get to meet a national hero like you! Ignatius May, the Captain of Internal Affairs of the Europa Coalition. I've been keeping an eye on your crew's accomplishments for some time now, and in fact, many of the missions you've undertaken were commissioned by me. On behalf of the Europa Coalition, I would like to extend our utmost gratitude to you and your crew for your service.”</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>“Thank you, sir! Might I ask what this proposition is you mentioned?”</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>“Straight to business, eh? I like it! To cut to the chase, I'm looking to join your crew. It's been a long time since I've seen some real action, and your crew's endeavors have made me itch to get back out there, to really get my hands dirty and do something tangible for the Coalition.”</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>“We'd be honored to have you with us, sir!”</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>“Fantastic! I'll meet you on board.”</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>“Uh, I did not intend this to be a request. But out of respect for you and your crew, I won't insist. I'm sure we'll run into each other again—let me know if you've made up your mind then.”</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>“Hello again. So, have you considered my proposition?”</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>“We'd be thrilled to have you join us, sir.”</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>A couple of robed figures are huddled around someone lying on the floor. You're not sure if they're trying to restrain or resuscitate the person—who is convulsing violently, as if having some kind of a seizure. One of the robed figures notices you. “Hey, you! Throw me a syringe of calyxanide from that cabinet over there!”</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>Toss them a syringe from the cabinet next to you.</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>You toss them the syringe that says "calyxanide," and as soon as they inject it in the spasming man's neck, he settles down. One of the robed figures seems angry. “Mark, you impatient idiot, how many times have we told you you're not ready for the Gift yet?!”</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>“What is going on here?”</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>The robed characters turn to look at you. Getting a better look at their faces, they seem very young. “We just had a little medical emergency of sorts. Our friend thought it would be fun to...go on a little trip, if you know what I mean. Thanks for the help! If you don't mind, let's keep this just between us.”</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>“This feels awfully suspicious. Tell me what you were doing to that man or I'll report you to the authorities.”</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>The group glance at each other nervously. “Look, we don't want any trouble. Our brother here was too eager to meet the great husk, and it was taking him over. But we've got it contained now, and everyone is fine. Won't happen again. No need to tell the whole outpost, or our sect for that matter. It would ruin our careers if they found out he tried to jump the line!”</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>“Your sect? You're members of the Church of the Husk? I thought your whole schtick was to get taken over by the parasite.”</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>“Parasite? A parasite does nothing but take; the husk gives! It can take you way beyond the limits of that fleshbag you call your body! But not like this, not if you're not ready to take it in. Or, ahem, so the Ecclesiasts speak, anyway.”</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>Enough of this cultist bullshit. Alert the outpost security.</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>You contact outpost security via radio, informing them of the suspicious activity going on in this module.</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>“I've grown quite fond of this fleshbag, thank you. I'll see myself out now.”</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>“If I wanted to rise beyond those limits, how would I go about that?”</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>“Easy, dear brothers. I just want to know why you'd want to stop this man's transformation into a husk.”</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>Their stern expressions ease up. “You saw the way he was spasming, didn't you? That's not what an ascension looks like. The symbiote was about to consume him, to take him over. He's clearly not ready to be one with the symbiote yet.”</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>“I see. If one was interested in 'becoming one with the symbiote,' how should they go about that?”</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>“Well, to be honest, we're just fresh converts. I don't know if we're the best people to answer that. Our Ecclesiasts say you need to be ready for the Gift, to truly open up your heart, mind, and all parts of your flesh before you can take the Communion. There's these...rituals, and tools, for appeasing and welcoming the holy symbiote and bringing about the metamorphosis. But we don't really know much about those yet. I'm sure an Ecclesiast would happily tell you more, if you can find one!”</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>Wish the charming young fellows farewell and a pleasant and timely ascension.</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>Enough of this cultist bullshit. Alert the outpost security.</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>“I thought your whole schtick was to get taken over by the parasite.”</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>This seems shady. Better to not get involved.</EventText.youngcultists.o2>
+<EventText.waytoascension1.c2>You overhear two robed figures in deep discussion. “To be honest, I find those kinds of drug-fueled sodomite parties distasteful, a perversion of what a real Communion ought to be.” The one wearing a more elaborately decorated robe shrugs. “As an Ecclesiast I must concur, although just between you and me, I do believe it can also be good for the acolytes to test their limits every once in a while—you must know where your limits are if you’re striving to surpass them!”</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>“Excuse me, did you say you’re an Ecclesiast of the Church of Husk?”</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>The robed man turns to look at you, and judging by his expression, you suspect you've just heard something not meant for your ears. “Who might you be, and what’s your business here?” he asks.</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>“Our crew has been looking for ways to learn more of the Church, and I've heard an Ecclesiast might be able to guide me.”</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>The man scoffs. “Does this look like a public school to you? Even if I had an interest in teaching every random submariner who happens to waltz in, how would I know you’re not some Coalition spy or a clown probing for information?”</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>“Could we prove our good intentions by helping the Church in some way?”</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>“That would in no way make you stand apart from the plethora of morally and spiritually devoid submarine crews going around doing tasks for whomever with no regard for what kind of party they’re supporting. What the Church is interested in is what you’re striving for, and how much you are willing to sacrifice to reach those aspirations.”</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>“Is there any other way for us to prove our sincerity?”</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>“For that, you’ve got a long way to go, kid. But what the hell, let's try something. To prove that you at the very least have some kind of an understanding of our doctrine, answer me this. What is the Second Metamorphosis of the spirit?”</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>“Emerging from the cocoon of your human body.”</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>The man snickers and shakes his head. “As I thought. You have some more learning to do on your own, and until you do, I have nothing more to say to you.”</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>“Becoming one with the symbiote.”</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>“Emptying the chalice of the stale wine.”</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>“I must admit I’m surprised a submariner would be familiar with the concept of the Three Metamorphoses. That being said, you’ve still got a long way to go to truly prove yourself. But perhaps we can think of something. We have a certain Church event coming up soon for which we’ll need copious amounts of ‘wafers’ to feed all the attendants. I’m sure you see what I’m getting at.”</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>“You want me to get you husk eggs?”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>“That’s another way to put it, yes. Not only would this be a test of your dedication, I believe it could aid you and your crew toward the First Metamorphosis. To descend to the deepest depths, to dive bravely into the foulest of waters. So, to put it simply: Bring me or one of my colleagues a dozen vials of husk eggs, and then we’ll talk more.”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>“I’m afraid I don’t know. Yet.”</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>“There is some wisdom in knowing and admitting your limits. You have some more learning to do on your own, but until you do, I have nothing more to say to you.”</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>“If it’s of any worth, we’d happily pay you for your troubles.”</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>“Of course. As a submariner you must've come to think throwing money at people is the way to make them do your bidding, but the very proposal suggests you have very little idea of what we’re striving for here in the Church.”</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>“Sorry, I must've confused you with someone else. I'll get going now!”</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>Sounds like this man is some kind of a big shot of the Husk Cult. Better alert the outpost security.</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>You contact the outpost security via radio, informing them of the suspicious activity going on in this module.</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>This seems shady. Better to not get involved.</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>“I believe your crew has expressed an interest in learning more about our Church. Before we get any further, I'd like to ask you the same question my colleague already did: What is the Second Metamorphosis of the spirit?”</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>“I believe the Church has given you an assignment of sorts. Have you acquired the ‘wafers’?”</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>“I've obtained 12 vials of husk eggs, as asked.”</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>The Ecclesiast's eyes widen as you take out the vials. He swiftly yanks them from your hands and shoves them inside his robes. “It’s starting to seem our doubts about your crew may have been unfounded. I hope you can forgive our distrust; it’s not every day submariners come to show this kind of attitude toward us. But I suppose that’s understandable. We shouldn’t expect sympathy from people whose understanding of the Husk is solely based on encounters with the feral ones.”</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>“Fair enough. Would you be willing to tell us more about the Church now?”</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>“This thirst for knowledge is a promising sign. Yes, we’ve discussed the matter with the Ecclesiarchy, and we are willing to appoint you as acolytes of the Church of Husk if that is your desire.”</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>“What does that mean in practice?”</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>“It means we will help you in your personal strive for Ascension, and you will help the Church in our collective pursuit of a better humankind, or rather, a kind that is something more than human. Our members are not obliged to much—everyone serves according to their own volition and capabilities—but we do of course hope your crew keeps contributing to our cause, much as you already have been doing. Feel free to take your time to consider the offer. Let me know when you’ve made up your mind.”</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>“Please bring them to me and we'll carry on from there.”</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>“Still working on it.”</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>“Have you made your decision—do you want to become an acolyte of the Church?”</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>“Yes, I want to join you.”</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>“Then we shall make it be. Do you accept Ascension as your utmost goal, as well as the utmost goal for humankind?”</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>“Yes.”</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>“Then we shall make it be. Do you accept to renounce your humanity and thus bring forth the quintessential form?”</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>“Then we shall make it be. Do you accept to become one with the fortitude of the world and thus bring forth the quintessential form?”</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>“Then we shall make it be; we welcome you to our family. I'm pleased to have you with us! In fact, I believe our whole Church all the way up to the Arch-Ecclesiasts will be pleased to hear the news.”</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>“So, what happens next?”</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>“That is largely up to you—as said, everyone in the Church serves according to their own volition. If you're looking for pointers, the Book of Chalices might be a good starting point.” The Ecclesiast hands you a paper scroll. “Take it to your heart and you'll be better prepared when the time comes for your next task.”</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>“I still need to think about this.”</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>“A pleasure to run into you again. The timing couldn't have been better, as we have something we could use your help with. This is considerably more sensitive than the jobs you’ve been doing so far. We need someone competent, someone we know the Church can trust, and we’ve come to think your crew might fit the bill.”</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>“I’m interested.”</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>“According to our informants, a Coalition operative has infiltrated one of our sects to investigate the Church. There's a chance he may have gained access to very sensitive information, including the identities and whereabouts of some of our Arch-Ecclesiasts. We have reason to believe he's currently in a nearby outpost, so now's our chance to take action and make sure he'll talk to no one.”</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>“I see. We'll take care of it.”</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>“Are you telling me to murder someone?!”</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>“Have you not read 'The Three Metamorphoses'? That's the miasma talking. You need to let go of these factitious human notions of morals. Besides, have you not murdered countless of beings during your voyages? How's this any different, aside from being of extreme importance to our cause?”</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>“I suppose you're right.”</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>“I'll mark the location on your map. Make sure you do the deed discreetly: We don't want any more curious eyes prying on us.”</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>“We've been informed your task was a success. I knew we could count on you! Unfortunately, we have another, even more urgent matter we need to discuss.”</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>“I'm all ears.”</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>“As you surely know, the Coalition has put a bounty on Jacov Subra, one of our Arch-Ecclesiasts.”</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>“That's a familiar name, but I don't really know much.”</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>“He's one of our Arch-Ecclesiasts, although he likes to go by the title 'Head Organizer.' He's the man behind the 'Church of the Mollusc' festival, an event that's been an excellent tool in recruiting new members. He's currently hiding from authorities in a certain abandoned outpost, and we have reason to believe a crew looking to score the bounty has discovered his whereabouts. It could be the operative you 'met' did talk to someone after all.”</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>“How can we help?”</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>“We need you to get to him before the bounty hunters do, and get him to safety. I'll mark the location on your map. I can't stress enough how urgent this is, so let's not waste any more time. Go—we'll talk more when he's safe.”</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>“You'll never take me alive!”</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>“Easy there, brother! We were sent by the Church.”</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>“Ahh! I heard some chatter about the bounty on the radio, and was sure someone else got to me first.”</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>“…You did? I don't think that was us.”</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>“Well, shit. I guess we'd better keep our weapons ready and get out of here stat. You lead the way.”</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>The operative investigating the Church of Husk you've been tasked to assassinate should be somewhere in this outpost.</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>This must be the informant. You try to think of how to go about this.</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>“You've stuck your nose somewhere you shouldn't have, fleshbag…”</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>The man immediately pulls out his gun.</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>“Sir, could you please help me? My friend's injured and I need help getting him to the medical module. Please, follow me!”</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>“Of course. Lead the way!”</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>“Okay, what the hell is this? Are you just trying to waste my time? I need to get back to work.”</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>Ignore him and keep walking.</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>“Welcome. We've been waiting for you.”</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>“What is this?”</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>“Ever since our paths crossed, your work for the Church has been nothing short of exceptional. But saving the life of an Arch-Ecclesiast, that's an insurmountable achievement, one we'll be forever in your debt for. Thus, we've decided to host a Communion for you. You're ready. Please gather the rest of your crew here and we'll commence.”</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>“Is this everyone—shall we begin?”</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>“Let's do it.”</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>The robed congregation starts to hum a melody, and the Ecclesiast raises his arms. “My brethren, verily our chalices empty, thirsting for wine, fresh and untainted.” One of the acolytes hands out vials of husk eggs to the congregation.</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>Take the eggs.</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>“O spirit of life, let us fill our chalice with your fortitude. Let us become one and quell the world's outcast. Let us accept your Gift and bring forth the quintessential form.” The ecclesiast raises up the vial, and the rest of the robed figures follow the lead.</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>Raise the vial.</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>“Let us become heralds of the tide, strong steams amidst the water. Lo, the mighty the Husk!”. Everyone gulps down the contents of the vials.</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>Gulp down the eggs.</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>You feel the symbiote squirming and growing inside you. What is this? How is it happening this rapidly? Before you manage to process the questions, they seem to dissolve into nothing. Your mind feels… No, "you" are gone now. We are one now, and we no longer need to fear or worry.</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>“We can speak?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>The Ecclesiast, now with a squirming ovipositor hanging from his mouth, turns to look at you. “Of course. Our bodies and minds are of more value to us this way.” The Ecclesiast waves at the others, still spasming on the floor. “Unlike these frail ones. Them we shall consume.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>“What's next?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>“That is for you to find out. But now, go—the humans must be coming. We'll meet again.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>“Hold on. We need a moment.”</EventText.waytoascension5.c1.o2>
+<EventText.pathofthebikehorn1.c1>Someone wearing a peculiar-looking clown costume approaches you and pulls you aside. “I have not seen you here before—may I ask what brings you here? Are you jolly people, if you catch my drift?”</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>“We're just passing through. What do you mean by jolly people?”</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>“People who heed the call of the bike horn: jokers, jesters and fools! Me and my un-disciples have found ourselves a nice and safe corner of the world here, and we hope we can keep it that way.”</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>“Un-disciples? Is that to say you're some kind of leader?”</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>“No, no, I am no leader! I'm a Jestmaster—one might call me a teacher, but I'd rather say I guide people to the path of the bike horn.”</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>“Could you teach us about the path of the bike horn?”</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>“If it was up to me, we'd round up all you useless ‘jolly people’ and send you to a work camp, if you catch my drift.”</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>“That makes me a sad clown. But I don't judge: You're not the only one blinded by their lies. But if you ever change your mind and feel like opening your eyes, the Jestmaster might be willing to show you the path!”</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>“I have no interest in this nonsense. Goodbye.”</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>“Could you tell me more about 'the path,' whatever that means?”</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>“Hmm, I can't help feeling a little suspicious of your intentions after that work camp talk! Although, were you to put on a more appropriate costume, I might gain a little more trust in your sincerity…”</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>“Fine, I'll get back to you in a bit.”</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>“No clown costume, no talk!”</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>“You don't need to worry about us. May the Honkmother bless you and your outpost!”</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>“Praised be the Honkmother! I was worried you're one of the serious folk who don't like me guiding people to the path of the bike horn.”</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>“Could you teach us about the path of the bike horn?”</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>“That's the spirit! I don't like to call myself a teacher, and the reason is that I have nothing to teach you—that is on you. But what I can do is point you in the right direction, and perhaps you'll come to see the truth for yourself some day. To this end, I'd like to give you and your crew a little task that serves as your first step toward the Honkmother's embrace.”</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>“I'm listening.”</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>“You see this mask I'm wearing? There aren't many like it left on this moon, but if you put your heart into it, I'm sure you'll eventually find one during your travels. When you do, bring it to me or one of the other Jestmasters, and we'll see where that takes us! Oh, and please have this, some light reading for your travels! Ta-ta!”</EventText.pathofthebikehorn1.o3.o1.o1.c1>
+<EventText.pathofthebikehorn2.c1>“Blessed be the Honkmother, it's you again! How's it going?”</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>“I've retrieved the mask as you asked.”</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>“I can see that! Congratulations! You can keep it—as you can see, I already have one. Or throw it away if you feel like it. It's just a mask, and a pretty ugly one, too, if you ask me.”</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>“Why did you want me to get it then?”</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>“The task itself was menial, wasn't it, like an unimaginative fetch quest in a children's role-playing game? But did you have fun while looking for it? I'm sure you ran into all sorts of trouble along the way, and I'm sure it was quite an adventure, something you even enjoyed at times. I bet you wouldn't have become a submariner if you didn't! So, perhaps I should ask you instead why you wanted to get it—or for that matter, why you want to keep cruising around Europa doing all sorts of tasks for people.”</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>“I suppose I do enjoy the adventure, but what does this have to do with the path of the bike horn?”</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>“Fun and games, fun and games! I chose a quest in a game as the analogy for a reason: When you go a bit further than that, all social institutions are games. And if you really get to the bottom of things, the whole world is a system of games: There's the people game, the crawler game, the game of bilging the hatches, stowing the afts and all those submariner things you do…”</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>“Okay…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>“But be careful of the word 'game'! It doesn't mean this is all meaningless. It's like we're playing a song: It's not that serious, but at the same time it can be very sincere. It can take all sorts of beautiful forms in all their complexity, for no reason at all beyond just doing them. Like this!” The Jestmaster honks his bike horn in your face.</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>“I think I get what you mean. So, what's next?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>“Ooh boy, this one is going to be something! First of all, I want you to get yourself a toy hammer. You know, one of those silly plastic toys that go 'honk' when you smack someone with it.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>“And then…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>“Then comes the fun part: I want you to dive down into the abyss and meet one of those big fellas that live down there. A Latcher would do, but if you can find yourself a Charybdis or an Endworm, that'd be at least thrice the fun. Then, I want you to bop it with the hammer, and I want you to bop it good!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>“That doesn't sound smart, but I trust there's some kind of a point to this.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>“That's the spirit! It's not smart in the slightest, but sometimes you're better off ignoring that sensical part of your noggin and just enjoying the ride on the rollercoaster the Grandest of Jesters has laid out for you. Anyhow, let me or one of my colleagues know when the deed is done. And take this along, some more reading for your travels! Good luck! I wish you an exciting and hopefully not-too-lethal ride!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>“What the hell? Are you trying to get me killed?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>“I presume you don't see the silliness, nor the profoundness of that question yet, which is precisely why you need to do it if you wish to walk further down this path. There's nothing more I can tell you at this point, but let me or one of my colleagues know when the deed is done! And take this along, some more reading for your travels! Good luck, and remember to have fun!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>“This pseudophilosophical crap is making my brain hurt. Could you just tell me what the Honkmother is about?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>“I see you are very capable of not taking certain things seriously! If only you could direct that lack of giving a crawler's ass into something more fruitful… And yes, I can tell you the Honkmother is three pounds of custard pie, but that doesn't mean anything to you, does it? I didn't think so. Thus, you need more training—let's try another task!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>“Sure.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>“Is this an invisible version of the mask, perhaps? I would actually like to see it.”</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>“Still haven't found the Mother's Countenance. Any tips?”</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>“These masks have been out of fashion for a long time, but perhaps if you found a wreck old enough, you might get lucky. And, of course, this is the traditional garment of the Jestmasters, so with a bit of outside-the-box thinking you might find another path forwards. Wink wink!”</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>“Did you just say 'wink wink'?”</EventText.pathofthebikehorn2.o2.o1>
+<EventText.toyhammeronabyssmonster.c1>The toy hammer bops the abyssal beast, but nothing happens. You wonder what the point of all this was, until you realize it might be better to dismiss those thoughts for now and focus on making it out of here alive.</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>“Hey, I could use your opinion on something. Hypothetically, if one was building a Honkmotherian exosuit, would it be too on-the-nose to call it the 'HONK Mech'?”</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>“Uhh, why're you asking?”</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>“Actually, never mind, it's nothing important! Let's get to business instead: A little bird told me you've been on a quest of sorts. How did the meeting with the abyss monster go?”</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>“How the hell do you think it went? I barely made it out alive.”</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>“I was sure you would, but I take it that you weren't quite as confident? It seems you still have some ways to go before you get to truly taste the custard pie. I want you to think about it. What is it you feared would happen—and what are you still afraid of? Had you gotten swallowed by that abyss thing, do you really think that would've silenced your bike horn for good, been the end of your story? Who is this 'you' you're afraid of losing?”</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>“Had I not escaped its jaws, it most definitely would've been the end of my story.”</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>“Would it, really? That's a matter of perspective; if you insist that this role you're playing right now, these eyes through which the universe or whatever you wish to call it is looking at itself, is the whole extent of the story, then sure, that would've been a morbidly amusing end to 'your' story.”</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>“I'm not sure what you mean.”</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>“I have no idea what you're trying to say.”</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>“I found it amusing, but the monster didn't seem to get the joke.”</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>“Haha! The honk of your horn is getting more vibrant by the day. But do tell me, did this close encounter with death, or perhaps even a brief dip into death, make anything new rustle inside that noggin of yours?”</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>“I'm not sure what you mean.”</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>“We're getting into the territory where words fall short, but I'll give it a try. When we're inside the circus tent watching the performance, we don't think or talk about the world outside—we just immerse ourselves in the show. And that's good! Just enjoy the show without distracting yourself with the fact that at the end of the night, you'll be stepping out of the tent.”</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>“Is this an allegory for afterlife?”</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>“Not any more than it is an allegory for 'beforebirth', whatever that means. Let me put it this way: think about what your original face looked like before you were born. Or, before you put on this mask. And after you've stepped out of the tent, are you completely sure that you won't be coming back some other day? You did enter the tent once, or perhaps even several times, so who's to say it can never happen again?”</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>“You're talking about some kind of reincarnation now?”</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>“As I said, this is something where the words of this world fall short. I can't spell it out in any more detail, but the bottom line is that death is a jest. Who is this 'you' you're afraid of losing, and can you really lose it? That could be a nice homework for you to ponder on until we meet again! Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>“I know what you're talking about, but let's keep the masks on and stick to our roles for now!”</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>“By the Honkmother! I suppose you have indeed taken a peek or two outside the tent already. Or perhaps we should say, you're taking a peek into the tent right now? At any rate, I'm impressed at your progress. I think I'm going to need some time to figure out what our next step should be, so let's wrap this up for now. Until we meet again!”</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>“I know what you're talking about. There is nothing after my death, but it's no more scary than the nothingness before my birth.”</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>“I suppose that's one way of looking at it, but I'm afraid that's a huge banana peel you've just stepped on! You've completely misunderstood what I've been trying to get across. Let me put it this way: Think about what your original face looked like before you were born. Or, before you put on this mask. You know what, that could be a nice homework for you to ponder on until we meet again! Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>
+<EventText.pathofthebikehorn4.c1>“I’m happy to run into you once again! In fact, the timing couldn’t have been better. We’ve been looking for a volunteer for a mission of sorts.”</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>“We’re interested.”</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>“After seeing how you fared with that abyss beast, I think you’ve proven yourself as someone with enough guts, or perhaps a healthy amount of carelessness, to pull this thing off. You remember that Honkmotherian exosuit I mentioned a while back?”</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>“I do. What about it?”</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>“We’ll get to that in a bit! You see, there happens to be an outpost nearby that used to be a safe haven of sorts for those who heed the call of the bike horn. An independent outpost where we could live a peaceful and quiet life, figuratively speaking. That hasn’t been the case in a long time though, nor is it anywhere on Europa nowadays, as I’m sure you know. Not a week goes by without news of a jester being beaten up or found dead in a ballast or what have you.”</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>“I know. So, what is it you’re planning?”</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>“We’re going to make ourselves a safe haven again! Now, we’re at a stalemate, with the outpost having seemingly become the property of the serious folks for good, our jolly people unable to do anything about it despite our best efforts. As if there was some rule that once you take an outpost, the owner is set in stone. So we’re going to have to bend the rules of the game a little! That’s where that exosuit comes in.”</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>“You’ve actually built one?”</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>“Yes, we have! We don’t want to play as dirty as they do, but I believe we can do this without resorting to violence. We’re going to give that outpost such a bombardment of Fun, nuclear-powered bike horns blaring and banana peel cannons turning the place into an obstacle course, day and night for however long as it takes, until they have no choice but to give up and find themselves a more ‘serious’ place to stay.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>“You believe they won’t stop us by force?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>“They might try, of course. But Funbringer 3000 should be able to take a shot or two. Or maybe a few dozen. I hope! Which brings me to my next point: I believe with the amount of combat expertise you and your crew must have, not to mention your apparent disregard for your own safety, I think you’re the best ones for the job. Hence, we’d be eternally grateful if you were the ones to wear the suit and help us regain control of that outpost.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>“We’d be happy to help you.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>“Oh, marvelous! I knew you wouldn’t be able to resist. However this goes, I think you’re going to have plenty of fun. Here's the suit. I've marked the location of the outpost on your map.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>“We need to think about this a bit.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>“Have you thought about our proposal? Would you be willing to wear Funbringer 3000 and help us regain control of that outpost?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>“We’d be happy to help you.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>“We need to think about this a bit.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>“We don’t have time for this right now.”</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>You've arrived at the outpost the Jestmaster told you about. Equip the Funbringer 3000 and bombard the outpost with Fun until the more serious inhabitants realize this is better left for the Children of the Honkmother!</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>People seem to be mightily annoyed by the Funbringer. Perhaps this will work!</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>Distant sounds of bike horns echo from somewhere in the outpost, followed by a joyful holler: “Praise the Honkmother!”</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>One of the outpost dwellers yells at you. “Take that thing out of here or I'll call the security!”</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>An announcement comes over the PA. “To all security personnel: Shut that fucking clown machine down by any means necessary. Use of deadly force is authorized...no, encouraged.”</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>Another announcement comes over the PA. “Okay, we give up. This ain't worth it. Have your goddamn outpost, just please shut that thing down.”</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>“Oh, oh, it’s you! You did it! Honestly, this was such a ridiculous plan I’m mildly surprised how well it worked! I don’t know how we could thank you enough, but the least we can do is let you keep the suit. Perhaps you’ll find some more use for it on your voyages.”</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>“Thanks!”</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>“I have to say, it is impressive how far you've made it on the path of the bike horn in such a short time. For many, the path is much longer, and some fail to find it at all.”</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>“So, what’s next?”</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>“I'm both happy and sad to say that this is as far as I can take you; the rest of the path you're going to have to walk by yourself. But I can also see that you already know the direction.”</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>“This was it? You’re not going to tell me what the Honkmother is?”</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>“Oh, silly you. What would you want to hear? That she’s the Fun flowing through our veins or the friends we made along the way? Three pounds of custard pie, perhaps? Or the monkey-god riding on a great turtle, the framework holding up this world around us? Those are all fun little words, but just like before, this is a topic where words fall short.”</EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>“…”</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>“To try to explain it in words would be as if I were explaining a joke, and well, it would just fall flat. Such is the Grand Joke of the Universe, too, beyond words, and one must not confuse the world of things as we name them with the world as it actually is.”</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>The Jestmaster looks at you inquisitively.</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>“Is there really no more advice you can give us?”</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>“I have a hunch where your path is going to eventually take you. When you get there, you will understand the rules of this game of life even more clearly than you do now. When all is laid bare before one's eyes, some may opt to stop playing along altogether, perhaps choosing a life of asceticism or stepping out of the tent completely. And that's fine! You're going to have to let the credits roll at some point. Others, like me and my Jestmaster colleagues, choose to keep playing our part, to keep the Fun going and to help others understand the nature of this game. That's a fine choice too! Whichever path you end up taking, I wish you lots of luck and amusement in your journey. Praise the Honkmother!”</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>“Praise the Honkmother!”</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>The outpost manager pulls out a document from his breast pocket, and looks at you with a contemplative expression. “Hmm… This particular mission was commissioned by Victoria Petran herself, and it's quite sensitive, but I suppose you've proven you're someone we can trust.”</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>“Who's that?”</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>“Wait, what? You've been working with us this long, and you’ve never heard of her? She’s the First Lieutenant of the Jovian Separatists. Essentially our leader, if one can consider a group as loosely organized as us having a leader.”</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>“Ah, I see. So, what’s the mission?”</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>“We're interested. Please continue.”’</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>“You have heard of the Tormsdale incident, haven’t you?”</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>“That rings a bell, but please do elaborate.”</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>“Okay, I guess I’ll start from the beginning. Back when the Coalition was starting to gain a foothold on Europa, Tormsdale was by far the largest independent colony, and the Jovian People’s Movement obviously had strong support there. I suppose it was in a sense considered the headquarters of the independent colonies and the Movement. At that time, Europa was still somewhat democratic, and the general elections were coming up.”</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>“Mm-hmm.”</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>“Just a few weeks before the elections, there was a nuclear disaster in Tormsdale. Over a hundred people dead. And conveniently for the Coalition, almost all of them happened to be supporters of the Jovian People’s Movement. That was enough to tip the scales in their favor, and let them become the de jure government of Europa.”</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>“That sounds a little too convenient to be a coincidence.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>“Indeed. It was officially deemed an accident, but I find that very hard to believe. From there, things went south fast—the Movement was declared a terrorist organization, our founder Harlow Petran assassinated, most of the independent outposts taken over…”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>“Right. How does this tie in with the mission?”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>“We have reason to believe the Coalition still possesses some classified reports of what actually happened at Tormsdale. Our informants have strong evidence that copies of them are kept in a nearby outpost. If we got our hands on them, maybe we could finally prove this isn’t just a conspiracy theory, and get others to understand how dirty the Coalition has been playing ever since its early years.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>“We’d be glad to help.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>“Great. I’ll mark the outpost on your map. According to our intel, the documents are stored in a secure cabinet in the outpost manager’s office. Getting them out might be tricky—perhaps you could try to coerce the outpost manager or steal their ID card. Either way, please try to be discreet.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>This must be the outpost manager. You need to figure out a way to get their ID card to gain access to the secure cabinet.</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>“Hello. We’re doing a Coalition-mandated security inspection and need to examine the secure cabinet in your office. Would you mind opening it for me?”</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>“Uhh… What? How stupid do you think I am? Get the fuck out of my office before I call security.”</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>“Revolution is near. Give us your ID card or you’re dead.”</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>The man immediately pulls out his gun.</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>“Excuse me, sir! There’s some kind of a dispute a few decks down, and I was told to come get you.”</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>“I see. Show me the way!”</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>“I don't know if you're trying to mess with me or what, but I need to get back to work. Goodbye.”</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>Ignore him and keep walking.</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>“Hello! I hear you’ve been commissioned to find us certain important documents. What’s the status?”</EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>“I found the documents.”</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>The outpost manager takes the papers and glances through them, eyes widened. “Oh, oh! This is huge! If these are authentic, there’s no question the Coalition mass-murdered everyone in Tormsdale. When these go out, it’s going to be a huge blow to them. I can’t thank you enough for this. I’ll put in a good word to Lt. Petran and make sure she knows it was your crew who accomplished this. I’m also going to pay you for your troubles, of course.”</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>“Well, please bring them over! I can't wait to see what's in them.”</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>“I don’t have the documents right now.”</EventText.tormsdalereport_complete.o2>
+<afflictionname.husksymbiosis>畫皮更生</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>This does not look like a usual husk infection: Somehow, the patient can still speak, and seems to have retained their mental faculties.</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>The passageway is sealed off. You may need a [requiredreputation] reputation with the ‖color:faction.separatists‖Jovian Separatists‖end‖ and permission from an officer in the outpost to transit farther. You can track your reputation in the info tab.\n\nCurrent reputation: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>“As you may be aware, this outpost is the last stop before the Europan Ridge. We don't let every sub pass through here, but if there's any truth to the rumors we've been hearing about your crew, you've been a valuable ally in our fight against the Coalition, so you're more than welcome to pass.”</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>“Looking to pass through the outpost to the deeper regions? I'm sorry, but you'd better find another route. I don't know who you are or who you're working for, and for all I know you could be another Coalition pawn heading to harass our people down in the Europan Ridge. Of course, if you happened to have some marks to share with me, perhaps you could convince me of your good intentions…”</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>“On second thought, you seem all right. Perhaps I'll let you pass after all. Pleasure doing business with you.”</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>“Your choice. Maybe it's better for you to play in the kiddie pool a little longer and figure out whose flag is worth carrying.”</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>“Not enough cash? Well, tough luck. Maybe you should play in the kiddie pool a little longer to prove us you're not standing in the enemy's ranks.”</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>“It says here you've been a great asset in our fight against the Coalition here in the Ridge. For that, we've decided to grant you access to the Aphotic Plateau. Bon voyage!”</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>“I'll have to congratulate you. Not many make it through the Plateau, much less while being so useful. I'll radio ahead to let you move to the Great Sea.”</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>“I'm sure it will. That is not an official guarantee by the Jovian Separatists nor an endorsement. I'll let the guard know you can take care of yourself.”</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>“So you want to enter the Hydrothermal Wastes? Why on Europa would you do such a thing? I suppose it's none of my business. A friend of the Separatists is a friend of mine. Go ahead.”</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>Take the money and promise to keep your mouth shut.</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>“I don't want your filthy money. Goodbye.”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>“Oh, thank god. We thought we'd never be getting out of here!”</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>The outpost manager seems to hesitate a bit. “This mission might be on the more challenging side, but judging by your reputation, you may be able to pull it off.”</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>“A couple of our operatives were recently captured by the Coalition, and according to our informants, they're currently locked away in an outpost nearby. If you can get them out of there safely, we'll be sure to make it worth your while. I'll mark the location on your map.”</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>The outpost manager seems to hesitate a bit. “This mission might be on the more challenging side, but judging by your reputation, you may be able to pull it off.”</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>“A couple of our operatives were recently captured by the Separatists, and according to our informants, they're currently locked away in an outpost nearby. If you can get them out of there safely, we'll be sure to make it worth your while. I'll mark the location on your map.”</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>An announcement comes over the PA. “To all security personnel: code red. We've got some fugitives on the run.”</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>“Hey. I presume you were sent here by Lt. Petran?”</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>“Yes, we were assigned to get you out of here.”</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>“Yeah, I figured. Thanks. And I presume you've got a boat ready?”</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>“Yes, follow me!”</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>“Actually, I've got a couple of bones to pick before we leave. Let's meet on board that boat of yours in five minutes.” The man darts off before you manage to say anything.</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>The outpost manager pulls out a document from his breast pocket. “This is one of those extra-sensitive missions, if you know what I mean. A commission from Lt. Petran. In fact, she hoped to assign this specifically to your crew.”</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>“The Coalition managed to capture one of our operatives recently. A very high-profile one, although luckily it seems they're not aware of his identity—otherwise he'd surely have been executed already.”</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>“Who is it?”</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>“Perhaps it's better we leave him unnamed, but let's say it's someone who's left quite a trail of smoldering Coalition outposts and vessels behind him. In any case, he is currently being held captive in a nearby outpost. Get him out safely, and there'll be a sizeable reward waiting for you.”</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
+
+</infotexts>
