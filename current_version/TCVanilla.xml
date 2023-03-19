@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
 <!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7361~7375) -->
+<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -1093,7 +1093,7 @@
 <reactoroutputtip>反應爐正在輸出多餘的電力，這會導致電網中的設備受損。</reactoroutputtip>
 <killedbytraitornotification>你被一個正在進行秘密任務的的叛徒害死了...</killedbytraitornotification>
 <endroundsubnotatlevelend>你確定要終止任務並結束這一回合嗎？</endroundsubnotatlevelend>
-<lockedpathtooltip>這條通道已經被封鎖了，你需要得到哨站官員的許可才能繼續前進。</lockedpathtooltip>
+<lockedpathtooltip>這條通道被封鎖了，你需要得到哨站官員的許可才能繼續前進。</lockedpathtooltip>
 <lockedpathreputationrequirement>需要[reputation]聲望以前往[biomename]</lockedpathreputationrequirement>
 <pathunlockedgeneric>通往下一個區域的通道已被開啟。</pathunlockedgeneric>
 <respawnquestionprompt>你想要帶著「死神之稅」受到技能和生命值懲罰立刻重生，或等到下一回合再加入遊戲？</respawnquestionprompt><!--SOURCE TEXT CHANGE CHECK-->
@@ -4892,7 +4892,7 @@
 <tutorial.roles.popup.captain_command2>下達指令啟動反應爐。</tutorial.roles.popup.captain_command2>
 <tutorial.roles.popup.captain_command3>指令介面會自動將任務分配給最合適的船員。</tutorial.roles.popup.captain_command3>
 <tutorial.roles.popup.captain_command4>你也能夠透過船員列表 (以[InputType.CrewOrders]切換顯示) 直接下達指令給特定船員。</tutorial.roles.popup.captain_command4>
-<tutorial.roles.captaininstructor_repairs>「很好。記住──艦長應該被尊重與服從。所以他們通常會佩帶武器。我的上一位工程師Stevie Dolittle對我說過：『你能拿我怎麼樣，開槍打我嗎？』哈哈，他的表親在那不久之後也下船了。總之，讓我們指派一些維修任務如何？」</tutorial.roles.captaininstructor_repairs>
+<tutorial.roles.captaininstructor_repairs>「很好。記住──艦長應該被尊重與服從，所以他們通常會佩帶武器。我的上一位工程師Stevie Dolittle這樣對我說過：『你能拿我怎麼樣，開槍打我嗎？』哈哈，他的表親在那不久之後也下船了。總之，讓我們指派一些維修任務如何？」</tutorial.roles.captaininstructor_repairs>
 <tutorial.roles.popup.captain_commandmaintenance>命令修補漏洞。</tutorial.roles.popup.captain_commandmaintenance>
 <tutorial.roles.popup.captain_commandmaintenance2>命令修復電氣設備。</tutorial.roles.popup.captain_commandmaintenance2>
 <tutorial.roles.popup.captain_commandmaintenance3>命令修復機械設備。</tutorial.roles.popup.captain_commandmaintenance3>
@@ -5032,11 +5032,11 @@
 <tutorial.roles.mechanic.objective.engineering2>取回鐵</tutorial.roles.mechanic.objective.engineering2>
 <tutorial.roles.mechanic.objective.engineering3>製作一把扳手</tutorial.roles.mechanic.objective.engineering3>
 <tutorial.roles.mechanic.objective.oxygen>填充氧氣罐</tutorial.roles.mechanic.objective.oxygen>
-<tutorial.roles.securityinstructor>「站好背打直，新兵！我會教你們用槍、用刀、讓你的敵人沉入大海。我是安全官Pérez，但你不用記住，因為從現在開始你要稱呼我為女士。」</tutorial.roles.securityinstructor>
-<tutorial.roles.securityinstructor.yesmaam1>「是的，女士！」</tutorial.roles.securityinstructor.yesmaam1>
+<tutorial.roles.securityinstructor>「站好背打直，新兵！我會教你們用槍、用刀、讓你的敵人沉入大海。我是安全官Pérez，但你不用記住，因為從現在開始你要稱呼我為長官。」</tutorial.roles.securityinstructor><!--ma'am-->
+<tutorial.roles.securityinstructor.yesmaam1>「是的，長官！」</tutorial.roles.securityinstructor.yesmaam1><!--ma'am-->
 <tutorial.roles.armorydescription>「歡迎來到軍械室。每組船員都需要一個軍械室來存放它們的武器。最好是在一個上鎖的門後面，以防止彈藥落入不法份子之手。軍械室多半位於指揮室和/或槍砲機房附近。有時候也會使用保險櫃代替軍械室來存放手持武器。」</tutorial.roles.armorydescription>
 <tutorial.roles.securityinstructor.bodyarmor>「你的學習力如此迅捷，或許你會活得比其他人久一點。首先，把護甲穿上。你能在那個櫃子裡找到幾件。跟著汗臭味就找得到。」</tutorial.roles.securityinstructor.bodyarmor>
-<tutorial.roles.securityinstructor.yesmaam2>「是的，女士...」</tutorial.roles.securityinstructor.yesmaam2>
+<tutorial.roles.securityinstructor.yesmaam2>「是的，長官...」</tutorial.roles.securityinstructor.yesmaam2><!--ma'am-->
 <tutorial.roles.popup.bodyarmor>尋找護甲。</tutorial.roles.popup.bodyarmor>
 <tutorial.roles.securityinstructor.gun1>「好。沒記錯的話新兵Miller掛掉的時候穿的就是那件。一位聰明的年輕人，但是他的準頭會是你所見過最糟的。現在從那個架子上拿把彈藥和槍。用你的滑鼠確認裡面裝了子彈。」</tutorial.roles.securityinstructor.gun1>
 <tutorial.roles.popup.gun>找到一把槍。</tutorial.roles.popup.gun>
@@ -5944,21 +5944,21 @@
 <EventText.unlockpathgeneric.o2.c1>「隨你便，或許你們的確需要在兒童池待久一點。」</EventText.unlockpathgeneric.o2.c1>
 <EventText.unlockpathgeneric.nomoney>「錢不夠？太可惜了，在你能證明你真的有能耐之前或許你應該在兒童池待久一點。」</EventText.unlockpathgeneric.nomoney>
 <EventText.unlockpath.refusebribe>什麼都不給。</EventText.unlockpath.refusebribe>
-<EventText.unlockpathcoldcaverns.c1>「你們肯定在寒冷深隧裡忙得不可開交，我替聯盟感謝你們所付出的行動。你可能也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站，並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的隊員們通過這裡。」</EventText.unlockpathcoldcaverns.c1>
+<EventText.unlockpathcoldcaverns.c1>「你們肯定在寒冷深隧裡忙得不可開交，我替聯盟感謝你們所付出的行動。你可能也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站。並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的船員們通過這裡。」</EventText.unlockpathcoldcaverns.c1>
 <EventText.unlockpathcoldcaverns.c2>「你們想要通過這裡進到更深的區域？聯盟不允許新手船員進到那裡，你們的名聲也沒有好到能讓我心服口服放行。當然了，假如你們正好有多的馬克能和我分享，或許那會一定程度地提升我對你們的看法。」</EventText.unlockpathcoldcaverns.c2>
 <EventText.unlockpathcoldcaverns.o1.c1>「仔細想想，你們看起來潛力無窮，或許我確實是該讓你通過，很高興能與你們合作。」</EventText.unlockpathcoldcaverns.o1.c1>
 <EventText.unlockpathcoldcaverns.o2.c1>「隨你便，或許你們的確需要在兒童池待久一點。」</EventText.unlockpathcoldcaverns.o2.c1>
 <EventText.unlockpathcoldcaverns.o1.nomoney>「錢不夠？太可惜了，在你能證明你真的有能耐之前或許你應該在兒童池待久一點。」</EventText.unlockpathcoldcaverns.o1.nomoney>
 <EventText.unlockpatheuropanridge.c1>「報告上說你們協助了歐羅巴之脊的殖民地拓展，因此我們決定給予你通往無光海原的許可，一路順風！」</EventText.unlockpatheuropanridge.c1>
-<EventText.unlockpatheuropanridge.c2>「你們要去無光海原？我不知道...我沒有看到你們以付出來證明你們的忠誠，而一份捐獻將帶來大大幫助。」</EventText.unlockpatheuropanridge.c2>
+<EventText.unlockpatheuropanridge.c2>「你們要去無光海原？我不知道...我沒有看到足以證明你們忠誠的貢獻，但一份捐獻能帶來大大幫助。」</EventText.unlockpatheuropanridge.c2>
 <EventText.unlockpatheuropanridge.o1.c1>「噢，沒問題，你們能過去了。」</EventText.unlockpatheuropanridge.o1.c1>
 <EventText.unlockpatheuropanridge.o2.c1>「哦？這樣的話希望你們能盡情享受在歐羅巴之脊的時光。」</EventText.unlockpatheuropanridge.o2.c1>
 <EventText.unlockpatheuropanridge.o1.nomoney>「非常抱歉，我不接受低於12,000馬克以下的貢獻，也許你們可以去搜刮幾個潛艇殘骸或是做做其他什麼你們平常拿來賺錢的事。」</EventText.unlockpatheuropanridge.o1.nomoney>
-<EventText.unlockpathaphoticplateau.c1>「我要恭喜你們，不是那麼多人能夠活著穿越無光海原，更別說同時還有貢獻的人了。我會通知他們讓你們能前往淵洋。」</EventText.unlockpathaphoticplateau.c1>
-<EventText.unlockpathaphoticplateau.c2>「我很抱歉，我知道你們長途跋涉，但我們不能冒險放行一支名不見經傳的小隊進到淵洋亂逛，這是為了你們的安全，你清楚的。」</EventText.unlockpathaphoticplateau.c2>
-<EventText.unlockpathaphoticplateau.o1.c1>「我確定夠的，這不是聯盟的官方保證，也不是背書。我會通知守衛們你們有辦法保護自己。」</EventText.unlockpathaphoticplateau.o1.c1>
+<EventText.unlockpathaphoticplateau.c1>「我要恭喜你們，不是那麼多人能夠活著穿越無光海原，更別說同時還能有貢獻的人了。我會通知他們讓你們能前往淵洋。」</EventText.unlockpathaphoticplateau.c1>
+<EventText.unlockpathaphoticplateau.c2>「我很抱歉，我知道你們長途跋涉，但我們不能冒險放行一群名不見經傳的船員們進到淵洋裡亂逛，這是為了你們的安全著想，你清楚的。」</EventText.unlockpathaphoticplateau.c2>
+<EventText.unlockpathaphoticplateau.o1.c1>「我確定夠的。這不是聯盟的官方保證，也不是背書。我會通知守衛們你們有辦法保護自己。」</EventText.unlockpathaphoticplateau.o1.c1>
 <EventText.unlockpathaphoticplateau.o2.c1>「我相信你們能在這裡找個不錯的公寓來度過退休生活，至少輻射要好幾天才會抵達這裡。」</EventText.unlockpathaphoticplateau.o2.c1>
-<EventText.unlockpathgreatsea.c1>「你想前往熱液廢土？為什麼？不過那也不關我的事，聯盟的朋友就是我的朋友，去吧。」</EventText.unlockpathgreatsea.c1>
+<EventText.unlockpathgreatsea.c1>「你想前往熱液廢土？你怎麼會想去那兒？算了，不關我的事。聯盟的朋友就是我的朋友，去吧。」</EventText.unlockpathgreatsea.c1>
 <EventText.unlockpathgreatsea.c2>「你有前往熱液廢土的許可嗎？想也知道沒有。你運氣不錯，我們正好在進行許可大拍賣，你懂的。」</EventText.unlockpathgreatsea.c2>
 <EventText.unlockpathgreatsea.o1.c1>「謝謝惠顧，歡迎再來，如果你回得來的話。」</EventText.unlockpathgreatsea.o1.c1>
 <EventText.unlockpathgreatsea.o2.c1>「至少你會活得久一點。」</EventText.unlockpathgreatsea.o2.c1>
