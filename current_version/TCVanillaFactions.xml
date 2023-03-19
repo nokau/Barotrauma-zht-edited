@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="English" nowhitespace="false" translatedname="English">
-
+<!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -272,28 +272,28 @@
 <charactername.victoriapetran>Victoria Petran</charactername.victoriapetran>
 <charactername.sootman>煙燻人</charactername.sootman>
 <charactername.jestmaster>惡作劇大師</charactername.jestmaster>
-<eventtext.separatistspecialhire1.c1>A stern-looking woman walks up to you. For a second you wonder why she looks so familiar, until you realize you've seen this face in the news a bunch of times.\n\nShe reaches out to shake your hand. “Hello. I've been waiting to meet you. Victoria Petran, the First Lieutenant of the Jovian Separatists.”</eventtext.separatistspecialhire1.c1>
-<eventtext.separatistspecialhire1.o1>“It's an honor to meet you. How can I be of service?”</eventtext.separatistspecialhire1.o1>
-<eventtext.separatistspecialhire1.o1.c1>“Actually, I'm not here to ask for your service, in fact quite the opposite. I've been following you and your crew's endeavors for a while now, and your work for our cause has been astounding. If we had more people like you in our ranks, the Coalition would've already been wiped off the face of Europa.”</eventtext.separatistspecialhire1.o1.c1>
-<eventtext.separatistspecialhire1.o1.o1>“Thank you. We're doing our best.”</eventtext.separatistspecialhire1.o1.o1>
-<eventtext.separatistspecialhire1.o1.o1.c1>“In fact, I believe the work you've been doing has been so exceptional, that I've come to think I could make a bigger difference as a part of your crew than behind my desk in my office. And I believe I could be of value to you as well; I've seen a fair share of submarine life and know a thing or two about weapons and medicine. So, how's that sound—would you have an opening for another security officer?”</eventtext.separatistspecialhire1.o1.o1.c1>
-<eventtext.separatistspecialhire1.o1.o1.o1>“How could I say no! Welcome on board, ma'am!”</eventtext.separatistspecialhire1.o1.o1.o1>
-<eventtext.separatistspecialhire1.o1.o1.o1.c1>“Great! In that case, you can cut it with the ma'ams—I'm a part of your crew now, not your superior. Can't wait to embark on our first mission!”</eventtext.separatistspecialhire1.o1.o1.o1.c1>
-<eventtext.separatistspecialhire1.o1.o1.o2>“I'm honored, but we need to think about this a bit.”</eventtext.separatistspecialhire1.o1.o1.o2>
-<eventtext.separatistspecialhire1.o1.o1.o2.c1>“I understand. Well, if you decide to take me on board in the future, I'm sure we'll run into each other again in one of the Separatist-controlled outposts.”</eventtext.separatistspecialhire1.o1.o1.o2.c1>
-<eventtext.separatistspecialhire1.repeat>“Hello again. Have you thought about my proposal? Would you be interested in taking me on board?”</eventtext.separatistspecialhire1.repeat>
-<eventtext.separatistspecialhire1.o1.o1.repeat>“Yes, we do have room for an extra security officer. Welcome on board, ma'am!”</eventtext.separatistspecialhire1.o1.o1.repeat>
-<eventtext.separatistspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.separatistspecialhire1.o1.o2.repeat>
-<eventtext.separatistspecialhire2.c1>Someone who looks like they'd just crawled out from a diesel generator's exhaust pipe walks up to you.\n\n“Oi, I've been looking for you.”</eventtext.separatistspecialhire2.c1>
-<eventtext.separatistspecialhire2.o1>“You look familiar. Have we met?”</eventtext.separatistspecialhire2.o1>
-<eventtext.separatistspecialhire2.o1.c1>“It was your crew who got me out of that Coalition holding cell, wasn't it? Didn't have time for introductions then, but they call me Sootman. Let's go with that. Say, you don't happen to need an extra crewmate?”</eventtext.separatistspecialhire2.o1.c1>
-<eventtext.separatistspecialhire2.o1.o1>“Sootman? As in that masked Separatist the Coalition has been trying to track down for ages? Are you shitting me?”</eventtext.separatistspecialhire2.o1.o1>
-<eventtext.separatistspecialhire2.o1.o1.c1>“Aye, that's me. The word around the outposts is that you folks have been putting up a real good fight against the Coalition, and I want in on that. So, how about it?”</eventtext.separatistspecialhire2.o1.o1.c1>
-<eventtext.separatistspecialhire2.o1.o1.o1>“Absolutely! We'd be honored to have someone of your caliber join us.”</eventtext.separatistspecialhire2.o1.o1.o1>
-<eventtext.separatistspecialhire2.o1.o1.o1.c1>“Nice. See you on board.”</eventtext.separatistspecialhire2.o1.o1.o1.c1>
-<eventtext.separatistspecialhire2.o1.o1.o2>“We need to think about this a bit.”</eventtext.separatistspecialhire2.o1.o1.o2>
-<eventtext.separatistspecialhire2.o1.o1.o2.c1>“Aight.”</eventtext.separatistspecialhire2.o1.o1.o2.c1>
-<eventtext.separatistspecialhire2.repeat>“So? You got a place for me on board?”</eventtext.separatistspecialhire2.repeat>
+<eventtext.separatistspecialhire1.c1>一位正顏厲色的女人朝你走了過來。有一剎那你只覺得在哪見過她，直到你突然想起她曾在新聞裡出現過很多次。\n\n她伸出手，與你握了握手。「你好，我一直期待與你見面。Victoria Petran，木星分離主義一級中尉。」</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>「很榮幸與妳見面，有什麼我幫得上忙的嗎？」</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>「其實我不是來請你們做什麼的，正好相反。我觀察你和你的船員好一陣子了，你們已經為我們的事業做出了巨大貢獻。要是我們的人都像你這樣子，要把聯盟從歐羅巴上抹除簡直易如反掌。」</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>「感謝妳的認可，我們只是盡我們所能。」</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>「實際上，你們的出色表現讓我覺得，或許我加入你們會比待在辦公室裡能帶來更多改變。我也相信我對你們而言是有價值的；我對潛艇生活略知一二、對武器和醫療也有所瞭解。所以，你覺得如何？你們還缺安全官嗎？」</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>「我怎麼會拒絕呢！歡迎登艦，長官！」</eventtext.separatistspecialhire1.o1.o1.o1><!--ma'am-->
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>「好極了！不過既然如此，別再叫我長官了，我是你的船員，不是你的上級。我等不及要參與我們一起的第一個任務了！」</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>「我備感榮幸，但我們得考慮一下。」</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>「明白。不過，要是你改變主意決定讓我上船，我們還是能在哪個分離主義哨站上見到面的。」</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>「又見面了。你重新考慮過我的提議了嗎？有意願讓我登船嗎？」</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>「是的，我們確實還缺一位安全官。歡迎登艦，長官！」</eventtext.separatistspecialhire1.o1.o1.repeat><!--ma'am-->
+<eventtext.separatistspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>有個看似剛從柴油發電機的排氣管裡爬出來的人朝你走了過來\n\n「嘿，我一直在找你呢。」</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>「你看起來有點眼熟，我們之前見過嗎？」</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>「不就是你和你的船員把我從聯盟的監獄裡救出去的嗎？那時來不及自我介紹，別人都稱呼我『煙燻人』，就那樣叫我吧。話說，你不會碰巧需要一位新船員吧？」</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>「煙燻人？聯盟一直在追捕的那個蒙面分離主義者？你不是在開玩笑吧？」</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>「沒錯，就是我。我聽哨站上的人說你們把聯盟整得皮皮挫，所以我想加入你們。怎麼樣，你說呢？」</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>「當然！很榮幸能有你這麼有才能的人加入我們。」</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>「太好了，船上見。」</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>「我們得考慮一下。」</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>「好吧。」</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>「怎麼樣？船上有我適合的位置嗎？」</eventtext.separatistspecialhire2.repeat>
 <eventtext.coalitionspecialhire2.c1>You notice an old lady with a familiar-looking face. Aunt Doris! Her food kiosk franchise might leave something to be desired, but her cooking shows have always been excellent.\n\nTo your surprise, she approaches you. “Well hello there! I heard you and your troop were in the neighborhood, so I came here in hopes of running into you.”</eventtext.coalitionspecialhire2.c1>
 <eventtext.coalitionspecialhire2.o1>“It's nice to meet you, ma'am! What can we do for you?”</eventtext.coalitionspecialhire2.o1>
 <eventtext.coalitionspecialhire2.o1.c1>“This may be a bit silly, but I suppose no harm in asking! You see, I've been having a…how should I put this…late-life crisis as of late. As I'm sure you know, I've been hosting cooking shows, running my restaurants and whatnot for almost four decades now. Hearing stories of your crew's wild adventures, all the things you've done to help make our little moon something better, I just can't help feeling curious about what life as a submariner would've been like.”</eventtext.coalitionspecialhire2.o1.c1>
@@ -493,7 +493,7 @@
 <EventText.pathofthebikehorn2.o2>“Still haven't found the Mother's Countenance. Any tips?”</EventText.pathofthebikehorn2.o2>
 <EventText.pathofthebikehorn2.o2.c1>“These masks have been out of fashion for a long time, but perhaps if you found a wreck old enough, you might get lucky. And, of course, this is the traditional garment of the Jestmasters, so with a bit of outside-the-box thinking you might find another path forwards. Wink wink!”</EventText.pathofthebikehorn2.o2.c1>
 <EventText.pathofthebikehorn2.o2.o1>“Did you just say 'wink wink'?”</EventText.pathofthebikehorn2.o2.o1>
-<EventText.toyhammeronabyssmonster.c1>The toy hammer bops the abyssal beast, but nothing happens. You wonder what the point of all this was, until you realize it might be better to dismiss those thoughts for now and focus on making it out of here alive.</EventText.toyhammeronabyssmonster.c1>
+<EventText.toyhammeronabyssmonster.c1>玩具槌敲了敲深淵巨獸，什麼也沒發生。你思索那意義何在，但你很快就意識到現在最好別再胡思亂想，而是專心逃命。</EventText.toyhammeronabyssmonster.c1>
 <EventText.pathofthebikehorn3.c0>“Hey, I could use your opinion on something. Hypothetically, if one was building a Honkmotherian exosuit, would it be too on-the-nose to call it the 'HONK Mech'?”</EventText.pathofthebikehorn3.c0>
 <EventText.pathofthebikehorn3.o0>“Uhh, why're you asking?”</EventText.pathofthebikehorn3.o0>
 <EventText.pathofthebikehorn3.c1>“Actually, never mind, it's nothing important! Let's get to business instead: A little bird told me you've been on a quest of sorts. How did the meeting with the abyss monster go?”</EventText.pathofthebikehorn3.c1>
@@ -582,34 +582,34 @@
 <EventText.tormsdalereport_complete.o1.c1>The outpost manager takes the papers and glances through them, eyes widened. “Oh, oh! This is huge! If these are authentic, there’s no question the Coalition mass-murdered everyone in Tormsdale. When these go out, it’s going to be a huge blow to them. I can’t thank you enough for this. I’ll put in a good word to Lt. Petran and make sure she knows it was your crew who accomplished this. I’m also going to pay you for your troubles, of course.”</EventText.tormsdalereport_complete.o1.c1>
 <EventText.tormsdalereport_complete.o1.c2>“Well, please bring them over! I can't wait to see what's in them.”</EventText.tormsdalereport_complete.o1.c2>
 <EventText.tormsdalereport_complete.o2>“I don’t have the documents right now.”</EventText.tormsdalereport_complete.o2>
-<afflictionname.husksymbiosis>畫皮更生</afflictionname.husksymbiosis>
-<afflictiondescription.husksymbiosis>This does not look like a usual husk infection: Somehow, the patient can still speak, and seems to have retained their mental faculties.</afflictiondescription.husksymbiosis>
-<lockedpathtooltipseparatistreputation>The passageway is sealed off. You may need a [requiredreputation] reputation with the ‖color:faction.separatists‖Jovian Separatists‖end‖ and permission from an officer in the outpost to transit farther. You can track your reputation in the info tab.\n\nCurrent reputation: [currentreputation]</lockedpathtooltipseparatistreputation>
-<eventtext.unlockpathcoldcavernsseparatists.c1>“As you may be aware, this outpost is the last stop before the Europan Ridge. We don't let every sub pass through here, but if there's any truth to the rumors we've been hearing about your crew, you've been a valuable ally in our fight against the Coalition, so you're more than welcome to pass.”</eventtext.unlockpathcoldcavernsseparatists.c1>
-<eventtext.unlockpathcoldcavernsseparatists.c2>“Looking to pass through the outpost to the deeper regions? I'm sorry, but you'd better find another route. I don't know who you are or who you're working for, and for all I know you could be another Coalition pawn heading to harass our people down in the Europan Ridge. Of course, if you happened to have some marks to share with me, perhaps you could convince me of your good intentions…”</eventtext.unlockpathcoldcavernsseparatists.c2>
-<eventtext.unlockpathcoldcavernsseparatists.o1.c1>“On second thought, you seem all right. Perhaps I'll let you pass after all. Pleasure doing business with you.”</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
-<eventtext.unlockpathcoldcavernsseparatists.o2.c1>“Your choice. Maybe it's better for you to play in the kiddie pool a little longer and figure out whose flag is worth carrying.”</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
-<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>“Not enough cash? Well, tough luck. Maybe you should play in the kiddie pool a little longer to prove us you're not standing in the enemy's ranks.”</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
-<eventtext.unlockpatheuropanridgeseparatists.c1>“It says here you've been a great asset in our fight against the Coalition here in the Ridge. For that, we've decided to grant you access to the Aphotic Plateau. Bon voyage!”</eventtext.unlockpatheuropanridgeseparatists.c1>
-<eventtext.unlockpathaphoticplateauseparatists.c1>“I'll have to congratulate you. Not many make it through the Plateau, much less while being so useful. I'll radio ahead to let you move to the Great Sea.”</eventtext.unlockpathaphoticplateauseparatists.c1>
-<eventtext.unlockpathaphoticplateauseparatists.o1.c1>“I'm sure it will. That is not an official guarantee by the Jovian Separatists nor an endorsement. I'll let the guard know you can take care of yourself.”</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
-<eventtext.unlockpathgreatseaseparatists.c1>“So you want to enter the Hydrothermal Wastes? Why on Europa would you do such a thing? I suppose it's none of my business. A friend of the Separatists is a friend of mine. Go ahead.”</eventtext.unlockpathgreatseaseparatists.c1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>Take the money and promise to keep your mouth shut.</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
-<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>“I don't want your filthy money. Goodbye.”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
-<EventText.jailbreak.c1>“Oh, thank god. We thought we'd never be getting out of here!”</EventText.jailbreak.c1>
-<EventText.missionevent_jailbreak_separatists.c1>The outpost manager seems to hesitate a bit. “This mission might be on the more challenging side, but judging by your reputation, you may be able to pull it off.”</EventText.missionevent_jailbreak_separatists.c1>
-<EventText.missionevent_jailbreak_separatists.o1.c1>“A couple of our operatives were recently captured by the Coalition, and according to our informants, they're currently locked away in an outpost nearby. If you can get them out of there safely, we'll be sure to make it worth your while. I'll mark the location on your map.”</EventText.missionevent_jailbreak_separatists.o1.c1>
-<EventText.missionevent_jailbreak_coalition.c1>The outpost manager seems to hesitate a bit. “This mission might be on the more challenging side, but judging by your reputation, you may be able to pull it off.”</EventText.missionevent_jailbreak_coalition.c1>
-<EventText.missionevent_jailbreak_coalition.o1.c1>“A couple of our operatives were recently captured by the Separatists, and according to our informants, they're currently locked away in an outpost nearby. If you can get them out of there safely, we'll be sure to make it worth your while. I'll mark the location on your map.”</EventText.missionevent_jailbreak_coalition.o1.c1>
-<EventText.jailbreak_alarm.c1>An announcement comes over the PA. “To all security personnel: code red. We've got some fugitives on the run.”</EventText.jailbreak_alarm.c1>
-<EventText.jailbreak_sootman.c1>“Hey. I presume you were sent here by Lt. Petran?”</EventText.jailbreak_sootman.c1>
-<EventText.jailbreak_sootman.o1>“Yes, we were assigned to get you out of here.”</EventText.jailbreak_sootman.o1>
-<EventText.jailbreak_sootman.o1.c1>“Yeah, I figured. Thanks. And I presume you've got a boat ready?”</EventText.jailbreak_sootman.o1.c1>
-<EventText.jailbreak_sootman.o1.o1>“Yes, follow me!”</EventText.jailbreak_sootman.o1.o1>
-<EventText.jailbreak_sootman.o1.o1.c1>“Actually, I've got a couple of bones to pick before we leave. Let's meet on board that boat of yours in five minutes.” The man darts off before you manage to say anything.</EventText.jailbreak_sootman.o1.o1.c1>
-<EventText.missionevent_jailbreak_sootman.c1>The outpost manager pulls out a document from his breast pocket. “This is one of those extra-sensitive missions, if you know what I mean. A commission from Lt. Petran. In fact, she hoped to assign this specifically to your crew.”</EventText.missionevent_jailbreak_sootman.c1>
-<EventText.missionevent_jailbreak_sootman.c1.c1>“The Coalition managed to capture one of our operatives recently. A very high-profile one, although luckily it seems they're not aware of his identity—otherwise he'd surely have been executed already.”</EventText.missionevent_jailbreak_sootman.c1.c1>
-<EventText.missionevent_jailbreak_sootman.c1.o1>“Who is it?”</EventText.missionevent_jailbreak_sootman.c1.o1>
-<EventText.missionevent_jailbreak_sootman.c1.o1.c1>“Perhaps it's better we leave him unnamed, but let's say it's someone who's left quite a trail of smoldering Coalition outposts and vessels behind him. In any case, he is currently being held captive in a nearby outpost. Get him out safely, and there'll be a sizeable reward waiting for you.”</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
+<afflictionname.husksymbiosis>畫皮共生</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>這看起來不像普通的畫皮感染：不知為何，病患仍有辦法說話且似乎保有自身意識。</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>這條通道已被封鎖，你在‖color:faction.separatists‖木星分離主義份子‖end‖間的聲望必須到達[requiredreputation]，並獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>「你大概也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站，不是所有潛艇都被允許通過這個哨站前往更深的區域。和你們有關的傳聞很多，不過你們無疑是共同對抗聯盟的寶貴盟友，因此歡迎你們通過。」</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>「想通過哨站前往更深的區域嗎？抱歉，你們最好還是換個路線吧。我不知道你們是誰、為誰做事，但你們很有可能是另一群想前往歐羅巴之脊騷擾我們的聯盟走狗。當然了，如果你們有多的馬克能和我分享，或許你有辦法說服我你是帶著善意來的...」</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>「我重新考慮了一下，你們看起來沒什問題。我看還是讓你們過去吧。很高興和你做生意。」</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>「隨你便。或許你們的確需要在兒童池待久一點，好搞清楚誰才是值得追隨的一方。」</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>「錢不夠？太可惜了，在你能證明你不站在敵人那方之前你最好在兒童池待久一點。」</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>「紀錄上說你們是我們在歐羅巴之脊對抗聯盟的一大助力。因此我們決定給予你通往無光海原的許可，一路順風！」</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>「我得恭喜你們。沒有太多人能夠活著穿越無光海原，更別說同時還能有貢獻的人了。」讓我通知其他人讓你們能往淵洋前進。</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>「我確定夠的。這不是來自木星分離主義者的官方保證，也不是背書。我會通知守衛們你們有辦法保護自己。」</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>「你想前往熱液廢土？你怎麼會想去那兒？算了，不關我的事。分離主義者的朋友就是我的朋友，去吧。」</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>接過錢並保證閉嘴。</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>「我不要你們的骯髒錢。再見。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>「喔、謝天謝地。我以為我們要永遠被困在這兒了！」</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>哨站管理員似乎猶豫了一下。「這份任務或許會比較艱難，但從你們的名聲看來，或許你們有辦法做到。」</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>「幾位我們的特務最近遭到聯盟逮捕，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>哨站管理員似乎猶豫了一下。「這份任務或許會比較艱難，但從你們的名聲看來，或許你們有辦法做到。」</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>「幾位我們的特務最近遭到分離主義份子俘虜，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>從廣播系統傳來了聲音。「所有安全人員：紅色警報。發現逃犯。」</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>「嘿，我猜你是Petran中尉派來的對吧？」</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>「沒錯，我們的任務是把你帶出這裡。」</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>「我猜得沒錯，謝啦。你們應該有準備船吧？」</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>「當然，跟我來！」</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>「其實在離開之前，我還有些事情要做。五分鐘後你們的船上見。」你還來不及說些什麼，那人早就飛奔離去。</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>哨站管理員從胸前的口袋拿出一份文件。「這種任務格外敏感，你懂的。這份委託來自Petran中尉。事實上，她希望這份委託確實地被交到你們手上。」</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>「聯盟最近成功逮捕了一位我們的特務──一位重要人物，好險他們還不知道他到底是誰，不然他肯定會馬上被處決。」</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>「他是什麼人？」</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>「或許我們別提到他的名字會比較好，但我能告訴你他讓不少聯盟哨站和船艦被烈火吞噬。總之，現在他正被關在附近的一座哨站上。安全地把他救出那裡之後會有一筆豐厚的報酬等著你。」</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
 
 </infotexts>
