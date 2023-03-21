@@ -63,7 +63,7 @@
 <missionsuccess.huskcultspecialassassinate>已殲滅目標，教會的秘密安全了。</missionsuccess.huskcultspecialassassinate>
 <missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
 <missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
-<missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首腦領袖」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首席」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
 <missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。</missionsuccess.huskcultrescuesubra>
 <missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
 <missionname.escort1clowns>運送小丑</missionname.escort1clowns>
@@ -162,7 +162,7 @@
 <randomnews34>木星崇拜和非線性的空間與時間：密碼學揭示古代異星文化新線索</randomnews34>
 <npctitle.merchantclown>小丑商人</npctitle.merchantclown>
 <npctitle.merchanthusk>邪教徒商人</npctitle.merchanthusk>
-<npctitle.huskcultecclesiast>傳教士</npctitle.huskcultecclesiast>
+<npctitle.huskcultecclesiast>教士</npctitle.huskcultecclesiast>
 <npctitle.coalitionspy>聯盟特務</npctitle.coalitionspy>
 <npctitle.separatistcaptain>分離主義者上校</npctitle.separatistcaptain>
 <npctitle.separatistcaptainlord>分離主義者上將</npctitle.separatistcaptainlord>
@@ -258,7 +258,7 @@
 <entityname.huskcontainerspawner>畫皮寄生蟲置物箱</entityname.huskcontainerspawner>
 <entitydescription.huskcontainerspawner>一個受到「Velonaceps Calyx」，俗稱畫皮寄生蟲寄宿的置物箱。能被當成一種自動置物箱使用，不過效果頗為短暫，因為畫皮寄生蟲很難在無機物中存活太久。</entitydescription.huskcontainerspawner>
 <entityname.bookofchalices1>聖杯之書：三重蛻變</entityname.bookofchalices1>
-<threemetamorphoses>讓我告訴你靈魂的三重轉變：靈魂如何成為化為人類堅韌意志的聖杯，聖杯如何倒空陳酒，又裝滿新酒。\n\n一個強大的、令人敬畏的靈魂能夠承載很多東西。\n\n「乘載何物？」靈魂伸出雙手問到。「最沉重之物為何？」靈魂又問。「我想背負那重擔，並為我的力量感到歡欣鼓舞。」\n\n那重擔是否如此：潛入最深的深淵探尋深邃的秘密？\n\n亦或如是：以知識的果實為食，為真理而承受靈魂的饑餓？\n\n還是這般：步入業已渾濁的真理之水，不再拒絕其中的害蟲與寄生蟲？\n\n再不其然：愛那些輕視我們之人，在那幽靈威脅我們時向它伸出自己的手？\n\n一切重擔由靈魂獨自承受：成為化為人類堅韌意志的聖杯，它為自己的力量歡欣鼓舞。\n\n但此時，瘴氣從聖杯中升起，因人類的堅韌所背負的重擔老去，變得腐朽污濁。\n\n瘴氣對靈魂說道，「你得如此！」\n\n千年來的思想與價值在空氣中散發惡臭。「一切事物的價值使我不朽。一切事物的價值已被創造──而我就代表這一切。是的，業已不會有『我將會』。」瘴氣如是說道。\n\n兄弟姊妹們，為何要倒盡聖杯呢？為何不滿足於人類的堅韌意志呢？創造新價值──那是人類無法完成之事：但為自自己創造自由，並以此創造意義──是人類的堅韌意志能做之事。\n\n給予自身自由，甚至給予責任和人性神聖的內涵：為此，我的兄弟姊妹們，人已不被需要。創造新的價值──那就是一個令人敬畏的靈魂的力量。\n\n但請告訴我，我的兄弟姊妹們，空蕩蕩的聖杯價值為何？不正是當中的美酒賦予了它目的？為此我們必須尋找新的酒，新鮮而純淨，超越人類的堅韌意志，又盡在其掌握中。\n\n是的，兄弟姊妹們，玩創造遊戲需要對生命的神聖肯定，堅韌的生命本身。這種堅韌已經存在勇於追求的人手中，好似是這世界賜予我們的禮物。\n\n這帶來了第三次也是最後一次轉變，昇華：人的靈魂被新的生命充滿，人類的堅韌意志與世界的堅韌意志融為一體。這一意志成為其靈魂；自身的世界超越將其流放的世界。到達了最真實的姿態。</threemetamorphoses>
+<threemetamorphoses>讓我告訴你靈魂的三重蛻變：靈魂如何成為化為人類堅韌意志的聖杯，聖杯如何倒空陳酒，又裝滿新酒。\n\n一個強大的、令人敬畏的靈魂能夠承載很多東西。\n\n「乘載何物？」靈魂伸出雙手問到。「最沉重之物為何？」靈魂又問。「我想背負那重擔，並為我的力量感到歡欣鼓舞。」\n\n那重擔是否如此：潛入最深的深淵探尋深邃的秘密？\n\n亦或如是：以知識的果實為食，為真理而承受靈魂的饑餓？\n\n還是這般：步入渾濁的真理之水，不再拒絕其中的害蟲與寄生蟲？\n\n再不其然：愛那些輕視我們之人，在那幽靈威脅我們時向它伸出自己的手？\n\n一切重擔由靈魂獨自承受：成為化為人類堅韌意志的聖杯，它為自己的力量歡欣鼓舞。\n\n但此時，瘴氣從聖杯中升起，因人類堅韌意志正背負的重擔是古老的，業已腐朽污濁。\n\n瘴氣對靈魂說道，「你得如此！」\n\n千年來的思想與價值散發出的瘴氣飄散空氣中，「一切事物的價值使我不朽。一切事物的價值已被創造──而我就代表這一切。是的，業已不會有『我將會』。」瘴氣如是說道。\n\n因此兄弟姊妹們，何來不需要倒盡聖杯？如何不滿足於屏除重擔而令人敬畏的人類的堅韌意志呢？創造新價值──那是人類無法完成之事：但創造新的自由，並由它創造價值──是人類的堅韌意志能做之事。\n\n要為自身創造自由，甚至得拋棄為人的重擔：為此，我的兄弟姊妹們，人已不被需要。承擔新的價值──那是對令人敬畏的靈魂的艱鉅挑戰。\n\n但請告訴我，我的兄弟姊妹們，空蕩蕩的聖杯本身價值為何？不正是當中的美酒賦予了它目的？為此我們必須尋找新的酒，新鮮而純淨，超越人類的堅韌意志，又盡在其掌握中。\n\n是的，兄弟姊妹們，進行創造遊戲需要對生命的神聖肯定，那堅韌的生命。這種堅韌的生命對勇於追求的人觸手可及，好似是由這世界餽贈。\n\n這帶來了第三次也是最後一次蛻變，昇華：人的靈魂被新的生命充滿，人類的堅韌意志與世界的堅韌意志融為一體。靈魂成為了意志本身；自身的世界超越將其流放的世界。換句話說，化為了最真實的姿態。</threemetamorphoses>
 <entityname.bookofchalices2>聖杯之書：化身浪潮的先驅</entityname.bookofchalices2>
 <heraldofthetide>人類是動物與其真實姿態之間的橋樑。──一座位於深淵之上的橋梁。\n\要通過是危險的，通過時是危險的，回頭是危險的，顫抖和停滯是危險的。\n\n人的偉大之處在於，他是一座橋樑而不是一個目標：人的可愛之處在於，他既是向上昇華又是往下墮落的過程。能過此橋者甚少，過橋者皆大德：\n\n他們只瞭向下墮落的生活，正因他們向上昇華。\n\n他們仰望星空並非尋求墮落和犧牲，而是將自己獻給世界，為求到達屬於其真實姿態的世界。\n\n他們為求知而生，他們尋求成為其真實姿態的知識。為此他們尋求自身的往下墮落。\n\n他們勞動並創造，為其真實姿態修築新家，他們使大海、動物、植物、以及自身的肉體做好準備：為此他們尋求自身的往下墮落。\n\n他們懲罰自己的神，因為他們愛他們的神：因他們得藉由神的怒火消逝。\n\n他們的靈魂受到深深傷害，哪怕是一件小事也能將其摧毀：因此他們願意過橋。\n\n他們擁有自由的靈魂和內心：因此他們的腦袋僅是其心之附屬；然而他們的心使他們往下墮落。\n\n看啊，我是潮汐的使者，是洶湧的水流：而這潮汐，就是最真實的姿態。</heraldofthetide><!--not understand-->
 <character.huskcontainer>畫皮寄生蟲置物箱</character.huskcontainer>
@@ -315,7 +315,7 @@
 <eventtext.clownspecialhire1.repeat>「你好啊！你們考慮過我的提議了嗎？你們願意讓我加入你們嗎？」</eventtext.clownspecialhire1.repeat>
 <eventtext.clownspecialhire1.o1.o1.repeat>「我想我們確實還缺一位助手，歡迎登艦！」</eventtext.clownspecialhire1.o1.o1.repeat>
 <eventtext.clownspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.clownspecialhire1.o1.o2.repeat>
-<eventtext.huskcultspecialhire1.c1>一位眼熟的男人像你走來。「嘿，是你！我一直想再見到你呢。」I was actually hoping I'd run into you again.”</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.c1>一位眼熟的男人像你走來。「嘿，是你！我一直想再見到你呢。」</eventtext.huskcultspecialhire1.c1>
 <eventtext.huskcultspecialhire1.o1>「很高興再次見到您，Subra先生！」</eventtext.huskcultspecialhire1.o1>
 <eventtext.huskcultspecialhire1.o1.c1>「就別客套了，我們直接切入正題。不是每天都能遇見像你們這樣開明又有能力的人。所以我有個提議讓你們和教會之間的合作更加緊密。而且，誠實地說，這對我個人而言也是一個很好的禮物。」</eventtext.huskcultspecialhire1.o1.c1>
 <eventtext.huskcultspecialhire1.o1.o1>「我洗耳恭聽。」</eventtext.huskcultspecialhire1.o1.o1>
@@ -342,7 +342,7 @@
 <eventtext.coalitionspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.coalitionspecialhire1.o1.o2.repeat>
 <EventText.youngcultists.c1>幾個穿著長袍的人圍在一個躺在地上的人身邊。那個人劇烈地抽搐，仿佛是癲癇發作──你沒辦法確定周圍的人是在抑制他的顫抖或是在為他做心肺復甦。其中一位穿著長袍的人注意到了你。「嘿，你！從那個櫃子裡拿管皮蟲淨丟給我！」</EventText.youngcultists.c1>
 <EventText.youngcultists.o1>從櫃子裡拿藥丟給他們。</EventText.youngcultists.o1>
-<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過你多少遍你還沒準備好接受『餽贈』？！」</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過你多少遍你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
 <EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
 <EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「剛才算是一場小型急救吧。我們的朋友想說...來點刺激的會很好玩，你懂吧。感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，否則我要去報案了。」</EventText.youngcultists.o1.o1.o1>
@@ -361,95 +361,95 @@
 <EventText.youngcultists.o1.o1.o2.o1.o2>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o2.o1.o2>
 <EventText.youngcultists.o1.o1.o2.o2>「我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o2.o2>
 <EventText.youngcultists.o2>那看起來真可疑，最好別插手。</EventText.youngcultists.o2>
-<EventText.waytoascension1.c2>You overhear two robed figures in deep discussion. “To be honest, I find those kinds of drug-fueled sodomite parties distasteful, a perversion of what a real Communion ought to be.” The one wearing a more elaborately decorated robe shrugs. “As an Ecclesiast I must concur, although just between you and me, I do believe it can also be good for the acolytes to test their limits every once in a while—you must know where your limits are if you’re striving to surpass them!”</EventText.waytoascension1.c2>
-<EventText.waytoascension1.o5>“Excuse me, did you say you’re an Ecclesiast of the Church of Husk?”</EventText.waytoascension1.o5>
-<EventText.waytoascension1.o5.c1>The robed man turns to look at you, and judging by his expression, you suspect you've just heard something not meant for your ears. “Who might you be, and what’s your business here?” he asks.</EventText.waytoascension1.o5.c1>
-<EventText.waytoascension1.o5.o1>“Our crew has been looking for ways to learn more of the Church, and I've heard an Ecclesiast might be able to guide me.”</EventText.waytoascension1.o5.o1>
-<EventText.waytoascension1.o5.o1.c1>The man scoffs. “Does this look like a public school to you? Even if I had an interest in teaching every random submariner who happens to waltz in, how would I know you’re not some Coalition spy or a clown probing for information?”</EventText.waytoascension1.o5.o1.c1>
-<EventText.waytoascension1.o5.o1.o1>“Could we prove our good intentions by helping the Church in some way?”</EventText.waytoascension1.o5.o1.o1>
-<EventText.waytoascension1.o5.o1.o1.c1>“That would in no way make you stand apart from the plethora of morally and spiritually devoid submarine crews going around doing tasks for whomever with no regard for what kind of party they’re supporting. What the Church is interested in is what you’re striving for, and how much you are willing to sacrifice to reach those aspirations.”</EventText.waytoascension1.o5.o1.o1.c1>
-<EventText.waytoascension1.o5.o1.o1.o1>“Is there any other way for us to prove our sincerity?”</EventText.waytoascension1.o5.o1.o1.o1>
-<EventText.waytoascension1.o5.o1.o1.o1.c1>“For that, you’ve got a long way to go, kid. But what the hell, let's try something. To prove that you at the very least have some kind of an understanding of our doctrine, answer me this. What is the Second Metamorphosis of the spirit?”</EventText.waytoascension1.o5.o1.o1.o1.c1>
-<EventText.waytoascension1.o5.o1.o1.o1.o1>“Emerging from the cocoon of your human body.”</EventText.waytoascension1.o5.o1.o1.o1.o1>
-<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>The man snickers and shakes his head. “As I thought. You have some more learning to do on your own, and until you do, I have nothing more to say to you.”</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
-<EventText.waytoascension1.o5.o1.o1.o1.o2>“Becoming one with the symbiote.”</EventText.waytoascension1.o5.o1.o1.o1.o2>
-<EventText.waytoascension1.o5.o1.o1.o1.o3>“Emptying the chalice of the stale wine.”</EventText.waytoascension1.o5.o1.o1.o1.o3>
-<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>“I must admit I’m surprised a submariner would be familiar with the concept of the Three Metamorphoses. That being said, you’ve still got a long way to go to truly prove yourself. But perhaps we can think of something. We have a certain Church event coming up soon for which we’ll need copious amounts of ‘wafers’ to feed all the attendants. I’m sure you see what I’m getting at.”</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
-<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>“You want me to get you husk eggs?”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
-<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>“That’s another way to put it, yes. Not only would this be a test of your dedication, I believe it could aid you and your crew toward the First Metamorphosis. To descend to the deepest depths, to dive bravely into the foulest of waters. So, to put it simply: Bring me or one of my colleagues a dozen vials of husk eggs, and then we’ll talk more.”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
-<EventText.waytoascension1.o5.o1.o1.o1.o4>“I’m afraid I don’t know. Yet.”</EventText.waytoascension1.o5.o1.o1.o1.o4>
-<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>“There is some wisdom in knowing and admitting your limits. You have some more learning to do on your own, but until you do, I have nothing more to say to you.”</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
-<EventText.waytoascension1.o5.o1.o2>“If it’s of any worth, we’d happily pay you for your troubles.”</EventText.waytoascension1.o5.o1.o2>
-<EventText.waytoascension1.o5.o1.o2.c1>“Of course. As a submariner you must've come to think throwing money at people is the way to make them do your bidding, but the very proposal suggests you have very little idea of what we’re striving for here in the Church.”</EventText.waytoascension1.o5.o1.o2.c1>
-<EventText.waytoascension1.o5.o2>“Sorry, I must've confused you with someone else. I'll get going now!”</EventText.waytoascension1.o5.o2>
-<EventText.waytoascension1.o6>Sounds like this man is some kind of a big shot of the Husk Cult. Better alert the outpost security.</EventText.waytoascension1.o6>
-<EventText.waytoascension1.o6.c1>You contact the outpost security via radio, informing them of the suspicious activity going on in this module.</EventText.waytoascension1.o6.c1>
-<EventText.waytoascension1.o7>This seems shady. Better to not get involved.</EventText.waytoascension1.o7>
-<EventText.waytoascension1.c1>“I believe your crew has expressed an interest in learning more about our Church. Before we get any further, I'd like to ask you the same question my colleague already did: What is the Second Metamorphosis of the spirit?”</EventText.waytoascension1.c1>
-<EventText.waytoascension2.c1>“I believe the Church has given you an assignment of sorts. Have you acquired the ‘wafers’?”</EventText.waytoascension2.c1>
-<EventText.waytoascension2.o1>“I've obtained 12 vials of husk eggs, as asked.”</EventText.waytoascension2.o1>
-<EventText.waytoascension2.o1.c1>The Ecclesiast's eyes widen as you take out the vials. He swiftly yanks them from your hands and shoves them inside his robes. “It’s starting to seem our doubts about your crew may have been unfounded. I hope you can forgive our distrust; it’s not every day submariners come to show this kind of attitude toward us. But I suppose that’s understandable. We shouldn’t expect sympathy from people whose understanding of the Husk is solely based on encounters with the feral ones.”</EventText.waytoascension2.o1.c1>
-<EventText.waytoascension2.o1.o1>“Fair enough. Would you be willing to tell us more about the Church now?”</EventText.waytoascension2.o1.o1>
-<EventText.waytoascension2.o1.o1.c1>“This thirst for knowledge is a promising sign. Yes, we’ve discussed the matter with the Ecclesiarchy, and we are willing to appoint you as acolytes of the Church of Husk if that is your desire.”</EventText.waytoascension2.o1.o1.c1>
-<EventText.waytoascension2.o1.o1.o1>“What does that mean in practice?”</EventText.waytoascension2.o1.o1.o1>
-<EventText.waytoascension2.o1.o1.o1.c1>“It means we will help you in your personal strive for Ascension, and you will help the Church in our collective pursuit of a better humankind, or rather, a kind that is something more than human. Our members are not obliged to much—everyone serves according to their own volition and capabilities—but we do of course hope your crew keeps contributing to our cause, much as you already have been doing. Feel free to take your time to consider the offer. Let me know when you’ve made up your mind.”</EventText.waytoascension2.o1.o1.o1.c1>
-<EventText.waytoascension2.o1.c2>“Please bring them to me and we'll carry on from there.”</EventText.waytoascension2.o1.c2>
-<EventText.waytoascension2.o2>“Still working on it.”</EventText.waytoascension2.o2>
-<EventText.waytoascension2.c2>“Have you made your decision—do you want to become an acolyte of the Church?”</EventText.waytoascension2.c2>
-<EventText.waytoascension2.o3>“Yes, I want to join you.”</EventText.waytoascension2.o3>
-<EventText.waytoascension2.o3.c1>“Then we shall make it be. Do you accept Ascension as your utmost goal, as well as the utmost goal for humankind?”</EventText.waytoascension2.o3.c1>
-<EventText.waytoascension2.o3.o1>“Yes.”</EventText.waytoascension2.o3.o1>
-<EventText.waytoascension2.o3.o1.c1>“Then we shall make it be. Do you accept to renounce your humanity and thus bring forth the quintessential form?”</EventText.waytoascension2.o3.o1.c1>
-<EventText.waytoascension2.o3.o1.o1.c1>“Then we shall make it be. Do you accept to become one with the fortitude of the world and thus bring forth the quintessential form?”</EventText.waytoascension2.o3.o1.o1.c1>
-<EventText.waytoascension2.o3.o1.o1.o1.c1>“Then we shall make it be; we welcome you to our family. I'm pleased to have you with us! In fact, I believe our whole Church all the way up to the Arch-Ecclesiasts will be pleased to hear the news.”</EventText.waytoascension2.o3.o1.o1.o1.c1>
-<EventText.waytoascension2.o3.o1.o1.o1.o1>“So, what happens next?”</EventText.waytoascension2.o3.o1.o1.o1.o1>
-<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>“That is largely up to you—as said, everyone in the Church serves according to their own volition. If you're looking for pointers, the Book of Chalices might be a good starting point.” The Ecclesiast hands you a paper scroll. “Take it to your heart and you'll be better prepared when the time comes for your next task.”</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
-<EventText.waytoascension2.thinkaboutthis>“I still need to think about this.”</EventText.waytoascension2.thinkaboutthis>
-<EventText.waytoascension3.c1>“A pleasure to run into you again. The timing couldn't have been better, as we have something we could use your help with. This is considerably more sensitive than the jobs you’ve been doing so far. We need someone competent, someone we know the Church can trust, and we’ve come to think your crew might fit the bill.”</EventText.waytoascension3.c1>
-<EventText.waytoascension3.o1>“I’m interested.”</EventText.waytoascension3.o1>
-<EventText.waytoascension3.o1.c1>“According to our informants, a Coalition operative has infiltrated one of our sects to investigate the Church. There's a chance he may have gained access to very sensitive information, including the identities and whereabouts of some of our Arch-Ecclesiasts. We have reason to believe he's currently in a nearby outpost, so now's our chance to take action and make sure he'll talk to no one.”</EventText.waytoascension3.o1.c1>
-<EventText.waytoascension3.o1.o1>“I see. We'll take care of it.”</EventText.waytoascension3.o1.o1>
-<EventText.waytoascension3.o1.o2>“Are you telling me to murder someone?!”</EventText.waytoascension3.o1.o2>
-<EventText.waytoascension3.o1.o2.c1>“Have you not read 'The Three Metamorphoses'? That's the miasma talking. You need to let go of these factitious human notions of morals. Besides, have you not murdered countless of beings during your voyages? How's this any different, aside from being of extreme importance to our cause?”</EventText.waytoascension3.o1.o2.c1>
-<EventText.waytoascension3.o1.o2.o1>“I suppose you're right.”</EventText.waytoascension3.o1.o2.o1>
-<EventText.waytoascension3.o1.o2.o1.c1>“I'll mark the location on your map. Make sure you do the deed discreetly: We don't want any more curious eyes prying on us.”</EventText.waytoascension3.o1.o2.o1.c1>
-<EventText.waytoascension4.c1>“We've been informed your task was a success. I knew we could count on you! Unfortunately, we have another, even more urgent matter we need to discuss.”</EventText.waytoascension4.c1>
-<EventText.waytoascension4.o1>“I'm all ears.”</EventText.waytoascension4.o1>
-<EventText.waytoascension4.o1.c1>“As you surely know, the Coalition has put a bounty on Jacov Subra, one of our Arch-Ecclesiasts.”</EventText.waytoascension4.o1.c1>
-<EventText.waytoascension4.o1.o1>“That's a familiar name, but I don't really know much.”</EventText.waytoascension4.o1.o1>
-<EventText.waytoascension4.o1.o1.c1>“He's one of our Arch-Ecclesiasts, although he likes to go by the title 'Head Organizer.' He's the man behind the 'Church of the Mollusc' festival, an event that's been an excellent tool in recruiting new members. He's currently hiding from authorities in a certain abandoned outpost, and we have reason to believe a crew looking to score the bounty has discovered his whereabouts. It could be the operative you 'met' did talk to someone after all.”</EventText.waytoascension4.o1.o1.c1>
-<EventText.waytoascension4.o1.o1.o1>“How can we help?”</EventText.waytoascension4.o1.o1.o1>
-<EventText.waytoascension4.o1.o1.o1.c1>“We need you to get to him before the bounty hunters do, and get him to safety. I'll mark the location on your map. I can't stress enough how urgent this is, so let's not waste any more time. Go—we'll talk more when he's safe.”</EventText.waytoascension4.o1.o1.o1.c1>
-<EventText.waytoascensionfoundsubra.c1>“You'll never take me alive!”</EventText.waytoascensionfoundsubra.c1>
-<EventText.waytoascensionfoundsubra.o1>“Easy there, brother! We were sent by the Church.”</EventText.waytoascensionfoundsubra.o1>
-<EventText.waytoascensionfoundsubra.o1.c1>“Ahh! I heard some chatter about the bounty on the radio, and was sure someone else got to me first.”</EventText.waytoascensionfoundsubra.o1.c1>
-<EventText.waytoascensionfoundsubra.o1.o1>“…You did? I don't think that was us.”</EventText.waytoascensionfoundsubra.o1.o1>
-<EventText.waytoascensionfoundsubra.o1.o1.c1>“Well, shit. I guess we'd better keep our weapons ready and get out of here stat. You lead the way.”</EventText.waytoascensionfoundsubra.o1.o1.c1>
-<EventText.waytoascension_assassination1.c1>The operative investigating the Church of Husk you've been tasked to assassinate should be somewhere in this outpost.</EventText.waytoascension_assassination1.c1>
-<EventText.waytoascension_assassination1.c1.c1>This must be the informant. You try to think of how to go about this.</EventText.waytoascension_assassination1.c1.c1>
-<EventText.waytoascension_assassination1.c1.o1>“You've stuck your nose somewhere you shouldn't have, fleshbag…”</EventText.waytoascension_assassination1.c1.o1>
-<EventText.waytoascension_assassination1.c1.o1.c1>The man immediately pulls out his gun.</EventText.waytoascension_assassination1.c1.o1.c1>
-<EventText.waytoascension_assassination1.c1.o2>“Sir, could you please help me? My friend's injured and I need help getting him to the medical module. Please, follow me!”</EventText.waytoascension_assassination1.c1.o2>
-<EventText.waytoascension_assassination1.c1.o2.c1>“Of course. Lead the way!”</EventText.waytoascension_assassination1.c1.o2.c1>
-<EventText.waytoascension_assassination1.c1.o2.c1.c1>“Okay, what the hell is this? Are you just trying to waste my time? I need to get back to work.”</EventText.waytoascension_assassination1.c1.o2.c1.c1>
-<EventText.waytoascension_assassination1.c1.o3>Ignore him and keep walking.</EventText.waytoascension_assassination1.c1.o3>
-<EventText.waytoascension5.c1>“Welcome. We've been waiting for you.”</EventText.waytoascension5.c1>
-<EventText.waytoascension5.o1>“What is this?”</EventText.waytoascension5.o1>
-<EventText.waytoascension5.o1.c1>“Ever since our paths crossed, your work for the Church has been nothing short of exceptional. But saving the life of an Arch-Ecclesiast, that's an insurmountable achievement, one we'll be forever in your debt for. Thus, we've decided to host a Communion for you. You're ready. Please gather the rest of your crew here and we'll commence.”</EventText.waytoascension5.o1.c1>
-<EventText.waytoascension5.c1.c1>“Is this everyone—shall we begin?”</EventText.waytoascension5.c1.c1>
-<EventText.waytoascension5.c1.o1>“Let's do it.”</EventText.waytoascension5.c1.o1>
-<EventText.waytoascension5.c1.o1.c1>The robed congregation starts to hum a melody, and the Ecclesiast raises his arms. “My brethren, verily our chalices empty, thirsting for wine, fresh and untainted.” One of the acolytes hands out vials of husk eggs to the congregation.</EventText.waytoascension5.c1.o1.c1>
-<EventText.waytoascension5.c1.o1.o1>Take the eggs.</EventText.waytoascension5.c1.o1.o1>
-<EventText.waytoascension5.c1.o1.o1.c1>“O spirit of life, let us fill our chalice with your fortitude. Let us become one and quell the world's outcast. Let us accept your Gift and bring forth the quintessential form.” The ecclesiast raises up the vial, and the rest of the robed figures follow the lead.</EventText.waytoascension5.c1.o1.o1.c1>
-<EventText.waytoascension5.c1.o1.o1.o1>Raise the vial.</EventText.waytoascension5.c1.o1.o1.o1>
-<EventText.waytoascension5.c1.o1.o1.o1.c1>“Let us become heralds of the tide, strong steams amidst the water. Lo, the mighty the Husk!”. Everyone gulps down the contents of the vials.</EventText.waytoascension5.c1.o1.o1.o1.c1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1>Gulp down the eggs.</EventText.waytoascension5.c1.o1.o1.o1.o1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>You feel the symbiote squirming and growing inside you. What is this? How is it happening this rapidly? Before you manage to process the questions, they seem to dissolve into nothing. Your mind feels… No, "you" are gone now. We are one now, and we no longer need to fear or worry.</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>“We can speak?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>The Ecclesiast, now with a squirming ovipositor hanging from his mouth, turns to look at you. “Of course. Our bodies and minds are of more value to us this way.” The Ecclesiast waves at the others, still spasming on the floor. “Unlike these frail ones. Them we shall consume.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>“What's next?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
-<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>“That is for you to find out. But now, go—the humans must be coming. We'll meet again.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.waytoascension5.c1.o2>“Hold on. We need a moment.”</EventText.waytoascension5.c1.o2>
+<EventText.waytoascension1.c2>你無意間聽到兩個幾個穿著長袍的人低聲交談。「老實說，我覺得那些用藥為媒的下三濫曲解了交融本身的含義。」衣著較為華麗的那位聳了聳肩。「作為一個教士，我同意。下面這話只在你我之間說說，我相信偶爾測試一下自身的極限對教徒們也有好處──畢竟要超越極限，就得知道自身的極限在哪裡。」</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>「打擾一下，你剛剛是說你是畫皮教會的教士嗎？」</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>穿長袍的男人轉過頭來對著你瞧。從他的表情看來，你大概是聽到了些不該聽到的東西。「你是誰？在這裡想幹嘛？」他問。</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>「我和我的船員們想多瞭解一些有關教會的事情，而我聽說傳教士能為我們指點一二。」</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>那個男人嘲諷般地笑了笑。「這看起來是在公開講課嗎？就算我願意給每個巧遇的陌生船夫傳授知識，我又怎麼知道你不是聯盟的間諜或者想探消息的小丑？」</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>「那我能不能為教會做些事，以此證明自己的誠意？」</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>「那並不會讓你和其他那些有事就辦、不管對方是誰的那些道德缺失精神軟弱的船夫產生區別。教會感興趣的是你在追求什麼，以及你願意為它做出多少犧牲。」</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>「那有其他什麼方式能證明我們是認真的嗎？」</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>「那你還有好長一段路得走，小子。但管他的，我們就試試看吧。要證明你們到底是不是認真的，你至少得對我們的教義有所瞭解。回答我，靈魂的第二次轉變為何？」</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>「從人類肉體的桎梏中解放。」</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>對方竊笑著搖了搖頭。「跟我想的一樣。你得先好好進修一番，在那之前我對你沒什麼好說的。」</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>「與共生體交融。」</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>「倒空聖杯中的美酒。」</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>「我得說我很訝異一位船夫竟然對『靈魂的三重蛻變』這概念有所涉略。話雖如此，你還是有一段長路要走來證明自己。但或許不是沒有機會。教會最近即將舉辦活動，那時我們會需要不少『聖餐』給我們的參與者們。我相信你明白我的言下之意。」</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>「你要我找些畫皮卵給你？」</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>「那是另一種說法，沒錯。這是對你奉獻精神的一種考驗，我相信這也能幫助你和你的船員們邁向第一重蛻變的境界，『潛入最深的深淵，勇敢地深入那混濁之水中』。簡單來說：為我或我的同僚們帶來總共兩打的畫皮寄生蟲卵，之後我們再聊聊別的。」</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>「我目前還沒有頭緒。」</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>「瞭解並坦承自身的極限是智慧的表現。你得先好好進修一番，在那之前我對你沒什麼好說的。」</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>「我們很樂意付錢給你。」</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>「當然了，身為船夫你一定覺得有錢就能讓別人為你做事，但那只表明了你對我們教會尋求之物所知甚少。」</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>「抱歉，我認錯人了。我得走了！」</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>這人聽起來是畫皮邪教裡的重要角色，最好通知哨站守衛。</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>你以無線電聯絡哨站守衛，通知他們在這個區域發生可疑活動。</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>那看起來真可疑，最好別插手。</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>「我相信你和船員們都對進一步瞭解我們的教會非常有興趣。但在那之前，我想問一個我的同僚已經問過的問題：靈魂的第二次轉變為何？」</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>「我相信教會指派了課題給你們。弄到『聖餐』了嗎？」</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>「按照要求，這裡有12瓶畫皮卵。」</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>當你拿出瓶子的時候，教士瞪大了雙眼。他飛快地將瓶子從你手接過並收進了長袍裡。「顯然，我對你和你的船員的懷疑只不過是個毫無根據的恐懼。請原諒我們之前的猜忌；不是天天都有潛艇船員像你這樣對待我們。但是你也明白，我們並不期待只見過野生畫皮的人理解我們。」</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>「瞭解。現在你能告訴我們更多有關教會的事情了嗎？」</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>「有對知識的渴望是個好的現象。是的，我們和教會討論過了，只要你們有意願，我們將接納你們成為教徒。」</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>「那在實務上有什麼意義？」</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>「那代表我們將協助你們追求個人的昇華，而你們將協助教會對人類更完美型態的追求，或者說，超越人類的追求。我們的成員並沒有太多義務，大家根據自身的意願和能力為教會服務，但我們當然也希望你的團隊能繼續做出貢獻，就像之前那樣。請仔細考慮一下我們的邀請吧。當你做出決定之後再告訴我。」</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>「請將它們帶來給我，之後我們就能繼續了。」</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>「還在努力中。」</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>「你做好決定要成為信徒了嗎？」</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>「是的，我決定加入。」</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>「那我們將讓它成為現實。你是否願意將昇華作為自己，以及全人類的終極理想？」</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>「是的。」</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>「那我們將讓它成為現實。你是否願意放棄人性，從而迎來最真實的姿態？」</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>「那我們將讓它成為現實。你是否願意與世界的堅毅交融，從而迎來最真實的姿態？」</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>「那我們將讓它成為現實；我們歡迎你成為我們的一份子。很高興你能同我們一道！事實上，我相信整個教會從上到下，連大教士們都會為此欣喜！」</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>「那，接下來呢？」</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>「這得看你──就像我說的，大家根據自身意願為教會服務。如果你需要指引，或許《聖杯之書》會是個很好的起點。」教士遞給了你一捲卷軸。「把它牢記於心，當下一個課題到來，你就能做好充足準備。」</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>「我還沒做好決定。」</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>「很高興再見到你。時機正好，我們現在正需要你幫助。這比你之前做過的事情更敏感些，我們需要一個有能力，且教會可以信任的人，而你和你的船員再合適不過了。」</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>「我有興趣。」</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>「根據我們的消息，一位聯盟特務混入了我們之中好對教會進行調查。他可能已經取得了一些敏感資訊，包括部分大教士們的身份和所在。我們有理由相信對方正在附近的哨站上，現在正是行動的好機會，讓他沒有辦法把資訊洩露出去。」</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>「瞭解，我們會處理的。」</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>「你是要我去殺人嗎？！」</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>「你沒把『三重蛻變』讀懂嗎？那正是瘴氣所言。你得拋棄那些源自人類的道德觀念。再者，你的潛艇生涯中早就殺過數不清的人類了吧？這和那有何差別，除了此事對教會而言有重大意義之外？」</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>「我猜你說得沒錯。」</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>「我們會把位置標在你的地圖上。記得低調行事：我們不想招來更多好奇的目光。」</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>「我們收到通知，你成功完成任務了。我就知道我們能夠指望你！不幸的是，我們有更要緊的事要與你討論。」</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>「洗耳恭聽。」</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>「你肯定知道，聯盟對我們其中一位大教士Jacov Subra發出了選賞。」</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>「那名字真耳熟，不過我也只知道那麼多了。」</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>「他是我們的大教士之一，雖然他比較偏好被以『首席』稱呼。他就是『軟體動物教會』慶典的幕後推手，那是個招集新教友的好活動。現在他正在某個廢棄哨站上躲避追捕，而我們有理由相信有批想要賺取他頭上的獎金的人已經找到了他的所在。大概是你『見過面』的那位特務早就把訊息給洩漏出去了。」</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>「我們能幫上什麼忙？」</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>「我們需要你比賞金獵人更快找到他，帶他去安全的地方。我會把位置標在你的地圖上。不用我說，這件事十萬火急，就別浪費時間了。去吧──等他安全了我們再聊別的。」</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>「別想活捉我！」</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>「別緊張，兄弟！我們是教會派來的！」</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>「啊！我從對講機裡聽見有人在說懸賞的事，我就知道肯定會有人會找到我的。」</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>「那絕對不是我們...」</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>「可惡、該死。準備好你們的武器，我們得盡快離開這裡。你帶路。」</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>畫皮教會要你暗殺的那名聯盟特務就在這座哨站的某處。</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>那肯定就是特務。你在想下一步該怎麼做。</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>「你知道了你不該知道的事，臭皮囊...」</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>對方立馬掏出了武器。</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>「先生，你能幫幫我嗎？我的朋友受傷了，我得送他去醫務室。請跟我來！。」</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>「沒問題。帶路吧！」</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>「夠了，這是在幹嘛？你是在浪費我的時間嗎？我還有工作要做。」</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>忽略他並走開。</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>「歡迎。我們一直在等你。」</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>「怎麼回事？」</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>「自從我們相識以來，你們已為教會做出了許多龐大貢獻。但這次你拯救了大教士的性命，那可是個難以超越的壯舉，我們將永遠欠你們一份人情。因此，我們決定為你們舉辦一場『聖餐』儀式。你已經做好準備了。將你的隊伍召集過來我們就可以開始了。」</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>「大家都到了吧──要開始了嗎？」</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>「我們開始吧。」</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>穿著長袍的教眾們一同哼起一段旋律，教士揚起了雙臂。「兄弟姊妹們，我們的聖杯已空，渴求新鮮而純淨的美酒。」一位教徒遞給在場的人一瓶瓶的畫皮卵。</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>拿取卵。</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>「噢，生命之靈啊，請為我們的聖杯盛滿你的堅韌。讓我們嬌容並超越世界的流放。讓我們接受來自你的饋贈。」教士們舉起瓶子，其餘穿著長袍的人們緊隨其後。</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>舉起瓶子。</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>「讓我們成為浪潮的先驅，水面下的波濤。看吧，偉大的畫皮！」每個人都將瓶中的物體送入口中。</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>吞下畫皮卵。</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>你感覺到寄生蟲在你體內蠕動成長。這是怎麼回事？這一切怎麼能發生的此迅速？還沒來得及回答這個問題，牠們像是在你的體內融化消失了一般。你的思想彷彿... 不，「你」已不復存在。我們已合而為一，且我們將不再感到懼怕或憂心。</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>「我們還能說話？」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>教士轉過頭看向你，嘴上掛著蠕動的產卵器。「當然了。我們的身軀和思緒在這種姿態下更有價值。」教士指了指在地上抽搐的人們。「不像這些弱者。我們應當吞噬它們。」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>「下一步是什麼？」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>「那得由你自己發現。但現在──走吧，人類馬上就要過來了。我們會再見面的。」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>「等等，我們得準備一下。」</EventText.waytoascension5.c1.o2>
 <EventText.pathofthebikehorn1.c1>有個穿著奇特小丑裝的人走了過來，把你拉到一邊。「我沒在這兒見過你──方便告訴我你為何而來嗎？你們是快樂之人嗎，能明白我的意思嗎？」</EventText.pathofthebikehorn1.c1>
 <EventText.pathofthebikehorn1.o1>「我們只是路過。『快樂之人』指的是？」</EventText.pathofthebikehorn1.o1>
 <EventText.pathofthebikehorn1.o1.c1>「那些承蒙自行車喇叭召喚的人們：小丑、搗蛋鬼、愚者！這是我和的非門之徒們在這世上找到的安身之所，我們希望這種狀態繼續保持。」</EventText.pathofthebikehorn1.o1.c1>
@@ -492,7 +492,7 @@
 <EventText.pathofthebikehorn2.o1.c2>「這是個隱形版的面具嗎？我真的很想透過我的雙眼見到它看。」</EventText.pathofthebikehorn2.o1.c2>
 <EventText.pathofthebikehorn2.o2>「我還是找不到聖母的面容。有什麼建議嗎？」</EventText.pathofthebikehorn2.o2>
 <EventText.pathofthebikehorn2.o2.c1>「那些面具幾百年前就退流行了，幸運的話一艘夠老的沈船可能有點機會。當然啦，那畢竟是惡作劇大師們的傳統裝束，或許你跳脫了框架進行思考就能有所進展，拋媚眼！」</EventText.pathofthebikehorn2.o2.c1>
-<EventText.pathofthebikehorn2.o2.o1>「你剛剛是用說的代替『拋媚眼』嗎？」</EventText.pathofthebikehorn2.o2.o1><!--Did you just say 'wink wink'?”-->
+<EventText.pathofthebikehorn2.o2.o1>「你剛剛是用說的代替『拋媚眼』嗎？」</EventText.pathofthebikehorn2.o2.o1><!--Did you just say 'wink wink'?-->
 <EventText.toyhammeronabyssmonster.c1>玩具槌敲了敲深淵巨獸，什麼也沒發生。你思索那意義何在，但你很快就意識到現在最好別陷入沉思，而是專心逃命。</EventText.toyhammeronabyssmonster.c1>
 <EventText.pathofthebikehorn3.c0>「嘿，我需要你的意見。假如說有人要造一件小丑聖母之子主題的動力服，叫它『小丑機甲』會不會太直白了。」</EventText.pathofthebikehorn3.c0>
 <EventText.pathofthebikehorn3.o0>「呃，你問這幹嘛？」</EventText.pathofthebikehorn3.o0>
