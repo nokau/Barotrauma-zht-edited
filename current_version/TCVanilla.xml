@@ -34,11 +34,11 @@
 <loadingscreentip>對於建造遍佈歐羅巴上遺跡的異星文明，除了據推測早已滅絕，關於它們的資訊少之又少，連遺跡的建造年代都是個謎，由於異星建築與其設備的自我修復特性，人類使用的各種年代測定法都變得非常不準確。</loadingscreentip>
 <loadingscreentip>沒有任何建造歐羅巴上遺跡的異星生命體殘骸被找到過。遺跡內部唯一發現過的生命體只有守衛著遺跡的生化造物。</loadingscreentip>
 <loadingscreentip>在探索遺跡或洞穴時，盡可能頻繁地投下信號彈作為路標，以免你遇上了什麼原因需要快速折返。</loadingscreentip>
-<loadingscreentip>獨目哨兵是種溫馴且富好奇心的生物：雖然不具攻擊性，牠們總是想靠近潛艇一探人類究竟在幹嘛。</loadingscreentip>
-<loadingscreentip>同類相食在藻鬃爬行者之間是常態。殺死一群爬行者中的一隻，其他爬行者們可能會因為對進食的渴望轉而使牠們把注意力集中在爭搶同類的屍體上。</loadingscreentip>
-<loadingscreentip>泥偶迅猛龍能夠用它們鋒利的喙輕鬆地咬穿並突破金屬門。</loadingscreentip>
-<loadingscreentip>一種名為畫皮的寄生蟲會慢慢掌控並吞噬宿主的軀體，最終將其變為一具完全由寄生蟲控制的空殼。</loadingscreentip>
-<loadingscreentip>歐羅巴上的大部分生物都有著堅硬、難以被常規武器破壞的外骨骼，但牠們的頑強盔甲上或許存在能夠被擊破的弱點。</loadingscreentip>
+<loadingscreentip>「獨目哨兵」是種溫馴且富好奇心的生物：雖然不具攻擊性，牠們總是想靠近潛艇一探人類究竟在幹嘛。</loadingscreentip>
+<loadingscreentip>同類相食在「藻鬃爬行者」之間是常態。殺死一群爬行者中的一隻，其他爬行者們可能會因為對進食的渴望轉而使牠們把注意力集中在爭搶同類的屍體上。</loadingscreentip>
+<loadingscreentip>「泥偶迅猛龍」能夠用它們鋒利的喙輕鬆地咬穿並突破金屬門。</loadingscreentip>
+<loadingscreentip>一種名為「畫皮」的寄生蟲會慢慢掌控並吞噬宿主的軀體，最終將其變為一具完全由寄生蟲控制的空殼。</loadingscreentip>
+<loadingscreentip>歐羅巴上的大部分生物都有著堅硬、難以被常規武器破壞的外骨骼，但牠們的頑強盔甲上都存在能夠被擊破的弱點。</loadingscreentip>
 <loadingscreentip>嘈雜的設備噪音或聲納脈衝都有可能會引起附近生物警覺。</loadingscreentip>
 <loadingscreentip>如果醫療技能不足，進行心肺復甦有可能會對患者的內臟造成損傷。</loadingscreentip>
 <loadingscreentip>使用嗎啡與吩坦尼等鴉片類藥物在緊急狀況下是非常有效的治療方式，但經常使用最終可能會導致成癮與危險的戒斷症狀。</loadingscreentip>
@@ -48,27 +48,27 @@
 <loadingscreentip>許多藥物有著意想不到的副作用。請密切關注患者的狀態，隨時準備其他藥物以備抵消這些副作用。</loadingscreentip>
 <loadingscreentip>在使用潛水面罩時，注意不要把焊接燃料罐和氧氣罐搞混了。</loadingscreentip>
 <loadingscreentip>潛水面罩可以讓你在水下呼吸，但不能幫助你抵禦足以碎骨的深水壓力。如果船體有較大的結構破損，請立即換上潛水服。</loadingscreentip>
-<loadingscreentip>當火災發生，燒傷不是唯一需要被注意的──大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
+<loadingscreentip>當火災發生，避免燒傷不是唯一需要被注意的──大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
 <loadingscreentip>穿越被稱為「熱液廢土」的區域時得格外注意，這裡不只有豐富的野生動物，地熱活動引發的水流變化更使航行變得加倍危險。</loadingscreentip>
 <loadingscreentip>歐羅巴上的一些固著生物會發出可能干擾潛艇聲納的低頻聲波。</loadingscreentip>
 <loadingscreentip>歐羅巴擁有豐富的自然資源，唯有目光敏銳、雄心勃勃、手拿電漿切割器的船長才有機會得到豐盛收穫。</loadingscreentip>
 <loadingscreentip>只要戴上別人的ID卡與一些面部偽裝你就能喬裝成他們。</loadingscreentip>
 <loadingscreentip>你可以在潛艇編輯器中將wifi元件與無線電連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
-<loadingscreentip>木星周圍的輻射帶使得在歐羅巴表面建立永久居所變得不切實際，因此所有歐羅巴的哨站都位於它冰凍的表殼之下。</loadingscreentip>
+<loadingscreentip>木星周圍的輻射帶使得在歐羅巴表面建立永久居所變得不切實際，因此所有歐羅巴的哨站都位於它的表殼冰層之中。</loadingscreentip>
 <loadingscreentip>歐羅巴的水下生態尚未被完全解讀，但普遍相信食物鏈的底層是由化合細菌組成。</loadingscreentip>
-<loadingscreentip>歐羅巴聯盟最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
+<loadingscreentip>「歐羅巴聯盟」最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
 <loadingscreentip>一項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
-<loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層之中的隧道與裂縫──介於表面冰層與其內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
+<loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層內部的隧道與裂縫──因為介於表面冰層與星球內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
 <loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體──丘腦。</loadingscreentip>
 <loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開指令介面來選擇可用的命令。</loadingscreentip>
 <loadingscreentip>在哨站惹事會降低你的聲望，聲望較低會導致當地居民向你收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
-<loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如木星分離主義分子的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
+<loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如「木星分離主義者」的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
 <loadingscreentip>小心獨目哨兵。別失去理智。</loadingscreentip>
-<loadingscreentip>橫跨表冰層與下方密度更大、更堅硬的次冰層的，是位於歐羅巴之眼最西側斜坡之上的歐羅巴之脊。溫暖的水透過對流到達那裡，使大量生命得以生存。</loadingscreentip>
-<loadingscreentip>無光海原位於被稱為歐羅巴之眼的古老隕石坑西側。與鄰近的歐羅巴之脊相似，無光高原的漆黑隧道網路是由其上方無比沉重冰層擠壓而成的、如岩石般堅硬的冰塊組成。</loadingscreentip>
-<loadingscreentip>歐羅巴上的大部分人類都居住在所謂的寒冷深隧中。由於此處相對接近地表，低水溫使這裡的生物多樣性遠遠不如其他區域、幾乎沒有植被且僅有些許藻鬃爬行者。</loadingscreentip>
-<loadingscreentip>冰刺是那些有時會出現在歐羅巴表殼隧道中的巨型冰柱。潛艇船員被建議儘量避免與其碰撞，又或者盡力將其摧毀，它們尖銳的邊緣能夠輕易劃傷船體。</loadingscreentip>
-<loadingscreentip>淵洋中發現的「壓電晶體」給船員們帶來了新的挑戰：航行過於靠近這些晶體有可能會使其干擾潛艇上的電力網。</loadingscreentip>
+<loadingscreentip>橫跨表冰層與下方密度更大、更堅硬的次冰層的，是位於「歐羅巴之眼」最西側斜坡之上的「歐羅巴之脊」。溫暖的水透過對流到達那裡，使大量生命得以生存。</loadingscreentip>
+<loadingscreentip>「無光海原」位於被稱作「歐羅巴之眼」的古老隕石坑西側。又與另一旁的「歐羅巴之脊」類似，無光高原的漆黑隧道系統也是因其上方無比沉重冰層擠壓，由如岩石般堅硬的冰塊組成。</loadingscreentip>
+<loadingscreentip>歐羅巴上的大部分人類都居住在所謂的「寒冷深隧」中。由於此處相對接近地表，低水溫使這裡的生物多樣性遠遠不如其他區域、幾乎沒有植被且僅有些許藻鬃爬行者。</loadingscreentip>
+<loadingscreentip>「冰刺」是那些有時會出現在歐羅巴表殼隧道中的巨型冰柱。潛艇船員被建議儘量避免與其碰撞，又或者盡力將其摧毀，它們尖銳的邊緣能夠輕易劃傷船體。</loadingscreentip>
+<loadingscreentip>在「淵洋」地區中發現的「壓電晶體」帶給了船員們新的挑戰：航行過於靠近這些晶體有可能會使其干擾潛艇上的電力網。</loadingscreentip>
 <loadingscreentip>在沒有足夠的醫學知識的情況下用藥可能會降低它們的效果。</loadingscreentip>
 <loadingscreentip>產生超出潛艇設備所需的電力將導致電壓過高，這能驅動部分設備 (如引擎和抽水機) 以比正常運轉更高的動力運作。但是部分設備則有可能因為過高的電壓而受損。</loadingscreentip>
 
@@ -1725,7 +1725,7 @@
 <missionname.pvpmission>搜索並殲滅</missionname.pvpmission>
 <missiondescriptionneutral.pvpmission>[location1]派出了一艘聯盟艦艇以摧毀位於[location2]邊界的反叛者船艦。</missiondescriptionneutral.pvpmission>
 <missiondescription1.pvpmission>於[location2]邊界偵測到一艘反叛者船艦，對聯盟的反叛可被處以死罪──以任何必要的手段消滅叛徒。</missiondescription1.pvpmission>
-<missiondescription2.pvpmission>你是木星分離主義分子，一個反聯盟組織的一員。根據來自[location1]的線報，一艘聯盟船艦已經被派出將你的艦艇擊沉，以任何必要的手段消滅對方。</missiondescription2.pvpmission>
+<missiondescription2.pvpmission>你是一個反聯盟組織，「木星分離主義者」的一員。根據來自[location1]的線報，一艘聯盟船艦已經被派出將你的艦艇擊沉，以任何必要的手段消滅對方。</missiondescription2.pvpmission>
 
 <missionname.abandonedoutposthumans>奪回哨站</missionname.abandonedoutposthumans>
 <missiondescription.abandonedoutposthumans>[location1]最近沒了音訊，恐怕它已經被誰給霸佔了，摧毀哨站的反應爐讓他們再也不敢回來。</missiondescription.abandonedoutposthumans>
@@ -2201,7 +2201,7 @@
 <entityname.divingknife>潛水刀</entityname.divingknife>
 <entitydescription.divingknife>刺、戳、切、砍。</entitydescription.divingknife>
 <entityname.bikehorn>自行車喇叭</entityname.bikehorn>
-<entitydescription.bikehorn>叭叭！</entitydescription.bikehorn>
+<entitydescription.bikehorn>叭噗！</entitydescription.bikehorn>
 <entityname.oxygenitetank>液態氧素罐</entityname.oxygenitetank>
 <entitydescription.oxygenitetank>裝有液態氧素的罐子。</entitydescription.oxygenitetank>
 <entityname.batterycell>乾電池</entityname.batterycell>
@@ -5831,7 +5831,7 @@
 <eventtext.missionevent_clownoutbreak.o2>「嘎！嘎！」</eventtext.missionevent_clownoutbreak.o2>
 <eventtext.missionevent_clownoutbreak.o2.c1>從遠處傳來的一聲喇叭聲認定你就是接下這份工作的人，在離開哨站時將會有一批貨物託付給你。</eventtext.missionevent_clownoutbreak.o2.c1>
 <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
-<eventtext.bigbrother.c1>從擴音系統傳來了一段廣播，「召集剛登上哨站的那群人員，請派出一位代表至行政辦公室與安全主管會面。」</eventtext.bigbrother.c1>
+<eventtext.bigbrother.c1>從擴音系統傳來了一段廣播，「召集剛登上哨站的那群人員，請派出一位代表與安全主管會面。」</eventtext.bigbrother.c1>
 <eventtext.bigbrother.c1.c1>「你就是那群新來的之一？很好，我這裡有個棘手的問題，但我現在沒辦法信任任何在我底下工作的人。」安全主管停頓了一下，看了看你，「一般來說，我不會隨便向陌生人尋求協助，但我已經別無選擇了。不必我多說，我需要你對這項的任務保密，有興趣嗎？」</eventtext.bigbrother.c1.c1>
 <eventtext.bigbrother.c1.o1>「跟我說說具體情況。」</eventtext.bigbrother.c1.o1>
 <eventtext.bigbrother.c1.o1.c1>主管點了點頭，「根據我們先前得到的線報，我們預期會有分離主義分子越獄。」他坦誠地說，「越獄是個棘手的問題，但更麻煩的是我有線索能夠懷疑在這一切中出了一個叛徒。」</eventtext.bigbrother.c1.o1.c1>
@@ -6576,7 +6576,7 @@
 <faction.clowns>小丑聖母之子</faction.clowns>
 <faction.clowns.description>每隔一段時間，那些流浪藝人、傻瓜、和小丑就會試著組織工會，那陣子「歐羅巴雜技協會」之類的組織就會出現。但實際上小丑聖母之子不過只是群聽從自行車喇叭召喚的烏合之眾。</faction.clowns.description>
 <faction.clowns.shortdescription>小丑聖母之子純粹是群聽從自行車喇叭召喚的烏合之眾。</faction.clowns.shortdescription>
-<faction.separatists>木星分離主義分子</faction.separatists>
+<faction.separatists>木星分離主義者</faction.separatists>
 <faction.separatists.description>一個不擇手段追求更加民主的社會的小規模地下組織，他們會發動示威甚至是恐怖行動，旨在干擾聯盟的運作並削弱它的權威。</faction.separatists.description>
 <faction.separatists.shortdescription>一個不擇手段追求更加民主的社會的小規模地下組織，他們會發動示威甚至是恐怖行動。</faction.separatists.shortdescription>
 <faction.huskcult>畫皮教會</faction.huskcult>
@@ -6990,7 +6990,7 @@
 <talentname.anappleaday>一天一蘋果</talentname.anappleaday>
 <talentname.thewaitinglist>候補名單</talentname.thewaitinglist>
 <talentname.thefriendswemade>交個朋友</talentname.thefriendswemade>
-<talentname.chonkyhonks>嗶嗶叭叭</talentname.chonkyhonks>
+<talentname.chonkyhonks>嗶嗶噗叭</talentname.chonkyhonks>
 <talentname.logisticssystems>物流系統</talentname.logisticssystems>
 <talentname.journeyman>老手</talentname.journeyman>
 <talentname.loyalassistant>忠誠助手</talentname.loyalassistant>
