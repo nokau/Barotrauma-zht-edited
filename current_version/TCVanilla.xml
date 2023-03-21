@@ -53,7 +53,7 @@
 <loadingscreentip>歐羅巴上的一些固著生物會發出可能干擾潛艇聲納的低頻聲波。</loadingscreentip>
 <loadingscreentip>歐羅巴擁有豐富的自然資源，唯有目光敏銳、雄心勃勃、手拿電漿切割器的船長才有機會得到豐盛收穫。</loadingscreentip>
 <loadingscreentip>只要戴上別人的ID卡與一些面部偽裝你就能喬裝成他們。</loadingscreentip>
-<loadingscreentip>你可以在潛艇編輯器中將wifi元件與無線電連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
+<loadingscreentip>你可以在潛艇編輯器中將wifi元件與聊天室連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
 <loadingscreentip>木星周圍的輻射帶使得在歐羅巴表面建立永久居所變得不切實際，因此所有歐羅巴的哨站都位於它的表殼冰層之中。</loadingscreentip>
 <loadingscreentip>歐羅巴的水下生態尚未被完全解讀，但普遍相信食物鏈的底層是由化合細菌組成。</loadingscreentip>
 <loadingscreentip>「歐羅巴聯盟」最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
@@ -2889,9 +2889,9 @@
 <entitydescription.extinguisherbracket>將滅火器固定在牆上。</entitydescription.extinguisherbracket>
 <entityname.weaponholder>武器架</entityname.weaponholder>
 <entitydescription.weaponholder>一個能整齊收納武器的位子。</entitydescription.weaponholder>
-<entityname.dockingport>對接艙口</entityname.dockingport>
+<entityname.dockingport>水平對接艙口</entityname.dockingport>
 <entitydescription.dockingport>一個垂直的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockingport>
-<entityname.dockinghatch>對接艙口</entityname.dockinghatch>
+<entityname.dockinghatch>垂直對接艙口</entityname.dockinghatch>
 <entitydescription.dockinghatch>一個水平的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
 <entityname.ductblock>排水口</entityname.ductblock>
 <entitydescription.ductblock>一個可以被打開或關閉來控制水流的機械式通道。</entitydescription.ductblock>
