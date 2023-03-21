@@ -1065,7 +1065,7 @@
 <Conversation line="我不敢相信他們又投給了Ignatius May。" speaker="0" flags="OutpostNPCSeparatists">
 	<Conversation line="你不會覺得聯盟真有給人們選擇的機會吧？" speaker="1" flags="OutpostNPCSeparatists">
 		<Conversation line="顯然是沒有，但為什麼沒人出來抗議呢？" speaker="0">
-			<Conversation line="為紀念前輩的付出而無薪工作一日？太荒謬了！speaker="0">
+			<Conversation line="為紀念前輩的付出而無薪工作一日？太荒謬了！" speaker="0">
 				<Conversation line="為我和我的手下當奴隸來紀念你的祖先為我的祖先當奴隸！" speaker="1"/>
 			</Conversation>
 		</Conversation>
