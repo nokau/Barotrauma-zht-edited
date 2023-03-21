@@ -158,7 +158,7 @@
 <randomnews30>聯盟造船廠祝融──安全人員指控蒙面恐怖份子「煙燻人」</randomnews30>
 <randomnews31>今夜深航：煙燻人──謎樣的蒙面變節者</randomnews31>
 <randomnews32>畫皮教派領袖Jacov Subra仍逍遙法外</randomnews32>
-<randomnews33>Ignatius May連任內務部主席，有關他利用裙帶關係的指控此起彼伏</randomnews33>
+<randomnews33>Ignatius May連任內務主席，有關他利用裙帶關係的指控此起彼伏</randomnews33>
 <randomnews34>木星崇拜和非線性的空間與時間：密碼學揭示古代異星文化新線索</randomnews34>
 <npctitle.merchantclown>小丑商人</npctitle.merchantclown>
 <npctitle.merchanthusk>邪教徒商人</npctitle.merchanthusk>
@@ -234,12 +234,12 @@
 <entityname.bananapeel>香蕉皮</entityname.bananapeel>
 <entitydescription.bananapeel>富含鉀元素。如果擺在地上則會產生安全疑慮。</entitydescription.bananapeel>
 <entityname.cymbals>攝魂鈸</entityname.cymbals>
-<entitydescription.cymbals>一對用於小丑聖母教派進行冥想練習所用的鈸。攝魂材質使這對鈸發出獨特而可憎的巨大聲響讓外行人頭暈目眩。</entitydescription.cymbals>
+<entitydescription.cymbals>一對小丑聖母之子用於冥想練習所用的鈸。攝魂材質使這對鈸發出獨特而可憎的巨大聲響讓外行人頭暈目眩。</entitydescription.cymbals>
 <entityname.clowncrate>小丑箱</entityname.clowncrate>
 <entitydescription.clowncrate>一個大小足以容納一位搗蛋鬼的箱子。</entitydescription.clowncrate>
 <itemmsggoinside>[[use]] 進入</itemmsggoinside>
 <entityname.clownexosuit>歡樂製造機3000</entityname.clownexosuit>
-<entitydescription.clownexosuit>小丑聖母教派的科技結晶: 一架配有強大惡作劇武力的核能動力服。</entitydescription.clownexosuit>
+<entitydescription.clownexosuit>來自小丑聖母之子的科技結晶：一架配有強大惡作劇武力的核能動力服。</entitydescription.clownexosuit>
 <clownexosuitweapon>爆裂叭叭</clownexosuitweapon>
 <entityname.honkmotherianscriptures1>小丑聖經：歡樂九章 (I-III)</entityname.honkmotherianscriptures1>
 <pillarsoffun1>I. 能被傳述的叭叭不是永恆的叭叭。能被叫出名諱的小丑聖母不是永恆的小丑聖母。無名者才是舞臺的靈魂。有名者是場戲、是演員、是觀眾、是他們之間的那面牆。從嚴肅中解放，如此就能看到隱藏的秘密。嚴肅的雙眼只能看到眼前的真相。\n\nII. 我們把氣球塑造成動物的形狀，但當中的虛無才是真正為氣球塑形。我們利用物質，但真正運用的介於虛實。\n\nIII. 最高級的樂趣不是創造樂趣，而是讓自己成為樂趣。嚴肅之人總在找樂子，最後只發現那種歡樂無法持續。嚴肅之人榨乾生命賦予的檸檬，最後只發現酸澀的汁液。</pillarsoffun1>
@@ -281,7 +281,7 @@
 <eventtext.separatistspecialhire1.o1.o1.o1.c1>「好極了！不過既然如此，別再叫我長官了，我是你的船員，不是你的上級。我等不及要參與我們一起的第一個任務了！」</eventtext.separatistspecialhire1.o1.o1.o1.c1>
 <eventtext.separatistspecialhire1.o1.o1.o2>「我備感榮幸，但我們得考慮一下。」</eventtext.separatistspecialhire1.o1.o1.o2>
 <eventtext.separatistspecialhire1.o1.o1.o2.c1>「明白。不過，要是你改變主意決定讓我上船，我們還是能在哪個分離主義哨站上見到面的。」</eventtext.separatistspecialhire1.o1.o1.o2.c1>
-<eventtext.separatistspecialhire1.repeat>「又見面了。你重新考慮過我的提議了嗎？有意願讓我登船嗎？」</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.repeat>「又見面了。你們重新考慮過我的提議了嗎？有意願讓我登船嗎？」</eventtext.separatistspecialhire1.repeat>
 <eventtext.separatistspecialhire1.o1.o1.repeat>「是的，我們確實還缺一位安全官。歡迎登艦，長官！」</eventtext.separatistspecialhire1.o1.o1.repeat><!--ma'am-->
 <eventtext.separatistspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.separatistspecialhire1.o1.o2.repeat>
 <eventtext.separatistspecialhire2.c1>有個看似剛從柴油發電機的排氣管裡爬出來的人朝你走了過來\n\n「嘿，我一直在找你呢。」</eventtext.separatistspecialhire2.c1>
@@ -294,73 +294,73 @@
 <eventtext.separatistspecialhire2.o1.o1.o2>「我們得考慮一下。」</eventtext.separatistspecialhire2.o1.o1.o2>
 <eventtext.separatistspecialhire2.o1.o1.o2.c1>「好吧。」</eventtext.separatistspecialhire2.o1.o1.o2.c1>
 <eventtext.separatistspecialhire2.repeat>「怎麼樣？船上有我適合的位置嗎？」</eventtext.separatistspecialhire2.repeat>
-<eventtext.coalitionspecialhire2.c1>You notice an old lady with a familiar-looking face. Aunt Doris! Her food kiosk franchise might leave something to be desired, but her cooking shows have always been excellent.\n\nTo your surprise, she approaches you. “Well hello there! I heard you and your troop were in the neighborhood, so I came here in hopes of running into you.”</eventtext.coalitionspecialhire2.c1>
-<eventtext.coalitionspecialhire2.o1>“It's nice to meet you, ma'am! What can we do for you?”</eventtext.coalitionspecialhire2.o1>
-<eventtext.coalitionspecialhire2.o1.c1>“This may be a bit silly, but I suppose no harm in asking! You see, I've been having a…how should I put this…late-life crisis as of late. As I'm sure you know, I've been hosting cooking shows, running my restaurants and whatnot for almost four decades now. Hearing stories of your crew's wild adventures, all the things you've done to help make our little moon something better, I just can't help feeling curious about what life as a submariner would've been like.”</eventtext.coalitionspecialhire2.o1.c1>
-<eventtext.coalitionspecialhire2.o1.o1>“It's not a life for everyone.”</eventtext.coalitionspecialhire2.o1.o1>
-<eventtext.coalitionspecialhire2.o1.o1.c1>“Yes, I bet! But it sure is something I'd love to take a shot at. And you know, I'm not as soft as I may look—as a young girl, back in my activist days, I bashed in more filthy separatist heads than you'd believe. And I loved every second of it! I also know a thing or two about medicine, and there isn't an animal on Europa I don't know how to slice.\n\nSo, how about it, would you give this old-timer a chance in your crew? I'd love nothing more than to do my part in our fight for a better Europa!”</eventtext.coalitionspecialhire2.o1.o1.c1>
-<eventtext.coalitionspecialhire2.o1.o1.o1>“How could I say no! Welcome on board, ma'am!”</eventtext.coalitionspecialhire2.o1.o1.o1>
-<eventtext.coalitionspecialhire2.o1.o1.o1.c1>“Oh, splendid! I'll just grab a few things and meet you on board!”</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
-<eventtext.coalitionspecialhire2.o1.o1.o2.c1>“I understand. Take all the time you need, dear!”</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
-<eventtext.coalitionspecialhire2.repeat>“Oh, hello again! Have you thought about letting me join you folks?”</eventtext.coalitionspecialhire2.repeat>
-<eventtext.clownspecialhire1.c1>“Always happy to run into you folks! You know, I actually had a fun idea I'd like to talk to you about.”</eventtext.clownspecialhire1.c1>
-<eventtext.clownspecialhire1.o1>“Of course, I'm all ears!”</eventtext.clownspecialhire1.o1>
-<eventtext.clownspecialhire1.o1.c1>“You see, life inside the confines of this outpost can get quite dull at times. It's not often we get visitors I could guide on their path, and I can't help wondering how much more I could give if I embarked on a journey like yours. A joke you've never heard before tends to be funnier than one you've heard a thousand times, wouldn't you agree?”</eventtext.clownspecialhire1.o1.c1>
-<eventtext.clownspecialhire1.o1.o1>“I see what you mean. Do tell me about this idea of yours!”</eventtext.clownspecialhire1.o1.o1>
-<eventtext.clownspecialhire1.o1.o1.c1>“I was wondering, would your crew happen to have any room for an extra assistant? Getting to join you on your adventures would make this old fool happier than you can imagine. Even though I've never been a submariner, I've got quite a few tricks up my sleeve that might be of use to use.”</eventtext.clownspecialhire1.o1.o1.c1>
-<eventtext.clownspecialhire1.o1.o1.o1>“By the Honkmother, of course! Welcome on board!”</eventtext.clownspecialhire1.o1.o1.o1>
-<eventtext.clownspecialhire1.o1.o1.o1.c1>“Wonderful! I'm honored to join you.”</eventtext.clownspecialhire1.o1.o1.o1.c1>
-<eventtext.clownspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.clownspecialhire1.o1.o1.o2>
-<eventtext.clownspecialhire1.o1.o1.o2.c1>“I understand. I'm sure you'll run into me again—let me know when you've made up your mind!”</eventtext.clownspecialhire1.o1.o1.o2.c1>
-<eventtext.clownspecialhire1.repeat>“A jolly day to you! Have you thought about my proposal? Would you be willing to let me join you folks?”</eventtext.clownspecialhire1.repeat>
-<eventtext.clownspecialhire1.o1.o1.repeat>“I think we have room for an extra assistant. Welcome on board!”</eventtext.clownspecialhire1.o1.o1.repeat>
-<eventtext.clownspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.clownspecialhire1.o1.o2.repeat>
-<eventtext.huskcultspecialhire1.c1>A familiar-looking man walks up to you. “Hey, it's you! I was actually hoping I'd run into you again.”</eventtext.huskcultspecialhire1.c1>
-<eventtext.huskcultspecialhire1.o1>“Pleasure to meet you again as well, Mr. Subra!”</eventtext.huskcultspecialhire1.o1>
-<eventtext.huskcultspecialhire1.o1.c1>“How about we set the courtesies aside and cut to the chase. It's not every day we come across a submarine crew as open-minded as yours, much less one this competent. So I've got a proposition for you that'd take this collaboration between you and the Church even further. And, well, if I'm quite honest, this'd also be a gracious gift for me personally.”</eventtext.huskcultspecialhire1.o1.c1>
-<eventtext.huskcultspecialhire1.o1.o1>“I'm listening.”</eventtext.huskcultspecialhire1.o1.o1>
-<eventtext.huskcultspecialhire1.o1.o1.c1>“To put it simply, I've been itching to join your crew for some time now, even before that ordeal with the bounty hunters. The work you've been doing for the Church has been phenomenal, and if I were to join forces with you, I believe together we could drown this world in the grace of our lord. And again, if I'm completely honest, I've been dying to get a taste of life in the untamed waters outside the outposts. So, what say you?”</eventtext.huskcultspecialhire1.o1.o1.c1>
-<eventtext.huskcultspecialhire1.o1.o1.o1>“How could I say no! Welcome to our crew, brother!”</eventtext.huskcultspecialhire1.o1.o1.o1>
-<eventtext.huskcultspecialhire1.o1.o1.o1.c1>“Fantastic! I'll meet you on board.”</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
-<eventtext.huskcultspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.huskcultspecialhire1.o1.o1.o2>
-<eventtext.huskcultspecialhire1.o1.o1.o2.c1>“Absolutely, take all the time you need.”</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
-<eventtext.huskcultspecialhire1.repeat>“A pleasure to meet you again, brother. So, have you thought about my proposition? Would you have room for one more crewmate?”</eventtext.huskcultspecialhire1.repeat>
-<eventtext.huskcultspecialhire1.o1.o1.repeat>“We'd be thrilled to have you.”</eventtext.huskcultspecialhire1.o1.o1.repeat>
-<eventtext.huskcultspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.huskcultspecialhire1.o1.o2.repeat>
-<eventtext.coalitionspecialhire1.announcement>An announcement comes over the PA: “Calling the crew of the vessel that just docked. Please report to administration immediately.”</eventtext.coalitionspecialhire1.announcement>
-<eventtext.coalitionspecialhire1.c1>An old man in an expensive-looking uniform walks up to you and shakes your hand. “Ah, there you are. I was starting to wonder whether the PA system worked. Anyhow, it's a pleasure to meet you! I heard your crew was heading this way and had to come and meet you in person. If you can spare a moment, I'd like to propose you something.”</eventtext.coalitionspecialhire1.c1>
-<eventtext.coalitionspecialhire1.o1>“I'm sorry, who are you again?”</eventtext.coalitionspecialhire1.o1>
-<eventtext.coalitionspecialhire1.o1.c1>“Ah, excuse my manners—it's not every day I get to meet a national hero like you! Ignatius May, the Captain of Internal Affairs of the Europa Coalition. I've been keeping an eye on your crew's accomplishments for some time now, and in fact, many of the missions you've undertaken were commissioned by me. On behalf of the Europa Coalition, I would like to extend our utmost gratitude to you and your crew for your service.”</eventtext.coalitionspecialhire1.o1.c1>
-<eventtext.coalitionspecialhire1.o1.o1>“Thank you, sir! Might I ask what this proposition is you mentioned?”</eventtext.coalitionspecialhire1.o1.o1>
-<eventtext.coalitionspecialhire1.o1.o1.c1>“Straight to business, eh? I like it! To cut to the chase, I'm looking to join your crew. It's been a long time since I've seen some real action, and your crew's endeavors have made me itch to get back out there, to really get my hands dirty and do something tangible for the Coalition.”</eventtext.coalitionspecialhire1.o1.o1.c1>
-<eventtext.coalitionspecialhire1.o1.o1.o1>“We'd be honored to have you with us, sir!”</eventtext.coalitionspecialhire1.o1.o1.o1>
-<eventtext.coalitionspecialhire1.o1.o1.o1.c1>“Fantastic! I'll meet you on board.”</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
-<eventtext.coalitionspecialhire1.o1.o1.o2>“We need to think about this a bit.”</eventtext.coalitionspecialhire1.o1.o1.o2>
-<eventtext.coalitionspecialhire1.o1.o1.o2.c1>“Uh, I did not intend this to be a request. But out of respect for you and your crew, I won't insist. I'm sure we'll run into each other again—let me know if you've made up your mind then.”</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
-<eventtext.coalitionspecialhire1.repeat>“Hello again. So, have you considered my proposition?”</eventtext.coalitionspecialhire1.repeat>
-<eventtext.coalitionspecialhire1.o1.o1.repeat>“We'd be thrilled to have you join us, sir.”</eventtext.coalitionspecialhire1.o1.o1.repeat>
-<eventtext.coalitionspecialhire1.o1.o2.repeat>“I'm afraid we don't have room for more crew, but I'll let you know if that changes!”</eventtext.coalitionspecialhire1.o1.o2.repeat>
-<EventText.youngcultists.c1>A couple of robed figures are huddled around someone lying on the floor. You're not sure if they're trying to restrain or resuscitate the person—who is convulsing violently, as if having some kind of a seizure. One of the robed figures notices you. “Hey, you! Throw me a syringe of calyxanide from that cabinet over there!”</EventText.youngcultists.c1>
-<EventText.youngcultists.o1>Toss them a syringe from the cabinet next to you.</EventText.youngcultists.o1>
-<EventText.youngcultists.o1.c1>You toss them the syringe that says "calyxanide," and as soon as they inject it in the spasming man's neck, he settles down. One of the robed figures seems angry. “Mark, you impatient idiot, how many times have we told you you're not ready for the Gift yet?!”</EventText.youngcultists.o1.c1>
-<EventText.youngcultists.o1.o1>“What is going on here?”</EventText.youngcultists.o1.o1>
-<EventText.youngcultists.o1.o1.c1>The robed characters turn to look at you. Getting a better look at their faces, they seem very young. “We just had a little medical emergency of sorts. Our friend thought it would be fun to...go on a little trip, if you know what I mean. Thanks for the help! If you don't mind, let's keep this just between us.”</EventText.youngcultists.o1.o1.c1>
-<EventText.youngcultists.o1.o1.o1>“This feels awfully suspicious. Tell me what you were doing to that man or I'll report you to the authorities.”</EventText.youngcultists.o1.o1.o1>
-<EventText.youngcultists.o1.o1.o1.c1>The group glance at each other nervously. “Look, we don't want any trouble. Our brother here was too eager to meet the great husk, and it was taking him over. But we've got it contained now, and everyone is fine. Won't happen again. No need to tell the whole outpost, or our sect for that matter. It would ruin our careers if they found out he tried to jump the line!”</EventText.youngcultists.o1.o1.o1.c1>
-<EventText.youngcultists.o1.o1.o1.o1>“Your sect? You're members of the Church of the Husk? I thought your whole schtick was to get taken over by the parasite.”</EventText.youngcultists.o1.o1.o1.o1>
-<EventText.youngcultists.o1.o1.o1.o1.c1>“Parasite? A parasite does nothing but take; the husk gives! It can take you way beyond the limits of that fleshbag you call your body! But not like this, not if you're not ready to take it in. Or, ahem, so the Ecclesiasts speak, anyway.”</EventText.youngcultists.o1.o1.o1.o1.c1>
-<EventText.youngcultists.o1.o1.o1.o1.o1>Enough of this cultist bullshit. Alert the outpost security.</EventText.youngcultists.o1.o1.o1.o1.o1>
-<EventText.youngcultists.o1.o1.o1.o1.o1.c1>You contact outpost security via radio, informing them of the suspicious activity going on in this module.</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
-<EventText.youngcultists.o1.o1.o1.o1.o2>“I've grown quite fond of this fleshbag, thank you. I'll see myself out now.”</EventText.youngcultists.o1.o1.o1.o1.o2>
-<EventText.youngcultists.o1.o1.o1.o1.o3>“If I wanted to rise beyond those limits, how would I go about that?”</EventText.youngcultists.o1.o1.o1.o1.o3>
-<EventText.youngcultists.o1.o1.o2>“Easy, dear brothers. I just want to know why you'd want to stop this man's transformation into a husk.”</EventText.youngcultists.o1.o1.o2>
-<EventText.youngcultists.o1.o1.o2.c1>Their stern expressions ease up. “You saw the way he was spasming, didn't you? That's not what an ascension looks like. The symbiote was about to consume him, to take him over. He's clearly not ready to be one with the symbiote yet.”</EventText.youngcultists.o1.o1.o2.c1>
-<EventText.youngcultists.o1.o1.o2.o1>“I see. If one was interested in 'becoming one with the symbiote,' how should they go about that?”</EventText.youngcultists.o1.o1.o2.o1>
-<EventText.youngcultists.o1.o1.o2.o1.c1>“Well, to be honest, we're just fresh converts. I don't know if we're the best people to answer that. Our Ecclesiasts say you need to be ready for the Gift, to truly open up your heart, mind, and all parts of your flesh before you can take the Communion. There's these...rituals, and tools, for appeasing and welcoming the holy symbiote and bringing about the metamorphosis. But we don't really know much about those yet. I'm sure an Ecclesiast would happily tell you more, if you can find one!”</EventText.youngcultists.o1.o1.o2.o1.c1>
-<EventText.youngcultists.o1.o1.o2.o1.o1>Wish the charming young fellows farewell and a pleasant and timely ascension.</EventText.youngcultists.o1.o1.o2.o1.o1>
-<EventText.youngcultists.o1.o1.o2.o1.o2>Enough of this cultist bullshit. Alert the outpost security.</EventText.youngcultists.o1.o1.o2.o1.o2>
-<EventText.youngcultists.o1.o1.o2.o2>“I thought your whole schtick was to get taken over by the parasite.”</EventText.youngcultists.o1.o1.o2.o2>
-<EventText.youngcultists.o2>This seems shady. Better to not get involved.</EventText.youngcultists.o2>
+<eventtext.coalitionspecialhire2.c1>你住一到了眼熟的年長女士。是Doris阿姨！她的連鎖餐飲店或許還有進步空間，但她的烹飪秀一直都棒極了。\n\n意料之外，她向你走了過來。「你好啊！我聽說你和你的隊伍到這裡來了，我就想過來看看能不能遇見你們。」</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>「很高興見到你，女士！有什麼我們幫得上忙的嗎？」</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>「這個想法可能有點傻，但是問問應該也不礙事！我現在，怎麼說呢...最近算是遇到晚年危機了吧。你肯定也知道，這四十年來我一直都在主持烹飪秀、開餐館之類的。不過我聽說了你們的冒險故事，你們做了許多讓我們這顆月亮變得更美好的事情，那讓我很好奇潛艇上的生活是什麼樣子的。」</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>「不是每個人都能適應的。」</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>「是的，我知道！但我還是想試試。而且我也不像看起來的那樣柔弱──我年輕的時候，還是一個激進份子的時候，幹掉過不少噁心的分離主義份子，那可真是段好時光！我也懂些醫療知識，更別說歐羅巴上沒有我宰不動的生物。\n\n所以，你說呢，我這老太太有機會加入你的團隊嗎？我願意為了讓歐羅巴變得更美好而戰！」</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>「我怎麼能拒絕呢！歡迎登艦，女士！」</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>「噢，太好了！讓我回去拿點東西，船上見！」</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>「我了解。慢慢來，親愛的！」</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>「哦，又見面了！你考慮過讓我加入你們了嗎？」</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>「總是很高興見到你們！知道嗎，我有些有趣的想法想告訴你們。」</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>「當然，我洗耳恭聽！」</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>「你也知道，在哨站上的生活有時候蠻無聊的。又不是每位訪客都想要我幫他們帶路，這讓我想，要是我像你們一樣展開旅途能幫上多少人。一個新笑話總比聽了幾百遍的笑話好笑，你認為呢？」</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>「我懂你的意思，那你的提議是？」</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>「我想問，不曉得你們還缺不缺助手？如果能和你們一起冒險，我這個老傻瓜會很開心的。雖然我從沒上過潛艇，但我還是有些招數或許哪裡能用得上。」</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>「小丑聖母在上，當然了！歡迎登艦！」</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>「太好了！很榮幸加入你們。」</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>「我瞭解了。不過你們肯定還有機會再遇到我的──如果你們改變主意記得跟我說！」</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>「你好啊！你們考慮過我的提議了嗎？你們願意讓我加入你們嗎？」</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>「我想我們確實還缺一位助手，歡迎登艦！」</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>一位眼熟的男人像你走來。「嘿，是你！我一直想再見到你呢。」I was actually hoping I'd run into you again.”</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>「很高興再次見到您，Subra先生！」</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>「就別客套了，我們直接切入正題。不是每天都能遇見像你們這樣開明又有能力的人。所以我有個提議讓你們和教會之間的合作更加緊密。而且，誠實地說，這對我個人而言也是一個很好的禮物。」</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>「我洗耳恭聽。」</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>「簡單地說，我在被賞金獵人追殺前就想加入你們了。你對教會的貢獻非凡，要是我們合作，很快我們就能把這個世界浸沒在神的榮耀之中。另外，再誠實一點地說，我實在太想體驗哨站外那惡水中的生活了。怎麼樣，你說呢？」</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>「我怎麼能說不呢！歡迎加入我們，兄弟！」</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>「太好了！我們船上見。」</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>「沒有問題，你們盡量考慮。」</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>「很高興又見面了，弟兄。你們考慮過我的提議了嗎？你們的團隊還有空位嗎？」</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>「你能加入我們真是太好了。」</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>從廣播系統傳來了聲音：「召集剛登上哨站的那群人員，請立刻向管理室報到。」</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>一位身著華貴制服的老男人向你走來，和你握了握手。「啊，終於見面了。我正開始覺得廣播系統是不是故障了。總之，很高興見到你！我聽說你們正要前往這裡就想親自見你們一面。要是你不敢時間，我有些建議。」</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>「不好意思，請問你是？」</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>「啊，失禮了──不是每天我都能見到像你這樣的英雄！Ignatius May，歐羅巴聯盟內務主席。我關注你們的貢獻行為一段時間了，事實上你們承接的不少任務都是由我委託。我代表歐羅巴聯盟對你和你的船員表示最由衷的感謝。」</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>「謝謝你，長官！容我發問你剛才提到的建議是什麼嗎？」</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>「開門見山，我喜歡！那我就直說了，我想成為你的船員。我已經很久沒有參與過真正的行動了，看到你和船員們的努力使我心癢難耐，我也想親自上場，為聯盟做些更實際的事情。」</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>「很榮幸你能加入我們，長官！」</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>「太好了！我們船上見。」</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>「呃，這並不是請求。但出於尊重，我不會強迫你們。我相信我們之後有機會再見面──屆時再讓我知道你們是否改變了主意。」</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>「又見面了。你們考慮過我的提議了嗎？」</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>「你能加入我們真是太好了，長官。」</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>幾個穿著長袍的人圍在一個躺在地上的人身邊。那個人劇烈地抽搐，仿佛是癲癇發作──你沒辦法確定周圍的人是在抑制他的顫抖或是在為他做心肺復甦。其中一位穿著長袍的人注意到了你。「嘿，你！從那個櫃子裡拿管皮蟲淨丟給我！」</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>從櫃子裡拿藥丟給他們。</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過你多少遍你還沒準備好接受『餽贈』？！」</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「剛才算是一場小型急救吧。我們的朋友想說...來點刺激的會很好玩，你懂吧。感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，否則我要去報案了。」</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了。但我們制住他了，一切安好。沒有下次了。不需要知會整個哨站，或是我們的教會。要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>「教會？你們是畫皮教會的人？我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>「寄生蟲？寄生蟲只知索取；畫皮則會給予！它能讓你超越被稱為人類肉體那臭皮囊的限制！但不是像剛才那樣，你得做好準備才有辦法接受它。或者...至少教士是這樣說的。」</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>你以無線電聯絡哨站守衛，通知他們在這個區域發生可疑活動。</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>「不了，我喜歡我這皮囊。先走了。」</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>「如果說我想要超越極限，那該怎麼做？」</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>「別擔心，親愛的兄弟姊妹們。我只是想知道為什麼你們會想阻止那位仁兄進行轉化。」</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>他們凝重的表情放鬆了些。「你也看到他剛剛的樣子了吧？昇華不該是那樣子的。共生體方才是要將他吞噬，要取代他。他顯然還沒做好與共生體交融的準備。」</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>「原來如此。那如果一個人或有興趣想要『與共生體交融』的話，得做什麼準備呢？」</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人。我不覺得我們有辦法回答那些問題。教士們說要最好準備能接受這份饋贈，你得你得敞開自己的心、思想、與全部肉體，才有辦法度過『聖餐』。有一些...儀式、工具之類的，用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>與那些熱情的年輕人道別，並祝他們的昇華能能夠愉快又短暫。</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>「我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>那看起來真可疑，最好別插手。</EventText.youngcultists.o2>
 <EventText.waytoascension1.c2>You overhear two robed figures in deep discussion. “To be honest, I find those kinds of drug-fueled sodomite parties distasteful, a perversion of what a real Communion ought to be.” The one wearing a more elaborately decorated robe shrugs. “As an Ecclesiast I must concur, although just between you and me, I do believe it can also be good for the acolytes to test their limits every once in a while—you must know where your limits are if you’re striving to surpass them!”</EventText.waytoascension1.c2>
 <EventText.waytoascension1.o5>“Excuse me, did you say you’re an Ecclesiast of the Church of Husk?”</EventText.waytoascension1.o5>
 <EventText.waytoascension1.o5.c1>The robed man turns to look at you, and judging by his expression, you suspect you've just heard something not meant for your ears. “Who might you be, and what’s your business here?” he asks.</EventText.waytoascension1.o5.c1>
@@ -450,138 +450,138 @@
 <EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>“What's next?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
 <EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>“That is for you to find out. But now, go—the humans must be coming. We'll meet again.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.waytoascension5.c1.o2>“Hold on. We need a moment.”</EventText.waytoascension5.c1.o2>
-<EventText.pathofthebikehorn1.c1>Someone wearing a peculiar-looking clown costume approaches you and pulls you aside. “I have not seen you here before—may I ask what brings you here? Are you jolly people, if you catch my drift?”</EventText.pathofthebikehorn1.c1>
-<EventText.pathofthebikehorn1.o1>“We're just passing through. What do you mean by jolly people?”</EventText.pathofthebikehorn1.o1>
-<EventText.pathofthebikehorn1.o1.c1>“People who heed the call of the bike horn: jokers, jesters and fools! Me and my un-disciples have found ourselves a nice and safe corner of the world here, and we hope we can keep it that way.”</EventText.pathofthebikehorn1.o1.c1>
-<EventText.pathofthebikehorn1.o1.o1>“Un-disciples? Is that to say you're some kind of leader?”</EventText.pathofthebikehorn1.o1.o1>
-<EventText.pathofthebikehorn1.o1.o1.c1>“No, no, I am no leader! I'm a Jestmaster—one might call me a teacher, but I'd rather say I guide people to the path of the bike horn.”</EventText.pathofthebikehorn1.o1.o1.c1>
-<EventText.pathofthebikehorn1.o1.o1.o1>“Could you teach us about the path of the bike horn?”</EventText.pathofthebikehorn1.o1.o1.o1>
-<EventText.pathofthebikehorn1.o2>“If it was up to me, we'd round up all you useless ‘jolly people’ and send you to a work camp, if you catch my drift.”</EventText.pathofthebikehorn1.o2>
-<EventText.pathofthebikehorn1.o2.c1>“That makes me a sad clown. But I don't judge: You're not the only one blinded by their lies. But if you ever change your mind and feel like opening your eyes, the Jestmaster might be willing to show you the path!”</EventText.pathofthebikehorn1.o2.c1>
-<EventText.pathofthebikehorn1.o2.o1>“I have no interest in this nonsense. Goodbye.”</EventText.pathofthebikehorn1.o2.o1>
-<EventText.pathofthebikehorn1.o2.o2>“Could you tell me more about 'the path,' whatever that means?”</EventText.pathofthebikehorn1.o2.o2>
-<EventText.pathofthebikehorn1.o2.o2.c1>“Hmm, I can't help feeling a little suspicious of your intentions after that work camp talk! Although, were you to put on a more appropriate costume, I might gain a little more trust in your sincerity…”</EventText.pathofthebikehorn1.o2.o2.c1>
-<EventText.pathofthebikehorn1.o2.o2.o1>“Fine, I'll get back to you in a bit.”</EventText.pathofthebikehorn1.o2.o2.o1>
-<EventText.pathofthebikehorn1.o2.o2.c1.c1>“No clown costume, no talk!”</EventText.pathofthebikehorn1.o2.o2.c1.c1>
-<EventText.pathofthebikehorn1.o3>“You don't need to worry about us. May the Honkmother bless you and your outpost!”</EventText.pathofthebikehorn1.o3>
-<EventText.pathofthebikehorn1.o3.c1>“Praised be the Honkmother! I was worried you're one of the serious folk who don't like me guiding people to the path of the bike horn.”</EventText.pathofthebikehorn1.o3.c1>
-<EventText.pathofthebikehorn1.o3.o1>“Could you teach us about the path of the bike horn?”</EventText.pathofthebikehorn1.o3.o1>
-<EventText.pathofthebikehorn1.o3.o1.c1>“That's the spirit! I don't like to call myself a teacher, and the reason is that I have nothing to teach you—that is on you. But what I can do is point you in the right direction, and perhaps you'll come to see the truth for yourself some day. To this end, I'd like to give you and your crew a little task that serves as your first step toward the Honkmother's embrace.”</EventText.pathofthebikehorn1.o3.o1.c1>
-<EventText.pathofthebikehorn1.o3.o1.o1>“I'm listening.”</EventText.pathofthebikehorn1.o3.o1.o1>
-<EventText.pathofthebikehorn1.o3.o1.o1.c1>“You see this mask I'm wearing? There aren't many like it left on this moon, but if you put your heart into it, I'm sure you'll eventually find one during your travels. When you do, bring it to me or one of the other Jestmasters, and we'll see where that takes us! Oh, and please have this, some light reading for your travels! Ta-ta!”</EventText.pathofthebikehorn1.o3.o1.o1.c1>
-<EventText.pathofthebikehorn2.c1>“Blessed be the Honkmother, it's you again! How's it going?”</EventText.pathofthebikehorn2.c1>
-<EventText.pathofthebikehorn2.o1>“I've retrieved the mask as you asked.”</EventText.pathofthebikehorn2.o1>
-<EventText.pathofthebikehorn2.o1.c1>“I can see that! Congratulations! You can keep it—as you can see, I already have one. Or throw it away if you feel like it. It's just a mask, and a pretty ugly one, too, if you ask me.”</EventText.pathofthebikehorn2.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1>“Why did you want me to get it then?”</EventText.pathofthebikehorn2.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.c1>“The task itself was menial, wasn't it, like an unimaginative fetch quest in a children's role-playing game? But did you have fun while looking for it? I'm sure you ran into all sorts of trouble along the way, and I'm sure it was quite an adventure, something you even enjoyed at times. I bet you wouldn't have become a submariner if you didn't! So, perhaps I should ask you instead why you wanted to get it—or for that matter, why you want to keep cruising around Europa doing all sorts of tasks for people.”</EventText.pathofthebikehorn2.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1>“I suppose I do enjoy the adventure, but what does this have to do with the path of the bike horn?”</EventText.pathofthebikehorn2.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.c1>“Fun and games, fun and games! I chose a quest in a game as the analogy for a reason: When you go a bit further than that, all social institutions are games. And if you really get to the bottom of things, the whole world is a system of games: There's the people game, the crawler game, the game of bilging the hatches, stowing the afts and all those submariner things you do…”</EventText.pathofthebikehorn2.o1.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1>“Okay…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>“But be careful of the word 'game'! It doesn't mean this is all meaningless. It's like we're playing a song: It's not that serious, but at the same time it can be very sincere. It can take all sorts of beautiful forms in all their complexity, for no reason at all beyond just doing them. Like this!” The Jestmaster honks his bike horn in your face.</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>“I think I get what you mean. So, what's next?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>“Ooh boy, this one is going to be something! First of all, I want you to get yourself a toy hammer. You know, one of those silly plastic toys that go 'honk' when you smack someone with it.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>“And then…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>“Then comes the fun part: I want you to dive down into the abyss and meet one of those big fellas that live down there. A Latcher would do, but if you can find yourself a Charybdis or an Endworm, that'd be at least thrice the fun. Then, I want you to bop it with the hammer, and I want you to bop it good!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>“That doesn't sound smart, but I trust there's some kind of a point to this.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>“That's the spirit! It's not smart in the slightest, but sometimes you're better off ignoring that sensical part of your noggin and just enjoying the ride on the rollercoaster the Grandest of Jesters has laid out for you. Anyhow, let me or one of my colleagues know when the deed is done. And take this along, some more reading for your travels! Good luck! I wish you an exciting and hopefully not-too-lethal ride!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>“What the hell? Are you trying to get me killed?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>“I presume you don't see the silliness, nor the profoundness of that question yet, which is precisely why you need to do it if you wish to walk further down this path. There's nothing more I can tell you at this point, but let me or one of my colleagues know when the deed is done! And take this along, some more reading for your travels! Good luck, and remember to have fun!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>“This pseudophilosophical crap is making my brain hurt. Could you just tell me what the Honkmother is about?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>“I see you are very capable of not taking certain things seriously! If only you could direct that lack of giving a crawler's ass into something more fruitful… And yes, I can tell you the Honkmother is three pounds of custard pie, but that doesn't mean anything to you, does it? I didn't think so. Thus, you need more training—let's try another task!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>“Sure.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
-<EventText.pathofthebikehorn2.o1.c2>“Is this an invisible version of the mask, perhaps? I would actually like to see it.”</EventText.pathofthebikehorn2.o1.c2>
-<EventText.pathofthebikehorn2.o2>“Still haven't found the Mother's Countenance. Any tips?”</EventText.pathofthebikehorn2.o2>
-<EventText.pathofthebikehorn2.o2.c1>“These masks have been out of fashion for a long time, but perhaps if you found a wreck old enough, you might get lucky. And, of course, this is the traditional garment of the Jestmasters, so with a bit of outside-the-box thinking you might find another path forwards. Wink wink!”</EventText.pathofthebikehorn2.o2.c1>
-<EventText.pathofthebikehorn2.o2.o1>“Did you just say 'wink wink'?”</EventText.pathofthebikehorn2.o2.o1>
-<EventText.toyhammeronabyssmonster.c1>玩具槌敲了敲深淵巨獸，什麼也沒發生。你思索那意義何在，但你很快就意識到現在最好別再胡思亂想，而是專心逃命。</EventText.toyhammeronabyssmonster.c1>
-<EventText.pathofthebikehorn3.c0>“Hey, I could use your opinion on something. Hypothetically, if one was building a Honkmotherian exosuit, would it be too on-the-nose to call it the 'HONK Mech'?”</EventText.pathofthebikehorn3.c0>
-<EventText.pathofthebikehorn3.o0>“Uhh, why're you asking?”</EventText.pathofthebikehorn3.o0>
-<EventText.pathofthebikehorn3.c1>“Actually, never mind, it's nothing important! Let's get to business instead: A little bird told me you've been on a quest of sorts. How did the meeting with the abyss monster go?”</EventText.pathofthebikehorn3.c1>
-<EventText.pathofthebikehorn3.o1>“How the hell do you think it went? I barely made it out alive.”</EventText.pathofthebikehorn3.o1>
-<EventText.pathofthebikehorn3.o1.c1>“I was sure you would, but I take it that you weren't quite as confident? It seems you still have some ways to go before you get to truly taste the custard pie. I want you to think about it. What is it you feared would happen—and what are you still afraid of? Had you gotten swallowed by that abyss thing, do you really think that would've silenced your bike horn for good, been the end of your story? Who is this 'you' you're afraid of losing?”</EventText.pathofthebikehorn3.o1.c1>
-<EventText.pathofthebikehorn3.o1.o1>“Had I not escaped its jaws, it most definitely would've been the end of my story.”</EventText.pathofthebikehorn3.o1.o1>
-<EventText.pathofthebikehorn3.o1.o1.c1>“Would it, really? That's a matter of perspective; if you insist that this role you're playing right now, these eyes through which the universe or whatever you wish to call it is looking at itself, is the whole extent of the story, then sure, that would've been a morbidly amusing end to 'your' story.”</EventText.pathofthebikehorn3.o1.o1.c1>
-<EventText.pathofthebikehorn3.o1.o1.o1>“I'm not sure what you mean.”</EventText.pathofthebikehorn3.o1.o1.o1>
-<EventText.pathofthebikehorn3.o1.o2>“I have no idea what you're trying to say.”</EventText.pathofthebikehorn3.o1.o2>
-<EventText.pathofthebikehorn3.o2>“I found it amusing, but the monster didn't seem to get the joke.”</EventText.pathofthebikehorn3.o2>
-<EventText.pathofthebikehorn3.o2.c1>“Haha! The honk of your horn is getting more vibrant by the day. But do tell me, did this close encounter with death, or perhaps even a brief dip into death, make anything new rustle inside that noggin of yours?”</EventText.pathofthebikehorn3.o2.c1>
-<EventText.pathofthebikehorn3.o2.o1>“I'm not sure what you mean.”</EventText.pathofthebikehorn3.o2.o1>
-<EventText.pathofthebikehorn3.o2.o1.c1>“We're getting into the territory where words fall short, but I'll give it a try. When we're inside the circus tent watching the performance, we don't think or talk about the world outside—we just immerse ourselves in the show. And that's good! Just enjoy the show without distracting yourself with the fact that at the end of the night, you'll be stepping out of the tent.”</EventText.pathofthebikehorn3.o2.o1.c1>
-<EventText.pathofthebikehorn3.o2.o1.o1>“Is this an allegory for afterlife?”</EventText.pathofthebikehorn3.o2.o1.o1>
-<EventText.pathofthebikehorn3.o2.o1.o1.c1>“Not any more than it is an allegory for 'beforebirth', whatever that means. Let me put it this way: think about what your original face looked like before you were born. Or, before you put on this mask. And after you've stepped out of the tent, are you completely sure that you won't be coming back some other day? You did enter the tent once, or perhaps even several times, so who's to say it can never happen again?”</EventText.pathofthebikehorn3.o2.o1.o1.c1>
-<EventText.pathofthebikehorn3.o2.o1.o1.o1>“You're talking about some kind of reincarnation now?”</EventText.pathofthebikehorn3.o2.o1.o1.o1>
-<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>“As I said, this is something where the words of this world fall short. I can't spell it out in any more detail, but the bottom line is that death is a jest. Who is this 'you' you're afraid of losing, and can you really lose it? That could be a nice homework for you to ponder on until we meet again! Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>
-<EventText.pathofthebikehorn3.o2.o1.o1.o2>“I know what you're talking about, but let's keep the masks on and stick to our roles for now!”</EventText.pathofthebikehorn3.o2.o1.o1.o2>
-<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>“By the Honkmother! I suppose you have indeed taken a peek or two outside the tent already. Or perhaps we should say, you're taking a peek into the tent right now? At any rate, I'm impressed at your progress. I think I'm going to need some time to figure out what our next step should be, so let's wrap this up for now. Until we meet again!”</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
-<EventText.pathofthebikehorn3.o2.o1.o1.o3>“I know what you're talking about. There is nothing after my death, but it's no more scary than the nothingness before my birth.”</EventText.pathofthebikehorn3.o2.o1.o1.o3>
-<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>“I suppose that's one way of looking at it, but I'm afraid that's a huge banana peel you've just stepped on! You've completely misunderstood what I've been trying to get across. Let me put it this way: Think about what your original face looked like before you were born. Or, before you put on this mask. You know what, that could be a nice homework for you to ponder on until we meet again! Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>
-<EventText.pathofthebikehorn4.c1>“I’m happy to run into you once again! In fact, the timing couldn’t have been better. We’ve been looking for a volunteer for a mission of sorts.”</EventText.pathofthebikehorn4.c1>
-<EventText.pathofthebikehorn4.o1>“We’re interested.”</EventText.pathofthebikehorn4.o1>
-<EventText.pathofthebikehorn4.o1.c1>“After seeing how you fared with that abyss beast, I think you’ve proven yourself as someone with enough guts, or perhaps a healthy amount of carelessness, to pull this thing off. You remember that Honkmotherian exosuit I mentioned a while back?”</EventText.pathofthebikehorn4.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1>“I do. What about it?”</EventText.pathofthebikehorn4.o1.o1>
-<EventText.pathofthebikehorn4.o1.o1.c1>“We’ll get to that in a bit! You see, there happens to be an outpost nearby that used to be a safe haven of sorts for those who heed the call of the bike horn. An independent outpost where we could live a peaceful and quiet life, figuratively speaking. That hasn’t been the case in a long time though, nor is it anywhere on Europa nowadays, as I’m sure you know. Not a week goes by without news of a jester being beaten up or found dead in a ballast or what have you.”</EventText.pathofthebikehorn4.o1.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1>“I know. So, what is it you’re planning?”</EventText.pathofthebikehorn4.o1.o1.o1>
-<EventText.pathofthebikehorn4.o1.o1.o1.c1>“We’re going to make ourselves a safe haven again! Now, we’re at a stalemate, with the outpost having seemingly become the property of the serious folks for good, our jolly people unable to do anything about it despite our best efforts. As if there was some rule that once you take an outpost, the owner is set in stone. So we’re going to have to bend the rules of the game a little! That’s where that exosuit comes in.”</EventText.pathofthebikehorn4.o1.o1.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1>“You’ve actually built one?”</EventText.pathofthebikehorn4.o1.o1.o1.o1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>“Yes, we have! We don’t want to play as dirty as they do, but I believe we can do this without resorting to violence. We’re going to give that outpost such a bombardment of Fun, nuclear-powered bike horns blaring and banana peel cannons turning the place into an obstacle course, day and night for however long as it takes, until they have no choice but to give up and find themselves a more ‘serious’ place to stay.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>“You believe they won’t stop us by force?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>“They might try, of course. But Funbringer 3000 should be able to take a shot or two. Or maybe a few dozen. I hope! Which brings me to my next point: I believe with the amount of combat expertise you and your crew must have, not to mention your apparent disregard for your own safety, I think you’re the best ones for the job. Hence, we’d be eternally grateful if you were the ones to wear the suit and help us regain control of that outpost.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>“We’d be happy to help you.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>“Oh, marvelous! I knew you wouldn’t be able to resist. However this goes, I think you’re going to have plenty of fun. Here's the suit. I've marked the location of the outpost on your map.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>“We need to think about this a bit.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>“Have you thought about our proposal? Would you be willing to wear Funbringer 3000 and help us regain control of that outpost?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>“We’d be happy to help you.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
-<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>“We need to think about this a bit.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
-<EventText.pathofthebikehorn4.o2>“We don’t have time for this right now.”</EventText.pathofthebikehorn4.o2>
-<EventText.clownhaven1.c1>You've arrived at the outpost the Jestmaster told you about. Equip the Funbringer 3000 and bombard the outpost with Fun until the more serious inhabitants realize this is better left for the Children of the Honkmother!</EventText.clownhaven1.c1>
-<EventText.clownhaven1.c1.c1>People seem to be mightily annoyed by the Funbringer. Perhaps this will work!</EventText.clownhaven1.c1.c1>
-<EventText.clownhaven1.c1.c2>Distant sounds of bike horns echo from somewhere in the outpost, followed by a joyful holler: “Praise the Honkmother!”</EventText.clownhaven1.c1.c2>
-<EventText.clownhaven1.c1.c3>One of the outpost dwellers yells at you. “Take that thing out of here or I'll call the security!”</EventText.clownhaven1.c1.c3>
-<EventText.clownhaven1.c1.c4>An announcement comes over the PA. “To all security personnel: Shut that fucking clown machine down by any means necessary. Use of deadly force is authorized...no, encouraged.”</EventText.clownhaven1.c1.c4>
-<EventText.clownhaven1.c1.c5>Another announcement comes over the PA. “Okay, we give up. This ain't worth it. Have your goddamn outpost, just please shut that thing down.”</EventText.clownhaven1.c1.c5>
-<EventText.pathofthebikehorn5.c1>“Oh, oh, it’s you! You did it! Honestly, this was such a ridiculous plan I’m mildly surprised how well it worked! I don’t know how we could thank you enough, but the least we can do is let you keep the suit. Perhaps you’ll find some more use for it on your voyages.”</EventText.pathofthebikehorn5.c1>
-<EventText.pathofthebikehorn5.o1>“Thanks!”</EventText.pathofthebikehorn5.o1>
-<EventText.pathofthebikehorn5.o1.c1>“I have to say, it is impressive how far you've made it on the path of the bike horn in such a short time. For many, the path is much longer, and some fail to find it at all.”</EventText.pathofthebikehorn5.o1.c1>
-<EventText.pathofthebikehorn5.o1.o1>“So, what’s next?”</EventText.pathofthebikehorn5.o1.o1>
-<EventText.pathofthebikehorn5.o1.o1.c1>“I'm both happy and sad to say that this is as far as I can take you; the rest of the path you're going to have to walk by yourself. But I can also see that you already know the direction.”</EventText.pathofthebikehorn5.o1.o1.c1>
-<EventText.pathofthebikehorn5.o1.o1.o1>“This was it? You’re not going to tell me what the Honkmother is?”</EventText.pathofthebikehorn5.o1.o1.o1>
-<EventText.pathofthebikehorn5.o1.o1.o1.c1>“Oh, silly you. What would you want to hear? That she’s the Fun flowing through our veins or the friends we made along the way? Three pounds of custard pie, perhaps? Or the monkey-god riding on a great turtle, the framework holding up this world around us? Those are all fun little words, but just like before, this is a topic where words fall short.”</EventText.pathofthebikehorn5.o1.o1.o1.c1>
-<EventText.pathofthebikehorn5.o1.o1.o1.o1>“…”</EventText.pathofthebikehorn5.o1.o1.o1.o1>
-<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>“To try to explain it in words would be as if I were explaining a joke, and well, it would just fall flat. Such is the Grand Joke of the Universe, too, beyond words, and one must not confuse the world of things as we name them with the world as it actually is.”</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
-<EventText.pathofthebikehorn5.c1.c1>The Jestmaster looks at you inquisitively.</EventText.pathofthebikehorn5.c1.c1>
-<EventText.pathofthebikehorn5.c1.o1>“Is there really no more advice you can give us?”</EventText.pathofthebikehorn5.c1.o1>
-<EventText.pathofthebikehorn5.c1.o1.c1>“I have a hunch where your path is going to eventually take you. When you get there, you will understand the rules of this game of life even more clearly than you do now. When all is laid bare before one's eyes, some may opt to stop playing along altogether, perhaps choosing a life of asceticism or stepping out of the tent completely. And that's fine! You're going to have to let the credits roll at some point. Others, like me and my Jestmaster colleagues, choose to keep playing our part, to keep the Fun going and to help others understand the nature of this game. That's a fine choice too! Whichever path you end up taking, I wish you lots of luck and amusement in your journey. Praise the Honkmother!”</EventText.pathofthebikehorn5.c1.o1.c1>
-<EventText.pathofthebikehorn5.c1.o1.o1>“Praise the Honkmother!”</EventText.pathofthebikehorn5.c1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1>The outpost manager pulls out a document from his breast pocket, and looks at you with a contemplative expression. “Hmm… This particular mission was commissioned by Victoria Petran herself, and it's quite sensitive, but I suppose you've proven you're someone we can trust.”</EventText.missionevent_tormsdalereport.c1>
-<EventText.missionevent_tormsdalereport.whosthat>“Who's that?”</EventText.missionevent_tormsdalereport.whosthat>
-<EventText.missionevent_tormsdalereport.whospetran>“Wait, what? You've been working with us this long, and you’ve never heard of her? She’s the First Lieutenant of the Jovian Separatists. Essentially our leader, if one can consider a group as loosely organized as us having a leader.”</EventText.missionevent_tormsdalereport.whospetran>
-<EventText.missionevent_tormsdalereport.o1.o1>“Ah, I see. So, what’s the mission?”</EventText.missionevent_tormsdalereport.o1.o1>
-<EventText.missionevent.pleasecontinue>“We're interested. Please continue.”’</EventText.missionevent.pleasecontinue>
-<EventText.missionevent_tormsdalereport.c1.c1>“You have heard of the Tormsdale incident, haven’t you?”</EventText.missionevent_tormsdalereport.c1.c1>
-<EventText.missionevent_tormsdalereport.c1.o1>“That rings a bell, but please do elaborate.”</EventText.missionevent_tormsdalereport.c1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.c1>“Okay, I guess I’ll start from the beginning. Back when the Coalition was starting to gain a foothold on Europa, Tormsdale was by far the largest independent colony, and the Jovian People’s Movement obviously had strong support there. I suppose it was in a sense considered the headquarters of the independent colonies and the Movement. At that time, Europa was still somewhat democratic, and the general elections were coming up.”</EventText.missionevent_tormsdalereport.c1.o1.c1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1>“Mm-hmm.”</EventText.missionevent_tormsdalereport.c1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>“Just a few weeks before the elections, there was a nuclear disaster in Tormsdale. Over a hundred people dead. And conveniently for the Coalition, almost all of them happened to be supporters of the Jovian People’s Movement. That was enough to tip the scales in their favor, and let them become the de jure government of Europa.”</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>“That sounds a little too convenient to be a coincidence.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>“Indeed. It was officially deemed an accident, but I find that very hard to believe. From there, things went south fast—the Movement was declared a terrorist organization, our founder Harlow Petran assassinated, most of the independent outposts taken over…”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>“Right. How does this tie in with the mission?”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>“We have reason to believe the Coalition still possesses some classified reports of what actually happened at Tormsdale. Our informants have strong evidence that copies of them are kept in a nearby outpost. If we got our hands on them, maybe we could finally prove this isn’t just a conspiracy theory, and get others to understand how dirty the Coalition has been playing ever since its early years.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>“We’d be glad to help.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>“Great. I’ll mark the outpost on your map. According to our intel, the documents are stored in a secure cabinet in the outpost manager’s office. Getting them out might be tricky—perhaps you could try to coerce the outpost manager or steal their ID card. Either way, please try to be discreet.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
-<EventText.tormsdalereport_outpost.c1>This must be the outpost manager. You need to figure out a way to get their ID card to gain access to the secure cabinet.</EventText.tormsdalereport_outpost.c1>
-<EventText.tormsdalereport_outpost.o1>“Hello. We’re doing a Coalition-mandated security inspection and need to examine the secure cabinet in your office. Would you mind opening it for me?”</EventText.tormsdalereport_outpost.o1>
-<EventText.tormsdalereport_outpost.o1.c1>“Uhh… What? How stupid do you think I am? Get the fuck out of my office before I call security.”</EventText.tormsdalereport_outpost.o1.c1>
-<EventText.tormsdalereport_outpost.o2>“Revolution is near. Give us your ID card or you’re dead.”</EventText.tormsdalereport_outpost.o2>
-<EventText.tormsdalereport_outpost.o2.c1>The man immediately pulls out his gun.</EventText.tormsdalereport_outpost.o2.c1>
-<EventText.tormsdalereport_outpost.o3>“Excuse me, sir! There’s some kind of a dispute a few decks down, and I was told to come get you.”</EventText.tormsdalereport_outpost.o3>
-<EventText.tormsdalereport_outpost.o3.c1>“I see. Show me the way!”</EventText.tormsdalereport_outpost.o3.c1>
-<EventText.tormsdalereport_outpost.o3.c1.c1>“I don't know if you're trying to mess with me or what, but I need to get back to work. Goodbye.”</EventText.tormsdalereport_outpost.o3.c1.c1>
-<EventText.tormsdalereport_outpost.o4>Ignore him and keep walking.</EventText.tormsdalereport_outpost.o4>
-<EventText.tormsdalereport_complete.c1>“Hello! I hear you’ve been commissioned to find us certain important documents. What’s the status?”</EventText.tormsdalereport_complete.c1>
-<EventText.tormsdalereport_complete.o1>“I found the documents.”</EventText.tormsdalereport_complete.o1>
-<EventText.tormsdalereport_complete.o1.c1>The outpost manager takes the papers and glances through them, eyes widened. “Oh, oh! This is huge! If these are authentic, there’s no question the Coalition mass-murdered everyone in Tormsdale. When these go out, it’s going to be a huge blow to them. I can’t thank you enough for this. I’ll put in a good word to Lt. Petran and make sure she knows it was your crew who accomplished this. I’m also going to pay you for your troubles, of course.”</EventText.tormsdalereport_complete.o1.c1>
-<EventText.tormsdalereport_complete.o1.c2>“Well, please bring them over! I can't wait to see what's in them.”</EventText.tormsdalereport_complete.o1.c2>
-<EventText.tormsdalereport_complete.o2>“I don’t have the documents right now.”</EventText.tormsdalereport_complete.o2>
+<EventText.pathofthebikehorn1.c1>有個穿著奇特小丑裝的人走了過來，把你拉到一邊。「我沒在這兒見過你──方便告訴我你為何而來嗎？你們是快樂之人嗎，能明白我的意思嗎？」</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>「我們只是路過。『快樂之人』指的是？」</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>「那些承蒙自行車喇叭召喚的人們：小丑、搗蛋鬼、愚者！這是我和的非門之徒們在這世上找到的安身之所，我們希望這種狀態繼續保持。」</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>「非門之徒？意思是你是什麼掌門人之類的嗎？」</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>「不不，我不是什麼掌門人！我只是一個『惡作劇大師』──有人稱呼我為老師，但我只是個引導人們踏上自行車喇叭之道的人。」</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>「你能教教我們何謂自行車喇叭之道嗎？」</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>「對我而言，我會很樂意把你們這群『快樂之人』綁一綁送進勞改營，明白我的意思吧。」</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>「那會讓我變成一個悲傷的小丑。但我不多做評判：因為你不是唯一一個沒有意識到他們謊言的人。但如果你改變主意，想開開眼界，惡作劇大師或許能為你帶路！」</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>「我對胡說八道沒有興趣。告辭。」</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>「你能告訴我多一點自行車喇叭之道嗎，那到底是什麼？」</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>「哼嗯，在剛剛那段關於勞改營的對話之後我不得不懷疑你的動機了！不過，要是你能穿上一套合適的裝束，或許會讓我更信任你一點...」</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>「好吧，我去去就回。」</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>「沒有小丑裝就拉倒！」</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>「別顧慮我們。願小丑聖母祝福你和你們的哨站！」</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>「讚美小丑聖母！我本來還擔心你是那種不喜歡我引導人們走上自行車喇叭之道的嚴肅之人呢。」</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>「你能教教我們何謂自行車喇叭之道嗎？」</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>「這樣就對了！我不敢說我是什麼老師，因為我沒什麼好教你的──那是你自己得做的。我能做的只有將你導向正確方向，那樣或許你有天能夠開竅。為此，我想交給你和你的船員一項功課，作為投向小丑聖母懷抱的第一步。」</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>「洗耳恭聽。」</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>「看到我戴的這張面具了嗎？這顆月亮上幾乎找不到了，但要是你能用心，我確定在你們的旅途中一定會有所發現的。那時，將它帶來找我或其他惡作劇大師們，讓我們一督它將帶我們前往何方。喔對了，請帶上這個，旅途中能偶爾翻翻！掰掰！」</EventText.pathofthebikehorn1.o3.o1.o1.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn2.c1>「讚美小丑聖母，我們又見到面了！如何？」</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>「我找到你說的那張面具了。」</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>「我看到了！恭喜你！你可以留著它──你也看到我已經有一張了。或者你想把它丟掉也行。那不過是張面具，還醜醜的。」</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>「那你幹嘛要我找到它？」</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>「那課題本身微不足道，像是沒創意的小孩在玩扮家家酒對吧。但尋找的過程中你不覺得很有意思嗎？一路上你們肯定遇到了不少麻煩，但這是你件偶爾也樂在其中的事，一場大冒險。畢竟要是你覺得那很無趣的就不會選擇在潛艇上過日子了！這樣看來，或許我該問的其實是為什麼你想找到它──又或者是為什麼你想駕著潛艇遨遊歐羅巴為人們做些雜七雜八的事。」</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>「我想或許我的確享受那段冒險，但是那跟自行車喇叭知道有什麼關聯？」</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>「好玩遊戲，好玩和遊戲！我選擇用一場遊戲中的任務作為比喻是有原因的：當你看得更遠一些，整個社會制度就是一場遊戲。而當你對事物的看法足夠透徹，那整個世界都是遊戲中的系統：人的遊戲、爬行者的遊戲、航行的遊戲、在潛艇上做事的遊戲...」</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>「好...？」</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>「但得謹慎對待『遊戲』一詞！它並意味著這一切毫無意義。那就像我們演奏一段曲子：一點都不嚴肅，同時卻又十分真摯。它將一切的美納入自身，毫無理由。就像這樣！」惡作劇大師朝你的臉上按了按他的自行車喇叭。</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>「我想我能夠理解。那，下一步是？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>「噢噢，這會很有趣的！首先，你得找到一把玩具槌。你知道吧，那種在敲在別人身上時會發出『叭──』聲的塑膠玩具。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>「然後...？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>「然後是最好玩的部分：我要你進到深淵中並和一隻深淵裡的那種大傢伙見個面。捕鉤獸也行，但要是你能找到卡律布狄斯或末日蠕蟲，那起碼是牠的三倍好玩。最後，我要你用那槌子槌牠，全力槌！」EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>「聽起來不太明智，不過我相信是有什麼意義的吧。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>「那就對了！那一點都不明智，但是有些時候你最好無視你腦袋裡的那份理性，儘管享受各方小丑之傑為你準備的雲霄飛車之旅。不管怎樣，完成之後記得告訴我或者我的同僚。順便帶上這本冊子，讓你在旅途中有更多東西讀讀！祝你有個精彩刺激、志得意滿、不丟小命的旅程！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>「什麼鬼？你想幹掉我嗎？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>「我猜你沒意識到那個問題的愚昧和深奥，那正是為何若要貫徹自行車喇叭之道，你得那麼做的原因。我目前已經沒有什麼好說的了，但完成之後請告訴我或者我的同僚！。順便帶上這本冊子，讓你在旅途中有更多東西讀讀！祝你好運，記得開心最重要！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>「這些偽哲學狗屁搞得我頭昏腦脹。能不能直接告訴我小丑聖母到底是個什麼東西？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>「我看你對不把一些事情當一回事蠻在行的！你要是有辦法把這份事不關己的態度用在對的地方就更好了... 沒錯，我能告訴你小丑聖母就是三磅卡士達派，但那對你而言沒有任何意義對吧？我想也是。因此，你得接受訓練──讓我們繼續下個課題吧！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>「沒問題。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>「這是個隱形版的面具嗎？我真的很想透過我的雙眼見到它看。」</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>「我還是找不到聖母的面容。有什麼建議嗎？」</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>「那些面具幾百年前就退流行了，幸運的話一艘夠老的沈船可能有點機會。當然啦，那畢竟是惡作劇大師們的傳統裝束，或許你跳脫了框架進行思考就能有所進展，拋媚眼！」</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>「你剛剛是用說的代替『拋媚眼』嗎？」</EventText.pathofthebikehorn2.o2.o1><!--Did you just say 'wink wink'?”-->
+<EventText.toyhammeronabyssmonster.c1>玩具槌敲了敲深淵巨獸，什麼也沒發生。你思索那意義何在，但你很快就意識到現在最好別陷入沉思，而是專心逃命。</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>「嘿，我需要你的意見。假如說有人要造一件小丑聖母之子主題的動力服，叫它『小丑機甲』會不會太直白了。」</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>「呃，你問這幹嘛？」</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>「你知道嗎，別放在心上，那不重要！改談正事吧：我聽說你好像接了什麼任務之類的。和深淵怪獸的面談結果怎麼樣？」</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>「你說呢？我差點就沒命了。」</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>「我知道你一定沒問題的，但我猜你對自己不太有信心？看來你想要一嚐那美味的卡士達派還有一段路要走。我要你想想，什麼是你打從心底害怕會發生的事──你還在怕什麼？如果你被那隻深淵東東嗑了，你覺得那會使你的自行車喇叭就此沉寂，成為你的故事終點嗎？你所害怕失去的『你』又是什麼人呢？」</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>「要是沒從牠嘴裡逃出來，我的故事就肯定沒有後續了。」</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>「你確定嗎？因為這是角度問題；如果你持續扮演現在的這個角色，角色的目光所及就是全部的故事內容，那確實可以被稱為是『你的』故事中一個憂鬱但有趣的結局。」</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>「我不太懂你的意思。」</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>「我聽不懂你想表達的意思。」</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>「我覺得蠻有趣的，但是怪物不那麼覺得。」</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>「哈哈！你的自行車喇叭越來越響了。不過告訴我，當你和死亡親密接觸的時候，或甚至一隻腳被拉進死亡之門的時候，你的腦子裡有沒有什麼新動靜？」</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>「我不太懂你的意思。」</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>「我們已經開始接近言語難以觸及的領域，但我試著解釋。當我們在馬戲團帳篷裡看表演的時候，我們並不會想起或談起外面的世界──我們沉浸在表演中。那是好事！專心享受帳篷裡那精彩的演出，別讓表演終究會結束的事實使你分心。」</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>「這是什麼關於死後的寓言故事嗎？」</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>「並非如此，這是關於『生前』的寓言，管它是什麼意思。這麼說好了：想想你在出生前最原始的樣子。或者，你帶上面具之前的樣子。在你走出帳篷之後，你能完全確定自己哪天不會再回到這裡了嗎？重點是你進過帳篷一次，或不管多少次，誰說得準你不會再走進來呢？」</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>「你是指某種輪迴嗎？」</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>「就像我說的，這領域語言難以觸及。我沒法說得更具體了。概括來說，死亡就是一個玩笑。你所害怕失去的那個『你』是誰、你真的能失去它嗎？這可是個下次我們再見面之前你要好好思考的課題！掰掰！」</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>「我懂你的意思了，但現在我們還是把面具戴好專心扮演自己的角色吧！」</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>「小丑聖母在上！我猜你或許瞥見一點帳篷中的秘密了。或者說，你正在窺視帳篷中的秘密？總之，我對你的成長印象深刻。我得花點時間想想下一步該如何進行了，目前就到此為止，下次見！」</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>「我懂你的意思了。死後的虛無並不比誕生前的虛無更可怕。」</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>「我想這是一種解釋的角度，但我擔心你剛剛踩到了一個超大的香蕉皮！你完全誤解了我想要表達的意思。想想你在出生前最原始的樣子。或者g說，你帶上面具之前的樣子。這可是個下次我們再見面之前你要好好思考的課題！掰掰！」</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn4.c1>「我很高興又和你見面了！時機正好，我們正在徵求志願者餐與一項小小任務。」</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>「我們有興趣。」</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>「知道你對付過那隻深淵怪獸之後，我覺得你已經證明自己有足夠的膽量，或是事不關己的程度來完成它。你還有印象我前一陣子提到過小丑聖母主題的動力服嗎？」</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>「記得，怎麼了？」</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>「你等等就懂！你知道，這附近正好有座哨站曾經是承蒙自行車喇叭召喚之人們的避風港。一處能讓我們在那裡過上平靜生活的獨立哨站，當然那只是一種比喻。但你知道，那兒、整個歐羅巴都已經很久不是那樣子了。沒有哪個禮拜新聞上看不見小丑被打死或死在壓載艙裡或是什麼地方的。」</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>「我知道。所以你的計畫是？」</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>「我們正試圖再次建立自己的避風港！目前我們陷入了僵局，儘管使我們快樂之人出全力，那個哨站似乎都將會永遠屬於嚴肅的人，無法改變。就像有什麼規定似的，一旦你拿下一座哨站，它就永遠得聽你的了。所以我們需要改變一下遊戲規則！這時動力服就能派上用場！」</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>「你真的造了一架？」</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>「沒有錯！我們不想學他們玩陰的，但我相信我們能用這種非暴力的方式奪回它。我們要給那座哨站來場歡樂大轟炸，用核子動力自行車喇叭和香蕉皮大砲把那兒變成一座遊樂場。日日夜夜絕不停歇，直到他們別無選擇只能放棄，然後給自己找個新的更『嚴肅』的地方待著。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>「但他們會用武力阻止我們吧？」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>「他們肯定會的，不過『歡樂製造機3000』應該有辦法撐個一兩下，或幾百下，希望啦！這讓我能帶到下一個重點：以你們的作戰經驗，更別說你們又豪不在意自身安危，我相信你們是做這件事的最佳人選。因此，要是你們幫我們奪回哨站，我們將永遠感激你的。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>「樂意之至。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>「噢太好了！我就知道你們拒絕不了。不管之後結果如何，我知道你們一定會玩得很開心的。動力服在這兒，我也把哨站的位置標在你的地圖上了。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>「我們得考慮一下。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>「你考慮過我們的提議了嗎？你願意穿上『歡樂製造機3000』幫助我們奪回那座哨站嗎？」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>「樂意之至。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>「我們得考慮一下。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>「我們現在無法抽身。」</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>你抵達了惡作劇大師所說的那座哨站。穿上『歡樂製造機3000』為它來場歡樂大轟炸，直到那些比較嚴肅的居民們覺得還是把這裡留給小丑聖母之子比較好！</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>人們開始覺得歡樂製造機很煩，或許這計畫有效！</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>從哨站的遙遠某處傳了自行車喇叭的聲響，緊接著的是一陣快樂的歡呼聲：「讚美小丑聖母！」</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>其中一位居民對你大喊，「把那東西弄出去，否則我要叫安全官了！」</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>從廣播系統傳來了聲音，「所有安全人員：以任何必要的手段關閉那個該死的小丑機器。授權使用致命武器...不，鼓勵使用致命武器。」</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>從廣播系統又傳來了聲音，「好吧，我們放棄。繼續下去沒有意義。這該死的前哨站歸你們了，拜託讓那該死的東西安靜。」</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>「哦、哦，是你！說實話，這計畫荒唐到我都沒想到結果能這麼成功！我不知道該如何答謝你們，但至少我們可以把那套動力服送給你們。或許你們的旅程中有機會用得上它。」</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>「謝啦！」</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>「不得不說，我很訝異你們竟然在這短的時間就穩穩踏上了自行車喇叭之道。對大部分人來說，那段旅程非常深遠，有些人甚至完全摸不著邊。」</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>「那，接下來呢？」</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>「我既高興又傷心，因為我能為你做得就這麼多了；剩下的路你們得自己探索，不過我看得出來你們早就知道前進的方向了。」</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>「就這樣？你不跟我說說小丑聖母到底是什麼？」</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>「噢，你真好玩。你想要什麼答案？她是流淌在我們血液中的歡樂，或是一路上我們所建立的友誼？還是她是三磅卡士達派？或者是她是一隻騎著巨大烏龜，乘載萬物秩序的神猴？這些敘述都很有趣，但就如我之前所說，那是一個無法以言語描述的領域。」</EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>「...」</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>「以話語為你解釋，好似向你解釋一個笑話哪裡好笑，沒什麼意義。宇宙最大的笑話也是一樣，超越了語言，人不能把表述和本質混為一談。」</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>惡作劇大師好奇地注視著你。</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>「你真的沒什麼建議能給我們了嗎？」</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>「我有預感你所走上的道路將帶你去哪。當你到達那裡，你將能比現在更透徹地理解這場生命遊戲的規則。當一切赤裸裸地擺在眼前，有些人可能乾脆不玩了，轉而選擇苦行生活或直接離開帳篷。沒有問題！因為我們總會有一天都得謝幕。其他人，像是我或其他的惡作劇大師們，我們選擇持續發揮自己的作用，讓歡樂繼續下去，幫助人們瞭解這場遊戲的本質。那樣也不錯！但不管你最後選擇了哪種的道路，我都希望你一路歡樂幸運。讚美小丑聖母！」</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>「讚美小丑聖母！」</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>哨站管理員從胸前的口袋拿出了一份文件，用一種若有所思的表情看著你。「哼嗯... 這項任務由Petran中尉親自委託，內容十分敏感，但我想你們已經證明過自己值得我們信賴了。」</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>「那是誰？」</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>「等等，什麼？和我們合作了這麼久，你卻沒聽說過她？她是木星分離主義者中的第一中尉。如果我們這樣鬆散的組織要說有什麼領袖的話，就是她了。」</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>「啊，我明白了。所以是什麼任務？」</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>「我們有興趣，請繼續說。」</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>「你聽說過Tormsdale事件，對吧？」</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>「有印象，但請詳細說說吧。」</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>「好，那我從頭開始講吧。那時聯盟才正要立足於歐羅巴上，Tormsdale是當時最大的獨立殖民地，『木星人民主義運動』在那兒想當然也大受支持。我想在某種程度上，說它是那組織和同理念殖民地之間的總部也不為過。那時候的歐羅巴社會還算是相當民主的，而且大選即將到來。」</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>「嗯哼。」</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>「就在大選前幾週，Tormsdale發生了核災，至少百人身亡。巧的是，所有受害者都是木星人民主義運動的支持者。天平因此向他們傾斜，聯盟成為了歐羅巴上的合法統治者。」</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>「那也太巧了。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>「確實。官方認定那場災難為意外事故，但我無法相信。在那之後，事態轉變得太快了──聯盟宣佈木星人民主義運動是個恐怖組織，我們的創始人Harlow Petran遭到暗殺，大多數的獨立哨站遭到接管...」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>「那，這和任務有什麼關聯？」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>「我們有理由相信聯盟裡仍保有一些紀錄Tormsdale實際上發生了什麼事的機密報告。我們的線民握有強力證據顯示，該報告的副本就存在附近的哨站中。要是我們能到到它們，或許就能夠證明我們的懷疑並不是陰謀論，以此讓所有人都知道聯盟的一直以來是多麼骯髒。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>「我們樂意提供協助。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>「好極了。讓我把那座哨站標在你的地圖上。根據我們的情報，那些文件就放在哨站管理員辦公室的保險櫃裡。要拿出它們或許有些棘手，試試恐嚇哨站管理員或偷走他的ID卡。不管怎麼做，都請保持低調。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>那肯定就是哨站管理員。你得想辦法弄到對方的ID卡才有辦法打開保險櫃。</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>「哈囉，我們正在替聯盟執行強制安全檢查，我們需要看看你辦公室裡的那個保險櫃，能請你幫我打開它嗎？」</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>「呃...蛤？你覺得我很好騙是嗎？在我聯絡守衛之前滾出我的辦公室。」</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>「革命在即。不想死就交出你的ID卡。」</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>對方立刻掏出了武器。</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>「打擾一下，長官！樓下好像發生了什麼爭執，我是被叫來找你的。」</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>「我知道了，帶路吧！」</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>「我不知道你想鬧我還是怎樣，但我還有工作要做。告辭。」</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>忽略他並走開。</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>「哈囉！我聽說你被指派去幫我們找尋一些重要的文件。狀況如何？」EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>「我找到那些文件了。」</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>哨站管理員接過文件並瀏覽它們，之後瞪大了雙眼。「喔、噢！這可不得了！如果上面寫的是真的就沒人能夠否定聯盟確實在Tormsdale進行了一場大屠殺。這消息一發出去，肯定會重重地打擊他們。承蒙惠助，不勝感激。我會向Petran中尉說些你們的好話的，讓她知道就是你們完成了這項任務。當然，我也不會忘記該給你們的報酬。」</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>「請帶著它們過來！我等不及瞧瞧上面寫些什麼了。」</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>「文件現在不在我身上。」</EventText.tormsdalereport_complete.o2>
 <afflictionname.husksymbiosis>畫皮共生</afflictionname.husksymbiosis>
 <afflictiondescription.husksymbiosis>這看起來不像普通的畫皮感染：不知為何，病患仍有辦法說話且似乎保有自身意識。</afflictiondescription.husksymbiosis>
 <lockedpathtooltipseparatistreputation>這條通道已被封鎖，你在‖color:faction.separatists‖木星分離主義份子‖end‖間的聲望必須到達[requiredreputation]，並獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipseparatistreputation>
@@ -601,13 +601,13 @@
 <EventText.missionevent_jailbreak_separatists.o1.c1>「幾位我們的特務最近遭到聯盟逮捕，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_separatists.o1.c1>
 <EventText.missionevent_jailbreak_coalition.c1>哨站管理員似乎猶豫了一下。「這份任務或許會比較艱難，但從你們的名聲看來，或許你們有辦法做到。」</EventText.missionevent_jailbreak_coalition.c1>
 <EventText.missionevent_jailbreak_coalition.o1.c1>「幾位我們的特務最近遭到分離主義份子俘虜，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_coalition.o1.c1>
-<EventText.jailbreak_alarm.c1>從廣播系統傳來了聲音。「所有安全人員：紅色警報。發現逃犯。」</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_alarm.c1>從廣播系統傳來了聲音，「所有安全人員：紅色警報。發現逃犯。」</EventText.jailbreak_alarm.c1>
 <EventText.jailbreak_sootman.c1>「嘿，我猜你是Petran中尉派來的對吧？」</EventText.jailbreak_sootman.c1>
 <EventText.jailbreak_sootman.o1>「沒錯，我們的任務是把你帶出這裡。」</EventText.jailbreak_sootman.o1>
 <EventText.jailbreak_sootman.o1.c1>「我猜得沒錯，謝啦。你們應該有準備船吧？」</EventText.jailbreak_sootman.o1.c1>
 <EventText.jailbreak_sootman.o1.o1>「當然，跟我來！」</EventText.jailbreak_sootman.o1.o1>
 <EventText.jailbreak_sootman.o1.o1.c1>「其實在離開之前，我還有些事情要做。五分鐘後你們的船上見。」你還來不及說些什麼，那人早就飛奔離去。</EventText.jailbreak_sootman.o1.o1.c1>
-<EventText.missionevent_jailbreak_sootman.c1>哨站管理員從胸前的口袋拿出一份文件。「這種任務格外敏感，你懂的。這份委託來自Petran中尉。事實上，她希望這份委託確實地被交到你們手上。」</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1>哨站管理員從胸前的口袋拿出了一份文件。「這種任務格外敏感，你懂的。這份委託來自Petran中尉。事實上，她希望這份委託確實地被交到你們手上。」</EventText.missionevent_jailbreak_sootman.c1>
 <EventText.missionevent_jailbreak_sootman.c1.c1>「聯盟最近成功逮捕了一位我們的特務──一位重要人物，好險他們還不知道他到底是誰，不然他肯定會馬上被處決。」</EventText.missionevent_jailbreak_sootman.c1.c1>
 <EventText.missionevent_jailbreak_sootman.c1.o1>「他是什麼人？」</EventText.missionevent_jailbreak_sootman.c1.o1>
 <EventText.missionevent_jailbreak_sootman.c1.o1.c1>「或許我們別提到他的名字會比較好，但我能告訴你他讓不少聯盟哨站和船艦被烈火吞噬。總之，現在他正被關在附近的一座哨站上。安全地把他救出那裡之後會有一筆豐厚的報酬等著你。」</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
