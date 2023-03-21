@@ -481,7 +481,7 @@
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>「我想我能夠理解。那，下一步是？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>「噢噢，這會很有趣的！首先，你得找到一把玩具槌。你知道吧，那種在敲在別人身上時會發出『叭──』聲的塑膠玩具。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>「然後...？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
-<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>「然後是最好玩的部分：我要你進到深淵中並和一隻深淵裡的那種大傢伙見個面。捕鉤獸也行，但要是你能找到卡律布狄斯或末日蠕蟲，那起碼是牠的三倍好玩。最後，我要你用那槌子槌牠，全力槌！」EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>「然後是最好玩的部分：我要你進到深淵中並和一隻深淵裡的那種大傢伙見個面。捕鉤獸也行，但要是你能找到卡律布狄斯或末日蠕蟲，那起碼是牠的三倍好玩。最後，我要你用那槌子槌牠，全力槌！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>「聽起來不太明智，不過我相信是有什麼意義的吧。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>「那就對了！那一點都不明智，但是有些時候你最好無視你腦袋裡的那份理性，儘管享受各方小丑之傑為你準備的雲霄飛車之旅。不管怎樣，完成之後記得告訴我或者我的同僚。順便帶上這本冊子，讓你在旅途中有更多東西讀讀！祝你有個精彩刺激、志得意滿、不丟小命的旅程！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>「什麼鬼？你想幹掉我嗎？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
@@ -559,11 +559,11 @@
 <EventText.missionevent.pleasecontinue>「我們有興趣，請繼續說。」</EventText.missionevent.pleasecontinue>
 <EventText.missionevent_tormsdalereport.c1.c1>「你聽說過Tormsdale事件，對吧？」</EventText.missionevent_tormsdalereport.c1.c1>
 <EventText.missionevent_tormsdalereport.c1.o1>「有印象，但請詳細說說吧。」</EventText.missionevent_tormsdalereport.c1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.c1>「好，那我從頭開始講吧。那時聯盟才正要立足於歐羅巴上，Tormsdale是當時最大的獨立殖民地，『木星人民主義運動』在那兒想當然也大受支持。我想在某種程度上，說它是那組織和同理念殖民地之間的總部也不為過。那時候的歐羅巴社會還算是相當民主的，而且大選即將到來。」</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>「好，那我從頭開始講吧。那時聯盟才正要立足於歐羅巴上，Tormsdale是當時最大的獨立殖民地，『木星人民主義』在那兒想當然也大受支持。我想在某種程度上，說它是那組織和同理念殖民地之間的總部也不為過。那時候的歐羅巴社會還算是相當民主的，而且大選即將到來。」</EventText.missionevent_tormsdalereport.c1.o1.c1>
 <EventText.missionevent_tormsdalereport.c1.o1.o1>「嗯哼。」</EventText.missionevent_tormsdalereport.c1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>「就在大選前幾週，Tormsdale發生了核災，至少百人身亡。巧的是，所有受害者都是木星人民主義運動的支持者。天平因此向他們傾斜，聯盟成為了歐羅巴上的合法統治者。」</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>「就在大選前幾週，Tormsdale發生了核災，至少百人身亡。巧的是，所有受害者都是木星人民主義的支持者。天平因此向他們傾斜，聯盟成為了歐羅巴上的合法統治者。」</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
 <EventText.missionevent_tormsdalereport.c1.o1.o1.o1>「那也太巧了。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
-<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>「確實。官方認定那場災難為意外事故，但我無法相信。在那之後，事態轉變得太快了──聯盟宣佈木星人民主義運動是個恐怖組織，我們的創始人Harlow Petran遭到暗殺，大多數的獨立哨站遭到接管...」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>「確實。官方認定那場災難為意外事故，但我無法相信。在那之後，事態轉變得太快了──聯盟宣佈木星人民主義是個恐怖組織，我們的創始人Harlow Petran遭到暗殺，大多數的獨立哨站遭到接管...」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
 <EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>「那，這和任務有什麼關聯？」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
 <EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>「我們有理由相信聯盟裡仍保有一些紀錄Tormsdale實際上發生了什麼事的機密報告。我們的線民握有強力證據顯示，該報告的副本就存在附近的哨站中。要是我們能到到它們，或許就能夠證明我們的懷疑並不是陰謀論，以此讓所有人都知道聯盟的一直以來是多麼骯髒。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
 <EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>「我們樂意提供協助。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
