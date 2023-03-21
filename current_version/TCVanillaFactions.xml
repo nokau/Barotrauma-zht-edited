@@ -1,1345 +1,615 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
 <!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- Generic -->
-<editor.saveall>Save All</editor.saveall>
-  
-<!-- Submarine editor -->
-<items>物件</items>
-<structures>結構</structures>
-<totalhullvolume>總體 Hull 體積</totalhullvolume>
-<selectedhullvolume>所選 Hull 體積</selectedhullvolume>
-<optimalballastlevel>最佳壓載艙平衡水位為 [value]</optimalballastlevel>
-<saveitemassembly>保存為物件組合</saveitemassembly>
-<insufficientballast>體積不足以控制浮力</insufficientballast>
-<physicsbodies>Physics bodies</physicsbodies>
-<opensubbutton>開啟...</opensubbutton>
-<savesubbutton>儲存</savesubbutton>
-<addsubbutton>加入潛艇</addsubbutton>
-<addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
-<holdtolink>按住空白件並點選其他物件與它們建立連結。</holdtolink>
-<allowedlinks>可與其建立連結</allowedlinks>
-<filtermapentities>篩選</filtermapentities>
-<charactermodebutton>角色模式</charactermodebutton>
-<charactermodetooltip>使你能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
-<wiringmodebutton>配線模式</wiringmodebutton>
-<wiringmodetooltip>允許你對物品進行配線。</wiringmodetooltip>
-<generatewaypointsbutton>產生Waypoint</generatewaypointsbutton>
-<generatewaypointstooltip>AI控制的船員需要以Waypoint作為在潛艇中的移動標示。</generatewaypointstooltip>
-<showentitieslabel>顯示</showentitieslabel>
-<showwalls>牆壁</showwalls>
-<showstructures>結構</showstructures>
-<showitems>物件</showitems>
-<showlighting>光線</showlighting>
-<showwaypoints>Waypoint</showwaypoints>
-<showspawnpoints>Spawnpoint</showspawnpoints>
-<showlinks>連結</showlinks>
-<showhulls>Hull</showhulls>
-<showgaps>Gap</showgaps>
-<previouslyusedlabel>先前使用</previouslyusedlabel>
-<subnamemissingwarning>在儲存之前，請為你的潛艇命名。</subnamemissingwarning>
-<subnameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</subnameillegalcharswarning>
-<subsavednotification>潛艇已儲存至 [filepath]。</subsavednotification>
-<savesubdialogheader>儲存潛艇</savesubdialogheader>
-<savesubdialogname>名稱</savesubdialogname>
-<savesubdialogdescription>描述</savesubdialogdescription>
-<savesubdialogsettings>設定</savesubdialogsettings>
-<saveitemassemblydialogheader>保存物件組合</saveitemassemblydialogheader>
-<saveitemassemblyhideinmenus>在主選單中隱藏</saveitemassemblyhideinmenus>
-<saveitemassemblydialogname>名稱</saveitemassemblydialogname>
-<saveitemassemblydialogdescription>描述</saveitemassemblydialogdescription>
-<itemassemblynamemissingwarning>在儲存之前，請為你的物件組合命名。</itemassemblynamemissingwarning>
-<itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。你要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
-<itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
-<nohullswarning>潛艇上沒有Hull。Hull用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
-<disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
-<disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
-<nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
-<nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物品去處)。請放置新的Spawnpoint並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
-<farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
-<adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
-<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
-<noballasttagswarning>位於壓載艙的抽水機應在其Tags欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
-<insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
-<nohullnameswarning>沒有Hull被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
-<deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
-<hideinmenus>在主選單中隱藏</hideinmenus>
-<manuallyoutfitted>手動配置的物資</manuallyoutfitted>
-<manuallyoutfittedtooltip>此潛艇是否已經包含了足夠的起始物資，或者它需要依賴自動產生的物資和/或玩家進行物品轉移？</manuallyoutfittedtooltip>
-<unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
-<reloadsprite>重新讀取Sprite</reloadsprite>
-<resettoprefab>回復至預設</resettoprefab>
-<mirrorentityx>鏡射 X</mirrorentityx>
-<mirrorentityxtooltip>水平翻轉這個物件，你也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
-<mirrorentityy>鏡射 Y</mirrorentityy>
-<mirrorentityytooltip>垂直翻轉這個物件，你也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
-<nonlinkedgapswarning>潛艇上有Gap未與任何Hull交集。Gap應被置於至少一個Hull上 (如要通往潛艇外) 或橫跨於多個Hull之間。</nonlinkedgapswarning>
-<cannoteditvanillasubs>無法覆蓋已存在遊戲本體內容中的潛艇檔案！</cannoteditvanillasubs>
-<subeditor.structurecountwarning>這艘潛艇上有非常大量的結構配件，有可能會對遊戲運作造成影響，請考慮減少結構配件數量。</subeditor.structurecountwarning>
-<subeditor.structurecounterror>這艘潛艇上有太多的結構配件 (>[max])，這會對遊戲運作造成影響，請減少結構配件數量。</subeditor.structurecounterror>
-<subeditor.wallcountwarning>這艘潛艇上有非常大量帶碰撞的牆壁，有可能會對遊戲運作造成影響，請考慮減少帶碰撞的牆壁數量。</subeditor.wallcountwarning>
-<subeditor.wallcounterror>這艘潛艇上有太多帶碰撞的牆壁 (>[max])，這會對遊戲運作造成影響，請減少帶碰撞的牆壁數量。</subeditor.wallcounterror>
-<subeditor.itemcountwarning>這艘潛艇上有非常大量的物件，有可能會對遊戲運作造成影響，請考慮減少物件數量。</subeditor.itemcountwarning>
-<subeditor.itemcounterror>這艘潛艇上有太多的物件 (>[max])，這會對遊戲運作造成影響，請減少物件數量。</subeditor.itemcounterror>
-<subeditor.lightcountwarning>這艘潛艇上有非常大量的燈光，有可能會對遊戲運作造成影響，請考慮減少燈光數量。</subeditor.lightcountwarning>
-<subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
-<subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
-<canattachtoprevious>能以何處連結</canattachtoprevious>
-<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
-<subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
-<subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
-<stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
-<stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的文字。</stringpropertycannottranslate>
-<subeditorlights>燈光</subeditorlights>
-<subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
 
-<!-- Submarine editor -->
-<charactereditor.creatingnewjoint>建立新關節</charactereditor.creatingnewjoint>
-<charactereditor.selectanchor1pos>選擇作為此關節錨點的位置</charactereditor.selectanchor1pos>
-<charactereditor.selectlimbtoconnect>選擇另一肢體與關節連結</charactereditor.selectlimbtoconnect>
-<charactereditor.frozen>凍結</charactereditor.frozen>
-<charactereditor.spriteorientation>Sprite方向</charactereditor.spriteorientation>
-<charactereditor.spritesheetorientation>Spritesheet方向</charactereditor.spritesheetorientation>
-<charactereditor.cantaddjointsnolimbelements>無法添加關節，找不到到肢體元素！</charactereditor.cantaddjointsnolimbelements>
-<charactereditor.humanoidlimbdeletiondisabled>自類人生物刪除肢體的功能已被暫時停用以避免遊戲崩潰</charactereditor.humanoidlimbdeletiondisabled>
-<charactereditor.tryingtospawncharacter>正在產生 [config]</charactereditor.tryingtospawncharacter>
-<charactereditor.nocontentpackageselected>未選擇內容套件！</charactereditor.nocontentpackageselected>
-<charactereditor.contentpackagesaved>內容套件已儲存至: [path]</charactereditor.contentpackagesaved>
-<charactereditor.backgroundcolor>背景\n色彩</charactereditor.backgroundcolor>
-<charactereditor.spritesheetzoom>Spritesheet縮放</charactereditor.spritesheetzoom>
-<charactereditor.reset>重置</charactereditor.reset>
-<charactereditor.hidebodysprites>隱藏身體Sprite</charactereditor.hidebodysprites>
-<charactereditor.showwearables>顯示穿戴物</charactereditor.showwearables>
-<charactereditor.lockspriteorigin>鎖定Sprite原點</charactereditor.lockspriteorigin>
-<charactereditor.lockspriteposition>鎖定Sprite位置</charactereditor.lockspriteposition>
-<charactereditor.lockspritesize>鎖定Sprite大小</charactereditor.lockspritesize>
-<charactereditor.adjustcollider>調整Collider</charactereditor.adjustcollider>
-<charactereditor.uniformscale>統一大小</charactereditor.uniformscale>
-<charactereditor.copyjointsettings>複製關節設定</charactereditor.copyjointsettings>
-<charactereditor.copyjointsettingstooltip>將目前的設定套用至所有選擇的關節。</charactereditor.copyjointsettingstooltip>
-<charactereditor.jointscale>關節大小</charactereditor.jointscale>
-<charactereditor.limbscale>肢體大小</charactereditor.limbscale>
-<charactereditor.selectedanimation>選擇動畫</charactereditor.selectedanimation>
-<charactereditor.previouscharacter>前一項</charactereditor.previouscharacter>
-<charactereditor.nextcharacter>後一項</charactereditor.nextcharacter>
-<charactereditor.showparameters>參數 [F1]</charactereditor.showparameters>
-<charactereditor.showspritesheet>Spritesheet [T]</charactereditor.showspritesheet>
-<charactereditor.drawskeleton>骨架 [N]</charactereditor.drawskeleton>
-<charactereditor.enablelights>光線 [L]</charactereditor.enablelights>
-<charactereditor.drawdamagemodifiers>傷害修改器 [M]</charactereditor.drawdamagemodifiers>
-<charactereditor.editcharacter>角色 [1]</charactereditor.editcharacter>
-<charactereditor.editragdoll>RAGDOLL [2]</charactereditor.editragdoll>
-<charactereditor.editlimbs>肢體 [3]</charactereditor.editlimbs>
-<charactereditor.editjoints>關節 [4]</charactereditor.editjoints>
-<charactereditor.editanimations>動畫 [5]</charactereditor.editanimations>
-<charactereditor.editiktargets>IK目標 [I]</charactereditor.editiktargets>
-<charactereditor.freeze>凍結</charactereditor.freeze>
-<charactereditor.autofreeze>自動凍結</charactereditor.autofreeze>
-<charactereditor.limbpairediting>配對肢體編輯</charactereditor.limbpairediting>
-<charactereditor.animationtestpose>測試姿勢 [X]</charactereditor.animationtestpose>
-<charactereditor.animationtestposeenabled>測試姿勢已啟用</charactereditor.animationtestposeenabled>
-<charactereditor.automove>自動移動</charactereditor.automove>
-<charactereditor.followcursor>跟隨滑鼠</charactereditor.followcursor>
-<charactereditor.showcolliders>Colliders [C]</charactereditor.showcolliders>
-<charactereditor.editbackgroundcolor>編輯背景色彩</charactereditor.editbackgroundcolor>
-<charactereditor.savebutton>全部儲存</charactereditor.savebutton>
-<charactereditor.allanimationssaved>已儲存所有動畫</charactereditor.allanimationssaved>
-<charactereditor.ragdollsavedto>已儲存Ragdoll至 [path]</charactereditor.ragdollsavedto>
-<charactereditor.charactersavedto>已儲存角色設定檔至 [path]</charactereditor.charactersavedto>
-<charactereditor.resetbutton>重置</charactereditor.resetbutton>
-<charactereditor.saveragdoll>儲存Ragdoll</charactereditor.saveragdoll>
-<charactereditor.providefilename>請為檔案命名</charactereditor.providefilename>
-<charactereditor.loadragdoll>讀取Ragdoll</charactereditor.loadragdoll>
-<charactereditor.couldntopendirectory>無法開啟路徑 [folder]!</charactereditor.couldntopendirectory>
-<charactereditor.ragdolldeletedfrom>已刪除於 [file] 的Ragdoll</charactereditor.ragdolldeletedfrom>
-<charactereditor.ragdollloadedfrom>已自 [file] 讀取Ragdoll</charactereditor.ragdollloadedfrom>
-<charactereditor.saveanimation>儲存動畫</charactereditor.saveanimation>
-<charactereditor.selectanimationtype>選擇動畫類型</charactereditor.selectanimationtype>
-<charactereditor.animationoftypesavedto>[type] 類型動畫已儲存至 [path]</charactereditor.animationoftypesavedto>
-<charactereditor.loadanimation>讀取動畫</charactereditor.loadanimation>
-<charactereditor.animationoftypedeleted>已刪除於 [file] 的 [type] 類型動畫</charactereditor.animationoftypedeleted>
-<charactereditor.animationtypenotimplemented>不存在 [type] 類型動畫！</charactereditor.animationtypenotimplemented>
-<charactereditor.animationoftypeloaded>已讀取來自 [file] 的 [type] 類型動畫</charactereditor.animationoftypeloaded>
-<charactereditor.reloadtextures>重新讀取貼圖</charactereditor.reloadtextures>
-<charactereditor.recreateragdoll>重新建立Ragdoll [F5]</charactereditor.recreateragdoll>
-<charactereditor.recreateragdolltooltip>多種參數需要重新建立Ragdoll。若有參數在調整後沒有發生變化，請點擊此按鈕。</charactereditor.recreateragdolltooltip>
-<charactereditor.createnewcharacter>建立新角色</charactereditor.createnewcharacter>
-<charactereditor.copycharacter>複製角色</charactereditor.copycharacter>
-<charactereditor.copycharactertooltip>複製當前角色</charactereditor.copycharactertooltip>
-<charactereditor.nofieldforparameterfound>找不到[parameter]參數欄位！</charactereditor.nofieldforparameterfound>
-<charactereditor.holdleftalttoadjustcyclespeed>使用左Alt鍵調整循環速度</charactereditor.holdleftalttoadjustcyclespeed>
-<charactereditor.cyclespeed>循環速度</charactereditor.cyclespeed>
-<charactereditor.movementspeed>移動速度</charactereditor.movementspeed>
-<charactereditor.headangle>頭部角度</charactereditor.headangle>
-<charactereditor.head>頭部</charactereditor.head>
-<charactereditor.headposition>頭部位置</charactereditor.headposition>
-<charactereditor.torsoangle>軀幹角度</charactereditor.torsoangle>
-<charactereditor.torso>軀幹</charactereditor.torso>
-<charactereditor.torsoposition>軀幹位置</charactereditor.torsoposition>
-<charactereditor.tailangle>尾巴角度</charactereditor.tailangle>
-<charactereditor.footangle>足部角度</charactereditor.footangle>
-<charactereditor.stepsize>步距</charactereditor.stepsize>
-<charactereditor.handmoveamount>手部移動量</charactereditor.handmoveamount>
-<charactereditor.tailmovementspeed>尾巴移動速度</charactereditor.tailmovementspeed>
-<charactereditor.tailmovementamount>尾巴移動量</charactereditor.tailmovementamount>
-<charactereditor.legmovementspeed>足部移動速度</charactereditor.legmovementspeed>
-<charactereditor.legmovementamount>足部移動量</charactereditor.legmovementamount>
-<charactereditor.handmovementamount>手部移動量</charactereditor.handmovementamount>
-<charactereditor.holdleftalttomanipulatejoint>使用左Alt鍵調整調整關節的另一端</charactereditor.holdleftalttomanipulatejoint>
-<charactereditor.origin>原點</charactereditor.origin>
-<charactereditor.position>位置: [coordinates]</charactereditor.position>
-<charactereditor.size>大小</charactereditor.size>
-<charactereditor.upperlimit>上限</charactereditor.upperlimit>
-<charactereditor.lowerlimit>下限</charactereditor.lowerlimit>
-<charactereditor.defaultname>Character X</charactereditor.defaultname>
-<charactereditor.ishumanoid>是類人生物？</charactereditor.ishumanoid>
-<charactereditor.canentersubmarines>可進入潛艇？</charactereditor.canentersubmarines>
-<charactereditor.canwalk>可步行？</charactereditor.canwalk>
-<charactereditor.configfileoutput>輸出設定檔</charactereditor.configfileoutput>
-<charactereditor.texturepath>貼圖位址</charactereditor.texturepath>
-<charactereditor.selecttexture>選擇貼圖</charactereditor.selecttexture>
-<charactereditor.contentpackagename>內容套件名稱</charactereditor.contentpackagename>
-<charactereditor.texturedoesnotexist>貼圖檔案不存在！</charactereditor.texturedoesnotexist>
-<charactereditor.defineragdoll>定義Ragdoll</charactereditor.defineragdoll>
-<charactereditor.limbs>肢體</charactereditor.limbs>
-<charactereditor.limb>肢體</charactereditor.limb>
-<charactereditor.joints>關節</charactereditor.joints>
-<charactereditor.joint>關節</charactereditor.joint>
-<charactereditor.selectfile>選擇檔案</charactereditor.selectfile>
-<charactereditor.missingtorsoorhead>需要定義至少一個肢體為軀幹或頭部！</charactereditor.missingtorsoorhead>
-<charactereditor.missinglimbtype>需要定義至少一個肢體為[limbtype]！</charactereditor.missinglimbtype>
-<charactereditor.charactercreated>已建立 [name] 角色</charactereditor.charactercreated>
-<charactereditor.limbtype>肢體類型</charactereditor.limbtype>
-<charactereditor.sourcerectangle>來源矩形</charactereditor.sourcerectangle>
-<charactereditor.id>Identifier</charactereditor.id>
-<charactereditor.limbwithindex>肢體 [index]</charactereditor.limbwithindex>
-<charactereditor.limbwithindexanchor>肢體 [index] 錨點</charactereditor.limbwithindexanchor>
-<charactereditor.failedtoreadhtml>角色編輯器介面: 無法讀取位於 [path] 的 HTML檔案</charactereditor.failedtoreadhtml>
-<charactereditor.multipleitemswithsamehierarchy>發現複數擁有相同 [hierarchy] 層級的物件 ([name])。無法繼續。</charactereditor.multipleitemswithsamehierarchy>
-<charactereditor.cannoteditvanillacharacters>無法對存在於 "Vanilla" 內容套件中的角色！若要進行編輯，可以建立該角色的副本 (在其他內容套件中)。</charactereditor.cannoteditvanillacharacters>
-<charactereditor.existingcharacterfoundreplaceverification>此內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (將遺失原始檔案)？</charactereditor.existingcharacterfoundreplaceverification>
-<charactereditor.existingcharacterfoundoverrideverification>其他內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (不會遺失原始檔案)？</charactereditor.existingcharacterfoundoverrideverification>
-<charactereditor.existingcharacterfound>已有相同名稱的角色存在。</charactereditor.existingcharacterfound>
-<charactereditor.modespanel>編輯</charactereditor.modespanel>
-<charactereditor.fileeditpanel>檔案</charactereditor.fileeditpanel>
-<charactereditor.optionspanel>選項</charactereditor.optionspanel>
-<charactereditor.characterpanel>角色</charactereditor.characterpanel>
-<charactereditor.toolspanel>工具</charactereditor.toolspanel>
-<charactereditor.minormodestitle>顯示</charactereditor.minormodestitle>
-<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
-<charactereditor.addaitarget>添加目標</charactereditor.addaitarget>
-<charactereditor.addbloodemitter>添加血液發射器</charactereditor.addbloodemitter>
-<charactereditor.addgibemitter>添加內臟發射器</charactereditor.addgibemitter>
-<charactereditor.adddamageemitter>添加傷害發射器</charactereditor.adddamageemitter>
-<charactereditor.addsound>添加音效</charactereditor.addsound>
-<charactereditor.addlightsource>添加光線</charactereditor.addlightsource>
-<charactereditor.addattack>添加攻擊</charactereditor.addattack>
-<charactereditor.addaffliction>添加效果</charactereditor.addaffliction>
-<charactereditor.adddamagemodifier>添加傷害修改器</charactereditor.adddamagemodifier>
-<charactereditor.addinventory>添加物品欄</charactereditor.addinventory>
-<charactereditor.addinventoryitem>添加物品欄物品</charactereditor.addinventoryitem>
-<charactereditor.selected>所選</charactereditor.selected>
-<charactereditor.duplicatelimb>複製肢體</charactereditor.duplicatelimb>
-<charactereditor.deleteselected>刪除所選</charactereditor.deleteselected>
-<charactereditor.createjoint>建立關節</charactereditor.createjoint>
-<charactereditor.createlimb>建立肢體</charactereditor.createlimb>
-<charactereditor.drawlimbonspritesheet>於Spritesheet上繪製肢體</charactereditor.drawlimbonspritesheet>
-<charactereditor.onlyshowselectedlimbs>僅顯示所選肢體</charactereditor.onlyshowselectedlimbs>
-<charactereditor.newcontentpackage>新內容套件</charactereditor.newcontentpackage>
-<charactereditor.existingjointfound>肢體 [limbid1] 和 [limbid2] 之間已有關節！</charactereditor.existingjointfound>
-<charactereditor.unrestrict>無限制</charactereditor.unrestrict>
-<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
-<charactereditor.contentpackagenameinuse>已有相同名稱的內容套件存在。請使用其他名稱或自下拉選單中選擇該內容套件並將角色加入其中。</charactereditor.contentpackagenameinuse>
-<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<!-- Modified values -->
+<entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
+<entitydescription.piratehelmet>一頂改造過的防彈頭盔。儘管做工粗糙，這頂頭盔意外的堅固。</entitydescription.piratehelmet>
+<entityname.piratebodyarmor>分離主義者護甲</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>一套護甲，部分由木星分離主義份子手工加工改造。它比看起來的還要重。</entitydescription.piratebodyarmor>
+<entityname.piratecaptainhat>分離主義者艦長帽子</entityname.piratecaptainhat>
+<entityname.piratebandana>分離主義者頭巾</entityname.piratebandana>
+<entityname.pirateclothes>分離主義者服裝</entityname.pirateclothes>
+<entitydescription.pirateclothes>由木星分離主義份子手工製作的粗糙衣物，它的設計能夠抵禦歐羅巴海中的嚴峻生活，這件衣物上還另外配備了輕型護甲。</entitydescription.pirateclothes>
+<entityname.piratesubexterior>分離主義者潛艇外觀配件</entityname.piratesubexterior>
+<entityname.piratesubdeco>分離主義者潛艇裝飾</entityname.piratesubdeco>
+<missionname.escort1>運送聯盟人員</missionname.escort1>
+<missiondescription.escort1>聯盟自[location1]雇用了一組人員，他們需要被送至[location2]。留意不要危害他們的生命安全，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort1>
+<missiondescription.escort3>一群被捕的分離主義者需要被運送至[location2]，報酬為[reward]馬克。旅途中務必看好他們，這些人有可能試圖脫逃。切勿讓他們喪生。</missiondescription.escort3>
+<missionname.escort2>運送聯盟官員</missionname.escort2>
+<missiondescription.escort2>一位聯盟的官員貴賓和他們的武裝護衛必須被送至[location2]。留意不要使這位VIP暴露在不必要的風險之中，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort2>
+<missionname.pirate1>分離主義者船艦</missionname.pirate1>
+<missiondescription.pirate1>找到並殲滅在這個區域中橫行霸道的木星分離主義份子船艦。標示的地點為最後一次目擊海盜的位置。</missiondescription.pirate1>
+<missionsuccess.pirate1>成功殲滅分離主義者船艦船員。</missionsuccess.pirate1>
+<missionfailure.pirate1>並未殲滅分離主義者船艦船員。</missionfailure.pirate1>
+<missionsonarlabel.pirate1>分離主義者海盜目擊地</missionsonarlabel.pirate1>
+<missionheader0.pirate1>偵測到分離主義者</missionheader0.pirate1>
+<missionheader1.pirate1>已殲滅分離主義者</missionheader1.pirate1>
+<eventtext.missionevent_escort1.c1>「在找工作嗎？聯盟從我們這裡雇了些新人，他們的新工作在附近的哨站上。護送他們安全抵達那兒，我們就會付給你一筆報酬。」</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort2.c1>「如果你想在聯盟高層之間打開知名度，我這兒有個好機會... 一位高階聯盟官員和他的武裝護衛到了這裡，他們正需要有人能送他們到附近的另一個哨站。護送他們平安抵達，你還能拿點報酬。」</eventtext.missionevent_escort2.c1>
+<eventtext.missionevent_escort3.c1>「我們最近逮捕了一些分離主義者，他們需要被轉移到附近另一座哨站上。要是我就會把他們給丟出氣閘，但聯盟高層想對他們進行訊問。你會收到不錯的報酬，但小心別忘了途中得緊緊盯著他們。」</eventtext.missionevent_escort3.c1>
+<eventtext.missionevent_escort4.c1>「我們相信木星分離主義恐怖分子已經混入了無辜平民之中。他們想要搭上下一艘從這裡出發的船艦離開這個地方，如果你願意當那艘船，你或許能夠揪出並逮捕他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4.c1>
+<missiondescription.cargocompoundn>分離主義者出價[reward]馬克，要求運送一批爆裂物給位於[location2]的一組隊伍手上。</missiondescription.cargocompoundn>
+<lockedpathtooltipcoalitionreputation>這條通道已被封鎖，你在‖color:faction.coalition‖歐羅巴聯盟‖end‖中的聲望必須到達[requiredreputation]，並獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipcoalitionreputation>
 
-<!-- Entity properties -->
-<sp.scale.name>縮放</sp.scale.name>
-<sp.spritedepth.name>Sprite深度</sp.spritedepth.name>
-<sp.disallowedupgrades.name>禁用的升級</sp.disallowedupgrades.name>
-<sp.hiddeningame.name>在遊戲進行時隱藏</sp.hiddeningame.name>
-<sp.item.hiddeningame.name>在遊戲進行時隱藏</sp.item.hiddeningame.name>
-<sp.item.noninteractable.name>不可互動</sp.item.noninteractable.name>
-<sp.item.spritecolor.name>Sprite色彩</sp.item.spritecolor.name>
-<sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
-<sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
-<sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為True時有效。</sp.item.containercolor.description>
-<sp.item.condition.name>耐久值</sp.item.condition.name>
-<sp.item.tags.name>Tags</sp.item.tags.name>
-<sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
-<sp.item.displaysidebysidewhenlinked.description>若想要在互動時讓已連結物件的介面同時顯示在遊戲畫面中，請啟用這個選項。注意: 若物件介面在設計上不適合同時顯示，它們可能會遮住彼此！</sp.item.displaysidebysidewhenlinked.description>
-<sp.item.spritedepth.name>Sprite深度</sp.item.spritedepth.name>
-<sp.item.nonplayerteaminteractable.name>非玩家隊伍可進行互動</sp.item.nonplayerteaminteractable.name>
-<sp.item.nonplayerteaminteractable.description>啟用後此物品將只能由非玩家隊伍角色進行互動。</sp.item.nonplayerteaminteractable.description>
-<sp.item.allowswapping.name>允許替換</sp.item.allowswapping.name>
-<sp.item.allowswapping.description>此物品能否在哨站上替換為其他物品？僅對砲塔等可替換物品有效。</sp.item.allowswapping.description>
-<sp.item.invulnerabletodamage.name>不受傷害</sp.item.invulnerabletodamage.name>
-<sp.item.invulnerabletodamage.description>啟用時，該物品不會受到來自任何來源的傷害。</sp.item.invulnerabletodamage.description>
-<sp.structure.indestructible.name>不可摧毀</sp.structure.indestructible.name>
-<sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
-<sp.structure.spritecolor.name>Sprite色彩</sp.structure.spritecolor.name>
-<sp.structure.usedropshadow.name>使用投放陰影</sp.structure.usedropshadow.name>
-<sp.structure.dropshadowoffset.name>投放陰影偏移</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>陰影與結構配件的相對位置，若為 0，陰影將自動朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
-<sp.structure.texturescale.name>貼圖大小</sp.structure.texturescale.name>
-<sp.structure.textureoffset.name>貼圖位移</sp.structure.textureoffset.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.name>連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.description>若此結構與一處哨站模組邊緣的門連結，若該門被哨站使用，這個選項將移除此結構。否則此結構將在該門未被使用時被移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
-<sp.structure.noaitarget.name>不為AI目標</sp.structure.noaitarget.name>
-<sp.structure.noaitarget.description>啟用時，怪物不會嘗試破壞此結構。</sp.structure.noaitarget.description>
-<sp.structure.maxhealth.name>最大生命值</sp.structure.maxhealth.name>
-<sp.hull.ambientlight.name>環境光</sp.hull.ambientlight.name>
-<sp.hull.roomname.name>艙房名稱</sp.hull.roomname.name>
-<sp.hull.iswetroom.name>是潮濕艙房</sp.hull.iswetroom.name>
-<sp.hull.iswetroom.description>此Hull是否會常態性進水？若艙房名稱包含 "ballast (壓載艙)"、"bilge (底艙)"、或 "airlock (氣閘)" 則將無法取消此設選項。</sp.hull.iswetroom.description>
-<sp.hull.avoidstaying.name>避免逗留</sp.hull.avoidstaying.name>
-<sp.hull.avoidstaying.description>Bot會避免在此逗留，但若有必要他們依然會被允許進入和通過。在設定是潮濕艙房時則強制啟用。</sp.hull.avoidstaying.description>
-<sp.door.openingspeed.name>開啟速度</sp.door.openingspeed.name>
-<sp.door.openingspeed.description>門開啟的速度。</sp.door.openingspeed.description>
-<sp.door.closingspeed.name>關閉速度</sp.door.closingspeed.name>
-<sp.door.closingspeed.description>門關上的速度。</sp.door.closingspeed.description>
-<sp.door.togglecooldown.name>切換冷卻</sp.door.togglecooldown.name>
-<sp.door.togglecooldown.description>這扇門被一個角色打開/關閉無法在此時間內再度被打開/關閉。</sp.door.togglecooldown.description>
-<sp.door.isopen.name>敞開</sp.door.isopen.name>
-<sp.door.isopen.description>這扇門當下是否為開啟狀態。</sp.door.isopen.description>
-<sp.door.usebetweenoutpostmodules.name>在哨站模組之間使用</sp.door.usebetweenoutpostmodules.name>
-<sp.door.usebetweenoutpostmodules.description>這扇門是否通往其他哨站模組？僅影響哨站模組。</sp.door.usebetweenoutpostmodules.description>
-<sp.door.botsshouldkeepopen.name>Bot保持敞開</sp.door.botsshouldkeepopen.name>
-<sp.door.botsshouldkeepopen.description>啟用時，Bots將不會在通過後關上此門。</sp.door.botsshouldkeepopen.description>
-<sp.itemcomponent.pickingtime.name>拾取時間</sp.itemcomponent.pickingtime.name>
-<sp.itemcomponent.pickingtime.description>撿起此物品需要的時間 (秒)。</sp.itemcomponent.pickingtime.description>
-<sp.itemcomponent.canbepicked.name>可被拾取</sp.itemcomponent.canbepicked.name>
-<sp.itemcomponent.canbepicked.description>物件是否能被撿起 (或當撿起動作在這個物件上會產生其他效果時，可否與其進行互動)。</sp.itemcomponent.canbepicked.description>
-<sp.itemcomponent.allowingameediting.name>允許遊戲中編輯</sp.itemcomponent.allowingameediting.name>
-<sp.itemcomponent.allowingameediting.description>此元件的屬性能否在遊戲進行中被編輯 (只在物件本身擁有可在遊戲中被編輯的數值時有效)。</sp.itemcomponent.allowingameediting.description>
-<sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
-<sp.itemcomponent.msg.description>當滑鼠游標漂浮於物件上時所顯示的一段訊息 (通常用於標註與物件的互動方式，例如: [Mouse1] 撿起)。</sp.itemcomponent.msg.description>
-<sp.electricaldischarger.range.description>物件產生的電擊自其本身擴散的範圍。</sp.electricaldischarger.range.description>
-<sp.electricaldischarger.rangemultiplierinwalls.name>牆體擴散範圍</sp.electricaldischarger.rangemultiplierinwalls.name>
-<sp.electricaldischarger.rangemultiplierinwalls.description>產生的電擊能夠沿著牆壁進一步擴散的距離。</sp.electricaldischarger.rangemultiplierinwalls.description>
-<sp.electricaldischarger.duration.name>持續時間</sp.electricaldischarger.duration.name>
-<sp.electricaldischarger.duration.description>單次放電的持續時間 (秒)。</sp.electricaldischarger.duration.description>
-<sp.electricaldischarger.outdoorsonly.name>只在艙外</sp.electricaldischarger.outdoorsonly.name>
-<sp.electricaldischarger.outdoorsonly.description>啟用時，產生的電擊將無法傳達進入艙內或傷害位於艙內的角色。</sp.electricaldischarger.outdoorsonly.description>
-<sp.powered.minvoltage.name>最低電壓</sp.powered.minvoltage.name>
-<sp.powered.minvoltage.description>這個物件運作時所需的最低電壓。遊戲中電壓的計算方式為 供電量/耗電量，若"耗電量"為1000 kW，而"最低電壓"為0.5時，則需要對物件提供至少500 kW的電力才能使其開始運作。</sp.powered.minvoltage.description>
-<sp.powered.powerconsumption.name>耗電量</sp.powered.powerconsumption.name>
-<sp.powered.powerconsumption.description>這個物件運作時消耗 (或嘗試消耗) 的電量。</sp.powered.powerconsumption.description>
-<sp.powered.vulnerabletoemp.name>能受EMP影響</sp.powered.vulnerabletoemp.name>
-<sp.powered.vulnerabletoemp.description>物件能否受到電磁脈衝的影響？</sp.powered.vulnerabletoemp.description>
-<sp.entityspawnercomponent.itemidentifier.name>物品識別字</sp.entityspawnercomponent.itemidentifier.name>
-<sp.entityspawnercomponent.itemidentifier.description>用於生成物品的識別字 (Identifier)；若 "生物名稱" 已有設定時則沒有效果。能夠以半形逗號分隔隨機產生多種物品。</sp.entityspawnercomponent.itemidentifier.description>
-<sp.entityspawnercomponent.speciesname.name>生物名稱</sp.entityspawnercomponent.speciesname.name>
-<sp.entityspawnercomponent.speciesname.description>用於產生生物；將優先於 "物品識別字" 的設定效果。能夠以半形逗號分隔隨機產生多種生物。</sp.entityspawnercomponent.speciesname.description>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>僅在船員於範圍內時產生</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
-<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>僅會在船員接近一定範圍內產生。</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
-<sp.entityspawnercomponent.crewareashape.name>船員範圍形狀</sp.entityspawnercomponent.crewareashape.name>
-<sp.entityspawnercomponent.crewareashape.description>船員需要處在其中的範圍形狀。</sp.entityspawnercomponent.crewareashape.description>
-<sp.entityspawnercomponent.crewareabounds.name>船員區域範圍</sp.entityspawnercomponent.crewareabounds.name>
-<sp.entityspawnercomponent.crewareabounds.description>船員必須處於其中的矩形範圍大小。若"船員範圍形狀"為 Circle 時無效。</sp.entityspawnercomponent.crewareabounds.description>
-<sp.entityspawnercomponent.crewarearadius.name>船員區域半徑</sp.entityspawnercomponent.crewarearadius.name>
-<sp.entityspawnercomponent.crewarearadius.description>船員必須處於其中的圓形範圍半徑。若"船員範圍形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.crewarearadius.description><!--source error?-->
-<sp.entityspawnercomponent.crewareaoffset.name>船員區域位移</sp.entityspawnercomponent.crewareaoffset.name>
-<sp.entityspawnercomponent.crewareaoffset.description>以物件中心點為基準的船員範圍位移量。</sp.entityspawnercomponent.crewareaoffset.description>
-<sp.entityspawnercomponent.spawnareashape.name>產生區域形狀</sp.entityspawnercomponent.spawnareashape.name>
-<sp.entityspawnercomponent.spawnareashape.description>產生物品或生物的範圍形狀。</sp.entityspawnercomponent.spawnareashape.description>
-<sp.entityspawnercomponent.spawnareabounds.name>產生區域範圍</sp.entityspawnercomponent.spawnareabounds.name>
-<sp.entityspawnercomponent.spawnareabounds.description>產生物品或生物的圓形範圍大小。若"產生區域形狀"為 Circle 時無效。</sp.entityspawnercomponent.spawnareabounds.description>
-<sp.entityspawnercomponent.spawnarearadius.name>產生區域半徑</sp.entityspawnercomponent.spawnarearadius.name>
-<sp.entityspawnercomponent.spawnarearadius.description>產生物品或生物的圓形範圍半徑。若"產生區域形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.spawnarearadius.description>
-<sp.entityspawnercomponent.spawnareaoffset.name>產生區域位移</sp.entityspawnercomponent.spawnareaoffset.name>
-<sp.entityspawnercomponent.spawnareaoffset.description>以物件中心點為基準的產生區域位移量。</sp.entityspawnercomponent.spawnareaoffset.description>
-<sp.entityspawnercomponent.spawntimerrange.name>產生時間範圍</sp.entityspawnercomponent.spawntimerrange.name>
-<sp.entityspawnercomponent.spawntimerrange.description>嘗試產生的間隔秒數。將兩項目設為負數值來停用自動產生。</sp.entityspawnercomponent.spawntimerrange.description>
-<sp.entityspawnercomponent.spawnamountrange.name>產生數量範圍</sp.entityspawnercomponent.spawnamountrange.name>
-<sp.entityspawnercomponent.spawnamountrange.description>單次產生物品或生物的最大與最小數量。</sp.entityspawnercomponent.spawnamountrange.description>
-<sp.entityspawnercomponent.maximumamount.name>最多數量</sp.entityspawnercomponent.maximumamount.name>
-<sp.entityspawnercomponent.maximumamount.description>最多能夠產生的物品或生物數量。0 = 沒有限制。</sp.entityspawnercomponent.maximumamount.description>
-<sp.entityspawnercomponent.maximumamountinarea.name>區域內最多數量</sp.entityspawnercomponent.maximumamountinarea.name>
-<sp.entityspawnercomponent.maximumamountinarea.description>產生區域內達此物品或生物數量時將不再產生。0 = 沒有限制。</sp.entityspawnercomponent.maximumamountinarea.description>
-<sp.entityspawnercomponent.maximumamountrangepadding.name>最大值緩衝範圍</sp.entityspawnercomponent.maximumamountrangepadding.name>
-<sp.entityspawnercomponent.maximumamountrangepadding.description>以此值將計算物品或敵人最大數量的矩形或圓形範圍擴大。</sp.entityspawnercomponent.maximumamountrangepadding.description>
-<sp.holdable.holdpos.name>握持位置</sp.holdable.holdpos.name>
-<sp.holdable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.holdable.holdpos.description>
-<sp.holdable.holdangle.name>握持角度</sp.holdable.holdangle.name>
-<sp.holdable.holdangle.description>角色裝備物件時它的角度 (以角度為單位，以角色的手為基準的旋轉角度)。</sp.holdable.holdangle.description>
-<sp.holdable.swingamount.name>擺動量</sp.holdable.swingamount.name>
-<sp.holdable.swingamount.description>瞄準/握住物品時，物品的擺動程度 (以像素為單位，以 "瞄準位置/握持位置" 為基準進行移動的量)。</sp.holdable.swingamount.description>
-<sp.holdable.swingspeed.name>擺動速度</sp.holdable.swingspeed.name>
-<sp.holdable.swingspeed.description>瞄準/握住物品時的擺動速度 (只在 "揮舞量" 有數值時有效)。</sp.holdable.swingspeed.description>
-<sp.holdable.swingwhenholding.name>握持時擺動</sp.holdable.swingwhenholding.name>
-<sp.holdable.swingwhenholding.description>角色裝備物件時是否揮舞它。</sp.holdable.swingwhenholding.description>
-<sp.holdable.swingwhenaiming.name>瞄準時擺動</sp.holdable.swingwhenaiming.name>
-<sp.holdable.swingwhenaiming.description>以物件進行瞄準時是否揮舞它。</sp.holdable.swingwhenaiming.description>
-<sp.holdable.swingwhenusing.name>使用時擺動</sp.holdable.swingwhenusing.name>
-<sp.holdable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.holdable.swingwhenusing.description>
-<sp.holdable.disableheadrotation.name>停用頭部旋轉</sp.holdable.disableheadrotation.name>
-<sp.holdable.spritedepthwhendropped.name>掉落時Sprite深度</sp.holdable.spritedepthwhendropped.name>
-<sp.holdable.spritedepthwhendropped.description>當物品未裝設於牆上時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
-<sp.itemcontainer.containablerestrictions.name>可容納限制</sp.itemcontainer.containablerestrictions.name>
-<sp.itemcontainer.containablerestrictions.description>用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
-<sp.itemcontainer.autofill.name>自動填充</sp.itemcontainer.autofill.name>
-<sp.itemcontainer.autofill.description>這個容器是否自動被物品填充？</sp.itemcontainer.autofill.description>
-<sp.itemlabel.text.name>文字</sp.itemlabel.text.name>
-<sp.itemlabel.text.description>顯示於標識上的文字。</sp.itemlabel.text.description>
-<sp.itemlabel.ignorelocalization.name>忽略當地語系化</sp.itemlabel.ignorelocalization.name>
-<sp.itemlabel.ignorelocalization.description>是否忽略忽略當地語系化並總是顯示原始值。</sp.itemlabel.ignorelocalization.description>
-<sp.itemlabel.textcolor.description>標識上所顯示文字的色彩 (R,G,B,A)。</sp.itemlabel.textcolor.description>
-<sp.itemlabel.textscale.description>標識上所顯示文字的縮放。</sp.itemlabel.textscale.description>
-<sp.lightcomponent.range.description>燈光的照射範圍。數值愈高，對遊戲的效能影響愈大。</sp.lightcomponent.range.description>
-<sp.lightcomponent.castshadows.name>投射陰影</sp.lightcomponent.castshadows.name>
-<sp.lightcomponent.castshadows.description>當結構配件受到此光線照射時是否會產生陰影。關閉這個選項將改善遊戲效能，建議小範圍燈光停用此選項。設為 "顯示在潛艇之後" 的燈光不會投射任何陰影，且不受到此選項影響。</sp.lightcomponent.castshadows.description>
-<sp.lightcomponent.drawbehindsubs.name>顯示在潛艇之後</sp.lightcomponent.drawbehindsubs.name>
-<sp.lightcomponent.drawbehindsubs.description>顯示在潛艇之後的燈光不會投射任何陰影，能夠更快地被顯示。建議潛艇外的裝飾性燈光啟用這個選項。</sp.lightcomponent.drawbehindsubs.description>
-<sp.lightcomponent.ison.description>這個燈光當下為On。</sp.lightcomponent.ison.description>
-<sp.lightcomponent.flicker.name>閃爍</sp.lightcomponent.flicker.name>
-<sp.lightcomponent.flicker.description>燈光閃爍的程度。0 = 沒有閃爍、1 = 燈光將在最大亮度與完全無光之間交替。</sp.lightcomponent.flicker.description>
-<sp.lightcomponent.flickerspeed.name>閃爍速度</sp.lightcomponent.flickerspeed.name>
-<sp.lightcomponent.flickerspeed.description>燈光閃爍的速度。</sp.lightcomponent.flickerspeed.description>
-<sp.lightcomponent.pulsefrequency.name>脈衝頻率</sp.lightcomponent.pulsefrequency.name>
-<sp.lightcomponent.pulsefrequency.description>燈光進行脈衝的頻率 (Hz)。0 = 不動作。</sp.lightcomponent.pulsefrequency.description>
-<sp.lightcomponent.pulseamount.name>脈衝量</sp.lightcomponent.pulseamount.name>
-<sp.lightcomponent.pulseamount.description>燈光進行脈衝的程度 (Hz)。0 = 不動作、1 = 在最大亮度與完全無光之間交替。</sp.lightcomponent.pulseamount.description>
-<sp.lightcomponent.blinkfrequency.name>開關頻率</sp.lightcomponent.blinkfrequency.name>
-<sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
-<sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
-<sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>啟用時，物品將持續發送0/1訊號，與其互動將翻轉訊號 (使物品如開關一般作動)。停用時，物品僅在互動當下發送訊號1。</sp.controller.istoggle.description>
-<sp.controller.state.name>狀態</sp.controller.state.name>
-<sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
-<sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
-<sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
-<sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
-<sp.engine.propellerpos.name>推進器位置</sp.engine.propellerpos.name>
-<sp.engine.propellerpos.description>以物件中心點為基準的推進器位置 (以像素為單位)。用以定義產生粒子和角色受到推進器傷害的位置。</sp.engine.propellerpos.description>
-<sp.engine.disablepropellerdamage.name>停用推進器傷害</sp.engine.disablepropellerdamage.name>
-<sp.minimap.requirewaterdetectors.name>需要水體偵測器</sp.minimap.requirewaterdetectors.name>
-<sp.minimap.requirewaterdetectors.description>此設備是否需要透過水體偵測器的輸入才能顯示艙房內的水位。</sp.minimap.requirewaterdetectors.description>
-<sp.minimap.requireoxygendetectors.name>需要氧氣偵測器</sp.minimap.requireoxygendetectors.name>
-<sp.minimap.requireoxygendetectors.description>此設備是否需要透過氧氣偵測器的輸入才能顯示艙房內的氧氣狀態。</sp.minimap.requireoxygendetectors.description>
-<sp.minimap.showhullintegrity.name>顯示船體完整性</sp.minimap.showhullintegrity.name>
-<sp.minimap.showhullintegrity.description>此設備是否顯示牆體損傷。</sp.minimap.showhullintegrity.description>
-<sp.minimap.enablehullstatus.name>顯示船體狀態</sp.minimap.enablehullstatus.name>
-<sp.minimap.enablehullstatus.description>啟用船體狀態模式。</sp.minimap.enablehullstatus.description>
-<sp.minimap.enableelectricalview.name>啟用電氣視圖</sp.minimap.enableelectricalview.name>
-<sp.minimap.enableelectricalview.description>啟用電氣視圖模式。</sp.minimap.enableelectricalview.description>
-<sp.minimap.enableitemfinder.name>啟用物品搜索器</sp.minimap.enableitemfinder.name>
-<sp.minimap.enableitemfinder.description>啟用物品搜索器模式。</sp.minimap.enableitemfinder.description>
-<sp.pump.maxflow.name>最大流量</sp.pump.maxflow.name>
-<sp.pump.maxflow.description>抽水機以100%將水打入/抽出的速度。</sp.pump.maxflow.description>
-<sp.reactor.maxpoweroutput.name>最大輸出功率</sp.reactor.maxpoweroutput.name>
-<sp.reactor.maxpoweroutput.description>反應爐全力運轉時的最大輸出功率 (kW)。</sp.reactor.maxpoweroutput.description>
-<sp.reactor.meltdowndelay.name>熔毀延遲時間</sp.reactor.meltdowndelay.name>
-<sp.reactor.meltdowndelay.description>臨界溫度持續多久才會使反應爐熔毀。</sp.reactor.meltdowndelay.description>
-<sp.reactor.firedelay.name>起火延遲時間</sp.reactor.firedelay.name>
-<sp.reactor.firedelay.description>臨界溫度持續多久才會使反應爐起火。</sp.reactor.firedelay.description>
-<sp.reactor.fuelconsumptionrate.name>燃料消耗率</sp.reactor.fuelconsumptionrate.name>
-<sp.reactor.fuelconsumptionrate.description>置於當中的燃料棒每秒被消耗的量。</sp.reactor.fuelconsumptionrate.description>
-<sp.reactor.explosiondamagesothersubs.name>爆炸對於其他潛艇造成的傷害</sp.reactor.explosiondamagesothersubs.name>
-<sp.sonar.usetransducers.name>使用聲納發射器</sp.sonar.usetransducers.name>
-<sp.sonar.usetransducers.description>此聲納是否需要外接聲納發射器。</sp.sonar.usetransducers.description>
-<sp.sonar.centerontransducers.name>以聲納發射器為中心</sp.sonar.centerontransducers.name>
-<sp.sonar.centerontransducers.description>聲納畫面是否以潛艇或以聲納發射器為畫面中心點。僅在"以聲納發射器為中心"啟用時有效。</sp.sonar.centerontransducers.description>
-<sp.sonar.hasmineralscanner.name>有礦物偵測器</sp.sonar.hasmineralscanner.name>
-<sp.sonar.hasmineralscanner.description>此聲納是否有礦物偵測模式。</sp.sonar.hasmineralscanner.description>
-<sp.steering.neutralballastlevel.name>壓載艙中立水位</sp.steering.neutralballastlevel.name>
-<sp.steering.neutralballastlevel.description>當潛艇未進行上浮/下潛時壓載艙的水位。能用於彌補壓載艙尺寸相對於潛艇過大/過小的情形。</sp.steering.neutralballastlevel.description>
-<sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
-<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW)。</sp.powercontainer.maxoutput.description>
-<sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
-<sp.powercontainer.capacity.description>此設備的最大容量 (kW * 分鐘)。若為 1000 則此設備將能夠輸出100 kW的電力10分鐘，或 1000 kW的電力1分鐘。</sp.powercontainer.capacity.description>
-<sp.powercontainer.charge.description>此設備當下的電量。</sp.powercontainer.charge.description>
-<sp.powercontainer.maxrechargespeed.name>最大充電率</sp.powercontainer.maxrechargespeed.name>
-<sp.powercontainer.maxrechargespeed.description>此設備的最大充電速度。若設為 100 kW，而設備容量為 1000 kW時，則將耗費10分鐘才能使此設備完全充飽電力。</sp.powercontainer.maxrechargespeed.description>
-<sp.powercontainer.rechargespeed.name>充電率</sp.powercontainer.rechargespeed.name>
-<sp.powercontainer.rechargespeed.description>此設備當下的充電速度。</sp.powercontainer.rechargespeed.description>
-<sp.powercontainer.efficiency.name>效率</sp.powercontainer.efficiency.name>
-<sp.powercontainer.efficiency.description>能自物品取得的電量與輸入其中電量的比例。</sp.powercontainer.efficiency.description><!--need edit-->
-<sp.PowerContainer.FlipIndicator.name>反轉進度條</sp.PowerContainer.FlipIndicator.name>
-<sp.PowerContainer.FlipIndicator.description>進度條是否自另一端開始發展。</sp.PowerContainer.FlipIndicator.description>
-<sp.powertransfer.canbeoverloaded.name>能被超載</sp.powertransfer.canbeoverloaded.name>
-<sp.powertransfer.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.powertransfer.canbeoverloaded.description>
-<sp.powertransfer.overloadvoltage.name>超載電壓</sp.powertransfer.overloadvoltage.name>
-<sp.powertransfer.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.powertransfer.overloadvoltage.description>
-<sp.powertransfer.fireprobability.name>起火機率</sp.powertransfer.fireprobability.name>
-<sp.powertransfer.fireprobability.description>當物件受到電力損害時起火的機率。</sp.powertransfer.fireprobability.description>
-<sp.quality.qualitylevel.name>品質等級</sp.quality.qualitylevel.name>
-<sp.repairable.deteriorationspeed.name>劣化速度</sp.repairable.deteriorationspeed.name>
-<sp.repairable.deteriorationspeed.description>設備狀態自然劣化的速度 (秒)。</sp.repairable.deteriorationspeed.description>
-<sp.repairable.mindeteriorationdelay.name>最短劣化延遲</sp.repairable.mindeteriorationdelay.name>
-<sp.repairable.mindeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.mindeteriorationdelay.description>
-<sp.repairable.maxdeteriorationdelay.name>最長劣化延遲</sp.repairable.maxdeteriorationdelay.name>
-<sp.repairable.maxdeteriorationdelay.description>設備開始自然劣化前的最長時間。</sp.repairable.maxdeteriorationdelay.description>
-<sp.repairable.mindeteriorationcondition.name>劣化最低耐久值</sp.repairable.mindeteriorationcondition.name>
-<sp.repairable.mindeteriorationcondition.description>設備耐久值低於此後將不再劣化。若設為 10，其耐久值將自然地降至10並停止 (除非進一步受到來自外部的損害)。為最大耐久值的百分比。</sp.repairable.mindeteriorationcondition.description>
-<sp.repairable.repairthreshold.name>維修臨界點</sp.repairable.repairthreshold.name>
-<sp.repairable.repairthreshold.description>設備耐久值必須在此值以下才能被修復。為最大耐久值的百分比。</sp.repairable.repairthreshold.description>
-<sp.repairable.fixdurationlowskill.name>低技能修復時間</sp.repairable.fixdurationlowskill.name>
-<sp.repairable.fixdurationlowskill.description>在技能水準不足的情況下修復物品所需的時間。</sp.repairable.fixdurationlowskill.description>
-<sp.repairable.fixdurationhighskill.name>高技能修復時間</sp.repairable.fixdurationhighskill.name>
-<sp.repairable.fixdurationhighskill.description>在技能水準足夠的情況下修復物品所需的時間。</sp.repairable.fixdurationhighskill.description>
-<sp.repairtool.barrelrotation.name>槍管旋轉</sp.repairtool.barrelrotation.name>
-<sp.repairtool.barrelrotation.description>槍管的旋轉角度。</sp.repairtool.barrelrotation.description>
-<sp.buttonterminal.signals.name>訊號</sp.buttonterminal.signals.name>
-<sp.buttonterminal.signals.description>按下相應按鈕時所輸出的值。</sp.buttonterminal.signals.description>
-<sp.buttonterminal.activatingitems.name>啟動物品</sp.buttonterminal.activatingitems.name>
-<sp.buttonterminal.activatingitems.description>當放有包含特定識別字 (Identifier) 或標籤 (Tag)的物品之後允許使用終端按鈕。能以半形逗號分隔多個。</sp.buttonterminal.activatingitems.description>
-<sp.connectionpanel.locked.name>鎖定</sp.connectionpanel.locked.name>
-<sp.connectionpanel.locked.description>鎖定的配線盤無法在遊戲進行時對它進行配線。</sp.connectionpanel.locked.description>
-<sp.memorycomponent.maxvaluelength.name>最大輸出長度</sp.memorycomponent.maxvaluelength.name>
-<sp.memorycomponent.maxvaluelength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.memorycomponent.maxvaluelength.description>
-<sp.memorycomponent.writeable.name>可被寫入</sp.memorycomponent.writeable.name>
-<sp.memorycomponent.writeable.description>儲存在Memory元件中的數值能透過收到訊號而改變。</sp.memorycomponent.writeable.description>
-<sp.motionsensor.ignoredead.name>忽略已死亡</sp.motionsensor.ignoredead.name>
-<sp.motionsensor.ignoredead.description>偵測器是否忽略角色的屍體？</sp.motionsensor.ignoredead.description>
-<sp.motionsensor.rangex.description>水平偵測範圍。</sp.motionsensor.rangex.description>
-<sp.motionsensor.rangey.description>垂直偵測範圍。</sp.motionsensor.rangey.description>
-<sp.motionsensor.detectoffset.name>偵測範圍位移</sp.motionsensor.detectoffset.name>
-<sp.motionsensor.detectoffset.description>偵測範圍與物件本身的相對位置。若設為 0,100 則偵測範圍將位於距離物件上方 100 單位的位置。</sp.motionsensor.detectoffset.description>
-<sp.motionsensor.updateinterval.name>更新間隔</sp.motionsensor.updateinterval.name>
-<sp.motionsensor.updateinterval.description>偵測器檢查周遭是否有物件移動的間隔時間。數值愈高對遊戲效能影響愈低。</sp.motionsensor.updateinterval.description>
-<sp.motionsensor.output.description>物件偵測到動態時所輸出的值。</sp.motionsensor.output.description>
-<sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的值。</sp.motionsensor.falseoutput.description>
-<sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s)。</sp.motionsensor.minimumvelocity.description>
-<sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
-<sp.terminal.welcomemessage.description>首次打開終端時所顯示的訊息。</sp.terminal.welcomemessage.description>
-<sp.terminal.usemonospacefont.name>使用Monospace字體</sp.terminal.usemonospacefont.name>
-<sp.terminal.usemonospacefont.description>若啟用，此終端將使用Monospace字體。</sp.terminal.usemonospacefont.description>
-<sp.textcolor.name>文字色彩</sp.textcolor.name>
-<sp.terminal.textcolor.description>終端的文字色彩。</sp.terminal.textcolor.description>
-<sp.range.name>範圍</sp.range.name>
-<sp.wificomponent.range.description>接收者要多近才能收到此Wifi元件的訊號。</sp.wificomponent.range.description>
-<sp.wificomponent.allowcrossteamcommunication.name>允許跨團隊通訊</sp.wificomponent.allowcrossteamcommunication.name>
-<sp.wificomponent.allowcrossteamcommunication.description>此元件能否與另一隊伍潛艇中的Wifi元件進行通訊 (如復活小艇或戰鬥任務中的敵方潛艇)。輸出和輸入方元件都必須啟用此選項。</sp.wificomponent.allowcrossteamcommunication.description>
-<sp.wificomponent.linktochat.name>連接至聊天</sp.wificomponent.linktochat.name>
-<sp.wificomponent.linktochat.description>啟用時，也對持有該物品的玩家顯示來自任何連接至聊天的Wifi元件訊號為聊天室訊息。</sp.wificomponent.linktochat.description>
-<sp.wificomponent.minchatmessageinterval.name>最短聊天訊息間隔</sp.wificomponent.minchatmessageinterval.name>
-<sp.wificomponent.minchatmessageinterval.description>訊息之間需要經過多長秒數之後才會顯示於聊天室。不建議將數值設定過低，若有與聊天連接的Wifi元件連續輸出訊號，這將產生大量聊天訊息。</sp.wificomponent.minchatmessageinterval.description>
-<sp.wificomponent.discardduplicatechatmessages.name>捨棄重複的聊天訊息</sp.wificomponent.discardduplicatechatmessages.name>
-<sp.wificomponent.discardduplicatechatmessages.description>啟用時，此元件將僅在所收到訊號改變時才會發送聊天訊息。</sp.wificomponent.discardduplicatechatmessages.description>
-<sp.wire.noautolock.name>不自動鎖定</sp.wire.noautolock.name>
-<sp.wire.noautolock.description>啟用時，這條電線將不受到"固定所有預設線路"設定影響。</sp.wire.noautolock.description>
-<sp.wire.usespritedepth.name>使用Sprite深度</sp.wire.usespritedepth.name>
-<sp.wire.usespritedepth.description>啟用時，這條電線將使用Sprite深度而非固定深度。</sp.wire.usespritedepth.description>
-<sp.triggercomponent.force.description>施加於觸發者的最大力道。</sp.triggercomponent.force.description>
-<sp.triggercomponent.distancebasedforce.name>基於距離的力</sp.triggercomponent.distancebasedforce.name>
-<sp.triggercomponent.distancebasedforce.description>用以定義力是否隨著觸發者與被觸發物中心點的距離接近而變大。</sp.triggercomponent.distancebasedforce.description>
-<sp.triggercomponent.forcefluctuation.name>浮動的力</sp.triggercomponent.forcefluctuation.name>
-<sp.triggercomponent.forcefluctuation.description>用以定義力將隨時間發生變化或保持穩定。</sp.triggercomponent.forcefluctuation.description>
-<sp.turret.hudtint.name>HUD色調</sp.turret.hudtint.name>
-<sp.turret.hudtint.description>操作砲塔時的覆蓋遊戲畫面的顏色 (R,G,B,A)。</sp.turret.hudtint.description>
-<sp.turret.reload.name>裝彈時間</sp.turret.reload.name>
-<sp.turret.reload.description>在兩次射擊之間需要等待的時間。</sp.turret.reload.description>
-<sp.turret.shotsperburst.name>連發彈數</sp.turret.shotsperburst.name>
-<sp.turret.shotsperburst.description>在多少子彈被發射之後觸發的額外等待時間 (如雙管電磁槍)。</sp.turret.shotsperburst.description>
-<sp.turret.delaybetweenbursts.name>連發延遲</sp.turret.delaybetweenbursts.name>
-<sp.turret.delaybetweenbursts.description>連發之間的額外延遲。與裝彈時間疊加。</sp.turret.delaybetweenbursts.description>
-<sp.turret.retractiondurationmultiplier.name>復位持續時間倍率</sp.turret.retractiondurationmultiplier.name>
-<sp.turret.retractiondurationmultiplier.description>修改槍管受到後座力移動後回復原位所需的時間。裝彈時間也對此數值造成影響。</sp.turret.retractiondurationmultiplier.description>
-<sp.turret.recoiltime.name>後座力時間</sp.turret.recoiltime.name>
-<sp.turret.recoiltime.description>開火後後座力移動槍管的速度。</sp.turret.recoiltime.description>
-<sp.turret.retractiondelay.name>復位延遲</sp.turret.retractiondelay.name>
-<sp.turret.retractiondelay.description>槍管受到後座力移動後回復原位前的靜止時間。</sp.turret.retractiondelay.description>
-<sp.turret.rotationlimits.name>旋轉範圍</sp.turret.rotationlimits.name>
-<sp.turret.rotationlimits.description>砲塔的旋轉範圍。</sp.turret.rotationlimits.description>
-<sp.turret.springstiffnesslowskill.name>低技能晃動力量</sp.turret.springstiffnesslowskill.name>
-<sp.turret.springstiffnesslowskill.description>技能水準不足的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesslowskill.description>
-<sp.turret.springstiffnesshighskill.name>高技能晃動力量</sp.turret.springstiffnesshighskill.name>
-<sp.turret.springstiffnesshighskill.description>技能水準足夠的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesshighskill.description>
-<sp.turret.springdampinglowskill.name>低技能晃動阻尼</sp.turret.springdampinglowskill.name>
-<sp.turret.springdampinglowskill.description>技能水準不足的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinglowskill.description>
-<sp.turret.springdampinghighskill.name>高技能晃動阻尼</sp.turret.springdampinghighskill.name>
-<sp.turret.springdampinghighskill.description>技能水準足夠的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinghighskill.description>
-<sp.turret.rotationspeedlowskill.name>低技能旋轉速度</sp.turret.rotationspeedlowskill.name>
-<sp.turret.rotationspeedlowskill.description>技能水準不足的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedlowskill.description>
-<sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
-<sp.turret.rotationspeedhighskill.description>技能水準足夠的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
-<sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
-<sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
-<sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
-<sp.dockingport.applyeffectsondocking.description>對接時是否觸發 OnUse StatusEffects (預設的對接艙口效果將發射粒子並撥放音效)。</sp.dockingport.applyeffectsondocking.description><!--need edit-->
-<sp.dockingport.forcedockingdirection.name>強制對接方向</sp.dockingport.forcedockingdirection.name>
-<sp.dockingport.forcedockingdirection.description>允許的對接方向。若為 "Top" 則此艙口將能與其上方的另一艙口對接。通常此選項不需要特別設定，但若對接時位置不正確 (例如對接艙口未使用門或牆體的特殊配置)，能以此強制設定對接方向。</sp.dockingport.forcedockingdirection.description>
-<sp.meleeweapon.swing.name>擺動</sp.meleeweapon.swing.name>
-<sp.meleeweapon.swingpos.name>擺動位置</sp.meleeweapon.swingpos.name>
-<sp.meleeweapon.swingforce.name>擺動力道</sp.meleeweapon.swingforce.name>
-<sp.propulsion.force.name>力道</sp.propulsion.force.name>
-<sp.propulsion.force.description>施加至使用者身上的力道。</sp.propulsion.force.description>
-<sp.oxygengenerator.generatedamount.name>氧氣製造量</sp.oxygengenerator.generatedamount.name>
-<sp.oxygengenerator.generatedamount.description>在此設備全力運轉時能夠產生的氧氣量。</sp.oxygengenerator.generatedamount.description>
-<sp.booleanoperatorcomponent.output.description>條件滿足時所輸出的值。</sp.booleanoperatorcomponent.output.description>
-<sp.booleanoperatorcomponent.falseoutput.description>條件滿足時所輸出的值 (若為空白則不輸出訊號)。</sp.booleanoperatorcomponent.falseoutput.description>
-<sp.concatcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.concatcomponent.maxoutputlength.description>
-<sp.delaycomponent.delay.description>此物件延後訊號通過的時間 (秒)。</sp.delaycomponent.delay.description>
-<sp.delaycomponent.resetwhensignalreceived.description>物件是否在收到新的值後清除上一次收到的值。</sp.delaycomponent.resetwhensignalreceived.description>
-<sp.delaycomponent.resetwhendifferentsignalreceived.description>物件是否在收到的訊號發生變化時清除先前收到的訊號。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
-<sp.notcomponent.continuousoutput.name>連續輸出</sp.notcomponent.continuousoutput.name>
-<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出在 -1 與 1 之間擺盪的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出在 -1 與 1 之間來回的數值。</sp.oscillatorcomponent.outputtype.description>
-<sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
-<sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz)。</sp.oscillatorcomponent.frequency.description>
-<sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
-<sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
-<sp.relaycomponent.maxpower.description>能夠通過此物件的最大電力。</sp.relaycomponent.maxpower.description>
-<sp.ison.name>為On</sp.ison.name>
-<sp.relaycomponent.ison.description>此繼電器當下能否讓電力和訊號通過。</sp.relaycomponent.ison.description>
-<sp.signalcheckcomponent.output.description>當物件收到與目標訊號相符的值時所輸出的值。</sp.signalcheckcomponent.output.description>
-<sp.signalcheckcomponent.falseoutput.description>當物件收到與目標訊號不符的值時所輸出的值。</sp.signalcheckcomponent.falseoutput.description>
-<sp.signalcheckcomponent.targetsignal.description>用以與所收到訊號進行比較的值。</sp.signalcheckcomponent.targetsignal.description>
-<sp.maxoutputlength.name>最大輸出長度</sp.maxoutputlength.name>
-<sp.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.maxoutputlength.description>
-<sp.waterdetector.output.description>此物品在水中時發送的訊號。</sp.waterdetector.output.description>
-<sp.waterdetector.falseoutput.description>此物品不在水中時發送的訊號。</sp.waterdetector.falseoutput.description>
-
-<!-- Entity names -->
-<entityname.hull>Hull</entityname.hull>
-<entitydescription.hull>Hull用於定義潛艇的 "內部空間"，普遍來說作為艙房的空間都會置於Hull的範圍之內。</entitydescription.hull>
-<entityname.gap>Gap</entityname.gap>
-<entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
-<entityname.waypoint>Waypoint</entityname.waypoint>
-<entitydescription.waypoint>使AI角色能夠在潛艇內移動。</entitydescription.waypoint>
-<entityname.spawnpoint>Spawnpoint</entityname.spawnpoint>
-<entitydescription.spawnpoint>控制船員生成的位置。</entitydescription.spawnpoint>
-
-<!-- Structure names -->
-<entityname.horizontalresizablewindow>水平窗戶 可調</entityname.horizontalresizablewindow>
-<entityname.verticalresizablewindow>垂直平窗戶 可調</entityname.verticalresizablewindow>
-<entityname.ff_x_wall>大型水平內牆</entityname.ff_x_wall>
-<entityname.ff_x_wall_cables>大型水平內牆 帶電纜</entityname.ff_x_wall_cables>
-<entityname.ff_y_wall>大型垂直內牆</entityname.ff_y_wall>
-<entityname.inwalll90cables>大型垂直內牆 帶電纜</entityname.inwalll90cables>
-<entitydescription.resizeablewallwithcollisiondetection>一面帶有碰撞的可縮放大型牆壁。</entitydescription.resizeablewallwithcollisiondetection>
-<entityname.inwalllcaph1>大型內牆帽 H1</entityname.inwalllcaph1>
-<entityname.inwalllcaph2>大型內牆帽 H2</entityname.inwalllcaph2>
-<entityname.inwalllcaph3>大型內牆帽 H3</entityname.inwalllcaph3>
-<entityname.inwalllcapy1>大型內牆帽 V1</entityname.inwalllcapy1>
-<entityname.inwalllcapy2>大型內牆帽 V2</entityname.inwalllcapy2>
-<entityname.inwalllcapy4>大型內牆帽 V4</entityname.inwalllcapy4>
-<entityname.inwallltieh1>大型內牆結 H1</entityname.inwallltieh1>
-<entityname.inwallltieh2>大型內牆結 H2</entityname.inwallltieh2>
-<entityname.inwallltieh3>大型內牆結 H3</entityname.inwallltieh3>
-<entityname.inwallltiev1>大型內牆結 V1</entityname.inwallltiev1>
-<entityname.inwallltiev2>大型內牆結 V2</entityname.inwallltiev2>
-<entityname.inwallltiev3>大型內牆結 V3</entityname.inwallltiev3>
-<entitydescription.wallcap>一個牆體末端或交叉處使用的裝飾性結構配件。</entitydescription.wallcap>
-<entityname.ff_wall_b>壓載艙背景牆 A1</entityname.ff_wall_b>
-<entityname.ff_wall_bp>壓載艙背景牆 A2</entityname.ff_wall_bp>
-<entityname.bwbc>壓載艙背景牆 C</entityname.bwbc>
-<entityname.ff_wall_c1>背景牆 C1</entityname.ff_wall_c1>
-<entityname.ff_wall_c2>背景牆 C2</entityname.ff_wall_c2>
-<entityname.ff_wall_c3>背景牆 C3</entityname.ff_wall_c3>
-<entityname.ff_wall_d1>背景牆 D1</entityname.ff_wall_d1>
-<entityname.ff_wall_d2>背景牆 D2</entityname.ff_wall_d2>
-<entityname.ff_wall_d3>背景牆 D3</entityname.ff_wall_d3>
-<entityname.ff_wall_e>背景牆 E</entityname.ff_wall_e>
-<entityname.ff_wall_e2>背景牆 E2</entityname.ff_wall_e2>
-<entityname.ff_wall_g1>背景牆 G1</entityname.ff_wall_g1>
-<entityname.ff_wall_g2>背景牆 G2</entityname.ff_wall_g2>
-<entityname.ff_wall_g3>背景牆 G3</entityname.ff_wall_g3>
-<entityname.ff_wall_h1>背景牆 H1</entityname.ff_wall_h1>
-<entityname.bgorangepanels>橘色板塊背景牆</entityname.bgorangepanels>
-<entityname.bgorangepanelwindow>橘色板塊背景牆 窗戶</entityname.bgorangepanelwindow>
-<entityname.bgpanels>板塊背景牆</entityname.bgpanels>
-<entityname.bgpanelswindow>背景牆 窗戶</entityname.bgpanelswindow>
-<entityname.PipesBackground>背景牆 管道</entityname.PipesBackground>
-<entityname.roughbgwall>粗糙背景牆</entityname.roughbgwall>
-<entityname.cleanbgwall>乾淨背景牆</entityname.cleanbgwall>
-<entitydescription.backgroundwall>一個裝飾性背景牆。</entitydescription.backgroundwall>
-<entityname.exta_tail>尾翼 舊 A</entityname.exta_tail>
-<entitydescription.tailwithcollision>帶有碰撞的潛艇尾翼配件。</entitydescription.tailwithcollision>
-<entityname.tailfina>尾翼 A</entityname.tailfina>
-<entityname.tailfinb>尾翼 B</entityname.tailfinb>
-<entityname.tailfinc>尾翼 C</entityname.tailfinc>
-<entityname.tailfind>尾翼 D</entityname.tailfind>
-<entityname.tailfind2p1>尾翼 D2 P1</entityname.tailfind2p1>
-<entityname.tailfind2p2>尾翼 D2 P2</entityname.tailfind2p2>
-<entityname.tailfind2p3>尾翼 D2 P3</entityname.tailfind2p3>
-<entityname.tailfind3p1>尾翼 D3 P1</entityname.tailfind3p1>
-<entityname.tailfind3p2>尾翼 D3 P2</entityname.tailfind3p2>
-<entityname.tailfind3p3>尾翼 D3 P3</entityname.tailfind3p3>
-<entityname.tailfinep1>尾翼 E P1</entityname.tailfinep1>
-<entityname.tailfinep2>尾翼 E P2</entityname.tailfinep2>
-<entityname.tailfinfp3>尾翼 E P3</entityname.tailfinfp3>
-<entityname.tailfinf1>尾翼 F1</entityname.tailfinf1>
-<entityname.tailfinf2>尾翼 F2</entityname.tailfinf2>
-<entityname.tailfinf3>尾翼 F3</entityname.tailfinf3>
-<entityname.tailfinf4>尾翼 F4</entityname.tailfinf4>
-<entitydescription.tailnocollision>不帶碰撞的潛艇尾翼配件。</entitydescription.tailnocollision>
-<entityname.exta_front>潛艇船首 A</entityname.exta_front>
-<entityname.subfrontb>潛艇船首 B</entityname.subfrontb>
-<entityname.subfrontc>潛艇船首 C</entityname.subfrontc>
-<entityname.subfrontd>潛艇船首 D</entityname.subfrontd>
-<entityname.subfronte>潛艇船首 E</entityname.subfronte>
-<entityname.subfrontg1p1>潛艇船首 F 頂段</entityname.subfrontg1p1>
-<entityname.subfrontg1p2>潛艇船首 F 中段</entityname.subfrontg1p2>
-<entityname.subfrontg1p3>潛艇船首 F 底段</entityname.subfrontg1p3>  
-<entityname.subfrontg2p1>潛艇船首 G 頂段</entityname.subfrontg2p1>
-<entityname.subfrontg2p2>潛艇船首 G 中段</entityname.subfrontg2p2>
-<entityname.subfrontg2p3>潛艇船首 G 底段</entityname.subfrontg2p3>
-<entitydescription.frontwithcollision>帶碰撞的潛艇前端配件。</entitydescription.frontwithcollision>
-<entityname.frontfchaina1>前鏈 1</entityname.frontfchaina1>
-<entityname.frontfchaina2>前鏈 2</entityname.frontfchaina2>
-<entityname.frontpulley>前滑輪</entityname.frontpulley>
-<entityname.shellaboard0dega>水平金屬條 小</entityname.shellaboard0dega>
-<entityname.shellaboard0degb>水平金屬條 大</entityname.shellaboard0degb>
-<entityname.shellaboard90dega>垂直金屬條 小</entityname.shellaboard90dega>
-<entityname.shellaboard90degb>垂直金屬條 大</entityname.shellaboard90degb>
-<entityname.leftwall>基礎牆 左</entityname.leftwall>
-<entityname.LeftWallHeavy>重型牆 左</entityname.LeftWallHeavy>
-<entityname.rightwall>基礎牆 右</entityname.rightwall>
-<entityname.RightWallHeavy>重型牆 右</entityname.RightWallHeavy>
-<entityname.topwall>基礎牆 頂部</entityname.topwall>
-<entityname.TopWallHeavy>重型牆 頂部</entityname.TopWallHeavy>
-<entityname.shella90deg>外殼 A 90度</entityname.shella90deg>
-<entityname.shella16deg>外殼 A 16度</entityname.shella16deg>
-<entityname.shella34deg>外殼 A 34度</entityname.shella34deg>
-<entityname.shella0deg>外殼 A 0度</entityname.shella0deg>
-<entityname.shella04deg>外殼 A 4度</entityname.shella04deg>
-<entityname.shella14adeg>外殼 A 14度</entityname.shella14adeg>
-<entityname.shella52deg>外殼 A 52度</entityname.shella52deg>
-<entityname.shella16degb>外殼 A 16度 B</entityname.shella16degb>
-<entityname.shella25deg>外殼 A 25度</entityname.shella25deg>
-<entityname.shella45deg>外殼 A 45度</entityname.shella45deg>
-<entityname.shella32deg>外殼 A 32度</entityname.shella32deg>
-<entityname.shella14degb>外殼 A 14度 B</entityname.shella14degb>
-<entityname.shella43deg>外殼 A 43度</entityname.shella43deg>
-<entityname.shella51deg>外殼 A 51度</entityname.shella51deg>
-<entityname.shella47deg>外殼 A 47度</entityname.shella47deg>
-<entityname.shella60deg>外殼 A 60度</entityname.shella60deg>
-<entityname.shella18deg>外殼 A 18度</entityname.shella18deg>
-<entityname.shella70deg>外殼 A 70度</entityname.shella70deg>
-<entityname.shella90degcurve>外殼 A 90度 彎曲</entityname.shella90degcurve>
-<entityname.shella45degb>外殼 A 45度 B</entityname.shella45degb>
-<entityname.shella45degc>外殼 A 45度 A</entityname.shella45degc>
-<entityname.shella45degd>外殼 A 45度 B</entityname.shella45degd>
-<entityname.shella57deg>外殼 A 57度</entityname.shella57deg>
-<entityname.shella40deg>外殼 A 40度</entityname.shella40deg>
-<entityname.shella61deg>外殼 A 61度</entityname.shella61deg>
-<entityname.shella17deg>外殼 A 17度</entityname.shella17deg>
-<entityname.shella34degb>外殼 A 34度 B</entityname.shella34degb>
-<entityname.shella26deg>外殼 A 26度</entityname.shella26deg>
-<entityname.shella54deg>外殼 A 54度</entityname.shella54deg>
-<entityname.shella38deg>外殼 A 38度</entityname.shella38deg>
-<entityname.shella42deg>外殼 A 42</entityname.shella42deg>
-<entityname.shellacombo11>外殼 A 組合 1 1</entityname.shellacombo11>
-<entityname.shellacombo12>外殼 A 組合 1 2</entityname.shellacombo12>
-<entitydescription.exteriorshell>潛艇外牆。</entitydescription.exteriorshell>
-<entityname.shellacap0dega>外殼 A 牆帽 水平 弧形</entityname.shellacap0dega>
-<entityname.shellacap0degb>外殼 A 牆帽 水平 矩形</entityname.shellacap0degb>
-<entityname.shellacap90dega>外殼 A 牆帽 垂直 弧形</entityname.shellacap90dega>
-<entityname.shellacap90degb>外殼 A 牆帽 垂直 矩形</entityname.shellacap90degb>  
-<entityname.sshella01>小艇外殼 A01</entityname.sshella01>
-<entityname.sshella02>小艇外殼 A02</entityname.sshella02>
-<entityname.sshella04>小艇外殼 A04</entityname.sshella04>
-<entityname.sshella05>小艇外殼 A05</entityname.sshella05>
-<entityname.sshellaa06>小艇外殼 A06</entityname.sshellaa06>
-<entityname.sshella07>小艇外殼 A07</entityname.sshella07>
-<entityname.sshella08>小艇外殼 A08</entityname.sshella08>
-<entityname.sshella09>小艇外殼 A09</entityname.sshella09>
-<entityname.sshella10>小艇外殼 A10</entityname.sshella10>
-<entityname.sshella11>小艇外殼 A11</entityname.sshella11>
-<entityname.sshella14>小艇外殼 A14</entityname.sshella14>
-<entityname.sshella15a>小艇外殼 A15a</entityname.sshella15a>
-<entityname.sshella15b>小艇外殼 A15b</entityname.sshella15b>
-<entityname.sshella15c>小艇外殼 A15c</entityname.sshella15c>
-<entityname.sshella17a>小艇外殼 A17a</entityname.sshella17a>
-<entityname.sshella17b>小艇外殼 A17b</entityname.sshella17b>
-<entityname.sshella17c>小艇外殼 A17c</entityname.sshella17c>
-<entityname.sshella18>小艇外殼 A18</entityname.sshella18>
-<entityname.sshella19>小艇外殼 A19</entityname.sshella19>
-<entityname.sshella20>小艇外殼 A20</entityname.sshella20>
-<entityname.sshella21>小艇外殼 A21</entityname.sshella21>
-<entityname.sshella22>小艇外殼 A22</entityname.sshella22>
-<entityname.sshella23>小艇外殼 A23</entityname.sshella23>
-<entityname.sshella24>小艇外殼 A24</entityname.sshella24>
-<entityname.sshella25>小艇外殼 A25</entityname.sshella25>
-<entityname.sshella26>小艇外殼 A26</entityname.sshella26>
-<entityname.sshella27>小艇外殼 A27</entityname.sshella27>
-<entityname.sshella28>小艇外殼 A28</entityname.sshella28>
-<entityname.sshella30>小艇外殼 A30</entityname.sshella30>
-<entityname.sshella32b>小艇外殼 A32b</entityname.sshella32b>
-<entityname.sshella32c>小艇外殼 A32c</entityname.sshella32c>
-<entityname.sshella32d>小艇外殼 A32d</entityname.sshella32d>
-<entityname.sshella36>小艇外殼 A36</entityname.sshella36>
-<entityname.sshella37>小艇外殼 A37</entityname.sshella37>
-<entityname.sshella38>小艇外殼 A38</entityname.sshella38>
-<entityname.sshella39>小艇外殼 A39</entityname.sshella39>
-<entityname.sshella40>小艇外殼 A40</entityname.sshella40>
-<entityname.sshella41>小艇外殼 A41</entityname.sshella41>
-<entityname.sshellaglassa>小艇外殼 A 玻璃 A</entityname.sshellaglassa>
-<entityname.sshellaglassb>小艇外殼 A 玻璃 B</entityname.sshellaglassb>
-<entityname.sshellaglassc>小艇外殼 A 玻璃 C</entityname.sshellaglassc>
-<entityname.sshellaglassd>小艇外殼 A 玻璃 D</entityname.sshellaglassd>
-<entityname.sshellaglasse>小艇外殼 A 玻璃 E</entityname.sshellaglasse>
-<entityname.sshellaglassf>小艇外殼 A 玻璃 F</entityname.sshellaglassf>
-<entitydescription.exterior小艇shell>小艇外牆。</entitydescription.exterior小艇shell>
-<entityname.ventbendducta1>通風管彎曲 A1</entityname.ventbendducta1>
-<entityname.ventbendducta2>通風管彎曲 A2</entityname.ventbendducta2>
-<entityname.ventconnectora1>通風管連接器 A1</entityname.ventconnectora1>
-<entityname.ventconnectora2>通風管連接器 A2</entityname.ventconnectora2>
-<entityname.ventconnectora3>通風管連接器 A3</entityname.ventconnectora3>
-<entityname.ventconnectora4>通風管連接器 A4</entityname.ventconnectora4>
-<entityname.ventconnectora5>通風管連接器 A5</entityname.ventconnectora5>
-<entityname.ventconnectora6>通風管連接器 A6</entityname.ventconnectora6>
-<entityname.ventconnectora7>通風管連接器 A7</entityname.ventconnectora7>
-<entityname.ventconnectorcapa1>通風管連接器蓋 A1</entityname.ventconnectorcapa1>
-<entityname.ventconnectorcapa2>通風管連接器蓋 A2</entityname.ventconnectorcapa2>
-<entityname.ventducta1>通風管 A1</entityname.ventducta1>
-<entityname.ventducta190deg>通風管 A1 垂直</entityname.ventducta190deg>
-<entityname.ventducta2>通風管 A2</entityname.ventducta2>
-<entityname.ventducta290deg>通風管 A2 垂直</entityname.ventducta290deg>
-<entityname.ventductb1>通風管 B1</entityname.ventductb1>
-<entityname.ventductb190deg>通風管 B1 垂直</entityname.ventductb190deg>
-<entityname.ventductb290deg>通風管 B2 垂直</entityname.ventductb290deg>
-<entityname.ventductbendb1>通風管彎曲 B1</entityname.ventductbendb1>
-<entityname.ventductbendb2>通風管彎曲 B2</entityname.ventductbendb2>
-<entityname.ventductfana>通風管 Fan A</entityname.ventductfana>
-<entityname.ventductlongb2>通風管 B2</entityname.ventductlongb2>
-<entityname.ventductreducerb>通風管減徑管 B</entityname.ventductreducerb>
-<entityname.ventductreducerb90deg>通風管減徑管 B 垂直</entityname.ventductreducerb90deg>
-<entityname.ventlargeductreducera>通風管大減徑管 A</entityname.ventlargeductreducera>
-<entityname.ventlargeductreducera1>通風管中減徑管 A1</entityname.ventlargeductreducera1>
-<entityname.ventlargeductreducera2>通風管中減徑管 A2</entityname.ventlargeductreducera2>
-<entityname.ventlargepipebenda1>通風圓管彎曲 A1</entityname.ventlargepipebenda1>
-<entityname.ventmediumpipebenda1>通風圓管彎曲 A1</entityname.ventmediumpipebenda1>
-<entityname.ventpipea1>通風圓管 A1</entityname.ventpipea1>
-<entityname.ventpipea190deg>通風圓管 A1 垂直</entityname.ventpipea190deg>
-<entityname.ventpipea2>通風圓管 A2</entityname.ventpipea2>
-<entityname.ventpipea290deg>通風圓管 A2 垂直</entityname.ventpipea290deg>
-<entityname.ventpipea3>通風圓管 A3</entityname.ventpipea3>
-<entityname.ventpipea390deg>通風圓管 A3 垂直</entityname.ventpipea390deg>
-<entityname.ventpipea4>通風圓管 A4</entityname.ventpipea4>
-<entityname.ventpipea490deg>通風圓管 A4 垂直</entityname.ventpipea490deg>
-<entityname.ventpipea5>通風圓管 A5</entityname.ventpipea5>
-<entityname.ventpipea590deg>通風圓管 A5 垂直</entityname.ventpipea590deg>
-<entityname.ventpipea6>通風圓管 A6</entityname.ventpipea6>
-<entityname.ventpipea690deg>通風圓管 A6 垂直</entityname.ventpipea690deg>
-<entityname.ventpipea7>通風圓管 A7</entityname.ventpipea7>
-<entityname.ventpipea790deg>通風圓管 A7 垂直</entityname.ventpipea790deg>
-<entityname.ventpipea8>通風圓管 A8</entityname.ventpipea8>
-<entityname.ventpipea890deg>通風圓管 A8 垂直</entityname.ventpipea890deg>
-<entityname.ventpipea9>通風圓管 A9</entityname.ventpipea9>
-<entityname.ventpipea990deg>通風圓管 A9 垂直</entityname.ventpipea990deg>
-<entityname.ventpipecapa1>通風圓管蓋 A1</entityname.ventpipecapa1>
-<entityname.ventpipecapa190deg>通風圓管蓋 A1 垂直</entityname.ventpipecapa190deg>
-<entityname.ventsmallductreducera>通風管小減徑管 A</entityname.ventsmallductreducera>
-<entityname.sshellalightsa>小艇燈 A</entityname.sshellalightsa>
-<entityname.sshellaplatea>小艇板 A</entityname.sshellaplatea>
-<entityname.sshellaplateb>小艇板 B</entityname.sshellaplateb>
-<entityname.sshellaplatexl>小艇板 XL</entityname.sshellaplatexl>
-<entityname.sshellabumpera>小艇保險桿 A</entityname.sshellabumpera>
-<entityname.sshellabumperb>小艇保險桿 B</entityname.sshellabumperb>
-<entityname.sshellafina>小艇尾翼 A</entityname.sshellafina>
-<entityname.sshellafinb>小艇尾翼 B</entityname.sshellafinb>
-<entityname.sshellafinc>小艇尾翼 C</entityname.sshellafinc>
-<entityname.sshellafind>小艇尾翼 D</entityname.sshellafind>
-<entityname.sshellagromita>小艇索環 A</entityname.sshellagromita>
-<entityname.sshellagromitb>小艇索環 B</entityname.sshellagromitb>
-<entityname.sshellagromitc>小艇索環 C</entityname.sshellagromitc>
-<entityname.sshellagromitd>小艇索環 D</entityname.sshellagromitd>
-<entitydescription.decorative小艇piece>一個裝飾性小艇配件。</entitydescription.decorative小艇piece>
-<entityname.finabelt01>長尾翼 飾帶 1</entityname.finabelt01>
-<entityname.finabelt02>長尾翼 飾帶 2</entityname.finabelt02>
-<entityname.finabelt03>長尾翼 飾帶 3</entityname.finabelt03>
-<entityname.finabelt04>長尾翼 飾帶 4</entityname.finabelt04>
-<entityname.finabelt05>長尾翼 飾帶 5</entityname.finabelt05>
-<entityname.finabelt06>長尾翼 飾帶 6</entityname.finabelt06>
-<entityname.finabodyedge01>長尾翼 邊緣 1</entityname.finabodyedge01>
-<entityname.finabodyedge02>長尾翼 邊緣 2</entityname.finabodyedge02>
-<entityname.finabodyedge03>長尾翼 邊緣 3</entityname.finabodyedge03>
-<entityname.finabodyedge04>長尾翼 邊緣 4</entityname.finabodyedge04>
-<entityname.finabodyedge05>長尾翼 邊緣 5</entityname.finabodyedge05>
-<entityname.finabodyedge06>長尾翼 邊緣 6</entityname.finabodyedge06>
-<entityname.finabodyedge07>長尾翼 邊緣 7</entityname.finabodyedge07>
-<entityname.finabodyedge08>長尾翼 邊緣 8</entityname.finabodyedge08>
-<entityname.finabodyinside01>長尾翼 內側 1</entityname.finabodyinside01>
-<entityname.finabodyinside02>長尾翼 內側 2</entityname.finabodyinside02>
-<entityname.finabodyinside03>長尾翼 內側 3</entityname.finabodyinside03>
-<entityname.finabodyinside04>長尾翼 內側 4</entityname.finabodyinside04>
-<entityname.finabodyinside05>長尾翼 內側 5</entityname.finabodyinside05>
-<entityname.finabodyinside06>長尾翼 內側 6</entityname.finabodyinside06>
-<entityname.finbodyinside07>長尾翼 內側 7</entityname.finbodyinside07>
-<entityname.finabodyinside08>長尾翼 內側 8</entityname.finabodyinside08>
-<entityname.finabodyinside11>長尾翼 內側 9</entityname.finabodyinside11>
-<entityname.finabodyinside12>長尾翼 內側 10</entityname.finabodyinside12>
-<entityname.finabodyinside13>長尾翼 內側 11</entityname.finabodyinside13>
-<entityname.finabodyinside14>長尾翼 內側 12</entityname.finabodyinside14>
-<entityname.finabodyinside15>長尾翼 內側 13</entityname.finabodyinside15>
-<entityname.finabodyinside16>長尾翼 內側 14</entityname.finabodyinside16>
-<entityname.finacorner01>長尾翼 轉角 1</entityname.finacorner01>
-<entityname.finacorner02>長尾翼 轉角 2</entityname.finacorner02>
-<entityname.finacorner03>長尾翼 轉角 3</entityname.finacorner03>
-<entityname.finacorner04>長尾翼 轉角 4</entityname.finacorner04>
-<entityname.finacorner05>長尾翼 轉角 5</entityname.finacorner05>
-<entityname.finacorner06>長尾翼 轉角 6</entityname.finacorner06>
-<entityname.finacorner07>長尾翼 轉角 7</entityname.finacorner07>
-<entityname.finacorner08>長尾翼 轉角 8</entityname.finacorner08>
-<entityname.finacorner09>長尾翼 轉角 9</entityname.finacorner09>
-<entityname.finacorner11>長尾翼 轉角 10</entityname.finacorner11>
-<entityname.finacorner12>長尾翼 轉角 11</entityname.finacorner12>
-<entityname.finacorner13>長尾翼 轉角 12</entityname.finacorner13>
-<entityname.finacorner14>長尾翼 轉角 13</entityname.finacorner14>
-<entityname.finacorner15>長尾翼 轉角 14</entityname.finacorner15>
-<entityname.finadeco01>尾翼裝飾 1</entityname.finadeco01>
-<entityname.finadeco02>尾翼裝飾 2</entityname.finadeco02>
-<entityname.finadeco03>尾翼裝飾 3</entityname.finadeco03>
-<entityname.finadeco04>尾翼裝飾 4</entityname.finadeco04>
-<entityname.finadeco05>尾翼裝飾 5</entityname.finadeco05>
-<entityname.finadeco06>尾翼裝飾 6</entityname.finadeco06>
-<entityname.finadeco07>尾翼裝飾 7</entityname.finadeco07>
-<entityname.finadeco08>尾翼裝飾 8</entityname.finadeco08>
-<entityname.finadeco09>尾翼裝飾 9</entityname.finadeco09>
-<entityname.finadeco10>尾翼裝飾 10</entityname.finadeco10>
-<entityname.finawingpart72>尾翼裝飾 11</entityname.finawingpart72>
-<entityname.finapatch01>尾翼補丁 1</entityname.finapatch01>
-<entityname.finapatch02>尾翼補丁 2</entityname.finapatch02>
-<entityname.finapatch03>尾翼補丁 3</entityname.finapatch03>
-<entityname.finapatch04>尾翼補丁 4</entityname.finapatch04>
-<entityname.finapatch05>尾翼補丁 5</entityname.finapatch05>
-<entityname.finawingpart01>長尾翼 G 2</entityname.finawingpart01>
-<entityname.finawingpart02>長尾翼 G 1</entityname.finawingpart02>
-<entityname.finawingpart03>長尾翼 E 2</entityname.finawingpart03>
-<entityname.finawingpart04>長尾翼 E 1</entityname.finawingpart04>
-<entityname.finawingpart05>長尾翼 D 2</entityname.finawingpart05>
-<entityname.finawingpart06>長尾翼 D 1</entityname.finawingpart06>
-<entityname.finawingpart07>長尾翼 F 2</entityname.finawingpart07>
-<entityname.finawingpart08>長尾翼 F 1</entityname.finawingpart08>
-<entityname.finawingpart09>長尾翼 彎曲 A 1</entityname.finawingpart09>
-<entityname.finawingpart10>長尾翼 彎曲 A 2</entityname.finawingpart10>
-<entityname.finawingpart11>長尾翼 E 4</entityname.finawingpart11>
-<entityname.finawingpart12>長尾翼 E 3</entityname.finawingpart12>
-<entityname.finawingpart13>長尾翼 D 5</entityname.finawingpart13>
-<entityname.finawingpart14>長尾翼 D 6</entityname.finawingpart14>
-<entityname.finawingpart15>長尾翼 D 3</entityname.finawingpart15>
-<entityname.finawingpart16>長尾翼 D 4</entityname.finawingpart16>
-<entityname.finawingpart19>尾翼圖樣 2</entityname.finawingpart19>
-<entityname.finawingpart20>尾翼圖樣 1</entityname.finawingpart20>
-<entityname.finawingpart22>尾翼特殊部分 1</entityname.finawingpart22>
-<entityname.finawingpart23>尾翼特殊部分 2</entityname.finawingpart23>
-<entityname.finawingpart24>尾翼特殊部分 3</entityname.finawingpart24>
-<entityname.finawingpart25>尾翼特殊部分 4</entityname.finawingpart25>
-<entityname.finawingpart26>尾翼特殊部分 5</entityname.finawingpart26>
-<entityname.finawingpart27>尾翼特殊部分 6</entityname.finawingpart27>
-<entityname.finawingpart28>尾翼牆 1</entityname.finawingpart28>
-<entityname.finawingpart29>尾翼牆 2</entityname.finawingpart29>
-<entityname.finawingpart30>尾翼牆 3</entityname.finawingpart30>
-<entityname.finawingpart31>尾翼牆 4</entityname.finawingpart31>
-<entityname.finawingpart32>尾翼牆 5</entityname.finawingpart32>
-<entityname.finawingpart33>尾翼牆 6</entityname.finawingpart33>
-<entityname.finawingpart34>長尾翼 A 1</entityname.finawingpart34>
-<entityname.finawingpart35>長尾翼 A 2</entityname.finawingpart35>
-<entityname.finawingpart36>長尾翼 B 3</entityname.finawingpart36>
-<entityname.finawingpart38>長尾翼 B 2</entityname.finawingpart38>
-<entityname.finawingpart39>長尾翼 B 1</entityname.finawingpart39>
-<entityname.finawingpart40>長尾翼 A 4</entityname.finawingpart40>
-<entityname.finawingpart41>長尾翼 A 3</entityname.finawingpart41>
-<entityname.finawingpart42>長尾翼 A 5</entityname.finawingpart42>
-<entityname.finawingpart43>長尾翼 C 3</entityname.finawingpart43>
-<entityname.finawingpart44>長尾翼 C 4</entityname.finawingpart44>
-<entityname.finawingpart45>長尾翼 C 2</entityname.finawingpart45>
-<entityname.finawingpart46>長尾翼 C 1</entityname.finawingpart46>
-<entityname.finawingpart67>長尾翼 C 5</entityname.finawingpart67>
-<entityname.finawingpart68>長尾翼 C 6</entityname.finawingpart68> 
-<entityname.finawingpart53>長尾翼 彎曲 B 1</entityname.finawingpart53>
-<entityname.finawingpart54>長尾翼 彎曲 B 2</entityname.finawingpart54>
-<entityname.finawingpart55>長尾翼 彎曲 C 1 </entityname.finawingpart55>
-<entityname.finawingpart56>長尾翼 彎曲 C 2</entityname.finawingpart56>
-<entityname.finawingpart17>長尾翼 配件 1</entityname.finawingpart17>
-<entityname.finawingpart18>長尾翼 配件 2</entityname.finawingpart18>
-<entityname.finawingpart21>長尾翼 配件 3</entityname.finawingpart21>
-<entityname.finawingpart37>長尾翼 配件 4</entityname.finawingpart37>
-<entityname.finawingpart47>長尾翼 配件 5</entityname.finawingpart47>
-<entityname.finawingpart48>長尾翼 配件 6</entityname.finawingpart48>
-<entityname.finawingpart49>長尾翼 配件 7</entityname.finawingpart49>
-<entityname.finawingpart50>長尾翼 配件 8</entityname.finawingpart50>
-<entityname.finawingpart52>長尾翼 配件 9</entityname.finawingpart52>
-<entityname.finawingpart57>長尾翼 配件 10</entityname.finawingpart57>
-<entityname.finawingpart58>長尾翼 配件 11</entityname.finawingpart58>
-<entityname.finawingpart59>長尾翼 配件 12</entityname.finawingpart59>
-<entityname.finawingpart60>長尾翼 配件 13</entityname.finawingpart60>
-<entityname.finawingpart61>長尾翼 配件 14</entityname.finawingpart61>
-<entityname.finawingpart62>長尾翼 配件 15</entityname.finawingpart62>
-<entityname.finawingpart63>長尾翼 配件 16</entityname.finawingpart63>
-<entityname.finawingpart64>長尾翼 配件 17</entityname.finawingpart64>
-<entityname.finawingpart65>長尾翼 配件 18</entityname.finawingpart65>
-<entityname.finawingpart66>長尾翼 配件 19</entityname.finawingpart66>
-<entityname.finawingpart69>長尾翼 配件 20</entityname.finawingpart69>
-<entityname.finawingpart70>長尾翼 配件 21</entityname.finawingpart70>
-<entityname.finawingpart71>長尾翼 配件 22</entityname.finawingpart71>
-<entityname.finawingpart73>長尾翼 配件 23</entityname.finawingpart73>
-<entityname.largehorizontalback>大型水平後部</entityname.largehorizontalback>
-<entityname.smallhorizontalback>小型水平後部</entityname.smallhorizontalback>
-<entityname.largeverticalback>大型垂直後部</entityname.largeverticalback>
-<entityname.largeverticalback2>大型垂直後部 2</entityname.largeverticalback2>
-<entityname.smallverticalback>小型垂直後部</entityname.smallverticalback>
-<entityname.smallverticalback2>小型垂直後部 2</entityname.smallverticalback2>
-<entitydescription.decorativestructure>一個不帶碰撞的裝飾性結構配件。</entitydescription.decorativestructure>
-<entityname.doorlabel>門標識</entityname.doorlabel>
-<entityname.engineeringlabel>工程 標識</entityname.engineeringlabel>
-<entityname.commandlabel>指揮室 標識</entityname.commandlabel>
-<entityname.airlocklabel>氣閘 標識</entityname.airlocklabel>
-<entityname.cabinslabel>艙房 標識</entityname.cabinslabel>
-<entityname.medicallabel>醫療 標識</entityname.medicallabel>
-<entityname.arrowup>箭頭 上</entityname.arrowup>
-<entityname.arrowdown>箭頭 下</entityname.arrowdown>
-<entityname.arrowleft>箭頭 左</entityname.arrowleft>
-<entityname.arrowright>箭頭 右</entityname.arrowright>
-<entityname.labelslettera>標識 字母 A</entityname.labelslettera>
-<entityname.labelsletterb>標識 字母 B</entityname.labelsletterb>
-<entityname.labelsletterc>標識 字母 C</entityname.labelsletterc>
-<entityname.labelsletterd>標識 字母 D</entityname.labelsletterd>
-<entityname.labelslettere>標識 字母 E</entityname.labelslettere>
-<entityname.labelsletterf>標識 字母 F</entityname.labelsletterf>
-<entityname.labelsletterg>標識 字母 G</entityname.labelsletterg>
-<entityname.labelsletterh>標識 字母 H</entityname.labelsletterh>
-<entityname.labelsletteri>標識 字母 I</entityname.labelsletteri>
-<entityname.labelsletterj>標識 字母 J</entityname.labelsletterj>
-<entityname.labelsletterk>標識 字母 K</entityname.labelsletterk>
-<entityname.labelsletterl>標識 字母 L</entityname.labelsletterl>
-<entityname.labelsletterm>標識 字母 M</entityname.labelsletterm>
-<entityname.labelslettern>標識 字母 N</entityname.labelslettern>
-<entityname.labelslettero>標識 字母 O</entityname.labelslettero>
-<entityname.labelsletterp>標識 字母 P</entityname.labelsletterp>
-<entityname.labelsletterq>標識 字母 Q</entityname.labelsletterq>
-<entityname.labelsletterr>標識 字母 R</entityname.labelsletterr>
-<entityname.labelsletters>標識 字母 S</entityname.labelsletters>
-<entityname.labelslettert>標識 字母 T</entityname.labelslettert>
-<entityname.labelsletteru>標識 字母 U</entityname.labelsletteru>
-<entityname.labelsletterv>標識 字母 V</entityname.labelsletterv>
-<entityname.labelsletterw>標識 字母 W</entityname.labelsletterw>
-<entityname.labelsletterx>標識 字母 X</entityname.labelsletterx>
-<entityname.labelslettery>標識 字母 Y</entityname.labelslettery>
-<entityname.labelsletterz>標識 字母 Z</entityname.labelsletterz>
-<entityname.labelsnumber0>標識 數字 0</entityname.labelsnumber0>
-<entityname.labelsnumber1>標識 數字 1</entityname.labelsnumber1>
-<entityname.labelsnumber2>標識 數字 2</entityname.labelsnumber2>
-<entityname.labelsnumber3>標識 數字 3</entityname.labelsnumber3>
-<entityname.labelsnumber4>標識 數字 4</entityname.labelsnumber4>
-<entityname.labelsnumber5>標識 數字 5</entityname.labelsnumber5>
-<entityname.labelsnumber6>標識 數字 6</entityname.labelsnumber6>
-<entityname.labelsnumber7>標識 數字 7</entityname.labelsnumber7>
-<entityname.labelsnumber8>標識 數字 8</entityname.labelsnumber8>
-<entityname.labelsnumber9>標識 數字 9</entityname.labelsnumber9>
-<entityname.labelscaptureitlettera>標識 字母 A 粗糙</entityname.labelscaptureitlettera>
-<entityname.labelscaptureitletterb>標識 字母 B 粗糙</entityname.labelscaptureitletterb>
-<entityname.labelscaptureitletterc>標識 字母 C 粗糙</entityname.labelscaptureitletterc>
-<entityname.labelscaptureitletterd>標識 字母 D 粗糙</entityname.labelscaptureitletterd>
-<entityname.labelscaptureitlettere>標識 字母 E 粗糙</entityname.labelscaptureitlettere>
-<entityname.labelscaptureitletterf>標識 字母 F 粗糙</entityname.labelscaptureitletterf>
-<entityname.labelscaptureitletterg>標識 字母 G 粗糙</entityname.labelscaptureitletterg>
-<entityname.labelscaptureitletterh>標識 字母 H 粗糙</entityname.labelscaptureitletterh>
-<entityname.labelscaptureitletteri>標識 字母 I 粗糙</entityname.labelscaptureitletteri>
-<entityname.labelscaptureitletterj>標識 字母 J 粗糙</entityname.labelscaptureitletterj>
-<entityname.labelscaptureitletterk>標識 字母 K 粗糙</entityname.labelscaptureitletterk>
-<entityname.labelscaptureitletterl>標識 字母 L 粗糙</entityname.labelscaptureitletterl>
-<entityname.labelscaptureitletterm>標識 字母 M 粗糙</entityname.labelscaptureitletterm>
-<entityname.labelscaptureitlettern>標識 字母 N 粗糙</entityname.labelscaptureitlettern>
-<entityname.labelscaptureitlettero>標識 字母 O 粗糙</entityname.labelscaptureitlettero>
-<entityname.labelscaptureitletterp>標識 字母 P 粗糙</entityname.labelscaptureitletterp>
-<entityname.labelscaptureitletterq>標識 字母 Q 粗糙</entityname.labelscaptureitletterq>
-<entityname.labelscaptureitletterr>標識 字母 R 粗糙</entityname.labelscaptureitletterr>
-<entityname.labelscaptureitletters>標識 字母 S 粗糙</entityname.labelscaptureitletters>
-<entityname.labelscaptureitlettert>標識 字母 T 粗糙</entityname.labelscaptureitlettert>
-<entityname.labelscaptureitletteru>標識 字母 U 粗糙</entityname.labelscaptureitletteru>
-<entityname.labelscaptureitletterv>標識 字母 V 粗糙</entityname.labelscaptureitletterv>
-<entityname.labelscaptureitletterw>標識 字母 W 粗糙</entityname.labelscaptureitletterw>
-<entityname.labelscaptureitletterx>標識 字母 X 粗糙</entityname.labelscaptureitletterx>
-<entityname.labelscaptureitlettery>標識 字母 Y 粗糙</entityname.labelscaptureitlettery>
-<entityname.labelscaptureitletterz>標識 字母 Z 粗糙</entityname.labelscaptureitletterz>
-<entityname.labelscaptureitnumber0>標識 數字 0 粗糙</entityname.labelscaptureitnumber0>
-<entityname.labelscaptureitnumber1>標識 數字 1 粗糙</entityname.labelscaptureitnumber1>
-<entityname.labelscaptureitnumber2>標識 數字 2 粗糙</entityname.labelscaptureitnumber2>
-<entityname.labelscaptureitnumber3>標識 數字 3 粗糙</entityname.labelscaptureitnumber3>
-<entityname.labelscaptureitnumber4>標識 數字 4 粗糙</entityname.labelscaptureitnumber4>
-<entityname.labelscaptureitnumber5>標識 數字 5 粗糙</entityname.labelscaptureitnumber5>
-<entityname.labelscaptureitnumber6>標識 數字 6 粗糙</entityname.labelscaptureitnumber6>
-<entityname.labelscaptureitnumber7>標識 數字 7 粗糙</entityname.labelscaptureitnumber7>
-<entityname.labelscaptureitnumber8>標識 數字 8 粗糙</entityname.labelscaptureitnumber8>
-<entityname.labelscaptureitnumber9>標識 數字 9 粗糙</entityname.labelscaptureitnumber9>
-<entityname.labelsiconairlock>標識 圖案 氣閘</entityname.labelsiconairlock>
-<entityname.labelsiconballast>標識 圖案 壓載艙</entityname.labelsiconballast>
-<entityname.labelsiconcargo>標識 圖案 貨物</entityname.labelsiconcargo>
-<entityname.labelsicondiving>標識 圖案 潛水</entityname.labelsicondiving>
-<entityname.labelsicondocking>標識 圖案 對接艙口</entityname.labelsicondocking>
-<entityname.labelsiconelectricity>標識 圖案 電氣</entityname.labelsiconelectricity>
-<entityname.labelsiconengine>標識 圖案 引擎</entityname.labelsiconengine>
-<entityname.labelsiconengineering>標識 圖案 工程</entityname.labelsiconengineering>
-<entityname.labelsiconexit>標識 圖案 出口</entityname.labelsiconexit>
-<entityname.labelsiconmedical>標識 圖案 醫療</entityname.labelsiconmedical>
-<entityname.labelsiconreactor>標識 圖案 反應爐</entityname.labelsiconreactor>
-<entityname.labelsiconsecurity>標識 圖案 警衛</entityname.labelsiconsecurity>
-<entityname.labelsiconsteering>標識 圖案 駕駛</entityname.labelsiconsteering>
-<entityname.labelsiconweapons>標識 圖案 武器</entityname.labelsiconweapons>
-<entityname.labelsarroverticala>標識 箭頭 垂直 A</entityname.labelsarroverticala>
-<entityname.labelsarroverticalb>標識 箭頭 垂直 B</entityname.labelsarroverticalb>
-<entityname.labelsarrowdiagonala>標識 箭頭 對角 A</entityname.labelsarrowdiagonala>
-<entityname.labelsarrowdiagonalb>標識 箭頭 對角 B</entityname.labelsarrowdiagonalb>
-<entityname.labelsarrowhorizontala>標識 箭頭 水平 A</entityname.labelsarrowhorizontala>
-<entityname.labelsarrowhorizontalb>標識 箭頭 水平 B</entityname.labelsarrowhorizontalb>
-<entityname.decorativelabel>一個裝飾性標識。</entityname.decorativelabel>
-<entityname.cableholderhorizontal>電纜架 水平</entityname.cableholderhorizontal>
-<entityname.cableholdervertical>電纜架 垂直</entityname.cableholdervertical>
-<entitydescription.cableholder>用於整齊擺設電線的裝飾性配件。</entitydescription.cableholder>
-<entityname.topwindow>窗戶 頂部</entityname.topwindow>
-<entityname.verticalwindow>窗戶 垂直</entityname.verticalwindow>
-<entityname.largeplatform>平台 大型</entityname.largeplatform>
-<entityname.platform>平台 基礎</entityname.platform>
-<entitydescription.platform>供角色行走與上下移動的平台。</entitydescription.platform>
-<entityname.slopeforward>斜坡 向前</entityname.slopeforward>
-<entityname.slopeback>斜坡 向後</entityname.slopeback>
-<entitydescription.decorativepiece>一個裝飾性配件。</entitydescription.decorativepiece>
-<entityname.stairs>樓梯</entityname.stairs>
-<entityname.stairsshort>樓梯 短</entityname.stairsshort>
-<entityname.stairslong>樓梯 長</entityname.stairslong>
-<entityname.ruinwallhorizontal>遺跡牆 水平</entityname.ruinwallhorizontal>
-<entityname.ruinwallvertical>遺跡牆 垂直</entityname.ruinwallvertical>
-<entityname.ruinwallheavyhorizontal>遺跡牆 大型 水平</entityname.ruinwallheavyhorizontal>
-<entityname.ruinwallheavyvertical>遺跡牆 大型 垂直</entityname.ruinwallheavyvertical>
-<entityname.ruinwallhorizontalsmall>遺跡牆 小型 水平</entityname.ruinwallhorizontalsmall>
-<entityname.ruinwallverticalsmall>遺跡牆 小型 垂直</entityname.ruinwallverticalsmall>
-<entityname.ruinback>遺跡背景牆 基礎</entityname.ruinback>
-<entityname.ruinprop>遺跡裝飾</entityname.ruinprop>
-<entityname.bunk>床鋪</entityname.bunk>
-<entityname.opdeco_weaponstoragesuit1>服裝展示櫃</entityname.opdeco_weaponstoragesuit1>
-<entityname.op_weaponstoragesmall>武器展示櫃 小</entityname.op_weaponstoragesmall>
-<entityname.op_weaponstoragemedium>武器展示櫃 中</entityname.op_weaponstoragemedium>
-<entityname.op_weaponstoragelarge>武器展示櫃 大</entityname.op_weaponstoragelarge>
-<entityname.opdeco_storageitemshelf>物品展示架</entityname.opdeco_storageitemshelf>
-<entityname.opdeco_storagemineralshelf>礦物展示架</entityname.opdeco_storagemineralshelf>
-<entityname.opdeco_storageweaponshelf>武器展示架</entityname.opdeco_storageweaponshelf>
-<entityname.opdeco_storageseedshelf>種子展示架</entityname.opdeco_storageseedshelf>
-<entityname.opdeco_storagefrozenseedshelf>冷凍種子展示架</entityname.opdeco_storagefrozenseedshelf>
-<entityname.opdeco_diningtable>餐桌</entityname.opdeco_diningtable>
-<entityname.opdeco_boxes1>箱子</entityname.opdeco_boxes1>
-<entityname.opdeco_bunks1>艙房</entityname.opdeco_bunks1>
-<entityname.opdeco_researchdecal1>實驗室圖樣</entityname.opdeco_researchdecal1>
-<entityname.opdeco_hrwindow1>辦公室窗戶</entityname.opdeco_hrwindow1>
-<entityname.opdeco_hrwindow2>辦公室窗戶 高</entityname.opdeco_hrwindow2>
-<entityname.opdeco_hrwindowblinds>辦公室百葉窗</entityname.opdeco_hrwindowblinds>
-<entityname.opdeco_hrblinds>辦公室百葉窗 高</entityname.opdeco_hrblinds>
-<entityname.opdeco_hrglassoffice>辦公室門</entityname.opdeco_hrglassoffice>
-<entityname.opdeco_hrticketdispenser>出票機</entityname.opdeco_hrticketdispenser>
-<entityname.opdeco_hrnewspaperrack>報刊架</entityname.opdeco_hrnewspaperrack>
-<entityname.opdeco_hrcalendar>日曆</entityname.opdeco_hrcalendar>
-<entityname.opdeco_hrsign>指示牌背景</entityname.opdeco_hrsign>
-<entityname.opdeco_hrheater>葉片式暖氣</entityname.opdeco_hrheater>
-<entityname.opdeco_hrelectricpanel>公佈欄</entityname.opdeco_hrelectricpanel>
-<entityname.opdeco_hrbench>長椅</entityname.opdeco_hrbench>
-<entityname.opdeco_hrflyers>傳單</entityname.opdeco_hrflyers>
-<entityname.opdeco_officeshelf1>辦公室架子</entityname.opdeco_officeshelf1>
-<entityname.opdeco_officedesk1>辦公桌</entityname.opdeco_officedesk1>
-<entityname.opdeco_officedisplay1>裝飾性獎盃</entityname.opdeco_officedisplay1>
-<entityname.opdeco_computer>電腦終端</entityname.opdeco_computer>
-<entityname.opdeco_shelfsmall>書架 小</entityname.opdeco_shelfsmall>
-<entityname.opdeco_shelfmedium>書架 中</entityname.opdeco_shelfmedium>
-<entityname.opdeco_shelflarge>書架 大</entityname.opdeco_shelflarge>
-<entityname.opdeco_rollupdoor>捲簾門</entityname.opdeco_rollupdoor>
-<entityname.opdeco_rollupdoorframe>捲簾門框</entityname.opdeco_rollupdoorframe>
-<entityname.opdeco_subblueprint1>潛艇藍圖</entityname.opdeco_subblueprint1>
-<entityname.opdeco_toolrack1>工具架</entityname.opdeco_toolrack1>
-<entityname.opdeco_ladder>梯子</entityname.opdeco_ladder>
-<entityname.opdeco_shelf>展示架</entityname.opdeco_shelf>
-<entityname.opdeco_desk>收銀台</entityname.opdeco_desk>
-<entityname.opdeco_oxygentanks>氧氣罐</entityname.opdeco_oxygentanks>
-<entityname.opdeco_crane>採礦起重機</entityname.opdeco_crane>
-<entityname.opdeco_trolley1>礦車 1</entityname.opdeco_trolley1>
-<entityname.opdeco_trolley2>礦車 2</entityname.opdeco_trolley2>
-<entityname.opdeco_debris1>採礦碎石 1</entityname.opdeco_debris1>
-<entityname.opdeco_debris2>採礦碎石 2</entityname.opdeco_debris2>
-<entityname.opdeco_debris3>採礦碎石 3</entityname.opdeco_debris3>
-<entityname.opdeco_construction_sign>施工告示牌</entityname.opdeco_construction_sign>
-<entityname.opdeco_box1>箱子 1</entityname.opdeco_box1>
-<entityname.opdeco_box2>箱子 2</entityname.opdeco_box2>
-<entityname.opdeco_box3>箱子 3</entityname.opdeco_box3>
-<entityname.opdeco_box4>箱子 4</entityname.opdeco_box4>
-<entityname.opdeco_box5>箱子 5</entityname.opdeco_box5>
-<entityname.heavydoor>重型門</entityname.heavydoor>
-<entityname.opdeco_door>背景門</entityname.opdeco_door>
-<entitydescription.decodoor>一扇裝飾性的門。</entitydescription.decodoor>
-<entityname.opdeco_door>上鎖的門</entityname.opdeco_door>
-<entityname.opdeco_towelrack>毛巾架</entityname.opdeco_towelrack>
-<entityname.concretewall>混凝土牆</entityname.concretewall>
-<entityname.opdeco_wheelchair1>輪椅</entityname.opdeco_wheelchair1>
-<entityname.opdeco_adposter>廣告</entityname.opdeco_adposter>
-<entityname.windowglass>窗戶玻璃</entityname.windowglass>
-<entityname.windowframe>窗戶外框</entityname.windowframe>
-<entityname.op_cafeteriawindow>食堂櫃台</entityname.op_cafeteriawindow>
-<entityname.op_gardendistiller>蒸餾器</entityname.op_gardendistiller>
-<entityname.op_cafeteriabench>食堂長椅</entityname.op_cafeteriabench>
-<entityname.op_cafeteriatable>食堂桌子</entityname.op_cafeteriatable>
-<entityname.op_cafeteriachair>食堂椅子</entityname.op_cafeteriachair>
-<entityname.op_cafeteriaposter>食堂海報</entityname.op_cafeteriaposter>
-<entityname.op_cafeteriacart>食堂推車</entityname.op_cafeteriacart>
-<entityname.op_gardenproducebox>蔬菜盒</entityname.op_gardenproducebox>
-<entityname.op_gardenbags>土壤袋</entityname.op_gardenbags>
-<entityname.op_gardenposter>花園海報</entityname.op_gardenposter>
-<entityname.table>桌子</entityname.table>
-<entityname.Target>目標</entityname.Target>
-<entityname.sign>指示牌</entityname.sign>
-<entityname.op_freezer>冰箱</entityname.op_freezer>
-<entityname.op_clothesrack>衣架</entityname.op_clothesrack>
-<entityname.op_metalchair>金屬椅子</entityname.op_metalchair>
-<entityname.op_washingmachine>洗衣機</entityname.op_washingmachine>
-<entityname.op_smallcouch>扶手椅</entityname.op_smallcouch>
-<entityname.op_janitorcart>清潔工推車</entityname.op_janitorcart>
-<entityname.op_towellocker>毛巾櫃</entityname.op_towellocker>
-<entityname.op_inkpainting>水墨圖畫</entityname.op_inkpainting>
-<entityname.op_banner>懸掛橫幅</entityname.op_banner>
-<entityname.op_boxcart>金屬推車</entityname.op_boxcart>
-<entityname.op_sworddisplay>刀劍展示</entityname.op_sworddisplay>
-<entityname.op_statue>雕像</entityname.op_statue>
-<entityname.op_raptorhead>迅猛龍頭戰利品</entityname.op_raptorhead>
-<entityname.op_shower>淋浴套件</entityname.op_shower>
-<entityname.op_painting1>裝裱圖畫</entityname.op_painting1>
-<entityname.op_wetsign>清潔告示牌</entityname.op_wetsign>
-<entityname.FF_Wall_I1>哨站牆 1</entityname.FF_Wall_I1>
-<entityname.FF_Wall_I2>哨站牆 2</entityname.FF_Wall_I2>
-<entityname.FF_Wall_I3>哨站牆 3</entityname.FF_Wall_I3>
-<entityname.opbg_generic1>通用哨站牆 1</entityname.opbg_generic1>
-<entityname.opbg_generic2>通用哨站牆 2</entityname.opbg_generic2>
-<entityname.opbg_generic3>通用哨站牆 3</entityname.opbg_generic3>
-<entityname.opbg_generic4>通用哨站牆 4</entityname.opbg_generic4>
-<entityname.opbg_generic5>通用哨站牆 5</entityname.opbg_generic5>
-<entityname.opbg_generic6>通用哨站牆 6</entityname.opbg_generic6>
-<entityname.opbg_generic7>通用哨站牆 7</entityname.opbg_generic7>
-<entityname.opbg_airlock1>哨站氣閘牆</entityname.opbg_airlock1>
-<entityname.opbgshopa1>哨站商店牆 1</entityname.opbgshopa1>
-<entityname.opbg_shop2>哨站商店牆 2</entityname.opbg_shop2>
-<entityname.opbg_shop3>哨站商店牆 3</entityname.opbg_shop3>
-<entityname.opbg_shop4>哨站商店牆 4</entityname.opbg_shop4>
-<entityname.opbgsocialcentera1>哨站公共空間牆</entityname.opbgsocialcentera1>
-<entityname.opbg_barracks1>哨站兵營背景 1</entityname.opbg_barracks1>
-<entityname.opbg_barracks2>哨站兵營背景 2</entityname.opbg_barracks2>
-<entityname.opbg_barracks3>哨站兵營背景 3</entityname.opbg_barracks3>
-<entityname.opbg_services1>哨站服務區背景 1</entityname.opbg_services1>
-<entityname.opbg_services2>哨站服務區背景 2</entityname.opbg_services2>
-<entityname.opbgmaintenancebaya1>哨站維修間背景 1</entityname.opbgmaintenancebaya1>
-<entityname.opbgmaintenancebaya2>哨站維修間背景 2</entityname.opbgmaintenancebaya2>
-<entityname.opbgmaintenancebaya3>哨站維修間背景 3</entityname.opbgmaintenancebaya3>
-<entityname.opbg_researchlab1>哨站研究實驗室背景 1</entityname.opbg_researchlab1>
-<entityname.opbg_researchlab2>哨站研究實驗室背景 2</entityname.opbg_researchlab2>
-<entityname.opbg_tunnel1>哨站隧道背景 1</entityname.opbg_tunnel1>
-<entityname.opbg_tunnel2>哨站隧道背景 2</entityname.opbg_tunnel2>
-<entityname.opbg_tunnel4>哨站隧道背景 4</entityname.opbg_tunnel4>
-<entityname.opbg_tunnel5>哨站隧道背景 5</entityname.opbg_tunnel5>
-<entityname.opbg_tunnel6>哨站隧道背景 6</entityname.opbg_tunnel6>
-<entityname.opbg_manageroffice1>哨站管理員辦公室背景 1</entityname.opbg_manageroffice1>
-<entityname.opbg_manageroffice2>哨站管理員辦公室背景 2</entityname.opbg_manageroffice2>
-<entityname.opbg_manageroffice3>哨站管理員辦公室背景 3</entityname.opbg_manageroffice3>
-<entityname.opbg_dorm1>哨站宿舍背景</entityname.opbg_dorm1>
-<entityname.opbg_messhall1>哨站食堂背景</entityname.opbg_messhall1>
-<entityname.opdeco_nuclearsign>核能標識牌</entityname.opdeco_nuclearsign>
-<entityname.opdeco_instructionsign>指示牌</entityname.opdeco_instructionsign>
-<entityname.opdeco_propagandaposter>宣傳海報</entityname.opdeco_propagandaposter>
-<entityname.crackedwall1>開裂牆體圖樣</entityname.crackedwall1>
-<entityname.graffiti1>塗鴉</entityname.graffiti1>
-<entityname.icewall>隧道冰牆</entityname.icewall>
-<entityname.icewallcracked>隧道冰牆 開裂</entityname.icewallcracked>
-<entityname.icewall90>隧道冰牆 90</entityname.icewall90>
-<entityname.icewallcracked90>隧道冰牆 開裂 90</entityname.icewallcracked90>
-<entityname.icerock01>隧道冰岩 1</entityname.icerock01>
-<entityname.icerock02>隧道冰岩 2</entityname.icerock02>
-<entityname.icerock03>隧道冰岩 3</entityname.icerock03>
-<entityname.icerock04>隧道冰岩 4</entityname.icerock04>
-<entityname.thalamus_background_2>丘腦背景 2</entityname.thalamus_background_2>
-<entityname.thalamus_background_3>丘腦背景 3</entityname.thalamus_background_3>
-<entityname.thalamus_background_4>丘腦背景 4</entityname.thalamus_background_4>
-<entityname.medbaywall1>醫務室牆 1</entityname.medbaywall1>
-<entityname.opdeco_medrack>醫療架</entityname.opdeco_medrack>
-<entityname.opdeco_hospitalbed>醫療床</entityname.opdeco_hospitalbed>
-<entityname.opdeco_diningtablesmall>小餐桌</entityname.opdeco_diningtablesmall>
-<entityname.opdeco_liftingequpiment>起重設備</entityname.opdeco_liftingequpiment>
-<entityname.opdeco_construction_barrier>工地護欄</entityname.opdeco_construction_barrier>
-<entityname.opdeco_supportbeam>支撐梁</entityname.opdeco_supportbeam>
-<entityname.opdeco_icecube>冰塊</entityname.opdeco_icecube>
-<entityname.opdeco_icepillar>冰柱</entityname.opdeco_icepillar>
-<entityname.opdeco_monitor>顯示器</entityname.opdeco_monitor>
-<entityname.decowire1>裝飾線</entityname.decowire1>
-<entityname.decopanel1>裝飾板</entityname.decopanel1>
-<entityname.decocolumn1>裝飾柱</entityname.decocolumn1>
-<entityname.decobarrier1>護欄</entityname.decobarrier1>
-<entityname.opbg_jail>白色監獄</entityname.opbg_jail>
-<entityname.opbg_rock>岩石背景</entityname.opbg_rock>
-<entityname.opdeco_prisonbed>監獄床</entityname.opdeco_prisonbed>
-<entityname.shop_decoration>商店裝飾</entityname.shop_decoration>
-<entityname.op_circusposter.png>海報</entityname.op_circusposter.png>
-<entityname.op_plaque.png>牌匾</entityname.op_plaque.png>
-<entityname.wreckdecal>殘骸圖樣</entityname.wreckdecal>
-<entityname.engineerequipment>工程設備</entityname.engineerequipment>
-<entityname.Jaildoor>監獄門</entityname.Jaildoor>
-<entityname.shelf>架子</entityname.shelf>
-
-<!-- The following texts are only used in "hidden editors" only accessible by console commands and intended for very advanced modders (and the devs), these don't need to be localized -->
-
-<!-- Sprite editor -->
-<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
-<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
-<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
-<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
-<spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
-<spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
-<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
-<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
-<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
-<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
-<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
-<spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
-<spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
-<spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
-<spriteeditor.allchangessavedto>All changes saved to:</spriteeditor.allchangessavedto>
-
-<!-- Event editor -->
-<eventeditor.loadevent>Load event prefab</eventeditor.loadevent>
-<eventeditor.addaction>Add event action</eventeditor.addaction>
-<eventeditor.addvalue>Add value</eventeditor.addvalue>
-<eventeditor.addspecial>Add special</eventeditor.addspecial>
-<eventeditor.add>Add</eventeditor.add>
-<eventeditor.edit>Edit value</eventeditor.edit>
-<eventeditor.delete>Delete node</eventeditor.delete>
-<eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
-<eventeditor.removeoption>Remove option</eventeditor.removeoption>
-<eventeditor.addoption>Add option</eventeditor.addoption>
-<eventeditor.saveproject>Save project</eventeditor.saveproject>
-<eventeditor.loadproject>Load project</eventeditor.loadproject>
-<eventeditor.newproject>New project</eventeditor.newproject>
-<eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
-<eventeditor.export>Export as event</eventeditor.export>
-<eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
-<eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
-<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
-<eventeditor.opentextheader>Open event</eventeditor.opentextheader>
-<eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
-<eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
-<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined, so they have been automatically generated.</eventeditor.randomgenerationbody>
-
-<!-- Particle editor -->
-<particleeditor.emitter>Emitter</particleeditor.emitter>
-
-<!-- Level editor -->
-<leveleditor.levelseed>Level Seed</leveleditor.levelseed>
-<leveleditor.generate>Generate</leveleditor.generate>
-<leveleditor.test>Test</leveleditor.test>
-<leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
-<leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
-<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
-<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
-<leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
-<leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
-<leveleditor.childobjects>Child Objects</leveleditor.childobjects>
-<leveleditor.addchildobject>Add Child Object</leveleditor.addchildobject>
-<leveleditor.lightsources>Light Sources</leveleditor.lightsources>
-<leveleditor.addlightsource>Add Light Source</leveleditor.addlightsource>
-<leveleditor.createlevelobj>Create a Level Object</leveleditor.createlevelobj>
-<leveleditor.levelobjname>Name</leveleditor.levelobjname>
-<leveleditor.levelobjtexturepath>Texture Path</leveleditor.levelobjtexturepath>
-<leveleditor.levelobjnameempty>Please enter a name for the level object.</leveleditor.levelobjnameempty>
-<leveleditor.levelobjnametaken>The selected name is already in use.</leveleditor.levelobjnametaken>
-<leveleditor.levelobjtexturenotfound>Could not find the selected texture file.</leveleditor.levelobjtexturenotfound>
-<leveleditor.ruinparams>Ruin parameters</leveleditor.ruinparams>
-<leveleditor.caveparams>Cave parameters</leveleditor.caveparams>
-<leveleditor.outpostparams>Outpost parameters</leveleditor.outpostparams>
-<leveleditor.addmoduletype>Add module type</leveleditor.addmoduletype>
-<leveleditor.allowinvalidoutpost>Allow invalid outposts</leveleditor.allowinvalidoutpost>
-<leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
-<leveleditor.allsaved>All changes saved</leveleditor.allsaved>
+<!-- New values -->
+<missionname.separatistattack1>分離主義者埋伏</missionname.separatistattack1>
+<missionheader0.separatistattack1>接收訊息</missionheader0.separatistattack1>
+<missionmessage0.separatistattack1>「這個通道已經被木星分離主義份子接管。立刻回頭，否則我們會殺光你們這群法西斯。」</missionmessage0.separatistattack1>
+<missionname.coalitionattack1>聯盟埋伏</missionname.coalitionattack1>
+<missionheader0.coalitionattack1>接收訊息</missionheader0.coalitionattack1>
+<missionmessage0.coalitionattack1>「死路一條，叛徒！背叛聯盟死罪一條！」</missionmessage0.coalitionattack1>
+<missionname.escort1separatists>運送分離主義者</missionname.escort1separatists>
+<missiondescription.escort1separatists>一群木星分離主義份子需要被運送至[location2]。他們正在進行一件重要任務，所有人都得安全地送達──若當中有人陣亡，你將只能獲得[reward]馬克。</missiondescription.escort1separatists>
+<missionname.escort2separatists>運送分離主義激進份子</missionname.escort2separatists>
+<missiondescription.escort2separatists>一位具影響力的木星分離主義激進份子與他的武裝護衛需要被運送至[location2]。留意不要使這位VIP暴露在不必要的風險之中，只有他們全數生還你才有辦法收到[reward]馬克的報酬。</missiondescription.escort2separatists>
+<missionname.escort3separatists>運送俘虜</missionname.escort3separatists>
+<missiondescription.escort3separatists>木星分離主義份子出價[reward]馬克讓你運送一批被俘虜的聯盟人員至[location2]。旅途中務必看好他們，這些人有可能試圖脫逃。切勿讓他們喪生。</missiondescription.escort3separatists>
+<missionname.escort4separatists>反釣魚行動</missionname.escort4separatists>
+<missiondescription.escort4separatists>情報指出有聯盟的臥底在這個區域試圖釣出分離主義者的行動。有些已經混入無辜平民之中並溜上了你的船。確保乘客能安全抵達[location2]並處理那些現出真面目的聯盟臥底，你將會收到[reward]馬克的獎勵。</missiondescription.escort4separatists>
+<missionsuccess.escort4separatists>成功運送人員且成功處理聯盟臥底。</missionsuccess.escort4separatists>
+<missionfailure.escort4separatists>並未將人員送達目的地，或者並未揭發連臥底並將其打倒。</missionfailure.escort4separatists>
+<missionheader1.escort4separatists>擊敗聯盟臥底</missionheader1.escort4separatists>
+<missionmessage1.escort4separatists>看來那是最後一名臥底了，駕駛潛艇至[location2]以領取你的獎勵。</missionmessage1.escort4separatists>
+<eventtext.missionevent_escort1separatists.c1>「這兒有一群激進份子正需要前往附近哨站。他們在執行重要任務，但細節我就不說了。如果你們想盡一份心力，護送他們安全抵達那裡，我們會給你一筆酬勞的。」</eventtext.missionevent_escort1separatists.c1>
+<eventtext.missionevent_escort2separatists.c1>「如果你對幫助我們對抗聯盟那些法西斯主義者，我們有份工作給你... 有位重要的激進份子和他的武裝護衛正需要前往附近的哨站。護送他們平安抵達，我們會付給你一筆酬勞。」</eventtext.missionevent_escort2separatists.c1>
+<eventtext.missionevent_escort3separatists.c1>「我們最近和聯盟的攻擊艦艇有點摩擦，長話短說，我們已經把倖存船員關進禁閉室了。經過談判協商，我們同意把他們送往下一個哨站。如果你願意把他們護送過去，我們會付給你一筆報酬，但小心別忘了途中得緊緊盯著他們。」</eventtext.missionevent_escort3separatists.c1>
+<eventtext.missionevent_escort4separatists.c1>「根據線報，聯盟派出了一些臥底來調查這區域的分離主義者動態。我們相信他們已經混入了無辜平民之中想要搭上下一艘從這裡出發的船。如果你願意當那艘船，你或許能夠揪出並抓住他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4separatists.c1>
+<missionname.escort1huskcult>運送邪教教徒</missionname.escort1huskcult>
+<missiondescription.escort1huskcult>畫皮教會出價[reward]馬克讓你運送一批教徒至[location2]。有理由相信他們之中有些打算計畫提前「交融」並逃進冰洋之中，但教會要求你緊緊盯著他們，讓他們以人類姿態登上[location2]。</missiondescription.escort1huskcult>
+<EventText.missionevent_escort1huskcult.c1>「喂！找工作嗎？有幾個我們的教徒想到別的哨站上去。但我得先說；我們已經和他們解釋得很清楚，他們還沒準備好，不過他們似乎計畫好了要自己進行『交融』。你最好緊緊盯著他們，確保他們不會在船上做出什麼蠢事。」</EventText.missionevent_escort1huskcult.c1>
+<missionname.huskcultspecialassassinate>寂靜守護者</missionname.huskcultspecialassassinate>
+<missiondescription.huskcultspecialassassinate>教會注意到有聯盟的特務在調查他們的動態。對方的調查已經深入教會的秘密，我們別無選擇，只能讓他消失。前往[location1]並儘可能謹慎地消滅特務。</missiondescription.huskcultspecialassassinate>
+<missionsuccess.huskcultspecialassassinate>已殲滅目標，教會的秘密安全了。</missionsuccess.huskcultspecialassassinate>
+<missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
+<missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首席」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。</missionsuccess.huskcultrescuesubra>
+<missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
+<missionname.escort1clowns>運送小丑</missionname.escort1clowns>
+<missiondescription.escort1clowns>一群小丑出價[reward]馬克要前往[location2]。你已經被警告他們可能有些不守規矩，或者至少不習慣待在潛艇上。</missiondescription.escort1clowns>
+<EventText.missionevent_escort1clowns.c1>「嘿！你的船上還有位子多載幾位乘客嗎？我朋友他們想去別的哨站，他們會付錢的。」那小丑低聲地說。「但你最好得盯緊他們。他們的腦袋裡都養了爬行者，聽得懂吧。他們也沒在潛艇上待過，我不知道他們有沒有辦法應付。」</EventText.missionevent_escort1clowns.c1>
+<missionname.gotoclownhaven>終極玩笑</missionname.gotoclownhaven>
+<missiondescription.gotoclownhaven>小丑聖母之子要求你奪回一個曾經屬於他們的哨站。他們的計畫是不停地去騷擾居民，直到他們不堪其擾，別無選擇只能搬離。他們給了你一件特殊衣裝，協助你完成任務。</missiondescription.gotoclownhaven>
+<missionsuccess.gotoclownhaven>計畫似乎奏效了: 哨站居民似乎已經放棄掙扎，決定將哨站讓給小丑們。</missionsuccess.gotoclownhaven>
+<eventtext.missionevent_pirate1separatists.c1>「最近有艘聯盟艦艇在我們哨站附近巡邏，不斷攔截貨物、騷擾我們的船。我們一直避免讓事態升級，但物資已經開始短缺了。如果你願意幫我們弄沉那艘船，對這座哨站或是分離主義大業都是巨大貢獻，我們也非常樂意付你酬勞。」</eventtext.missionevent_pirate1separatists.c1>
+<EventText.missionevent_cargocompoundn.c1>「如果你願意幫助我們對抗聯盟，我有一項任務給你... 我們在附近哨站上有幾名特務，他們需要一些炸藥好完成任務。原封不動地把東西運過去，我們會給你合適報酬的。」</EventText.missionevent_cargocompoundn.c1>
+<missionname.cargoweaponscoalition>運送武器</missionname.cargoweaponscoalition>
+<missiondescription.cargoweaponscoalition>聯盟派出了幾名臥底在[location2]調查分離主義者的動態。他們亟需武器和彈藥──將物資送達以獲得[reward]馬克的獎勵。</missiondescription.cargoweaponscoalition>
+<missionsuccess.cargoweaponscoalition>武器已被成功送達。</missionsuccess.cargoweaponscoalition>
+<EventText.missionevent_cargoweaponscoalition.c1>「我這兒有一項重要任務。聯盟派了幾名臥底在附近的哨站上調查分離主義者的動態。細節我最好還是別說了，總之我們得運送一批武器和彈藥。把它們送過去，這對聯盟而言是重大貢獻，當然我們也會付上酬勞。」</EventText.missionevent_cargoweaponscoalition.c1>
+<missionname.pirate1separatists>聯盟艦艇</missionname.pirate1separatists>
+<missiondescription.pirate1separatists>找到並殲滅在這個區域中橫行霸道的聯盟艦艇，標示的地點為最後一次目擊他們的位置。</missiondescription.pirate1separatists>
+<missionsuccess.pirate1separatists>成功殲滅聯盟艦艇船員。</missionsuccess.pirate1separatists>
+<missionfailure.pirate1separatists>並未殲滅聯盟艦艇船員。</missionfailure.pirate1separatists>
+<missionsonarlabel.pirate1separatists>聯盟艦艇目擊第</missionsonarlabel.pirate1separatists>
+<missionheader0.pirate1separatists>偵測到聯盟艦艇</missionheader0.pirate1separatists>
+<missionmessage0.pirate1separatists>消滅艦艇船員或讓艦艇沉落海底！</missionmessage0.pirate1separatists>
+<missionheader1.pirate1separatists>成功殲滅聯盟船艦</missionheader1.pirate1separatists>
+<missionmessage1.pirate1separatists>駕駛潛艇前往[location2]領取獎勵。</missionmessage1.pirate1separatists>
+<missionname.tormsdalereport>Tormsdale報告</missionname.tormsdalereport>
+<missiondescription.tormsdalereport>木星分離主義份子交給了你一項任務，取回一份被稱為「Tormsdale事件」的機密報告。他們認為該事件是聯盟為了消除政治對手而精心策劃。</missiondescription.tormsdalereport>
+<missionsuccess.tormsdalereport>成功取回文件。</missionsuccess.tormsdalereport>
+<missionfailure.tormsdalereport>未能取回文件。</missionfailure.tormsdalereport>
+<missionmessage0.tormsdalereport>你找到了Tormsdale事件的相關文件。你需要將它們送至受到分離主義者掌控的哨站。</missionmessage0.tormsdalereport>
+<entityname.tormsdalereport>Tormsdale報告</entityname.tormsdalereport>
+<entitydescription.tormsdalereport>一封似乎裝著機密資料的未開封文件夾。</entitydescription.tormsdalereport>
+<missionname.jailbreak>逃獄</missionname.jailbreak>
+<missiondescription.jailbreak_separatists>木星分離主義份子求你解救幾位聯盟俘虜的特務。</missiondescription.jailbreak_separatists>
+<missiondescription.jailbreak_coalition>歐羅巴聯盟要求你解救幾位被木星分離主義份子俘虜的特務。</missiondescription.jailbreak_coalition>
+<missiondescription.jailbreak_sootman>木星分離主義份子要求你解救一位被聯盟俘虜的重要特務。</missiondescription.jailbreak_sootman>
+<missionsuccess.jailbreak>成功救出囚犯。</missionsuccess.jailbreak>
+<missionfailure.jailbreak>未能救出囚犯。</missionfailure.jailbreak>
+<missionsuccess.jailbreak_singletarget>成功救出囚犯。</missionsuccess.jailbreak_singletarget>
+<missionfailure.jailbreak_singletarget>未能救出囚犯。</missionfailure.jailbreak_singletarget>
+<missionheader0.prisonerrescue>成功救出囚犯</missionheader0.prisonerrescue>
+<missionmessage0.prisonerrescue>囚犯已經安全登上潛艇。與哨站分離以完成任務。</missionmessage0.prisonerrescue>
+<missionheader0.prisonerrescue_singletarget>成功救出囚犯</missionheader0.prisonerrescue_singletarget>
+<missionmessage0.prisonerrescue_singletarget>囚犯已經安全登上潛艇。與哨站分離以完成任務。</missionmessage0.prisonerrescue_singletarget>
+<prisonerkilled>任務失敗；一名囚犯死亡。</prisonerkilled>
+<dialogundercoverannounce>歐羅巴聯盟在此沒收這艘船！</dialogundercoverannounce>
+<dialogundercoverannounce>背叛聯盟死罪一條！</dialogundercoverannounce>
+<dialogundercoverannounce>我們不會讓你們這群恐怖分子活著離開！</dialogundercoverannounce>
+<dialogundercoverannounce>我們知道你們和分離主義者之間的勾當！我們會讓這在此結束。</dialogundercoverannounce>
+<dialogundercoverannounce>聯盟萬歲！</dialogundercoverannounce>
+<label.securespecimenenclosure>安全樣本盒</label.securespecimenenclosure><!--NEED EDIT-->
+<faction>陣營</faction>
+<locationchange.none.changeto.outpost.separatists>一‖color:faction.separatists‖木星分離主義份子‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>一‖color:faction.separatists‖分離主義‖end‖激進勢力進駐了[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力進駐[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.coalition>
+<locationchange.military.changeto.city.separatists>[previousname]的指揮官被任命為治理階層，使其被官方定為[name]市。</locationchange.military.changeto.city.separatists>
+<locationchange.military.changeto.city.coalition>[previousname]的人口已成長至足以被官方定為[name]市。</locationchange.military.changeto.city.coalition>
+<locationchange.outpost.changeto.mine.separatists>‖color:faction.separatists‖木星分離主義份子‖end‖開始於[previousname]進行採礦作業。</locationchange.outpost.changeto.mine.separatists>
+<locationchange.outpost.changeto.mine.coalition>‖color:faction.coalition‖聯盟‖end‖開始於[previousname]進行採礦作業。</locationchange.outpost.changeto.mine.coalition>
+<locationchange.outpost.changeto.research.separatists>一批自由研究人員將[previousname]發展為一座受到‖color:faction.separatists‖分離主義份子‖end‖支援的研究站。</locationchange.outpost.changeto.research.separatists>
+<locationchange.outpost.changeto.research.coalition>‖color:faction.coalition‖聯盟‖end‖將[previousname]發展為一座研究站並開始研究周遭的生物群。</locationchange.outpost.changeto.research.coalition>
+<location.clownhaven>小丑天堂</location.clownhaven>
+<breakingnews>新聞快報</breakingnews>
+<randomnews1>本週木星輻射預測仍不樂觀</randomnews1>
+<randomnews2>艦上小丑表示，工作場所內敵意和消極態度增加</randomnews2>
+<randomnews3>聯盟官員提醒所有守法公民，向隸屬分離主義份子的哨站出售管制原料屬於刑事犯罪</randomnews3>
+<randomnews4>科學界提出請願要求歐羅巴之眼深度研究資金</randomnews4>
+<randomnews5>「深入歐羅巴之眼」行動持續</randomnews5>
+<randomnews6>末日蠕蟲目擊次數增加</randomnews6>
+<randomnews7>畫皮教會疑使皮蟲淨短缺加劇</randomnews7>
+<randomnews8>與Dunsomin區域居民失去聯繫</randomnews8>
+<randomnews9>住房價格續漲，年底將達到歷史新高</randomnews9>
+<randomnews10>乖僻、武裝、危險人物Subra依舊逍遙法外</randomnews10>
+<randomnews11>「溫特豪德」型潛艇失火沉沒，八名船員親友哀悼</randomnews11>
+<randomnews12>小丑幣大跳水，跌破0.0001馬克</randomnews12>
+<randomnews13>火球Ford於Dunwice的曲棍球賽事中奪勝</randomnews13>
+<randomnews14>人類並不是木衛二的第一批居民，科學家表示「廢話」</randomnews14>
+<randomnews15>畫皮寄生蟲卵：研究表示對健康並無顯著益處</randomnews15>
+<randomnews16>記者在Meltwater失蹤，「歐羅巴報」展開調查</randomnews16>
+<randomnews17>現任聯盟首腦以壓倒性優勢勝選</randomnews17>
+<randomnews18>民眾對檢測十分困惑：陽性結果不被期望</randomnews18>
+<randomnews19>Stomburn出現奇特石雕，發現者表示「觸感溫暖」</randomnews19>
+<randomnews20>研究表明水罌粟不適合作為煙草吸食，健康官員表示「可以聞，但別吸」</randomnews20>
+<randomnews21>EHOEHO對遭輻射的爬行者香腸進行召回</randomnews21>
+<randomnews22>工程師超越技師成為最受歡迎職業，牧師依舊墊底</randomnews22>
+<randomnews23>頭條新聞寫手飽受孤獨之苦</randomnews23>
+<randomnews24>多數歐羅巴居民不再關心全球暖化</randomnews24>
+<randomnews25>當地兒童的惡作劇被誤認為來自地球的新訊息</randomnews25>
+<randomnews26>地球依舊毫無音訊</randomnews26>
+<randomnews27>第17季「和Doris阿姨吃美食」確定製作</randomnews27>
+<randomnews28>「Doris阿姨」連鎖餐飲遭控違反食品安全法</randomnews28>
+<randomnews29>聯盟對神祕恐怖份子「煙燻人」設下懸賞。</randomnews29>
+<randomnews30>聯盟造船廠祝融──安全人員指控蒙面恐怖份子「煙燻人」</randomnews30>
+<randomnews31>今夜深航：煙燻人──謎樣的蒙面變節者</randomnews31>
+<randomnews32>畫皮教派領袖Jacov Subra仍逍遙法外</randomnews32>
+<randomnews33>Ignatius May連任內務主席，有關他利用裙帶關係的指控此起彼伏</randomnews33>
+<randomnews34>木星崇拜和非線性的空間與時間：密碼學揭示古代異星文化新線索</randomnews34>
+<npctitle.merchantclown>小丑商人</npctitle.merchantclown>
+<npctitle.merchanthusk>邪教徒商人</npctitle.merchanthusk>
+<npctitle.huskcultecclesiast>教士</npctitle.huskcultecclesiast>
+<npctitle.coalitionspy>聯盟特務</npctitle.coalitionspy>
+<npctitle.separatistcaptain>分離主義者上校</npctitle.separatistcaptain>
+<npctitle.separatistcaptainlord>分離主義者上將</npctitle.separatistcaptainlord>
+<npctitle.separatistsecurityrecruit>分離主義者新兵</npctitle.separatistsecurityrecruit>
+<npctitle.separatistsecuritygunner>分離主義者槍手</npctitle.separatistsecuritygunner>
+<npctitle.separatistsecuritybrute>分離主義者打手</npctitle.separatistsecuritybrute>
+<npctitle.separatistsecurityelite>分離主義者菁英</npctitle.separatistsecurityelite>
+<npctitle.separatistmechanicrecruit>分離主義者技師</npctitle.separatistmechanicrecruit>
+<npctitle.separatistmechanicveteran>資深分離主義者技師</npctitle.separatistmechanicveteran>
+<npctitle.separatistengineerrecruit>分離主義者工程師</npctitle.separatistengineerrecruit>
+<npctitle.separatistengineerveteran>資深分離主義者工程師</npctitle.separatistengineerveteran>
+<npctitle.coalitioncaptain>聯盟上校</npctitle.coalitioncaptain>
+<npctitle.coalitioncaptainlord>聯盟上將</npctitle.coalitioncaptainlord>
+<npctitle.coalitionsecurityrecruit>聯盟新兵</npctitle.coalitionsecurityrecruit>
+<npctitle.coalitionsecuritygunner>聯盟槍手</npctitle.coalitionsecuritygunner>
+<npctitle.coalitionsecuritybrute>聯盟下士</npctitle.coalitionsecuritybrute>
+<npctitle.coalitionsecurityelite>聯盟中尉</npctitle.coalitionsecurityelite>
+<npctitle.coalitionmechanicrecruit>聯盟技師</npctitle.coalitionmechanicrecruit>
+<npctitle.coalitionmechanicveteran>資深聯盟技師</npctitle.coalitionmechanicveteran>
+<npctitle.coalitionengineerrecruit>聯盟工程師</npctitle.coalitionengineerrecruit>
+<npctitle.coalitionengineerveteran>資深聯盟工程師</npctitle.coalitionengineerveteran>
+<npctitle.hireablecoalitionsecurityofficer>聯盟下士</npctitle.hireablecoalitionsecurityofficer>
+<npctitle.hireablecoalitionsecurityofficerveteran>聯盟中尉</npctitle.hireablecoalitionsecurityofficerveteran>
+<npctitle.hireablecoalitionmechanic>聯盟技師</npctitle.hireablecoalitionmechanic>
+<npctitle.hireablecoalitionmechanicveteran>資深聯盟技師</npctitle.hireablecoalitionmechanicveteran>
+<npctitle.hireablecoalitionengineer>聯盟工程師</npctitle.hireablecoalitionengineer>
+<npctitle.hireablecoalitionengineerveteran>資深聯盟工程師</npctitle.hireablecoalitionengineerveteran>
+<npctitle.hireablecoalitionmedic>聯盟醫生</npctitle.hireablecoalitionmedic>
+<npctitle.hireablecoalitionmedicveteran>資深聯盟醫生</npctitle.hireablecoalitionmedicveteran>
+<npctitle.hireableseparatistsecurityofficer>分離主義者下士</npctitle.hireableseparatistsecurityofficer>
+<npctitle.hireableseparatistsecurityofficerveteran>分離主義者中尉</npctitle.hireableseparatistsecurityofficerveteran>
+<npctitle.hireableseparatistmechanic>分離主義者技師</npctitle.hireableseparatistmechanic>
+<npctitle.hireableseparatistmechanicveteran>資深分離主義者技師</npctitle.hireableseparatistmechanicveteran>
+<npctitle.hireableseparatistengineer>分離主義者工程師</npctitle.hireableseparatistengineer>
+<npctitle.hireableseparatistengineerveteran>資深分離主義者工程師</npctitle.hireableseparatistengineerveteran>
+<npctitle.hireableseparatistmedic>分離主義者醫生</npctitle.hireableseparatistmedic>
+<npctitle.hireableseparatistmedicveteran>資深分離主義者醫生</npctitle.hireableseparatistmedicveteran>
+<entityname.op_husktable>驗屍台</entityname.op_husktable>
+<entityname.op_huskscribble>神秘物品</entityname.op_huskscribble>
+<entityname.op_huskstatue1>神秘雕像</entityname.op_huskstatue1>
+<entityname.op_huskgraffiti>神秘符號</entityname.op_huskgraffiti>
+<entityname.op_husklabel>禁止進入標識</entityname.op_husklabel>
+<entityname.op_husklabel1>褪色的名牌</entityname.op_husklabel1>
+<entityname.op_huskbody>嬰兒屍體</entityname.op_huskbody>
+<entityname.op_humantank>實驗槽</entityname.op_humantank>
+<entityname.op_huskincubator>嬰兒保溫箱</entityname.op_huskincubator>
+<entityname.op_huskphoto1>模糊的相片</entityname.op_huskphoto1>
+<entityname.op_huskcloak>邪教徒斗篷</entityname.op_huskcloak>
+<entityname.op_huskstroller1>嬰兒車</entityname.op_huskstroller1>
+<entityname.op_huskposter1>藥物海報</entityname.op_huskposter1>
+<entityname.op_husksign>紙板標識</entityname.op_husksign>
+<entityname.op_sepsandbag>分離主義者裝飾</entityname.op_sepsandbag>
+<entityname.op_clowncurtain2>裝飾窗簾</entityname.op_clowncurtain2>
+<entityname.op_clownmannequin1>人體模型</entityname.op_clownmannequin1>
+<entityname.op_clownjukebox>點唱機</entityname.op_clownjukebox>
+<entityname.op_clowninstrument1>大提琴</entityname.op_clowninstrument1>
+<entityname.op_clownball1>氣球</entityname.op_clownball1>
+<entityname.op_clownmic>舞臺麥克風</entityname.op_clownmic>
+<entityname.op_clownsign1>劇院標誌</entityname.op_clownsign1>
+<entityname.op_clownmask2>裝飾面具</entityname.op_clownmask2>
+<entityname.op_clownshow1>演出海報</entityname.op_clownshow1>
+<entityname.op_clownmarquee>招牌</entityname.op_clownmarquee>
+<entityname.op_clowninstrument2>爵士鼓</entityname.op_clowninstrument2>
+<entityname.op_clownfence>劇場圍欄</entityname.op_clownfence>
+<entityname.op_clownball2>巨大的球</entityname.op_clownball2>
+<entityname.op_clownposter1>廣告海報</entityname.op_clownposter1>
+<entityname.banana>香蕉</entityname.banana>
+<entitydescription.banana>源自地球的水果，非常美味，富含鉀元素。</entitydescription.banana>
+<entityname.bananapeel>香蕉皮</entityname.bananapeel>
+<entitydescription.bananapeel>富含鉀元素。如果擺在地上則會產生安全疑慮。</entitydescription.bananapeel>
+<entityname.cymbals>攝魂鈸</entityname.cymbals>
+<entitydescription.cymbals>一對小丑聖母之子用於冥想練習所用的鈸。攝魂材質使這對鈸發出獨特而可憎的巨大聲響讓外行人頭暈目眩。</entitydescription.cymbals>
+<entityname.clowncrate>小丑箱</entityname.clowncrate>
+<entitydescription.clowncrate>一個大小足以容納一位搗蛋鬼的箱子。</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] 進入</itemmsggoinside>
+<entityname.clownexosuit>歡樂製造機3000</entityname.clownexosuit>
+<entitydescription.clownexosuit>來自小丑聖母之子的科技結晶：一架配有強大惡作劇武力的核能動力服。</entitydescription.clownexosuit>
+<clownexosuitweapon>爆裂叭叭</clownexosuitweapon>
+<entityname.honkmotherianscriptures1>小丑聖經：歡樂九章 (I-III)</entityname.honkmotherianscriptures1>
+<pillarsoffun1>I. 能被傳述的叭叭不是永恆的叭叭。能被叫出名諱的小丑聖母不是永恆的小丑聖母。無名者才是舞臺的靈魂。有名者是場戲、是演員、是觀眾、是他們之間的那面牆。從嚴肅中解放，如此就能看到隱藏的秘密。嚴肅的雙眼只能看到眼前的真相。\n\nII. 我們把氣球塑造成動物的形狀，但當中的虛無才是真正為氣球塑形。我們利用物質，但真正運用的介於虛實。\n\nIII. 最高級的樂趣不是創造樂趣，而是讓自己成為樂趣。嚴肅之人總在找樂子，最後只發現那種歡樂無法持續。嚴肅之人榨乾生命賦予的檸檬，最後只發現酸澀的汁液。</pillarsoffun1>
+<entityname.honkmotherianscriptures2>小丑聖經：歡樂九章 (IV-VI)</entityname.honkmotherianscriptures2>
+<pillarsoffun2>IV. 一名小丑聽聞宇宙最大的笑話時，他以此為引。一名普通人聽聞宇宙最大的笑話時，他半信半疑。一名愚者聽聞宇宙最大的笑話時，他爆笑如雷。若他沒笑，那就不是個笑話了，是吧？\n\nV. 最棒的小丑是籍籍無名的。其次的是人們讚美喜愛的。再次是受人懼怕的。最差勁的是被看不起的。一名偉大的小丑完成任務時，人們會說「那還真有趣」，卻不曾察覺歡樂之流從何而來，如同他們不曾察覺各方小丑之傑、歡樂的源頭、那空白的石板。\n\nVI. 如同那那空白的石板，小丑的思緒即是如此。他們把人們的思緒作為自己的思緒。他們用善良對待善良之人。他們也用善良對待不善之人。他們信任值得信任之人。他們也信任不值得信任之人。因而，他們獲得善良與信任，免得腦滿糞土的嚴肅之人阻擋歡樂之流蕩漾。</pillarsoffun2>
+<entityname.honkmotherianscriptures3>小丑聖經：歡樂九章 (VII-IX)</entityname.honkmotherianscriptures3>
+<pillarsoffun3>VII. 若你不懼怕死亡，它又能如何威脅到你呢？要真正理解這一點，順著自行車喇叭之道大步邁進。不自然地延續生命就是對死亡的恐懼。試圖改變生命的走向就是對死亡的恐懼。小丑明白事物，合久必分，盛極必衰。違背自然規律背離了自行車喇叭之道，背離之人最後一點歡樂也找不到。\n\nVIII. 心存憐憫，就能充滿勇氣。心有節制，就能為世界帶來歡樂。心懷謙卑，就能指引他人。放棄憐憫卻尋找勇氣、在歡樂中放棄節制、亦或是在尋求指引時放棄謙卑都不會迎來歡樂。\n\nIX. 風箏隨風高飛，小丑任其翱翔；風箏斷了線，小丑由它去。小丑擁有而不佔有，行動但不期待。當他的任務完成，他就將其遺忘。這就是歡樂如何永恆，如同各方小丑之傑。讚美小丑聖母！</pillarsoffun3>
+<storename.merchantclown>小丑物資</storename.merchantclown>
+<storename.merchanthusk>信徒物資</storename.merchanthusk>
+<entityname.cultistrobes>邪教徒長袍</entityname.cultistrobes>
+<entitydescription.cultistrobes>畫皮教會信徒傳統上穿著的深色服飾。上面塗抹能夠安撫野生畫皮蟲的費洛蒙，讓他們能夠安全度過昇華前的時光。</entitydescription.cultistrobes>
+<entityname.zealotrobes>狂熱者長袍</entityname.zealotrobes>
+<entitydescription.zealotrobes>畫皮教派高階成員穿著的深色服飾。帶有基因科技和荷爾蒙注射器，使穿著者獲得其共生體的強大回復能力，同時使它們保持休眠狀態。</entitydescription.zealotrobes>
+<entityname.rituallantern>儀式燈籠</entityname.rituallantern>
+<entitydescription.rituallantern>畫皮教會進行儀式時常見的燈籠。含有能鎮靜野生畫皮寄生蟲的化學物質，也具有治療功能。</entitydescription.rituallantern>
+<entityname.huskcontainerspawner>畫皮寄生蟲置物箱</entityname.huskcontainerspawner>
+<entitydescription.huskcontainerspawner>一個受到「Velonaceps Calyx」，俗稱畫皮寄生蟲寄宿的置物箱。能被當成一種自動置物箱使用，不過效果頗為短暫，因為畫皮寄生蟲很難在無機物中存活太久。</entitydescription.huskcontainerspawner>
+<entityname.bookofchalices1>聖杯之書：三重蛻變</entityname.bookofchalices1>
+<threemetamorphoses>讓我告訴你靈魂的三重蛻變：靈魂如何成為化為人類堅韌意志的聖杯，聖杯如何倒空陳酒，又裝滿新酒。\n\n一個強大的、令人敬畏的靈魂能夠承載很多東西。\n\n「乘載何物？」靈魂伸出雙手問到。「最沉重之物為何？」靈魂又問。「我想背負那重擔，並為我的力量感到歡欣鼓舞。」\n\n那重擔是否如此：潛入最深的深淵探尋深邃的秘密？\n\n亦或如是：以知識的果實為食，為真理而承受靈魂的饑餓？\n\n還是這般：步入渾濁的真理之水，不再拒絕其中的害蟲與寄生蟲？\n\n再不其然：愛那些輕視我們之人，在那幽靈威脅我們時向它伸出自己的手？\n\n一切重擔由靈魂獨自承受：成為化為人類堅韌意志的聖杯，它為自己的力量歡欣鼓舞。\n\n但此時，瘴氣從聖杯中升起，因人類堅韌意志正背負的重擔是古老的，業已腐朽污濁。\n\n瘴氣對靈魂說道，「你得如此！」\n\n千年來的思想與價值散發出的瘴氣飄散空氣中，「一切事物的價值使我不朽。一切事物的價值已被創造──而我就代表這一切。是的，業已不會有『我將會』。」瘴氣如是說道。\n\n因此兄弟姊妹們，何來不需要倒盡聖杯？如何不滿足於屏除重擔而令人敬畏的人類的堅韌意志呢？創造新價值──那是人類無法完成之事：但創造新的自由，並由它創造價值──是人類的堅韌意志能做之事。\n\n要為自身創造自由，甚至得拋棄為人的重擔：為此，我的兄弟姊妹們，人已不被需要。承擔新的價值──那是對令人敬畏的靈魂的艱鉅挑戰。\n\n但請告訴我，我的兄弟姊妹們，空蕩蕩的聖杯本身價值為何？不正是當中的美酒賦予了它目的？為此我們必須尋找新的酒，新鮮而純淨，超越人類的堅韌意志，又盡在其掌握中。\n\n是的，兄弟姊妹們，進行創造遊戲需要對生命的神聖肯定，那堅韌的生命。這種堅韌的生命對勇於追求的人觸手可及，好似是由這世界餽贈。\n\n這帶來了第三次也是最後一次蛻變，昇華：人的靈魂被新的生命充滿，人類的堅韌意志與世界的堅韌意志融為一體。靈魂成為了意志本身；自身的世界超越將其流放的世界。換句話說，化為了最真實的姿態。</threemetamorphoses>
+<entityname.bookofchalices2>聖杯之書：化身浪潮的先驅</entityname.bookofchalices2>
+<heraldofthetide>人類是動物與其真實姿態之間的橋樑。──一座位於深淵之上的橋梁。\n\要通過是危險的，通過時是危險的，回頭是危險的，顫抖和停滯是危險的。\n\n人的偉大之處在於，他是一座橋樑而不是一個目標：人的可愛之處在於，他既是向上昇華又是往下墮落的過程。能過此橋者甚少，過橋者皆大德：\n\n他們只瞭向下墮落的生活，正因他們向上昇華。\n\n他們仰望星空並非尋求墮落和犧牲，而是將自己獻給世界，為求到達屬於其真實姿態的世界。\n\n他們為求知而生，他們尋求成為其真實姿態的知識。為此他們尋求自身的往下墮落。\n\n他們勞動並創造，為其真實姿態修築新家，他們使大海、動物、植物、以及自身的肉體做好準備：為此他們尋求自身的往下墮落。\n\n他們懲罰自己的神，因為他們愛他們的神：因他們得藉由神的怒火消逝。\n\n他們的靈魂受到深深傷害，哪怕是一件小事也能將其摧毀：因此他們願意過橋。\n\n他們擁有自由的靈魂和內心：因此他們的腦袋僅是其心之附屬；然而他們的心使他們往下墮落。\n\n看啊，我是潮汐的使者，是洶湧的水流：而這潮汐，就是最真實的姿態。</heraldofthetide><!--not understand-->
+<character.huskcontainer>畫皮寄生蟲置物箱</character.huskcontainer>
+<entityname.40mmnuke>40mm迷你核彈</entityname.40mmnuke>
+<entitydescription.40mmnuke>能以榴彈發射器發射的一種小型核裝置。</entitydescription.40mmnuke>
+<entityname.molotovcoctail>燃燒瓶</entityname.molotovcoctail>
+<entitydescription.molotovcoctail>一種廉價的克難燃燒武器。</entitydescription.molotovcoctail>
+<campaignstore.reputationrequired>需要[amount][faction]聲望</campaignstore.reputationrequired>
+<charactername.ignatiusmay>Ignatius May</charactername.ignatiusmay>
+<charactername.auntdoris>Doris阿姨</charactername.auntdoris>
+<charactername.victoriapetran>Victoria Petran</charactername.victoriapetran>
+<charactername.sootman>煙燻人</charactername.sootman>
+<charactername.jestmaster>惡作劇大師</charactername.jestmaster>
+<eventtext.separatistspecialhire1.c1>一位正顏厲色的女人朝你走了過來。有一剎那你只覺得在哪見過她，直到你突然想起她曾在新聞裡出現過很多次。\n\n她伸出手，與你握了握手。「你好，我一直期待與你見面。Victoria Petran，木星分離主義一級中尉。」</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>「很榮幸與妳見面，有什麼我幫得上忙的嗎？」</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>「其實我不是來請你們做什麼的，正好相反。我觀察你和你的船員好一陣子了，你們已經為我們的事業做出了巨大貢獻。要是我們的人都像你這樣子，要把聯盟從歐羅巴上抹除簡直易如反掌。」</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>「感謝妳的認可，我們只是盡我們所能。」</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>「實際上，你們的出色表現讓我覺得，或許我加入你們會比待在辦公室裡能帶來更多改變。我也相信我對你們而言是有價值的；我對潛艇生活略知一二、對武器和醫療也有所瞭解。所以，你覺得如何？你們還缺安全官嗎？」</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>「我怎麼會拒絕呢！歡迎登艦，長官！」</eventtext.separatistspecialhire1.o1.o1.o1><!--ma'am-->
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>「好極了！不過既然如此，別再叫我長官了，我是你的船員，不是你的上級。我等不及要參與我們一起的第一個任務了！」</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>「我備感榮幸，但我們得考慮一下。」</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>「明白。不過，要是你改變主意決定讓我上船，我們還是能在哪個分離主義哨站上見到面的。」</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>「又見面了。你們重新考慮過我的提議了嗎？有意願讓我登船嗎？」</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>「是的，我們確實還缺一位安全官。歡迎登艦，長官！」</eventtext.separatistspecialhire1.o1.o1.repeat><!--ma'am-->
+<eventtext.separatistspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>有個看似剛從柴油發電機的排氣管裡爬出來的人朝你走了過來\n\n「嘿，我一直在找你呢。」</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>「你看起來有點眼熟，我們之前見過嗎？」</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>「不就是你和你的船員把我從聯盟的監獄裡救出去的嗎？那時來不及自我介紹，別人都稱呼我『煙燻人』，就那樣叫我吧。話說，你不會碰巧需要一位新船員吧？」</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>「煙燻人？聯盟一直在追捕的那個蒙面分離主義者？你不是在開玩笑吧？」</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>「沒錯，就是我。我聽哨站上的人說你們把聯盟整得皮皮挫，所以我想加入你們。怎麼樣，你說呢？」</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>「當然！很榮幸能有你這麼有才能的人加入我們。」</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>「太好了，船上見。」</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>「我們得考慮一下。」</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>「好吧。」</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>「怎麼樣？船上有我適合的位置嗎？」</eventtext.separatistspecialhire2.repeat>
+<eventtext.coalitionspecialhire2.c1>你住一到了眼熟的年長女士。是Doris阿姨！她的連鎖餐飲店或許還有進步空間，但她的烹飪秀一直都棒極了。\n\n意料之外，她向你走了過來。「你好啊！我聽說你和你的隊伍到這裡來了，我就想過來看看能不能遇見你們。」</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>「很高興見到你，女士！有什麼我們幫得上忙的嗎？」</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>「這個想法可能有點傻，但是問問應該也不礙事！我現在，怎麼說呢...最近算是遇到晚年危機了吧。你肯定也知道，這四十年來我一直都在主持烹飪秀、開餐館之類的。不過我聽說了你們的冒險故事，你們做了許多讓我們這顆月亮變得更美好的事情，那讓我很好奇潛艇上的生活是什麼樣子的。」</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>「不是每個人都能適應的。」</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>「是的，我知道！但我還是想試試。而且我也不像看起來的那樣柔弱──我年輕的時候，還是一個激進份子的時候，幹掉過不少噁心的分離主義份子，那可真是段好時光！我也懂些醫療知識，更別說歐羅巴上沒有我宰不動的生物。\n\n所以，你說呢，我這老太太有機會加入你的團隊嗎？我願意為了讓歐羅巴變得更美好而戰！」</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>「我怎麼能拒絕呢！歡迎登艦，女士！」</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>「噢，太好了！讓我回去拿點東西，船上見！」</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>「我了解。慢慢來，親愛的！」</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>「哦，又見面了！你考慮過讓我加入你們了嗎？」</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>「總是很高興見到你們！知道嗎，我有些有趣的想法想告訴你們。」</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>「當然，我洗耳恭聽！」</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>「你也知道，在哨站上的生活有時候蠻無聊的。又不是每位訪客都想要我幫他們帶路，這讓我想，要是我像你們一樣展開旅途能幫上多少人。一個新笑話總比聽了幾百遍的笑話好笑，你認為呢？」</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>「我懂你的意思，那你的提議是？」</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>「我想問，不曉得你們還缺不缺助手？如果能和你們一起冒險，我這個老傻瓜會很開心的。雖然我從沒上過潛艇，但我還是有些招數或許哪裡能用得上。」</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>「小丑聖母在上，當然了！歡迎登艦！」</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>「太好了！很榮幸加入你們。」</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>「我瞭解了。不過你們肯定還有機會再遇到我的──如果你們改變主意記得跟我說！」</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>「你好啊！你們考慮過我的提議了嗎？你們願意讓我加入你們嗎？」</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>「我想我們確實還缺一位助手，歡迎登艦！」</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>一位眼熟的男人像你走來。「嘿，是你！我一直想再見到你呢。」</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>「很高興再次見到您，Subra先生！」</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>「就別客套了，我們直接切入正題。不是每天都能遇見像你們這樣開明又有能力的人。所以我有個提議讓你們和教會之間的合作更加緊密。而且，誠實地說，這對我個人而言也是一個很好的禮物。」</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>「我洗耳恭聽。」</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>「簡單地說，我在被賞金獵人追殺前就想加入你們了。你對教會的貢獻非凡，要是我們合作，很快我們就能把這個世界浸沒在神的榮耀之中。另外，再誠實一點地說，我實在太想體驗哨站外那惡水中的生活了。怎麼樣，你說呢？」</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>「我怎麼能說不呢！歡迎加入我們，兄弟！」</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>「太好了！我們船上見。」</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>「沒有問題，你們盡量考慮。」</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>「很高興又見面了，弟兄。你們考慮過我的提議了嗎？你們的團隊還有空位嗎？」</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>「你能加入我們真是太好了。」</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>從廣播系統傳來了聲音：「召集剛登上哨站的那群人員，請立刻向管理室報到。」</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>一位身著華貴制服的老男人向你走來，和你握了握手。「啊，終於見面了。我正開始覺得廣播系統是不是故障了。總之，很高興見到你！我聽說你們正要前往這裡就想親自見你們一面。要是你不敢時間，我有些建議。」</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>「不好意思，請問你是？」</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>「啊，失禮了──不是每天我都能見到像你這樣的英雄！Ignatius May，歐羅巴聯盟內務主席。我關注你們的貢獻行為一段時間了，事實上你們承接的不少任務都是由我委託。我代表歐羅巴聯盟對你和你的船員表示最由衷的感謝。」</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>「謝謝你，長官！容我發問你剛才提到的建議是什麼嗎？」</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>「開門見山，我喜歡！那我就直說了，我想成為你的船員。我已經很久沒有參與過真正的行動了，看到你和船員們的努力使我心癢難耐，我也想親自上場，為聯盟做些更實際的事情。」</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>「很榮幸你能加入我們，長官！」</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>「太好了！我們船上見。」</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>「我們得考慮一下。」</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>「呃，這並不是請求。但出於尊重，我不會強迫你們。我相信我們之後有機會再見面──屆時再讓我知道你們是否改變了主意。」</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>「又見面了。你們考慮過我的提議了嗎？」</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>「你能加入我們真是太好了，長官。」</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>幾個穿著長袍的人圍在一個躺在地上的人身邊。那個人劇烈地抽搐，仿佛是癲癇發作──你沒辦法確定周圍的人是在抑制他的顫抖或是在為他做心肺復甦。其中一位穿著長袍的人注意到了你。「嘿，你！從那個櫃子裡拿管皮蟲淨丟給我！」</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>從櫃子裡拿藥丟給他們。</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過你多少遍你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「剛才算是一場小型急救吧。我們的朋友想說...來點刺激的會很好玩，你懂吧。感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，否則我要去報案了。」</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了。但我們制住他了，一切安好。沒有下次了。不需要知會整個哨站，或是我們的教會。要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>「教會？你們是畫皮教會的人？我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>「寄生蟲？寄生蟲只知索取；畫皮則會給予！它能讓你超越被稱為人類肉體那臭皮囊的限制！但不是像剛才那樣，你得做好準備才有辦法接受它。或者...至少教士是這樣說的。」</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>你以無線電聯絡哨站守衛，通知他們在這個區域發生可疑活動。</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>「不了，我喜歡我這皮囊。先走了。」</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>「如果說我想要超越極限，那該怎麼做？」</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>「別擔心，親愛的兄弟姊妹們。我只是想知道為什麼你們會想阻止那位仁兄進行轉化。」</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>他們凝重的表情放鬆了些。「你也看到他剛剛的樣子了吧？昇華不該是那樣子的。共生體方才是要將他吞噬，要取代他。他顯然還沒做好與共生體交融的準備。」</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>「原來如此。那如果一個人或有興趣想要『與共生體交融』的話，得做什麼準備呢？」</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人。我不覺得我們有辦法回答那些問題。教士們說要最好準備能接受這份饋贈，你得你得敞開自己的心、思想、與全部肉體，才有辦法度過『聖餐』。有一些...儀式、工具之類的，用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>與那些熱情的年輕人道別，並祝他們的昇華能能夠愉快又短暫。</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>「我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>那看起來真可疑，最好別插手。</EventText.youngcultists.o2>
+<EventText.waytoascension1.c2>你無意間聽到兩個幾個穿著長袍的人低聲交談。「老實說，我覺得那些用藥為媒的下三濫曲解了交融本身的含義。」衣著較為華麗的那位聳了聳肩。「作為一個教士，我同意。下面這話只在你我之間說說，我相信偶爾測試一下自身的極限對教徒們也有好處──畢竟要超越極限，就得知道自身的極限在哪裡。」</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>「打擾一下，你剛剛是說你是畫皮教會的教士嗎？」</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>穿長袍的男人轉過頭來對著你瞧。從他的表情看來，你大概是聽到了些不該聽到的東西。「你是誰？在這裡想幹嘛？」他問。</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>「我和我的船員們想多瞭解一些有關教會的事情，而我聽說傳教士能為我們指點一二。」</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>那個男人嘲諷般地笑了笑。「這看起來是在公開講課嗎？就算我願意給每個巧遇的陌生船夫傳授知識，我又怎麼知道你不是聯盟的間諜或者想探消息的小丑？」</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>「那我能不能為教會做些事，以此證明自己的誠意？」</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>「那並不會讓你和其他那些有事就辦、不管對方是誰的那些道德缺失精神軟弱的船夫產生區別。教會感興趣的是你在追求什麼，以及你願意為它做出多少犧牲。」</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>「那有其他什麼方式能證明我們是認真的嗎？」</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>「那你還有好長一段路得走，小子。但管他的，我們就試試看吧。要證明你們到底是不是認真的，你至少得對我們的教義有所瞭解。回答我，靈魂的第二次轉變為何？」</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>「從人類肉體的桎梏中解放。」</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>對方竊笑著搖了搖頭。「跟我想的一樣。你得先好好進修一番，在那之前我對你沒什麼好說的。」</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>「與共生體交融。」</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>「倒空聖杯中的美酒。」</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>「我得說我很訝異一位船夫竟然對『靈魂的三重蛻變』這概念有所涉略。話雖如此，你還是有一段長路要走來證明自己。但或許不是沒有機會。教會最近即將舉辦活動，那時我們會需要不少『聖餐』給我們的參與者們。我相信你明白我的言下之意。」</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>「你要我找些畫皮卵給你？」</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>「那是另一種說法，沒錯。這是對你奉獻精神的一種考驗，我相信這也能幫助你和你的船員們邁向第一重蛻變的境界，『潛入最深的深淵，勇敢地深入那混濁之水中』。簡單來說：為我或我的同僚們帶來總共兩打的畫皮寄生蟲卵，之後我們再聊聊別的。」</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>「我目前還沒有頭緒。」</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>「瞭解並坦承自身的極限是智慧的表現。你得先好好進修一番，在那之前我對你沒什麼好說的。」</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>「我們很樂意付錢給你。」</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>「當然了，身為船夫你一定覺得有錢就能讓別人為你做事，但那只表明了你對我們教會尋求之物所知甚少。」</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>「抱歉，我認錯人了。我得走了！」</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>這人聽起來是畫皮邪教裡的重要角色，最好通知哨站守衛。</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>你以無線電聯絡哨站守衛，通知他們在這個區域發生可疑活動。</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>那看起來真可疑，最好別插手。</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>「我相信你和船員們都對進一步瞭解我們的教會非常有興趣。但在那之前，我想問一個我的同僚已經問過的問題：靈魂的第二次轉變為何？」</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>「我相信教會指派了課題給你們。弄到『聖餐』了嗎？」</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>「按照要求，這裡有12瓶畫皮卵。」</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>當你拿出瓶子的時候，教士瞪大了雙眼。他飛快地將瓶子從你手接過並收進了長袍裡。「顯然，我對你和你的船員的懷疑只不過是個毫無根據的恐懼。請原諒我們之前的猜忌；不是天天都有潛艇船員像你這樣對待我們。但是你也明白，我們並不期待只見過野生畫皮的人理解我們。」</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>「瞭解。現在你能告訴我們更多有關教會的事情了嗎？」</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>「有對知識的渴望是個好的現象。是的，我們和教會討論過了，只要你們有意願，我們將接納你們成為教徒。」</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>「那在實務上有什麼意義？」</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>「那代表我們將協助你們追求個人的昇華，而你們將協助教會對人類更完美型態的追求，或者說，超越人類的追求。我們的成員並沒有太多義務，大家根據自身的意願和能力為教會服務，但我們當然也希望你的團隊能繼續做出貢獻，就像之前那樣。請仔細考慮一下我們的邀請吧。當你做出決定之後再告訴我。」</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>「請將它們帶來給我，之後我們就能繼續了。」</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>「還在努力中。」</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>「你做好決定要成為信徒了嗎？」</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>「是的，我決定加入。」</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>「那我們將讓它成為現實。你是否願意將昇華作為自己，以及全人類的終極理想？」</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>「是的。」</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>「那我們將讓它成為現實。你是否願意放棄人性，從而迎來最真實的姿態？」</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>「那我們將讓它成為現實。你是否願意與世界的堅毅交融，從而迎來最真實的姿態？」</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>「那我們將讓它成為現實；我們歡迎你成為我們的一份子。很高興你能同我們一道！事實上，我相信整個教會從上到下，連大教士們都會為此欣喜！」</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>「那，接下來呢？」</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>「這得看你──就像我說的，大家根據自身意願為教會服務。如果你需要指引，或許《聖杯之書》會是個很好的起點。」教士遞給了你一捲卷軸。「把它牢記於心，當下一個課題到來，你就能做好充足準備。」</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>「我還沒做好決定。」</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>「很高興再見到你。時機正好，我們現在正需要你幫助。這比你之前做過的事情更敏感些，我們需要一個有能力，且教會可以信任的人，而你和你的船員再合適不過了。」</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>「我有興趣。」</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>「根據我們的消息，一位聯盟特務混入了我們之中好對教會進行調查。他可能已經取得了一些敏感資訊，包括部分大教士們的身份和所在。我們有理由相信對方正在附近的哨站上，現在正是行動的好機會，讓他沒有辦法把資訊洩露出去。」</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>「瞭解，我們會處理的。」</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>「你是要我去殺人嗎？！」</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>「你沒把『三重蛻變』讀懂嗎？那正是瘴氣所言。你得拋棄那些源自人類的道德觀念。再者，你的潛艇生涯中早就殺過數不清的人類了吧？這和那有何差別，除了此事對教會而言有重大意義之外？」</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>「我猜你說得沒錯。」</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>「我們會把位置標在你的地圖上。記得低調行事：我們不想招來更多好奇的目光。」</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>「我們收到通知，你成功完成任務了。我就知道我們能夠指望你！不幸的是，我們有更要緊的事要與你討論。」</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>「洗耳恭聽。」</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>「你肯定知道，聯盟對我們其中一位大教士Jacov Subra發出了選賞。」</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>「那名字真耳熟，不過我也只知道那麼多了。」</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>「他是我們的大教士之一，雖然他比較偏好被以『首席』稱呼。他就是『軟體動物教會』慶典的幕後推手，那是個招集新教友的好活動。現在他正在某個廢棄哨站上躲避追捕，而我們有理由相信有批想要賺取他頭上的獎金的人已經找到了他的所在。大概是你『見過面』的那位特務早就把訊息給洩漏出去了。」</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>「我們能幫上什麼忙？」</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>「我們需要你比賞金獵人更快找到他，帶他去安全的地方。我會把位置標在你的地圖上。不用我說，這件事十萬火急，就別浪費時間了。去吧──等他安全了我們再聊別的。」</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>「別想活捉我！」</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>「別緊張，兄弟！我們是教會派來的！」</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>「啊！我從對講機裡聽見有人在說懸賞的事，我就知道肯定會有人會找到我的。」</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>「那絕對不是我們...」</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>「可惡、該死。準備好你們的武器，我們得盡快離開這裡。你帶路。」</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>畫皮教會要你暗殺的那名聯盟特務就在這座哨站的某處。</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>那肯定就是特務。你在想下一步該怎麼做。</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>「你知道了你不該知道的事，臭皮囊...」</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>對方立馬掏出了武器。</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>「先生，你能幫幫我嗎？我的朋友受傷了，我得送他去醫務室。請跟我來！。」</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>「沒問題。帶路吧！」</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>「夠了，這是在幹嘛？你是在浪費我的時間嗎？我還有工作要做。」</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>忽略他並走開。</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>「歡迎。我們一直在等你。」</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>「怎麼回事？」</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>「自從我們相識以來，你們已為教會做出了許多龐大貢獻。但這次你拯救了大教士的性命，那可是個難以超越的壯舉，我們將永遠欠你們一份人情。因此，我們決定為你們舉辦一場『聖餐』儀式。你已經做好準備了。將你的隊伍召集過來我們就可以開始了。」</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>「大家都到了吧──要開始了嗎？」</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>「我們開始吧。」</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>穿著長袍的教眾們一同哼起一段旋律，教士揚起了雙臂。「兄弟姊妹們，我們的聖杯已空，渴求新鮮而純淨的美酒。」一位教徒遞給在場的人一瓶瓶的畫皮卵。</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>拿取卵。</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>「噢，生命之靈啊，請為我們的聖杯盛滿你的堅韌。讓我們嬌容並超越世界的流放。讓我們接受來自你的饋贈。」教士們舉起瓶子，其餘穿著長袍的人們緊隨其後。</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>舉起瓶子。</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>「讓我們成為浪潮的先驅，水面下的波濤。看吧，偉大的畫皮！」每個人都將瓶中的物體送入口中。</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>吞下畫皮卵。</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>你感覺到寄生蟲在你體內蠕動成長。這是怎麼回事？這一切怎麼能發生的此迅速？還沒來得及回答這個問題，牠們像是在你的體內融化消失了一般。你的思想彷彿... 不，「你」已不復存在。我們已合而為一，且我們將不再感到懼怕或憂心。</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>「我們還能說話？」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>教士轉過頭看向你，嘴上掛著蠕動的產卵器。「當然了。我們的身軀和思緒在這種姿態下更有價值。」教士指了指在地上抽搐的人們。「不像這些弱者。我們應當吞噬它們。」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>「下一步是什麼？」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>「那得由你自己發現。但現在──走吧，人類馬上就要過來了。我們會再見面的。」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>「等等，我們得準備一下。」</EventText.waytoascension5.c1.o2>
+<EventText.pathofthebikehorn1.c1>有個穿著奇特小丑裝的人走了過來，把你拉到一邊。「我沒在這兒見過你──方便告訴我你為何而來嗎？你們是快樂之人嗎，能明白我的意思嗎？」</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>「我們只是路過。『快樂之人』指的是？」</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>「那些承蒙自行車喇叭召喚的人們：小丑、搗蛋鬼、愚者！這是我和的非門之徒們在這世上找到的安身之所，我們希望這種狀態繼續保持。」</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>「非門之徒？意思是你是什麼掌門人之類的嗎？」</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>「不不，我不是什麼掌門人！我只是一個『惡作劇大師』──有人稱呼我為老師，但我只是個引導人們踏上自行車喇叭之道的人。」</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>「你能教教我們何謂自行車喇叭之道嗎？」</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>「對我而言，我會很樂意把你們這群『快樂之人』綁一綁送進勞改營，明白我的意思吧。」</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>「那會讓我變成一個悲傷的小丑。但我不多做評判：因為你不是唯一一個沒有意識到他們謊言的人。但如果你改變主意，想開開眼界，惡作劇大師或許能為你帶路！」</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>「我對胡說八道沒有興趣。告辭。」</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>「你能告訴我多一點自行車喇叭之道嗎，那到底是什麼？」</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>「哼嗯，在剛剛那段關於勞改營的對話之後我不得不懷疑你的動機了！不過，要是你能穿上一套合適的裝束，或許會讓我更信任你一點...」</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>「好吧，我去去就回。」</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>「沒有小丑裝就拉倒！」</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>「別顧慮我們。願小丑聖母祝福你和你們的哨站！」</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>「讚美小丑聖母！我本來還擔心你是那種不喜歡我引導人們走上自行車喇叭之道的嚴肅之人呢。」</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>「你能教教我們何謂自行車喇叭之道嗎？」</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>「這樣就對了！我不敢說我是什麼老師，因為我沒什麼好教你的──那是你自己得做的。我能做的只有將你導向正確方向，那樣或許你有天能夠開竅。為此，我想交給你和你的船員一項功課，作為投向小丑聖母懷抱的第一步。」</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>「洗耳恭聽。」</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>「看到我戴的這張面具了嗎？這顆月亮上幾乎找不到了，但要是你能用心，我確定在你們的旅途中一定會有所發現的。那時，將它帶來找我或其他惡作劇大師們，讓我們一督它將帶我們前往何方。喔對了，請帶上這個，旅途中能偶爾翻翻！掰掰！」</EventText.pathofthebikehorn1.o3.o1.o1.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn2.c1>「讚美小丑聖母，我們又見到面了！如何？」</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>「我找到你說的那張面具了。」</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>「我看到了！恭喜你！你可以留著它──你也看到我已經有一張了。或者你想把它丟掉也行。那不過是張面具，還醜醜的。」</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>「那你幹嘛要我找到它？」</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>「那課題本身微不足道，像是沒創意的小孩在玩扮家家酒對吧。但尋找的過程中你不覺得很有意思嗎？一路上你們肯定遇到了不少麻煩，但這是你件偶爾也樂在其中的事，一場大冒險。畢竟要是你覺得那很無趣的就不會選擇在潛艇上過日子了！這樣看來，或許我該問的其實是為什麼你想找到它──又或者是為什麼你想駕著潛艇遨遊歐羅巴為人們做些雜七雜八的事。」</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>「我想或許我的確享受那段冒險，但是那跟自行車喇叭知道有什麼關聯？」</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>「好玩遊戲，好玩和遊戲！我選擇用一場遊戲中的任務作為比喻是有原因的：當你看得更遠一些，整個社會制度就是一場遊戲。而當你對事物的看法足夠透徹，那整個世界都是遊戲中的系統：人的遊戲、爬行者的遊戲、航行的遊戲、在潛艇上做事的遊戲...」</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>「好...？」</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>「但得謹慎對待『遊戲』一詞！它並意味著這一切毫無意義。那就像我們演奏一段曲子：一點都不嚴肅，同時卻又十分真摯。它將一切的美納入自身，毫無理由。就像這樣！」惡作劇大師朝你的臉上按了按他的自行車喇叭。</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>「我想我能夠理解。那，下一步是？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>「噢噢，這會很有趣的！首先，你得找到一把玩具槌。你知道吧，那種在敲在別人身上時會發出『叭──』聲的塑膠玩具。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>「然後...？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>「然後是最好玩的部分：我要你進到深淵中並和一隻深淵裡的那種大傢伙見個面。捕鉤獸也行，但要是你能找到卡律布狄斯或末日蠕蟲，那起碼是牠的三倍好玩。最後，我要你用那槌子槌牠，全力槌！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>「聽起來不太明智，不過我相信是有什麼意義的吧。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>「那就對了！那一點都不明智，但是有些時候你最好無視你腦袋裡的那份理性，儘管享受各方小丑之傑為你準備的雲霄飛車之旅。不管怎樣，完成之後記得告訴我或者我的同僚。順便帶上這本冊子，讓你在旅途中有更多東西讀讀！祝你有個精彩刺激、志得意滿、不丟小命的旅程！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>「什麼鬼？你想幹掉我嗎？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>「我猜你沒意識到那個問題的愚昧和深奥，那正是為何若要貫徹自行車喇叭之道，你得那麼做的原因。我目前已經沒有什麼好說的了，但完成之後請告訴我或者我的同僚！。順便帶上這本冊子，讓你在旅途中有更多東西讀讀！祝你好運，記得開心最重要！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>「這些偽哲學狗屁搞得我頭昏腦脹。能不能直接告訴我小丑聖母到底是個什麼東西？」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>「我看你對不把一些事情當一回事蠻在行的！你要是有辦法把這份事不關己的態度用在對的地方就更好了... 沒錯，我能告訴你小丑聖母就是三磅卡士達派，但那對你而言沒有任何意義對吧？我想也是。因此，你得接受訓練──讓我們繼續下個課題吧！」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>「沒問題。」</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>「這是個隱形版的面具嗎？我真的很想透過我的雙眼見到它看。」</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>「我還是找不到聖母的面容。有什麼建議嗎？」</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>「那些面具幾百年前就退流行了，幸運的話一艘夠老的沈船可能有點機會。當然啦，那畢竟是惡作劇大師們的傳統裝束，或許你跳脫了框架進行思考就能有所進展，拋媚眼！」</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>「你剛剛是用說的代替『拋媚眼』嗎？」</EventText.pathofthebikehorn2.o2.o1><!--Did you just say 'wink wink'?-->
+<EventText.toyhammeronabyssmonster.c1>玩具槌敲了敲深淵巨獸，什麼也沒發生。你思索那意義何在，但你很快就意識到現在最好別陷入沉思，而是專心逃命。</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>「嘿，我需要你的意見。假如說有人要造一件小丑聖母之子主題的動力服，叫它『小丑機甲』會不會太直白了。」</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>「呃，你問這幹嘛？」</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>「你知道嗎，別放在心上，那不重要！改談正事吧：我聽說你好像接了什麼任務之類的。和深淵怪獸的面談結果怎麼樣？」</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>「你說呢？我差點就沒命了。」</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>「我知道你一定沒問題的，但我猜你對自己不太有信心？看來你想要一嚐那美味的卡士達派還有一段路要走。我要你想想，什麼是你打從心底害怕會發生的事──你還在怕什麼？如果你被那隻深淵東東嗑了，你覺得那會使你的自行車喇叭就此沉寂，成為你的故事終點嗎？你所害怕失去的『你』又是什麼人呢？」</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>「要是沒從牠嘴裡逃出來，我的故事就肯定沒有後續了。」</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>「你確定嗎？因為這是角度問題；如果你持續扮演現在的這個角色，角色的目光所及就是全部的故事內容，那確實可以被稱為是『你的』故事中一個憂鬱但有趣的結局。」</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>「我不太懂你的意思。」</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>「我聽不懂你想表達的意思。」</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>「我覺得蠻有趣的，但是怪物不那麼覺得。」</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>「哈哈！你的自行車喇叭越來越響了。不過告訴我，當你和死亡親密接觸的時候，或甚至一隻腳被拉進死亡之門的時候，你的腦子裡有沒有什麼新動靜？」</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>「我不太懂你的意思。」</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>「我們已經開始接近言語難以觸及的領域，但我試著解釋。當我們在馬戲團帳篷裡看表演的時候，我們並不會想起或談起外面的世界──我們沉浸在表演中。那是好事！專心享受帳篷裡那精彩的演出，別讓表演終究會結束的事實使你分心。」</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>「這是什麼關於死後的寓言故事嗎？」</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>「並非如此，這是關於『生前』的寓言，管它是什麼意思。這麼說好了：想想你在出生前最原始的樣子。或者，你帶上面具之前的樣子。在你走出帳篷之後，你能完全確定自己哪天不會再回到這裡了嗎？重點是你進過帳篷一次，或不管多少次，誰說得準你不會再走進來呢？」</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>「你是指某種輪迴嗎？」</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>「就像我說的，這領域語言難以觸及。我沒法說得更具體了。概括來說，死亡就是一個玩笑。你所害怕失去的那個『你』是誰、你真的能失去它嗎？這可是個下次我們再見面之前你要好好思考的課題！掰掰！」</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>「我懂你的意思了，但現在我們還是把面具戴好專心扮演自己的角色吧！」</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>「小丑聖母在上！我猜你或許瞥見一點帳篷中的秘密了。或者說，你正在窺視帳篷中的秘密？總之，我對你的成長印象深刻。我得花點時間想想下一步該如何進行了，目前就到此為止，下次見！」</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>「我懂你的意思了。死後的虛無並不比誕生前的虛無更可怕。」</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>「我想這是一種解釋的角度，但我擔心你剛剛踩到了一個超大的香蕉皮！你完全誤解了我想要表達的意思。想想你在出生前最原始的樣子。或者g說，你帶上面具之前的樣子。這可是個下次我們再見面之前你要好好思考的課題！掰掰！」</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1><!--Ta-ta!-->
+<EventText.pathofthebikehorn4.c1>「我很高興又和你見面了！時機正好，我們正在徵求志願者餐與一項小小任務。」</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>「我們有興趣。」</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>「知道你對付過那隻深淵怪獸之後，我覺得你已經證明自己有足夠的膽量，或是事不關己的程度來完成它。你還有印象我前一陣子提到過小丑聖母主題的動力服嗎？」</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>「記得，怎麼了？」</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>「你等等就懂！你知道，這附近正好有座哨站曾經是承蒙自行車喇叭召喚之人們的避風港。一處能讓我們在那裡過上平靜生活的獨立哨站，當然那只是一種比喻。但你知道，那兒、整個歐羅巴都已經很久不是那樣子了。沒有哪個禮拜新聞上看不見小丑被打死或死在壓載艙裡或是什麼地方的。」</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>「我知道。所以你的計畫是？」</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>「我們正試圖再次建立自己的避風港！目前我們陷入了僵局，儘管使我們快樂之人出全力，那個哨站似乎都將會永遠屬於嚴肅的人，無法改變。就像有什麼規定似的，一旦你拿下一座哨站，它就永遠得聽你的了。所以我們需要改變一下遊戲規則！這時動力服就能派上用場！」</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>「你真的造了一架？」</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>「沒有錯！我們不想學他們玩陰的，但我相信我們能用這種非暴力的方式奪回它。我們要給那座哨站來場歡樂大轟炸，用核子動力自行車喇叭和香蕉皮大砲把那兒變成一座遊樂場。日日夜夜絕不停歇，直到他們別無選擇只能放棄，然後給自己找個新的更『嚴肅』的地方待著。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>「但他們會用武力阻止我們吧？」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>「他們肯定會的，不過『歡樂製造機3000』應該有辦法撐個一兩下，或幾百下，希望啦！這讓我能帶到下一個重點：以你們的作戰經驗，更別說你們又豪不在意自身安危，我相信你們是做這件事的最佳人選。因此，要是你們幫我們奪回哨站，我們將永遠感激你的。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>「樂意之至。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>「噢太好了！我就知道你們拒絕不了。不管之後結果如何，我知道你們一定會玩得很開心的。動力服在這兒，我也把哨站的位置標在你的地圖上了。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>「我們得考慮一下。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>「你考慮過我們的提議了嗎？你願意穿上『歡樂製造機3000』幫助我們奪回那座哨站嗎？」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>「樂意之至。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>「我們得考慮一下。」</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>「我們現在無法抽身。」</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>你抵達了惡作劇大師所說的那座哨站。穿上『歡樂製造機3000』為它來場歡樂大轟炸，直到那些比較嚴肅的居民們覺得還是把這裡留給小丑聖母之子比較好！</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>人們開始覺得歡樂製造機很煩，或許這計畫有效！</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>從哨站的遙遠某處傳了自行車喇叭的聲響，緊接著的是一陣快樂的歡呼聲：「讚美小丑聖母！」</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>其中一位居民對你大喊，「把那東西弄出去，否則我要叫安全官了！」</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>從廣播系統傳來了聲音，「所有安全人員：以任何必要的手段關閉那個該死的小丑機器。授權使用致命武器...不，鼓勵使用致命武器。」</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>從廣播系統又傳來了聲音，「好吧，我們放棄。繼續下去沒有意義。這該死的前哨站歸你們了，拜託讓那該死的東西安靜。」</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>「哦、哦，是你！說實話，這計畫荒唐到我都沒想到結果能這麼成功！我不知道該如何答謝你們，但至少我們可以把那套動力服送給你們。或許你們的旅程中有機會用得上它。」</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>「謝啦！」</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>「不得不說，我很訝異你們竟然在這短的時間就穩穩踏上了自行車喇叭之道。對大部分人來說，那段旅程非常深遠，有些人甚至完全摸不著邊。」</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>「那，接下來呢？」</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>「我既高興又傷心，因為我能為你做得就這麼多了；剩下的路你們得自己探索，不過我看得出來你們早就知道前進的方向了。」</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>「就這樣？你不跟我說說小丑聖母到底是什麼？」</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>「噢，你真好玩。你想要什麼答案？她是流淌在我們血液中的歡樂，或是一路上我們所建立的友誼？還是她是三磅卡士達派？或者是她是一隻騎著巨大烏龜，乘載萬物秩序的神猴？這些敘述都很有趣，但就如我之前所說，那是一個無法以言語描述的領域。」</EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>「...」</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>「以話語為你解釋，好似向你解釋一個笑話哪裡好笑，沒什麼意義。宇宙最大的笑話也是一樣，超越了語言，人不能把表述和本質混為一談。」</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>惡作劇大師好奇地注視著你。</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>「你真的沒什麼建議能給我們了嗎？」</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>「我有預感你所走上的道路將帶你去哪。當你到達那裡，你將能比現在更透徹地理解這場生命遊戲的規則。當一切赤裸裸地擺在眼前，有些人可能乾脆不玩了，轉而選擇苦行生活或直接離開帳篷。沒有問題！因為我們總會有一天都得謝幕。其他人，像是我或其他的惡作劇大師們，我們選擇持續發揮自己的作用，讓歡樂繼續下去，幫助人們瞭解這場遊戲的本質。那樣也不錯！但不管你最後選擇了哪種的道路，我都希望你一路歡樂幸運。讚美小丑聖母！」</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>「讚美小丑聖母！」</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>哨站管理員從胸前的口袋拿出了一份文件，用一種若有所思的表情看著你。「哼嗯... 這項任務由Petran中尉親自委託，內容十分敏感，但我想你們已經證明過自己值得我們信賴了。」</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>「那是誰？」</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>「等等，什麼？和我們合作了這麼久，你卻沒聽說過她？她是木星分離主義者中的第一中尉。如果我們這樣鬆散的組織要說有什麼領袖的話，就是她了。」</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>「啊，我明白了。所以是什麼任務？」</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>「我們有興趣，請繼續說。」</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>「你聽說過Tormsdale事件，對吧？」</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>「有印象，但請詳細說說吧。」</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>「好，那我從頭開始講吧。那時聯盟才正要立足於歐羅巴上，Tormsdale是當時最大的獨立殖民地，『木星人民主義』在那兒想當然也大受支持。我想在某種程度上，說它是那組織和同理念殖民地之間的總部也不為過。那時候的歐羅巴社會還算是相當民主的，而且大選即將到來。」</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>「嗯哼。」</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>「就在大選前幾週，Tormsdale發生了核災，至少百人身亡。巧的是，所有受害者都是木星人民主義的支持者。天平因此向他們傾斜，聯盟成為了歐羅巴上的合法統治者。」</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>「那也太巧了。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>「確實。官方認定那場災難為意外事故，但我無法相信。在那之後，事態轉變得太快了──聯盟宣佈木星人民主義是個恐怖組織，我們的創始人Harlow Petran遭到暗殺，大多數的獨立哨站遭到接管...」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>「那，這和任務有什麼關聯？」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>「我們有理由相信聯盟裡仍保有一些紀錄Tormsdale實際上發生了什麼事的機密報告。我們的線民握有強力證據顯示，該報告的副本就存在附近的哨站中。要是我們能到到它們，或許就能夠證明我們的懷疑並不是陰謀論，以此讓所有人都知道聯盟的一直以來是多麼骯髒。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>「我們樂意提供協助。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>「好極了。讓我把那座哨站標在你的地圖上。根據我們的情報，那些文件就放在哨站管理員辦公室的保險櫃裡。要拿出它們或許有些棘手，試試恐嚇哨站管理員或偷走他的ID卡。不管怎麼做，都請保持低調。」</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>那肯定就是哨站管理員。你得想辦法弄到對方的ID卡才有辦法打開保險櫃。</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>「哈囉，我們正在替聯盟執行強制安全檢查，我們需要看看你辦公室裡的那個保險櫃，能請你幫我打開它嗎？」</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>「呃...蛤？你覺得我很好騙是嗎？在我聯絡守衛之前滾出我的辦公室。」</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>「革命在即。不想死就交出你的ID卡。」</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>對方立刻掏出了武器。</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>「打擾一下，長官！樓下好像發生了什麼爭執，我是被叫來找你的。」</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>「我知道了，帶路吧！」</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>「我不知道你想鬧我還是怎樣，但我還有工作要做。告辭。」</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>忽略他並走開。</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>「哈囉！我聽說你被指派去幫我們找尋一些重要的文件。狀況如何？」</EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>「我找到那些文件了。」</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>哨站管理員接過文件並瀏覽它們，之後瞪大了雙眼。「喔、噢！這可不得了！如果上面寫的是真的就沒人能夠否定聯盟確實在Tormsdale進行了一場大屠殺。這消息一發出去，肯定會重重地打擊他們。承蒙惠助，不勝感激。我會向Petran中尉說些你們的好話的，讓她知道就是你們完成了這項任務。當然，我也不會忘記該給你們的報酬。」</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>「請帶著它們過來！我等不及瞧瞧上面寫些什麼了。」</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>「文件現在不在我身上。」</EventText.tormsdalereport_complete.o2>
+<afflictionname.husksymbiosis>畫皮共生</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>這看起來不像普通的畫皮感染：不知為何，病患仍有辦法說話且似乎保有自身意識。</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>這條通道已被封鎖，你在‖color:faction.separatists‖木星分離主義份子‖end‖間的聲望必須到達[requiredreputation]，並獲得哨站官員的許可才能繼續前進。你可以在資訊介面中查看你當前的聲望。\n\n當前聲望: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>「你大概也注意到了，這裡是到達歐羅巴之脊前的最後一個哨站，不是所有潛艇都被允許通過這個哨站前往更深的區域。和你們有關的傳聞很多，不過你們無疑是共同對抗聯盟的寶貴盟友，因此歡迎你們通過。」</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>「想通過哨站前往更深的區域嗎？抱歉，你們最好還是換個路線吧。我不知道你們是誰、為誰做事，但你們很有可能是另一群想前往歐羅巴之脊騷擾我們的聯盟走狗。當然了，如果你們有多的馬克能和我分享，或許你有辦法說服我你是帶著善意來的...」</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>「我重新考慮了一下，你們看起來沒什問題。我看還是讓你們過去吧。很高興和你做生意。」</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>「隨你便。或許你們的確需要在兒童池待久一點，好搞清楚誰才是值得追隨的一方。」</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>「錢不夠？太可惜了，在你能證明你不站在敵人那方之前你最好在兒童池待久一點。」</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>「紀錄上說你們是我們在歐羅巴之脊對抗聯盟的一大助力。因此我們決定給予你通往無光海原的許可，一路順風！」</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>「我得恭喜你們。沒有太多人能夠活著穿越無光海原，更別說同時還能有貢獻的人了。」讓我通知其他人讓你們能往淵洋前進。</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>「我確定夠的。這不是來自木星分離主義者的官方保證，也不是背書。我會通知守衛們你們有辦法保護自己。」</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>「你想前往熱液廢土？你怎麼會想去那兒？算了，不關我的事。分離主義者的朋友就是我的朋友，去吧。」</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>接過錢並保證閉嘴。</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>「我不要你們的骯髒錢。再見。」</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>「喔、謝天謝地。我以為我們要永遠被困在這兒了！」</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>哨站管理員似乎猶豫了一下。「這份任務或許會比較艱難，但從你們的名聲看來，或許你們有辦法做到。」</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>「幾位我們的特務最近遭到聯盟逮捕，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>哨站管理員似乎猶豫了一下。「這份任務或許會比較艱難，但從你們的名聲看來，或許你們有辦法做到。」</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>「幾位我們的特務最近遭到分離主義份子俘虜，而根據我們的情報，他們被關在附近的一座哨站中。如果你們能安全救出他們，我們會付你一筆不小的報酬。讓我把位置標上你的地圖。」</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>從廣播系統傳來了聲音，「所有安全人員：紅色警報。發現逃犯。」</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>「嘿，我猜你是Petran中尉派來的對吧？」</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>「沒錯，我們的任務是把你帶出這裡。」</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>「我猜得沒錯，謝啦。你們應該有準備船吧？」</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>「當然，跟我來！」</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>「其實在離開之前，我還有些事情要做。五分鐘後你們的船上見。」你還來不及說些什麼，那人早就飛奔離去。</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>哨站管理員從胸前的口袋拿出了一份文件。「這種任務格外敏感，你懂的。這份委託來自Petran中尉。事實上，她希望這份委託確實地被交到你們手上。」</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>「聯盟最近成功逮捕了一位我們的特務──一位重要人物，好險他們還不知道他到底是誰，不然他肯定會馬上被處決。」</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>「他是什麼人？」</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>「或許我們別提到他的名字會比較好，但我能告訴你他讓不少聯盟哨站和船艦被烈火吞噬。總之，現在他正被關在附近的一座哨站上。安全地把他救出那裡之後會有一筆豐厚的報酬等著你。」</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
 
 </infotexts>
