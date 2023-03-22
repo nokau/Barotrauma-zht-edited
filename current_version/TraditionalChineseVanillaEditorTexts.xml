@@ -51,17 +51,17 @@
 <itemassemblynamemissingwarning>在儲存之前，請為你的物件組合命名。</itemassemblynamemissingwarning>
 <itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。你要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
-<nohullswarning>潛艇上沒有Hull。Hull用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
+<nohullswarning>潛艇上沒有 Hull。Hull 用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
 <disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
 <disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
-<nocargospawnpointwarning>這艘潛艇沒有為貨物提供Spawnpoint (用以定義自商店購買的物品去處)。請放置新的Spawnpoint並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
+<nocargospawnpointwarning>這艘潛艇沒有為貨物提供 Spawnpoint (用以定義自商店購買的物品去處)。請放置新的 Spawnpoint 並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
 <farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
 <adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
 <adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
-<noballasttagswarning>位於壓載艙的抽水機應在其Tags欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
+<noballasttagswarning>位於壓載艙的抽水機應在其 Tags 欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
 <insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
-<nohullnameswarning>沒有Hull被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
+<nohullnameswarning>沒有 Hull 被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
 <manuallyoutfitted>手動配置的物資</manuallyoutfitted>
@@ -73,7 +73,7 @@
 <mirrorentityxtooltip>水平翻轉這個物件，你也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
 <mirrorentityy>鏡射 Y</mirrorentityy>
 <mirrorentityytooltip>垂直翻轉這個物件，你也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
-<nonlinkedgapswarning>潛艇上有Gap未與任何Hull交集。Gap應被置於至少一個Hull上 (如要通往潛艇外) 或橫跨於多個Hull之間。</nonlinkedgapswarning>
+<nonlinkedgapswarning>潛艇上有 Gap 未與任何 Hull 交集。Gap 應被置於至少一個 Hull 上 (如要通往潛艇外) 或橫跨於多個 Hull 之間。</nonlinkedgapswarning>
 <cannoteditvanillasubs>無法覆蓋已存在遊戲本體內容中的潛艇檔案！</cannoteditvanillasubs>
 <subeditor.structurecountwarning>這艘潛艇上有非常大量的結構配件，有可能會對遊戲運作造成影響，請考慮減少結構配件數量。</subeditor.structurecountwarning>
 <subeditor.structurecounterror>這艘潛艇上有太多的結構配件 (>[max])，這會對遊戲運作造成影響，請減少結構配件數量。</subeditor.structurecounterror>
@@ -85,7 +85,7 @@
 <subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
 <subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
 <canattachtoprevious>能以何處連結</canattachtoprevious>
-<canattachtoprevious.tooltip>這個模組能的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
+<canattachtoprevious.tooltip>這個模組的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
 <subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
 <subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
 <stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
@@ -135,7 +135,7 @@
 <charactereditor.editiktargets>IK目標 [I]</charactereditor.editiktargets>
 <charactereditor.freeze>凍結</charactereditor.freeze>
 <charactereditor.autofreeze>自動凍結</charactereditor.autofreeze>
-<charactereditor.limbpairediting>配對肢體編輯</charactereditor.limbpairediting>
+<charactereditor.limbpairediting>編輯肢體配對</charactereditor.limbpairediting>
 <charactereditor.animationtestpose>測試姿勢 [X]</charactereditor.animationtestpose>
 <charactereditor.animationtestposeenabled>測試姿勢已啟用</charactereditor.animationtestposeenabled>
 <charactereditor.automove>自動移動</charactereditor.automove>
@@ -238,7 +238,7 @@
 <charactereditor.adddamagemodifier>添加傷害修改器</charactereditor.adddamagemodifier>
 <charactereditor.addinventory>添加物品欄</charactereditor.addinventory>
 <charactereditor.addinventoryitem>添加物品欄物品</charactereditor.addinventoryitem>
-<charactereditor.selected>所選</charactereditor.selected>
+<charactereditor.selected>已選取</charactereditor.selected>
 <charactereditor.duplicatelimb>複製肢體</charactereditor.duplicatelimb>
 <charactereditor.deleteselected>刪除所選</charactereditor.deleteselected>
 <charactereditor.createjoint>建立關節</charactereditor.createjoint>
@@ -262,7 +262,7 @@
 <sp.item.spritecolor.name>Sprite色彩</sp.item.spritecolor.name>
 <sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
 <sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
-<sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為True時有效。</sp.item.containercolor.description>
+<sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為 True 時有效。</sp.item.containercolor.description><!--parameter where?-->
 <sp.item.condition.name>耐久值</sp.item.condition.name>
 <sp.item.tags.name>Tags</sp.item.tags.name>
 <sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
@@ -279,18 +279,18 @@
 <sp.structure.spritecolor.name>Sprite色彩</sp.structure.spritecolor.name>
 <sp.structure.usedropshadow.name>使用投放陰影</sp.structure.usedropshadow.name>
 <sp.structure.dropshadowoffset.name>投放陰影偏移</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>陰影與結構配件的相對位置，若為 0，陰影將自動朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
+<sp.structure.dropshadowoffset.description>投放陰影與結構配件的相對位置，若設為 0，投放陰影將自動朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
 <sp.structure.texturescale.name>貼圖大小</sp.structure.texturescale.name>
 <sp.structure.textureoffset.name>貼圖位移</sp.structure.textureoffset.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.name>連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.description>若此結構與一處哨站模組邊緣的門連結，若該門被哨站使用，這個選項將移除此結構。否則此結構將在該門未被使用時被移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
+<sp.structure.removeiflinkedoutpostdoorinuse.name>僅在連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>此選項將使此結構在成為與其他哨站模組連結的接點時，僅在遇到門的條件下移除此結構。否則此結構一旦只要成為與其它哨站模組連結的接點時就會遭到移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
 <sp.structure.noaitarget.name>不為AI目標</sp.structure.noaitarget.name>
 <sp.structure.noaitarget.description>啟用時，怪物不會嘗試破壞此結構。</sp.structure.noaitarget.description>
 <sp.structure.maxhealth.name>最大生命值</sp.structure.maxhealth.name>
 <sp.hull.ambientlight.name>環境光</sp.hull.ambientlight.name>
 <sp.hull.roomname.name>艙房名稱</sp.hull.roomname.name>
 <sp.hull.iswetroom.name>是潮濕艙房</sp.hull.iswetroom.name>
-<sp.hull.iswetroom.description>此Hull是否會常態性進水？若艙房名稱包含 "ballast (壓載艙)"、"bilge (底艙)"、或 "airlock (氣閘)" 則將無法取消此設選項。</sp.hull.iswetroom.description>
+<sp.hull.iswetroom.description>此 Hull 是否會常態性進水？若艙房名稱包含 "ballast (壓載艙)"、"bilge (底艙)"、或 "airlock (氣閘)" 則此選項將無法取消。</sp.hull.iswetroom.description>
 <sp.hull.avoidstaying.name>避免逗留</sp.hull.avoidstaying.name>
 <sp.hull.avoidstaying.description>Bot會避免在此逗留，但若有必要他們依然會被允許進入和通過。在設定是潮濕艙房時則強制啟用。</sp.hull.avoidstaying.description>
 <sp.door.openingspeed.name>開啟速度</sp.door.openingspeed.name>
@@ -299,7 +299,7 @@
 <sp.door.closingspeed.description>門關上的速度。</sp.door.closingspeed.description>
 <sp.door.togglecooldown.name>切換冷卻</sp.door.togglecooldown.name>
 <sp.door.togglecooldown.description>這扇門被一個角色打開/關閉無法在此時間內再度被打開/關閉。</sp.door.togglecooldown.description>
-<sp.door.isopen.name>敞開</sp.door.isopen.name>
+<sp.door.isopen.name>為Open</sp.door.isopen.name>
 <sp.door.isopen.description>這扇門當下是否為開啟狀態。</sp.door.isopen.description>
 <sp.door.usebetweenoutpostmodules.name>在哨站模組之間使用</sp.door.usebetweenoutpostmodules.name>
 <sp.door.usebetweenoutpostmodules.description>這扇門是否通往其他哨站模組？僅影響哨站模組。</sp.door.usebetweenoutpostmodules.description>
@@ -592,9 +592,9 @@
 
 <!-- Entity names -->
 <entityname.hull>Hull</entityname.hull>
-<entitydescription.hull>Hull用於定義潛艇的 "內部空間"，普遍來說作為艙房的空間都會置於Hull的範圍之內。</entitydescription.hull>
+<entitydescription.hull>Hull 用於定義潛艇的 "內部空間"，普遍來說作為艙房的空間都會置於 Hull 的範圍之內。</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
-<entitydescription.gap>Gap允許空氣與水在Hull之間流動。</entitydescription.gap>
+<entitydescription.gap>Gap 允許空氣與水在 Hull 之間流動。</entitydescription.gap>
 <entityname.waypoint>Waypoint</entityname.waypoint>
 <entitydescription.waypoint>使AI角色能夠在潛艇內移動。</entitydescription.waypoint>
 <entityname.spawnpoint>Spawnpoint</entityname.spawnpoint>
