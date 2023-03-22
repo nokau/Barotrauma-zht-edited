@@ -108,20 +108,20 @@
 <!-- Host server menu -->
 <servername>伺服器名稱</servername>
 <serverport>伺服器埠</serverport>
-<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用UPnP通訊埠轉發或手動通訊埠轉發。</serverporttooltip>
+<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverporttooltip>
 <serverqueryport>查詢埠</serverqueryport>
-<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現Steam ID驗證失敗的情況，請嘗試啟用UPnP通訊埠轉發或手動通訊埠轉發。</serverqueryporttooltip>
+<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現 Steam ID 驗證失敗的情況，請嘗試啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverqueryporttooltip>
 <maxplayers>玩家數量上限</maxplayers>
 <password>密碼</password>
 <publicserver>公開伺服器</publicserver>
 <publicservertooltip>公開伺服器將出現在瀏覽伺服器頁面中的伺服器清單中。</publicservertooltip>
-<attemptupnp>嘗試UPnP通訊埠轉發</attemptupnp>
-<attemptupnptooltip>UPnP可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定通訊埠轉發 (詳情請見readme)。</attemptupnptooltip>
+<attemptupnp>嘗試 UPnP 通訊埠轉發</attemptupnp>
+<attemptupnptooltip>UPnP 可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援 UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定通訊埠轉發 (詳情請見readme)。</attemptupnptooltip>
 <startserverbutton>開始</startserverbutton>
 <pleasewaitupnp>請稍後...</pleasewaitupnp>
-<attemptingupnp>正在嘗試UPnP通訊埠轉發...</attemptingupnp>
-<upnpunavailable>UPnP不可用。</upnpunavailable>
-<upnptimedout>UPnP搜尋超時。</upnptimedout>
+<attemptingupnp>正在嘗試 UPnP 通訊埠轉發...</attemptingupnp>
+<upnpunavailable>UPnP 不可用。</upnpunavailable>
+<upnptimedout>UPnP 搜尋超時。</upnptimedout>
 <incorrectpassword>密碼錯誤</incorrectpassword>
 
 <!-- Game modes -->
@@ -214,7 +214,7 @@
 <workshop.contenttag.language>Language</workshop.contenttag.language>
 <workshoperroronenable>無法啟用Steam工作坊項目 '[itemname]'。</workshoperroronenable>
 <workshoppublisherror.limitexceeded>發佈Steam工作坊項目失敗 (超過上限)。請確定Steam雲端系統功能已啟用且尚未超過你的雲端儲存上限。如果你上傳了大量存檔至Steam雲端系統，可能導致你的雲端儲存空間不足。你可以查看 [savepath] 確認你的存檔數量。</workshoppublisherror.limitexceeded>
-<workshoppublisherror.limiteduseraccount>發佈Steam工作坊項目失敗。受到限制的Steam帳號無法發佈項目至Steam工坊。你需要在Steam花費至少5美元以解除你的帳號限制。此限制與遊戲本身無關。</workshoppublisherror.limiteduseraccount>
+<workshoppublisherror.limiteduseraccount>發佈Steam工作坊項目失敗。受到限制的Steam帳號無法發佈項目至Steam工作坊。你需要在Steam花費至少5美元以解除你的帳號限制。此限制與遊戲本身無關。</workshoppublisherror.limiteduseraccount>
 <workshoppublisherror.banned>發佈Steam工作坊項目失敗，因為你的帳號已被封鎖。</workshoppublisherror.banned>
 <workshoppublisherror.insufficientprivilege>發佈Steam工作坊項目失敗 (權限不足)。原因可能是被系統封鎖、帳號被鎖定、或被遊戲社群封鎖。請聯繫Steam客服。</workshoppublisherror.insufficientprivilege>
 <workshoppublisherror.serviceunavailable>發佈Steam工作坊項目失敗 (伺服器不可用)。工坊伺服器可能遇到了問題。請稍後再試。</workshoppublisherror.serviceunavailable>
@@ -405,7 +405,7 @@
 <microphonevolume>麥克風音量</microphonevolume>
 <voicechat>語音交談</voicechat>
 <currentdevice>目前設備</currentdevice>
-<currentdevicetooltip.osx>該設備將用於語音交談。若你使用的是Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
+<currentdevicetooltip.osx>該設備將用於語音交談。若你使用的是 Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
 <refreshdefaultdevice>重新整理預設設備</refreshdefaultdevice>
 <refreshdefaultdevicetooltip>重新整理用於語音交談的設備。在切換/插拔預設輸入裝置之後點選以偵測變更。</refreshdefaultdevicetooltip>
 <voicemode.disabled>停用</voicemode.disabled>
@@ -657,8 +657,8 @@
 <deletedialogquestion>你確定要刪除'[file]'嗎？</deletedialogquestion>
 <deletefileverification>你要刪除 [filename] 嗎？</deletefileverification>
 <deletefileerror>無法刪除'[file]'！</deletefileerror>
-<steamdllnotfound>初始化Steam用戶端失敗 (找不到steam_api64.dll)。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
-<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已正常登錄。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
+<steamdllnotfound>初始化Steam用戶端失敗 (找不到 steam_api64.dll)。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
+<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已啟動且已登入Steam帳號。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
 <create>建立</create>
 <walls>牆壁</walls>
 <reset>重設</reset>
@@ -671,7 +671,7 @@
 <inprogress>進行中</inprogress>
 <complete>完成</complete>
 <wrongfiletype>檔案類型錯誤</wrongfiletype>
-<debugconsolehelptext>Debug控制台 - 使用F3開啟/關閉；輸入help獲取可用指令清單</debugconsolehelptext>
+<debugconsolehelptext>Debug控制台 - 使用F3開啟/關閉；輸入 help 獲取可用指令清單</debugconsolehelptext>
 <failed>失敗</failed>
 <invalidcontentpackage>無法載入 '[packagename]' 內容套件。</invalidcontentpackage>
 <xmlfileinvalid>文件 '[filepath]' 不是有效的XML文件 ([errormessage])。</xmlfileinvalid>
@@ -748,29 +748,29 @@
 <editor.layer.headerlink>連結</editor.layer.headerlink>
 <editor.cut>剪下</editor.cut>
 <editor.paste>貼上</editor.paste>
-<editor.togglereferencecharacter>Toggle size reference character</editor.togglereferencecharacter>
-<particle.muzzleflash>Muzzle Flash</particle.muzzleflash>
-<gapinsidehullwarning>這個Gap沒有作用，因為它的邊緣都處於同一個Hull中。要讓空氣與水透過Gap移動或以門來阻擋空氣與水，請將它們置於兩個Hull之間。</gapinsidehullwarning>
+<editor.togglereferencecharacter>切換角色大小參考</editor.togglereferencecharacter>
+<particle.muzzleflash>Muzzle Flash</particle.muzzleflash><!--where?-->
+<gapinsidehullwarning>這個 Gap 沒有作用，因為它的邊緣都處於同一個 Hull 中。要讓空氣與水透過 Gap 移動或以門來阻擋空氣與水，請將它們置於兩個 Hull 之間。</gapinsidehullwarning>
 <opensubbutton>開啟...</opensubbutton>
-<generatewaypointsverification>你確定要為這艘潛艇重新產生waypoint嗎？這將會清除現存的waypoint。要使AI角色能夠有效的在潛艇中移動，在產生Waypoint之後你可能需要手動進行增減、連結等微調，以確保艙房之間的路徑暢通。</generatewaypointsverification>
-<waypointsgeneratedsuccesfully>成功產生Waypoint。</waypointsgeneratedsuccesfully>
+<generatewaypointsverification>你確定要為這艘潛艇重新產生 Waypoint嗎？這將會清除現存的 Waypoint。要使AI角色能夠有效的在潛艇中移動，在產生 Waypoint 之後你可能需要手動進行增減、連結等微調，以確保艙房之間的路徑暢通。</generatewaypointsverification>
+<waypointsgeneratedsuccesfully>成功產生 Waypoint。</waypointsgeneratedsuccesfully>
 <loadautosave>載入自動存檔</loadautosave>
 <loadautosavetooltip>從最新的自動存檔回復。</loadautosavetooltip>
 <autosaved>自動存檔。</autosaved>
 <wirelistformat>[item] ([pin])</wirelistformat>
-<entitymenutoggletooltip>切換Entity Menu</entitymenutoggletooltip>
+<entitymenutoggletooltip>切換物件選單</entitymenutoggletooltip>
 <testsubbutton>測試</testsubbutton>
 <pausemenureturntoeditor>返回編輯器</pausemenureturntoeditor>
 <gamemode.subtest>潛艇測試模式</gamemode.subtest>
-<nohumanspawnpointwarning>這艘潛艇沒有為人類角色提供Spawnpoint，無法放置船員。請放置新的Spawnpoint並調整它的"Spawn type"至"Human"。</nohumanspawnpointwarning>
+<nohumanspawnpointwarning>這艘潛艇沒有為人類角色提供 Spawnpoint，無法放置船員。請放置新的 Spawnpoint 並調整它的 "Spawn type" 至 "Human"。</nohumanspawnpointwarning>
 <editable.minvalue>Min</editable.minvalue>
 <editable.maxvalue>Max</editable.maxvalue>
 <savesubtospecialfolderprompt>你已將潛艇設為 '[type]'，你想要將檔案儲存至 '[outpostpath]' 而非預設的Submarines資料夾嗎？</savesubtospecialfolderprompt>
 <addtocontentpackageprompt>你要加入這個檔案至 '[packagename]' 內容套件嗎？</addtocontentpackageprompt>
 <editor.selectsame>選取同類型物件</editor.selectsame>
 <sp.regexfindcomponent.usecapturegroup.name>使用Capture Group</sp.regexfindcomponent.usecapturegroup.name>
-<sp.regexfindcomponent.usecapturegroup.description>此元件是否輸出Named Capture Group。</sp.regexfindcomponent.usecapturegroup.description>
-<sp.regexfindcomponent.output.description>當所收到的訊號符合目標訊號時所輸出的值，或使用Named Capture Group的名稱將Capture Group作為輸出的值。</sp.regexfindcomponent.output.description>
+<sp.regexfindcomponent.usecapturegroup.description>此元件是否輸出 Named Capture Group。</sp.regexfindcomponent.usecapturegroup.description>
+<sp.regexfindcomponent.output.description>當所收到的訊號符合目標訊號時所輸出的值，或使用 Named Capture Group 的名稱將 Capture Group 作為輸出的值。</sp.regexfindcomponent.output.description>
 <sp.nametag.writtenname.name>名稱</sp.nametag.writtenname.name>
 <sp.nametag.writtenname.description>寫在名牌上的名字。</sp.nametag.writtenname.description>
 <sp.item.rotation.name>旋轉</sp.item.rotation.name>
@@ -964,7 +964,7 @@
 <campaignmode.incompatiblecontentpackages>內容套件 [incompatiblecontentpackages] 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackages>
 <campaignmode.contentpackageordermismatch>內容套件的載入順序在保存戰役時有所不同 ([loadorder])。</campaignmode.contentpackageordermismatch>
 <campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰，或許會你會想在繼續進行戰役前切換啟用相應的內容套件。</campaignmode.contentpackagemismatchwarning>
-<campaignmode.incompatiblesave>該存檔於當前遊戲版本不相容。</campaignmode.incompatiblesave>
+<campaignmode.incompatiblesave>該存檔與當前遊戲版本不相容。</campaignmode.incompatiblesave>
 <campaignmode.savenotreceived>正在從伺服器獲取遊戲存檔，請稍後...</campaignmode.savenotreceived>
 <undefinedsubmarineclasswarning>戰役中無法選擇尚未定義類型的潛艇！\n\n你確定要在未定義潛艇類型的狀態下儲存潛艇嗎？</undefinedsubmarineclasswarning>
 <undefinedsubmarineselected>未定義種類的潛艇無法在戰役中使用！</undefinedsubmarineselected>
@@ -1440,7 +1440,7 @@
 <ServerMessage.NameChangeFailedCooldownActive>不允許在短時間內變更名稱。請稍後 [seconds] 秒。</ServerMessage.NameChangeFailedCooldownActive>
 <ServerMessage.kickvotedisallowed>你待在此伺服器的時間還不足以允許你投票踢出其他玩家。</ServerMessage.kickvotedisallowed>
 
-<!-- Client permissions --><!--need translation?-->
+<!-- Client permissions --><!--need translation?--><!--where?-->
 <clientpermission.none>None</clientpermission.none>
 <clientpermission.all>All</clientpermission.all>
 <clientpermission.endround>End round</clientpermission.endround>
@@ -1587,7 +1587,7 @@
 <missiondescription.cargoconstructionminerals>一批建築材料需要被運送至[location2]，工務長準備了[reward]馬克來補償對你造成的任何不便。</missiondescription.cargoconstructionminerals>
 <missionsuccess.cargoconstructionminerals>建築材料已被成功送達。</missionsuccess.cargoconstructionminerals>
 <missionname.cargosecurityminerals>運送礦物</missionname.cargosecurityminerals>
-<missiondescription.cargosecurityminerals>[location2]的守衛隊需要武器製造的原料補給，如果你答應為他們補給能夠拿到[reward]馬克。</missiondescription.cargosecurityminerals>
+<missiondescription.cargosecurityminerals>[location2]的守衛隊需要用於武器製造的原料補給，如果你將它們送達將能夠拿到[reward]馬克。</missiondescription.cargosecurityminerals>
 <missionsuccess.cargosecurityminerals>補給原料已被成功送達。</missionsuccess.cargosecurityminerals>
 <missionname.cargomeditems>運送醫療物品</missionname.cargomeditems>
 <missiondescription.cargomeditems>一批醫用材料需要被運送至[location2]，如果你將它們送達將能夠拿到[reward]馬克。</missiondescription.cargomeditems>
@@ -2020,7 +2020,7 @@
 <entitydescription.railgunloadersinglevertical>將軌道砲子彈裝填至連接的軌道砲，單發版本。</entitydescription.railgunloadersinglevertical>
 <entityname.railgunloadersinglehorizontal>橫向單發軌道砲裝彈機</entityname.railgunloadersinglehorizontal>
 <entitydescription.railgunloadersinglehorizontal>將軌道砲子彈裝填至連接的軌道砲，單發版本。</entitydescription.railgunloadersinglehorizontal>
-<entityname.miningmachines>Mining Machine</entityname.miningmachines>
+<entityname.miningmachines>採礦機具</entityname.miningmachines>
 <entityname.coilgunammoshelf>彈藥架</entityname.coilgunammoshelf>
 <entitydescription.coilgunammoshelf>一個整齊收納彈藥箱的方法。</entitydescription.coilgunammoshelf>
 <entityname.turrethardpoint>砲塔底座</entityname.turrethardpoint>
@@ -2029,20 +2029,20 @@
 <entityname.blankloader>裝彈機底座</entityname.blankloader>
 <entityname.railguncanistershell>軌道砲子彈</entityname.railguncanistershell>
 <entitydescription.railguncanistershell>軌道砲用的子彈。</entitydescription.railguncanistershell>
-<entityname.railguncanistershellpellet>Canister Shell Pellet</entityname.railguncanistershellpellet>
-<entitydescription.railguncanistershellpellet>A pellet fired out of a canister shell.</entitydescription.railguncanistershellpellet>
+<entityname.railguncanistershellpellet>Canister Shell Pellet</entityname.railguncanistershellpellet><!--where?-->
+<entitydescription.railguncanistershellpellet>A pellet fired out of a canister shell.</entitydescription.railguncanistershellpellet><!--where?-->
 <entityname.pulselaser>脈衝鐳射</entityname.pulselaser>
 <entitydescription.pulselaser>一具配備了大型化學脈衝雷射器的砲塔，在充電後能發出威力強大的雷射光束對任何目標造成嚴重燒傷。</entitydescription.pulselaser>
 <entityname.pulselaserammobox>脈衝鐳射燃料箱</entityname.pulselaserammobox>
 <entitydescription.pulselaserammobox>一個裝有化學藥劑和聚焦透鏡的箱子，用以誘發強烈的能量爆發，為脈衝雷射的火力來源。</entitydescription.pulselaserammobox>
-<entityname.pulselaserbolt>Pulse Laser Bolt</entityname.pulselaserbolt>
+<entityname.pulselaserbolt>Pulse Laser Bolt</entityname.pulselaserbolt><!--where?-->
 <entityname.pulselaserloader>脈衝鐳射裝彈機</entityname.pulselaserloader>
 <entityname.chaingun>鏈式機槍</entityname.chaingun>
 <entitydescription.chaingun>一具以電磁原理運作的強大多管砲塔，儘管開火前需要要一小段時間啟動，它向任何潛在敵人高速投射子彈的能力無可匹敵。</entitydescription.chaingun>
 <entityname.chaingunammobox>鏈式機槍彈藥箱</entityname.chaingunammobox>
 <entityname.chaingunloader>鏈式機槍裝彈機</entityname.chaingunloader>
 <entitydescription.chaingunammobox>一箱沉重的鏈式機槍子彈。</entitydescription.chaingunammobox>
-<entityname.chaingunbolt>Chaingun Bolt</entityname.chaingunbolt>
+<entityname.chaingunbolt>Chaingun Bolt</entityname.chaingunbolt><!--where?-->
 <entityname.largeturrethardpoint>大型砲塔底座</entityname.largeturrethardpoint>
 <entitydescription.largeturrethardpoint>一個能夠用於搭載大型砲塔的底座。</entitydescription.largeturrethardpoint>
 <entityname.doublecoilgun>雙管電磁槍</entityname.doublecoilgun>
@@ -2053,19 +2053,19 @@
 <entityname.flakcannonammobox>分散破片加農炮彈藥箱</entityname.flakcannonammobox>
 <entitydescription.flakcannonammobox>一箱沉重的分散破片彈藥箱，適合對群體目標展開攻勢。</entitydescription.flakcannonammobox>
 <entityname.flakbolt>破片彈藥箱</entityname.flakbolt>
-<entityname.flakshrapnel>Flak Fragment</entityname.flakshrapnel>
+<entityname.flakshrapnel>Flak Fragment</entityname.flakshrapnel><!--where?-->
 <entityname.flakcannondirectionalammobox>集中破片加農炮彈藥箱</entityname.flakcannondirectionalammobox>
 <entitydescription.flakcannondirectionalammobox>一箱沉重的集中破片加農炮彈藥箱，適合對單一目標展開攻勢。</entitydescription.flakcannondirectionalammobox>
-<entityname.flakboltdirectional>Flak Shell (Choked)</entityname.flakboltdirectional>
-<entityname.flakshrapneldirectional>Heavy Flak Fragment</entityname.flakshrapneldirectional>
+<entityname.flakboltdirectional>Flak Shell (Choked)</entityname.flakboltdirectional><!--where?-->
+<entityname.flakshrapneldirectional>Heavy Flak Fragment</entityname.flakshrapneldirectional><!--where?-->
 <entityname.flakcannonammoboxphysicorium>剛素破片加農炮彈藥箱</entityname.flakcannonammoboxphysicorium>
 <entitydescription.flakcannonammoboxphysicorium>一箱無比沉重、以剛素作為主要製作材料的破片加農炮彈藥。</entitydescription.flakcannonammoboxphysicorium>
-<entityname.flakboltphysicorium>Physicorium Flak Shell</entityname.flakboltphysicorium>
-<entityname.flakshrapnelphysicorium>Physicorium Flak Fragment</entityname.flakshrapnelphysicorium>
+<entityname.flakboltphysicorium>Physicorium Flak Shell</entityname.flakboltphysicorium><!--where?-->
+<entityname.flakshrapnelphysicorium>Physicorium Flak Fragment</entityname.flakshrapnelphysicorium><!--where?-->
 <entityname.flakcannonammoboxexplosive>高爆破片加農炮彈藥箱Explosive Flak Shells Box</entityname.flakcannonammoboxexplosive>
 <entitydescription.flakcannonammoboxexplosive>>一箱沉重的破片加農炮彈藥，裝有高爆炸藥。</entitydescription.flakcannonammoboxexplosive>
-<entityname.flakboltexplosive>Explosive Flak Shell</entityname.flakboltexplosive>
-<entityname.flakshrapnelexplosive>Explosive Flak Fragment</entityname.flakshrapnelexplosive>
+<entityname.flakboltexplosive>Explosive Flak Shell</entityname.flakboltexplosive><!--where?-->
+<entityname.flakshrapnelexplosive>Explosive Flak Fragment</entityname.flakshrapnelexplosive><!--where?-->
 
 <!-- Equipment -->
 <entityname.idcard>ID卡</entityname.idcard>
@@ -2158,10 +2158,10 @@
 <entitydescription.chaingunammoboxphysicorium>一箱無比沉重、以剛素作為主要製作材料的鏈式機槍彈藥。這些彈藥擊中目標的力道足以偶爾將它們擊暈。</entitydescription.chaingunammoboxphysicorium>
 <entityname.pulselaserammoboxtrilaser>脈衝三向雷射燃料箱</entityname.pulselaserammoboxtrilaser>
 <entitydescription.pulselaserammoboxtrilaser>一個裝有化學藥劑和稀有原料的箱子，當中的透鏡將強力鐳射一分為三，可以一次擊中多個目標。</entitydescription.pulselaserammoboxtrilaser>
-<entityname.coilgunboltexplosive>Exploding Coilgun Bolt</entityname.coilgunboltexplosive>
-<entitydescription.coilgunboltexplosive>Ammunition for the coilgun. Explodes on impact.</entitydescription.coilgunboltexplosive>
-<entityname.coilgunboltpiercing>Piercing Coilgun Bolt</entityname.coilgunboltpiercing>
-<entitydescription.coilgunboltpiercing>Coilgun ammo that has piercing capabilities.</entitydescription.coilgunboltpiercing>
+<entityname.coilgunboltexplosive>Exploding Coilgun Bolt</entityname.coilgunboltexplosive><!--where?-->
+<entitydescription.coilgunboltexplosive>Ammunition for the coilgun. Explodes on impact.</entitydescription.coilgunboltexplosive><!--where?-->
+<entityname.coilgunboltpiercing>Piercing Coilgun Bolt</entityname.coilgunboltpiercing><!--where?-->
+<entitydescription.coilgunboltpiercing>Coilgun ammo that has piercing capabilities.</entitydescription.coilgunboltpiercing><!--where?-->
 <entityname.uex>UEX</entityname.uex>
 <entitydescription.uex>一種以鈉與磷合成的爆裂物。</entitydescription.uex>
 <entityname.c4block>C-4炸藥</entityname.c4block>
@@ -2253,7 +2253,7 @@
 <entityname.incendiumfueltank>燃素焊接燃料罐</entityname.incendiumfueltank>
 <entityname.physicoriumammobox>剛素電磁槍彈藥箱</entityname.physicoriumammobox>
 <entitydescription.physicoriumammobox>以異星原料製成的電磁槍彈藥。</entitydescription.physicoriumammobox>
-<entityname.physicoriumbolt>Physicorium Bolt</entityname.physicoriumbolt>
+<entityname.physicoriumbolt>Physicorium Bolt</entityname.physicoriumbolt><!--where?-->
 <entityname.orangejumpsuit1>輻射防護服</entityname.orangejumpsuit1>
 <entitydescription.orangejumpsuit1>配有夠抵擋輻射的鉛層防護。</entitydescription.orangejumpsuit1>
 <entityname.orangejumpsuit2>工程師連身服</entityname.orangejumpsuit2>
@@ -2348,7 +2348,7 @@
 <entityname.smgrounddepletedfuel>耗乏燃料SMG子彈</entityname.smgrounddepletedfuel>
 <entityname.coilgunammoboxdepletedfuel>耗乏燃料電磁槍彈藥箱</entityname.coilgunammoboxdepletedfuel>
 <entitydescription.coilgunammoboxdepletedfuel>一個裝滿混合了耗乏燃料的電磁槍子彈的箱子，這些子彈擁有更強的穿甲效力，同時能使目標受到輻射病影響。</entitydescription.coilgunammoboxdepletedfuel>
-<entityname.depletedfuelbolt>Depleted Fuel Bolt</entityname.depletedfuelbolt>
+<entityname.depletedfuelbolt>Depleted Fuel Bolt</entityname.depletedfuelbolt><!--where?-->
 <entityname.handheldelectricalmonitor>手持電力監視器</entityname.handheldelectricalmonitor>
 <entitydescription.handheldelectricalmonitor>一個可讓使用者以遠端查看船上電力系統狀態的小型手持裝置。</entitydescription.handheldelectricalmonitor>
 <entityname.handheldstatusmonitor>手持狀態監視器</entityname.handheldstatusmonitor>
@@ -2622,11 +2622,11 @@
 <entityname.alienblood>異星生物血液</entityname.alienblood>
 <entitydescription.alienblood>從一個原生於歐羅巴生物取得的血液，可被進一步加工成用於治療失血的血液代用品。</entitydescription.alienblood>
 <entityname.huskeggs>畫皮精華</entityname.huskeggs>
-<entitydescription.huskeggs>「Velonaceps Calyx」、俗稱畫皮，喜歡將自己與鈣結合，不論它在人類骨頭裡或是好好地裝在針筒中。</entitydescription.huskeggs>
+<entitydescription.huskeggs>「Velonaceps Calyx」，俗稱畫皮，喜歡將自己與鈣結合，不論它是在人類骨頭裡或是好好地被裝在針筒中。</entitydescription.huskeggs>
 <entityname.molochbone>摩螺克骨頭</entityname.molochbone>
 <entitydescription.molochbone>一小塊摩螺克骨頭。被哨站居民視為昂貴的奢侈品；能被以高價出售。</entitydescription.molochbone>
 <entityname.huskeggsbasic>畫皮寄生蟲卵</entityname.huskeggsbasic>
-<entitydescription.huskeggsbasic>學名為「Velonaceps Calyx」，俗稱畫皮的歐羅巴生物的休眠卵。</entitydescription.huskeggsbasic>
+<entitydescription.huskeggsbasic>「Velonaceps Calyx」，俗稱畫皮的歐羅巴生物的休眠卵。</entitydescription.huskeggsbasic>
 <entityname.aliencircuitry>異星電路</entityname.aliencircuitry>
 <entitydescription.aliencircuitry>一種看起來非常高科技的電路，通常能從異星遺跡中守護者的無機身軀裡找到。</entitydescription.aliencircuitry>
 <entityname.diversremains>潛水夫殘骸</entityname.diversremains>
@@ -2851,10 +2851,10 @@
 <entitydescription.guitar>一把舊吉他。</entitydescription.guitar>
 <entityname.harmonica>口風琴</entityname.harmonica>
 <entitydescription.harmonica>一把舊口琴。</entitydescription.harmonica>
-<entityname.bgrock1>Background Rock 1</entityname.bgrock1>
-<entityname.bgrock2>Background Rock 2</entityname.bgrock2>
-<entityname.bgrock3>Background Rock 3</entityname.bgrock3>
-<entityname.bgrock4>Background Rock 4</entityname.bgrock4>
+<entityname.bgrock1>背景岩石1</entityname.bgrock1>
+<entityname.bgrock2>背景岩石2</entityname.bgrock2>
+<entityname.bgrock3>背景岩石3</entityname.bgrock3>
+<entityname.bgrock4>背景岩石4</entityname.bgrock4>
 <entityname.suppliescabinet>物資收納櫃</entityname.suppliescabinet>
 <entitydescription.suppliescabinet>用於收納中小型的物品。</entitydescription.suppliescabinet>
 <entityname.mediumsteelcabinet>中型金屬收納櫃</entityname.mediumsteelcabinet>
@@ -2890,9 +2890,9 @@
 <entityname.weaponholder>武器架</entityname.weaponholder>
 <entitydescription.weaponholder>一個能整齊收納武器的位子。</entitydescription.weaponholder>
 <entityname.dockingport>水平對接艙口</entityname.dockingport>
-<entitydescription.dockingport>一個垂直的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockingport>
+<entitydescription.dockingport>一個直立的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockingport>
 <entityname.dockinghatch>垂直對接艙口</entityname.dockinghatch>
-<entitydescription.dockinghatch>一個水平的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
+<entitydescription.dockinghatch>一個平面的對接介面，能與其他潛艇、小艇、與地區的同類型對接艙口進行連接作為通道。</entitydescription.dockinghatch>
 <entityname.ductblock>排水口</entityname.ductblock>
 <entitydescription.ductblock>一個可以被打開或關閉來控制水流的機械式通道。</entitydescription.ductblock>
 <entityname.label>標識</entityname.label>
@@ -2907,8 +2907,8 @@
 <entitydescription.fulguriumfuelrod>用於反應爐的濃縮雷素燃料棒，能產生大量熱能且使用時間相較鈾燃料棒更長。</entitydescription.fulguriumfuelrod>
 <entityname.thoriumfuelrod>釷燃料棒</entityname.thoriumfuelrod>
 <entitydescription.thoriumfuelrod>用於反應爐的濃縮釷燃料棒，能產生較多熱能且使用時間相較鈾燃料棒更長。</entitydescription.thoriumfuelrod>
-<entityname.coilgunbolt>Coilgun Bolt</entityname.coilgunbolt>
-<entitydescription.coilgunbolt>For firing from a coilgun.</entitydescription.coilgunbolt>
+<entityname.coilgunbolt>Coilgun Bolt</entityname.coilgunbolt><!--where?-->
+<entitydescription.coilgunbolt>For firing from a coilgun.</entitydescription.coilgunbolt><!--where?-->
 <entityname.depthchargeshell>深水炸彈</entityname.depthchargeshell>
 <entitydescription.depthchargeshell>一桶爆裂物，在下沉後爆炸。</entitydescription.depthchargeshell>
 <entityname.nucleardepthcharge>輻射深水炸彈</entityname.nucleardepthcharge>
@@ -2932,38 +2932,38 @@
 <entityname.thalamusbrain1>丘腦核心</entityname.thalamusbrain1>
 <entityname.fleshgun1>肉槍</entityname.fleshgun1>
 <entityname.fleshgunloader1>肉槍彈藥袋</entityname.fleshgunloader1>
-<entityname.fleshguntendon1>Fleshgun Tendon</entityname.fleshguntendon1>
+<entityname.fleshguntendon1>肉槍腱</entityname.fleshguntendon1>
 <entityname.fleshspike1>肉釘槍</entityname.fleshspike1>
 <entityname.cellspawnorgan1>細胞生產器</entityname.cellspawnorgan1>
 <entityname.thalamuswire>丘腦血管</entityname.thalamuswire>
-<entityname.thalamus_wall_vertical_decorative_1>Thalamus Decorative Vertical Wall 1</entityname.thalamus_wall_vertical_decorative_1>
-<entityname.thalamus_wall_horizontal_decorative_1>Thalamus Decorative Horizontal Wall 1</entityname.thalamus_wall_horizontal_decorative_1>
-<entityname.thalamus_wall_vertical_1>Thalamus Vertical Wall 1</entityname.thalamus_wall_vertical_1>
-<entityname.thalamus_wall_horizontal_1>Thalamus Horizontal Wall 1</entityname.thalamus_wall_horizontal_1>
-<entityname.thalamus_background_1>Thalamus Background 1</entityname.thalamus_background_1>
+<entityname.thalamus_wall_vertical_decorative_1>丘腦裝飾性牆 垂直 1</entityname.thalamus_wall_vertical_decorative_1>
+<entityname.thalamus_wall_horizontal_decorative_1>丘腦裝飾性牆 水平 1</entityname.thalamus_wall_horizontal_decorative_1>
+<entityname.thalamus_wall_vertical_1>丘腦牆 垂直 1</entityname.thalamus_wall_vertical_1>
+<entityname.thalamus_wall_horizontal_1>丘腦牆 水平 1</entityname.thalamus_wall_horizontal_1>
+<entityname.thalamus_background_1>丘腦背景 1</entityname.thalamus_background_1>
 <entityname.storageorgan1>臟器</entityname.storageorgan1>
 <entityname.handheldterminal>日誌</entityname.handheldterminal>
 <entitydescription.handheldterminal>一個用來記錄訊息的手持設備。</entitydescription.handheldterminal>
 <entityname.idcardwreck>殘骸ID卡</entityname.idcardwreck>
 <entitydescription.idcardwreck>這張ID卡能用來進入殘骸內大部分的空間，如果那些門沒有鏽到打不開的話。</entitydescription.idcardwreck>
 <entityname.crateshelf>貨物架</entityname.crateshelf>
-<entityname.op_lighttower>Light Tower</entityname.op_lighttower>
+<entityname.op_lighttower>塔燈</entityname.op_lighttower>
 <entityname.op_lightbox1>燈箱</entityname.op_lightbox1>
-<entityname.op_hologramdisplay1>Hologram Display</entityname.op_hologramdisplay1>
-<entityname.opdeco_container>Shop Display</entityname.opdeco_container>
-<entityname.opdeco_shopsuit1>Diving Suit Display</entityname.opdeco_shopsuit1>
+<entityname.op_hologramdisplay1>投射影像</entityname.op_hologramdisplay1>
+<entityname.opdeco_container>商店展示櫃</entityname.opdeco_container>
+<entityname.opdeco_shopsuit1>潛水服展示櫃</entityname.opdeco_shopsuit1>
 <entityname.op_researchcontainmenttank1>研究收容槽</entityname.op_researchcontainmenttank1>
-<entityname.op_researchtable>Research Table</entityname.op_researchtable>
+<entityname.op_researchtable>研究桌</entityname.op_researchtable>
 <entityname.op_vendingmachine1>販賣機</entityname.op_vendingmachine1>
 <entityname.op_workbenchlamp>工作台燈</entityname.op_workbenchlamp>
-<entityname.opdeco_heater>Heater</entityname.opdeco_heater>
+<entityname.opdeco_heater>暖爐</entityname.opdeco_heater>
 <entityname.opdeco_bunkbeds>軍用床鋪</entityname.opdeco_bunkbeds>
-<entityname.opbg_tunnel3>Outpost Tunnel Background 3</entityname.opbg_tunnel3>
+<entityname.opbg_tunnel3>哨站隧道背景 3</entityname.opbg_tunnel3>
 <entityname.opdeco_officechair>辦公椅</entityname.opdeco_officechair>
-<entityname.medicalmonitor>Medical Monitor</entityname.medicalmonitor>
+<entityname.medicalmonitor>醫用監視器</entityname.medicalmonitor>
 <entityname.medicalcompartment>醫務櫃</entityname.medicalcompartment>
 <entityname.opdeco_surgicallights>手術燈</entityname.opdeco_surgicallights>
-<entityname.opdeco_xrayscreen>X-Ray Screen</entityname.opdeco_xrayscreen>
+<entityname.opdeco_xrayscreen>X光燈箱</entityname.opdeco_xrayscreen>
 <entityname.op_researchterminal>研究站</entityname.op_researchterminal>
 <entityname.opdeco_medcurtain>醫用簾</entityname.opdeco_medcurtain>
 <entityname.outpostterminal>哨站終端</entityname.outpostterminal>
@@ -2983,11 +2983,11 @@
 <entityname.whitepaint>白色油漆</entityname.whitepaint>
 <entityname.opdeco_trashcan>垃圾桶</entityname.opdeco_trashcan>
 <entityname.opdeco_cabinetsdorm>收納櫃</entityname.opdeco_cabinetsdorm>
-<entityname.opdeco_screen>Monitor Screen</entityname.opdeco_screen>
-<entityname.minemineral>Mineral Deposit</entityname.minemineral>
-<entityname.icedebris>Ice Debris</entityname.icedebris>
-<entityname.supportbeamhorizontal>Support Beam Horizontal</entityname.supportbeamhorizontal>
-<entityname.supportbeamvertical>Support Beam Vertical</entityname.supportbeamvertical>
+<entityname.opdeco_screen>螢幕畫面</entityname.opdeco_screen>
+<entityname.minemineral>礦脈</entityname.minemineral>
+<entityname.icedebris>碎冰</entityname.icedebris>
+<entityname.supportbeamhorizontal>支撐樑 水平</entityname.supportbeamhorizontal>
+<entityname.supportbeamvertical>支撐樑 垂直</entityname.supportbeamvertical>
 <entityname.scrap>廢料</entityname.scrap>
 <entitydescription.scrap>一堆或許有材料。</entitydescription.scrap>
 <entityname.spinelingspike>脊刺的刺</entityname.spinelingspike>
@@ -2998,69 +2998,69 @@
 <entityname.crawleregg>爬行者卵</entityname.crawleregg>
 <entityname.mediccrate>醫療物品箱子</entityname.mediccrate>
 <entitydescription.mediccrate>用來運送醫療相關物品與原料的箱子。</entitydescription.mediccrate>
-<entityname.rustdecal>Rust Decal</entityname.rustdecal>
-<entitydescription.rustdecal>Decorative decal for walls and machines</entitydescription.rustdecal>
-<entityname.monsterscums>Monster Scum</entityname.monsterscums>
-<entityname.humanitems>Bandit Prop</entityname.humanitems>
-<entityname.stairsrightshort>Stairs Right Short</entityname.stairsrightshort>
-<entityname.stairsleftshort>Stairs Left Short</entityname.stairsleftshort>
-<entityname.stairsrightlong>Stairs Right Long</entityname.stairsrightlong>
-<entityname.stairsleftlong>Stairs Left Long</entityname.stairsleftlong>
+<entityname.rustdecal>鏽蝕圖樣</entityname.rustdecal>
+<entitydescription.rustdecal>可用於牆壁或設備上的裝飾性圖樣。</entitydescription.rustdecal>
+<entityname.monsterscums>怪物殘渣</entityname.monsterscums>
+<entityname.humanitems>盜賊裝飾</entityname.humanitems>
+<entityname.stairsrightshort>樓梯 右 短</entityname.stairsrightshort>
+<entityname.stairsleftshort>樓梯 左 短</entityname.stairsleftshort>
+<entityname.stairsrightlong>樓梯 右 長</entityname.stairsrightlong>
+<entityname.stairsleftlong>樓梯 左 長</entityname.stairsleftlong>
 <entityname.banditoutfit>盜賊服裝</entityname.banditoutfit>
-<entityname.metalwalls>Metal Wall</entityname.metalwalls>
-<entityname.metalbox>Metal Box</entityname.metalbox>
-<entityname.ff_wall_airlock1>Airlock</entityname.ff_wall_airlock1>
+<entityname.metalwalls>金屬牆</entityname.metalwalls>
+<entityname.metalbox>金屬箱</entityname.metalbox>
+<entityname.ff_wall_airlock1>氣閘</entityname.ff_wall_airlock1>
 <entityname.unitloaddevice>單位裝載器</entityname.unitloaddevice>
 <entitydescription.unitloaddevice>一個能夠容納許多箱子的容器。</entitydescription.unitloaddevice>
 <entityname.streetlight>街燈</entityname.streetlight>
-<entityname.neonlighta>Neon Light A</entityname.neonlighta>
-<entityname.neonlightb>Neon Light B</entityname.neonlightb>
-<entityname.neonlightc>Neon Light C</entityname.neonlightc>
-<entityname.neonlightd>Neon Light D</entityname.neonlightd>
-<entityname.neonlighte>Neon Light E</entityname.neonlighte>
-<entityname.neonlightf>Neon Light F</entityname.neonlightf>
-<entityname.neonlightg>Neon Light G</entityname.neonlightg>
-<entityname.neonlighth>Neon Light H</entityname.neonlighth>
-<entityname.neonlighti>Neon Light I</entityname.neonlighti>
-<entityname.neonlightj>Neon Light J</entityname.neonlightj>
-<entityname.neonlightk>Neon Light K</entityname.neonlightk>
-<entityname.neonlightl>Neon Light L</entityname.neonlightl>
-<entityname.neonlightm>Neon Light M</entityname.neonlightm>
-<entityname.neonlightn>Neon Light N</entityname.neonlightn>
-<entityname.neonlighto>Neon Light O</entityname.neonlighto>
-<entityname.neonlightp>Neon Light P</entityname.neonlightp>
-<entityname.neonlightq>Neon Light Q</entityname.neonlightq>
-<entityname.neonlightr>Neon Light R</entityname.neonlightr>
-<entityname.neonlights>Neon Light S</entityname.neonlights>
-<entityname.neonlightt>Neon Light T</entityname.neonlightt>
-<entityname.neonlightu>Neon Light U</entityname.neonlightu>
-<entityname.neonlightv>Neon Light V</entityname.neonlightv>
-<entityname.neonlightw>Neon Light W</entityname.neonlightw>
-<entityname.neonlightx>Neon Light X</entityname.neonlightx>
-<entityname.neonlighty>Neon Light Y</entityname.neonlighty>
-<entityname.neonlightz>Neon Light Z</entityname.neonlightz>
-<entityname.neonlight0>Neon Light 0</entityname.neonlight0>
-<entityname.neonlight1>Neon Light 1</entityname.neonlight1>
-<entityname.neonlight2>Neon Light 2</entityname.neonlight2>
-<entityname.neonlight3>Neon Light 3</entityname.neonlight3>
-<entityname.neonlight4>Neon Light 4</entityname.neonlight4>
-<entityname.neonlight5>Neon Light 5</entityname.neonlight5>
-<entityname.neonlight6>Neon Light 6</entityname.neonlight6>
-<entityname.neonlight7>Neon Light 7</entityname.neonlight7>
-<entityname.neonlight8>Neon Light 8</entityname.neonlight8>
-<entityname.neonlight9>Neon Light 9</entityname.neonlight9>
-<entityname.neonlightplanet>Neon Light Planet</entityname.neonlightplanet>
-<entityname.neonlightkiss>Neon Light Kiss</entityname.neonlightkiss>
-<entityname.neonlightarrow>Neon Light Arrow</entityname.neonlightarrow>
-<entityname.neonlightgarden>Neon Light Garden</entityname.neonlightgarden>
-<entityname.neonlightgear>Neon Light Gear</entityname.neonlightgear>
-<entityname.neonlightsubmarine>Neon Light Submarine</entityname.neonlightsubmarine>
-<entityname.neonlightfood>Neon Light Food</entityname.neonlightfood>
-<entityname.neonlightframe>Neon Light Frame</entityname.neonlightframe>
-<entityname.neonlightwire1>Neon Light Wire 1</entityname.neonlightwire1>
-<entityname.neonlightwire2>Neon Light Wire 2</entityname.neonlightwire2>
-<entityname.neonlightwire3>Neon Light Wire 3</entityname.neonlightwire3>
-<entityname.neonlightwire4>Neon Light Wire 4</entityname.neonlightwire4>
+<entityname.neonlighta>霓虹燈 A</entityname.neonlighta>
+<entityname.neonlightb>霓虹燈 B</entityname.neonlightb>
+<entityname.neonlightc>霓虹燈 C</entityname.neonlightc>
+<entityname.neonlightd>霓虹燈 D</entityname.neonlightd>
+<entityname.neonlighte>霓虹燈 E</entityname.neonlighte>
+<entityname.neonlightf>霓虹燈 F</entityname.neonlightf>
+<entityname.neonlightg>霓虹燈 G</entityname.neonlightg>
+<entityname.neonlighth>霓虹燈 H</entityname.neonlighth>
+<entityname.neonlighti>霓虹燈 I</entityname.neonlighti>
+<entityname.neonlightj>霓虹燈 J</entityname.neonlightj>
+<entityname.neonlightk>霓虹燈 K</entityname.neonlightk>
+<entityname.neonlightl>霓虹燈 L</entityname.neonlightl>
+<entityname.neonlightm>霓虹燈 M</entityname.neonlightm>
+<entityname.neonlightn>霓虹燈 N</entityname.neonlightn>
+<entityname.neonlighto>霓虹燈 O</entityname.neonlighto>
+<entityname.neonlightp>霓虹燈 P</entityname.neonlightp>
+<entityname.neonlightq>霓虹燈 Q</entityname.neonlightq>
+<entityname.neonlightr>霓虹燈 R</entityname.neonlightr>
+<entityname.neonlights>霓虹燈 S</entityname.neonlights>
+<entityname.neonlightt>霓虹燈 T</entityname.neonlightt>
+<entityname.neonlightu>霓虹燈 U</entityname.neonlightu>
+<entityname.neonlightv>霓虹燈 V</entityname.neonlightv>
+<entityname.neonlightw>霓虹燈 W</entityname.neonlightw>
+<entityname.neonlightx>霓虹燈 X</entityname.neonlightx>
+<entityname.neonlighty>霓虹燈 Y</entityname.neonlighty>
+<entityname.neonlightz>霓虹燈 Z</entityname.neonlightz>
+<entityname.neonlight0>霓虹燈 0</entityname.neonlight0>
+<entityname.neonlight1>霓虹燈 1</entityname.neonlight1>
+<entityname.neonlight2>霓虹燈 2</entityname.neonlight2>
+<entityname.neonlight3>霓虹燈 3</entityname.neonlight3>
+<entityname.neonlight4>霓虹燈 4</entityname.neonlight4>
+<entityname.neonlight5>霓虹燈 5</entityname.neonlight5>
+<entityname.neonlight6>霓虹燈 6</entityname.neonlight6>
+<entityname.neonlight7>霓虹燈 7</entityname.neonlight7>
+<entityname.neonlight8>霓虹燈 8</entityname.neonlight8>
+<entityname.neonlight9>霓虹燈 9</entityname.neonlight9>
+<entityname.neonlightplanet>霓虹燈 星球</entityname.neonlightplanet>
+<entityname.neonlightkiss>霓虹燈 吻</entityname.neonlightkiss>
+<entityname.neonlightarrow>霓虹燈 箭頭</entityname.neonlightarrow>
+<entityname.neonlightgarden>霓虹燈 花園</entityname.neonlightgarden>
+<entityname.neonlightgear>霓虹燈 齒輪</entityname.neonlightgear>
+<entityname.neonlightsubmarine>霓虹燈 潛艇</entityname.neonlightsubmarine>
+<entityname.neonlightfood>霓虹燈 食物</entityname.neonlightfood>
+<entityname.neonlightframe>霓虹燈支架</entityname.neonlightframe>
+<entityname.neonlightwire1>霓虹燈電線 1</entityname.neonlightwire1>
+<entityname.neonlightwire2>霓虹燈電線 2</entityname.neonlightwire2>
+<entityname.neonlightwire3>霓虹燈電線 3</entityname.neonlightwire3>
+<entityname.neonlightwire4>霓虹燈電線 4</entityname.neonlightwire4>
 
 <!-- Alien -->
 <entityname.skyholderartifact>天空異星文物</entityname.skyholderartifact>
@@ -3427,15 +3427,15 @@
 <waypoint>Waypoint</waypoint>
 <linkwaypoint>按住空白鍵以連結至其他Waypoint。</linkwaypoint>
 <spawnpoint>Spawnpoint</spawnpoint>
-<spawntype>Spawn type</spawntype>
-<idcarddescription>ID Card description</idcarddescription>
-<idcarddescriptiontooltip>自這個Spawnpoint生成的角色的ID卡上將會加入這些描述。這能用來註記他們的ID卡在潛艇上的權限為何。</idcarddescriptiontooltip>
-<idcardtags>ID Card tags</idcardtags>
+<spawntype>產生類型</spawntype>
+<idcarddescription>ID Card描述</idcarddescription>
+<idcarddescriptiontooltip>自這個 Spawnpoint 生成的角色的ID卡上將會加入這些描述。這能用來註記他們的ID卡在潛艇上的權限為何。</idcarddescriptiontooltip>
+<idcardtags>ID卡Tags</idcardtags>
 <idcardtagstooltip>自這個Spawnpoint生成的角色的ID卡上會被加入這些標籤。這些標籤能夠用以限制可進入空間的權限等等。</idcardtagstooltip>
-<spawnpointjobs>Assigned jobs</spawnpointjobs>
-<spawnpointjobstooltip>只有該職業的角色會從這個Spawnpoint生成。</spawnpointjobstooltip>
+<spawnpointjobs>所分配職業</spawnpointjobs>
+<spawnpointjobstooltip>只有該職業的角色會從這個 Spawnpoint 生成。</spawnpointjobstooltip>
 <spawnpointtags>Tags</spawnpointtags>
-<spawnpointtagstooltip>Can be used to refer to the spawnpoint in events and human prefabs.</spawnpointtagstooltip>
+<spawnpointtagstooltip>為事件或角色群組所使用的標籤。</spawnpointtagstooltip><!--NEED EDIT?-->
 
 <!-- Linked submarines -->
 <linkedsub>已置入的潛艇</linkedsub>
@@ -4027,7 +4027,7 @@
 <ordername.requestfirstaid>請求急救</ordername.requestfirstaid>
 <ordername.repairmechanical>修復機械設備</ordername.repairmechanical>
 <ordername.repairelectrical>修復電氣設備</ordername.repairelectrical>
-<ordername.use>Use</ordername.use>
+<ordername.use>Use</ordername.use><!--where? start -->
 <ordername.detach>Detach</ordername.detach>
 <ordername.weldshut>Weld Shut</ordername.weldshut>
 <ordername.forceopen>Force Open</ordername.forceopen>
@@ -4046,7 +4046,7 @@
 <ordername.loot>Loot</ordername.loot>
 <ordername.equipfor>Equip for...</ordername.equipfor>
 <orderoptions.equipfor>Away mission, Invaders, Hull breach</orderoptions.equipfor>
-<ordername.getitem>Get Item</ordername.getitem>
+<ordername.getitem>Get Item</ordername.getitem><!--where? end -->
 <ordername.cleanupitems>收拾物品</ordername.cleanupitems>
 <ordername.ignorethis>忽略</ordername.ignorethis>
 <orderdialog.ignorethis>忽略[roomname]裡的目標！</orderdialog.ignorethis>
@@ -5123,12 +5123,12 @@
 
 
 <!-- Campaign tutorial -->
-<tutorial.campaign.introduction.conversation_start>[speakername]: 「終於有機會離開這個哨站了。你能相信想上潛艇的人少到他們直接從船廠贊助我們一艘嗎？」</tutorial.campaign.introduction.conversation_start>
+<tutorial.campaign.introduction.conversation_start>[speakername]: 「終於有機會離開這個哨站了，你能相信想上潛艇的人少到他們直接從船廠贊助我們一艘嗎？」</tutorial.campaign.introduction.conversation_start>
 <tutorial.campaign.introduction.conversation_start_reply>「我還是覺得這裡面一定有什麼陰謀...」</tutorial.campaign.introduction.conversation_start_reply>
-<tutorial.campaign.introduction.conversation_2>「就我看來倒覺得沒什麼。這不過是市場無形的大手：他們需要健康的水手來維持歐羅巴社會的運轉，這艘潛艇之前的船員又在處女航之前就把自己喝死了。這艘船交給我們沒什麼問題。」</tutorial.campaign.introduction.conversation_2>
+<tutorial.campaign.introduction.conversation_2>「我倒覺得沒什麼，這不過是市場無形的大手：他們需要健康的水手來維持歐羅巴社會的運轉，上一批人又在這艘潛艇的處女航之前就把自己喝死了，把它交給我們沒什麼問題。」</tutorial.campaign.introduction.conversation_2>
 <tutorial.campaign.introduction.conversation_2_reply>「你說了算... 我還是覺得哪裡怪怪的，不過總比待在這兒好。出發之前我們還要準備什麼嗎？」</tutorial.campaign.introduction.conversation_2_reply>
-<tutorial.campaign.introduction.conversation_3>「我們還需要一些物資才能出航。燃料棒千萬不能少，沒有它們維持潛艇的動力我也束手無策。我們得確保它們數量充足。焊接燃料罐也是一樣，沒有它們我們就無法修復船體的損傷。當然，船不受傷就沒問題，但還是以防萬一。\n我來把身上最後的存款存進我們的共用銀行帳戶裡，出一分力。」</tutorial.campaign.introduction.conversation_3>
-<tutorial.campaign.introduction.conversation_3_reply>「沒問題，我來準備物資！」</tutorial.campaign.introduction.conversation_3_reply>
+<tutorial.campaign.introduction.conversation_3>「我們還需要一些物資才能出航。燃料棒千萬不能少，沒有它們維持潛艇的動力我也束手無策，得確保它們數量充足。焊接燃料罐也是一樣，沒有它們我們就無法修復船體的損傷。當然船不受傷就沒那問題，但還是以防萬一。\n讓我把身上最後的存款存進我們的共用銀行帳戶裡出一分力。」</tutorial.campaign.introduction.conversation_3>
+<tutorial.campaign.introduction.conversation_3_reply>「沒問題，物資就交給我！」</tutorial.campaign.introduction.conversation_3_reply>
 <tutorial.campaign.introduction.conversation_4>「好極了！你上去的時候能不能順便找找有沒有什麼需要我們的工作？畢竟盲目航行沒什麼意義，要維持潛艇運作也不便宜。」</tutorial.campaign.introduction.conversation_4>
 <tutorial.campaign.introduction.conversation_4_reply>「沒問題。」</tutorial.campaign.introduction.conversation_4_reply>
 <tutorial.campaign.objective_missions>找找賺錢的方法</tutorial.campaign.objective_missions>
@@ -5151,11 +5151,11 @@
 <tutorial.campaign.objective_restock_coilgunammo>電磁槍彈藥箱</tutorial.campaign.objective_restock_coilgunammo>
 <tutorial.campaign.objective_restock_handheldammo>左輪手槍子彈</tutorial.campaign.objective_restock_handheldammo>
 <tutorial.campaign.objective_3missions>取得任務</tutorial.campaign.objective_3missions>
-<tutorial.campaign.outro.conversation_start>[speakername]: 「看來你已經習慣做這些潛艇上的例行事務了！」</tutorial.campaign.outro.conversation_start>
+<tutorial.campaign.outro.conversation_start>[speakername]: 「看來這些潛艇上的例行事務你已經做得很上手了！」</tutorial.campaign.outro.conversation_start>
 <tutorial.campaign.outro.conversation_start_reply>「目前看來，潛艇工作好像也沒那麼危險。祝我們一帆風順！」</tutorial.campaign.outro.conversation_start_reply>
-<tutorial.campaign.outro.conversation_2>「我聽說潛得愈深風險愈高。不過賺大錢的機會也比較多。沒有風險，沒有回報...」</tutorial.campaign.outro.conversation_2>
+<tutorial.campaign.outro.conversation_2>「就我所知，潛得愈深風險愈高，不過賺大錢的機會也比較多。沒有風險，沒有回報...」</tutorial.campaign.outro.conversation_2>
 <tutorial.campaign.outro.conversation_2_reply>「這讓我想要往深處邁進... 我的意思是，誰能對錢說不呢？」</tutorial.campaign.outro.conversation_2_reply>
-<tutorial.campaign.outro.conversation_3>「錢、冒險、探索未知... 算我一分，船長！」</tutorial.campaign.outro.conversation_3>
+<tutorial.campaign.outro.conversation_3>「錢、冒險、探索未知... 算我一份，船長！」</tutorial.campaign.outro.conversation_3>
 <tutorial.campaign.outro.conversation_3_reply>「開始下潛！」</tutorial.campaign.outro.conversation_3_reply>
 <campaignexittutorialoutpostprompt>你想要跳過剩下的教學並離開[locationname]嗎？</campaignexittutorialoutpostprompt>
 
@@ -5814,7 +5814,7 @@
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
 <eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，但還得由我們進行配送。一項簡單的運輸工作；這種事最適合新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
-<eventtext.missionevent_cargo1.c1>「我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，如果你們想要這份工作的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
+<eventtext.missionevent_cargo1.c1>「我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，要是你們對這份工作有興趣的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
 <eventtext.missionevent_cargo2.c1>「有一批需要被『小心運送』的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>「附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。」</eventtext.missionevent_cargo3.c1>
 <eventtext.missionevent_killswarm.c1>「這裡沒有一艘船能在離開時不遇到成群怪物，你們能處理好這個問題的話我可以給你們一些獎勵。」</eventtext.missionevent_killswarm.c1>
@@ -6481,8 +6481,8 @@
 <newcrewmembers>新船員</newcrewmembers>
 <crewhiredmessage>新招募的船員將會在你離開[location]之後加入。</crewhiredmessage>
 <campaigncrew.header>管理船員</campaigncrew.header>
-<campaigncrew.givenickname>給予綽號</campaigncrew.givenickname>
-<campaigncrew.givenicknametooltip>[mouseprimary]: 給予綽號</campaigncrew.givenicknametooltip>
+<campaigncrew.givenickname>給予暱稱</campaigncrew.givenickname>
+<campaigncrew.givenicknametooltip>[mouseprimary]: 給予暱稱</campaigncrew.givenicknametooltip>
 
 <!-- Campaign interactions -->
 <campaigninteraction.map>[[key]] 選擇航線</campaigninteraction.map>
@@ -6503,23 +6503,23 @@
 <requestdeliverybutton>請求運送</requestdeliverybutton>
 <switchtosubmarinebutton>替換</switchtosubmarinebutton>
 <purchasesubmarineheader>購買潛艇</purchasesubmarineheader>
-<purchasesubmarinetext>以[amount][currencyname]購買[submarinename]？</purchasesubmarinetext>
+<purchasesubmarinetext>以[amount][currencyname]購買「[submarinename]」？</purchasesubmarinetext>
 <purchaseandswitchsubmarineheader>購買並替換</purchaseandswitchsubmarineheader>
-<purchaseandswitchsubmarinetext>以[amount][currencyname]購買[submarinename1]並替換你目前的潛艇 ([submarinename2])？</purchaseandswitchsubmarinetext>
-<notenoughmoneyforpurchasetext>[currencyname]不足以購買[submarinename]！</notenoughmoneyforpurchasetext>
+<purchaseandswitchsubmarinetext>以[amount][currencyname]購買「[submarinename1]」並替換目前的潛艇「[submarinename2]」？</purchaseandswitchsubmarinetext>
+<notenoughmoneyforpurchasetext>[currencyname]不足以購買「[submarinename]」！</notenoughmoneyforpurchasetext>
 <deliveryrequestheader>請求運送潛艇</deliveryrequestheader>
-<deliveryrequesttext>以[amount][currencyname]將[submarinename1]自[location1]運送至你所在的[location2]並替換你目前的潛艇 ([submarinename2])？</deliveryrequesttext>
-<notenoughmoneyfordeliverytext>[currencyname]不足以將[submarinename]自[location1]運送至你所在的[location2]！</notenoughmoneyfordeliverytext>
+<deliveryrequesttext>以[amount][currencyname]將「[submarinename1]」自[location1]運送至你的所在地[location2]並替換目前的潛艇「[submarinename2]」？</deliveryrequesttext>
+<notenoughmoneyfordeliverytext>[currencyname]不足以將「[submarinename]」自[location1]運送至你的所在地[location2]！</notenoughmoneyfordeliverytext>
 <switchsubmarineheader>替換潛艇</switchsubmarineheader>
-<switchsubmarinetext>以[submarinename2]替換你目前的潛艇[submarinename1]？</switchsubmarinetext>
+<switchsubmarinetext>以「[submarinename2]」替換你目前的潛艇「[submarinename1]」？</switchsubmarinetext>
 <outpostshipyard>[location]船廠</outpostshipyard>
 <transferitems>轉移物品</transferitems>
 <itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。</itemswillbetransferred>
 <itemswontbetransferred>當前潛艇上的物品將不會被轉移至新的潛艇上並且留在原地。</itemswontbetransferred>
 <switchingbacktocurrentsub>替換回當前正在使用的潛艇，將不會轉移任何物品。</switchingbacktocurrentsub>
-<submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
-<submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
-<submarineswitchwithitemsnofeevote>想要以[submarinename]替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
+<submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
+<submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
+<submarineswitchwithitemsnofeevote>想要以「[submarinename]」替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
 <itemtransferenabledreminder>你的物品將在離開哨站時轉移至新的潛艇上。</itemtransferenabledreminder>
 <itemtransferdisabledreminder>你的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
 <toggleitemtransferprompt>你可以透過點選「轉移物品」選項以切換這項功能。</toggleitemtransferprompt>
@@ -6552,36 +6552,36 @@
 <initiatevoting>(發起投票)</initiatevoting>
 <unabletoinitiateavoteheader>無法發起投票</unabletoinitiateavoteheader>
 <votealreadyactivetext>已經有一項投票正在進行！!</votealreadyactivetext>
-<submarinepurchasevote>[playername]想要以[amount][currencyname]購買[submarinename]。</submarinepurchasevote>
-<submarinepurchaseandswitchvote>[playername]想要以[amount][currencyname]購買[submarinename]，並以其替換目前的潛艇。</submarinepurchaseandswitchvote>
-<submarineswitchfeevote>[playername]想要以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevote>
-<submarineswitchnofeevote>[playername]想要以[submarinename]替換目前的潛艇。</submarineswitchnofeevote>
-<yesvoted>你投了同意。</yesvoted>
-<novoted>你投了不同意。</novoted>
-<submarinepurchaseandswitchvotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買[submarinename]並以其替換目前的潛艇。</submarinepurchaseandswitchvotepassed>
-<submarinepurchasevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買[submarinename]。</submarinepurchasevotepassed>
-<submarineswitchfeevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotepassed>
-<submarineswitchnofeevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[submarinename]替換目前的潛艇。</submarineswitchnofeevotepassed>
-<submarinepurchaseandswitchvotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買[submarinename]並以其替換目前的潛艇。</submarinepurchaseandswitchvotefailed>
-<submarinepurchasevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買[submarinename]。</submarinepurchasevotefailed>
-<submarineswitchfeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]將潛艇[submarinename]自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotefailed>
-<submarineswitchnofeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[submarinename]替換目前的潛艇。</submarineswitchnofeevotefailed>
+<submarinepurchasevote>[playername]想要以[amount][currencyname]購買「[submarinename]」。</submarinepurchasevote>
+<submarinepurchaseandswitchvote>[playername]想要以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇。</submarinepurchaseandswitchvote>
+<submarineswitchfeevote>[playername]想要以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevote>
+<submarineswitchnofeevote>[playername]想要以「[submarinename]」替換目前的潛艇。</submarineswitchnofeevote>
+<yesvoted>你投下同意。</yesvoted>
+<novoted>你投下不同意。</novoted>
+<submarinepurchaseandswitchvotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇。</submarinepurchaseandswitchvotepassed>
+<submarinepurchasevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買「[submarinename]」。</submarinepurchasevotepassed>
+<submarineswitchfeevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotepassed>
+<submarineswitchnofeevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以「[submarinename]」替換目前的潛艇。</submarineswitchnofeevotepassed>
+<submarinepurchaseandswitchvotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇。</submarinepurchaseandswitchvotefailed>
+<submarinepurchasevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買「[submarinename]」。</submarinepurchasevotefailed>
+<submarineswitchfeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotefailed>
+<submarineswitchnofeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以「[submarinename]」替換目前的潛艇。</submarineswitchnofeevotefailed>
 <voterejectedpleasewait>你投下的前一票無效，需要等待最少 [time] 秒後你才能再次進行投票。</voterejectedpleasewait>
 
 <!-- Factions -->
 <factions>陣營</factions>
 <faction.coalition>歐羅巴聯盟</faction.coalition>
-<faction.coalition.description>實質掌握歐羅巴的專制力量，它的管轄遍佈各地且以鐵腕掌握了原料、製造、與能源。製造恐懼是它們的治理方法，將不服從它們的殖民地和哨站排除在供應鏈之外、甚至透過武力直接使其屈服都不是新聞。它們的最高目的是確保人類的存活，但不惜任何代價，且最好在不撼動它們的領導之下進行。</faction.coalition.description>
-<faction.coalition.shortdescription>實質掌握歐羅巴的專制力量，它的管轄遍佈各地且以鐵腕掌握了原料、製造、與能源。</faction.coalition.shortdescription>
+<faction.coalition.description>實質掌握歐羅巴的專制力量，他們的勢力遍佈各地且以鐵腕掌握了原料、製造、與能源。而他們的治理方針就是製造恐懼，將不服從他們的殖民地和哨站排除在供應鏈之外、甚至透過武力直接使其屈服都不是新聞。他們的最高目的是確保人類的存活，但不惜任何代價，且最好在不撼動他們的領導之下進行。</faction.coalition.description>
+<faction.coalition.shortdescription>實質掌握歐羅巴的專制力量，他們的勢力遍佈各地且以鐵腕掌握了原料、製造、與能源。</faction.coalition.shortdescription>
 <faction.clowns>小丑聖母之子</faction.clowns>
-<faction.clowns.description>每隔一段時間，那些流浪藝人、傻瓜、和小丑就會試著組織工會，那陣子「歐羅巴雜技協會」之類的組織就會出現。但實際上小丑聖母之子不過只是群聽從自行車喇叭召喚的烏合之眾。</faction.clowns.description>
-<faction.clowns.shortdescription>小丑聖母之子純粹是群聽從自行車喇叭召喚的烏合之眾。</faction.clowns.shortdescription>
+<faction.clowns.description>每隔一段時間，那些流浪藝人、傻瓜、和小丑們就會試著組織工會，那陣子「歐羅巴雜技協會」之類的組織就會出現。但實際上小丑聖母之子不過只是群追尋自行車喇叭召喚的烏合之眾。</faction.clowns.description>
+<faction.clowns.shortdescription>小丑聖母之子純粹是群追尋自行車喇叭召喚的烏合之眾。</faction.clowns.shortdescription>
 <faction.separatists>木星分離主義者</faction.separatists>
 <faction.separatists.description>一個不擇手段追求更加民主的社會的小規模地下組織，他們會發動示威甚至是恐怖行動，旨在干擾聯盟的運作並削弱它的權威。</faction.separatists.description>
 <faction.separatists.shortdescription>一個不擇手段追求更加民主的社會的小規模地下組織，他們會發動示威甚至是恐怖行動。</faction.separatists.shortdescription>
 <faction.huskcult>畫皮教會</faction.huskcult>
-<faction.huskcult.description>遊走法外，帶著超人類主義的神祕信仰團體，他們尋求與畫皮寄生蟲進行「交流」以恭迎更適於生存在這個嚴峻的環境、更能融入生態系統、且屏除傲慢、憎恨、恐懼、或過多思考能力的新人類。不論是聯盟或是分離主義分子都對他們沒有好感。</faction.huskcult.description>
-<faction.huskcult.shortdescription>一個尋求與畫皮寄生蟲進行「交流」以恭迎更適於生存在這個嚴峻的環境、更能融入生態系統的新人類的信仰團體。</faction.huskcult.shortdescription>
+<faction.huskcult.description>遊走法外，帶著超人類主義的神祕信仰團體，他們尋求與畫皮寄生蟲進行「交融」以恭迎更適於生存在這個嚴峻的環境、更能融入生態系統、且屏除傲慢、憎恨、恐懼、或過多顧慮的新人類。不論是聯盟或是分離主義分子都對他們沒有好感。</faction.huskcult.description>
+<faction.huskcult.shortdescription>一個尋求與畫皮寄生蟲進行「交融」以恭迎更適於生存在這個嚴峻的環境、更能融入生態系統的新人類的信仰團體。</faction.huskcult.shortdescription>
 <reputation>聲望</reputation>
 <reputationformat>[reputationname] ([reputationvalue])</reputationformat>
 <reputationverylow>敵對</reputationverylow>
@@ -6591,7 +6591,7 @@
 <reputationveryhigh>尊敬</reputationveryhigh>
 <reputationgainnotification>[value] [reputationname]聲望值</reputationgainnotification>
 
-<!-- Campaign meta texts -->
+<!-- Campaign meta texts --><!-- old? -->
 <campaignstart>20世紀末期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
 <campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
 <campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
@@ -7339,3 +7339,50 @@
 <stattypenames.maxflow>最大流量</stattypenames.maxflow>
 
 <!-- </infotexts> -->
+
+  <!-- EnglishVanillaNew.xml -->
+<!-- edited by nokau for v0.1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- Modified values after January 11 (These are missing from the latest localization pass) -->
+  
+<entitydescription.morbusine>一種強效的神經毒素，最終會導致肺部和肌肉停止擺，有效地阻礙運動。</entitydescription.morbusine>
+<entitydescription.cyanide>一種高毒性化學物，一旦給予足夠劑量就會導致迅速死亡。</entitydescription.cyanide>
+<entitydescription.radiotoxin>一種高放射性物質，會導致輻射病，最終使內臟器官液化。</entitydescription.radiotoxin>
+<entitydescription.sufforin>一種善於隱身的神經毒素，中毒初期沒有症狀。會導致失明，最終死亡。</entitydescription.sufforin>
+
+<!-- New values after January 11 (These are missing from the latest localization pass) -->
+
+<sp.turret.AutoOperate.name>自動操作</sp.turret.AutoOperate.name>
+<sp.turret.AutoOperate.description>此砲塔是否使用AI自動操作？以下為其可調整的選用隨機動態。</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.name>隨機瞄準量</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimAmount.description>[自動操作] 砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.name>隨機瞄準最短時間</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMinTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.name>隨機瞄準最長時間</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomAimMaxTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.name>隨機動作</sp.turret.RandomMovement.name>
+<sp.turret.RandomMovement.description>[自動操作] 砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.name>瞄準延遲</sp.turret.AimDelay.name>
+<sp.turret.AimDelay.description>[自動操作] 砲塔對目標進行瞄準時是否延遲而非完美地進行瞄準？</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.name>角色目標</sp.turret.TargetCharacters.name>
+<sp.turret.TargetCharacters.description>[自動操作] 砲塔是否將角色設為目標？</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.name>怪物目標</sp.turret.TargetMonsters.name>
+<sp.turret.TargetMonsters.description>[自動操作] 砲塔是否將怪物設為目標？</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.name>人類目標</sp.turret.TargetHumans.name>
+<sp.turret.TargetHumans.description>[自動操作] 砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetSubmarines.description>[自動操作] 砲塔是否將潛艇設為目標？</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
+<sp.turret.TargetItems.description>[自動操作] 砲塔是否將物品設為目標？</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
+<sp.turret.FriendlyTag.description>[自動操作] 在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
+  
+<sp.greatercomponent.output.description>當signal_in1所收到的數值大於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>當signal_in1所收到的數值小於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.falseoutput.description>
+
+<beaconstationplacement>置於天花板</beaconstationplacement>
+
+</infotexts>
