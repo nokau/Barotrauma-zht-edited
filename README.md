@@ -25,7 +25,9 @@
 - NPC對話
 
 ### 備註
-- 部分物件名稱與官方繁體中文文本有極大差異。
+- 若要進行連線遊戲，可能需要全部玩家的遊戲檔案一致。
+- 連線相關的內容，包括錯誤訊息、伺服器管理等，較不如其他部分齊全/正確。
+- 部分物件名稱與原始文本有極大差異。
 - ~~潛艇編輯器中物件的細部設定、功能元件 (Wifi、Sin、Cos...等等) 的細部設定尚為英文。~~
 - 自遊戲版本 v0.21.6.0 後潛艇編輯器中的物件、細部設定等已有翻譯。
 - 保留功能元件英文名稱 (Wifi、Sin、Cos...等等)。
@@ -33,23 +35,23 @@
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 
 # 專案中的檔案
-在此專案中的 [current_version](./current_version) 資料夾裡，共有 6 個檔案:
+在此專案中的 [current_version](./current_version) 資料夾裡，共有 6 個檔案，分別為
 
+### NPC對話:
+
+遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 - **NpcConversations_TraditionalChinese.xml**
-  - 這個檔案包含了編輯過的NPC對話。
-  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 
-- **TraditionalChineseVanilla.xml**
-  - 這個檔案包含了 EnglishVanilla.xml、EnglishVanillaNew.xml 的檔案內容，為任務與UI等文本。
-  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- **TraditionalChineseVanillaEditorTexts.xml**
-  - 這個檔案包含了與編輯器相關的文本內容。
-  - 在遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
+### 其他文字:
 
-- 若想要與英文文本檔案進行對照，資料夾中也附有我編輯時使用的3個檔案:
-  - **TCVanilla.xml**
-  - **TCVanillaEditorTexts.xml**
-  - **TCVanillaNew.xml**
+遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
+- **TraditionalChineseVanilla.xml** - 遊戲UI、物品、任務
+  - 此為 ~Vanilla.xml 與 ~VanillaNew.xml 內容合併後的檔案。
+- **TraditionalChineseVanillaEditorTexts.xml** - 編輯器相關內容、UI
+- **TraditionalChineseVanillaEndgame.xml** - 故事特殊段落
+- **TraditionalChineseVanillaFactions.xml** - 陣營相關內容
+
+在此專案的舊版本資料夾內，除NPC對話外，其餘 .xml 檔案為我進行編輯時使用的檔案，與遊戲檔案名稱與內容有所出入。
 
 # 推薦工具
 - Notepad++
