@@ -45,11 +45,11 @@
 ### 其他文字:
 
 遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- **TraditionalChineseVanilla.xml** - 遊戲UI、物品、任務
-  - 此為 ~Vanilla.xml 與 ~VanillaNew.xml 內容合併後的檔案。
-- **TraditionalChineseVanillaEditorTexts.xml** - 編輯器相關內容、UI
-- **TraditionalChineseVanillaEndgame.xml** - 故事特殊段落
-- **TraditionalChineseVanillaFactions.xml** - 陣營相關內容
+- **TraditionalChineseVanilla.xml** - 遊戲UI、物品、任務等文字
+  - 此為 ~Vanilla.xml 與 ~VanillaNew.xml 內容合併後的檔案
+- **TraditionalChineseVanillaEditorTexts.xml** - 編輯器相關內容、UI等文字
+- **TraditionalChineseVanillaEndgame.xml** - 故事特殊段落文字
+- **TraditionalChineseVanillaFactions.xml** - 陣營相關內容文字
 
 在此專案的舊版本資料夾內，除NPC對話外，其餘 .xml 檔案為我進行編輯時使用的檔案，與遊戲檔案名稱與內容有所出入。
 
