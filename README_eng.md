@@ -23,9 +23,11 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - NPC conversations
 
 ### Notes
-- Very different translations for some of the items and devices.
+- For online, it seems that the game requires all players and the host to have the same game files.
+- For online, texts like error messages, server managments, etc., might be way less complete/correct than other parts of the game.
+- Name differences for some items and devices.
 -	~~The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.~~
-- Since game version v0.21.6.0, the Editor UIs and item parameters are now translated.
+- Since game version v0.21.6.0, the Editor UIs and item parameters are now mostly translated.
 - Component names (Wifi, Sin, Cos, etc.) are un-translated.
 - Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
@@ -33,20 +35,19 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 # Project files
 Inside this project's [current_version](./current_version) folder, there are 6 files in total:
 
-- **NpcConversations_TraditionalChinese.xml**
-  - This file contains edited lines of NPC conversations.
-  - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
+### NPC conversations:
 
-- **TraditionalChineseVanilla.xml**
-  - This file is EnglishVanilla.xml and EnglishVanillaNew.xml merged, containing events, item names, and such.
-  - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- **TraditionalChineseVanillaEditorTexts.xml**
-  - This file contains Editor related texts.
-  - The game's file is located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
-- If you are interested in editing or comparing side-by-side with the English flies, in the same folder there are 3 files I use for editing:
-  - **TCVanilla.xml**
-  - **TCVanillaEditorTexts.xml**
-  - **TCVanillaNew.xml**
+Game file located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
+- **NpcConversations_TraditionalChinese.xml**
+
+### Other texts:
+
+Game file located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
+- **TraditionalChineseVanilla.xml** - Gameplay UI, items, events, etc.
+  - This file is a combination of ~Vanilla.xml and ~VanillaNew.xml
+- **TraditionalChineseVanillaEditorTexts.xml** - Editor related items, UI, etc.
+- **TraditionalChineseVanillaEndgame.xml** - Story related texts
+- **TraditionalChineseVanillaFactions.xml** - Faction related texts
 
 # Recommended Tools
 - Notepad++
