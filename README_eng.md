@@ -23,8 +23,8 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - NPC conversations
 
 ### Notes
-- For online, it seems that the game requires all players and the host to have the same game files.
-- For online, texts like error messages, server managments, etc., might be way less complete/correct than other parts of the game.
+- For multiplayer, the game seems to require all players/host to have the same game/some mod files.
+- Multiplayer texts like error messages, server managments, etc., might be way less complete/correct than other parts of the game.
 - Name differences for some items and devices.
 -	~~The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.~~
     - Since game version v0.21.6.0, Editor UI and item parameters are now mostly translated.
