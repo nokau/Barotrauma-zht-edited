@@ -40,13 +40,13 @@
 <missiondescription.radiationescapee>一名認為木星輻射即將穿透冰層毀滅所在哨站的居民開價將他送到更深海中的哨站上。</missiondescription.radiationescapee>
 <missionsuccess.escortgeneric>成功運送人員。</missionsuccess.escortgeneric>
 <missionfailure.escortgeneric>並未將人員送達目的地。</missionfailure.escortgeneric>
-<eventtext.radiationescapee.c1>一位神情緊張的人抓住了你的手臂。「嘿、嘿！你從那艘剛靠岸的潛艇來的對吧？幫幫我，拜託！可以問一下，你的下個目的地嗎？」</eventtext.radiationescapee.c1>
+<eventtext.radiationescapee.c1>一位神情緊張的人抓住了你的手臂。「嘿、嘿！你從那艘剛靠岸的潛艇來的對吧？幫幫我，拜託！方便問一下你的下個目的地嗎？」</eventtext.radiationescapee.c1>
 <eventtext.radiationescapee.o1>「那得看我們的任務要我們去哪。怎麼了？」</eventtext.radiationescapee.o1>
 <eventtext.radiationescapee.o1.c1>「我得逃出這裡，不能再等了！老實說，每個人都該逃，他們已經不願意面對現實太久了，根本沒有意識到不久之後木星輻射也會把這裡吞噬。」</eventtext.radiationescapee.o1.c1>
 <eventtext.radiationescapee.o1.o1>「希望更多人能注意到。」</eventtext.radiationescapee.o1.o1>
-<eventtext.radiationescapee.o1.o1.c1>「對吧？總之我猜你往深處前進就是要躲開它吧？拜託，帶上我，我不會妨礙你們工作！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o1.c1>
-<eventtext.radiationescapee.o1.o2>「別緊張兮兮。輻射總是來來去去的；我敢說一陣子就又沒事了。」</eventtext.radiationescapee.o1.o2>
-<eventtext.radiationescapee.o1.o2.c1>「或許吧，但是以它目前的速度去我們在它消退前就先完蛋了。我不管你覺得我說得對不對，如果你要往更深處前進，帶上我，我保證不會礙到你們！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o2.c1>
+<eventtext.radiationescapee.o1.o1.c1>「對吧？總之我猜你們往深處前進就是要躲開它吧？拜託，帶上我，我不會妨礙你們工作！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o1.c1>
+<eventtext.radiationescapee.o1.o2>「別緊張兮兮。輻射總是來來去去的，我敢說一陣子就又沒事了。」</eventtext.radiationescapee.o1.o2>
+<eventtext.radiationescapee.o1.o2.c1>「或許吧，但是以它目前的速度，我們在它消退前就要先完蛋了。我不管你覺得我說得對不對，但如果你是要往更深處前進，帶上我，我保證不會礙到你們！我付你1,000馬克把我帶到下個哨站！」</eventtext.radiationescapee.o1.o2.c1>
 <eventtext.radiationescapee.great>「謝謝、謝謝！」他感嘆地說。「你救了我一命！」</eventtext.radiationescapee.great>
 <missiondescription.researcherescort>一名相信歐羅巴之眼和木星輻射周圍重力異常現象有關聯性的研究員出價[reward]馬克將他送往附近的哨站。</missiondescription.researcherescort>
 <eventtext.researcherescort.c1>「打擾一下，你是從那艘剛停靠的潛艇上下來的吧？會不會碰巧你們將往深處區域航行？」</eventtext.researcherescort.c1>
