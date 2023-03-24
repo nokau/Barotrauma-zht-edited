@@ -77,7 +77,7 @@
 <missionname.cargoweaponscoalition>運送武器</missionname.cargoweaponscoalition>
 <missiondescription.cargoweaponscoalition>聯盟派出了幾名臥底在[location2]調查分離主義者的動態。他們亟需武器和彈藥──將物資送達以獲得[reward]馬克的獎勵。</missiondescription.cargoweaponscoalition>
 <missionsuccess.cargoweaponscoalition>武器已被成功送達。</missionsuccess.cargoweaponscoalition>
-<EventText.missionevent_cargoweaponscoalition.c1>「我這兒有一項重要任務。聯盟派了幾名臥底在附近的哨站上調查分離主義者的動態。細節我最好還是別說了，總之我們得運送一批武器和彈藥。把它們送過去，這對聯盟而言是重大貢獻，當然我們也會付上酬勞。」</EventText.missionevent_cargoweaponscoalition.c1>
+<EventText.missionevent_cargoweaponscoalition.c1>「我這兒有一項重要任務。聯盟派了幾名臥底在附近的哨站上調查分離主義者的動態。細節我最好還是別說了，總之我們得運送一批武器和彈藥。把它們送過去，這對聯盟而言是重大貢獻，當然我們也會附上酬勞。」</EventText.missionevent_cargoweaponscoalition.c1>
 <missionname.pirate1separatists>聯盟艦艇</missionname.pirate1separatists>
 <missiondescription.pirate1separatists>找到並殲滅在這個區域中橫行霸道的聯盟艦艇，標示的地點為最後一次目擊他們的位置。</missiondescription.pirate1separatists>
 <missionsuccess.pirate1separatists>成功殲滅聯盟艦艇船員。</missionsuccess.pirate1separatists>
@@ -342,11 +342,11 @@
 <eventtext.coalitionspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.coalitionspecialhire1.o1.o2.repeat>
 <EventText.youngcultists.c1>幾個穿著長袍的人圍在一個躺在地上的人身邊。那個人劇烈地抽搐，仿佛是癲癇發作──你沒辦法確定周圍的人是在抑制他的顫抖或是在為他做心肺復甦。其中一位穿著長袍的人注意到了你。「嘿，你！從那個櫃子裡拿管皮蟲淨丟給我！」</EventText.youngcultists.c1>
 <EventText.youngcultists.o1>從櫃子裡拿藥丟給他們。</EventText.youngcultists.o1>
-<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過你多少遍你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過多少遍，你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
 <EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
-<EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「剛才算是一場小型急救吧。我們的朋友想說...來點刺激的會很好玩，你懂吧。感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「只是一場小型急救罷了，我們的朋友想說...來點刺激的會很好玩，你懂的，感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，否則我要去報案了。」</EventText.youngcultists.o1.o1.o1>
-<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了。但我們制住他了，一切安好。沒有下次了。不需要知會整個哨站，或是我們的教會。要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了，但我們制住他了，一切安好、沒有下次了，沒必要讓整個哨站或是我們的教會知道，要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1.o1>「教會？你們是畫皮教會的人？我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o1.o1>
 <EventText.youngcultists.o1.o1.o1.o1.c1>「寄生蟲？寄生蟲只知索取；畫皮則會給予！它能讓你超越被稱為人類肉體那臭皮囊的限制！但不是像剛才那樣，你得做好準備才有辦法接受它。或者...至少教士是這樣說的。」</EventText.youngcultists.o1.o1.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1.o1.o1>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o1.o1.o1>
