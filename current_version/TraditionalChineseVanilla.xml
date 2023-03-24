@@ -287,7 +287,7 @@
 <Ugc.TransferButton>移動</Ugc.TransferButton>
 <Ugc.Transferring>正在移動Mod...</Ugc.Transferring>
 <Ugc.TransferComplete>Mod完成移動。</Ugc.TransferComplete>
-<DeterminingRequiredModUpdates>正在偵測那些Mod需要更新...</DeterminingRequiredModUpdates>
+<DeterminingRequiredModUpdates>正在偵測哪些Mod需要更新...</DeterminingRequiredModUpdates>
 <PreparingWorkshopDownloads>正在準備Steam工作坊下載...</PreparingWorkshopDownloads>
 <PlayerIsDownloadingFiles>這位玩家正在從伺服器下載檔案。</PlayerIsDownloadingFiles>
 <ModFilter.ShowLocal>顯示本機Mod</ModFilter.ShowLocal>
@@ -2103,7 +2103,7 @@
 <entityname.bodyarmor>護甲</entityname.bodyarmor>
 <entitydescription.bodyarmor>雖然不足以抵禦水下大部分的原生動物，但在船上有叛徒的後非常有用。</entitydescription.bodyarmor>
 <entityname.ballistichelmet1>頭盔</entityname.ballistichelmet1>
-<entitydescription.ballistichelmet1>雖然不足以抵禦水下大部分的原生動物，但在船上有叛徒的後非常有用。</entitydescription.ballistichelmet1>
+<entitydescription.ballistichelmet1>雖然不足以抵禦水下大部分的原生動物，但在船上出現叛徒的時後非常有用。</entitydescription.ballistichelmet1>
 <entityname.handcuffs>手銬</entityname.handcuffs>
 <entitydescription.handcuffs>能有效地約束問題玩家。</entitydescription.handcuffs>
 <entityname.riotshield>鎮暴盾牌</entityname.riotshield>
@@ -5813,11 +5813,11 @@
 <eventtext.huskcultambush.o2>「放鬆，親愛的兄弟姊妹們，我昇華的時刻未到。」</eventtext.huskcultambush.o2>
 <eventtext.huskcultambush.o2.c1>他們停下動作並為他們的舉動道歉，然後你們三個一起去喝了杯爬行者雞尾酒，一笑置之。他們向你分享了一些哨站上的情報。</eventtext.huskcultambush.o2.c1>
 <eventtext.huskcultambush.o2.c2>那兩人各抽出一把鋒利的刀朝你接近。</eventtext.huskcultambush.o2.c2>
-<eventtext.missionevent_cargo_campaignstart.c1>「我們賣了一些工程用的基礎原料給了附近的哨站，但還得由我們進行配送。一項簡單的運輸工作；這種事最適合新船員了。你們說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
-<eventtext.missionevent_cargo1.c1>「我們雇用了一組船員來運送這些材料，但是他們一直沒有出現，要是你們對這份工作有興趣的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
-<eventtext.missionevent_cargo2.c1>「有一批需要被『小心運送』的貨物正放在貨物區裡，通常我不會讓新面孔做這些事，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
+<eventtext.missionevent_cargo_campaignstart.c1>「我們賣給了附近的哨站一些工程用的基礎原料，但也得由我們進行配送。一項簡單的運輸工作，這種事最適合新船員了，你說呢？」</eventtext.missionevent_cargo_campaignstart.c1>
+<eventtext.missionevent_cargo1.c1>「我們雇了一組船員來運送一些原料，但是他們一直沒有出現。要是你們對這份工作有興趣的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
+<eventtext.missionevent_cargo2.c1>「貨物區裡有批需要被『小心運送』的貨物，通常我不會把這種工作交給新面孔，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>「附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。」</eventtext.missionevent_cargo3.c1>
-<eventtext.missionevent_killswarm.c1>「這裡沒有一艘船能在離開時不遇到成群怪物，你們能處理好這個問題的話我可以給你們一些獎勵。」</eventtext.missionevent_killswarm.c1>
+<eventtext.missionevent_killswarm.c1>「這裡沒有一艘船能在離開時不遇到成群怪物，你們能解決這個問題的話我可以給你們一些獎勵。」</eventtext.missionevent_killswarm.c1>
 <eventtext.missionevent_killmonstercommon.c1>「有一隻特別凶猛的怪物在騷擾這附近的隧道，我準備了一些獎勵要給那些能夠消滅牠的船員們。」</eventtext.missionevent_killmonstercommon.c1>
 <eventtext.missionevent_killmonsterrare.c1>「據報附近某處有一隻巨大的怪物，如果你們想試著獵捕它，不需要客氣，但確定你們都做好了準備，牠很危險。」</eventtext.missionevent_killmonsterrare.c1>
 <eventtext.missionevent_salvageartifact.c1>「我們收到了一個從附近發送的信號，科學家們說那可能是什麼異星東西。如果你們能去看看，我們會給你一些馬克。」</eventtext.missionevent_salvageartifact.c1>
@@ -6012,7 +6012,7 @@
 <eventtext.shockjock.o1.o3.c1>「你想抱怨你的哨站變成了廢墟？拿出你的錢，交給我們！總而言之我如果是領導人我一定會說這些話。」</eventtext.shockjock.o1.o3.c1>
 <eventtext.shockjock.o1.c4>「一堆狗屎，別去信那個廣播裡的胡言亂語。」</eventtext.shockjock.o1.c4>
 <eventtext.shockjock.o1.o4>「那個電台是怎麼回事？」</eventtext.shockjock.o1.o4>
-<eventtext.shockjock.o1.o4.c1>「只是一個不知道隱居在哪的怪人的破爛電台。沒人知道他在哪，不然一定會有人去阻止他，這傢伙讓每個人都很不爽。」</eventtext.shockjock.o1.o4.c1>
+<eventtext.shockjock.o1.o4.c1>「只是一個不知道隱居在哪的怪人的破爛電台。沒人知道他在哪，不然一定會有人去阻止他，那傢伙讓每個人都很不爽。」</eventtext.shockjock.o1.o4.c1>
 <eventtext.assassinationofjacovsubra1.c1>(嗯？這是什麼？)</eventtext.assassinationofjacovsubra1.c1>
 <eventtext.assassinationofjacovsubra1.o1>查看ID卡。</eventtext.assassinationofjacovsubra1.o1>
 <eventtext.assassinationofjacovsubra1.o1.c1>(這張ID卡是一位Jacov Subra的，我是不是在哪裡聽過這個名字？算了。)</eventtext.assassinationofjacovsubra1.o1.c1>
@@ -6142,7 +6142,7 @@
 <eventtext.bombscare.o1.o1.o1.c1.o1.c2>出乎你意料之外，那堆廢品被接上了一個計時器。你將把它轉向，計時器上顯示著「00:01」。</eventtext.bombscare.o1.o1.o1.c1.o1.c2>
 <eventtext.bombscare.o1.o1.o1.c1.o1.o1>找掩護。</eventtext.bombscare.o1.o1.o1.c1.o1.o1>
 <eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1>你丟下炸彈並迅速地趴到地上、雙手抱頭。幾秒鐘過去了，什麼都沒發生。你小心翼翼地站起身並拍掉身上的灰塵。看來這是顆啞彈。之前那位守衛應該會對這個很有興趣。</eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1>
-<eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>你向他報告在走廊發現了一顆炸彈，守衛也隨即採取行動。他對你的義舉表示了感謝。</eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>
+<eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>你向對方報告在走廊發現了一顆炸彈，守衛也隨即採取行動。他們對你的義舉表示感謝。</eventtext.bombscare.o1.o1.o1.c1.o1.o1.c1.c1>
 <eventtext.bombscare.o1.o2>離開警衛。</eventtext.bombscare.o1.o2>
 <eventtext.terrorism101.c1>你看到一個人蹲在自動販賣機旁正在組裝或修理什麼東西。</eventtext.terrorism101.c1>
 <eventtext.terrorism101.o1>看看他在幹嘛。</eventtext.terrorism101.o1>
@@ -6274,15 +6274,15 @@
 <EventText.occupationalhazards.o1.o1>「差不多。」</EventText.occupationalhazards.o1.o1>
 <EventText.occupationalhazards.o1.o1.c1>他笑了幾聲，「一看就知道，但你如果是想到礦坑裡去，還是算了吧。」他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1>「礦坑裡怎麼了？」</EventText.occupationalhazards.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.c1>「呃。」那位工人打了個嗝，然後繼續說:「我敢說礦工都沒什麼腦子，但沒人會在繁殖季到下面去。」</EventText.occupationalhazards.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.c1>「呃，」一個嗝打斷了他的話，他繼續說：「我敢說礦工都沒什麼腦子，但沒人會在繁殖季到下面去。」</EventText.occupationalhazards.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1>「繁殖季？」</EventText.occupationalhazards.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人發出了一聲嘟噥回應你的話。「但是老闆說『挖』你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。」</EventText.occupationalhazards.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人嘟噥一聲表示肯定。「但是老闆說『挖』你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。」</EventText.occupationalhazards.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1>「你挖到什麼了？」</EventText.occupationalhazards.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>「蛋。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>「蛋？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>「泥偶迅猛龍蛋。現在礦坑裡滿滿都是生氣的迅猛龍家長。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>「那，如果把牠們趕走會有獎勵嗎？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他在也在礦坑裡。」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還剩一部分在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他也在礦坑裡。」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還有一部分在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>起身離開。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>你向他道別，讓他享受自己的寧靜。你思考著自己是否能在礦坑中找到Rudy的屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你發現了一具穿著礦工服裝的殘破屍體，名牌上寫著「Rudy」。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
@@ -7340,7 +7340,7 @@
 
 <!-- </infotexts> -->
 
-  <!-- EnglishVanillaNew.xml -->
+<!-- EnglishVanillaNew.xml -->
 <!-- edited by nokau for v0.1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
