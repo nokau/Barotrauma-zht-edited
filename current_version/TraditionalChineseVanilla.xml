@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
@@ -1753,7 +1753,7 @@
 <missionmessage0.abandonedoutpostrescue>人質已經安全地登上潛艇。與哨站分離以完成任務。</missionmessage0.abandonedoutpostrescue>
 <hostageskilled>任務失敗；一位人質已被殺害。</hostageskilled>
 <missionname.abandonedoutposthusks>收復哨站</missionname.abandonedoutposthusks>
-<missiondescription.abandonedoutposthusks>與[location1]的通訊在近日中斷。我們懷疑畫皮教會的一支極端分支在那裏舉辦了一場昇華儀式。清除畫皮與邪教人員。</missiondescription.abandonedoutposthusks>
+<missiondescription.abandonedoutposthusks>與[location1]的通訊在近日中斷。我們懷疑畫皮教會的一支極端分支在那裡舉辦了一場昇華儀式。清除畫皮與邪教人員。</missiondescription.abandonedoutposthusks>
 <missionsuccess.abandonedoutposthusks>哨站中的儀式被成功中斷。</missionsuccess.abandonedoutposthusks>
 <missionfailure.abandonedoutposthusks>哨站依舊被佔據著。</missionfailure.abandonedoutposthusks>
 <missionheader0.abandonedoutposthusks>儀式中斷</missionheader0.abandonedoutposthusks>
@@ -5817,7 +5817,7 @@
 <eventtext.missionevent_cargo1.c1>「我們雇了一組船員來運送一些原料，但是他們一直沒有出現。要是你們對這份工作有興趣的話那些東西還在這裡。」</eventtext.missionevent_cargo1.c1>
 <eventtext.missionevent_cargo2.c1>「貨物區裡有批需要被『小心運送』的貨物，通常我不會把這種工作交給新面孔，但我聽說你們的評價不錯。」</eventtext.missionevent_cargo2.c1>
 <eventtext.missionevent_cargo3.c1>「附近的哨站非常需要這些研究用材料，它們必須被完好無損地送達目的地。」</eventtext.missionevent_cargo3.c1>
-<eventtext.missionevent_killswarm.c1>「這裡沒有一艘船能在離開時不遇到成群怪物，你們能解決這個問題的話我可以給你們一些獎勵。」</eventtext.missionevent_killswarm.c1>
+<eventtext.missionevent_killswarm.c1>「這裡沒有一艘船能在離開時不遇到成群怪物，要是你們能解決這個問題，我們會提供獎勵。」</eventtext.missionevent_killswarm.c1>
 <eventtext.missionevent_killmonstercommon.c1>「有一隻特別凶猛的怪物在騷擾這附近的隧道，我準備了一些獎勵要給那些能夠消滅牠的船員們。」</eventtext.missionevent_killmonstercommon.c1>
 <eventtext.missionevent_killmonsterrare.c1>「據報附近某處有一隻巨大的怪物，如果你們想試著獵捕它，不需要客氣，但確定你們都做好了準備，牠很危險。」</eventtext.missionevent_killmonsterrare.c1>
 <eventtext.missionevent_salvageartifact.c1>「我們收到了一個從附近發送的信號，科學家們說那可能是什麼異星東西。如果你們能去看看，我們會給你一些馬克。」</eventtext.missionevent_salvageartifact.c1>
@@ -5899,7 +5899,7 @@
 <eventtext.consultant.o1.o1.c1.o2>「漏的是哪種氣體？」</eventtext.consultant.o1.o1.c1.o2>
 <eventtext.consultant.o1.o1.c1.o2.c1>「氣化汞，它無色無味，能夠瞬間讓你法呼吸。」</eventtext.consultant.o1.o1.c1.o2.c1>
 <eventtext.consultant.o1.o1.c1.o2.o1>想辦法減少暴露在這種氣體之中。</eventtext.consultant.o1.o1.c1.o2.o1>
-<eventtext.consultant.o1.o1.c1.o2.o1.c1>「服用以鐵、安定素、爬行者肝臟合成的藥物應該能讓汞不對你們的肺造成影響，每六小時兩錠。」工頭感謝你提供建議。你從行政官那裏到了一筆不小的獎勵。</eventtext.consultant.o1.o1.c1.o2.o1.c1>
+<eventtext.consultant.o1.o1.c1.o2.o1.c1>「服用以鐵、安定素、爬行者肝臟合成的藥物應該能讓汞不對你們的肺造成影響，每六小時兩錠。」工頭感謝你提供建議。你從行政官那裡收到了一筆不小的獎勵。</eventtext.consultant.o1.o1.c1.o2.o1.c1>
 <eventtext.consultant.o1.o1.c1.o2.o1.c2>你想不到任何能解決這個狀況的方法。</eventtext.consultant.o1.o1.c1.o2.o1.c2>
 <eventtext.consultant.o1.o1.c1.o2.o2>討價還價壓低礦工們要求的風險作業津貼。</eventtext.consultant.o1.o1.c1.o2.o2>
 <eventtext.consultant.o1.o1.c1.o2.o2.c1>你成功地解釋不會每個人都有辦法拿到津貼。這可能會使許多礦工辭去這份工作並讓留下的人工作負擔倍增，但你能拿到一筆不小的顧問費。</eventtext.consultant.o1.o1.c1.o2.o2.c1>
@@ -5907,7 +5907,7 @@
 <eventtext.consultant.o1.o1.c1.o3>「跟我解釋一下通風的問題吧。」</eventtext.consultant.o1.o1.c1.o3>
 <eventtext.consultant.o1.o1.c1.o3.c1>「那些通風管一路通到餐廳和居住區域，所以我們沒辦法直接用它來排掉氣體。我不知道是誰把管路做成這樣的，但我想和他們好好談談。」</eventtext.consultant.o1.o1.c1.o3.c1>
 <eventtext.consultant.o1.o1.c1.o3.o1>試著解決換氣系統的問題。</eventtext.consultant.o1.o1.c1.o3.o1>
-<eventtext.consultant.o1.o1.c1.o3.o1.c1>你研究了下通風管地圖，「如果在這個地方加裝一個額外的過濾系統呢？」你指著一處居住區附近的管道交會處提出建議，「這樣應該就能在汞擴散之前完全將它排出去。」你的判斷沒有錯。你從行政官那裏到了一筆不小的獎勵。</eventtext.consultant.o1.o1.c1.o3.o1.c1>
+<eventtext.consultant.o1.o1.c1.o3.o1.c1>你研究了下通風管地圖，「如果在這個地方加裝一個額外的過濾系統呢？」你指著一處居住區附近的管道交會處提出建議，「這樣應該就能在汞擴散之前完全將它排出去。」你的判斷沒有錯。你從行政官那裡收到了一筆不小的獎勵。</eventtext.consultant.o1.o1.c1.o3.o1.c1>
 <eventtext.consultant.o1.o1.c1.o3.o1.c2>你想不到任何能解決這個狀況的方法。</eventtext.consultant.o1.o1.c1.o3.o1.c2>
 <eventtext.consultant.o1.o1.c1.o3.o2>討價還價壓低礦工們要求的風險作業津貼。</eventtext.consultant.o1.o1.c1.o3.o2>
 <eventtext.consultant.o1.o1.c1.o3.o2.c1>你成功地解釋不會每個人都有辦法拿到津貼。這可能會使許多礦工辭去這份工作並讓留下的人工作負擔倍增，但你能拿到一筆不小的顧問費。</eventtext.consultant.o1.o1.c1.o3.o2.c1>
@@ -6272,17 +6272,17 @@
 <EventText.occupationalhazards.o1>加入他。</EventText.occupationalhazards.o1>
 <EventText.occupationalhazards.o1.c1>你坐在他身旁的位子上。他向你點了點頭，「來工作的？」</EventText.occupationalhazards.o1.c1>
 <EventText.occupationalhazards.o1.o1>「差不多。」</EventText.occupationalhazards.o1.o1>
-<EventText.occupationalhazards.o1.o1.c1>他笑了幾聲，「一看就知道，但你如果是想到礦坑裡去，還是算了吧。」他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.c1>他笑了幾聲。「一看就知道，但你如果是想到礦坑裡去，還是算了吧。」他說完之後一口喝光了他的飲料。</EventText.occupationalhazards.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1>「礦坑裡怎麼了？」</EventText.occupationalhazards.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.c1>「呃，」一個嗝打斷了他的話，他繼續說：「我敢說礦工都沒什麼腦子，但沒人會在繁殖季到下面去。」</EventText.occupationalhazards.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.c1>「呃，」一個嗝打斷了他的話，他接著說：「那裡現在一個礦工都沒有，我很確定。沒人會在繁殖季到下面去。」</EventText.occupationalhazards.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1>「繁殖季？」</EventText.occupationalhazards.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人嘟噥一聲表示肯定。「但是老闆說『挖』你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。」</EventText.occupationalhazards.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.c1>那位工人哼了一聲表示肯定。「但是老闆說『挖』你就得挖，不然你就會餓死。所以我挖了又挖，直到我挖到東西為止。」</EventText.occupationalhazards.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1>「你挖到什麼了？」</EventText.occupationalhazards.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>「蛋。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>「蛋？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>「泥偶迅猛龍蛋。現在礦坑裡滿滿都是生氣的迅猛龍家長。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>「那，如果把牠們趕走會有獎勵嗎？」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1>
-<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑，「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他也在礦坑裡。」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還有一部分在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>那個男人大笑。「當然沒有，你以為你是誰，什麼怪物獵人嗎？Rudy或許有一些錢，但是他也在礦坑裡。」他大聲呼喚酒保並示意再來一瓶啤酒，「他大概還有一部分在礦坑裡。」</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>起身離開。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>你向他道別，讓他享受自己的寧靜。你思考著自己是否能在礦坑中找到Rudy的屍體。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>你發現了一具穿著礦工服裝的殘破屍體，名牌上寫著「Rudy」。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.c1>
