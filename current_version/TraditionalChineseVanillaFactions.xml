@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -345,8 +345,8 @@
 <EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過多少遍，你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
 <EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
 <EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「只是一場小型急救罷了，我們的朋友想說...來點刺激的會很好玩，你懂的，感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
-<EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，否則我要去報案了。」</EventText.youngcultists.o1.o1.o1>
-<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了，但我們制住他了，一切安好、沒有下次了，沒必要讓整個哨站或是我們的教會知道，要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，不然我就去報案。」</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>那群人緊張地看了看對方。「嘿，我們不想惹什麼麻煩。這位弟兄太急著想與偉大的畫皮接觸，然後就失控了。但我們制住他了，一切安好、沒有下次了，沒必要讓整個哨站或是我們的教會知道，要是被發現，我們的生涯就全完了！」</EventText.youngcultists.o1.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1.o1>「教會？你們是畫皮教會的人？我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o1.o1>
 <EventText.youngcultists.o1.o1.o1.o1.c1>「寄生蟲？寄生蟲只知索取；畫皮則會給予！它能讓你超越被稱為人類肉體那臭皮囊的限制！但不是像剛才那樣，你得做好準備才有辦法接受它。或者...至少教士是這樣說的。」</EventText.youngcultists.o1.o1.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1.o1.o1>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o1.o1.o1>
