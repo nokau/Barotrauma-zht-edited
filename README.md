@@ -35,7 +35,7 @@
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 
 # 專案中的檔案
-在此專案中的 [current_version](./current_version) 資料夾裡，共有 6 個檔案，分別為
+在此專案中的 [current_version](./current_version) 資料夾裡，共有 5 個檔案，分別為
 
 ### NPC對話:
 
