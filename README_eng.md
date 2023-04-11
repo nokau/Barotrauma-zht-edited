@@ -33,7 +33,7 @@ I'm not familiar with GitHub or all its intended functions, to be honest, so if 
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 
 # Project files
-Inside this project's [current_version](./current_version) folder, there are 6 files in total:
+Inside this project's [current_version](./current_version) folder, there are 5 files in total:
 
 ### NPC conversations:
 
