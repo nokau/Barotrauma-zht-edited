@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -64,7 +64,7 @@
 <missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
 <missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
 <missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首席」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
-<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。</missionsuccess.huskcultrescuesubra>
+
 <missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
 <missionname.escort1clowns>運送小丑</missionname.escort1clowns>
 <missiondescription.escort1clowns>一群小丑出價[reward]馬克要前往[location2]。你已經被警告他們可能有些不守規矩，或者至少不習慣待在潛艇上。</missiondescription.escort1clowns>
@@ -356,7 +356,7 @@
 <EventText.youngcultists.o1.o1.o2>「別擔心，親愛的兄弟姊妹們。我只是想知道為什麼你們會想阻止那位仁兄進行轉化。」</EventText.youngcultists.o1.o1.o2>
 <EventText.youngcultists.o1.o1.o2.c1>他們凝重的表情放鬆了些。「你也看到他剛剛的樣子了吧？昇華不該是那樣子的。共生體方才是要將他吞噬，要取代他。他顯然還沒做好與共生體交融的準備。」</EventText.youngcultists.o1.o1.o2.c1>
 <EventText.youngcultists.o1.o1.o2.o1>「原來如此。那如果一個人或有興趣想要『與共生體交融』的話，得做什麼準備呢？」</EventText.youngcultists.o1.o1.o2.o1>
-<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人。我不覺得我們有辦法回答那些問題。教士們說要最好準備能接受這份饋贈，你得你得敞開自己的心、思想、與全部肉體，才有辦法度過『聖餐』。有一些...儀式、工具之類的，用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人，我不覺得我們有辦法回答那些問題。教士們說得做好準備才有辦法接受這份饋贈，你得敞開自己的心、思想、與全部肉體，才有辦法度過『聖餐』。有一些...儀式、工具之類的，用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
 <EventText.youngcultists.o1.o1.o2.o1.o1>與那些熱情的年輕人道別，並祝他們的昇華能能夠愉快又短暫。</EventText.youngcultists.o1.o1.o2.o1.o1>
 <EventText.youngcultists.o1.o1.o2.o1.o2>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o2.o1.o2>
 <EventText.youngcultists.o1.o1.o2.o2>「我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o2.o2>
@@ -450,9 +450,18 @@
 <EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>「下一步是什麼？」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
 <EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>「那得由你自己發現。但現在──走吧，人類馬上就要過來了。我們會再見面的。」</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
 <EventText.waytoascension5.c1.o2>「等等，我們得準備一下。」</EventText.waytoascension5.c1.o2>
+<EventText.waytoascensionsubraescort.c1>「呼，我有一瞬間覺得就要完蛋了！我猜你不會介意讓我在這裡多待一會兒、等那些賞金獵人走遠吧？」</EventText.waytoascensionsubraescort.c1>
+<EventText.waytoascensionsubraescort.o1>「一點也不！把這裡當自己家吧。」</EventText.waytoascensionsubraescort.o1>
+<EventText.waytoascensionsubraescort.c2>「太好了！我到下個地點就會下船的。」</EventText.waytoascensionsubraescort.c2>
+<EventText.waytoascensionsubraescort.c3>「話說，你倒空聖杯什麼東西的事進行得如何了？」</EventText.waytoascensionsubraescort.c3>
+<EventText.waytoascensionsubraescort.c3.o1>「我還沒下定決心。」</EventText.waytoascensionsubraescort.c3.o1>
+<EventText.waytoascensionsubraescort.c4>「偷偷跟你說，我的同袍們都已經有所覺悟了。」</EventText.waytoascensionsubraescort.c4>
+<EventText.waytoascensionsubraescort.c5>「所以，我要是你就會好好開始考慮進行最後一步的可行性。也許機會將比擬預期的還早到來。」</EventText.waytoascensionsubraescort.c5>
+<EventText.waytoascensionsubraescort.c5.o1>「你真這麼覺得嗎？」</EventText.waytoascensionsubraescort.c5.o1>
+<EventText.waytoascensionsubraescort.c6>「你看我，一看就知道我還是隻用著臭皮囊的笨猴子──但這在需要和其他愚蠢的猿猴合作的時候確有所助力。所以該答這個問題的不是我，你得要自己做出選擇。」</EventText.waytoascensionsubraescort.c6>
 <EventText.pathofthebikehorn1.c1>有個穿著奇特小丑裝的人走了過來，把你拉到一邊。「我沒在這兒見過你──方便告訴我你為何而來嗎？你們是快樂之人嗎，能明白我的意思嗎？」</EventText.pathofthebikehorn1.c1>
 <EventText.pathofthebikehorn1.o1>「我們只是路過。『快樂之人』指的是？」</EventText.pathofthebikehorn1.o1>
-<EventText.pathofthebikehorn1.o1.c1>「那些承蒙自行車喇叭召喚的人們：小丑、搗蛋鬼、愚者！這是我和的非門之徒們在這世上找到的安身之所，我們希望這種狀態繼續保持。」</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.c1>「那些承蒙自行車喇叭召喚的人們：小丑、搗蛋鬼、愚者！這是我和非門之徒們在這世上找到的安身之所，我們希望這種狀態繼續保持。」</EventText.pathofthebikehorn1.o1.c1>
 <EventText.pathofthebikehorn1.o1.o1>「非門之徒？意思是你是什麼掌門人之類的嗎？」</EventText.pathofthebikehorn1.o1.o1>
 <EventText.pathofthebikehorn1.o1.o1.c1>「不不，我不是什麼掌門人！我只是一個『惡作劇大師』──有人稱呼我為老師，但我只是個引導人們踏上自行車喇叭之道的人。」</EventText.pathofthebikehorn1.o1.o1.c1>
 <EventText.pathofthebikehorn1.o1.o1.o1>「你能教教我們何謂自行車喇叭之道嗎？」</EventText.pathofthebikehorn1.o1.o1.o1>
