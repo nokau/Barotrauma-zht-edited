@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
   
@@ -320,6 +320,8 @@
 <sp.electricaldischarger.duration.description>單次放電的持續時間 (秒)。</sp.electricaldischarger.duration.description>
 <sp.electricaldischarger.outdoorsonly.name>只在艙外</sp.electricaldischarger.outdoorsonly.name>
 <sp.electricaldischarger.outdoorsonly.description>啟用時，產生的電擊將無法傳達進入艙內或傷害位於艙內的角色。</sp.electricaldischarger.outdoorsonly.description>
+<sp.electricaldischarger.reload.name>填充時間</sp.electricaldischarger.reload.name>
+<sp.electricaldischarger.reload.description>物件放電後再放電前進行充電的時間 (以秒為單位)。</sp.electricaldischarger.reload.description>
 <sp.powered.minvoltage.name>最低電壓</sp.powered.minvoltage.name>
 <sp.powered.minvoltage.description>這個物件運作時所需的最低電壓。遊戲中電壓的計算方式為 供電量/耗電量，若"耗電量"為1000 kW，而"最低電壓"為0.5時，則需要對物件提供至少500 kW的電力才能使其開始運作。</sp.powered.minvoltage.description>
 <sp.powered.powerconsumption.name>耗電量</sp.powered.powerconsumption.name>
@@ -358,6 +360,8 @@
 <sp.entityspawnercomponent.maximumamountinarea.description>產生區域內達此物品或生物數量時將不再產生。0 = 沒有限制。</sp.entityspawnercomponent.maximumamountinarea.description>
 <sp.entityspawnercomponent.maximumamountrangepadding.name>最大值緩衝範圍</sp.entityspawnercomponent.maximumamountrangepadding.name>
 <sp.entityspawnercomponent.maximumamountrangepadding.description>以此值將計算物品或敵人最大數量的矩形或圓形範圍擴大。</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.entityspawnercomponent.preloadcharacter.name>預載角色</sp.entityspawnercomponent.preloadcharacter.name>
+<sp.entityspawnercomponent.preloadcharacter.description>當產生點產生角色時，是否在回合開始時預先載入他們，以避免角色同時產生造成的卡頓？</sp.entityspawnercomponent.preloadcharacter.description>
 <sp.holdable.holdpos.name>握持位置</sp.holdable.holdpos.name>
 <sp.holdable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.holdable.holdpos.description>
 <sp.holdable.holdangle.name>握持角度</sp.holdable.holdangle.name>
@@ -375,6 +379,10 @@
 <sp.holdable.disableheadrotation.name>停用頭部旋轉</sp.holdable.disableheadrotation.name>
 <sp.holdable.spritedepthwhendropped.name>掉落時Sprite深度</sp.holdable.spritedepthwhendropped.name>
 <sp.holdable.spritedepthwhendropped.description>當物品未裝設於牆上時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
+<sp.holdable.aimangle.name>瞄準角度</sp.holdable.aimangle.name>
+<sp.holdable.aimangle.description>角色舉起物品進行瞄準時的角度 (以度為單位，以角色的手為基準的旋轉角度)。</sp.holdable.aimangle.description>
+<sp.rangedweapon.penetration.name>穿透</sp.rangedweapon.penetration.name>
+<sp.rangedweapon.penetration.description>當擊中被護甲保護的身體部位時，忽略其傷害減免 (被肢體彈開) 的百分比。為 武器 + 彈藥 的總和。</sp.rangedweapon.penetration.description>
 <sp.itemcontainer.containablerestrictions.name>可容納限制</sp.itemcontainer.containablerestrictions.name>
 <sp.itemcontainer.containablerestrictions.description>用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
 <sp.itemcontainer.autofill.name>自動填充</sp.itemcontainer.autofill.name>
@@ -407,6 +415,8 @@
 <sp.controller.state.name>狀態</sp.controller.state.name>
 <sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
 <sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
+<sp.Deconstructor.DeconstructionSpeed.name>解構速度</sp.Deconstructor.DeconstructionSpeed.name>
+<sp.Deconstructor.DeconstructionSpeed.description>拆解物品時的速度加乘。</sp.Deconstructor.DeconstructionSpeed.description>
 <sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
 <sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
 <sp.engine.propellerpos.name>推進器位置</sp.engine.propellerpos.name>
@@ -507,6 +517,8 @@
 <sp.terminal.usemonospacefont.description>若啟用，此終端將使用Monospace字體。</sp.terminal.usemonospacefont.description>
 <sp.textcolor.name>文字色彩</sp.textcolor.name>
 <sp.terminal.textcolor.description>終端的文字色彩。</sp.terminal.textcolor.description>
+<sp.terminal.linestartsymbol.name>行首符號</sp.terminal.linestartsymbol.name>
+<sp.terminal.readonly.name>唯讀模式</sp.terminal.readonly.name>
 <sp.range.name>範圍</sp.range.name>
 <sp.wificomponent.range.description>接收者要多近才能收到此Wifi元件的訊號。</sp.wificomponent.range.description>
 <sp.wificomponent.allowcrossteamcommunication.name>允許跨團隊通訊</sp.wificomponent.allowcrossteamcommunication.name>
@@ -554,6 +566,30 @@
 <sp.turret.rotationspeedlowskill.description>技能水準不足的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedlowskill.description>
 <sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
 <sp.turret.rotationspeedhighskill.description>技能水準足夠的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
+<sp.turret.AutoOperate.name>自動操作</sp.turret.AutoOperate.name>
+<sp.turret.AutoOperate.description>此砲塔是否使用AI自動操作？以下為其可調整的選用隨機動態。</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.name>隨機瞄準量</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimAmount.description>[自動操作] 砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.name>隨機瞄準最短時間</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMinTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.name>隨機瞄準最長時間</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomAimMaxTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.name>隨機動作</sp.turret.RandomMovement.name>
+<sp.turret.RandomMovement.description>[自動操作] 砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.name>瞄準延遲</sp.turret.AimDelay.name>
+<sp.turret.AimDelay.description>[自動操作] 砲塔對目標進行瞄準時是否延遲而非完美地進行瞄準？</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.name>角色目標</sp.turret.TargetCharacters.name>
+<sp.turret.TargetCharacters.description>[自動操作] 砲塔是否將角色設為目標？</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.name>怪物目標</sp.turret.TargetMonsters.name>
+<sp.turret.TargetMonsters.description>[自動操作] 砲塔是否將怪物設為目標？</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.name>人類目標</sp.turret.TargetHumans.name>
+<sp.turret.TargetHumans.description>[自動操作] 砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetSubmarines.description>[自動操作] 砲塔是否將潛艇設為目標？</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
+<sp.turret.TargetItems.description>[自動操作] 砲塔是否將物品設為目標？</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
+<sp.turret.FriendlyTag.description>[自動操作] 在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
 <sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
 <sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
 <sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
@@ -580,6 +616,8 @@
 <sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
 <sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
 <sp.relaycomponent.maxpower.description>能夠通過此物件的最大電力。</sp.relaycomponent.maxpower.description>
+<sp.greatercomponent.output.description>當signal_in1所收到的數值大於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>當signal_in1所收到的數值小於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.falseoutput.description>
 <sp.ison.name>為On</sp.ison.name>
 <sp.relaycomponent.ison.description>此繼電器當下能否讓電力和訊號通過。</sp.relaycomponent.ison.description>
 <sp.signalcheckcomponent.output.description>當物件收到與目標訊號相符的值時所輸出的值。</sp.signalcheckcomponent.output.description>
