@@ -3480,7 +3480,7 @@
 <fabricatorrequireditems>需要物品</fabricatorrequireditems>
 <fabricatorrequiredtime>需要時間</fabricatorrequiredtime>
 <fabricatorrequiredcondition>耐久度</fabricatorrequiredcondition>
-<fabricatorrequiredskills.tooltip>技能水準不足時製作物品需要更多時間</fabricatorrequiredskills>
+<fabricatorrequiredskills.tooltip>技能水準不足時製作物品需要更多時間</fabricatorrequiredskills.tooltip>
 <fabricatorcreate>製作</fabricatorcreate>
 <fabricatorcancel>取消</fabricatorcancel>
 <fabricator.input>Input</fabricator.input>
@@ -6357,7 +6357,7 @@
 <eventtext.huskextremists1.o1.o1.o2>「我們會找到方法生存的。而我偏好喉嚨裡沒有寄生蟲的方法。」</eventtext.huskextremists1.o1.o1.o2>
 <eventtext.huskextremists1.o1.o1.o3>「你說的或許有點道理... 我們會讓你繼續。」</eventtext.huskextremists1.o1.o1.o3>
 <eventtext.huskextremists1.o2>「弟兄，你顯然被誤導了。你在這裡製造的混亂不是昇華該有的樣子。」</eventtext.huskextremists1.o2>
-<eventtext.huskextremists1.o2.c1>「喔，所以你是那些假裝踏上昇華道路，卻不敢深入探索的人？或許我們得讓你那弱小的人類想法閉嘴好推你一把？」</eventtext.huskextremists1.o1.c1>
+<eventtext.huskextremists1.o2.c1>「喔，所以你是那些假裝踏上昇華道路，卻不敢深入探索的人？或許我們得讓你那弱小的人類想法閉嘴好推你一把？」</eventtext.huskextremists1.o2.c1>
 <eventtext.huskextremists1.o3>「我是那種會為你準備中槍後實驗的人。」</eventtext.huskextremists1.o3>
 
 <!-- Submarine upgrades & repairs -->
