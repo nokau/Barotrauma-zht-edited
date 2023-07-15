@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
+<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7409), EnglishVanilla EnglishVanillaNew.xml (7410~7418) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -548,6 +548,15 @@
 <serversettingslootedmoneydestinationtooltip>選擇自屍體上拾取的資金將存放至銀行或個人錢包。</serversettingslootedmoneydestinationtooltip>
 <lootedmoneydestination.bank>銀行</lootedmoneydestination.bank>
 <lootedmoneydestination.wallet>個人錢包</lootedmoneydestination.wallet>
+<serversettingsenabledosprotection>啟用DoS防護</serversettingsenabledosprotection>
+<serversettingsenabledosprotectiontooltip>自動踢出導致伺服器卡頓的玩家。</serversettingsenabledosprotectiontooltip>
+
+<serversettingsmaxpacketamounttooltip>用戶端每分鐘允許發出的最大網路資訊數，超過則會被踢出。</serversettingsmaxpacketamounttooltip>
+<packetlimit>用戶端每分鐘允許發出的最大網路資訊數，超過則會被踢出。</packetlimit>
+<serversettingsnolimit>無限</serversettingsnolimit>
+<packetlimitwarning>警告: 限制過低可能導致正常玩家遭到踢出。</packetlimitwarning>
+<dosprotectionkicked>因導致伺服器卡頓被踢出。</dosprotectionkicked>
+
 
 <!-- Tab menu -->
 <tabmenu.voip>VOIP</tabmenu.voip>
@@ -730,6 +739,7 @@
 <subeditor.pasteassembly>貼上物件組合</subeditor.pasteassembly>
 <subeditor.snaptogrid>吸附至網格</subeditor.snaptogrid>
 <subeditor.loadconfirmbody>確定要載入[submarine]嗎？所有未保存的進度將會遺失。</subeditor.loadconfirmbody>
+<subeditor.duplicateiderror>潛艇包含有著重複ID的物件 ([entity1]、[entity2]) — 這可能是因為檔案損壞。是否嘗試透過刪除 [entity2] 解決此問題？</subeditor.duplicateiderror>
 <subeditorvisibilitybutton>切換可見性</subeditorvisibilitybutton>
 <subeditorvisibilitytooltip>選擇可見的物件類型。</subeditorvisibilitytooltip>
 <subeditoreditingmode>編輯模式</subeditoreditingmode>
@@ -1471,6 +1481,8 @@
 <clientpermission.managehires>Manage hires</clientpermission.managehires>
 <clientpermission.managehires.description>招募或解雇隊伍中的船員。</clientpermission.managehires.description>
 <clientpermission.managebottalents>Manage talents</clientpermission.managebottalents>
+<clientpermission.spamimmunity>Spam Protection Immunity</clientpermission.spamimmunity>
+<clientpermission.spamimmunity.description>傳送過多網路資訊或在聊天室傳送過多訊息時不會被自動踢除。</clientpermission.spamimmunity.description>
 
 <!-- Permission presets -->
 <permissionpresetname.admin>Admin</permissionpresetname.admin>
@@ -1530,6 +1542,7 @@
 <missionfailure.salvagenasonovartifactcave>回收異星文物失敗。</missionfailure.salvagenasonovartifactcave>
 <missionheader0.salvagenasonovartifactcave>得到異星文物</missionheader0.salvagenasonovartifactcave>
 <missionmessage0.salvagenasonovartifactcave>異星文物已被帶回船上，駕駛潛艇離開這裡以領取獎勵。</missionmessage0.salvagenasonovartifactcave>
+<salvagetargetnotinsub>任務目標之一尚不在潛艇中。若現在與哨站分離將導致該任務失敗。</salvagetargetnotinsub>
 <missionname.killmoloch>獵殺摩螺克</missionname.killmoloch>
 <missiondescription.killmoloch>一隻特別凶猛的摩螺克不斷地在[location1]與[location2]之間騷擾經過的船隻，任何將其獵殺的人員夠能獲得[reward]馬克的獎勵。</missiondescription.killmoloch>
 <missionsonarlabel.killmoloch>摩螺克</missionsonarlabel.killmoloch>
@@ -1575,7 +1588,7 @@
 <missiondescription.cargochemicals>[location1]的研究人員出價[reward]馬克作為運送一批危險的化學物至[location2]的費用。</missiondescription.cargochemicals>
 <missionsuccess.cargochemicals>化學物已被成功送達。</missionsuccess.cargochemicals>
 <missionname.cargohuskeggs>生物危害品</missionname.cargohuskeggs>
-<missiondescription.cargohuskeggs>當地研究人員需要有人運送畫皮寄生蟲卵至[location2]，並提供[reward]馬克的獎勵。</missiondescription.cargohuskeggs>
+
 <missionsuccess.cargohuskeggs>畫皮寄生蟲卵已被成功送達。</missionsuccess.cargohuskeggs>
 <missionname.cargonitroglycerin>小心運送</missionname.cargonitroglycerin>
 <missiondescription.cargonitroglycerin>當地研究人員出價[reward]馬克作為運送一大批硝化甘油至[location2]的費用。</missiondescription.cargonitroglycerin>
@@ -1595,9 +1608,6 @@
 <missionname.personneltransport>運送人員</missionname.personneltransport>
 <missiondescription.personneltransport>有人員需要迅速前往[location2]，如果你能毫髮無傷地將他們送達，他們將支付你[reward]馬克。</missiondescription.personneltransport>
 <missionsuccess.personneltransport>人員已被成功送達。</missionsuccess.personneltransport>
-<missionname.prospect>探勘</missionname.prospect>
-<missiondescription.prospect>挖礦團隊想要在你確認[location1]與[location2]之間還有足夠礦脈之後開採[resourcename1]，要是你能找到[resourcequantity1]個單位的量他們將會支付你[reward]馬克，並讓你留下所找到的[handoverpercentage]！</missiondescription.prospect><!--SOURCE TEXT CHANGE CHECK-->
-<missionsuccess.prospect>已成功對該資源完成探勘，駕駛潛艇離開這裡以領取獎勵。</missionsuccess.prospect>
 <missionname.cargomedemergency>運送醫療物品</missionname.cargomedemergency>
 <missiondescription.cargomedemergency>一位在[location2]的船員讓自己陷入了嚴重的窒死劑中毒，如果你能盡速送達這項物品，他們或許還撐得過去...你將會收到[reward]馬克的運費。</missiondescription.cargomedemergency>
 <missionsuccess.cargomedemergency>解毒劑已被成功送達。</missionsuccess.cargomedemergency>
@@ -2369,8 +2379,8 @@
 <entitydescription.assaultriflemagazine>設計用於容納6.8mm子彈的彈匣。</entitydescription.assaultriflemagazine>
 <entityname.rifle>步槍</entityname.rifle>
 <entitydescription.rifle>一把純手動的.30步槍。熟練度低使用者的開火速度緩慢。</entitydescription.rifle>
-<entityname.riflebullet>步槍子彈</entityname.riflebullet>
-<entitydescription.riflebullet>一顆.30步槍的子彈。</entitydescription.riflebullet>
+
+
 <entityname.hmg>HMG</entityname.hmg>
 <entitydescription.hmg>重型機槍，能夠造成大量傷害，前提是使用者的熟練度足以應付後坐力。</entitydescription.hmg>
 <entityname.hmgmagazine>HMG彈匣</entityname.hmgmagazine>
@@ -2392,7 +2402,7 @@
 <entityname.scrapcannon>廢料大砲</entityname.scrapcannon>
 <entitydescription.scrapcannon>一種由電池驅動，發射金屬破片的粗糙武器。準確度極差，但對彈藥毫不挑剔──任何一塊未經過處理的鐵或鋼都行。</entitydescription.scrapcannon>
 <entityname.exosuit>動力服</entityname.exosuit>
-<entitydescription.exosuit>一套最初設計用於水下工程的重型電池驅動動力裝。有著厚重護甲且能背負重物。</entitydescription.exosuit>
+
 <entityname.advancedsyringegun>進階針筒槍</entityname.advancedsyringegun>
 <entitydescription.advancedsyringegun>將裝有藥品或有毒藥物的針筒發射出去。能夠容納更多彈藥且附有生命跡象HUD。</entitydescription.advancedsyringegun>
 <entityname.clowncrate>小丑箱</entityname.clowncrate>
@@ -2442,7 +2452,7 @@
 <entityname.safetyharness>安全束帶</entityname.safetyharness>
 <entitydescription.safetyharness>一項歐羅巴潛艇上用來減少工安相關傷害的特殊裝備，這套裝備也能減輕水流帶來的影響，使穿戴者在船體出現漏洞時站穩腳步。</entitydescription.safetyharness>
 <entityname.pucs>PUCS</entityname.pucs>
-<entitydescription.pucs>通用危機保護裝 (Protective Universal Crisis Suit)，簡稱PUCS，能夠賦予其使用者對輻射和火災等環境危害的強大抵抗力。其搭載的空氣過濾系統讓這套潛水服能夠在狀況許可時直接利用船艙內的氧氣，同時它所搭載的電腦也能對使用者注射任何置於其中的藥物。</entitydescription.pucs>
+
 <entityname.cigar>雪茄</entityname.cigar>
 <entitydescription.cigar>潛艇船員的生活總是神經緊繃，但或許這支製作精良的雪茄能幫助你稍微舒緩一下心情。</entitydescription.cigar>
 <entityname.stungundartfulgurium>雷素電擊槍飛鏢</entityname.stungundartfulgurium>
@@ -2770,11 +2780,15 @@
 <entityname.hyperzine>加速粉劑</entityname.hyperzine>
 <entitydescription.hyperzine>一種非常強效的肌肉興奮劑，給那些動作需要變快的人。</entitydescription.hyperzine>
 <entityname.morbusine>莫布辛</entityname.morbusine>
+
 <entityname.chloralhydrate>水合三氯乙醛</entityname.chloralhydrate>
 <entitydescription.chloralhydrate>一種可在短時間內使人失去行動能力的鎮靜劑。</entitydescription.chloralhydrate>
 <entityname.cyanide>氰化物</entityname.cyanide>
+
 <entityname.radiotoxin>輻射毒劑</entityname.radiotoxin>
+
 <entityname.sufforin>舒福林</entityname.sufforin>
+
 <entityname.deliriumine>膽妄毒劑</entityname.deliriumine>
 <entitydescription.deliriumine>一種能夠導致精神症的有毒藥物。</entitydescription.deliriumine>
 <entityname.nitroglycerin>硝化甘油</entityname.nitroglycerin>
@@ -3340,6 +3354,7 @@
 <label.store>雜貨店</label.store>
 <label.waterintakevalve>進水閥</label.waterintakevalve>
 <label.daysafterlawsuit>自上次發生醫療事故訴訟以來的天數</label.daysafterlawsuit>
+<label.silentrunning>無聲運轉</label.silentrunning>
 
 <!-- Submarine description -->
 <dimensions>尺寸</dimensions>
@@ -3465,11 +3480,9 @@
 <fabricatorrequireditems>需要物品</fabricatorrequireditems>
 <fabricatorrequiredtime>需要時間</fabricatorrequiredtime>
 <fabricatorrequiredcondition>耐久度</fabricatorrequiredcondition>
-<fabricatorrequiredskills>製作需要的技能</fabricatorrequiredskills>
+<fabricatorrequiredskills.tooltip>技能水準不足時製作物品需要更多時間</fabricatorrequiredskills>
 <fabricatorcreate>製作</fabricatorcreate>
 <fabricatorcancel>取消</fabricatorcancel>
-<fabricatorinsufficientskills>技能不足以製作</fabricatorinsufficientskills>
-<fabricatorsufficientskills>技能足以製作</fabricatorsufficientskills>
 <fabricator.input>Input</fabricator.input>
 <fabricatorrequiresrecipe>需要學習製作方法</fabricatorrequiresrecipe>
 <vendingmachine.outofstock>已售完</vendingmachine.outofstock>
@@ -3890,7 +3903,6 @@
 <dialogmentalstatereactionoffensive>我會幹掉你！</dialogmentalstatereactionoffensive>
 <dialogmentalstatereactionoffensive>死吧、混帳！</dialogmentalstatereactionoffensive>
 <dialogmentalstatereactionoffensive>殺！ 殺！ 殺！</dialogmentalstatereactionoffensive>
-
 <dialogterroristannounce>這艘船屬於木星分離主義者！</dialogterroristannounce>
 <dialogterroristannounce>聯盟去死！</dialogterroristannounce>
 <dialogterroristannounce>革命永存！</dialogterroristannounce>
@@ -3898,7 +3910,6 @@
 <dialogterroristannounce>為了革命而死吧！</dialogterroristannounce>
 <dialogterroristannounce>木星分離主義者萬歲！</dialogterroristannounce>
 <dialogterroristannounce>歐羅巴屬於木星分離主義者！</dialogterroristannounce>
-
 <dialogoutofchaingunammo>我們沒有鏈式機槍彈藥了。</dialogoutofchaingunammo>
 <dialogoutofpulselaserammo>我們沒有脈衝雷射燃料了。</dialogoutofpulselaserammo>
 <dialoglowonchaingunammo>鏈式機槍彈藥快沒了！以斷續方式開火！</dialoglowonchaingunammo>
@@ -3907,6 +3918,17 @@
 <dialoghuskdormant>我覺得我大概發燒了。</dialoghuskdormant>
 <dialoghuskdormant>我覺得身體很虛弱，每一塊肌肉都在痛。</dialoghuskdormant>  
 <dialoghuskcantspeak>有什麼東西在我嘴裡...</dialoghuskcantspeak>
+<dialoginsufficientpressureprotection>我沒有足以抵抗壓力的防護！</dialoginsufficientpressureprotection>
+<dialoginsufficientpressureprotection>水壓要壓爆我的潛水服了！</dialoginsufficientpressureprotection>
+<dialoginsufficientpressureprotection>我無法承受水壓！</dialoginsufficientpressureprotection>
+<dialogcannottreatself>我沒有治療自己的手段！</dialogcannottreatself>
+<dialoglowrepcampaigninteraction>老實說，我不想和你們這種人打交道，但顯然我沒有選擇客戶的餘地。</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>人們都說我不該向你們提供服務，但我覺得有錢不賺王八蛋。</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>要不是我快窮死了，我一定會要你滾蛋。但既然你有錢...</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>喔，原來你是那種人。不過...既然你口袋裡有錢，我就假裝你們只是需要我服務的好心陌生人。</dialoglowrepcampaigninteraction>
+<dialogrefusedragging>放開我！</dialogrefusedragging>
+<dialogrefusedragging>別碰我！</dialogrefusedragging>
+<dialogrefusedragging>停下來！</dialogrefusedragging>
 
 <!-- Character orders -->
 <orderdialog.follow>[name]，跟著我！</orderdialog.follow>
@@ -4602,7 +4624,7 @@
 <jobdescription.securityofficer2>安全官們不惜一切代價致力維持平靜，偏好但不見得會使用非致命武力。</jobdescription.securityofficer2>
 <jobdescription.securityofficer3>潛艇砲手們受過的訓練，他們操作電磁槍和軌道砲時百發百中，也要能保持砲塔運作。</jobdescription.securityofficer3>
 <jobdescription.medicaldoctor1>進行急救時的人員經常需要身入險境，建議提供這些前線醫生們足以抵禦怪物爪牙與無情子彈又不影響其行動的裝備。</jobdescription.medicaldoctor1>
-<jobdescription.medicaldoctor2>這些醫生們已經最好準備要盡其所能地治療那些在漫長航行過程中對船員們造成生命威脅的傷害。</jobdescription.medicaldoctor2>
+<jobdescription.medicaldoctor2>這些醫生們已經做好準備要盡其所能地治療那些在漫長航行過程中對船員們造成生命威脅的傷害。</jobdescription.medicaldoctor2>
 <startingequipmentname>裝備 #[number]</startingequipmentname>
 <npctitle.piratecaptain>海盜船長</npctitle.piratecaptain>
 <npctitle.piratecaptainlord>海盜王</npctitle.piratecaptainlord>
@@ -4944,6 +4966,8 @@
 <tutorial.roles.engineerinstructor_reactormanual7_player>「我能試試嗎？」</tutorial.roles.engineerinstructor_reactormanual7_player>
 <tutorial.roles.engineer_reactormanual>與反應爐互動，並切換至手動控制。</tutorial.roles.engineer_reactormanual>
 <tutorial.roles.engineer_reactormanual2>使用滑桿將指針維持在綠色區域中。</tutorial.roles.engineer_reactormanual2>
+<tutorial.roles.engineer_backtoauto>「做得好！現在我們往下個房間去吧，不過先把自動控制回復到開啟的狀態。沒人能顧著反應爐時最好別讓它處於手動控制模式！」</tutorial.roles.engineer_backtoauto>
+<tutorial.roles.engineer_followme>「好，我想反應爐的部分就到此為止！跟我來吧。」</tutorial.roles.engineer_followme>
 <tutorial.roles.electricaldescription>「歡迎來到電氣部門！這裡的嗡嗡聲很酷，對吧？！別被這些電線嚇到了；它們都好好地接在該去的地方，我檢查過了。」</tutorial.roles.electricaldescription>
 <tutorial.roles.electricaldescription2>「這個房間通常會裝滿配電箱。從反應爐產生的電力需要被分散出去，而這正是配電箱派上用場的時刻！」</tutorial.roles.electricaldescription2>
 <tutorial.roles.engineerinstructor_junctionboxes>「當配電箱故障，它們一定會故障，那時所有與其連接的設備都會無法運作。你的職責就是避免這種情形發生！」</tutorial.roles.engineerinstructor_junctionboxes>
@@ -5936,6 +5960,7 @@
 <eventtext.missionevent_escort4.c1>「我們相信木星分離主義者的恐怖分子們已經混入了無辜平民之中。他們想要搭上下一艘從這裡出發的船艦離開這個地方，如果你願意當那艘船，我們或許就能夠揪出並逮捕他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4.c1>
 <eventtext.missionevent_escort3.c1>「我們有一些犯人需要被轉移到另一座哨站上的監獄，你會收到不錯的報酬，但是途中你得緊緊盯著他們。」</eventtext.missionevent_escort3.c1>
 <eventtext.missionevent_escort1.c1>「有一些平民想要安全地前往附近的哨站，護送他們安全抵達你就能得到報酬。」</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_cargohuskcult>「在找工作嗎？我們有批...怎麼說呢，附近哨站迫切需要的研究物資。把那些東西送過去、別多問、我們會付你錢的。」</eventtext.missionevent_cargohuskcult>
 <EventText.unlockpathgeneric.c1>「我聽說了不少與你的小對有關的事蹟，我替聯盟感謝你們所付出的行動。並非所有潛艇都被允許通過這個哨站前往更深的區域，不過歡迎你和你的隊員們通過這裡。」</EventText.unlockpathgeneric.c1>
 <EventText.unlockpathgeneric.c2>「你們想要通過這裡進到更深的區域？聯盟不允許新手船員進到那裡，你們的名聲也沒有好到能讓我心服口服放行。當然了，假如你們正好有5,000馬克能和我分享，或許那會一定程度地提升我對你們的看法...」</EventText.unlockpathgeneric.c2>
 <EventText.unlockpathgeneric.o1>支付5,000馬克。</EventText.unlockpathgeneric.o1>
@@ -6332,7 +6357,7 @@
 <eventtext.huskextremists1.o1.o1.o2>「我們會找到方法生存的。而我偏好喉嚨裡沒有寄生蟲的方法。」</eventtext.huskextremists1.o1.o1.o2>
 <eventtext.huskextremists1.o1.o1.o3>「你說的或許有點道理... 我們會讓你繼續。」</eventtext.huskextremists1.o1.o1.o3>
 <eventtext.huskextremists1.o2>「弟兄，你顯然被誤導了。你在這裡製造的混亂不是昇華該有的樣子。」</eventtext.huskextremists1.o2>
-<eventtext.huskextremists1.o1.c1>「喔，所以你是那些假裝踏上昇華道路，卻不敢深入探索的人？或許我們得讓你那弱小的人類想法閉嘴好推你一把？」</eventtext.huskextremists1.o1.c1>
+<eventtext.huskextremists1.o2.c1>「喔，所以你是那些假裝踏上昇華道路，卻不敢深入探索的人？或許我們得讓你那弱小的人類想法閉嘴好推你一把？」</eventtext.huskextremists1.o1.c1>
 <eventtext.huskextremists1.o3>「我是那種會為你準備中槍後實驗的人。」</eventtext.huskextremists1.o3>
 
 <!-- Submarine upgrades & repairs -->
@@ -6612,6 +6637,7 @@
 <maxleveldifficulty>最高難度</maxleveldifficulty>
 <allowdamagedwalls>允許牆體損壞</allowdamagedwalls>
 <allowdisconnectedwires>允許電線脫落</allowdisconnectedwires>
+<beaconstationplacement>置於天花板</beaconstationplacement>
 
 <!-- Currency -->
 <moneygained>獲得[amount]馬克。</moneygained>
@@ -7338,51 +7364,54 @@
 <stattypenames.reputationloss>額外聲望損失</stattypenames.reputationloss>
 <stattypenames.maxflow>最大流量</stattypenames.maxflow>
 
-<!-- </infotexts> -->
+<!-- Modified texts May 29 2023 -->
 
-<!-- EnglishVanillaNew.xml -->
-<!-- edited by nokau for v0.1.x.x.x; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~7342), EnglishVanilla EnglishVanillaNew.xml (7343~7389) -->
-<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
-<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
-
-<!-- Modified values after January 11 (These are missing from the latest localization pass) -->
-  
-<entitydescription.morbusine>一種強效的神經毒素，最終會導致肺部和肌肉停止擺，有效地阻礙運動。</entitydescription.morbusine>
+<entitydescription.morbusine>一種強效的神經毒素，最終會導致肺部和肌肉停擺，有效地阻礙人體運動。</entitydescription.morbusine>
 <entitydescription.cyanide>一種高毒性化學物，一旦給予足夠劑量就會導致迅速死亡。</entitydescription.cyanide>
 <entitydescription.radiotoxin>一種高放射性物質，會導致輻射病，最終使內臟器官液化。</entitydescription.radiotoxin>
 <entitydescription.sufforin>一種善於隱身的神經毒素，中毒初期沒有症狀。會導致失明，最終死亡。</entitydescription.sufforin>
+<fabricatorrequiredskills>建議技能</fabricatorrequiredskills>
+<fabricatorinsufficientskills>高製作難度</fabricatorinsufficientskills>
+<fabricatorsufficientskills>低製作難度</fabricatorsufficientskills>
+<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。護送他至下個哨站並告知一位教士搜救行動非常成功。</missionsuccess.huskcultrescuesubra>
+<missiondescription.cargohuskeggs>畫皮教會出價[reward]馬克做為運送一批畫皮寄生蟲卵至[location2]的費用。</missiondescription.cargohuskeggs>
+<entitydescription.pucs>通用危機保護裝 (Protective Universal Crisis Suit)，簡稱PUCS，能夠賦予其使用者對輻射和火災等環境危害的強大抵抗力。其搭載的空氣過濾系統讓這套潛水服能夠在狀況許可時直接利用船艙內的氧氣，同時所搭載的電腦也能對使用者注射任何置於其中的藥物。</entitydescription.pucs>
+<entitydescription.exosuit>一套最初設計用於水下工程的重型電池驅動動力裝。有著厚重護甲且能背負重物。</entitydescription.exosuit>
+<entityname.riflebullet>步槍子彈</entityname.riflebullet>
+<entitydescription.riflebullet>一顆.30步槍的子彈。</entitydescription.riflebullet>
+<serversettingsmaxpacketamount>自動踢出最大封包數量:</serversettingsmaxpacketamount>
+<packetlimitkicked>因發送網路資訊數量過多被踢出。若非有意傳送大量資訊至伺服器，這可能是由於伺服器正在使用的Mod或自訂選項產生了過多資訊，主持人應在伺服器選單中將"限制自動踢出最大封包數量"調高或設為無限。</packetlimitkicked>
 
-<!-- New values after January 11 (These are missing from the latest localization pass) -->
+<!-- New texts May 29 2023 -->
 
-<sp.turret.AutoOperate.name>自動操作</sp.turret.AutoOperate.name>
-<sp.turret.AutoOperate.description>此砲塔是否使用AI自動操作？以下為其可調整的選用隨機動態。</sp.turret.AutoOperate.description>
-<sp.turret.RandomAimAmount.name>隨機瞄準量</sp.turret.RandomAimAmount.name>
-<sp.turret.RandomAimAmount.description>[自動操作] 砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
-<sp.turret.RandomAimMinTime.name>隨機瞄準最短時間</sp.turret.RandomAimMinTime.name>
-<sp.turret.RandomAimMinTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
-<sp.turret.RandomAimMaxTime.name>隨機瞄準最長時間</sp.turret.RandomAimMaxTime.name>
-<sp.turret.RandomAimMaxTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
-<sp.turret.RandomMovement.name>隨機動作</sp.turret.RandomMovement.name>
-<sp.turret.RandomMovement.description>[自動操作] 砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
-<sp.turret.AimDelay.name>瞄準延遲</sp.turret.AimDelay.name>
-<sp.turret.AimDelay.description>[自動操作] 砲塔對目標進行瞄準時是否延遲而非完美地進行瞄準？</sp.turret.AimDelay.description>
-<sp.turret.TargetCharacters.name>角色目標</sp.turret.TargetCharacters.name>
-<sp.turret.TargetCharacters.description>[自動操作] 砲塔是否將角色設為目標？</sp.turret.TargetCharacters.description>
-<sp.turret.TargetMonsters.name>怪物目標</sp.turret.TargetMonsters.name>
-<sp.turret.TargetMonsters.description>[自動操作] 砲塔是否將怪物設為目標？</sp.turret.TargetMonsters.description>
-<sp.turret.TargetHumans.name>人類目標</sp.turret.TargetHumans.name>
-<sp.turret.TargetHumans.description>[自動操作] 砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
-<sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
-<sp.turret.TargetSubmarines.description>[自動操作] 砲塔是否將潛艇設為目標？</sp.turret.TargetSubmarines.description>
-<sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
-<sp.turret.TargetItems.description>[自動操作] 砲塔是否將物品設為目標？</sp.turret.TargetItems.description>
-<sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
-<sp.turret.FriendlyTag.description>[自動操作] 在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
-  
-<sp.greatercomponent.output.description>當signal_in1所收到的數值大於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.output.description>
-<sp.greatercomponent.falseoutput.description>當signal_in1所收到的數值小於signal_in2時所輸出的值 (若為空白則不輸出訊號)。</sp.greatercomponent.falseoutput.description>
+<campaignsavetransfer.timeout>戰役回合無法開始 (等待伺服器戰役存檔逾時)。這可能是因為連線不穩定和/或存檔的大小過於龐大。</campaignsavetransfer.timeout>
+<entityname.electriciansgoggles>電工護目鏡</entityname.electriciansgoggles>
+<entitydescription.electriciansgoggles>一個能夠自遠端偵測電網並將其視覺化的裝備。能讓工程師便利地追蹤電線中的電力或訊號，並有辦法檢視設備配線面板中線路的信號值。</entitydescription.electriciansgoggles>
+<receivedsignal>Input: [signal]</receivedsignal>
+<sentsignal>Output: [signal]</sentsignal>
+<eventtext.missionevent_cargohuskcult>「在找工作嗎？我們有批...怎麼說呢，附近哨站迫切需要的研究物資。把那些東西送過去、別多問、我們會付你錢的。」</eventtext.missionevent_cargohuskcult>
+<hint.upgradedivingsuits>深度即將突破4,000公尺，普通的潛水服在該深度之下將不再能夠提供正常防護，應使用更高階的潛水服，如戰鬥潛水服或深淵潛水服。</hint.upgradedivingsuits>
+<serverlog.dosprotection>DoS保護</serverlog.dosprotection>
+<tutorial.roles.engineer_backtoauto>「做得好！現在我們往下個房間去吧，不過先把自動控制回復到開啟的狀態。沒人能顧著反應爐時最好別讓它處於手動控制模式！」</tutorial.roles.engineer_backtoauto>
+<tutorial.roles.engineer_followme>「好，我想反應爐的部分就到此為止！跟我來吧。」</tutorial.roles.engineer_followme>
+<fabricationdescription.munition_propulsion>彈藥推進劑。</fabricationdescription.munition_propulsion>
+<fabricationdescription.munition_core>彈藥核心原料。高密度金屬。</fabricationdescription.munition_core>
+<fabricationdescription.munition_jacket>彈殼原料。軟性金屬。</fabricationdescription.munition_jacket>
+<fabricationdescription.advmunition_tip>進階彈頭原料。硬化金屬。</fabricationdescription.advmunition_tip>
+<fabricationdescription.advmunition_core>進階彈藥核心原料。高密度金屬。</fabricationdescription.advmunition_core>
+<fabricationdescription.advmunition_jacket>進階彈殼原料。軟性金屬。</fabricationdescription.advmunition_jacket>
+<sp.regexfindcomponent.OutputEmptyCaptureGroup.name>輸出空白Capture Group</sp.regexfindcomponent.OutputEmptyCaptureGroup.name>
+<sp.regexfindcomponent.OutputEmptyCaptureGroup.description>此元件是否照常顯示空白的Capture Group？</sp.regexfindcomponent.OutputEmptyCaptureGroup.description>
+<dialogignoreminorinjuries>[targetname]的傷勢非常輕微，我不認為需要浪費藥物。</dialogignoreminorinjuries>
+<dialogignoreminorinjuries>[targetname]受了點傷，但我認為應該用不著我操心。</dialogignoreminorinjuries>
 
-<beaconstationplacement>置於天花板</beaconstationplacement>
+<!-- </infotexts> -->
+
+<!-- EnglishVanillaNew.xml -->
+<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~7409), EnglishVanilla EnglishVanillaNew.xml (7410~7418) -->
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
 
 </infotexts>
