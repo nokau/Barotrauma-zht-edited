@@ -12,7 +12,9 @@ Use it at your own risk, as the editing is based solely on my own experience and
 Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page, click on the green `New issue` button, then click the `Get started` button on the right side of the issue types. And since this is a Traditional Chinese localization, please send your issues in Traditional Chinese if possible.
 
 - ### I want to contribute
-I'm not familiar with GitHub or all its intended functions, to be honest, so if you're interested in doing so, I guess you could make separate versions of the project instead of changing the base files.
+GitHub doesn't allow direct editing unless a user is part of a repository. But users can create a `Fork` of an repository and send a `Pull request` after they make changes to their forked ones.
+
+I'm not familiar with GitHub or all its intended functions, to be honest. Please refer to using the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page if possible.
 
 # For now this project has most of the texts edited, including:
 - Main menu UI
