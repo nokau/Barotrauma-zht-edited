@@ -65,7 +65,7 @@
 <missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
 <missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
 <missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首席」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
-<missionsuccess.huskcultrescuesubra>Jacov Subra is now safely on board. Escort him to the next location and let an Ecclesiast know the rescue mission was successful.</missionsuccess.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。護送他至下個哨站並告知一位教士搜救行動非常成功。</missionsuccess.huskcultrescuesubra>
 <missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
 <missionname.escort1clowns>運送小丑</missionname.escort1clowns>
 <missiondescription.escort1clowns>一群小丑出價[reward]馬克要前往[location2]。你已經被警告他們可能有些不守規矩，或者至少不習慣待在潛艇上。</missiondescription.escort1clowns>
