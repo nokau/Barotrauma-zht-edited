@@ -44,7 +44,7 @@ Github並不允許專案參與者外的用戶直接進行任何修改，但用�
 遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 - **NpcConversations_TraditionalChinese.xml**
 
-### 其他文字:
+### UI、遊戲文字:
 
 遊戲資料夾中的路徑為`Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 - **TraditionalChineseVanilla.xml** - 遊戲UI、物品、任務等文字
