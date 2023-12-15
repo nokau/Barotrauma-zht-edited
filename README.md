@@ -16,7 +16,7 @@
 - ### 我想直接貢獻心力
 Github並不允許專案參與者外的用戶直接進行任何修改，但用戶似乎能對專案進行 `Fork` 建立屬於自己的副本，並在修改後對原始專案提出 `Pull request`。
 
-我對這方面的功能並不熟悉，儘管此為GitHub的主要功能。
+儘管此為GitHub的主要功能，我對這方面的功能並不熟悉，所以還先請使用 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面進行回報。
 
 # 這個Mod目前已調整了大部分遊戲元素文本，包含:
 - 主選單UI
