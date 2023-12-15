@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
+<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
 <!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
@@ -411,7 +411,6 @@
 <sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
 <sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
 <sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>啟用時，物品將持續發送0/1訊號，與其互動將翻轉訊號 (使物品如開關一般作動)。停用時，物品僅在互動當下發送訊號1。</sp.controller.istoggle.description>
 <sp.controller.state.name>狀態</sp.controller.state.name>
 <sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
 <sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
@@ -1380,4 +1379,4 @@
 <leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
 <leveleditor.allsaved>All changes saved</leveleditor.allsaved>
 
-</infotexts>
+</override></infotexts>
