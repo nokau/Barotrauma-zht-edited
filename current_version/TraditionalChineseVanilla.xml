@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~8249), EnglishVanillaNew.xml (-) -->
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
+<!-- INDEX: EnglishVanilla.xml (1~8249), EnglishVanillaNew.xml (8250~8261) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -8244,5 +8244,17 @@
 <clearserverlistfilters>重設隱藏的伺服器</clearserverlistfilters>
 <clearserverlistfiltersconfirmation>您確定要顯示所有受到隱藏的伺服器嗎？此動作將使受到隱藏的伺服器再次顯示。</clearserverlistfiltersconfirmation>
 <workshopiteminstallfailed>安裝失敗</workshopiteminstallfailed>
+
+<!-- </infotexts> -->
+
+<!-- <?xml version="1.0" encoding="utf-8"?> -->
+<!-- <infotexts language="English" nowhitespace="false" translatedname="English"> -->
+  
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- Modified values after winter update -->
+
+<!-- New values after winter update -->
 
 </override></infotexts>
