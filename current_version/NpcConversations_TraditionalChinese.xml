@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
-<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with the English text files as close as possible, until updates happen.-->
+<override><Conversations identifier="vanillaconversations" Language="Traditional Chinese" nowhitespace="True">
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with the English text files as close as possible. -->
 <!-- Generic conversation -->
 <Conversation line="各位，讓我們啟航吧！" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="" speaker="0"/>
@@ -1095,4 +1095,4 @@
 	</Conversation>
 </Conversation>
 
-</Conversations>
+</Conversations></override>

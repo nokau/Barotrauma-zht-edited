@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -56,15 +56,16 @@
 <eventtext.missionevent_escort3separatists.c1>「我們最近和聯盟的攻擊艦艇有點摩擦，長話短說，我們已經把倖存船員關進禁閉室了。經過談判協商，我們同意把他們送往下一個哨站。如果你願意把他們護送過去，我們會付給你一筆報酬，但小心別忘了途中得緊緊盯著他們。」</eventtext.missionevent_escort3separatists.c1>
 <eventtext.missionevent_escort4separatists.c1>「根據線報，聯盟派出了一些臥底來調查這區域的分離主義者動態。我們相信他們已經混入了無辜平民之中想要搭上下一艘從這裡出發的船。如果你願意當那艘船，你或許能夠揪出並抓住他們，但是得確保其他平民們毫髮無傷。」</eventtext.missionevent_escort4separatists.c1>
 <missionname.escort1huskcult>運送邪教教徒</missionname.escort1huskcult>
-<missiondescription.escort1huskcult>畫皮教會出價[reward]馬克讓你運送一批教徒至[location2]。有理由相信他們之中有些打算計畫提前「交融」並逃進冰洋之中，但教會要求你緊緊盯著他們，讓他們以人類姿態登上[location2]。</missiondescription.escort1huskcult>
+<missiondescription.escort1huskcult>畫皮教會出價[reward]馬克讓你運送一批教徒至[location2]。有理由相信他們之中有些人打算提前進行「交融」並逃進冰洋之中，但教會要求你緊緊盯著他們，讓他們以人類姿態登上[location2]。</missiondescription.escort1huskcult>
 <EventText.missionevent_escort1huskcult.c1>「喂！找工作嗎？有幾個我們的教徒想到別的哨站上去。但我得先說；我們已經和他們解釋得很清楚，他們還沒準備好，不過他們似乎計畫好了要自己進行『交融』。你最好緊緊盯著他們，確保他們不會在船上做出什麼蠢事。」</EventText.missionevent_escort1huskcult.c1>
+<eventtext.missionevent_cargohuskcult>「在找工作嗎？我們有批...怎麼說呢，附近哨站迫切需要的研究物資。把那些東西送過去、別多問、我們會付你錢的。」</eventtext.missionevent_cargohuskcult>
 <missionname.huskcultspecialassassinate>寂靜守護者</missionname.huskcultspecialassassinate>
 <missiondescription.huskcultspecialassassinate>教會注意到有聯盟的特務在調查他們的動態。對方的調查已經深入教會的秘密，我們別無選擇，只能讓他消失。前往[location1]並儘可能謹慎地消滅特務。</missiondescription.huskcultspecialassassinate>
 <missionsuccess.huskcultspecialassassinate>已殲滅目標，教會的秘密安全了。</missionsuccess.huskcultspecialassassinate>
 <missionfailure.huskcultspecialassassinate>未殲滅目標。必須盡速將他們消滅。</missionfailure.huskcultspecialassassinate>
 <missionname.huskcultrescuesubra>拯救Subra</missionname.huskcultrescuesubra>
 <missiondescription.huskcultrescuesubra>Jacov Subra，畫皮教派的「首席」，現在正位於[location1]躲避聯盟。教會有理由相信他的行踪已經被想要賺取人頭賞金的組織掌握。前往[location1]在其他人找到他之前將他接上船。</missiondescription.huskcultrescuesubra>
-
+<missionsuccess.huskcultrescuesubra>Jacov Subra安全上船了。護送他至下個哨站並告知一位教士搜救行動非常成功。</missionsuccess.huskcultrescuesubra>
 <missionfailure.huskcultrescuesubra>Jacov Subra還在[location1]，必須盡速將他接走。</missionfailure.huskcultrescuesubra>
 <missionname.escort1clowns>運送小丑</missionname.escort1clowns>
 <missiondescription.escort1clowns>一群小丑出價[reward]馬克要前往[location2]。你已經被警告他們可能有些不守規矩，或者至少不習慣待在潛艇上。</missiondescription.escort1clowns>
@@ -114,10 +115,10 @@
 <dialogundercoverannounce>聯盟萬歲！</dialogundercoverannounce>
 <label.securespecimenenclosure>安全樣本盒</label.securespecimenenclosure><!--NEED EDIT-->
 <faction>陣營</faction>
-<locationchange.none.changeto.outpost.separatists>一‖color:faction.separatists‖木星分離主義份子‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.separatists>
-<locationchange.none.changeto.outpost.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.coalition>
-<locationchange.outpost.changeto.military.separatists>一‖color:faction.separatists‖分離主義‖end‖激進勢力進駐了[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.separatists>
-<locationchange.outpost.changeto.military.coalition>一‖color:faction.coalition‖聯盟‖end‖勢力進駐[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.coalition>
+<locationchange.none.changeto.outpost.separatists>一個‖color:faction.separatists‖木星分離主義份子‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>一個‖color:faction.coalition‖聯盟‖end‖勢力佔領了[previousname]並在那裡建立了一個新的哨站。</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>一個‖color:faction.separatists‖分離主義‖end‖激進勢力進駐了[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>一個‖color:faction.coalition‖聯盟‖end‖勢力進駐[previousname]，並在該地區組織了軍事力量。</locationchange.outpost.changeto.military.coalition>
 <locationchange.military.changeto.city.separatists>[previousname]的指揮官被任命為治理階層，使其被官方定為[name]市。</locationchange.military.changeto.city.separatists>
 <locationchange.military.changeto.city.coalition>[previousname]的人口已成長至足以被官方定為[name]市。</locationchange.military.changeto.city.coalition>
 <locationchange.outpost.changeto.mine.separatists>‖color:faction.separatists‖木星分離主義份子‖end‖開始於[previousname]進行採礦作業。</locationchange.outpost.changeto.mine.separatists>
@@ -258,7 +259,7 @@
 <entityname.huskcontainerspawner>畫皮寄生蟲置物箱</entityname.huskcontainerspawner>
 <entitydescription.huskcontainerspawner>一個受到「Velonaceps Calyx」，俗稱畫皮寄生蟲寄宿的置物箱。能被當成一種自動置物箱使用，不過效果頗為短暫，因為畫皮寄生蟲很難在無機物中存活太久。</entitydescription.huskcontainerspawner>
 <entityname.bookofchalices1>聖杯之書：三重蛻變</entityname.bookofchalices1>
-<threemetamorphoses>讓我告訴你靈魂的三重蛻變：靈魂如何成為化為人類堅韌意志的聖杯，聖杯如何倒空陳酒，又裝滿新酒。\n\n一個強大的、令人敬畏的靈魂能夠承載很多東西。\n\n「乘載何物？」靈魂伸出雙手問到。「最沉重之物為何？」靈魂又問。「我想背負那重擔，並為我的力量感到歡欣鼓舞。」\n\n那重擔是否如此：潛入最深的深淵探尋深邃的秘密？\n\n亦或如是：以知識的果實為食，為真理而承受靈魂的饑餓？\n\n還是這般：步入渾濁的真理之水，不再拒絕其中的害蟲與寄生蟲？\n\n再不其然：愛那些輕視我們之人，在那幽靈威脅我們時向它伸出自己的手？\n\n一切重擔由靈魂獨自承受：成為化為人類堅韌意志的聖杯，它為自己的力量歡欣鼓舞。\n\n但此時，瘴氣從聖杯中升起，因人類堅韌意志正背負的重擔是古老的，業已腐朽污濁。\n\n瘴氣對靈魂說道，「你得如此！」\n\n千年來的思想與價值散發出的瘴氣飄散空氣中，「一切事物的價值使我不朽。一切事物的價值已被創造──而我就代表這一切。是的，業已不會有『我將會』。」瘴氣如是說道。\n\n因此兄弟姊妹們，何來不需要倒盡聖杯？如何不滿足於屏除重擔而令人敬畏的人類的堅韌意志呢？創造新價值──那是人類無法完成之事：但創造新的自由，並由它創造價值──是人類的堅韌意志能做之事。\n\n要為自身創造自由，甚至得拋棄為人的重擔：為此，我的兄弟姊妹們，人已不被需要。承擔新的價值──那是對令人敬畏的靈魂的艱鉅挑戰。\n\n但請告訴我，我的兄弟姊妹們，空蕩蕩的聖杯本身價值為何？不正是當中的美酒賦予了它目的？為此我們必須尋找新的酒，新鮮而純淨，超越人類的堅韌意志，又盡在其掌握中。\n\n是的，兄弟姊妹們，進行創造遊戲需要對生命的神聖肯定，那堅韌的生命。這種堅韌的生命對勇於追求的人觸手可及，好似是由這世界餽贈。\n\n這帶來了第三次也是最後一次蛻變，昇華：人的靈魂被新的生命充滿，人類的堅韌意志與世界的堅韌意志融為一體。靈魂成為了意志本身；自身的世界超越將其流放的世界。換句話說，化為了最真實的姿態。</threemetamorphoses>
+<threemetamorphoses>讓我告訴你靈魂的三重蛻變：靈魂如何成為化為人類堅韌意志的聖杯，聖杯如何倒空陳酒，又裝滿新酒。\n\n靈魂需要承載許多，強大的靈魂蘊藏著敬畏與尊嚴。\n\n「乘載何物？」靈魂伸出雙手問到。「最沉重之物為何？」靈魂又問。「我想背負那重擔，並為我的力量感到歡欣鼓舞。」\n\n那重擔是否如此：潛入最深的深淵探尋深邃的秘密？\n\n亦或如是：以知識的果實為食，為真理而承受靈魂的饑餓？\n\n還是這般：步入渾濁的真理之水，不再拒絕其中的害蟲與寄生蟲？\n\n再不其然：愛那些輕視我們之人，在那幽靈威脅我們時向它伸出自己的手？\n\n一切重擔由靈魂獨自承受：成為化為人類堅韌意志的聖杯，它為自己的力量歡欣鼓舞。\n\n但此時，瘴氣從聖杯中升起，因人類堅韌意志正背負的重擔是古老的，業已腐朽污濁。\n\n瘴氣對靈魂說道，「你得如此！」\n\n千年來的思想與價值散發出的瘴氣飄散空氣中，「一切事物的價值使我不朽。一切事物的價值已被創造──而我就代表這一切。是的，業已不會有『我將會』。」瘴氣如是說道。\n\n因此兄弟姊妹們，何來不需要倒盡聖杯？如何不滿足於屏除重擔而令人敬畏的人類的堅韌意志呢？創造新價值──那是人類無法完成之事：但創造新的自由，並由它創造價值──是人類的堅韌意志能做之事。\n\n要為自身創造自由，甚至得拋棄為人的重擔：為此，我的兄弟姊妹們，人已不被需要。承擔新的價值──那是對令人敬畏的靈魂的艱鉅挑戰。\n\n但請告訴我，我的兄弟姊妹們，空蕩蕩的聖杯本身價值為何？不正是當中的美酒賦予了它目的？為此我們必須尋找新的酒，新鮮而純淨，超越人類的堅韌意志，又盡在其掌握中。\n\n是的，兄弟姊妹們，進行創造遊戲需要對生命的神聖肯定，那堅韌的生命。這種堅韌的生命對勇於追求的人觸手可及，好似是由這世界餽贈。\n\n這帶來了第三次也是最後一次蛻變，昇華：人的靈魂被新的生命充滿，人類的堅韌意志與世界的堅韌意志融為一體。靈魂成為了意志本身；自身的世界超越將其流放的世界。換句話說，化為了最真實的姿態。</threemetamorphoses>
 <entityname.bookofchalices2>聖杯之書：化身浪潮的先驅</entityname.bookofchalices2>
 <heraldofthetide>人類是動物與其真實姿態之間的橋樑。──一座位於深淵之上的橋梁。\n\要通過是危險的，通過時是危險的，回頭是危險的，顫抖和停滯是危險的。\n\n人的偉大之處在於，他是一座橋樑而不是一個目標：人的可愛之處在於，他既是向上昇華又是往下墮落的過程。能過此橋者甚少，過橋者皆大德：\n\n他們只瞭向下墮落的生活，正因他們向上昇華。\n\n他們仰望星空並非尋求墮落和犧牲，而是將自己獻給世界，為求到達屬於其真實姿態的世界。\n\n他們為求知而生，他們尋求成為其真實姿態的知識。為此他們尋求自身的往下墮落。\n\n他們勞動並創造，為其真實姿態修築新家，他們使大海、動物、植物、以及自身的肉體做好準備：為此他們尋求自身的往下墮落。\n\n他們懲罰自己的神，因為他們愛他們的神：因他們得藉由神的怒火消逝。\n\n他們的靈魂受到深深傷害，哪怕是一件小事也能將其摧毀：因此他們願意過橋。\n\n他們擁有自由的靈魂和內心：因此他們的腦袋僅是其心之附屬；然而他們的心使他們往下墮落。\n\n看啊，我是潮汐的使者，是洶湧的水流：而這潮汐，就是最真實的姿態。</heraldofthetide><!--not understand-->
 <character.huskcontainer>畫皮寄生蟲置物箱</character.huskcontainer>
@@ -342,7 +343,7 @@
 <eventtext.coalitionspecialhire1.o1.o2.repeat>「我們恐怕已經沒有空缺了，但如果情況有變的話我會告訴你的！」</eventtext.coalitionspecialhire1.o1.o2.repeat>
 <EventText.youngcultists.c1>幾個穿著長袍的人圍在一個躺在地上的人身邊。那個人劇烈地抽搐，仿佛是癲癇發作──你沒辦法確定周圍的人是在抑制他的顫抖或是在為他做心肺復甦。其中一位穿著長袍的人注意到了你。「嘿，你！從那個櫃子裡拿管皮蟲淨丟給我！」</EventText.youngcultists.c1>
 <EventText.youngcultists.o1>從櫃子裡拿藥丟給他們。</EventText.youngcultists.o1>
-<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過多少遍，你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.c1>你丟了一管寫著「皮蟲淨」的藥過去。那抽搐男子的脖子被打了一針後很快就安分了下來。其中一名穿著袍子的人顯然不太開心。「Mark，你這個沒耐心的蠢貨，我們講過多少遍你還沒準備好接受『饋贈』？！」</EventText.youngcultists.o1.c1>
 <EventText.youngcultists.o1.o1>「現在是怎樣？」</EventText.youngcultists.o1.o1>
 <EventText.youngcultists.o1.o1.c1>穿長袍的人們轉過頭來，你稍稍看清了他們的臉，似乎都還很年輕。「只是一場小型急救罷了，我們的朋友想說...來點刺激的會很好玩，你懂的，感謝你的幫助！要是你不介意，事情過去就算了吧。」</EventText.youngcultists.o1.o1.c1>
 <EventText.youngcultists.o1.o1.o1>「太可疑了。告訴我你們到底在對他幹嘛，不然我就去報案。」</EventText.youngcultists.o1.o1.o1>
@@ -354,9 +355,9 @@
 <EventText.youngcultists.o1.o1.o1.o1.o2>「不了，我喜歡我這皮囊。先走了。」</EventText.youngcultists.o1.o1.o1.o1.o2>
 <EventText.youngcultists.o1.o1.o1.o1.o3>「如果說我想要超越極限，那該怎麼做？」</EventText.youngcultists.o1.o1.o1.o1.o3>
 <EventText.youngcultists.o1.o1.o2>「別擔心，親愛的兄弟姊妹們。我只是想知道為什麼你們會想阻止那位仁兄進行轉化。」</EventText.youngcultists.o1.o1.o2>
-<EventText.youngcultists.o1.o1.o2.c1>他們凝重的表情放鬆了些。「你也看到他剛剛的樣子了吧？昇華不該是那樣子的。共生體方才是要將他吞噬，要取代他。他顯然還沒做好與共生體交融的準備。」</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.c1>他們凝重的表情放鬆了些。「你也看到他剛剛的樣子了吧？昇華不該是那樣子的。共生體剛才是要將他吞噬、要取代他。他顯然還沒做好與共生體交融的準備。」</EventText.youngcultists.o1.o1.o2.c1>
 <EventText.youngcultists.o1.o1.o2.o1>「原來如此。那如果一個人或有興趣想要『與共生體交融』的話，得做什麼準備呢？」</EventText.youngcultists.o1.o1.o2.o1>
-<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人，我不覺得我們有辦法回答那些問題。教士們說得做好準備才有辦法接受這份饋贈，你得敞開自己的心、思想、與全部肉體，才有辦法度過『聖餐』。有一些...儀式、工具之類的，用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>「呃，老實說，我們都還只是新人，我不覺得我們有辦法回答那些問題。教士們說得做好準備才有辦法接受這份饋贈，你得敞開自己的心靈、思想、與全部肉體，才有辦法度過『聖餐』。好像有些儀式、工具之類的...用於安撫和迎接共生體所帶來的變化。具體的事情我們還不太清楚就是了。但是教士肯定會樂意為你傳道授業的！」</EventText.youngcultists.o1.o1.o2.o1.c1>
 <EventText.youngcultists.o1.o1.o2.o1.o1>與那些熱情的年輕人道別，並祝他們的昇華能能夠愉快又短暫。</EventText.youngcultists.o1.o1.o2.o1.o1>
 <EventText.youngcultists.o1.o1.o2.o1.o2>邪教屁話。告知守衛。</EventText.youngcultists.o1.o1.o2.o1.o2>
 <EventText.youngcultists.o1.o1.o2.o2>「我以為你們就是想要被寄生蟲控制。」</EventText.youngcultists.o1.o1.o2.o2>
@@ -621,4 +622,4 @@
 <EventText.missionevent_jailbreak_sootman.c1.o1>「他是什麼人？」</EventText.missionevent_jailbreak_sootman.c1.o1>
 <EventText.missionevent_jailbreak_sootman.c1.o1.c1>「或許我們別提到他的名字會比較好，但我能告訴你他讓不少聯盟哨站和船艦被烈火吞噬。總之，現在他正被關在附近的一座哨站上。安全地把他救出那裡之後會有一筆豐厚的報酬等著你。」</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
 
-</infotexts>
+</override></infotexts>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
-<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
 <!-- New values -->
 <loadingscreentip>自首次對歐羅巴展開的無人偵查中發現了歐羅巴之眼及其周遭的重力異常現象以來，它們一直使科學家們困惑不解。但對歐羅巴上的殖民者而言有一個好消息，歐羅巴之眼周遭的重力和地球非常相近，而不是如其他地方0.13 G的表面重力。</loadingscreentip>
 <eyeofeuropa>歐羅巴之眼</eyeofeuropa>
@@ -118,11 +118,11 @@
 <EventText.ancientencounter.o1.o1.o2>「我能夠傾聽。」</EventText.ancientencounter.o1.o1.o2>
 <EventText.ancientencounter.o1.o1.o2.c1>突然，一陣劇痛讓你蜷縮了起來。「汝不想。聽者唯有毀滅。」</EventText.ancientencounter.o1.o1.o2.c1>
 <EventText.ancientencounterfinal>「吾等歌聲已然唱響，卻不知汝等詩節數量。橋樑即將崩潰，汝還有一線生機返回。對於吾等，群星不存，唯有家園；但對汝等，星空開闊。他們永遠不會知道汝的犧牲，但吾等明白。」</EventText.ancientencounterfinal>
-<campaignstart1>21世紀初期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。\n\n在那發現之後沒有多久，人類首次抵達歐羅巴且確定這顆衛星確實充滿生機。不只是微生物，更有高度演化的，充滿敵意的動物。除了兇猛生物之外，研究員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力和嚴寒所帶來的艱鉅挑戰。</campaignstart1>
+<campaignstart1>21世紀初期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。\n\n在那發現之後沒有多久，人類首次抵達歐羅巴且確定這顆衛星確實充滿生機。不只是微生物，更有高度演化、充滿敵意的動物。除了兇猛生物之外，研究員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力和嚴寒所帶來的艱鉅挑戰。</campaignstart1>
 <campaignstart2>儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落，並開始發展新的生活方式。一股新的治理能量也隨著在這月亮上最龐大、最具影響力的幾座城市彼此結盟而逐漸成形。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在約50年前完全中斷，從此不見太空補給艦來往。</campaignstart2>
 <campaignstart3>在這個新社會裡，水下載具和交通扮演著關鍵角色。它們被用來尋找新的居住地、保護公民免受生物攻擊、並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。\n\n儘管船員們的生活既危險且往往非常短暫，潛艇上的工作總是有利可圖。因而你下定決心迎接挑戰，建立了自己的團隊。如今你終於擁有一艘潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展、一切由你決定。</campaignstart3><!--停靠在[location]的[submarine]--><!--names won't translate-->
 <campaignending1>重力崩潰後，T+ 02:14:39\n\n「這裡是表面觀測站E5。我們正在遭受...呃...上面又發生了一些狀況。是否收到？完畢。」\n\n「表面觀測站E5，這裡是Merrivale Linea哨站，請發話，完畢。」</campaignending1>
 <campaignending2>「木星的大紅斑──我不知道該怎麼描述，好像安靜了下來一樣。輻射水準依然低得異常。你們那裡情況如何？有什麼新狀況嗎？完畢。」\n\n「這裡的輻射水準也是一樣低，而且很穩定。重力也是。我們聯繫過 af Grann 博士，但他似乎也和我們一樣毫無頭緒。不過他提到早些有一支隊伍駕著潛艇通過了他的所在哨站，不過我們不清楚兩者間有什麼關聯性，完畢。」</campaignending2><!--駕著一艘[submarine]通過了他的所在哨站--><!--names won't translate-->
 <campaignending3>「我猜你沒有和那支隊伍進行通話的機會？完畢。」\n\n「沒有。af Grann博士說我們在這個類時超曲面上不會再見到他們了...不知道是什麼意思。他總是說這種沒人聽得懂的話。完畢。」\n\n「好吧，如果真是他們幹的，那我可得向他們致敬。願他們從此以後的航行永遠風平浪靜。通話完畢。」</campaignending3>
 
-</infotexts>
+</override></infotexts>
