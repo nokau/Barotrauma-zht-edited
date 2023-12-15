@@ -42,7 +42,7 @@ Inside this project's [current_version](./current_version) folder, there are 5 f
 Game file located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
 - **NpcConversations_TraditionalChinese.xml**
 
-### Other texts:
+### UI/Game texts:
 
 Game file located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
 - **TraditionalChineseVanilla.xml** - Gameplay UI, items, events, etc.
