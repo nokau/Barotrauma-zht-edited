@@ -1593,7 +1593,7 @@
 <missionsuccess.cargocompoundn>爆裂物已被成功送達。</missionsuccess.cargocompoundn>
 <missionname.cargovolatilecompoundn>運送高危險爆裂物</missionname.cargovolatilecompoundn>
 <missiondescription.cargovolatilecompoundn>一個當地的軍火商出價[reward]馬克請求運送一批穩定性低且威力強大的爆裂物給他們位於[location2]的客戶。運送時間至關重要，必須在貨物發生自身損耗之前送抵安置。</missiondescription.cargovolatilecompoundn>
-<missionsuccess.cargovolatilecompoundn>揮發性爆裂物已在時限內成功送達。</missionsuccess.cargovolatilecompoundn>
+<missionsuccess.cargovolatilecompoundn>高危險爆裂物已在時限內成功送達。</missionsuccess.cargovolatilecompoundn>
 <missionname.cargochemicals>運送化學物</missionname.cargochemicals>
 <missiondescription.cargochemicals>[location1]的研究人員出價[reward]馬克作為運送一批危險的化學物至[location2]的費用。</missiondescription.cargochemicals>
 <missionsuccess.cargochemicals>化學物已被成功送達。</missionsuccess.cargochemicals>
