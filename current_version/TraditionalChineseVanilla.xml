@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
-<!-- INDEX: EnglishVanilla.xml (1~8020), EnglishVanilla EnglishVanillaNew.xml (8021~7418) -->
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- INDEX: EnglishVanilla.xml (1~8249), EnglishVanillaNew.xml (-) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -251,8 +251,8 @@
 <UnpublishedModsHeader>未發布</UnpublishedModsHeader>
 <LastLocalEditTime>上次修改於 [datetime]</LastLocalEditTime>
 <LatestPublishTime>上次更新於 [datetime]</LatestPublishTime>
-<FreeWeekendCantPublish>你正透過免費周末期間遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FreeWeekendCantPublish>
-<FamilySharedCantPublish>你正透過親友同享功能遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FamilySharedCantPublish>
+<FreeWeekendCantPublish>您正透過免費周末期間遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FreeWeekendCantPublish>
+<FamilySharedCantPublish>您正透過親友同享功能遊玩《潛淵症》。\n\n只有已購買遊戲的玩家能夠發布項目至Steam工作坊。</FamilySharedCantPublish>
 <WorkshopItemVisibility.Unlisted>未公開</WorkshopItemVisibility.Unlisted>
 <ModDownloadTitle>需要的Mod</ModDownloadTitle>
 <ModDownloadHeader>進入此伺服器需要下列模組:</ModDownloadHeader>
@@ -326,7 +326,7 @@
 <contentpackage>內容套件</contentpackage>
 <contentpackages>內容套件</contentpackages>
 <corepackagerequiredwarning>你無法取消選取核心內容套件，但你能夠以選擇另一個核心內容套件的方式進行切換。</corepackagerequiredwarning>
-<cannotremovecontentpackagesub>該潛艇的檔案為內容套件 "[contentpackage]" 的一部分因此無法移除。請自遊戲中的Steam工作坊選單中移除該套件。</cannotremovecontentpackagesub>
+<cannotremovecontentpackagesub>該潛艇的檔案為內容套件 "[contentpackage]" 的一部分因此無法移除。請自遊戲內的Steam工作坊選單中移除該套件。</cannotremovecontentpackagesub>
 <settingresetverification>你確定要初始化全部設定嗎？</settingresetverification>
 <incorrectexe>你啟動的執行檔並未包含在內容套件 [selectedpackage] 之中。你想要啟動 [exename] 嗎？</incorrectexe>
 <language>語言</language>
@@ -2782,7 +2782,7 @@
 <entityname.abyssdivingsuit>深淵潛水服</entityname.abyssdivingsuit>
 <entitydescription.abyssdivingsuit>一套為深海探索而設計的厚重潛水服，它能夠承受強大水壓直至10,000公尺、降低氧氣消耗，但代價是移動速度降低。</entitydescription.abyssdivingsuit>
 <entityname.combatdivingsuit>戰鬥潛水服</entityname.combatdivingsuit>
-<entitydescription.combatdivingsuit>一套為戰鬥而設計的靈活、輕量化潛水服，它能夠抵禦些許傷害且能承受最低6,000公尺深度的高壓。</entitydescription.combatdivingsuit>
+<entitydescription.combatdivingsuit>一套為戰鬥而設計的靈活、輕量化潛水服，它能夠抵禦些許傷害且能承受最深6,000公尺深度的高壓。</entitydescription.combatdivingsuit>
 <entityname.pressurestabilizer>壓力穩定劑</entityname.pressurestabilizer>
 <entitydescription.pressurestabilizer>一種可讓使用者對壓力產生免疫，並在短時間內消除對氧氣的需求的特殊藥物。</entitydescription.pressurestabilizer>
 <entityname.endocrinebooster>內分泌促進劑</entityname.endocrinebooster>
@@ -2912,7 +2912,7 @@
 <entityname.safetyharness>安全束帶</entityname.safetyharness>
 <entitydescription.safetyharness>一項歐羅巴潛艇上用來減少工安相關傷害的特殊裝備，這套裝備也能減輕水流帶來的影響，使穿戴者在船體出現漏洞時站穩腳步。</entitydescription.safetyharness>
 <entityname.pucs>PUCS</entityname.pucs>
-<entitydescription.pucs>The Protective Universal Crisis Suit, or PUCS for short, bestows its user with immense resistances to environmental hazards such as radiation and fire. The built-in air-filtration system allows the suit to utilize hull oxygen when possible, and the built-in computer injects the user with whatever medicine is placed inside the suit. Withstands pressure up to a depth of 6,000 meters.</entitydescription.pucs>
+<entitydescription.pucs>通用危機保護裝 (Protective Universal Crisis Suit)，簡稱PUCS，能夠賦予其使用者對輻射和火災等環境危害的強大抵抗力。其搭載的空氣過濾系統讓這套潛水服能夠在狀況許可時直接利用船艙內的氧氣，同時所搭載的電腦也能對使用者注射任何置於其中的藥物。可承受最深6,000公尺的壓力。</entitydescription.pucs>
 <entityname.cigar>雪茄</entityname.cigar>
 <entitydescription.cigar>潛艇船員的生活總是神經緊繃，但或許這支製作精良的雪茄能幫助你稍微舒緩一下心情。</entitydescription.cigar>
 <entityname.stungundartfulgurium>雷素電擊槍飛鏢</entityname.stungundartfulgurium>
