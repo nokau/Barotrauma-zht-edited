@@ -1,9 +1,5 @@
 # Barotrauma-zht-edited
-[Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
-
-[English README](./README_eng.md)
-
-[這個Mod的Steam工作坊頁面](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
+[Barotrauma on Steam](https://store.steampowered.com/app/602960/Barotrauma/) | [English README](./README_eng.md) | [這個Mod的Steam工作坊頁面](https://steamcommunity.com/sharedfiles/filedetails/?id=2804180128)
 
 # 這是什麼?
 這是一個基於電腦遊戲 Barotrauma 的官方繁體中文文本、參考其官方英文文本內容後進行調整的繁體中文文本Mod。文本內容盡量以當前版本的官方英文文本檔案內容進行排序，以便對照。
