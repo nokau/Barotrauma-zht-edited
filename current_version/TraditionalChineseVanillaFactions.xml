@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.0.21.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- edited by nokau for v1.6.2.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -58,7 +58,7 @@
 <missionname.escort1huskcult>運送邪教教徒</missionname.escort1huskcult>
 <missiondescription.escort1huskcult>畫皮教會出價[reward]馬克讓你運送一批教徒至[location2]。有理由相信他們之中有些人打算提前進行「交融」並逃進冰洋之中，但教會要求你緊緊盯著他們，讓他們以人類姿態登上[location2]。</missiondescription.escort1huskcult>
 <EventText.missionevent_escort1huskcult.c1>「喂！找工作嗎？有幾個我們的教徒想到別的哨站上去。但我得先說；我們已經和他們解釋得很清楚，他們還沒準備好，不過他們似乎計畫好了要自己進行『交融』。你最好緊緊盯著他們，確保他們不會在船上做出什麼蠢事。」</EventText.missionevent_escort1huskcult.c1>
-<eventtext.missionevent_cargohuskcult>“Looking for work? We've got some…let's say, research materials that are sorely needed in the neighboring outpost. Get them there, don't ask questions, and we'll pay you.”</eventtext.missionevent_cargohuskcult>
+<eventtext.missionevent_cargohuskcult>「在找工作嗎？我們有批...怎麼說呢，附近哨站迫切需要的研究物資。把那些東西送過去、別多問、我們會付你錢的。」</eventtext.missionevent_cargohuskcult>
 <missionname.huskcultspecialassassinate>寂靜守護者</missionname.huskcultspecialassassinate>
 <missiondescription.huskcultspecialassassinate>教會注意到有聯盟的特務在調查他們的動態。對方的調查已經深入教會的秘密，我們別無選擇，只能讓他消失。前往[location1]並儘可能謹慎地消滅特務。</missiondescription.huskcultspecialassassinate>
 <missionsuccess.huskcultspecialassassinate>已殲滅目標，教會的秘密安全了。</missionsuccess.huskcultspecialassassinate>
