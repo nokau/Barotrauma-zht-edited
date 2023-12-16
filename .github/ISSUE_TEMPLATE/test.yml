@@ -1,26 +1,14 @@
-name: Others (TEST)
-description: 遊戲崩潰、錯誤訊息、其它問題。
-title: "[Others]: "
+name: Others
+description: 遊戲崩潰、錯誤訊息、其它問題。The game crashed, errors popping, etc.
+title: "[Others]"
 labels: ["其它問題/other issue", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
+      label: 我遇到了這些錯誤:
+      description: 輸入與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。
       placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
