@@ -1,5 +1,6 @@
 name: "其他問題/Other-issue"
-description: 遊戲崩潰、錯誤訊息、其它問題。|The game crashed, errors popping, etc.
+description: 遊戲崩潰、錯誤訊息、其它問題。 |
+The game crashed, errors popping, etc.
 title: "[Other-issue] 請使用與內容直接相關且詳細的標題"
 labels: ["其它問題/other issue"]
 body:
