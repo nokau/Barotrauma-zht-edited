@@ -2023,8 +2023,8 @@
 <traitor.blamebutton.dialog>你有什麼邪惡計畫嗎，[name]？</traitor.blamebutton.dialog>
 <traitor.blamebutton.dialog>[name]並沒有將注意力放在任務目標上。難道是因為別有圖謀？</traitor.blamebutton.dialog>
 <traitor.blameresult>有船員懷疑[name]是一名叛徒！</traitor.blameresult>
-<traitor.blameresult.correct.objectivesuccessful>船員的懷疑正確。由於叛徒身分已曝光，就算他們已經完成了叛徒任務，他們也不會獲得指使者發放的任何獎勵。</traitor.blameresult.correct.objectivesuccessful>
-<traitor.blameresult.correct.objectivefailed>船員的懷疑正確。很幸運的，叛徒門的任務失敗了。</traitor.blameresult.correct.objectivefailed>
+<traitor.blameresult.correct.objectivesuccessful>船員們的懷疑正確。由於叛徒身份已曝光，就算他們已經完成了叛徒任務，他們也不會獲得指使者發放的任何獎勵。</traitor.blameresult.correct.objectivesuccessful>
+<traitor.blameresult.correct.objectivefailed>船員們的懷疑正確。很幸運的，叛徒們的任務失敗了。</traitor.blameresult.correct.objectivefailed>
 <traitor.blameresult.failure>船員的懷疑錯誤，而叛徒或許仍正在為非作歹。</traitor.blameresult.failure>
 <traitor.blameresult.failure.penalty>船員們因做出不實指控導致浪費執法人員時間而被開罰[money]馬克。</traitor.blameresult.failure.penalty>
 <traitortimebomb.stage1>同時裝備這顆炸彈和一把螺絲起子就能查看它的內部結構。</traitortimebomb.stage1>
@@ -2332,7 +2332,7 @@
 <EventText.bloodsamples.objective1>找到空的血液樣本瓶，之後收集每位船員的血液樣本。</EventText.bloodsamples.objective1>
 <EventText.bloodsamples.c2>你找到血液樣本瓶了。現在你得裝滿它們... 首先，使船員流血（最好以不引人注目的方式），接著對出血患部使用血液樣本瓶採集樣本。</EventText.bloodsamples.c2>
 <EventText.bloodsamples.c3>你採集了所有船員的血液樣本。畫皮教會一定會非常滿意。</EventText.bloodsamples.c3>
-<EventText.bloodsamples.objective2>叛徒成功收集了血液樣本。</EventText.bloodsamples.objective2>
+<EventText.bloodsamples.objective2>一位叛徒成功收集了血液樣本。</EventText.bloodsamples.objective2>
 <EventText.bloodsamples.objective3>收集血液樣本失敗。</EventText.bloodsamples.objective3>
 <traitorobjective.bloodsamples.find>取得空的血液樣本瓶</traitorobjective.bloodsamples.find>
 <traitorobjective.bloodsamples.samples>收集血液樣本</traitorobjective.bloodsamples.samples>
@@ -8033,7 +8033,7 @@
 <!-- New values November 24 -->
 <entityname.brokendivingsuit>受損潛水服</entityname.brokendivingsuit>
 <entitydescription.brokendivingsuit>一件嚴重受損的潛水服，放進解構儀能拿到些許材料。</entitydescription.brokendivingsuit>
-<eventtext.missionevent_cargo_difficult.c1>「我們有批需要『極度小心運送』的貨物。這可不是平時那種運輸任務，那種磁浮箱子只在必須維持裡面的東西穩定、不會自己爆炸時使用。確保箱子在旅途中有電力供應你就不會有事。你們處裡得來嗎？」</eventtext.missionevent_cargo_difficult.c1>
+<eventtext.missionevent_cargo_difficult.c1>「我們有批需要『極度謹慎運送』的貨物。這可不是平時那種運輸任務，那種磁浮箱子只在必須維持裡面的東西穩定、不會自己爆炸時使用。確保箱子在旅途中有電力供應你就不會有事。你們處裡得來嗎？」</eventtext.missionevent_cargo_difficult.c1>
 <eventtext.missionevent_salvageartifactabyss.c1>「我們收到了來自海底的一道微弱訊號。科學家們非常確定那是一件異星文物。如果你們能去確認一下，我們會提供報酬。」</eventtext.missionevent_salvageartifactabyss.c1>
 <missiondescription.cargocompoundn>一個當地的軍火商出價[reward]馬克請求運送一批威力強大的爆裂物給他們位於[location2]的客戶。</missiondescription.cargocompoundn>
 <missiondescription.salvageartifactabyss>[location1]的研究人員接收到了一個與先前歐羅巴上發現的異星遺蹟所發出的低頻聲波相似的訊號。依信號的微弱程度推斷，有必要下潛至深淵才有機會取回任何潛在的異星文物。</missiondescription.salvageartifactabyss>
@@ -8043,7 +8043,7 @@
 
 
 
-<missionname.cargonitroglycerin2>Handle with extreme care</missionname.cargonitroglycerin2>
+<missionname.cargonitroglycerin2>極度謹慎運送</missionname.cargonitroglycerin2>
 <missiondescription.cargonitroglycerin2>當地研究人員出價[reward]馬克，請求運送一批極度不穩定的硝化甘油至[location2]。必須對磁浮箱子隨時供電以確保內容物狀態穩定。</missiondescription.cargonitroglycerin2>
 
 <missionsuccess.cargonitroglycerin2>不穩定的爆裂物已被成功送達。</missionsuccess.cargonitroglycerin2>
@@ -8067,32 +8067,32 @@
 <dialogcheckstolenitems.arrest>想來硬的？如你所願。</dialogcheckstolenitems.arrest>
 <dialogcheckstolenitems.comply>你現在可以走了。但我會緊緊盯著你...</dialogcheckstolenitems.comply>
 <dialogcheckstolenitems.comply>好吧，你可以走了。但我會緊緊盯著你...</dialogcheckstolenitems.comply>
-<versionmismatchwarning>遊戲執行檔版本 (v[gameversion]) 與內容套件 (v[contentversion]) 不符。此情形會在您使用覆蓋了遊戲執行檔的內容套件，且其未被更新至與遊戲內容版本相符時發生。使用不相符的執行檔可能會導致如程式崩潰或存檔損壞等問題發生。</versionmismatchwarning>
+<versionmismatchwarning>遊戲執行檔版本 (v[gameversion]) 與內容套件版本 (v[contentversion]) 不符。此情形會在您使用覆蓋了遊戲執行檔的內容套件，且其未被更新至與遊戲內容版本相符時發生。使用不相符的執行檔可能會導致如程式崩潰或存檔損壞等問題發生。</versionmismatchwarning>
 <versionmismatch.verifylaunch>您依舊要啟動[exename]嗎？</versionmismatch.verifylaunch>
 <suppliespurchased.deliverymethod>立即取得所購買的物品，或在離開哨站時將它們送到潛艇上？</suppliespurchased.deliverymethod>
 <suppliespurchased.deliverymethod.deliverimmediately>直接取得物品</suppliespurchased.deliverymethod.deliverimmediately>
 <suppliespurchased.deliverymethod.delivertosub>送到潛艇上</suppliespurchased.deliverymethod.delivertosub>
 <ServerSettingsImmediateItemDelivery>允許物品立即配送</ServerSettingsImmediateItemDelivery>
 <eventname.exhibitionism>暴露狂</eventname.exhibitionism>
-<EventText.exhibitionism.c1>Confined to your calamitous coffin, with the same sweaty sailors for company day by day, moment to month. You need to feel freedom, the air caressing your exposed body. It's time to get those clothes off.</EventText.exhibitionism.c1>
-<EventText.exhibitionism.c2>You finally feel free again! At last! Now, to keep it up for the entire remainder of the tumultuous trip, without arousing too much suspicion or outrage.</EventText.exhibitionism.c2>
-<EventText.exhibitionism.objective1>Take off any clothes that might restrict or cover you. This includes diving suits, but excludes headwear or gear covering a small part of the body.</EventText.exhibitionism.objective1>
-<EventText.exhibitionism.objective2>Complete the mission without covering yourself. Avoid being suspected of eccentric behavior.</EventText.exhibitionism.objective2>
-<EventText.exhibitionism.success_self>I went an entire mission without covering myself, and there was barely a complaint about it!</EventText.exhibitionism.success_self>
-<EventText.exhibitionism.success>The traitor went an entire mission without covering themselves with clothes or a diving suit. Hats off to them.</EventText.exhibitionism.success>
-<EventText.exhibitionism.failure>Going without clothes on for the entire journey has failed. Another victim to the shackles of a prude society.</EventText.exhibitionism.failure>
-<traitorobjective.exhibitionism.stripdown>Strip down</traitorobjective.exhibitionism.stripdown>
-<traitorobjective.exhibitionism.exhibit>Stay undressed</traitorobjective.exhibitionism.exhibit>
+<EventText.exhibitionism.c1>日復一日的和這群臭水手一起被關在這副鐵棺材裡，你迫切需要讓清風吹拂你寸縷不掛的軀體，感受一下自由的空氣。該是時候脫了。</EventText.exhibitionism.c1>
+<EventText.exhibitionism.c2>終於！你又感受到了自由！現在以此狀態度過這段喧囂旅途，但不被懷疑或造成眾怒。</EventText.exhibitionism.c2>
+<EventText.exhibitionism.objective1>脫下任何會限制行動或遮蔽你自由之身的衣物，這包含潛水服。但頭飾或僅遮蔽小部分軀體的裝備不在此限。</EventText.exhibitionism.objective1>
+<EventText.exhibitionism.objective2>以自由之軀度過旅途全程。避免被懷疑行為古怪。</EventText.exhibitionism.objective2>
+<EventText.exhibitionism.success_self>我以自由之軀度過旅途全程，還幾乎沒人抱怨！</EventText.exhibitionism.success_self>
+<EventText.exhibitionism.success>一名叛徒在旅途全程未以衣物或潛水服遮蔽自身軀體。向此人致敬。</EventText.exhibitionism.success>
+<EventText.exhibitionism.failure>未能在旅途全程衣不蔽體。你是拘謹社會的又一名受害者。</EventText.exhibitionism.failure>
+<traitorobjective.exhibitionism.stripdown>脫光衣物</traitorobjective.exhibitionism.stripdown>
+<traitorobjective.exhibitionism.exhibit>保持脫光</traitorobjective.exhibitionism.exhibit>
 <eventname.originalhonkero>純正小丑</eventname.originalhonkero>
-<EventText.originalhonkero.c1>The Original Clown Experience™. You aren't currently tormenting any crewmembers with bike horns. An absolute disgrace, which you plan to rectify IMMEDIATELY.</EventText.originalhonkero.c1>
-<EventText.originalhonkero.c2>You've found the Bike Horn. “Well done…” you hear your imaginary clown colleagues congratulating you.\n\nNow to find [character] and become their worst nightmare. Of course, all the other crew should think you're innocent, so try not to be too obvious about it. Finally, you should ensure the torment lasts the entire journey, so pausing a bit between honks is mandatory.</EventText.originalhonkero.c2>
-<EventText.originalhonkero.objective1>Find a Bike Horn, then torment [victim] with it. Collateral damage should be avoided, so try not to honk when other crewmembers might see you. Honk [honks] times, with at least a [cooldown] second interval to really let that honk sink in.</EventText.originalhonkero.objective1>
-<EventText.originalhonkero.objective2>You obtained a Bike Horn. Honking time!</EventText.originalhonkero.objective2>
-<EventText.originalhonkero.success_self>You successfully tormented one crewmember.</EventText.originalhonkero.success_self>
-<EventText.originalhonkero.success>The traitor successfully tormented one crewmember.</EventText.originalhonkero.success>
-<EventText.originalhonkero.failure>Tormenting the victim has failed.</EventText.originalhonkero.failure>
-<traitorobjective.originalhonkero.bikehorn>Obtain a Bike Horn</traitorobjective.originalhonkero.bikehorn>
-<traitorobjective.originalhonkero.torment>Torment your victim with your Bike Horn</traitorobjective.originalhonkero.torment>
+<EventText.originalhonkero.c1>純正小丑體驗™。這當下你竟然沒用自行車喇叭折磨任何一位船員，實在是丟臉至極。你正打算改正這點，立刻馬上。</EventText.originalhonkero.c1>
+<EventText.originalhonkero.c2>你找到自行車喇叭了。「做得好...」你聽見你的想像小丑同伴為你祝賀。\n\n現在找到[character]並成為對方最可怕的噩夢。當然，你還是得讓其他人覺得你是無辜的，所以別太招搖。最後，為確保你的折磨行動能持續一整段航程，叭噗之間必須間隔一段時間。</EventText.originalhonkero.c2>
+<EventText.originalhonkero.objective1>找到一支自行車喇叭並使用它對[victim]進行折磨。為避免波及無辜，盡量避開其他船員的耳目。鳴響[honks]次自行車喇叭，每次間隔[cooldown]秒好讓那叭噗聲能確實地深入目標的腦海中。</EventText.originalhonkero.objective1>
+<EventText.originalhonkero.objective2>你取得了一支自行車喇叭。開叭！</EventText.originalhonkero.objective2>
+<EventText.originalhonkero.success_self>你成功使一位船員受到折磨。</EventText.originalhonkero.success_self>
+<EventText.originalhonkero.success>叛徒們成功使一位船員受到折磨。</EventText.originalhonkero.success>
+<EventText.originalhonkero.failure>折磨目標對象失敗。</EventText.originalhonkero.failure>
+<traitorobjective.originalhonkero.bikehorn>取得一支自行車喇叭</traitorobjective.originalhonkero.bikehorn>
+<traitorobjective.originalhonkero.torment>使用你的自行車喇叭折磨目標對象</traitorobjective.originalhonkero.torment>
 <traitorobjective.originalhonkero.waitforcooldown>Wait before honking again</traitorobjective.originalhonkero.waitforcooldown>
 <traitorobjective.5timesremaining>還有5次</traitorobjective.5timesremaining>
 <traitorobjective.4timesremaining>還有4次</traitorobjective.4timesremaining>
@@ -8100,56 +8100,56 @@
 <traitorobjective.2timesremaining>還有2次</traitorobjective.2timesremaining>
 <traitorobjective.1timesremaining>還有1次</traitorobjective.1timesremaining>
 <eventname.firingblanks>空包彈</eventname.firingblanks>
-<EventText.firingblanks.c1>“Who laughs last…” you mumbled to yourself as you walked through the airlock, into the submarine. They pulled the classic “broken airlock” prank on you, and you did for a moment there think you'd be flushed, crushed and imploded.\n\nLet's see how they react to one of the true classics: the blank ammunition prank. You just need to sabotage one of the coilgun's ammunition boxes a bit…</EventText.firingblanks.c1>
-<EventText.firingblanks.c2>You tinkered a bit with the coilgun's ammunition box, meaning it's now utterly useless to kill enemies with. For good measure, you installed some bike horns in there, because why not. If the bike horns sound, you know your prank was successful.</EventText.firingblanks.c2>
-<EventText.firingblanks.c3>The sound of a honk emanating from the tampered ammunition box fills you with joy. Your prank was a success! While you feel like laughing out loud and rubbing it in their faces, you are aware of the potential repercussions. Better wait a day or two, and have a laugh about it later.</EventText.firingblanks.c3>
-<EventText.firingblanks.objective1>You plan to prank your crewmembers by replacing a coilgun ammunition box with a version that just has blanks. First, obtain a coilgun ammo box, then insert it into a loader and make sure your crew tries to engage an enemy with it.</EventText.firingblanks.objective1>
-<EventText.firingblanks.objective2>You successfully replaced an ammo box with blanks. It is indistinguishable from the real thing. Insert it into a loader and make sure it is fired [shotsfired] times by someone other than you.</EventText.firingblanks.objective2>
-<EventText.firingblanks.objective3>The sabotaged coilgun ammunition box has been loaded—now you just need to make sure the blanks are fired [shotsfired] times by someone other than you.</EventText.firingblanks.objective3>
-<EventText.firingblanks.success_self>You successfully pranked the crew with blanks.</EventText.firingblanks.success_self>
-<EventText.firingblanks.success>The traitor successfully pranked the crew with blanks.</EventText.firingblanks.success>
-<EventText.firingblanks.failure>The blank-prank has failed.</EventText.firingblanks.failure>
-<traitorobjective.firingblanks.getammo>Obtain a coilgun ammunition box</traitorobjective.firingblanks.getammo>
-<traitorobjective.firingblanks.replaceammo>Convert the box to blanks</traitorobjective.firingblanks.replaceammo>
-<traitorobjective.firingblanks.insertammo>Insert the blanks into a loader</traitorobjective.firingblanks.insertammo>
-<traitorobjective.firingblanks.fireblanks>Crewmembers fired blanks</traitorobjective.firingblanks.fireblanks>
-<traitorobjective.firingblanks.dontfireself>Don't fire blanks yourself!</traitorobjective.firingblanks.dontfireself>
+<EventText.firingblanks.c1>「別高興得太早...」你邊嘀咕邊穿過氣閘進入潛艇。他們剛才搞了一齣經典的「氣閘壞了」惡作劇，讓你一瞬間以為自己到此為止，會就這樣被海水淹沒、壓扁。\n\n換他們遇上經典中的經典：「空包彈」惡作劇時是什麼反應。你只需要對一個電磁槍彈藥箱動點手腳...</EventText.firingblanks.c1>
+<EventText.firingblanks.c2>你對一個電磁槍彈藥箱動了點手腳，這下子它就對敵人毫無作用了。一不做二不休，你還裝了自行車喇叭進箱子裡要他們好看。到時候要是叭噗作響，代表你的惡作劇成功了。</EventText.firingblanks.c2>
+<EventText.firingblanks.c3>被你動過手腳的彈藥箱傳出的喇叭聲響使你感到愉悅。惡作劇成功！你多麼想當面嘲笑他們，但大概的後果可想而知。最好等個一兩天再去笑他們。</EventText.firingblanks.c3>
+<EventText.firingblanks.objective1>你打算把一個電磁槍彈藥箱的內容物換成空包彈來整你的船員。首先，取得一個電磁槍彈藥箱；接著將它裝進一架裝彈機、確保你的船員們用它與敵人進行戰鬥。</EventText.firingblanks.objective1>
+<EventText.firingblanks.objective2>你成功將一個彈藥箱內容物換成了空包彈。它看上去和其他彈藥箱無異。將它裝進一架裝彈機並確保空包彈被你以外的人擊發[shotsfired]次。</EventText.firingblanks.objective2>
+<EventText.firingblanks.objective3>你動過手腳的彈藥箱已被裝填──現在你只需要確保空包彈被你以外的人擊發[shotsfired]次。</EventText.firingblanks.objective3>
+<EventText.firingblanks.success_self>你成功以空包彈整到船員。</EventText.firingblanks.success_self>
+<EventText.firingblanks.success>一名叛徒成功以空包彈整到船員。</EventText.firingblanks.success>
+<EventText.firingblanks.failure>空包彈惡作劇失敗。</EventText.firingblanks.failure>
+<traitorobjective.firingblanks.getammo>取得一個電磁槍彈藥箱</traitorobjective.firingblanks.getammo>
+<traitorobjective.firingblanks.replaceammo>將內容物換成空包彈</traitorobjective.firingblanks.replaceammo>
+<traitorobjective.firingblanks.insertammo>將空包彈彈藥箱放進一架裝彈機</traitorobjective.firingblanks.insertammo>
+<traitorobjective.firingblanks.fireblanks>船員擊發了空包彈</traitorobjective.firingblanks.fireblanks>
+<traitorobjective.firingblanks.dontfireself>別自己把空包彈用掉！</traitorobjective.firingblanks.dontfireself>
 <eventname.clobberyrobbery>驚天劫案</eventname.clobberyrobbery>
-<EventText.clobberyrobbery.c1>Oof. You feel the lightness of your pockets. “That wretched [victim] did it again…” Foul play HAS to be involved—how can you be this unlucky ALL the time? On the other hand, luck always seems to be in the favor of that wretched [victim]. You know you weren't the only one who lost money yesterday, although the shady gambling room made it hard to see who else was there.\n\nMaybe you can get some of your money back in an old-fashioned robbery. You can play unfair too.\n\nThe gambling event was called “[codeword],” so mentioning the “[codeword]” incident might help you identify possible co-conspirators.</EventText.clobberyrobbery.c1>
-<EventText.clobberyrobbery.c2>Welp. You are all out of money again, thanks to this gambling event aptly named “[codeword].” Luckily you still have those bandanas from last time this happened, so you can just take the money right back and call it even.\n\nNow, if only you could identify who actually took your money. Unfortunately the lighting was rather dim, but perhaps mentioning “[codeword]” will get you some information from a crewmember.</EventText.clobberyrobbery.c2>
-<EventText.clobberyrobbery.c3>You have your masks, and you have your target. “Let's go…” you and your accomplice whisper to each other. You just have to isolate the [victim] and get your money back. The rest of the crew might disapprove, so make it inconspicuous.</EventText.clobberyrobbery.c3>
-<EventText.clobberyrobbery.c4>Robbery successful! Now, better find a way to avoid getting accused of treachery…</EventText.clobberyrobbery.c4>
-<EventText.clobberyrobbery.objective1>Find your accomplice to rob your target with.</EventText.clobberyrobbery.objective1>
-<EventText.clobberyrobbery.objective2>The target is [victim]. Ensure your accomplice knows who you're robbing.</EventText.clobberyrobbery.objective2>
-<EventText.clobberyrobbery.objective3>You have bandanas. Share them with your accomplice in order to stay hidden.</EventText.clobberyrobbery.objective3>
-<EventText.clobberyrobbery.objective4>You're ready to go. Isolate your target, knock them unconscious with a blunt tool or weapon, and rob them!</EventText.clobberyrobbery.objective4>
-<EventText.clobberyrobbery.objective5>You successfully robbed your target. Now deny or deflect any accusations!</EventText.clobberyrobbery.objective5>
-<EventText.clobberyrobbery.success_self>You and your accomplice successfully robbed the target. And got away with it, too!</EventText.clobberyrobbery.success_self>
-<EventText.clobberyrobbery.success>Two robbers successfully stole from their target without getting accused.</EventText.clobberyrobbery.success>
-<EventText.clobberyrobbery.failure>The two robbers were caught attempting to steal from their target.</EventText.clobberyrobbery.failure>
-<traitorobjective.clobberyrobbery.wearbandana>Wear your bandanas</traitorobjective.clobberyrobbery.wearbandana>
-<traitorobjective.clobberyrobbery.bluntdamagevictim>Use a blunt instrument to knock the victim unconscious</traitorobjective.clobberyrobbery.bluntdamagevictim>
-<traitorobjective.clobberyrobbery.robvictim>Rob the victim while they're unconscious</traitorobjective.clobberyrobbery.robvictim>
-<eventname.ducksideofthemoon>Duck Side of the Moon</eventname.ducksideofthemoon>
-<EventText.ducksideofthemoon.c1>You've gotten yourself in quite a preduckament. All signs induckate yet another preducktable trip from outpost to outpost. Without feather ado, you started Operation: “[codeword].” You do reckon you need some help, and you already know who fits the bill.\n\nYou ducktate to them what to do: “What's this? A submarine woefully underpopulated by ducks?!…”</EventText.ducksideofthemoon.c1>
-<EventText.ducksideofthemoon.c2>“…A large influx of DUCKS outta put a stop to that.”\n\nAfter a very seducktive speech, the leader of Operation: “[codeword]” promptly quacked off. You were convinced from the words “more ducks,” but you didn't get all the plan details nor their identity. Waddle we do now? Mentioning “[codeword]” might be a good start.</EventText.ducksideofthemoon.c2>
-<EventText.ducksideofthemoon.c3>You found the a-duck-ately large stash of ducks. Time to get producktive and fill up the ballast tanks with them.</EventText.ducksideofthemoon.c3>
-<EventText.ducksideofthemoon.objective1>Find the duck stash. Guide your partners of misconduckt to the stash. Use the codeword “[codeword]” to identify them.</EventText.ducksideofthemoon.objective1>
-<EventText.ducksideofthemoon.objective2>Follow the lead of the operation leader. Use the codeword “[codeword]” to identify them.</EventText.ducksideofthemoon.objective2>
-<EventText.ducksideofthemoon.objective3>Fill ballast tanks with [number] ducks.</EventText.ducksideofthemoon.objective3>
-<EventText.ducksideofthemoon.objective4>Finish the mission with an a-duck-ate number of ducks. Ensure nobody removes the ducks (or replenish them if necessary).</EventText.ducksideofthemoon.objective4>
-<EventText.ducksideofthemoon.objective5>Duckies are plentiful.</EventText.ducksideofthemoon.objective5>
-<EventText.ducksideofthemoon.objective6>Duckies are endangered! Replenish the ballast tanks!</EventText.ducksideofthemoon.objective6>
-<EventText.ducksideofthemoon.objective7>Fill ballast tanks with [number] ducks. Progress is being made.</EventText.ducksideofthemoon.objective7>
-<EventText.ducksideofthemoon.success_self>You and your partners of misconduckt successfully duckified the ballast tanks.</EventText.ducksideofthemoon.success_self>
-<EventText.ducksideofthemoon.success>Fowl play! Two ducking traitors successfully duckified the ballast tanks.</EventText.ducksideofthemoon.success>
-<EventText.ducksideofthemoon.failure>All signs in-duck-ate two traitors failed at their fowl play.</EventText.ducksideofthemoon.failure>
-<traitorobjective.ducksideofthemoon.duckstash>Find and acquire ducks</traitorobjective.ducksideofthemoon.duckstash>
-<traitorobjective.ducksideofthemoon.fillballast>Fill ballast tanks with ducks</traitorobjective.ducksideofthemoon.fillballast>
-<traitorobjective.ducksideofthemoon.fillballast1>First duck in ballast</traitorobjective.ducksideofthemoon.fillballast1>
-<traitorobjective.ducksideofthemoon.fillballast2>10 ducks in ballast</traitorobjective.ducksideofthemoon.fillballast2>
-<traitorobjective.ducksideofthemoon.fillballast3>21 ducks in ballast</traitorobjective.ducksideofthemoon.fillballast3>
-<traitorobjective.ducksideofthemoon.completemission>A-duck-ate number of ducks in ballast</traitorobjective.ducksideofthemoon.completemission>
+<EventText.clobberyrobbery.c1>你口袋空空，心裡慌慌。「又是那個該死的[victim]幹得好事...」那傢伙一定耍了奧步──你怎麼可能每次都輸錢？另一方面，[victim]那個臭傢伙倒總是被好運眷顧。昨天輸錢的並非只有你，但是那陰暗的賭博空間裡實在看不清誰是誰。\n\n也許你有辦法從對方那裡搶回一些錢。要甩手段你也會。\n\n參加那場賭局的暗號是「[codeword]」，在言談之間提到它或許能幫助你辨認潛在的同夥。</EventText.clobberyrobbery.c1>
+<EventText.clobberyrobbery.c2>唉，多虧那場暗號叫「[codeword]」的賭局，你又傾家蕩產了。幸運的是你上次用的那些頭巾還在，再把錢搶回來你們就扯平了。\n\n萬事俱備，但當時燈光過於昏暗，你不知道誰是那個贏你錢的傢伙。或許在言談之間提到「[codeword]」有辦法從別人口中獲得一些資訊。</EventText.clobberyrobbery.c2>
+<EventText.clobberyrobbery.c3>你們鎖定目標蒙好面。「上吧...」你和同夥低聲說道。使[victim]落單並把錢搶回來。其他置身事外的船員們大概不會認同這種作法，別太引人注目。</EventText.clobberyrobbery.c3>
+<EventText.clobberyrobbery.c4>搶劫成功！現在最好想辦法避開背叛指控...</EventText.clobberyrobbery.c4>
+<EventText.clobberyrobbery.objective1>找到共犯一同搶劫目標對象。</EventText.clobberyrobbery.objective1>
+<EventText.clobberyrobbery.objective2>[victim]是你的目標。確保你的同夥知道你們要搶的是誰。</EventText.clobberyrobbery.objective2>
+<EventText.clobberyrobbery.objective3>你有幾條頭巾。分給你的同夥好隱藏你們的身份。</EventText.clobberyrobbery.objective3>
+<EventText.clobberyrobbery.objective4>你們準備好了。讓目標落單、用鈍器或其他武器讓對方失去意識把錢搶來！</EventText.clobberyrobbery.objective4>
+<EventText.clobberyrobbery.objective5>你們對目標行搶。再來得否認或轉移何任指控！</EventText.clobberyrobbery.objective5>
+<EventText.clobberyrobbery.success_self>你和你的同夥成功對目標行搶且未被指認！</EventText.clobberyrobbery.success_self>
+<EventText.clobberyrobbery.success>兩名搶匪成功對他們的目標行搶且未被指認。</EventText.clobberyrobbery.success>
+<EventText.clobberyrobbery.failure>兩名搶匪在涉嫌對他們的目標行搶時被撞見。</EventText.clobberyrobbery.failure>
+<traitorobjective.clobberyrobbery.wearbandana>佩戴頭巾</traitorobjective.clobberyrobbery.wearbandana>
+<traitorobjective.clobberyrobbery.bluntdamagevictim>以鈍器或其他物品使目標失去意識</traitorobjective.clobberyrobbery.bluntdamagevictim>
+<traitorobjective.clobberyrobbery.robvictim>在目標失去意識時行搶</traitorobjective.clobberyrobbery.robvictim>
+<eventname.ducksideofthemoon>水暖鴨先知</eventname.ducksideofthemoon>
+<EventText.ducksideofthemoon.c1>你似乎遇到了瓶頸。你對潛艇生涯已瞭若指掌；一趟趟往來哨站之間的旅途變得毫無挑戰性。因此你豪不猶豫地展開了代號：「[codeword]」的行動。你會需要幫手，而你心中也已有人選。\n\n你向對方闡述你的遠見：「感受到了嗎？這艘潛艇上那股可悲的低氣『鴨』！？...」</EventText.ducksideofthemoon.c1>
+<EventText.ducksideofthemoon.c2>「...只要有足夠『鴨』力必定能改變現況。」\n\n在一段引鴨入勝的演講後，代號：「[codeword]」的行動發起人就離開了。你認同那需要更多「鴨」力的理念，不過鴨潮澎湃的你未能聽足行動全貌和對方的身分。怎麼辦鴨？ 在言談之間提到「[codeword]」或許是個好出發點。</EventText.ducksideofthemoon.c2>
+<EventText.ducksideofthemoon.c3>你們找到了一大堆鴨鴨。是時候讓壓載艙變「鴨」載艙了。</EventText.ducksideofthemoon.c3>
+<EventText.ducksideofthemoon.objective1>尋找鴨鴨。指引你的惡作劇夥伴找到它們。使用暗號「[codeword]」來辨識對方。</EventText.ducksideofthemoon.objective1>
+<EventText.ducksideofthemoon.objective2>跟隨此次行動發起者的指示。使用暗號「[codeword]」來辨識對方。</EventText.ducksideofthemoon.objective2>
+<EventText.ducksideofthemoon.objective3>以[number]隻鴨鴨填滿壓載艙。</EventText.ducksideofthemoon.objective3>
+<EventText.ducksideofthemoon.objective4>以足夠數量的鴨鴨完成任務。確保沒人移除鴨鴨（或在必要時填補）。</EventText.ducksideofthemoon.objective4>
+<EventText.ducksideofthemoon.objective5>好多鴨鴨。</EventText.ducksideofthemoon.objective5>
+<EventText.ducksideofthemoon.objective6>鴨鴨有危險！裝填「鴨」載艙！</EventText.ducksideofthemoon.objective6>
+<EventText.ducksideofthemoon.objective7>以[number]隻鴨子填滿壓載艙。你們將做出改變。</EventText.ducksideofthemoon.objective7>
+<EventText.ducksideofthemoon.success_self>你和你的惡作劇夥伴成功地讓壓載艙變「鴨」載艙。</EventText.ducksideofthemoon.success_self>
+<EventText.ducksideofthemoon.success>鴨呼！兩名叛徒成功地讓壓載艙變「鴨」載艙。</EventText.ducksideofthemoon.success>
+<EventText.ducksideofthemoon.failure>跡象指出由兩名叛徒發起的「鴨」載艙改造計畫失敗了。</EventText.ducksideofthemoon.failure>
+<traitorobjective.ducksideofthemoon.duckstash>尋找並取得鴨子</traitorobjective.ducksideofthemoon.duckstash>
+<traitorobjective.ducksideofthemoon.fillballast>用鴨子裝滿壓載艙</traitorobjective.ducksideofthemoon.fillballast>
+<traitorobjective.ducksideofthemoon.fillballast1>第一隻鴨子進了壓載艙</traitorobjective.ducksideofthemoon.fillballast1>
+<traitorobjective.ducksideofthemoon.fillballast2>壓載艙裡已有10隻鴨</traitorobjective.ducksideofthemoon.fillballast2>
+<traitorobjective.ducksideofthemoon.fillballast3>壓載艙裡已有21隻鴨</traitorobjective.ducksideofthemoon.fillballast3>
+<traitorobjective.ducksideofthemoon.completemission>壓載艙裡已有無數隻鴨</traitorobjective.ducksideofthemoon.completemission>
 <eventname.poweredbyfaith>信仰之力</eventname.poweredbyfaith>
 <EventText.poweredbyfaith.c1>You wake up from a fever dream. Beads of sweat have collected on your forehead, but you're not bothered by all that. You still remember your dream vividly, and it must have had some meaning to it. In it, a person taken over by the husk infection slowly approached you, and you had no way to move—your limbs were completely frozen. But! Instead of brutally attacking and murdering you, the Velonaceps calyx radiated calmness and compassion. They WANT to save us, if we'll let them!\n\nAs long as we show our faith and truly BELIEVE, we can do anything. Although your crew is full of blasphemous non-believers, you'll ensure the submarine will be turned into a temple worthy of the husks' blessing. You do hope you might enlist some people to your cause, though.\n\nStudies have shown that believing in husks as saviors can be linked to an interest in [codeword]. Mentioning [codeword] might find you some allies.</EventText.poweredbyfaith.c1>
 <EventText.poweredbyfaith.c2>One of your crewmembers was having a fever dream last night; you could hear their shouts and screams followed by an eerie calmness and murmurs of “praise the husks.”Seems like someone found their religion in their dreams and, you won't lie, you're kinda into that. Lacking any kind of conviction yourself, you often look for others to follow, sometimes just to interrupt the tedious day-to-day grind. Sounds like you found yourself a new temporary source of entertainment.\n\nStudies have shown that believing in husks as saviors can be linked to an interest in [codeword]. Mentioning [codeword] might get you involved.</EventText.poweredbyfaith.c2>
@@ -8215,9 +8215,9 @@
 <talentdescription.otherassistantxpbonus>其他助手獲得額外[bonus]%經驗值，最高可疊加至[max]%。</talentdescription.otherassistantxpbonus>
 <talentname.starterquest>初始任務</talentname.starterquest>
 <talentdescription.starterquest>完成一個任務以獲得對應技能及經驗獎勵：</talentdescription.starterquest>
-<talentdescription.starterquest.killcrawler>- 殲滅一隻爬行者 (+[xpbonus] XP &amp; +[skillbonus] [skill])</talentdescription.starterquest.killcrawler>
-<talentdescription.starterquest.repairjunctionbox>- 修復一個配電箱 (+[xpbonus] XP &amp; +[skillbonus] [skill])</talentdescription.starterquest.repairjunctionbox>
-<talentdescription.starterquest.weldleak>- 修補漏洞 (+[xpbonus] XP &amp; +[skillbonus] [skill])</talentdescription.starterquest.weldleak>
+<talentdescription.starterquest.killcrawler>- 殲滅一隻爬行者 (+[xpbonus] XP、+[skillbonus] [skill])</talentdescription.starterquest.killcrawler>
+<talentdescription.starterquest.repairjunctionbox>- 修復一個配電箱 (+[xpbonus] XP、+[skillbonus] [skill])</talentdescription.starterquest.repairjunctionbox>
+<talentdescription.starterquest.weldleak>- 修補漏洞 (+[xpbonus] XP、+[skillbonus] [skill])</talentdescription.starterquest.weldleak>
 <talentname.jengamaster>疊疊樂大師</talentname.jengamaster>
 <talentdescription.jengamaster>與潛艇上的櫃子互動將使當中物品的堆疊量增加+[amount]。</talentdescription.jengamaster>
 <talentname.mule>騾子</talentname.mule>
