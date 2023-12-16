@@ -1,10 +1,8 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Others
+description: 遊戲崩潰、錯誤訊息、其它問題。
+title: "[Others]: "
+labels: ["其它問題/other issue", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
 body:
   - type: markdown
     attributes:
