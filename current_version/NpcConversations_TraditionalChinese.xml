@@ -193,7 +193,7 @@
 </Conversation>
 
 <Conversation line="有沒有想過，那些建造遺跡的人後來怎麼樣了？" speaker="0" maxintensity="0.2">
-	<Conversation line="最後的噩夢藏匿在最深不可測的避難所中，距離無法估量，噠，噠，噠！" speaker="0" flags="Psychosis"/>
+	<Conversation line="最後的惡夢藏匿在最深不可測的避難所中。距離無法估量，噠，噠，噠！" speaker="0" flags="Psychosis"/>
 	<Conversation line="誰沒想過？" speaker="1"/>
 	<Conversation line="還是把這個問題留給科學家們吧。" speaker="1">
 		<Conversation line="這裡還有更重要的事需要擔心。" speaker="1"/>
