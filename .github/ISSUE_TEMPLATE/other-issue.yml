@@ -1,6 +1,6 @@
 name: "其他問題/Other-issue"
 description: 遊戲崩潰、錯誤訊息、其它問題。The game crashed, errors popping, etc.
-title: "[Other-issue]"
+title: "[Others]"
 labels: ["其它問題/other issue", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 body:
@@ -13,11 +13,11 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-   - type: checkboxes
-    id: checks
+  - type: checkboxes
+    id: terms
     attributes:
-      label: "Disclaimers"
+      label: "Disclaimers:"
+      description: TEST
       options:
-        - label: "我已確認 Issues 頁面中沒有同樣的問題尚為Open。"
+        - label: "I have searched the issue tracker to check if the issue has already been reported."
           required: true
-          
