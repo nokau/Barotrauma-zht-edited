@@ -1,4 +1,4 @@
-name: "文本錯誤/text-error"
+name: "文本錯誤/Text Error"
 description: 發現錯字、漏字、多字、未被翻譯等等。(Report typos.)
 title: "[Text Error] 請使用與內容直接相關且詳細的標題"
 labels: ["文本錯誤/text-error"]
