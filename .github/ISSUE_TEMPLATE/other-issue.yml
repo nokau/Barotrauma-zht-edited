@@ -1,0 +1,23 @@
+name: "其他問題/Other-issue"
+description: 遊戲崩潰、錯誤訊息、其它問題。The game crashed, errors popping, etc.
+title: "[Others]"
+labels: ["其它問題/other issue", "triage"]
+projects: ["octo-org/1", "octo-org/44"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "我遇到了以下問題:"
+      description: 輸入與問題直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。發送前能以 Preview 先行檢視。
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
