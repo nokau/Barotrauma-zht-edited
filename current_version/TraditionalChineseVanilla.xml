@@ -8151,40 +8151,40 @@
 <traitorobjective.ducksideofthemoon.fillballast3>壓載艙裡已有21隻鴨</traitorobjective.ducksideofthemoon.fillballast3>
 <traitorobjective.ducksideofthemoon.completemission>壓載艙裡已有無數隻鴨</traitorobjective.ducksideofthemoon.completemission>
 <eventname.poweredbyfaith>信仰之力</eventname.poweredbyfaith>
-<EventText.poweredbyfaith.c1>You wake up from a fever dream. Beads of sweat have collected on your forehead, but you're not bothered by all that. You still remember your dream vividly, and it must have had some meaning to it. In it, a person taken over by the husk infection slowly approached you, and you had no way to move—your limbs were completely frozen. But! Instead of brutally attacking and murdering you, the Velonaceps calyx radiated calmness and compassion. They WANT to save us, if we'll let them!\n\nAs long as we show our faith and truly BELIEVE, we can do anything. Although your crew is full of blasphemous non-believers, you'll ensure the submarine will be turned into a temple worthy of the husks' blessing. You do hope you might enlist some people to your cause, though.\n\nStudies have shown that believing in husks as saviors can be linked to an interest in [codeword]. Mentioning [codeword] might find you some allies.</EventText.poweredbyfaith.c1>
-<EventText.poweredbyfaith.c2>One of your crewmembers was having a fever dream last night; you could hear their shouts and screams followed by an eerie calmness and murmurs of “praise the husks.”Seems like someone found their religion in their dreams and, you won't lie, you're kinda into that. Lacking any kind of conviction yourself, you often look for others to follow, sometimes just to interrupt the tedious day-to-day grind. Sounds like you found yourself a new temporary source of entertainment.\n\nStudies have shown that believing in husks as saviors can be linked to an interest in [codeword]. Mentioning [codeword] might get you involved.</EventText.poweredbyfaith.c2>
-<EventText.poweredbyfaith.c3>You found a miraculously infinite stash of husk figurines! Surely a sign you're on the right track. Better inform your fellow cultists of this…</EventText.poweredbyfaith.c3>
-<EventText.poweredbyfaith.c4>The submarine has been transformed into a temple worshipping the Velonaceps calyx, and rather tastefully too. However, clearly this is not enough, as a new idea popped into your head: Prove the power of the husks by replacing the fuel rod in the reactor with a husk figurine.</EventText.poweredbyfaith.c4>
-<EventText.poweredbyfaith.c5>Guess your faith in the husks might have been a bit overrated and not actually capable of magically fueling the nuclear reactor. That's not really part of the Church of Husk's faith anyways, you remember now. Oh well, it was just a fever dream, after all. Time to move on.</EventText.poweredbyfaith.c5>
-<EventText.poweredbyfaith.objective1>Turn the submarine into a shrine to worship the Velonaceps calyx. Use the codeword “[codeword]” to identify fellow husk worshippers.</EventText.poweredbyfaith.objective1>
-<EventText.poweredbyfaith.objective2>Follow the lead of the group leader. Use the codeword “[codeword]” to identify the leader and fellow husk worshippers.</EventText.poweredbyfaith.objective2>
-<EventText.poweredbyfaith.objective3>Use the miraculously near-infinite stash of husk figurines to sanctify the submarine. Attach husk figurines in [percentage]% of the rooms in the submarine.</EventText.poweredbyfaith.objective3>
-<EventText.poweredbyfaith.objective4>Replace the fuel rod in the nuclear reactor with a husk figurine.</EventText.poweredbyfaith.objective4>
-<EventText.poweredbyfaith.objective5>You're all done! Hopefully you haven't been acting so suspiciously that anyone would accuse you of treason.</EventText.poweredbyfaith.objective5>
-<EventText.poweredbyfaith.objective6>Use the miraculously near-infinite stash of husk figurines to sanctify the submarine. You're halfway there!</EventText.poweredbyfaith.objective6>
-<EventText.poweredbyfaith.success_self>You and your co-conspirators successfully represented your faith. Unfortunately the reactor still seems to prefer fuel rods over figurines.</EventText.poweredbyfaith.success_self>
-<EventText.poweredbyfaith.success>Traitors decorated the submarine with figurines and replaced the fuel rod. To what end? Only those silly husk worshippers would know.</EventText.poweredbyfaith.success>
-<EventText.poweredbyfaith.failure>Traitors tried to use husk figurines as an alternative to fuel rods. A bad idea and a worse execution.</EventText.poweredbyfaith.failure>
-<traitorobjective.poweredbyfaith.findfigurines>Find the husk figurines</traitorobjective.poweredbyfaith.findfigurines>
-<traitorobjective.poweredbyfaith.placefigurines>Spread the figurines around</traitorobjective.poweredbyfaith.placefigurines>
-<traitorobjective.poweredbyfaith.placefigurines1>First figurine placed</traitorobjective.poweredbyfaith.placefigurines1>
-<traitorobjective.poweredbyfaith.placefigurines2>Half of the rooms decorated</traitorobjective.poweredbyfaith.placefigurines2>
-<traitorobjective.poweredbyfaith.fuel>Replace the fuel rods in the reactor</traitorobjective.poweredbyfaith.fuel>
+<EventText.poweredbyfaith.c1>你自一場奇異的夢中驚醒。你的額頭滿是汗水，但你無暇擦拭。你依然清晰地記得夢境的內容，這一切必有深意。在夢中，一個被畫皮吞噬的人緩慢地接近你，你動彈不得──你得四肢就像是受到冰封。但是！那畫皮並未展開血腥殘暴的攻擊，而是散發著溫柔與善意。它們是想拯救我們，只是我們還沒接受！\n\nn只要我們展現這股堅定信念，我們將無所不能。儘管你的船員們盡是瀆神的不信者，你將確保這艘潛艇將轉變為配得上畫皮祝福的殿堂。當然你還是希望能找到幾位志同道合之人。\n\n研究指出，人們會將畫皮視為救世主可能與他們對「[codeword]」的興趣有關。在言談中提及「[codeword]」或許能幫助你找到一些同伴。</EventText.poweredbyfaith.c1>
+<EventText.poweredbyfaith.c2>有位船員昨晚做了場惡夢；你聽見對方在夢中掙扎呼喊，隨之而來的是股不尋常的平靜與低聲呢喃：「讚美畫皮」。看來有人在夢中找到找到了自己的信仰；說實話，你對此也有些興趣。你自己沒什麼信念，因此總是追隨他人，雖然有時只是為了枯燥乏味的日常中得到解脫。這次又讓你找到一個能短暫提供你樂子的人了。\n\n研究指出，人們會將畫皮視為救世主可能與他們對「[codeword]」的興趣有關。在言談中提及「[codeword]」或許能幫助你加入對方。</EventText.poweredbyfaith.c2>
+<EventText.poweredbyfaith.c3>你發現了如奇蹟般近乎無限量的畫皮雕塑模型！這必定是你走在正確道路上的啟示。你應該把這個發現告訴你的教徒同伴...</EventText.poweredbyfaith.c3>
+<EventText.poweredbyfaith.c4>這艘潛艇已經變成了一座侍奉畫皮寄生蟲的殿堂，而且還算有品味。但這顯然無法滿足你，一個想法出現在你的腦海中：以畫皮雕塑模型代替反應爐中的燃料棒好證明畫皮的力量。</EventText.poweredbyfaith.c4>
+<EventText.poweredbyfaith.c5>看來你對畫皮的信仰並不足以驅動核能反應爐。你想了想，其實這好像跟畫皮教會的教義也沒什麼關聯。算了，反正那本來就只是一場怪夢，是時候振作了。</EventText.poweredbyfaith.c5>
+<EventText.poweredbyfaith.objective1>將潛艇變成一座侍奉畫皮寄生蟲的殿堂。使用暗號「[codeword]」來辨識畫皮信徒們。</EventText.poweredbyfaith.objective1>
+<EventText.poweredbyfaith.objective2>跟隨帶領者的指示。使用暗號「[codeword]」來辨識畫皮信徒們和帶領他們的人。</EventText.poweredbyfaith.objective2>
+<EventText.poweredbyfaith.objective3>使用那堆奇蹟般近乎無限量的畫皮雕塑模型來使潛艇充滿神聖氣息。將它們擺進潛艇上[percentage]%的艙房中。</EventText.poweredbyfaith.objective3>
+<EventText.poweredbyfaith.objective4>以一尊畫皮雕塑模型替換反應爐中的燃料棒。</EventText.poweredbyfaith.objective4>
+<EventText.poweredbyfaith.objective5>任務完成！希望你沒有表現得太鬼鬼祟祟，讓其他人覺得你很可疑。</EventText.poweredbyfaith.objective5>
+<EventText.poweredbyfaith.objective6>使用那堆奇蹟般近乎無限量的畫皮雕塑模型來使潛艇充滿神聖氣息。離完成只剩一半！</EventText.poweredbyfaith.objective6>
+<EventText.poweredbyfaith.success_self>你和你的同夥成功展現了你們的信仰。不幸的是比起畫皮雕塑模型，反應爐還是比較喜歡燃料棒。</EventText.poweredbyfaith.success_self>
+<EventText.poweredbyfaith.success>叛徒以畫皮雕塑模型裝飾了潛艇並代替燃料棒。這有什麼意義？恐怕只有那些愚蠢的畫皮信徒才能理解。</EventText.poweredbyfaith.success>
+<EventText.poweredbyfaith.failure>叛徒嘗試以畫皮雕塑模型代替燃料棒。不是好主意，做法也愚蠢。</EventText.poweredbyfaith.failure>
+<traitorobjective.poweredbyfaith.findfigurines>找到畫皮雕塑模型</traitorobjective.poweredbyfaith.findfigurines>
+<traitorobjective.poweredbyfaith.placefigurines>散佈雕塑模型</traitorobjective.poweredbyfaith.placefigurines>
+<traitorobjective.poweredbyfaith.placefigurines1>已放置一尊雕塑模型</traitorobjective.poweredbyfaith.placefigurines1>
+<traitorobjective.poweredbyfaith.placefigurines2>已裝飾半數艙房</traitorobjective.poweredbyfaith.placefigurines2>
+<traitorobjective.poweredbyfaith.fuel>替換反應爐中的燃料棒</traitorobjective.poweredbyfaith.fuel>
 <eventname.huskroulette>畫皮輪盤</eventname.huskroulette>
-<EventText.huskroulette.c1>You were contacted by the Church of Husk: “We acknowledge having a symbiote growing inside your throat may be a bit scary for some people, so we would like to research the psychological effects of the threat of the husk infection, in order to be able to treat it effectively…”\n\nAttached with the message were three syringes, two of which don't do anything, one of which contains the Velonaceps calyx in advanced stages. You'll be running the “[codeword]” test group, for a small monetary reward.</EventText.huskroulette.c1>
-<EventText.huskroulette.c2>You were contacted by the Church of Husk: “We acknowledge having a symbiote growing inside your throat may be a bit scary for some people, so we would like to research the psychological effects of the threat of the husk infection, in order to be able to treat it effectively…”\n\nThe message states you are part of the “[codeword]” test group. You'll be given a randomized syringe to inject yourself with that either contains the Velonaceps calyx, also known as husk infection, or does absolutely nothing. Find your group leader to take part, and receive a small monetary reward.</EventText.huskroulette.c2>
-<EventText.huskroulette.c3>You have your syringe—now it's time to inject yourself. Try to be subtle about it, as the rest of the crew might not appreciate such risks.</EventText.huskroulette.c3>
-<EventText.huskroulette.objective1>Hand out two of the three syringes to the test group. Use the codeword “[codeword]” to identify fellow testers.</EventText.huskroulette.objective1>
-<EventText.huskroulette.objective2>Receive a syringe from the test group's leader. Use the codeword “[codeword]” to identify fellow testers.</EventText.huskroulette.objective2>
-<EventText.huskroulette.objective3>Inject yourself with the syringe.</EventText.huskroulette.objective3>
-<EventText.huskroulette.objective4>Survive, help your fellow testers to survive, and deflect any accusations.</EventText.huskroulette.objective4>
-<EventText.huskroulette.success_self>You and your fellow test subjects gathered useful data on the psychological effects of husk infections.</EventText.huskroulette.success_self>
-<EventText.huskroulette.success>Some treasonous lackeys of the Church of Husk gathered useful data on the psychological effects of husk infections.</EventText.huskroulette.success>
-<EventText.huskroulette.failure>Traitors were tasked to gather useful data on the psychological effects of husk infections, but did not complete this task.</EventText.huskroulette.failure>
+<EventText.huskroulette.c1>你收到了來自畫皮教會的信：「我們能夠理解部分人們因共生體會寄宿在他們的喉嚨裡而心生恐懼，因此我們希望對畫皮感染威脅所造成的相關心理影響進行研究，好針對此狀態提供有效幫助...」\n\n信封中還有三支針筒；兩支沒有任何藥效，一支則裝有已發育的畫皮寄生蟲。你將帶領「[codeword]」測試組進行實驗，事成之後將能獲得少額金錢獎勵。</EventText.huskroulette.c1>
+<EventText.huskroulette.c2>你收到了來自畫皮教會的信：「我們能夠理解部分人們因共生體會寄宿在他們的喉嚨裡而心生恐懼，因此我們希望對畫皮感染威脅所造成的相關心理影響進行研究，好針對此狀態提供有效幫助...」\n\n這封信提到你現在是「[codeword]」測試組的一員。你將會被隨機配發一支裝有畫皮寄生蟲、或內容物毫無任何效果的針筒。找到測試組組長參與此次實驗，事成之後將能獲得少額金錢獎勵。</EventText.huskroulette.c2>
+<EventText.huskroulette.c3>拿到針筒了──為自己進行注射。低調行事，你們之外的其他船員或許不會喜歡此事的潛在風險。</EventText.huskroulette.c3>
+<EventText.huskroulette.objective1>將其中兩支針筒發給你的組員。使用暗號「[codeword]」辨識對方。</EventText.huskroulette.objective1>
+<EventText.huskroulette.objective2>從組長那獲得針筒。使用暗號「[codeword]」辨識對方。</EventText.huskroulette.objective2>
+<EventText.huskroulette.objective3>為自己進行注射。</EventText.huskroulette.objective3>
+<EventText.huskroulette.objective4>維持自身存活，或幫助你的組員們存活，並避開任何指控。</EventText.huskroulette.objective4>
+<EventText.huskroulette.success_self>你和你的測試組員收集了畫皮感染所造成心理影響的足夠數據。</EventText.huskroulette.success_self>
+<EventText.huskroulette.success>一些來自畫皮教會的叛徒收集了畫皮感染所造成心理影響的可用數據。</EventText.huskroulette.success>
+<EventText.huskroulette.failure>叛徒們受到指示，收集畫皮感染所造成心理影響的可用數據，但未能成功。</EventText.huskroulette.failure>
 <traitorobjective.huskroulette.distribute>發下針筒</traitorobjective.huskroulette.distribute>
 <traitorobjective.huskroulette.receivesyringe>拿取針筒</traitorobjective.huskroulette.receivesyringe>
 <traitorobjective.huskroulette.inject>對自己進行注射</traitorobjective.huskroulette.inject>
-<traitorobjective.huskroulette.survive>存活並轉移指控</traitorobjective.huskroulette.survive>
+<traitorobjective.huskroulette.survive>存活並避開指控</traitorobjective.huskroulette.survive>
 <eventname.gnawingcold>切骨之寒</eventname.gnawingcold>
 <EventText.gnawingcold.c1>喀噠喀噠喀噠。你的牙齒顫抖著，好想與潛艇牆上稍有暖意的一條條管路來個大抱抱。空氣中的寒意都快讓你的脊椎起雞皮疙瘩，你瘋狂地來回搓著雙手免得它們被凍僵。「為甚麼這裡總是該死的這麼冷？」你在心裡嘀咕著。「把暖氣開強一點點是會消耗多少燃料？！」\n\n遠處，你看見另一位船員用毯子捆住自己，對方發出了熟悉的聲響：「喀噠喀噠喀噠。」或許你們能合作讓潛艇上變得暖活一些？\n\n你依稀記得先前在無線電中似乎也有人在抱怨這股涼意。能不能和他們一起讓潛艇的溫度提高一點？使用暗號「[codeword]」來找出其他冷到受不了的船員。</EventText.gnawingcold.c1>
 <EventText.gnawingcold.c2>看起來有人在一處隱匿的空間藏了些酒。這應該幫得上忙。</EventText.gnawingcold.c2>
