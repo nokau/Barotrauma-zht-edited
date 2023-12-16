@@ -3,12 +3,6 @@ description: 跳出錯誤訊息、不為其他種類的問題。(Errors popping,
 title: "[Other-issue] 請使用與內容直接相關且詳細的標題"
 labels: ["其它問題/other issue"]
 body:
-  - type: checkboxes
-    id: checks
-    attributes:
-      options:
-        - label: "我已確認 Issues 頁面中沒有相關的主題尚為Open。"
-          required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -18,3 +12,9 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      options:
+        - label: "我已確認 Issues 頁面中沒有相關的主題尚為Open。"
+          required: true
