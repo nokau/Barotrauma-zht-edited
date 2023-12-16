@@ -13,7 +13,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: "我遇到了以下問題:"
+      label: "我的問題:"
       description: 輸入與問題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。
       placeholder: Tell us what you see!
       value: "A bug happened!"
