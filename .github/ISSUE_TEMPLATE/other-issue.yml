@@ -14,10 +14,9 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: terms
+    id: checks
     attributes:
-      label: "Disclaimers:"
-      description: TEST
+      label: "請確認:"
       options:
-        - label: "I have searched the issue tracker to check if the issue has already been reported."
+        - label: "我已確認 Issues 頁面中沒有相同的問題尚為Open。"
           required: true
