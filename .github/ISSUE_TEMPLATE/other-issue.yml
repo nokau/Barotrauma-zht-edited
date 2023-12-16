@@ -3,19 +3,18 @@ description: 跳出錯誤訊息、不為其他種類的問題。(Errors popping,
 title: "[Other-issue] 請使用與內容直接相關且詳細的標題"
 labels: ["其它問題/other issue"]
 body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      options:
+        - label: "我已確認 Issues 頁面中沒有相關的主題尚為Open。"
+          required: true
   - type: textarea
     id: what-happened
     attributes:
       label: "我遇到了以下問題:"
-      description: 輸入與問題直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。發送前能以 Preview 先行檢視。
+      description: 輸入與問題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。發送前能以 Preview 先行檢視。
       placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
       required: true
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: "請確認:"
-      options:
-        - label: "我已確認 Issues 頁面中沒有相關的主題尚為Open。"
-          required: true
