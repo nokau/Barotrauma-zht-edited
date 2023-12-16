@@ -13,7 +13,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: "我的建議:"
+      label: "發現錯誤:"
       description: 輸入與問題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。
     validations:
       required: true
