@@ -6,9 +6,9 @@ body:
   - type: checkboxes
     id: checks
     attributes:
-      label: ""
+      label: "請先確認:"
       options:
-        - label: "我已確認 Issues 頁面中沒有尚為Open的相關主題。"
+        - label: "Issues 頁面中沒有尚為Open的相關主題。"
           required: true
   - type: textarea
     id: what-happened
