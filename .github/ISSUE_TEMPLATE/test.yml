@@ -7,7 +7,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: 我遇到了這些錯誤:
+      label: "我遇到了這些錯誤:"
       description: 輸入與錯誤直接相關且詳細的敘述，可附圖片但勿只有圖片以便搜尋。
       placeholder: Tell us what you see!
       value: "A bug happened!"
