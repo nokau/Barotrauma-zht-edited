@@ -8,7 +8,7 @@ body:
     attributes:
       label: "我已確認:"
       options:
-        - label: "`Issues` 頁面中沒有尚為 `Open` 的相關主題。"
+        - label: "Issues 頁面中沒有尚為 Open 的相關主題。"
           required: true
   - type: textarea
     id: what-happened
