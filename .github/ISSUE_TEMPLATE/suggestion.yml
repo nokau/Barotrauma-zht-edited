@@ -1,4 +1,4 @@
-name: "文本建議/suggestion"
+name: "文本建議/Suggestion"
 description: 發表文本修改建議。(Provide editing suggestions.)
 title: "[Suggestion] 請使用與內容直接相關且詳細的標題"
 labels: ["文本建議/suggestion"]
