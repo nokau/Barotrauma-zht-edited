@@ -4,7 +4,7 @@
 # What is this?
 This is a Traditional Chinese localization mod for the video game Barotrauma, based on the official ones. Their lines are matched as close as possible with the game's current version English text files for easier side-by-side comparison.
 
-Use it at your own risk, as the editing is based solely on my own experience and preference; I cannot guarantee that all edits are accurate, but feel free to edit it on your own. And always back up your edited files, or updates and game file verification would revert them to the official ones.
+Use it at your own risk, as the editing is based solely on my own experience and preference; I cannot guarantee that all edits are accurate.
 
 - ### I have something to report
 Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page, click on the green `New issue` button, then click the `Get started` button on the right side of the issue types. And since this is a Traditional Chinese localization, please send your issues in Traditional Chinese if possible.
