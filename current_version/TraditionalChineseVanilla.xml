@@ -7,19 +7,19 @@
 <pressanykey>按任意鍵繼續</pressanykey>
 
 <!-- Loading Screen tips -->
-<loadingscreentip>如果貨物在運輸過程中丟失或損壞，運費將不會支付給你。</loadingscreentip>
+<loadingscreentip>如果貨物在運輸過程中丟失或損壞，運費將不會支付給您。</loadingscreentip>
 <loadingscreentip>如果發電功率超出潛艇設備的用電量有可能會弄壞配電箱甚至引起火災。</loadingscreentip>
 <loadingscreentip>配電箱與其他電氣設備沉入水中太久會被泡壞。</loadingscreentip>
 <loadingscreentip>潛艇的核反應爐過熱可能會釀成火災，若不及時關閉，最終將導致反應爐熔毀。</loadingscreentip>
 <loadingscreentip>大多數潛艇都配備了蓄電池，作為反應爐發生故障時的備用臨時電源。</loadingscreentip>
 <loadingscreentip>軌道砲子彈和深水炸彈都有一個可以容納額外炸藥的隔層。</loadingscreentip>
-<loadingscreentip>被動聲納可以在不引發不必要注意的前提下探測附近的聲源。你也可以通過冰牆反射的聲波來大致瞭解周邊環境。</loadingscreentip>
-<loadingscreentip>面對鎖上的門你有幾個選擇，包括用撬棍將它們撬開或是將它們連接至你有使用權限的按鈕上。</loadingscreentip>
+<loadingscreentip>被動聲納可以在不引發不必要注意的前提下探測附近的聲源。您也可以通過冰牆反射的聲波來大致瞭解周邊環境。</loadingscreentip>
+<loadingscreentip>面對鎖上的門您有幾個選擇，包括用撬棍將它們撬開或是將它們連接至您有使用權限的按鈕上。</loadingscreentip>
 <loadingscreentip>蓄電池都配備有充電座，能用來替乾電池充電。</loadingscreentip>
 <loadingscreentip>製氧機都配備有充氣座，能用來填充氧氣罐。</loadingscreentip>
 <loadingscreentip>超級電容不像蓄電池那樣能夠儲存大量電力，但能在瞬間釋放高壓電流，它們多半被用於驅動軌道砲或其他需要瞬間高壓電流的設備。</loadingscreentip>
 <loadingscreentip>核反應爐都配備了自動控制系統，開啟時能夠將反應爐的輸出調整在最佳狀態，不過該系統在用電量大幅波動的情況下不見得能夠及時做出反應。</loadingscreentip>
-<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠──請你的工程師將導航終端維持在最佳狀態！</loadingscreentip>
+<loadingscreentip>如果導航終端受損，聲納成像可能變得不太可靠──請您的工程師將導航終端維持在最佳狀態！</loadingscreentip>
 <loadingscreentip>佈署誘餌彈時，別忘了關閉主動聲納讓誘餌發揮最佳效果。</loadingscreentip>
 <loadingscreentip>在電氣工程技能不足的狀態下試圖替電氣設備配線很有可能觸電。</loadingscreentip>
 <loadingscreentip>焊接工具的操作非常簡單，潛艇上的任何一位船員都會用，但一位熟練的技師往往能夠更快、更不弄傷自己地進行焊接工作。</loadingscreentip>
@@ -28,12 +28,12 @@
 <loadingscreentip>一般來說，艦長比普通船員更擅長操縱潛水艇。</loadingscreentip>
 <loadingscreentip>如果潛艇上的反應爐發電功率不足以供給船上設備正常運作，可以嘗試降低蓄電池和超級電容的充電率，或者調節潛艇全速運行的時間。</loadingscreentip>
 <loadingscreentip>潛艇上的電氣與機械設備由於運作時的耗損加上處在惡劣環境而逐漸劣化。務必令技師和工程師時常進行維護，以免設備在關鍵時刻發生故障。</loadingscreentip>
-<loadingscreentip>用解構儀分解異星文物可為你提供特殊的異星材料。</loadingscreentip>
+<loadingscreentip>用解構儀分解異星文物可為您提供特殊的異星材料。</loadingscreentip>
 <loadingscreentip>歐羅巴上的部分異星建築是以一種超級材料建造，這種材料具有出色的物理損傷抗性，因此已經成為科學家們的重要研究課題。</loadingscreentip>
 <loadingscreentip>將異星文物帶上潛艇時務必格外小心。</loadingscreentip>
 <loadingscreentip>對於建造遍佈歐羅巴上遺跡的異星文明，除了據推測早已滅絕，關於它們的資訊少之又少，連遺跡的建造年代都是個謎，由於異星建築與其設備的自我修復特性，人類使用的各種年代測定法都變得非常不準確。</loadingscreentip>
 <loadingscreentip>沒有任何建造歐羅巴上遺跡的異星生命體殘骸被找到過。遺跡內部唯一發現過的生命體只有守衛著遺跡的生化造物。</loadingscreentip>
-<loadingscreentip>在探索遺跡或洞穴時，盡可能頻繁地投下信號彈作為路標，以免你遇上了什麼原因需要快速折返。</loadingscreentip>
+<loadingscreentip>在探索遺跡或洞穴時，盡可能頻繁地投下信號彈作為路標，以免您遇上了什麼原因需要快速折返。</loadingscreentip>
 <loadingscreentip>「獨目哨兵」是種溫馴且富好奇心的生物：雖然不具攻擊性，牠們總是想靠近潛艇一探人類究竟在幹嘛。</loadingscreentip>
 <loadingscreentip>同類相食在「藻鬃爬行者」之間是常態。殺死一群爬行者中的一隻，其他爬行者們可能會因為對進食的渴望轉而使牠們把注意力集中在爭搶同類的屍體上。</loadingscreentip>
 <loadingscreentip>「泥偶迅猛龍」能夠用它們鋒利的喙輕鬆地咬穿並突破金屬門。</loadingscreentip>
@@ -43,25 +43,25 @@
 <loadingscreentip>如果醫療技能不足，進行心肺復甦有可能會對患者的內臟造成損傷。</loadingscreentip>
 <loadingscreentip>使用嗎啡與吩坦尼等鴉片類藥物在緊急狀況下是非常有效的治療方式，但經常使用最終可能會導致成癮與危險的戒斷症狀。</loadingscreentip>
 <loadingscreentip>出血傷口可用繃帶或止血劑治療。患者可能還會需要以生理鹽水或血袋來補充流失的血液。</loadingscreentip>
-<loadingscreentip>非常不幸的，精神症等等的精神疾患對潛艇船員而言非常普遍，尤其是在遺跡探險之後。如果你的船員開始看到或聽到其他人無法認知的事物，立即向醫生報告。</loadingscreentip>
+<loadingscreentip>非常不幸的，精神症等等的精神疾患對潛艇船員而言非常普遍，尤其是在遺跡探險之後。如果您的船員開始看到或聽到其他人無法認知的事物，立即向醫生報告。</loadingscreentip>
 <loadingscreentip>醫生們的主要任務是保證船員們的身心健康，不過有著針筒槍與毒藥知識的醫療人員在對抗入侵者時也不容小覷。</loadingscreentip>
 <loadingscreentip>許多藥物有著意想不到的副作用。請密切關注患者的狀態，隨時準備其他藥物以備抵消這些副作用。</loadingscreentip>
 <loadingscreentip>在使用潛水面罩時，注意不要把焊接燃料罐和氧氣罐搞混了。</loadingscreentip>
-<loadingscreentip>潛水面罩可以讓你在水下呼吸，但不能幫助你抵禦足以碎骨的深水壓力。如果船體有較大的結構破損，請立即換上潛水服。</loadingscreentip>
+<loadingscreentip>潛水面罩可以讓您在水下呼吸，但不能幫助您抵禦足以碎骨的深水壓力。如果船體有較大的結構破損，請立即換上潛水服。</loadingscreentip>
 <loadingscreentip>當火災發生，避免燒傷不是唯一需要被注意的──大火會快速地消耗潛艇內所有的氧氣。</loadingscreentip>
 <loadingscreentip>穿越被稱為「熱液廢土」的區域時得格外注意，這裡不只有豐富的野生動物，地熱活動引發的水流變化更使航行變得加倍危險。</loadingscreentip>
 <loadingscreentip>歐羅巴上的一些固著生物會發出可能干擾潛艇聲納的低頻聲波。</loadingscreentip>
 <loadingscreentip>歐羅巴擁有豐富的自然資源，唯有目光敏銳、雄心勃勃、手拿電漿切割器的船長才有機會得到豐盛收穫。</loadingscreentip>
-<loadingscreentip>只要戴上別人的ID卡與一些面部偽裝你就能喬裝成他們。</loadingscreentip>
-<loadingscreentip>你可以在潛艇編輯器中將wifi元件與聊天室連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
+<loadingscreentip>只要戴上別人的ID卡與一些面部偽裝您就能喬裝成他們。</loadingscreentip>
+<loadingscreentip>您可以在潛艇編輯器中將wifi元件與聊天室連接來構建聊天控制系統。</loadingscreentip><!--NEED EDITING-->
 <loadingscreentip>木星周圍的輻射帶使得在歐羅巴表面建立永久居所變得不切實際，因此所有歐羅巴的哨站都位於它的表殼冰層之中。</loadingscreentip>
 <loadingscreentip>歐羅巴的水下生態尚未被完全解讀，但普遍相信食物鏈的底層是由化合細菌組成。</loadingscreentip>
 <loadingscreentip>「歐羅巴聯盟」最初只是兩個最大據點與多個私人准軍事組織之間的貿易合作協議，但後來逐漸發展為本質上的歐羅巴政府。</loadingscreentip>
 <loadingscreentip>一項備受嘲笑、以派駐專業娛樂人員協助潛艇船員應對高壓環境的計畫被迅速認定為失敗並被終止。</loadingscreentip>
 <loadingscreentip>大多數潛艇都會避免駛出歐羅巴冰凍表層內部的隧道與裂縫──因為介於表面冰層與星球內部岩石核心之間的巨大深淵之中，住著歐羅巴上最巨大、最危險的原生居民。</loadingscreentip>
 <loadingscreentip>若放任一群壓載艙寄生植物群多年不管，最終它們能夠成長為一個能夠控制它所寄居潛艇設備的高度智慧有機體──丘腦。</loadingscreentip>
-<loadingscreentip>你可以下達與物件相關的命令，將滑鼠游標停留於物件之上，按住Shift鍵並打開指令介面來選擇可用的命令。</loadingscreentip>
-<loadingscreentip>在哨站惹事會降低你的聲望，聲望較低會導致當地居民向你收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
+<loadingscreentip>您可以下達與物件相關的指令；將滑鼠游標停留於物件之上，在按住Shift鍵時打開指令介面來選擇可用的指令。</loadingscreentip>
+<loadingscreentip>在哨站惹事會降低您的聲望，聲望較低會導致當地居民向您收取額外的服務費用，甚至會與當地的執法人員發生矛盾。</loadingscreentip>
 <loadingscreentip>不少歐羅巴上的哨站拒絕承認聯盟的權威，但聯盟十分強大，很少有人膽敢公開反對它。不過部分如「木星分離主義者」的組織對聯盟舉起反旗，想要打倒聯盟建立相對自由的社會。</loadingscreentip>
 <loadingscreentip>小心獨目哨兵。別失去理智。</loadingscreentip>
 <loadingscreentip>橫跨表冰層與下方密度更大、更堅硬的次冰層的，是位於「歐羅巴之眼」最西側斜坡之上的「歐羅巴之脊」。溫暖的水透過對流到達那裡，使大量生命得以生存。</loadingscreentip>
@@ -101,22 +101,22 @@
 <pausemenuretryverification>確定要放棄任務並讀取之前的存檔嗎？所有未保存的遊戲進度將會遺失。</pausemenuretryverification>
 <pausemenuquitverificationeditor>確定要返回主選單嗎？所有未保存的進度將會遺失。</pausemenuquitverificationeditor>
 <pausemenusaveandquitverification>現在退出將會遺失此回合的進度，而任務也將在下次從頭開始。確定要退出嗎？</pausemenusaveandquitverification>
-<pausemenusaveandreturntoserverlobbyverification>你確定要保存並返回伺服器大廳嗎？</pausemenusaveandreturntoserverlobbyverification>
-<pausemenusaveandreturntomainmenuverification>你確定要保存並返回主選單嗎？</pausemenusaveandreturntomainmenuverification>
+<pausemenusaveandreturntoserverlobbyverification>您確定要儲存並返回伺服器大廳嗎？</pausemenusaveandreturntoserverlobbyverification>
+<pausemenusaveandreturntomainmenuverification>您確定要儲存並返回主選單嗎？</pausemenusaveandreturntomainmenuverification>
 
 
 <!-- Host server menu -->
 <servername>伺服器名稱</servername>
 <serverport>伺服器埠</serverport>
-<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至你的伺服器，你可能需要啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverporttooltip>
+<serverporttooltip>此埠將用於與其他用戶端溝通。如果用戶端無法連接至您的伺服器，您可能需要啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverporttooltip>
 <serverqueryport>查詢埠</serverqueryport>
-<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到你的伺服器，或它們出現 Steam ID 驗證失敗的情況，請嘗試啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverqueryporttooltip>
+<serverqueryporttooltip>此埠用於與Steam的伺服器瀏覽器溝通，並回應來自其他用戶端的資訊。如果其他用戶端在伺服器列表中找不到您的伺服器，或它們出現 Steam ID 驗證失敗的情況，請嘗試啟用 UPnP 通訊埠轉發或手動通訊埠轉發。</serverqueryporttooltip>
 <maxplayers>玩家數量上限</maxplayers>
 <password>密碼</password>
 <publicserver>公開伺服器</publicserver>
 <publicservertooltip>公開伺服器將出現在「瀏覽伺服器」頁面中的伺服器清單中。</publicservertooltip>
 <attemptupnp>嘗試 UPnP 通訊埠轉發</attemptupnp>
-<attemptupnptooltip>UPnP 可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援 UPnP，如果有玩家無法加入伺服器，你可能需要設定手動設定通訊埠轉發 (詳情請見readme)。</attemptupnptooltip>
+<attemptupnptooltip>UPnP 可用於轉發路由器上的埠以使玩家加入伺服器。但不是所有路由器都支援 UPnP，如果有玩家無法加入伺服器，您可能需要設定手動設定通訊埠轉發 (詳情請見readme)。</attemptupnptooltip>
 <startserverbutton>開始</startserverbutton>
 <pleasewaitupnp>請稍後...</pleasewaitupnp>
 <attemptingupnp>正在嘗試 UPnP 通訊埠轉發...</attemptingupnp>
@@ -146,12 +146,12 @@
 <modstab>已訂閱的Mod</modstab>
 <downloadbutton>訂閱</downloadbutton>
 <subscribedmods>Mods</subscribedmods>
-<nosubscribedmods>你尚未從Steam工作坊訂閱任何Mod。點擊「熱門Mod」找些有趣的東西吧！</nosubscribedmods>
+<nosubscribedmods>您尚未從Steam工作坊訂閱任何Mod。點擊「熱門Mod」找些有趣的東西吧！</nosubscribedmods>
 <popularmods>熱門Mod</popularmods>
 <findmodsbutton>尋找更多Mod...</findmodsbutton>
 <workshopitemunsubscribe>取消訂閱</workshopitemunsubscribe>
 <publishedworkshopitems>已發佈項目</publishedworkshopitems>
-<yourworkshopitems>你的項目</yourworkshopitems>
+<yourworkshopitems>您的項目</yourworkshopitems>
 <createworkshopitem>建立新項目</createworkshopitem>
 <workshoplabelsubmarines>潛艇</workshoplabelsubmarines>
 <workshoplabelcontentpackages>內容套件</workshoplabelcontentpackages>
@@ -167,22 +167,22 @@
 <workshopitemtitle>標題</workshopitemtitle>
 <workshopitemdescription>描述</workshopitemdescription>
 <workshopitemtags>標籤</workshopitemtags>
-<workshopitemcreatehelptext>你可在此頁面中發佈新的項目至Steam工作坊。從左側的「你的項目」中選擇潛艇或內容套件進行發佈。</workshopitemcreatehelptext>
+<workshopitemcreatehelptext>您可在此頁面中發佈新的項目至Steam工作坊。從左側的「您的項目」中選擇潛艇或內容套件進行發佈。</workshopitemcreatehelptext>
 <workshopitempreviewimage>預覽圖</workshopitempreviewimage>
 <workshopitembrowse>瀏覽...</workshopitembrowse>
 <workshopitemcorepackage>核心內容套件</workshopitemcorepackage>
-<workshopitemcorepackagetooltip>核心內容套件包含了任何遊戲自帶的必要檔案 (如執行檔、設定檔)，只有在你的Mod會替換任何遊戲核心內容檔案的情況下選擇勾選這個選項。僅添加額外內容的Mod不適用這個選項。</workshopitemcorepackagetooltip>
+<workshopitemcorepackagetooltip>核心內容套件包含了任何遊戲自帶的必要檔案 (如執行檔、設定檔)，只有在您的Mod會替換任何遊戲核心內容檔案的情況下選擇勾選這個選項。僅添加額外內容的Mod不適用這個選項。</workshopitemcorepackagetooltip>
 <workshopitemfiles>套件中包含的檔案</workshopitemfiles>
 <workshopitemshowfolder>顯示資料夾</workshopitemshowfolder>
 <workshopitemchangenote>修改註記</workshopitemchangenote>
-<workshopitemchangenotetooltip>你正在對一項已存在Steam工作坊項目發佈更新。你可以修改註記來敘述更動的內容。</workshopitemchangenotetooltip>
+<workshopitemchangenotetooltip>您正在對一項已存在Steam工作坊項目發佈更新。您可以修改註記來敘述更動的內容。</workshopitemchangenotetooltip>
 <workshopitemrefreshfilelist>重新整理</workshopitemrefreshfilelist>
 <workshopitemaddfiles>加入檔案...</workshopitemaddfiles>
 <workshopitempublish>發佈項目</workshopitempublish>
 <workshopitemupdate>更新項目</workshopitemupdate>
 <workshopitemdelete>刪除項目</workshopitemdelete>
 <workshopitemdeletetooltip>將該項目自Steam工作坊移除。</workshopitemdeletetooltip>
-<workshopitemdeleteverification>你確定要將 "[itemname]" 從Steam工作坊中移除嗎？</workshopitemdeleteverification>
+<workshopitemdeleteverification>您確定要將 "[itemname]" 從Steam工作坊中移除嗎？</workshopitemdeleteverification>
 <workshopitempublishtooltip>上傳檔案至Steam工作坊。</workshopitempublishtooltip>
 <workshopitemfileincluded>檔案將被包含在Steam工作坊項目中。</workshopitemfileincluded>
 <workshopitemfilenotincluded>無法在該項目資料夾中找到對應的檔案，此項目中將不會包含該檔案。除非檔案已不再被需要──請將檔案置於該項目的資料夾內。</workshopitemfilenotincluded>
@@ -191,7 +191,7 @@
 <workshopitemrefreshfilelisttooltip>重新載入Steam工作坊項目的設定檔 (項目資料夾內的 filelist.xml)，並將項目中包含的所有新檔案添加到列表當中。</workshopitemrefreshfilelisttooltip>
 <workshoppublishpleasewait>請稍後</workshoppublishpleasewait>
 <workshoppublishinprogress>正在將 "[itemname]" 發佈至Steam工作坊。</workshoppublishinprogress>
-<workshopitempublished>現在你可以在Steam工作坊裡找到 "[itemname]" 了！</workshopitempublished>
+<workshopitempublished>現在您可以在Steam工作坊裡找到 "[itemname]" 了！</workshopitempublished>
 <workshopitempublishfailed>將 "[itemname]" 發佈至Steam工作坊失敗。</workshopitempublishfailed>
 <workshopitempreviewimagedialogtitle>為Steam工作坊項目選擇預覽圖。</workshopitempreviewimagedialogtitle>
 <workshopitempreviewimagetoolarge>預覽圖應小於1MB。</workshopitempreviewimagetoolarge>
@@ -213,9 +213,9 @@
 <workshop.contenttag.itemassembly>Item assembly</workshop.contenttag.itemassembly>
 <workshop.contenttag.language>Language</workshop.contenttag.language>
 <workshoperroronenable>無法啟用Steam工作坊項目 "[itemname]"。</workshoperroronenable>
-<workshoppublisherror.limitexceeded>發佈Steam工作坊項目失敗 (超過上限)。請確定Steam雲端系統功能已啟用且尚未超過你的雲端儲存上限。如果你上傳了大量存檔至Steam雲端系統，可能導致你的雲端儲存空間不足。你可以查看 [savepath] 確認你的存檔數量。</workshoppublisherror.limitexceeded>
-<workshoppublisherror.limiteduseraccount>發佈Steam工作坊項目失敗。受到限制的Steam帳號無法發佈項目至Steam工作坊。你需要在Steam花費至少5美元以解除你的帳號限制。此限制與遊戲本身無關。</workshoppublisherror.limiteduseraccount>
-<workshoppublisherror.banned>發佈Steam工作坊項目失敗，因為你的帳號已被封鎖。</workshoppublisherror.banned>
+<workshoppublisherror.limitexceeded>發佈Steam工作坊項目失敗 (超過上限)。請確定Steam雲端系統功能已啟用且尚未超過您的雲端儲存上限。如果您上傳了大量存檔至Steam雲端系統，可能導致您的雲端儲存空間不足。您可以查看 [savepath] 確認您的存檔數量。</workshoppublisherror.limitexceeded>
+<workshoppublisherror.limiteduseraccount>發佈Steam工作坊項目失敗。受到限制的Steam帳號無法發佈項目至Steam工作坊。您需要在Steam花費至少5美元以解除您的帳號限制。此限制與遊戲本身無關。</workshoppublisherror.limiteduseraccount>
+<workshoppublisherror.banned>發佈Steam工作坊項目失敗，因為您的帳號已被封鎖。</workshoppublisherror.banned>
 <workshoppublisherror.insufficientprivilege>發佈Steam工作坊項目失敗 (權限不足)。原因可能是被系統封鎖、帳號被鎖定、或被遊戲社群封鎖。請聯繫Steam客服。</workshoppublisherror.insufficientprivilege>
 <workshoppublisherror.serviceunavailable>發佈Steam工作坊項目失敗 (伺服器不可用)。工坊伺服器可能遇到了問題。請稍後再試。</workshoppublisherror.serviceunavailable>
 <workshopitemupdated>Steam工作坊項目 [itemname] 更新成功。</workshopitemupdated>
@@ -223,7 +223,7 @@
 <workshopfilenotfound>找不到檔案 [path]。</workshopfilenotfound>
 <unstableworkshopitempublishwarning>不建議自遊戲的測試版本中發佈Steam工作坊項目。測試版本中的遊戲功能可能不在正式發佈的版本當中，因此可能無法在正式發佈的版本正常運作。非測試版本的玩家將無法載入該項目。確認要繼續發佈此項目嗎？</unstableworkshopitempublishwarning>
 <workshopitemvisibility>可見性</workshopitemvisibility>
-<workshopitemvisibilitytooltip>限制誰能夠看到並訂閱你的Steam工作坊項目。</workshopitemvisibilitytooltip>
+<workshopitemvisibilitytooltip>限制誰能夠看到並訂閱您的Steam工作坊項目。</workshopitemvisibilitytooltip>
 <workshopitemvisibility.public>公開</workshopitemvisibility.public>
 <workshopitemvisibility.friendsonly>僅限好友</workshopitemvisibility.friendsonly>
 <workshopitemvisibility.private>隱藏</workshopitemvisibility.private>
@@ -231,12 +231,12 @@
 <workshopiteminstalled>已安裝</workshopiteminstalled>
 <workshopitemdownloadpending>下載暫停</workshopitemdownloadpending>
 <confirmfiledeletionheader>刪除檔案</confirmfiledeletionheader>
-<confirmfiledeletion>你確定要永久刪除 "[file]" 嗎？</confirmfiledeletion>
+<confirmfiledeletion>您確定要永久刪除 "[file]" 嗎？</confirmfiledeletion>
 <workshopitemreinstall>重新安裝</workshopitemreinstall>
 <modsinstallednotif>Mod已安裝，在設定中啟用</modsinstallednotif>
 <modsdownloadingnotif>正在下載mod...</modsdownloadingnotif>
 <workshopitemdownloadtitle>需要Steam工作坊項目</workshopitemdownloadtitle>
-<workshopitemdownloadprompt>進入此伺服器需要訂閱以下Steam工作坊項目: [items] 你要訂閱它們嗎？</workshopitemdownloadprompt>
+<workshopitemdownloadprompt>進入此伺服器需要訂閱以下Steam工作坊項目: [items] 您要訂閱它們嗎？</workshopitemdownloadprompt>
 <workshopitemdownloadprompttruncated>+ [number] 個</workshopitemdownloadprompttruncated>
 <workshopmenutab.installedmods>已安裝Mod</workshopmenutab.installedmods>
 <workshopmenutab.popularmods>熱門Mod</workshopmenutab.popularmods>
@@ -244,8 +244,8 @@
 <enabledcore>目前核心內容套件</enabledcore>
 <enabledregular>啟用的內容套件</enabledregular>
 <disabledregular>停用的內容套件</disabledregular>
-<LocalCopyRequired>此項目不存在本機複本。你需要建立本機複本以對其發布更新。\n\n你想要建立這個項目的本機複本嗎？</LocalCopyRequired>
-<ItemInstallRequired>你尚未安裝這個項目。你需要先安裝這個項目以對其發布更新。\n\n你想要安裝這個項目嗎？</ItemInstallRequired>
+<LocalCopyRequired>此項目不存在本機複本。您需要建立本機複本以對其發布更新。\n\n您想要建立這個項目的本機複本嗎？</LocalCopyRequired>
+<ItemInstallRequired>您尚未安裝這個項目。您需要先安裝這個項目以對其發布更新。\n\n您想要安裝這個項目嗎？</ItemInstallRequired>
 <WorkshopItemVersion>Mod版本</WorkshopItemVersion>
 <PublishedModsHeader>已發布</PublishedModsHeader>
 <UnpublishedModsHeader>未發布</UnpublishedModsHeader>
@@ -256,8 +256,8 @@
 <WorkshopItemVisibility.Unlisted>未公開</WorkshopItemVisibility.Unlisted>
 <ModDownloadTitle>需要的Mod</ModDownloadTitle>
 <ModDownloadHeader>進入此伺服器需要下列模組:</ModDownloadHeader>
-<ModDownloadFooter>你想要下載它們嗎？</ModDownloadFooter>
-<ModDownloadFooterFail>這個伺服器不允許玩家直接自其下載所使用的Mod，你需要自Steam工作坊下載它們，或聯絡伺服器管理者。</ModDownloadFooterFail>
+<ModDownloadFooter>您想要下載它們嗎？</ModDownloadFooter>
+<ModDownloadFooterFail>這個伺服器不允許玩家直接自其下載所使用的Mod，您需要自Steam工作坊下載它們，或聯絡伺服器管理者。</ModDownloadFooterFail>
 <SubscribeToAllOnWorkshop>自Steam工作坊訂閱全部</SubscribeToAllOnWorkshop>
 <ModNameAndHashFormat>[name] ([hash])</ModNameAndHashFormat>
 <ModDirInfo>[filecount]檔案，總計[size]</ModDirInfo>
@@ -279,11 +279,11 @@
 <RefreshModLists>重新整理</RefreshModLists>
 <WorkshopItemUpdate>更新</WorkshopItemUpdate>
 <ServerExecutable>伺服器執行檔</ServerExecutable>
-<ModServerExesAtYourOwnRisk>修改過的伺服器執行檔有可能不安全甚至帶有惡意程序。\n\n執行此類檔案時風險自負！\n\n你依然想要執行 [exename] 嗎？</ModServerExesAtYourOwnRisk>
-<CannotChangeMods>你只能在主選單啟用/停用Mod。</CannotChangeMods>
+<ModServerExesAtYourOwnRisk>修改過的伺服器執行檔有可能不安全甚至帶有惡意程序。\n\n執行此類檔案時風險自負！\n\n您依然想要執行 [exename] 嗎？</ModServerExesAtYourOwnRisk>
+<CannotChangeMods>您只能在主選單啟用/停用Mod。</CannotChangeMods>
 <WorkshopItemSubscriptions>[subscriptioncount]項訂閱內容</WorkshopItemSubscriptions>
 <Ugc.TransferTitle>移動Mod</Ugc.TransferTitle>
-<Ugc.TransferDesc>看起來你在舊版的《潛淵症》中製作了一些Mod。\n\n請選擇你希望移動到新路徑的Mod。\n\n所有未被移動的Mod都將不會被顯示在這個版本的遊戲中，但你依舊能在它們的原始位置找到它們以便你想手動將它們移動至新的Mod路徑。</Ugc.TransferDesc>
+<Ugc.TransferDesc>看起來您在舊版的《潛淵症》中製作了一些Mod。\n\n請選擇您希望移動到新路徑的Mod。\n\n所有未被移動的Mod都將不會被顯示在這個版本的遊戲中，但您依舊能在它們的原始位置找到它們以便您想手動將它們移動至新的Mod路徑。</Ugc.TransferDesc>
 <Ugc.TransferButton>移動</Ugc.TransferButton>
 <Ugc.Transferring>正在移動Mod...</Ugc.Transferring>
 <Ugc.TransferComplete>Mod完成移動。</Ugc.TransferComplete>
@@ -297,7 +297,7 @@
 <ModFilter.ShowOnlyItemAssemblies>僅顯示物件組合</ModFilter.ShowOnlyItemAssemblies>
 <MergeSelectedMods>合併全部已選取</MergeSelectedMods>
 <MergeModsHeader>合併Mod</MergeModsHeader>
-<MergeModsDesc>你將要合併以下的Mod:</MergeModsDesc>
+<MergeModsDesc>您將要合併以下的Mod:</MergeModsDesc>
 <MergeModsFooter>為合併後的內容套件命名:</MergeModsFooter>
 <ConfirmModMerge>合併</ConfirmModMerge>
 <UnsubscribeFromAllSelected>取消訂閱全部已選取</UnsubscribeFromAllSelected>
@@ -312,11 +312,11 @@
 <ContentPackageEnableError>內容套件 "[packagename]" 發生錯誤而無法啟用。以F3切換 Debug Console 查看詳細資訊。</ContentPackageEnableError>
 <ContentPackageHasFatalErrors>在內容套件 "[packagename]" 中發現錯誤。</ContentPackageHasFatalErrors>
 <ModUpdatesAvailableLabel>有可用的更新！點此查看詳細資訊</ModUpdatesAvailableLabel>
-<ModLoadOrderExplanation>你能夠透過更改清單內容的排列來調整Mod的讀取先後順序。愈接近列表頂部的Mod將比下方更優先讀取；若有多個Mod對同一內容做出修改，位於列表最頂端的Mod將蓋過其下方其他Mod的效果。</ModLoadOrderExplanation>
+<ModLoadOrderExplanation>您能透過更改清單內容的排列來調整Mod的套用先後順序；若有多個Mod對同一內容做出修改，位於列表最頂端的Mod將蓋過其下方其他Mod的效果。</ModLoadOrderExplanation>
 
 <!-- Settings Menu -->
 <settings>設定</settings>
-<restartrequiredgeneric>你需要重新啟動遊戲才能使這些變動生效。</restartrequiredgeneric>
+<restartrequiredgeneric>您需要重新啟動遊戲才能使這些變動生效。</restartrequiredgeneric>
 <settingresetlabel>確認重置</settingresetlabel>
 <unsavedchangeslabel>未保存的變更</unsavedchangeslabel>
 <unsavedchangesverification>變更的設定尚未保存，確定要離開嗎？</unsavedchangesverification>
@@ -325,21 +325,21 @@
 <settingstab.general>一般</settingstab.general>
 <contentpackage>內容套件</contentpackage>
 <contentpackages>內容套件</contentpackages>
-<corepackagerequiredwarning>你無法取消選取核心內容套件，但你能夠以選擇另一個核心內容套件的方式進行切換。</corepackagerequiredwarning>
+<corepackagerequiredwarning>您無法取消選取核心內容套件，但您能夠以選擇另一個核心內容套件的方式進行切換。</corepackagerequiredwarning>
 <cannotremovecontentpackagesub>該潛艇的檔案為內容套件 "[contentpackage]" 的一部分因此無法移除。請自遊戲內的Steam工作坊選單中移除該套件。</cannotremovecontentpackagesub>
-<settingresetverification>你確定要初始化全部設定嗎？</settingresetverification>
-<incorrectexe>你啟動的執行檔並未包含在內容套件 [selectedpackage] 之中。你想要啟動 [exename] 嗎？</incorrectexe>
+<settingresetverification>您確定要初始化全部設定嗎？</settingresetverification>
+<incorrectexe>您啟動的執行檔並未包含在內容套件 [selectedpackage] 之中。您想要啟動 [exename] 嗎？</incorrectexe>
 <language>語言</language>
 <language.english>英語</language.english>
 <applysettingsbutton>套用</applysettingsbutton>
 <applysettingslabel>確認變更？</applysettingslabel>
-<applysettingsquestion>你想套用變更後的設定嗎？</applysettingsquestion>
+<applysettingsquestion>您想套用變更後的設定嗎？</applysettingsquestion>
 <applysettingsyes>套用</applysettingsyes>
 <applysettingsno>放棄</applysettingsno>
 <applysettingsbuttonunsavedchanges>套用</applysettingsbuttonunsavedchanges>
 <restartrequiredlabel>需要重新啟動遊戲</restartrequiredlabel>
-<restartrequiredresolution>為使解析度設定生效，你需要重新啟動遊戲。</restartrequiredresolution>
-<restartrequiredlanguage>為使語言設定生效，你需要重新啟動遊戲。</restartrequiredlanguage>
+<restartrequiredresolution>為使解析度設定生效，您需要重新啟動遊戲。</restartrequiredresolution>
+<restartrequiredlanguage>為使語言設定生效，您需要重新啟動遊戲。</restartrequiredlanguage>
 <contentpackagenotfound>未找到內容套件 "[packagepath]"。</contentpackagenotfound>
 <incompatiblecontentpackage>內容套件 "[packagename]" 與當前遊戲的版本不相容。該套件適用於版本 [packageversion]。目前的遊戲版本為 [gameversion]。</incompatiblecontentpackage>
 <incompatiblecontentpackageunknownversion>內容套件 "[packagename]" 與當前遊戲的版本不相容。該套件適用的版本未知。目前的遊戲版本為 [gameversion]。</incompatiblecontentpackageunknownversion>
@@ -350,14 +350,14 @@
 <voipcapturedevicenotfound>無法啟動音訊捕捉；找不到可用的設備。</voipcapturedevicenotfound>
 <enablesplashscreen>啟用開頭畫面</enablesplashscreen>
 <contentpackagehaserrors>內容套件 "[packagename]" 發生錯誤，它的部分功能可能無法正常運作。</contentpackagehaserrors>
-<restartrequiredcontentpackage>你需要重新啟動遊戲使內容套件的更動生效。</restartrequiredcontentpackage>
+<restartrequiredcontentpackage>您需要重新啟動遊戲使內容套件的更動生效。</restartrequiredcontentpackage>
 <ShowEnemyHealthBars>敵人生命值</ShowEnemyHealthBars>
 <ShowEnemyHealthBars.ShowAll>全部顯示</ShowEnemyHealthBars.ShowAll>
 <ShowEnemyHealthBars.BossHealthBarsOnly>僅Boss生命值</ShowEnemyHealthBars.BossHealthBarsOnly>
 <ShowEnemyHealthBars.HideAll>全部隱藏</ShowEnemyHealthBars.HideAll>
 
 <!-- Graphics tab -->
-<settingstab.graphics>圖像</settingstab.graphics>
+<settingstab.graphics>圖形</settingstab.graphics>
 <resolution>解析度</resolution>
 <displaymode>顯示模式</displaymode>
 <fullscreen>全螢幕</fullscreen>
@@ -397,7 +397,7 @@
 <muteonfocuslosttooltip>當玩家跳出遊戲視窗時遊戲將自動靜音。</muteonfocuslosttooltip>
 <audionodevices>未找到音訊輸出設備。</audionodevices>
 <localvoicebydefault>預設使用所在位置語音交談</localvoicebydefault>
-<localvoicebydefaulttooltip>啟用時，你的聲音將以你的所在位置發送語音交談 (只有附近的玩家才能聽到你的聲音)。你可以透過按鍵發話以無線電進行交流。</localvoicebydefaulttooltip>
+<localvoicebydefaulttooltip>啟用時，您的聲音將以您的所在位置發送語音交談 (只有附近的玩家才能聽到您的聲音)。您可以透過按鍵發話以無線電進行交流。</localvoicebydefaulttooltip>
 <audiooutputdevice>輸出裝置</audiooutputdevice>
 <audioinputdevice>輸入裝置</audioinputdevice>
 <vcinputmode>輸入模式</vcinputmode>
@@ -405,7 +405,7 @@
 <microphonevolume>麥克風音量</microphonevolume>
 <voicechat>語音交談</voicechat>
 <currentdevice>目前設備</currentdevice>
-<currentdevicetooltip.osx>該設備將用於語音交談。若你使用的是 Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
+<currentdevicetooltip.osx>該設備將用於語音交談。若您使用的是 Mac OS X，輸入裝置將受限於系預設無法更改。</currentdevicetooltip.osx>
 <refreshdefaultdevice>重新整理預設設備</refreshdefaultdevice>
 <refreshdefaultdevicetooltip>重新整理用於語音交談的設備。在切換/插拔預設輸入裝置之後點選以偵測變更。</refreshdefaultdevicetooltip>
 <voicemode.disabled>停用</voicemode.disabled>
@@ -416,7 +416,7 @@
 <voicemode.activitytooltip>當音量大於音量臨界值時自動發送語音交談。</voicemode.activitytooltip>
 <noisegatethreshold>音量臨界值</noisegatethreshold>
 <directionalvoicechat>指向性語音交談</directionalvoicechat>
-<directionalvoicechattooltip>啟動時，語音交談的聲音會受說話者相對於你所在的位置與方向影響。</directionalvoicechattooltip>
+<directionalvoicechattooltip>啟動時，語音交談的聲音會受說話者相對於您所在的位置與方向影響。</directionalvoicechattooltip>
 <dynamicrangecompression>動態範圍壓縮</dynamicrangecompression>
 <dynamicrangecompressiontooltip>自動調整遊戲的音量以防止音效失真。</dynamicrangecompressiontooltip>
 <voipnodevices>沒有找到音訊捕捉設備</voipnodevices>
@@ -479,13 +479,13 @@
 <setlegacybindings>Legacy按鍵綁定</setlegacybindings>
 <setlegacybindingstooltip>採用遊戲的舊版按鍵設定 (E 鍵選取/取消選取物品，滑鼠左鍵使用手中物品)。</setlegacybindingstooltip>
 <inventoryslotkeybind>物品欄 [slotnumber]</inventoryslotkeybind>
-<duplicatebindwarning>你已將 [savedbind] 綁定至 [key]。它與新的按鍵設定 [defaultbind] 重複。這可能會導致預期外的結果。建議至設定中更改按鍵綁定。</duplicatebindwarning>
+<duplicatebindwarning>您已將 [savedbind] 綁定至 [key]。它與新的按鍵設定 [defaultbind] 重複。這可能會導致預期外的結果。建議至設定中更改按鍵綁定。</duplicatebindwarning>
 <hudbutton.chatbox>聊天 ([key])</hudbutton.chatbox>
 
 <!-- Gameplay tab -->
 <settingstab.gameplay>遊戲 &amp; UI</settingstab.gameplay>
 <resetingamehints>重置遊戲提示</resetingamehints>
-<resetingamehintstooltip>你確定要重置遊戲提示嗎？這會使已被標示為不再顯示的遊戲提示再次跳出。</resetingamehintstooltip>
+<resetingamehintstooltip>您確定要重置遊戲提示嗎？這會使已被標示為不再顯示的遊戲提示再次跳出。</resetingamehintstooltip>
 
 
 <!-- Server settings -->
@@ -531,7 +531,7 @@
 <serversettingsdisablebotconversations>停用Bot對話</serversettingsdisablebotconversations>
 <serversettingsdestructibleoutposts>允許破壞哨站</serversettingsdestructibleoutposts>
 <serversettingskillablenpcs>允許殺害哨站NPC</serversettingskillablenpcs>
-<serverrestartrequiredcontentpackage>在建立伺服器前，你需要重新啟動遊戲才能使遊戲內容套件生效。</serverrestartrequiredcontentpackage>
+<serverrestartrequiredcontentpackage>在建立伺服器前，您需要重新啟動遊戲才能使遊戲內容套件生效。</serverrestartrequiredcontentpackage>
 <banlistremove>移除</banlistremove>
 <banexpires>[time]到期</banexpires>
 <banduration>持續時間</banduration>
@@ -541,7 +541,7 @@
 <publiclobbytag>公開</publiclobbytag>
 <privatelobbytag>私人</privatelobbytag>
 <hostserverkarmasetting>與朋友進行遊戲？</hostserverkarmasetting>
-<hostserverkarmasettingtooltip>選取此項目將停用卡瑪。\n\n卡瑪是一個可自訂的自動管理系統，它會賦予執行有益及有害行為的玩家一項隱藏的分數，並有機會在分數太低時祭出處置。卡瑪能協助你管理公開伺服器，但你或許會希望和朋友一起更自由地互動。</hostserverkarmasettingtooltip>
+<hostserverkarmasettingtooltip>選取此項目將停用卡瑪。\n\n卡瑪是一個可自訂的自動管理系統，它會賦予執行有益及有害行為的玩家一項隱藏的分數，並有機會在分數太低時祭出處置。卡瑪能協助您管理公開伺服器，但您或許會希望和朋友一起更自由地互動。</hostserverkarmasettingtooltip>
 <serversettingsmaximumtransferrequest>請求轉移最高資金</serversettingsmaximumtransferrequest>
 <serversettingsmaximumtransferrequesttooltip>玩家允許請求自銀行轉出的金額。設為 0 將完全停用以投票請求自銀行轉出資金的功能。</serversettingsmaximumtransferrequesttooltip>
 <serversettingslootedmoneydestination>拾取資金去向</serversettingslootedmoneydestination>
@@ -566,7 +566,7 @@
 <tabmenu.voip>VOIP</tabmenu.voip>
 <tabmenu.job>職業</tabmenu.job>
 <tabmenu.character>角色</tabmenu.character>
-<tabmenu.characterchangespending>你對角色的變更將在此回合結束之後生效。</tabmenu.characterchangespending>
+<tabmenu.characterchangespending>您對角色的變更將在此回合結束之後生效。</tabmenu.characterchangespending>
 <tabmenu.traitor>叛徒</tabmenu.traitor>
 <tabmenu.bot>Bot</tabmenu.bot>
 <tabmenu.inlobby>於大廳</tabmenu.inlobby>
@@ -640,7 +640,7 @@
 <skills>技能</skills>
 <male>男性</male>
 <female>女性</female>
-<order>命令</order>
+<order>指令</order>
 <submarine>潛艇</submarine>
 <respawnshuttle>重置小艇</respawnshuttle>
 <shuttle>小艇</shuttle>
@@ -667,15 +667,15 @@
 <name>名稱</name>
 <unlimited>無限</unlimited>
 <deletedialoglabel>刪除檔案？</deletedialoglabel>
-<deletedialogquestion>你確定要刪除"[file]"嗎？</deletedialogquestion>
-<deletefileverification>你要刪除 [filename] 嗎？</deletefileverification>
+<deletedialogquestion>您確定要刪除"[file]"嗎？</deletedialogquestion>
+<deletefileverification>您要刪除 [filename] 嗎？</deletefileverification>
 <deletefileerror>無法刪除"[file]"！</deletefileerror>
-<steamdllnotfound>初始化Steam用戶端失敗 (找不到 steam_api64.dll)。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
-<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已啟動且已登入Steam帳號。所有Steam功能已經停用──你將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
+<steamdllnotfound>初始化Steam用戶端失敗 (找不到 steam_api64.dll)。所有Steam功能已經停用──您將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamdllnotfound>
+<steamclientinitfailed>初始化Steam用戶端失敗，請確認Steam已啟動且已登入Steam帳號。所有Steam功能已經停用──您將無法使用Steam工作坊或加入透過Steam架設的伺服器。</steamclientinitfailed>
 <create>建立</create>
 <walls>牆壁</walls>
 <reset>重設</reset>
-<genericreplaceverification>你要替換它嗎？</genericreplaceverification>
+<genericreplaceverification>您要替換它嗎？</genericreplaceverification>
 <dontshownotificationagain>下次不再提醒</dontshownotificationagain>
 <video>影片</video>
 <search>搜尋</search>
@@ -688,8 +688,8 @@
 <failed>失敗</failed>
 <invalidcontentpackage>無法載入 "[packagename]" 內容套件。</invalidcontentpackage>
 <xmlfileinvalid>文件 "[filepath]" 不是有效的XML文件 ([errormessage])。</xmlfileinvalid>
-<openlinkinbrowserprompt>你要用網頁流覽器打開 "[link]" 嗎？</openlinkinbrowserprompt>
-<contentpackagemismatchwarninggeneric>這艘潛艇可能與當前所選的內容套件不相容，你確定要選擇這艘潛艇嗎？</contentpackagemismatchwarninggeneric>
+<openlinkinbrowserprompt>您要用網頁流覽器打開 "[link]" 嗎？</openlinkinbrowserprompt>
+<contentpackagemismatchwarninggeneric>這艘潛艇可能與當前所選的內容套件不相容，您確定要選擇這艘潛艇嗎？</contentpackagemismatchwarninggeneric>
 <bankbalanceformat>銀行: [money] mk</bankbalanceformat>
 <moneygainformat>+ [money]</moneygainformat>
 <moneyloseformat>- [money]</moneyloseformat>
@@ -715,8 +715,8 @@
 <legacyitemformat>[name] (Legacy)</legacyitemformat>
 <moderationmenu.userdetails>細節</moderationmenu.userdetails>
 <moderationmenu.manageplayer>Manage</moderationmenu.manageplayer>
-<crushdepthwarninglow>在沒有升級船體強度或使用合適潛艇的情況下你可能無法安全通行。該航線的起始深度為[initialdepth]公尺，而你的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninglow>
-<crushdepthwarninghigh>在沒有升級船體強度或使用合適潛艇的情況下你無法選擇這條航線。該航線的起始深度為[initialdepth]公尺，但你的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninghigh>
+<crushdepthwarninglow>在沒有升級船體強度或使用合適潛艇的情況下您可能無法安全通行。該航線的起始深度為[initialdepth]公尺，而您的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninglow>
+<crushdepthwarninghigh>在沒有升級船體強度或使用合適潛艇的情況下您無法選擇這條航線。該航線的起始深度為[initialdepth]公尺，但您的潛艇僅能承受水下[submarinecrushdepth]公尺的壓力。</crushdepthwarninghigh>
 <navterminalicespirewarning>偵測到冰刺。建議將其摧毀或切換至手動操縱。</navterminalicespirewarning>
 <confirm>確定</confirm>
 <restart>重新開始</restart>
@@ -727,7 +727,7 @@
 <charactereditor.crouch>Crouch</charactereditor.crouch>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影燈光</subeditorshadowcastinglights>
-<subeditor.shadowcastinglightswarning>潛艇上有大量投射陰影的燈光將會影響遊戲效能。你可以嘗試為這類非必要的光源關閉陰影投射: 昏暗、小範圍的定點光源，當它們的光通過門與牆壁十多半不會過於明顯；潛艇外的燈光能夠將其設定顯示在潛艇之後而不需要投射陰影。</subeditor.shadowcastinglightswarning>
+<subeditor.shadowcastinglightswarning>潛艇上有大量投射陰影的燈光將會影響遊戲效能。您可以嘗試為這類非必要的光源關閉陰影投射: 昏暗、小範圍的定點光源，當它們的光通過門與牆壁十多半不會過於明顯；潛艇外的燈光能夠將其設定顯示在潛艇之後而不需要投射陰影。</subeditor.shadowcastinglightswarning>
 <subeditor.outpostcommonness>普遍性</subeditor.outpostcommonness>
 <subeditor.price>價格</subeditor.price>
 <subeditor.autosaveage>儲存於 [hours] 小時 [minutes] 分 [seconds] 秒前。</subeditor.autosaveage>
@@ -767,7 +767,7 @@
 <particle.muzzleflash>Muzzle Flash</particle.muzzleflash><!--where?-->
 <gapinsidehullwarning>這個 Gap 沒有作用，因為它的邊緣都處於同一個 Hull 中。要讓空氣與水透過 Gap 移動或以門來阻擋空氣與水，請將它們置於兩個 Hull 之間。</gapinsidehullwarning>
 <opensubbutton>開啟...</opensubbutton>
-<generatewaypointsverification>你確定要為這艘潛艇重新產生 Waypoint嗎？這將會清除現存的 Waypoint。要使AI角色能夠有效的在潛艇中移動，在產生 Waypoint 之後你可能需要手動進行增減、連結等微調，以確保艙房之間的路徑暢通。</generatewaypointsverification>
+<generatewaypointsverification>您確定要為這艘潛艇重新產生 Waypoint嗎？這將會清除現存的 Waypoint。要使AI角色能夠有效的在潛艇中移動，在產生 Waypoint 之後您可能需要手動進行增減、連結等微調，以確保艙房之間的路徑暢通。</generatewaypointsverification>
 <waypointsgeneratedsuccesfully>成功產生 Waypoint。</waypointsgeneratedsuccesfully>
 <loadautosave>載入自動存檔</loadautosave>
 <loadautosavetooltip>從最新的自動存檔回復。</loadautosavetooltip>
@@ -780,8 +780,8 @@
 <nohumanspawnpointwarning>這艘潛艇沒有為人類角色提供 Spawnpoint，無法放置船員。請放置新的 Spawnpoint 並調整它的 "Spawn type" 至 "Human"。</nohumanspawnpointwarning>
 <editable.minvalue>Min</editable.minvalue>
 <editable.maxvalue>Max</editable.maxvalue>
-<savesubtospecialfolderprompt>你已將潛艇設為 "[type]"，你想要將檔案儲存至 "[outpostpath]" 而非預設的「Submarines」資料夾嗎？</savesubtospecialfolderprompt>
-<addtocontentpackageprompt>你要加入這個檔案至 "[packagename]" 內容套件嗎？</addtocontentpackageprompt>
+<savesubtospecialfolderprompt>您已將潛艇設為 "[type]"，您想要將檔案儲存至 "[outpostpath]" 而非預設的「Submarines」資料夾嗎？</savesubtospecialfolderprompt>
+<addtocontentpackageprompt>您要加入這個檔案至 "[packagename]" 內容套件嗎？</addtocontentpackageprompt>
 <editor.selectsame>選取同類型物件</editor.selectsame>
 <sp.regexfindcomponent.usecapturegroup.name>使用Capture Group</sp.regexfindcomponent.usecapturegroup.name>
 <sp.regexfindcomponent.usecapturegroup.description>此元件是否輸出 Named Capture Group。</sp.regexfindcomponent.usecapturegroup.description>
@@ -844,13 +844,13 @@
 <editortip.altforruler>按住 Alt 使用量尺</editortip.altforruler>
 <itemassemblyvanillafileexistswarning>已經有遊戲本體內容中的物件組合使用這個名稱，無法覆蓋遊戲本體內容，請使用其他名稱。</itemassemblyvanillafileexistswarning>
 <cantdeletevanillasub>無法刪除遊戲本體內容中的潛艇。</cantdeletevanillasub>
-<cantdeletemodsub>你無法刪除包含在 "[modname]" 中的潛艇。請至設定選單將該Mod停用。</cantdeletemodsub>
+<cantdeletemodsub>您無法刪除包含在 "[modname]" 中的潛艇。請至設定選單將該Mod停用。</cantdeletemodsub>
 <LoadingPublishedSubmarineHeader>讀取已發佈的潛艇</LoadingPublishedSubmarineHeader>
-<LoadingPublishedSubmarineDesc>你正要讀取的潛艇來自 "[modname]" 的非本機複本。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；若你已有該內容套件的本機複本，建議改自當中讀取。\n\n若你沒有該內容套件的本機複本，你能夠自Steam工作坊選單中的「發佈」頁面中選取你所發佈的Mod以建立本機複本。</LoadingPublishedSubmarineDesc>
+<LoadingPublishedSubmarineDesc>您正要讀取的潛艇來自 "[modname]" 的非本機複本。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；若您已有該內容套件的本機複本，建議改自當中讀取。\n\n若您沒有該內容套件的本機複本，您能夠自Steam工作坊選單中的「發佈」頁面中選取您所發佈的Mod以建立本機複本。</LoadingPublishedSubmarineDesc>
 <LoadingSubscribedSubmarineHeader>讀取來自工作坊的潛艇</LoadingSubscribedSubmarineHeader>
-<LoadingSubscribedSubmarineDesc>你正要讀取的潛艇來自工作坊上訂閱的Mod。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingSubscribedSubmarineDesc>
+<LoadingSubscribedSubmarineDesc>您正要讀取的潛艇來自工作坊上訂閱的Mod。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingSubscribedSubmarineDesc>
 <LoadingVanillaSubmarineHeader>讀取遊戲本體內容中的潛艇</LoadingVanillaSubmarineHeader>
-<LoadingVanillaSubmarineDesc>你正要讀取的潛艇來自遊戲的本體內容。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingVanillaSubmarineDesc>
+<LoadingVanillaSubmarineDesc>您正要讀取的潛艇來自遊戲的本體內容。\n\n潛艇編輯器只能儲存檔案至本機內容套件中；保存對這艘潛艇的修改將導致多艘同名的潛艇出現。</LoadingVanillaSubmarineDesc>
 <LoadAnyway>讀取</LoadAnyway>
 
 <!-- Characters -->
@@ -961,17 +961,17 @@
 <lastsaved>最近存檔</lastsaved>
 <mapseed>地圖種子</mapseed>
 <startcampaignbutton>開始</startcampaignbutton>
-<campaignenteroutpostprompt>你想進入[locationname]嗎？</campaignenteroutpostprompt>
+<campaignenteroutpostprompt>您想進入[locationname]嗎？</campaignenteroutpostprompt>
 <leavelocation>選擇任務並離開[locationname]</leavelocation>
 <selectmission>選擇任務</selectmission>
 <campaignstartingpleasewait>請稍後</campaignstartingpleasewait>
 <campaignstarting>等待戰役啟動。</campaignstarting>
-<campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果你選擇了它，你將以0馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
+<campaignsubtooexpensive>這艘潛艇的價格高於起始資金。如果您選擇了它，您將以0馬克開始遊戲，且戰役模式將可能會比預期的更為簡單。</campaignsubtooexpensive><!--NEED EDIT-->
 <campaignsubincompatible>這艘潛艇並未被標記為與戰役模式相容。這艘潛艇有可能使戰役失衡或無法完成。</campaignsubincompatible><!--NEED EDIT-->
 <shuttleselected>已選擇小艇</shuttleselected>
-<shuttlewarning>大多數小艇都沒有面對異星深海的準備，你確定要選擇一艘小艇作為你的初始船艦嗎？</shuttlewarning>
+<shuttlewarning>大多數小艇都沒有面對異星深海的準備，您確定要選擇一艘小艇作為您的初始船艦嗎？</shuttlewarning>
 <contentpackagemismatch>內容套件不符</contentpackagemismatch>
-<contentpackagemismatchwarning>這艘潛艇可能與當前所選擇使用的內容套件不相容，因為它缺少 [requiredcontentpackages]。你確定要選擇這艘潛艇嗎？</contentpackagemismatchwarning>
+<contentpackagemismatchwarning>這艘潛艇可能與當前所選擇使用的內容套件不相容，因為它缺少 [requiredcontentpackages]。您確定要選擇這艘潛艇嗎？</contentpackagemismatchwarning>
 <campaignstartfailedsubnotfound>無法開始戰役。找不到潛艇[subname]。</campaignstartfailedsubnotfound>
 <campaignfiletransferinprogress>請等待戰役存檔完成下載。</campaignfiletransferinprogress>
 <endcampaignverification>確定要離開戰役嗎？所有未保存的進度將會遺失。</endcampaignverification>
@@ -980,25 +980,25 @@
 <campaignmode.incompatiblecontentpackage>內容套件 "[incompatiblecontentpackage]" 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackage>
 <campaignmode.incompatiblecontentpackages>內容套件 [incompatiblecontentpackages] 在保存該戰役時並未啟用。</campaignmode.incompatiblecontentpackages>
 <campaignmode.contentpackageordermismatch>內容套件的載入順序在保存戰役時有所不同 ([loadorder])。</campaignmode.contentpackageordermismatch>
-<campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰，或許會你會想在繼續進行戰役前切換啟用相應的內容套件。</campaignmode.contentpackagemismatchwarning>
+<campaignmode.contentpackagemismatchwarning>內容套件不符有可能導致遊戲錯誤或崩潰，或許會您會想在繼續進行戰役前切換啟用相應的內容套件。</campaignmode.contentpackagemismatchwarning>
 <campaignmode.incompatiblesave>該存檔與當前遊戲版本不相容。</campaignmode.incompatiblesave>
 <campaignmode.savenotreceived>正在從伺服器獲取遊戲存檔，請稍後...</campaignmode.savenotreceived>
-<undefinedsubmarineclasswarning>戰役中無法選擇尚未定義類型的潛艇！\n\n你確定要在未定義潛艇類型的狀態下儲存潛艇嗎？</undefinedsubmarineclasswarning>
+<undefinedsubmarineclasswarning>戰役中無法選擇尚未定義類型的潛艇！\n\n您確定要在未定義潛艇類型的狀態下儲存潛艇嗎？</undefinedsubmarineclasswarning>
 <undefinedsubmarineselected>未定義種類的潛艇無法在戰役中使用！</undefinedsubmarineselected>
-<nohashsubmarineselected>這艘潛艇缺少有效的hash值；你可能需要等待它從伺服器下載完成！</nohashsubmarineselected>
+<nohashsubmarineselected>這艘潛艇缺少有效的hash值；您可能需要等待它從伺服器下載完成！</nohashsubmarineselected>
 <campaignstartingmoney>初始資金: [money] mk</campaignstartingmoney>
 <campaignoption.enableradiation>啟用木星輻射</campaignoption.enableradiation>
-<campaignoption.enableradiation.tooltip>木星周圍的輻射帶強度漸漸增加，迫使居於歐羅巴上的人類逐漸遷徙至它的冰凍表殼深處。這個選項將迫使你推進至地圖上更危險的區域以驅使遊戲難度逐漸提升。</campaignoption.enableradiation.tooltip>
+<campaignoption.enableradiation.tooltip>木星周圍的輻射帶強度漸漸增加，迫使居於歐羅巴上的人類逐漸遷徙至它的冰凍表殼深處。這個選項將迫使您推進至地圖上更危險的區域以驅使遊戲難度逐漸提升。</campaignoption.enableradiation.tooltip>
 <campaignoption.enablehardcore>啟用硬核模式</campaignoption.enablehardcore>
 <campaignoption.enablehardcore.tooltip>一個對專業水手的挑戰，難度提升，角色獲得的經驗值增加，但任何角色進度將在其死亡後遺失。</campaignoption.enablehardcore.tooltip>
 <campaignoption.enabletutorial>啟用教學</campaignoption.enabletutorial>
 <campaignoption.enabletutorial.tooltip>從教學哨站上開始遊戲，熟悉戰役模式中的基礎知識！</campaignoption.enabletutorial.tooltip>
 <radiationtooltip>致命輻射量\n這個區域的木星輻射已經到達足以致命的等級，強烈建議不要在該地區內移動。</radiationtooltip>
-<nomissionprompt>有可用的任務但並未選擇，你確定要不接受任務就離開嗎？</nomissionprompt>
+<nomissionprompt>有可用的任務但並未選擇，您確定要不接受任務就離開嗎？</nomissionprompt>
 <storename.merchantarmory>軍火</storename.merchantarmory>
 <storename.merchantmedical>醫療用品</storename.merchantmedical>
 <storename.merchantengineering>工程用品</storename.merchantengineering>
-<campaignstore.sellvaluetooltip>當商人向你購買物品時他們的開價總會低於你購買它們的價錢，物品的價格會進一步受到商人們持有的資金與你在該哨站的聲望影響，也會受到一小部分商人心情的影響。</campaignstore.sellvaluetooltip>
+<campaignstore.sellvaluetooltip>當商人向您購買物品時他們的開價總會低於您購買它們的價錢，物品的價格會進一步受到商人們持有的資金與您在該哨站的聲望影響，也會受到一小部分商人心情的影響。</campaignstore.sellvaluetooltip>
 <campaignmoney>存款: [money] mk</campaignmoney>
 <customization.skincolor>皮膚顏色</customization.skincolor>
 <customization.haircolor>毛髮顏色</customization.haircolor>
@@ -1025,14 +1025,14 @@
 <!-- Campaign menu -->
 <map>地圖</map>
 <crew>船員</crew>
-<campaignmenucrew>你的船員</campaignmenucrew>
+<campaignmenucrew>您的船員</campaignmenucrew>
 <store>商店</store>
 <outpost>哨站</outpost>
 <campaignmenuhireable>可招募人員</campaignmenuhireable>
 <hirebutton>招募</hirebutton>
 <firebutton>開除</firebutton>
-<firewarningheader>你確定嗎？</firewarningheader>
-<firewarningtext>你確定要開除船員[charactername]嗎？解雇後將無法再次招募該名角色。</firewarningtext>
+<firewarningheader>您確定嗎？</firewarningheader>
+<firewarningtext>您確定要開除船員[charactername]嗎？解雇後將無法再次招募該名角色。</firewarningtext>
 <location>位置</location>
 <hireunavailable>無可招募人員。</hireunavailable>
 <mission>任務</mission>
@@ -1045,8 +1045,8 @@
 <medicalclinic.medicalclinic>診所</medicalclinic.medicalclinic>
 <medicalclinic.treatall>治療全部</medicalclinic.treatall>
 <medicalclinic.unabletoheal>治療不可用</medicalclinic.unabletoheal>
-<medicalclinic.insufficientfunds>你沒有足夠的馬克來支付此費用。</medicalclinic.insufficientfunds>
-<medicalclinic.healrefused>由於哨站正有事故發生，站上的醫務人員忙得無法幫助你的船員。</medicalclinic.healrefused>
+<medicalclinic.insufficientfunds>您沒有足夠的馬克來支付此費用。</medicalclinic.insufficientfunds>
+<medicalclinic.healrefused>由於哨站正有事故發生，站上的醫務人員忙得無法幫助您的船員。</medicalclinic.healrefused>
 <sortingmethod.severity>嚴重程度</sortingmethod.severity>
 <medicalclinic.pendingheals>待處理的治療</medicalclinic.pendingheals>
 <medicalclinic.treateveryone>治療所有人</medicalclinic.treateveryone>
@@ -1058,7 +1058,7 @@
 <crewwallet.salary>薪水</crewwallet.salary>
 <crewwallet.salary.tooltip>薪水用來決定任務獎勵該如何分配。</crewwallet.salary.tooltip> <!-- more descriptive tooltip? -->
 <crewwallet.salary.over100toolitp>分配率總和超過100% (‖color:gui.orange‖[sum]%‖end‖)，將調整其至‖color:gui.orange‖[newvalue]%‖end‖。</crewwallet.salary.over100toolitp>
-<crewwallet.missionreward.get>你獲得了: ‖color:gui.orange‖[money] mk‖end‖ ([share]%)</crewwallet.missionreward.get>
+<crewwallet.missionreward.get>您獲得了: ‖color:gui.orange‖[money] mk‖end‖ ([share]%)</crewwallet.missionreward.get>
 <crewwallet.requestmoney>請求</crewwallet.requestmoney>
 <crewwallet.requestbanktoselfvote>[requester]想自銀行轉出[amount] mk至他們的個人錢包。</crewwallet.requestbanktoselfvote>
 <crewwallet.requestselftobankvote>[requester]想從他們的錢包轉入[amount] mk至銀行。</crewwallet.requestselftobankvote>
@@ -1080,8 +1080,8 @@
 <infobutton>資訊</infobutton>
 <endround>結束回合</endround>
 <enterlocation>進入[locationname]</enterlocation>
-<leavesubbehind>你的一艘船艦還沒有抵達出口，你想拋下它嗎？</leavesubbehind>
-<leavesubsbehind>你的其中幾艘船艦還沒有抵達出口，你想拋下它們嗎？</leavesubsbehind>
+<leavesubbehind>您的一艘船艦還沒有抵達出口，您想拋下它嗎？</leavesubbehind>
+<leavesubsbehind>您的其中幾艘船艦還沒有抵達出口，您想拋下它們嗎？</leavesubsbehind>
 
 <!-- In-game messages -->
 <endroundvotes>決定是否結束此回合[votes]/[max]</endroundvotes>
@@ -1092,7 +1092,7 @@
 <replaceshuttledockingportoccupied>由於對接艙口已在使用中，無法替換遺失的小艇。在請求新的小艇前先將對接艙口淨空。</replaceshuttledockingportoccupied>
 <respawningin>玩家在[time]後重生</respawningin>
 <camfollowsubmarine>跟隨潛艇</camfollowsubmarine>
-<insufficientskills>你的技能可能不足以對此物品進行操作！需要[requiredskill]技能等級[requiredlevel]。</insufficientskills>
+<insufficientskills>您的技能可能不足以對此物品進行操作！需要[requiredskill]技能等級[requiredlevel]。</insufficientskills>
 <skillincreased>[name]的[skillname]提升至[newlevel]！</skillincreased>
 <crewdeadnorespawns>伺服器中已無玩家存活，且此回合不開放復活。如果沒有角色被復活或重新加入，伺服器將在[time]秒後結束這一回合。</crewdeadnorespawns>
 <minimapoutpostdockinginfo>已停靠於[outpost]。\n請在離港後再嘗試操縱潛艇。</minimapoutpostdockinginfo>
@@ -1102,23 +1102,23 @@
 <toofarfromoutpostwarning>哨站下正在游泳的人，請快點回來，外面不安全。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>嘿！對、你，哨站下的那個──你想幹嘛？我從聲納上看到你的時候還以為你是一隻爬行者！快回來免得你被其他手癢的槍手幹掉。</toofarfromoutpostwarning>
 <toofarfromoutpostwarning>在哨站下潛水的人員: 請立刻折返，你快游出我們的聲納範圍之外了，而我不想要為了你去麻煩搜救小組。</toofarfromoutpostwarning>
-<handcuffed>你被戴上了手銬。</handcuffed>
-<handcuffequipconfirmation>你確定要給自己戴上手銬嗎？</handcuffequipconfirmation>
+<handcuffed>您被戴上了手銬。</handcuffed>
+<handcuffequipconfirmation>您確定要給自己戴上手銬嗎？</handcuffequipconfirmation>
 <autocontroltip>燈亮表示該設備正被從他處控制。</autocontroltip>
 <reactorheattip>反應爐產生的熱量過多，請降低溫度或提高渦輪輸出。</reactorheattip>
 <reactortemptip>反應爐產生的熱量過低不足支撐渦輪輸出。</reactortemptip>
 <reactoroutputtip>反應爐正在輸出多餘的電力，這會導致電網中的設備受損。</reactoroutputtip>
-<killedbytraitornotification>你被一個正在進行秘密任務的的叛徒害死了...</killedbytraitornotification>
-<endroundsubnotatlevelend>你確定要終止任務並結束這一回合嗎？</endroundsubnotatlevelend>
-<lockedpathtooltip>這條通道被封鎖了，你需要得到哨站官員的許可才能繼續前進。</lockedpathtooltip>
+<killedbytraitornotification>您被一個正在進行秘密任務的的叛徒害死了...</killedbytraitornotification>
+<endroundsubnotatlevelend>您確定要終止任務並結束這一回合嗎？</endroundsubnotatlevelend>
+<lockedpathtooltip>這條通道被封鎖了，您需要得到哨站官員的許可才能繼續前進。</lockedpathtooltip>
 <lockedpathreputationrequirement>需要[reputation]聲望以前往[biomename]</lockedpathreputationrequirement>
 <pathunlockedgeneric>通往下一個區域的通道已被開啟。</pathunlockedgeneric>
-<respawnquestionprompt>你想要帶著「死神之稅」受到技能和生命值懲罰立刻重生，或等到下一回合再加入遊戲？</respawnquestionprompt><!--SOURCE TEXT CHANGE CHECK-->
+<respawnquestionprompt>您想要帶著「死神之稅」受到技能和生命值懲罰立刻重生，或等到下一回合再加入遊戲？</respawnquestionprompt><!--SOURCE TEXT CHANGE CHECK-->
 <respawnquestionpromptrespawn>帶著「死神之稅」重生</respawnquestionpromptrespawn><!--SOURCE TEXT CHANGE CHECK-->
 <respawnquestionpromptwait>我可以等</respawnquestionpromptwait>
 <respawnwaiting>玩家將在[time]後重生</respawnwaiting>
 <respawnwaitingformoredeadplayers>等待重生... (正在等待重生的玩家: [deadplayers]/[requireddeadplayers])</respawnwaitingformoredeadplayers>
-<respawnskillpenalty>你已經死亡並失去了[percentage]%的技能熟練度。</respawnskillpenalty><!--NEED EDIT-->
+<respawnskillpenalty>您已經死亡並失去了[percentage]%的技能熟練度。</respawnskillpenalty><!--NEED EDIT-->
 <turretloaderbroken>裝彈機故障</turretloaderbroken>
 <autodockverification>潛艇的對接艙口正試圖與哨站自動連結，確定進行連結？</autodockverification>
 <autoundockverification>潛艇的對接艙口正試圖與哨站自動分離，確定進行分離？</autoundockverification>
@@ -1145,15 +1145,15 @@
 <serverlistjoin>加入</serverlistjoin>
 <serverlistdirectjoin>直接加入</serverlistdirectjoin>
 <serverlistunknownversion>無法判斷相容性 (未知的遊戲版本)</serverlistunknownversion>
-<serverlistnosteamqueryresponse>由於伺服器沒有回應，因此無法判斷你與伺服器的相容性。原因可能是伺服器已經關閉或者主持人並未轉發查詢埠，但你依舊可以嘗試與伺服器連接。</serverlistnosteamqueryresponse>
+<serverlistnosteamqueryresponse>由於伺服器沒有回應，因此無法判斷您與伺服器的相容性。原因可能是伺服器已經關閉或者主持人並未轉發查詢埠，但您依舊可以嘗試與伺服器連接。</serverlistnosteamqueryresponse>
 <serverlistunknowncontentpackage>無法判斷相容性 (未知的內容套件)</serverlistunknowncontentpackage>
-<serverlistincompatibleversion>你的遊戲版本與伺服器不相容 (需要[version]版本)</serverlistincompatibleversion>
-<serverlistincompatiblecontentpackage>進入此伺服器需要內容套件"[contentpackage]" (MD5: [hash])。進入時你將會系統會提示您下載所有缺失的內容套件。</serverlistincompatiblecontentpackage><!--SOURCE TEXT CHANGE CHECK-->
-<serverlistcontentpackagenotenabled>你需要在設定中啟用 "[contentpackage]" 內容套件以加入這個伺服器</serverlistcontentpackagenotenabled>
-<serverlistincompatiblecontentpackageworkshopavailable>這個伺服器需要 "[contentpackage]" 內容套件。當你加入這個伺服器，系統會提示您訂閱Steam工作坊上所有必要的項目。</serverlistincompatiblecontentpackageworkshopavailable>
+<serverlistincompatibleversion>您的遊戲版本與伺服器不相容 (需要[version]版本)</serverlistincompatibleversion>
+<serverlistincompatiblecontentpackage>進入此伺服器需要內容套件"[contentpackage]" (MD5: [hash])。進入時系統將會提示您下載所有缺失的內容套件。</serverlistincompatiblecontentpackage><!--SOURCE TEXT CHANGE CHECK-->
+<serverlistcontentpackagenotenabled>您需要在設定中啟用 "[contentpackage]" 內容套件以加入這個伺服器</serverlistcontentpackagenotenabled>
+<serverlistincompatiblecontentpackageworkshopavailable>這個伺服器需要 "[contentpackage]" 內容套件。當您加入這個伺服器，系統會提示您訂閱Steam工作坊上所有必要的項目。</serverlistincompatiblecontentpackageworkshopavailable>
 <serverlistsubscribemissingpackages>自Steam工作坊訂閱缺少的內容套件</serverlistsubscribemissingpackages>
 <serverlistsubscribemissingpackagestooltip>自Steam工作坊訂閱缺少的內容套件，然後進入創意工坊功能表下載並啟用它們。</serverlistsubscribemissingpackagestooltip>
-<serverlistsubscribemissingpackagestooltipnosteam>缺少的內容套件可以在Steam工作坊中找到，但如果你沒有在Steam上購買過本遊戲的話，將無法使用Steam相關服務。</serverlistsubscribemissingpackagestooltipnosteam>
+<serverlistsubscribemissingpackagestooltipnosteam>缺少的內容套件可以在Steam工作坊中找到，但如果您沒有在Steam上購買過本遊戲的話，將無法使用Steam相關服務。</serverlistsubscribemissingpackagestooltipnosteam>
 <filterservers>篩選伺服器</filterservers>
 <filterpassword>沒有密碼</filterpassword>
 <filterincompatibleservers>隱藏不相容</filterincompatibleservers>
@@ -1170,22 +1170,22 @@
 <masterservererrorunavailable>連接到主要伺服器時發生錯誤 (505 - 服務不可用)。主要伺服器可能正在停機維護或臨時超載，請稍後再試。</masterservererrorunavailable>
 <masterservererrordefault>連接到主要伺服器時發生錯誤 ([statuscode]: [statusdescription])</masterservererrordefault>
 <couldnotconnecttoserver>無法與伺服器連線</couldnotconnecttoserver>
-<invalidipaddress>解析地址 "[serverip]:[port]" 失敗，請確定你輸入了可用的IP位址。</invalidipaddress>
+<invalidipaddress>解析地址 "[serverip]:[port]" 失敗，請確定您輸入了可用的IP位址。</invalidipaddress>
 <connecting>連線中</connecting>
 <disconnect>中斷連線</disconnect>
 <disconnecting>正在中斷連線</disconnecting>
 <passwordrequired>需要密碼</passwordrequired>
 <connectionlost>失去連線</connectionlost>
-<connectionlostreconnecting>伺服器已斷開與你的連線，正在重新連線...</connectionlostreconnecting>
+<connectionlostreconnecting>伺服器已斷開與您的連線，正在重新連線...</connectionlostreconnecting>
 <connectionfailed>連線失敗</connectionfailed>
 <connectingto>正在連線至 [serverip]</connectingto>
-<serverfullquestionprompt>你想要加入伺服器的序列等待空位嗎？</serverfullquestionprompt>
+<serverfullquestionprompt>您想要加入伺服器的序列等待空位嗎？</serverfullquestionprompt>
 <serverqueue>等待序列</serverqueue>
 <serverqueuepleasewait>請稍後...</serverqueuepleasewait>
 <waitinginserverqueue>正在等待伺服器空位</waitinginserverqueue>
 <messagereaderror>讀取伺服器訊息時發生錯誤。 ([message] [targetsite])</messagereaderror>
 <cheatsenabledtitle>已啟用作弊</cheatsenabledtitle>
-<cheatsenableddescription>作弊指令已在這個伺服器啟用，你在此戰局將無法獲得Steam成就。</cheatsenableddescription>
+<cheatsenableddescription>作弊指令已在這個伺服器啟用，您在此戰局將無法獲得Steam成就。</cheatsenableddescription>
 <pleasewait>請稍後</pleasewait>
 <serverplaystyle>遊戲風格</serverplaystyle>
 <servertags>伺服器標籤</servertags>
@@ -1197,8 +1197,8 @@
 <serveroffline>伺服器離線中。</serveroffline>
 <forbiddenservernameverification>由於伺服器名稱中包含字詞 "[forbiddenword]" 因此將被隱藏，不顯示於伺服器列表中。確定要將伺服器命名為 "[servername]" 嗎？</forbiddenservernameverification>
 <filteroffensiveservers>隱藏冒犯性伺服器名稱</filteroffensiveservers>
-<filteroffensiveserverstooltip>過濾掉名稱中含有冒犯性詞彙的伺服器，你可以編輯遊戲資料夾中的Data/forbiddenwordlist.txt來定義冒犯性詞彙。</filteroffensiveserverstooltip>
-<filteroffensiveserversprompt>你想要開啟自動隱藏名稱中含有冒犯性詞彙的伺服器嗎？你可以編輯遊戲資料夾中的 Data/forbiddenwordlist.txt 來添加或減少不允許的詞彙。</filteroffensiveserversprompt>
+<filteroffensiveserverstooltip>過濾掉名稱中含有冒犯性詞彙的伺服器，您可以編輯遊戲資料夾中的Data/forbiddenwordlist.txt來定義冒犯性詞彙。</filteroffensiveserverstooltip>
+<filteroffensiveserversprompt>您想要開啟自動隱藏名稱中含有冒犯性詞彙的伺服器嗎？您可以編輯遊戲資料夾中的 Data/forbiddenwordlist.txt 來添加或減少不允許的詞彙。</filteroffensiveserversprompt>
 <steamp2pserver>由玩家建立的伺服器</steamp2pserver>
 <dedicatedserver>獨立伺服器</dedicatedserver>
 <serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
@@ -1207,31 +1207,31 @@
 <AllLanguages>所有</AllLanguages><!--check-->
 
 <!-- Disconnect reasons -->
-<disconnectreason.banned>你已被伺服器封鎖。</disconnectreason.banned>
-<disconnectreason.kicked>你已被伺服器踢出。</disconnectreason.kicked>
+<disconnectreason.banned>您已被伺服器封鎖。</disconnectreason.banned>
+<disconnectreason.kicked>您已被伺服器踢出。</disconnectreason.kicked>
 <disconnectreason.servershutdown>伺服器已關閉。</disconnectreason.servershutdown>
 <disconnectreason.serverfull>伺服器已滿。</disconnectreason.serverfull>
 <disconnectreason.authenticationrequired>本地用戶端未能正確發送驗證申請。</disconnectreason.authenticationrequired>
 <disconnectreason.steamauthenticationrequired>需要Steam驗證，請確保Steam正常運作，並且已經登入。</disconnectreason.steamauthenticationrequired>
 <disconnectreason.steamauthenticationfailed>Steam驗證失敗。</disconnectreason.steamauthenticationfailed>
-<disconnectreason.sessiontaken>你的遊戲已經被同一IP位址上新的連線佔用。</disconnectreason.sessiontaken>
+<disconnectreason.sessiontaken>您的遊戲已經被同一IP位址上新的連線佔用。</disconnectreason.sessiontaken>
 <disconnectreason.toomanyfailedlogins>登錄失敗次數過多。</disconnectreason.toomanyfailedlogins>
 <disconnectreason.noname>尚未命名。</disconnectreason.noname>
-<disconnectreason.invalidname>你的名字包含無法於此伺服器使用的字元，請輸入新的玩家名稱。</disconnectreason.invalidname>
+<disconnectreason.invalidname>您的名字包含無法於此伺服器使用的字元，請輸入新的玩家名稱。</disconnectreason.invalidname>
 <disconnectreason.nametaken>這個名稱已被使用。</disconnectreason.nametaken>
 <disconnectreason.invalidversion>沒有符合的遊戲版本。</disconnectreason.invalidversion>
 <disconnectreason.missingcontentpackage>缺少內容套件。</disconnectreason.missingcontentpackage>
 <disconnectreason.incompatiblecontentpackage>不相容的內容套件。</disconnectreason.incompatiblecontentpackage>
-<disconnectreason.notonwhitelist>你不在伺服器的白名單中。</disconnectreason.notonwhitelist>
+<disconnectreason.notonwhitelist>您不在伺服器的白名單中。</disconnectreason.notonwhitelist>
 <disconnectreason.servercrashed>伺服器崩潰。</disconnectreason.servercrashed>
-<disconnectmessage.afk>你太久沒有進行操作。</disconnectmessage.afk>
+<disconnectmessage.afk>您太久沒有進行操作。</disconnectmessage.afk>
 <disconnectmessage.steamauthnolongervalid>Steam驗證已失效 ([status])</disconnectmessage.steamauthnolongervalid>
 <disconnectmessage.toomanyfailedlogins>登錄失敗次數過多。</disconnectmessage.toomanyfailedlogins>
-<disconnectmessage.invalidversion>需要以版本 "[version]" 連線至伺服器 (你的版本: "[clientversion]")</disconnectmessage.invalidversion>
-<disconnectmessage.missingcontentpackage>你需要 [missingcontentpackage] 內容套件才能遊玩此伺服器。</disconnectmessage.missingcontentpackage>
-<disconnectmessage.missingcontentpackages>你需要 [missingcontentpackages] 這些內容套件才能遊玩此伺服器。</disconnectmessage.missingcontentpackages>
-<disconnectmessage.incompatiblecontentpackage>加入前你必須關閉 [incompatiblecontentpackage] 內容套件。</disconnectmessage.incompatiblecontentpackage>
-<disconnectmessage.incompatiblecontentpackages>加入前你必須關閉 [incompatiblecontentpackages] 這些內容套件。</disconnectmessage.incompatiblecontentpackages>
+<disconnectmessage.invalidversion>需要以版本 "[version]" 連線至伺服器 (您的版本: "[clientversion]")</disconnectmessage.invalidversion>
+<disconnectmessage.missingcontentpackage>您需要 [missingcontentpackage] 內容套件才能遊玩此伺服器。</disconnectmessage.missingcontentpackage>
+<disconnectmessage.missingcontentpackages>您需要 [missingcontentpackages] 這些內容套件才能遊玩此伺服器。</disconnectmessage.missingcontentpackages>
+<disconnectmessage.incompatiblecontentpackage>加入前您必須關閉 [incompatiblecontentpackage] 內容套件。</disconnectmessage.incompatiblecontentpackage>
+<disconnectmessage.incompatiblecontentpackages>加入前您必須關閉 [incompatiblecontentpackages] 這些內容套件。</disconnectmessage.incompatiblecontentpackages>
 <disconnectreason.steamp2perror>無法建立SteamP2P連線。</disconnectreason.steamp2perror>
 <disconnectreason.steamp2ptimeout>SteamP2P連線逾時。</disconnectreason.steamp2ptimeout>
 <DisconnectReason.Timeout>連線逾時。</DisconnectReason.Timeout>
@@ -1295,7 +1295,7 @@
 <randompreferences>隨機偏好</randompreferences>
 <playingasspectator>作為旁觀者遊玩</playingasspectator>
 <subnotfound>未能在潛艇資料夾中找到潛艇</subnotfound>
-<subdoesntmatch>你的潛艇版本與伺服器潛艇版本不符</subdoesntmatch>
+<subdoesntmatch>您的潛艇版本與伺服器潛艇版本不符</subdoesntmatch>
 <rank>Rank</rank>
 <customrank>自訂</customrank>
 <permissions>權限</permissions>
@@ -1306,34 +1306,34 @@
 <banreasonprompt>封鎖原因？</banreasonprompt>
 <kickreasonprompt>踢出原因？</kickreasonprompt>
 <privatemessagetag>[PM]</privatemessagetag>
-<subnotfounderror>伺服器選擇了潛艇[subname]，無法在你的submarine資料夾中找到對應的檔案。</subnotfounderror>
+<subnotfounderror>伺服器選擇了潛艇[subname]，無法在您的submarine資料夾中找到對應的檔案。</subnotfounderror>
 <subloaderror>無法載入潛艇 [subname]，檔案可能已經損毀。</subloaderror>
-<subdoesntmatcherror>你的潛艇 [subname] 檔案與伺服器潛艇版本不符！\n你的MD5 hash: [myhash]\n伺服器的 MD5 hash: [serverhash]\n</subdoesntmatcherror>
+<subdoesntmatcherror>您的潛艇 [subname] 檔案與伺服器潛艇版本不符！\n您的MD5 hash: [myhash]\n伺服器的 MD5 hash: [serverhash]\n</subdoesntmatcherror>
 <subnotdownloaded>潛艇尚未下載</subnotdownloaded>
 <downloadsublabel>找不到潛艇！</downloadsublabel>
-<downloadsubquestion>你想要從伺服器主持下載檔案嗎？</downloadsubquestion>
+<downloadsubquestion>您想要從伺服器主持下載檔案嗎？</downloadsubquestion>
 <waitforfiletransfers>回合在等待檔案傳送完成後才會開始...</waitforfiletransfers>
 <startnow>立刻開始</startnow>
 <serverinitfailed>伺服器啟動失敗。</serverinitfailed>
-<serverinitfailedaddressalreadyinuse>[errormsg]，你正在同一埠上運作多個伺服器嗎？</serverinitfailedaddressalreadyinuse>
-<permissionsremoved>主持人移除了你的所有特殊權限。</permissionsremoved>
+<serverinitfailedaddressalreadyinuse>[errormsg]，您正在同一埠上運作多個伺服器嗎？</serverinitfailedaddressalreadyinuse>
+<permissionsremoved>主持人移除了您的所有特殊權限。</permissionsremoved>
 <currentpermissions>當前權限:</currentpermissions>
 <permissionschanged>權限已更改</permissionschanged>
 <permittedconsolecommands>權限許可的控制台指令:</permittedconsolecommands>
 <pleasewaitroundrunning>請稍後</pleasewaitroundrunning>
 <roundrunningspectatedisabled>當前回合正在進行中且不允許觀戰，請等待下一個回合開始。</roundrunningspectatedisabled>
-<roundrunningspectateenabled>當前回合正在進行中，但你可以在等待復活小艇時或新的回合時觀戰。</roundrunningspectateenabled>
+<roundrunningspectateenabled>當前回合正在進行中，但您可以在等待復活小艇時或新的回合時觀戰。</roundrunningspectateenabled>
 <serverdownloadfinished>下載完成</serverdownloadfinished>
 <downloadingfile>正在下載 [filename]</downloadingfile>
 <filedownloadednotification>檔案 "[filename]" 已成功完成下載。</filedownloadednotification>
-<newcampaigncharacterheader>你確定嗎？</newcampaigncharacterheader>
-<newcampaigncharactertext>創造新的角色將會覆蓋你先前的角色，你將失去所有技能進度與物品。你要創造新角色嗎？</newcampaigncharactertext>
+<newcampaigncharacterheader>您確定嗎？</newcampaigncharacterheader>
+<newcampaigncharactertext>創造新的角色將會覆蓋您先前的角色，您將失去所有技能進度與物品。您要創造新角色嗎？</newcampaigncharactertext>
 <mute>靜音</mute>
 <unmute>解除靜音</unmute>
 <mutedlocally>本地靜音</mutedlocally>
 <mutedglobally>全域靜音</mutedglobally>
-<mutedbyserver>伺服器已將你靜音。</mutedbyserver>
-<unmutedbyserver>伺服器已解除你的靜音。</unmutedbyserver>
+<mutedbyserver>伺服器已將您靜音。</mutedbyserver>
+<unmutedbyserver>伺服器已解除您的靜音。</unmutedbyserver>
 <viewsteamprofile>查看Steam個人檔案</viewsteamprofile>
 <serverlisttab.all>全部伺服器</serverlisttab.all>
 <serverlisttab.favorites>最愛</serverlisttab.favorites>
@@ -1390,19 +1390,19 @@
 <serversettingsallowwifichat>允許將wifi元件連接至聊天訊息</serversettingsallowwifichat>
 <filtersameversion>相同版本</filtersameversion>
 <filterwhitelistedservers>顯示白名單內的伺服器</filterwhitelistedservers>
-<giverankprompt>你確定要賦予 [user] [rank]Rank嗎？</giverankprompt>
-<clearrankprompt>你確定要移除 [user] 的所有特殊權限嗎？</clearrankprompt>
+<giverankprompt>您確定要賦予 [user] [rank]Rank嗎？</giverankprompt>
+<clearrankprompt>您確定要移除 [user] 的所有特殊權限嗎？</clearrankprompt>
 <campaignstartfailedroundrunning>無法開始新的戰役，請先結束當前的回合。</campaignstartfailedroundrunning>
 <campaigncontinue>繼續</campaigncontinue>
 <returntoserverlobby>伺服器大廳</returntoserverlobby>
-<pausemenureturntoserverlobbyverification>你確定要返回伺服器大廳嗎？你將遺失所有未保存的進度。</pausemenureturntoserverlobbyverification>
+<pausemenureturntoserverlobbyverification>您確定要返回伺服器大廳嗎？您將遺失所有未保存的進度。</pausemenureturntoserverlobbyverification>
 <purchasablesubmarines>可購買的潛艇</purchasablesubmarines>
 <teampreference.team1>聯盟勢力</teampreference.team1>
 <teampreference.team2>分離勢力</teampreference.team2><!--SOURCE TEXT CHANGE CHECK-->
 <teampreference.nopreference>隨機</teampreference.nopreference>
 <waitforsubmarinehashcalculations>伺服器將在計算潛艇hashes後啟動 (用於確認各與用戶端之間的相容性)。如果這項提示頻繁出現，請試著將一些自訂潛艇移除。</waitforsubmarinehashcalculations>
-<disconnectmessage.mismatchedworkshopmod>下列內容套件與伺服器不符: [incompatiblecontentpackage]。你或伺服器主持人或許需要自遊戲中的Steam工作坊選單將其重新安裝。</disconnectmessage.mismatchedworkshopmod>
-<disconnectmessage.mismatchedworkshopmods>下列內容套件與伺服器不符: [incompatiblecontentpackages]。你或伺服器主持人或許需要自遊戲中的Steam工作坊選單將它們重新安裝。</disconnectmessage.mismatchedworkshopmods>
+<disconnectmessage.mismatchedworkshopmod>下列內容套件與伺服器不符: [incompatiblecontentpackage]。您或伺服器主持人或許需要自遊戲中的Steam工作坊選單將其重新安裝。</disconnectmessage.mismatchedworkshopmod>
+<disconnectmessage.mismatchedworkshopmods>下列內容套件與伺服器不符: [incompatiblecontentpackages]。您或伺服器主持人或許需要自遊戲中的Steam工作坊選單將它們重新安裝。</disconnectmessage.mismatchedworkshopmods>
 <submarinevisibility>潛艇可見度</submarinevisibility>
 <visiblesubmarines>可見</visiblesubmarines>
 <hiddensubmarines>隱藏</hiddensubmarines>
@@ -1410,7 +1410,7 @@
 <teampreference>組別偏好: [team]</teampreference>
 <jobpreference>職業偏好: [job]</jobpreference>
 <campaigndifficultydisabled>無法於戰役模式中調整遊戲難度，戰役模式使用了預先設計好的難度曲線。</campaigndifficultydisabled>
-<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。你想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
+<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。您想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
 
 <!-- Server log -->
 <serverlog.filter>篩選</serverlog.filter>
@@ -1435,29 +1435,29 @@
 <servermessage.kickedfromserver>[client]已經被踢出伺服器。</servermessage.kickedfromserver>
 <servermessage.kickedbyvote>玩家投票踢出。</servermessage.kickedbyvote>
 <servermessage.kickedbyvoteautoban>玩家投票踢出 (自動封鎖)。</servermessage.kickedbyvoteautoban>
-<servermessage.youleftserver>你已經離開伺服器。</servermessage.youleftserver>
+<servermessage.youleftserver>您已經離開伺服器。</servermessage.youleftserver>
 <servermessage.clientleftserver>[client]已離開伺服器。</servermessage.clientleftserver>
 <servermessage.hasvotedtokick>[initiator]提議投票決定是否要將[target]踢出伺服器。</servermessage.hasvotedtokick>
 <servermessage.kickedby>被[initiator]踢出伺服器。</servermessage.kickedby>
 <servermessage.bannedby>被[initiator]於伺服器封鎖</servermessage.bannedby>
 <servermessage.bannedfromserver>[client]已被伺服器封鎖。</servermessage.bannedfromserver>
 <servermessage.hasdisconnected>[client]與伺服器斷開連線。</servermessage.hasdisconnected>
-<servermessage.excessivedesync>因為網路錯誤，你的連線已被斷開。</servermessage.excessivedesync>
-<servermessage.excessivedesyncoldevent>因為用戶端資料不同步，你的連線已被斷開。</servermessage.excessivedesyncoldevent>
-<servermessage.excessivedesyncremovedevent>因為用戶端包含過期資料，你的連線已被斷開。</servermessage.excessivedesyncremovedevent>
-<servermessage.synctimeout>由於連接逾時，你的連線已被斷開。</servermessage.synctimeout>
+<servermessage.excessivedesync>因為網路錯誤，您的連線已被斷開。</servermessage.excessivedesync>
+<servermessage.excessivedesyncoldevent>因為用戶端資料不同步，您的連線已被斷開。</servermessage.excessivedesyncoldevent>
+<servermessage.excessivedesyncremovedevent>因為用戶端包含過期資料，您的連線已被斷開。</servermessage.excessivedesyncremovedevent>
+<servermessage.synctimeout>由於連接逾時，您的連線已被斷開。</servermessage.synctimeout>
 <servermessage.shuttleleaving>小艇將自動返回哨站，請盡速離開小艇。</servermessage.shuttleleaving>
 <servermessage.howtocommunicate>按下 [chatbutton] 進行交談，使用 [radiobutton] 以無線電進行交談。</servermessage.howtocommunicate>
 <servermessage.playernotfound>找不到玩家 [player]！</servermessage.playernotfound>
 <servermessage.previousclientname>[client] 過去在伺服器上使用的名稱為 "[previousname]"。</servermessage.previousclientname>
 <servermessage.privatemessagesnotallowed>私人訊息在您或對方尚存活於遊戲中時不被允許。</servermessage.privatemessagesnotallowed>
-<servermessage.namechangefailedsymbols>無法將你的名稱改為 [newname] (該名稱包含被限制的符號)。</servermessage.namechangefailedsymbols>
-<servermessage.namechangefailedservertoosimilar>無法將你的名稱改為 [newname] (與伺服器名稱過於相似)。</servermessage.namechangefailedservertoosimilar>
-<servermessage.namechangefailedvotekick>無法將你的名稱改為 [newname] (投票踢出活動正在進行中)。</servermessage.namechangefailedvotekick>
-<servermessage.namechangefailedclienttoosimilar>無法將你的名稱改為 [newname] (與玩家名稱 [takenname] 過於相似)。</servermessage.namechangefailedclienttoosimilar>
+<servermessage.namechangefailedsymbols>無法將您的名稱改為 [newname] (該名稱包含被限制的符號)。</servermessage.namechangefailedsymbols>
+<servermessage.namechangefailedservertoosimilar>無法將您的名稱改為 [newname] (與伺服器名稱過於相似)。</servermessage.namechangefailedservertoosimilar>
+<servermessage.namechangefailedvotekick>無法將您的名稱改為 [newname] (投票踢出活動正在進行中)。</servermessage.namechangefailedvotekick>
+<servermessage.namechangefailedclienttoosimilar>無法將您的名稱改為 [newname] (與玩家名稱 [takenname] 過於相似)。</servermessage.namechangefailedclienttoosimilar>
 <servermessage.namechangesuccessful>玩家 [oldname] 將名稱改為 [newname]。</servermessage.namechangesuccessful>
 <ServerMessage.NameChangeFailedCooldownActive>不允許在短時間內變更名稱。請稍後 [seconds] 秒。</ServerMessage.NameChangeFailedCooldownActive>
-<ServerMessage.kickvotedisallowed>你待在此伺服器的時間還不足以允許你投票踢出其他玩家。</ServerMessage.kickvotedisallowed>
+<ServerMessage.kickvotedisallowed>您待在此伺服器的時間還不足以允許您投票踢出其他玩家。</ServerMessage.kickvotedisallowed>
 <campaignsavetransfer.timeout>戰役回合無法開始 (等待伺服器戰役存檔逾時)。這可能是因為連線不穩定和/或存檔的大小過於龐大。</campaignsavetransfer.timeout>
 
 <!-- Client permissions --><!--need translation?--><!--where?-->
@@ -1586,7 +1586,7 @@
 <missionname.salvagekillmoloch>回收一項異星文物</missionname.salvagekillmoloch>
 <missiondescription.salvagekillmoloch>[location1]的研究人員接收到了一個與先前歐羅巴上發現的異星遺蹟所發出的低頻聲波相似的訊號，調查這個訊號的來源並回收任何找到的異星文物。</missiondescription.salvagekillmoloch>
 <missionsonarlabel.salvagekillmoloch>低頻訊號</missionsonarlabel.salvagekillmoloch>
-<missionsuccess.salvagekillmoloch>信號是一隻摩螺克發出來的，不過因為你能處理掉了牠，[location1]的研究人員依舊同意給予你獎勵。</missionsuccess.salvagekillmoloch>
+<missionsuccess.salvagekillmoloch>信號是一隻摩螺克發出來的，不過因為你處理掉了牠，[location1]的研究人員依舊同意給予你獎勵。</missionsuccess.salvagekillmoloch>
 <missionheader0.salvagekillmoloch>已殲滅目標</missionheader0.salvagekillmoloch>
 <missionmessage0.salvagekillmoloch>沒有想到這個訊號是一隻摩螺克發出來的！離開這裡並通知那些研究人員。</missionmessage0.salvagekillmoloch>
 <missionname.cargocompoundn>運送爆裂物</missionname.cargocompoundn>
@@ -2241,9 +2241,9 @@
 <traitorobjective.showofstrength.findstash>找到藏匿物品</traitorobjective.showofstrength.findstash>
 <traitorobjective.showofstrength.blownavterminal>炸掉正在使用導航終端的船員</traitorobjective.showofstrength.blownavterminal>
 <eventname.deepdiverducks>潛水鴨</eventname.deepdiverducks>
-<EventText.deepdiverducks.c1>你找到了一條被寫得亂七八糟的手帕。邊緣的字寫道：「你知道什麼東西最好笑嗎？橡皮小鴨。更好笑的就是灌滿鉛的橡皮小鴨，它們會變得浮不起來。我們需要樣品。快去準備。笑死。」</EventText.deepdiverducks.c1>
+<EventText.deepdiverducks.c1>你找到了一條被寫得亂七八糟的手帕。邊緣的字寫道：「你知道什麼東西很好笑嗎？橡皮小鴨鴨。更搞笑的是，要是它們被灌滿鉛就會開始潛水。我們需要樣品。快去準備。笑死。」</EventText.deepdiverducks.c1>
 <EventText.deepdiverducks.objective1>使用加工台製作[number]隻潛水鴨。</EventText.deepdiverducks.objective1>
-<EventText.deepdiverducks.c2>你按照要求製作了7隻樣品鴨。它們美呆了。</EventText.deepdiverducks.c2>
+<EventText.deepdiverducks.c2>你按照要求製作了7隻樣品鴨鴨。它們美呆了。</EventText.deepdiverducks.c2>
 <EventText.deepdiverducks.objective2>潛水鴨樣品已經足夠──現在你得確保它們能安然度過這趟旅途。</EventText.deepdiverducks.objective2>
 <EventText.deepdiverducks.objective3>小丑聖母之子完成了新的潛水鴨樣本。我們不清楚目的為何，但是它的確充滿「潛」力。</EventText.deepdiverducks.objective3>
 <EventText.deepdiverducks.objective4>小丑聖母之子嘗試製作潛水鴨樣本的計畫失敗。</EventText.deepdiverducks.objective4>
@@ -3950,7 +3950,7 @@
 <submarine.name.kastrull>Kastrull</submarine.name.kastrull>
 <submarine.description.kastrull>Kastrull系列是款可靠的攻擊型潛艇，它們能以強大火力挺進任何戰鬥之中。儘管本身不盡靈活，它的標準配備包含了一架無人炮艇。要留意它有著實驗性的開放式壓載艙和容易淹水的特性，同時它也需要許多人手操作船上的設備，只有一隊經驗豐富的船員才能發揮這艘艦艇的最大實力。</submarine.description.kastrull>
 <submarine.name.hemulen>希米倫</submarine.name.hemulen>
-<submarine.description.hemulen>想與有能伸展雙腳的空間，或是想與貧賤之人保持空間，一艘希米倫是你的最佳的選擇。</submarine.description.hemulen>
+<submarine.description.hemulen>想與有能伸展雙腳的空間，或是想與貧賤之人保持空間，一艘希米倫是您的最佳的選擇。</submarine.description.hemulen>
 <submarine.name.typhon2>颱風2型</submarine.name.typhon2>
 <submarine.description.typhon2>颱風2型改良自它的前身、颱風型潛艇，其本身是一艘重型砲艇。它依舊有著緩慢的速度和醜陋的外型，但它為船員們提供了更好的存活機率。</submarine.description.typhon2>
 <submarine.name.azimuth>方位角</submarine.name.azimuth>
@@ -3997,8 +3997,8 @@
 <reloadlinkedsuberror>找不到 [file] 潛艇檔案！</reloadlinkedsuberror>
 
 <!-- Chat -->
-<spamfilterkicked>你被垃圾訊息篩選器踢出了。</spamfilterkicked>
-<spamfilterblocked>你被垃圾訊息篩選器阻擋了。請在10秒後重試。</spamfilterblocked>
+<spamfilterkicked>您被垃圾訊息篩選器踢出了。</spamfilterkicked>
+<spamfilterblocked>您被垃圾訊息篩選器阻擋了。請在10秒後重試。</spamfilterblocked>
 <chat.shownewmessages>顯示新訊息</chat.shownewmessages>
 <chat>交談</chat>
 <chatmode.local>口語</chatmode.local>
@@ -4149,7 +4149,7 @@
 <!-- Health interface -->
 <vitality>生命跡象</vitality>
 <suitabletreatments>合適治療方式:</suitabletreatments>
-<healthitemusetip>將物品拖曳至目標身體部位使用。你也能以物品欄按鍵或以滑鼠雙擊使用。</healthitemusetip><!--SOURCE TEXT CHANGE CHECK-->
+<healthitemusetip>將物品拖曳至目標身體部位使用。您也能以物品欄按鍵或以滑鼠雙擊使用。</healthitemusetip><!--SOURCE TEXT CHANGE CHECK-->
 <afflictionstrengthlow>輕微</afflictionstrengthlow>
 <afflictionstrengthmedium>中等</afflictionstrengthmedium>
 <afflictionstrengthhigh>嚴重</afflictionstrengthhigh>
@@ -4196,12 +4196,12 @@
 <self_causeofdeathdescription.pressure>你被水壓輾碎了。</self_causeofdeathdescription.pressure>
 <self_causeofdeathdescription.burn>你被烤焦了。</self_causeofdeathdescription.burn>
 <self_causeofdeathdescription.husk>被寄生蟲佔據了你的身體。</self_causeofdeathdescription.husk>
-<self_causeofdeathdescription.disconnected>你與伺服器的連結斷開了。</self_causeofdeathdescription.disconnected>
+<self_causeofdeathdescription.disconnected>您與伺服器的連結斷開了。</self_causeofdeathdescription.disconnected>
 <self_causeofdeathdescription.unknown>你死了。</self_causeofdeathdescription.unknown>
 <giveinbutton>放棄</giveinbutton>
-<giveinhelpmultiplayer>放棄你的角色並進入觀戰模式 (其他玩家將無法為你復活)</giveinhelpmultiplayer>
+<giveinhelpmultiplayer>放棄您的角色並進入觀戰模式 (其他玩家將無法為您復活)</giveinhelpmultiplayer>
 <giveinhelpsingleplayer>這個角色在放棄之後將無法被復活。</giveinhelpsingleplayer>
-<deathchatnotification>你的聊天訊息將只能被其他已死亡的玩家看到。</deathchatnotification>
+<deathchatnotification>您的聊天訊息將只能被其他已死亡的玩家看到。</deathchatnotification>
 
 <!-- Character dialogue -->
 <dialogaffirmative>收到！</dialogaffirmative>
@@ -4708,8 +4708,8 @@
 <ordercategorydescription.operate></ordercategorydescription.operate>
 <crewlistordericontooltip>[ordername] ([orderoption])</crewlistordericontooltip>
 <crewlistelementtooltip>[name] ([job])\n拖曳以排列船員</crewlistelementtooltip>
-<thischaractercanthear>這個角色聽不到命令</thischaractercanthear>
-<nocharactercanhear>沒有角色聽得到命令</nocharactercanhear>
+<thischaractercanthear>這個角色聽不到指令</thischaractercanthear>
+<nocharactercanhear>沒有角色聽得到指令</nocharactercanhear>
 <objective.idle>閒置</objective.idle>
 <objective.findsafety>尋找安全處</objective.findsafety>
 <objective.combat>戰鬥</objective.combat>
@@ -4784,7 +4784,7 @@
 <dropitem>丟下</dropitem>
 <putitemin>放進 [itemname]</putitemin>
 <itemmsgoxygenrefill>放入氧氣罐進行充填</itemmsgoxygenrefill>
-<itemmsgcontextualorders>[[command]] 對應命令</itemmsgcontextualorders>
+<itemmsgcontextualorders>[[command]] 對應指令</itemmsgcontextualorders>
 <itemmsgdetach>[[use]] 拆下</itemmsgdetach>
 <itemmsgplantseed>[[select]] 播種</itemmsgplantseed>
 <itemmsgaddfertilizer>[[select]] 加入肥料</itemmsgaddfertilizer>
@@ -4838,7 +4838,7 @@
 <afflictionname.opiateoverdose>鴉片類藥物過量</afflictionname.opiateoverdose>
 <afflictiondescription.opiateoverdose>患者的瞳孔緊縮、體溫冰涼，且呼吸與吞嚥困難。</afflictiondescription.opiateoverdose>
 <afflictioncauseofdeath.opiateoverdose>死於鴉片類藥物過量。</afflictioncauseofdeath.opiateoverdose>
-<afflictioncauseofdeathself.opiateoverdose>你鴉片類藥物過量。</afflictioncauseofdeathself.opiateoverdose>
+<afflictioncauseofdeathself.opiateoverdose>你死於鴉片類藥物過量。</afflictioncauseofdeathself.opiateoverdose>
 <afflictionname.opiateaddiction>鴉片類藥物成癮</afflictionname.opiateaddiction>
 <afflictiondescription.opiateaddiction>患者看起來心情不錯...只要他們拿到他們想要的。</afflictiondescription.opiateaddiction>
 <afflictionname.gunshotwound>槍傷</afflictionname.gunshotwound>
@@ -4887,7 +4887,7 @@
 <afflictionname.nausea>噁心</afflictionname.nausea>
 <afflictiondescription.nausea>患者皮膚潮濕冰冷且斷續嘔吐。</afflictiondescription.nausea>
 <afflictioncauseofdeath.nausea>被嘔吐物噎死。</afflictioncauseofdeath.nausea>
-<afflictioncauseofdeathself.nausea>你被你的嘔吐物噎死了。</afflictioncauseofdeathself.nausea>
+<afflictioncauseofdeathself.nausea>你被自己的嘔吐物噎死了。</afflictioncauseofdeathself.nausea>
 <afflictionname.watchersgaze>獨目哨兵的注視</afflictionname.watchersgaze>
 <afflictiondescription.watchersgaze>患者看起來起來不太好，有些困惑、害怕，是精神崩潰？還是情緒壓力反應？您對此無能為力。</afflictiondescription.watchersgaze>
 <afflictioncauseofdeath.watchersgaze>死於獨目哨兵的目光。</afflictioncauseofdeath.watchersgaze>
@@ -4900,7 +4900,7 @@
 <afflictionname.concussion>腦震盪</afflictionname.concussion>
 <afflictiondescription.concussion>患者似乎迷失方向且雙眼無法對焦。</afflictiondescription.concussion>
 <afflictionname.disguised>已偽裝</afflictionname.disguised>
-<afflictiondescription.disguised>只要你遮好你的臉，其他人大概不會認出你是誰...</afflictiondescription.disguised>
+<afflictiondescription.disguised>只要你遮好自己的臉，其他人大概不會認出你是誰...</afflictiondescription.disguised>
 <afflictiondescription.hallucinating>你聽見、看見的東西好真實！它們是真的嗎？</afflictiondescription.hallucinating>
 <afflictiontype.damage>傷害</afflictiontype.damage>
 <afflictionname.acidreaction>低強酸抗性</afflictionname.acidreaction>
@@ -4930,7 +4930,7 @@
 <afflictiondescription.concussion.high.self>頭痛欲裂、耳鳴、你的雙眼無法對焦。光是站著就得花一番力氣。</afflictiondescription.concussion.high.self>
 <afflictiondescription.huskinfection.dormant.self>你的喉嚨發癢；癢處似乎不斷移動。</afflictiondescription.huskinfection.dormant.self>
 <afflictiondescription.huskinfection.transition.self>你的喉嚨裡長了什麼東西使你無法出聲；這讓你覺得不安。</afflictiondescription.huskinfection.transition.self>
-<afflictiondescription.huskinfection.active.self>內心深處，你知道自己應該對那個在你嘴裡顫抖移動的東西感到憂心。然而，你卻莫名的平靜。</afflictiondescription.huskinfection.active.self>
+<afflictiondescription.huskinfection.active.self>內心深處，你知道自己應該擔心在你嘴裡有個不斷顫抖移動的東西。然而，你卻感到莫名的平靜。</afflictiondescription.huskinfection.active.self>
 <afflictiondescription.huskinfection.dormant.other>偶爾可以聽到患者體內發出的微弱咔噠聲。</afflictiondescription.huskinfection.dormant.other>
 <afflictiondescription.huskinfection.transition.other>除了偶爾從喉嚨深處發出的咔噠外，患者不發一語。</afflictiondescription.huskinfection.transition.other>
 <afflictiondescription.huskinfection.active.other>有什麼深色的可怕東西在患者口中遊移。患者已經完全無法說話。</afflictiondescription.huskinfection.active.other>
@@ -4944,7 +4944,7 @@
 <afflictiondescription.drunk.lethal>這位船員的精神已經與現世脫離，臉上帶著一抹微笑。你擔心這位船員的生命不久也將與現世離別。</afflictiondescription.drunk.lethal>
 <afflictiondescription.opiatewithdrawal.low>淚眼朦朧，汗流浹背，焦躁不安，渴望愈發強烈。</afflictiondescription.opiatewithdrawal.low>
 <afflictiondescription.opiateoverdose.self>你感到頭暈目眩，難以呼吸。這個世界非常寒冷，甚至比平時更冷。</afflictiondescription.opiateoverdose.self>
-<afflictiondescription.opiateaddiction.self>你覺得很好...如果繼續嗑下去的話。</afflictiondescription.opiateaddiction.self>
+<afflictiondescription.opiateaddiction.self>你覺得很好...只要下次還有得嗑。</afflictiondescription.opiateaddiction.self>
 <afflictiondescription.radiationsickness.low.self>你覺得自己在發熱。你的皮膚感覺有如火烤一般。</afflictiondescription.radiationsickness.low.self>
 <afflictiondescription.radiationsickness.high.self>你從來沒有體會過這樣的噁心感，你的身體無處不痛。</afflictiondescription.radiationsickness.high.self>
 <afflictiondescription.radiationsickness.high>患者無法停止嘔吐，身上出現潰瘍和各種軟組織症狀。</afflictiondescription.radiationsickness.high>
@@ -4969,7 +4969,7 @@
 <afflictiondescription.nausea.high>你覺得很不舒服。你該感到擔心或者是休息一下？</afflictiondescription.nausea.high>
 <afflictiondescription.watchersgaze.self>>你無法擺脫它。它永遠都在那裡，盯著你。挖掉自己的眼睛會讓它消失嗎？</afflictiondescription.watchersgaze.self>
 <afflictiondescription.hallucinating.low>你的五感變得怪怪的。</afflictiondescription.hallucinating.low>
-<afflictiondescription.reaperstax.self>你被一種似曾相識的感覺所困擾，而且它太真實了。也許你應該慶倖你只記得自己的死狀，而非出生。</afflictiondescription.reaperstax.self>
+<afflictiondescription.reaperstax.self>你被一種似曾相識的感覺所困擾，它太過真實了。也許你該慶倖你只記得自己的死亡，而非出生。</afflictiondescription.reaperstax.self>
 
 <!-- Buffs -->
 <afflictionname.durationincrease>減緩代謝</afflictionname.durationincrease>
@@ -5475,7 +5475,7 @@
 <!-- Tutorials -->
 <!-- Generic -->
 <tutorial.tryagainheader>你死了</tutorial.tryagainheader>
-<tutorial.tryagain>你想重新嘗試嗎？</tutorial.tryagain>
+<tutorial.tryagain>想重新嘗試嗎？</tutorial.tryagain>
 <tutorial.radio.speaker>Huskinson艦長</tutorial.radio.speaker>
 <tutorial.radio.watchman>警衛</tutorial.radio.watchman>
 <tutorial.course>訓練課程</tutorial.course>
@@ -5488,7 +5488,7 @@
 <tutorial.captaintraining>艦長訓練</tutorial.captaintraining>
 <tutorial.newobjective>新的目標</tutorial.newobjective>
 <tutorial.objective>目標 (點擊查看)</tutorial.objective>
-<tutorialskipwarning>你似乎是第一次遊玩潛淵症，我們強烈建議在你潛入歐羅巴大海之前嘗試教學關卡。</tutorialskipwarning>
+<tutorialskipwarning>您似乎是第一次遊玩潛淵症，我們強烈建議在您潛入歐羅巴大海之前嘗試教學關卡。</tutorialskipwarning>
 <tutorialwarningplaytutorials>開始教學</tutorialwarningplaytutorials>
 <tutorialwarningskiptutorials>跳過教學</tutorialwarningskiptutorials>
 <tutorial.objectives>目標</tutorial.objectives>
@@ -5520,16 +5520,16 @@
 <tutorial.basic>基礎教學</tutorial.basic>
 <tutorial.basics.message.1>「啊，我看到你起身了。我會盡量簡短帶過，因為你是我今天必須指導的第六個人，坦白說我已經快受不了了。」</tutorial.basics.message.1>
 <tutorial.basics.message.1_player>「...這是哪裡？我是誰？」</tutorial.basics.message.1_player>
-<tutorial.basics.message.2>「你在一個自動康復室裡。你遭受了嚴重創傷，並且一直處於不斷尖叫和排便的狀態。Happy醫生認為這個療程會適合你。」</tutorial.basics.message.2>
+<tutorial.basics.message.2>「你在一間自動康復室裡。你遭受嚴重創傷之後一直處於不斷尖叫、失禁的狀態。Happy醫生認為有必要為你展開治療。」</tutorial.basics.message.2>
 <tutorial.basics.message.2_player>「我什麼都不記得...」</tutorial.basics.message.2_player>
-<tutorial.basics.message.3>「那是個好消息！這大大地降低了產生強烈惡夢與回憶發生的機率。那是你所使用藥物的作用之一，或許有點不太方便。但現在我們只需要重新指導你一些基本能力，像是使用你的手腳，你就能開始為你的醫藥費努力打拼了！」</tutorial.basics.message.3>
+<tutorial.basics.message.3>「那是個好消息！這會大大地降低強烈惡夢與不好回憶的發生機率。是你所服用藥物產生的副作用之一。我們接著只需要重新指導你一些基本能力，像是使用你的手腳，你就能開始為醫藥費努力打拼了！」</tutorial.basics.message.3>
 <tutorial.basics.message.3_player>「醫藥費？」</tutorial.basics.message.3_player>
 <tutorial.basics.message.4>「總之，我們開始吧。你能試著動動你的手腳嗎？那扇門在你按下按鈕之後就會開啟。不過它有點距離。」</tutorial.basics.message.4>
 <tutorial.basics.endmessage.1>「啊、狗屎，我們沒有想到你的進展會這麼神速...你可以看到這個區域還沒有完工。這裡本來是一個泥偶迅猛龍的巢穴，不過我們有90%的信心牠們已經走光了。」</tutorial.basics.endmessage.1>
 <tutorial.basics.endmessage.1_player>「泥偶迅猛龍是什麼東西？」</tutorial.basics.endmessage.1_player>
 <tutorial.basics.endmessage.2>「等等... 攝影機的畫面上有什麼動靜。呃噢...」</tutorial.basics.endmessage.2>
 <tutorial.basics.endmessage.2_player>「那是什麼聲音？！」</tutorial.basics.endmessage.2_player>
-<tutorial.basics.wasd>使用[InputType.Up]、[InputType.Left]、[InputType.Down]、[InputType.Right]移動你的角色。</tutorial.basics.wasd>
+<tutorial.basics.wasd>使用[InputType.Up]、[InputType.Left]、[InputType.Down]、[InputType.Right]移動您的角色。</tutorial.basics.wasd>
 <tutorial.basics.looking>以滑鼠游標控制角色所面向的方向。\n按下[InputType.Use]關閉此訊息。</tutorial.basics.looking>
 <tutorial.basics.cursor>使用[InputType.Select]向按鈕、門、和物品進行互動。</tutorial.basics.cursor>
 <tutorial.basics.highlight>可互動的物品將在滑鼠游標懸浮在它們之上時以醒目方式顯示。</tutorial.basics.highlight>
@@ -5537,40 +5537,40 @@
 <tutorial.basics.lockeddoor>想通過一扇鎖上的門需要一張ID卡。</tutorial.basics.lockeddoor>
 <tutorial.basics.stairsusage>按下[InputType.Down]跳下平台至樓梯上。</tutorial.basics.stairsusage>
 <tutorial.basics.sprint>按住[InputType.Run]奔跑。</tutorial.basics.sprint>
-<tutorial.basics.repair>設備有時候會發生故障。能使用正確的維修工具將他們修復。\n按下[InputType.Use]關閉此訊息。</tutorial.basics.repair>
+<tutorial.basics.repair>設備有時候會發生故障。能使用正確的維修工具將它們修復。\n按下[InputType.Use]關閉此訊息。</tutorial.basics.repair>
 <tutorial.basics.containers>物品能在容器中找到。移動滑鼠，以[InputType.Select]打開一個容器。</tutorial.basics.containers>
 <tutorial.basics.equip>雙擊一項物品來裝備它。</tutorial.basics.equip>
-<tutorial.basics.equip2>你也能透過對應的按鍵 (1-9) 裝備位於你的物品欄位中的物品。</tutorial.basics.equip2>
+<tutorial.basics.equip2>您也能透過對應的按鍵 (1-9) 裝備位於您的物品欄位中的物品。</tutorial.basics.equip2>
 <tutorial.basics.repair2>按下[InputType.Select]來維修損壞的設備。</tutorial.basics.repair2>
 <tutorial.basics.waitdrain>做得好！等待抽水機將水從室內抽出。</tutorial.basics.waitdrain>
 <tutorial.basics.repairouchie>噢！試著改變點擊維修按鈕的節奏。當白線移動到進度條上的有色區域時再進行點擊。</tutorial.basics.repairouchie><!--NEED EDIT-->
 <tutorial.basics.weldingtool>焊接工具是處理漏水的重要裝備。取得一個焊接工具。</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>焊接工具得使用焊接燃料罐運作。從容器中取得一個焊接燃料罐。</tutorial.basics.weldingfuel>
 <tutorial.basics.insertweldingfuel>將焊接燃料罐拖放至焊接工具欄位以進行裝填。\n或者，在裝備著焊接工具的狀態下按下與焊接燃料罐所在欄位的相對按鍵以進行裝填。</tutorial.basics.insertweldingfuel>
-<tutorial.basics.insertweldingfuelalt>或者，當你裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
-<tutorial.basics.aimandfire>按住[InputType.Aim]來以你的武器或工具進行瞄準，同時按下[InputType.Shoot]來使用工具或發射武器。</tutorial.basics.aimandfire>
+<tutorial.basics.insertweldingfuelalt>或者，當您裝備著焊接工具時，按下放有焊接燃料罐的物品欄相對按鍵以裝備它。</tutorial.basics.insertweldingfuelalt>
+<tutorial.basics.aimandfire>按住[InputType.Aim]來以您的武器或工具進行瞄準，同時按下[InputType.Shoot]來使用工具或發射武器。</tutorial.basics.aimandfire>
 <tutorial.basics.aim>瞄準</tutorial.basics.aim>
 <tutorial.basics.fire>開火</tutorial.basics.fire>
 <tutorial.basics.holdaim>按住[InputType.Aim]來瞄準滑鼠游標所指的方向。</tutorial.basics.holdaim>
 <tutorial.basics.holdaim2>按住瞄準的同時，使用[InputType.Shoot]進行焊接。</tutorial.basics.holdaim2>
 <tutorial.basics.ladders>在接近梯子時使用[InputType.Up]和[InputType.Down]來爬上或爬下。</tutorial.basics.ladders>
 <tutorial.basics.welding>修復牆壁以繼續。</tutorial.basics.welding>
-<tutorial.basics.divingsuits>潛水服能幫助你在水下移動。\n\n雙擊一件潛水服以進行裝備，或將潛水服拖放至標示欄位中。</tutorial.basics.divingsuits>
+<tutorial.basics.divingsuits>潛水服能幫助您在水下移動。\n\n雙擊一件潛水服以進行裝備，或將潛水服拖放至標示欄位中。</tutorial.basics.divingsuits>
 <tutorial.basics.divingsuits2>雙擊一件潛水服，或將它拖放至有醒目顯示的欄位中。</tutorial.basics.divingsuits2>
-<tutorial.basics.nooxygen>警告！你的潛水服沒有氧氣，你會無法呼吸。快裝上一個氧氣罐。</tutorial.basics.nooxygen>
+<tutorial.basics.nooxygen>警告！您的潛水服沒有氧氣，您會無法呼吸。快裝上一個氧氣罐。</tutorial.basics.nooxygen>
 <tutorial.basics.oxygen>穿著潛水服時將緩慢地消耗其中的氧氣罐。</tutorial.basics.oxygen>
-<tutorial.basics.oxygen2>當氧氣罐快要消耗完畢時，你的潛水服會發出警告聲。</tutorial.basics.oxygen2>
-<tutorial.basics.oxygen3>你的氧氣快用光了!要脫下潛水服，將它拖放至它所在的欄位之外。</tutorial.basics.oxygen3>
+<tutorial.basics.oxygen2>當氧氣罐快要消耗完畢時，您的潛水服會發出警告聲。</tutorial.basics.oxygen2>
+<tutorial.basics.oxygen3>您的氧氣快用光了!要脫下潛水服，將它拖放至它所在的欄位之外。</tutorial.basics.oxygen3>
 <tutorial.basics.righttool>抽水機是機械設備。機械設備需要使用扳手修復。\n找到一把扳手。</tutorial.basics.righttool>
 <tutorial.basics.wrenchrepair>裝備扳手以修復抽水機。</tutorial.basics.wrenchrepair>
 <tutorial.basics.interact2>按下[InputType.Select]來與抽水機或其他可互動的設備進行互動。</tutorial.basics.interact2>
 <tutorial.basics.puzzle>操作抽水機的控制介面，試著靠近梯子...</tutorial.basics.puzzle>
-<tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣你就能游近梯子。</tutorial.basics.puzzlehelp>
-<tutorial.basics.equipoxygentank>拖放氧氣罐至你所穿著的潛水服圖示上來裝備它。</tutorial.basics.equipoxygentank>
+<tutorial.basics.puzzlehelp>使用抽水機將水打入室內，這樣您就能游近梯子。</tutorial.basics.puzzlehelp>
+<tutorial.basics.equipoxygentank>拖放氧氣罐至您所穿著的潛水服圖示上來裝備它。</tutorial.basics.equipoxygentank>
 <tutorial.basics.pumpcontrols>操作抽水機將水打入室內。若有必要，按下電源按鈕確認抽水機是否啟動。</tutorial.basics.pumpcontrols>
-<tutorial.basics.drop>你能將物品欄中的物品拖放至欄位之外將他們丟下。</tutorial.basics.drop>
-<tutorial.basics.unequipdivingsuitdrag>將你的潛水服拖放至欄位之外以將它解除裝備。</tutorial.basics.unequipdivingsuitdrag>
-<tutorial.basics.unequipdivingsuitclick>雙擊你的潛水服所在的欄位或點擊欄位上方的綠色條狀按鈕將它解除裝備。</tutorial.basics.unequipdivingsuitclick>
+<tutorial.basics.drop>您能將物品欄中的物品拖放至欄位之外將它們丟下。</tutorial.basics.drop>
+<tutorial.basics.unequipdivingsuitdrag>將您的潛水服拖放至欄位之外以將它解除裝備。</tutorial.basics.unequipdivingsuitdrag>
+<tutorial.basics.unequipdivingsuitclick>雙擊您的潛水服所在的欄位或點擊欄位上方的綠色條狀按鈕將它解除裝備。</tutorial.basics.unequipdivingsuitclick>
 <tutorial.basics.objective1>按下按鈕</tutorial.basics.objective1>
 <tutorial.basics.objective2>取得一張ID卡</tutorial.basics.objective2>
 <tutorial.basics.objective3>開啟鎖上的門</tutorial.basics.objective3>
@@ -5589,10 +5589,10 @@
 <tutorial.basics.objective_weldingfuel>取得焊接燃料罐</tutorial.basics.objective_weldingfuel>
 <tutorial.basics.objective_weldingtoolequip>裝備焊接工具</tutorial.basics.objective_weldingtoolequip>
 <tutorial.basics.objective_weldingtoolfill>裝填焊接工具</tutorial.basics.objective_weldingtoolfill>
-<tutorial.basics.popup.obtainitems>你的物品欄顯示在畫面下方。\n要將螺絲起子放進物品欄，將它拖放進去。\n或者，雙擊物品來快速將它取得。</tutorial.basics.popup.obtainitems>
+<tutorial.basics.popup.obtainitems>您的物品欄顯示在畫面下方。\n要將螺絲起子放進物品欄，只需對它拖放。\n或者，雙擊物品快速將它取得。</tutorial.basics.popup.obtainitems>
 <tutorial.basics.popup.deselect>按下[InputType.Aim]來關閉容器介面</tutorial.basics.popup.deselect>
 <tutorial.basic.description>這個教學用以說明基礎的遊戲控制與概念，像是移動和對環境互動。</tutorial.basic.description>
-<tutorial.basic.completed>做得好！\n你完成了基礎教學。你想要繼續進行與角色相關的教學嗎？</tutorial.basic.completed>
+<tutorial.basic.completed>做得好！\n您完成了基礎教學。您想要繼續進行與角色相關的教學嗎？</tutorial.basic.completed>
 
 <!-- Roles tutorial -->
 <tutorial.roles>角色</tutorial.roles>
@@ -5770,7 +5770,7 @@
 <tutorial.roles.engineer.objective.rewire2>裝備電線</tutorial.roles.engineer.objective.rewire2>
 <tutorial.roles.engineer.objective.rewire3>連接至配電箱的 POWER 端點</tutorial.roles.engineer.objective.rewire3>
 <tutorial.roles.engineer.objective.rewire4>連接至燈具的 POWER 端點</tutorial.roles.engineer.objective.rewire4>
-<tutorial.roles.mechanicinstructor>「嗨，我是Amos。我是這兒的技師。我會教你怎麼顧好你的潛艇。記得：你顧好它，它就會顧好你。」</tutorial.roles.mechanicinstructor>
+<tutorial.roles.mechanicinstructor>「嗨，我是Amos。我是這兒的技師。我會教你怎麼顧好你的潛艇。記住：你顧好它，它就會顧好你。」</tutorial.roles.mechanicinstructor>
 <tutorial.roles.engineroomdescription>「這裡是引擎室。引擎就在這裡。每艘潛艇都有。引擎負責控制潛艇前進或後退。」</tutorial.roles.engineroomdescription>
 <tutorial.roles.mechanicinstructor_engine>「引擎是一個機械設備。你是技師。你負責照顧機械設備。」</tutorial.roles.mechanicinstructor_engine>
 <tutorial.roles.mechanicinstructor_engine2>「東西發出奇怪聲響或是冒煙？拿起一把扳手修好它。這裡有把扳手。修好它。」</tutorial.roles.mechanicinstructor_engine2>
@@ -5895,7 +5895,7 @@
 <tutorial.roles.medic.objective.crewquarters2>治療所有患者</tutorial.roles.medic.objective.crewquarters2>
 <tutorial.roles.medic.objective.cpr>施行CPR</tutorial.roles.medic.objective.cpr>
 <tutorial.roles.description>這個教學將說明潛艇中的不同職業角色。共有五種:\n- 艦長\n- 工程師\n- 技師\n- 醫生\n- 安全官</tutorial.roles.description>
-<tutorial.roles.completed>做得好！\n你完成了角色教學。你想要重新開始並選擇一個新的角色嗎？</tutorial.roles.completed>
+<tutorial.roles.completed>做得好！\n您完成了角色教學。您想要重新開始並選擇一個新的角色嗎？</tutorial.roles.completed>
 <tutorial.roles.popup.close_interface>用[InputType.Aim]關閉介面</tutorial.roles.popup.close_interface>
 <tutorial.roles.mechanic.objective.divingmask>裝備潛水面罩</tutorial.roles.mechanic.objective.divingmask>
 <tutorial.roles.popup.mechanic_fabrication5>取得扳手</tutorial.roles.popup.mechanic_fabrication5>
@@ -5921,8 +5921,8 @@
 <tutorial.campaign.objective_supplies_fuelrods>燃料棒</tutorial.campaign.objective_supplies_fuelrods>
 <tutorial.campaign.objective_supplies_weldingfuel>焊接燃料罐</tutorial.campaign.objective_supplies_weldingfuel>
 <tutorial.campaign.objective_leave>離開哨站</tutorial.campaign.objective_leave>
-<tutorial.campaign.objective_tasks>對你的船員下達指令</tutorial.campaign.objective_tasks>
-<tutorial.campaign.message_tasks>按下[InputType.Command]打開指令介面來對你的船員下達指令。</tutorial.campaign.message_tasks>
+<tutorial.campaign.objective_tasks>對您的船員下達指令</tutorial.campaign.objective_tasks>
+<tutorial.campaign.message_tasks>按下[InputType.Command]打開指令介面來對您的船員下達指令。</tutorial.campaign.message_tasks>
 <tutorial.campaign.objective_tasks_reactor>啟動反應爐</tutorial.campaign.objective_tasks_reactor>
 <tutorial.campaign.objective_tasks_fixleaks>修補漏洞</tutorial.campaign.objective_tasks_fixleaks>
 <tutorial.campaign.objective_tasks_repairelectrical>修復電氣設備</tutorial.campaign.objective_tasks_repairelectrical>
@@ -5942,7 +5942,7 @@
 <tutorial.campaign.outro.conversation_2_reply>「這確實讓我有了向深處邁進的衝動... 畢竟誰能對更多收入說不呢？」</tutorial.campaign.outro.conversation_2_reply>
 <tutorial.campaign.outro.conversation_3>「錢、冒險、探索未知... 算我一份，船長！」</tutorial.campaign.outro.conversation_3>
 <tutorial.campaign.outro.conversation_3_reply>「開始下潛！」</tutorial.campaign.outro.conversation_3_reply>
-<campaignexittutorialoutpostprompt>你想要跳過剩下的教學並離開[locationname]嗎？</campaignexittutorialoutpostprompt>
+<campaignexittutorialoutpostprompt>您想要跳過剩下的教學並離開[locationname]嗎？</campaignexittutorialoutpostprompt>
 
 
 <tutorial.airlocktitle>氣閘</tutorial.airlocktitle>
@@ -5979,13 +5979,13 @@
 
 <!-- Karma system -->
 <karma>卡瑪</karma>
-<karmaexplanation>卡瑪將反映遊戲中你的所有有益與有害行為；修復潛艇、設備、殲滅怪物將使卡馬增加，而攻擊己方船員或潛艇將使卡瑪減少。如果你的卡瑪過低將無法被指派為特定職業，或在極端狀態下被伺服器封鎖。</karmaexplanation>
+<karmaexplanation>卡瑪將反映遊戲中您的全數有益與有害行為；修復潛艇、設備、殲滅怪物將使卡馬增加，而攻擊己方船員或潛艇將使卡瑪減少。如果您的卡瑪過低將無法被指派為特定職業，或在極端狀態下被伺服器封鎖。</karmaexplanation>
 <resetkarma>重置卡瑪</resetkarma>
-<karmadecreased>你的卡瑪減少了[karmadecrease]。</karmadecreased>
-<karmaincreased>你的卡瑪增加了[karmaincrease]。</karmaincreased>
-<karmabanwarning>警告: 你的卡瑪非常低，你將會被伺服器封鎖如果他繼續降低。</karmabanwarning>
-<karmabanned>你因為卡瑪低於[banthreshold]而被伺服器封鎖。</karmabanned>
-<karmajobdisallowed>你因為卡瑪過低而不被允許選擇該職業 ([yourkarma]/[minkarma])。</karmajobdisallowed>
+<karmadecreased>您的卡瑪減少了[karmadecrease]。</karmadecreased>
+<karmaincreased>您的卡瑪增加了[karmaincrease]。</karmaincreased>
+<karmabanwarning>警告: 您的卡瑪非常低；若繼續降低，您將會被伺服器封鎖。</karmabanwarning>
+<karmabanned>您因為卡瑪低於[banthreshold]而被伺服器封鎖。</karmabanned>
+<karmajobdisallowed>您因為卡瑪過低而不被允許選擇該職業 ([yourkarma]/[minkarma])。</karmajobdisallowed>
 <karma.kickbanthreshold>踢出/封鎖臨界值</karma.kickbanthreshold>
 <karma.kickbanthresholdtooltip>低於這個卡瑪值的玩家將會被伺服器自動踢出或/和封鎖 (根據下方其它的踢出/封鎖設定)。</karma.kickbanthresholdtooltip>
 <karma.karmadecay>卡瑪減少速度</karma.karmadecay>
@@ -5997,11 +5997,11 @@
 <karma.karmaincreasethreshold>卡瑪增加臨界值</karma.karmaincreasethreshold>
 <karma.karmaincreasethresholdtooltip>卡瑪在低於這個值時會緩慢增加。</karma.karmaincreasethresholdtooltip>
 <karma.structurerepairkarmaincrease>修復船體結構</karma.structurerepairkarmaincrease>
-<karma.structurerepairkarmaincreasetooltip>當維修船體結構時卡瑪增加的量 (每回復──若設為 0.05 則當你將一面牆壁的耐久值從 0 回復至 100 時獲得 5 卡瑪)。</karma.structurerepairkarmaincreasetooltip>
+<karma.structurerepairkarmaincreasetooltip>當維修船體結構時卡瑪增加的量 (每回復──若設為 0.05 則當您將一面牆壁的耐久值從 0 回復至 100 時獲得 5 卡瑪)。</karma.structurerepairkarmaincreasetooltip>
 <karma.structuredamagekarmadecrease>損壞船體結構</karma.structuredamagekarmadecrease>
-<karma.structuredamagekarmadecreasetooltip>當破壞船體結構時卡瑪減少的量 (每傷害──若設為 0.05 則當你將一面牆壁的耐久值從 100 減少至 0 時失去 5 卡瑪)。</karma.structuredamagekarmadecreasetooltip>
+<karma.structuredamagekarmadecreasetooltip>當破壞船體結構時卡瑪減少的量 (每傷害──若設為 0.05 則當您將一面牆壁的耐久值從 100 減少至 0 時失去 5 卡瑪)。</karma.structuredamagekarmadecreasetooltip>
 <karma.itemrepairkarmaincrease>修復設備</karma.itemrepairkarmaincrease>
-<karma.itemrepairkarmaincreasetooltip>當維修設備時卡瑪增加的量 (每回復──若設為 0.05 則當你將一項設備的耐久值 從 0 回復至 100 時獲得 5 卡瑪)。</karma.itemrepairkarmaincreasetooltip>
+<karma.itemrepairkarmaincreasetooltip>當維修設備時卡瑪增加的量 (每回復──若設為 0.05 則當您將一項設備的耐久值 從 0 回復至 100 時獲得 5 卡瑪)。</karma.itemrepairkarmaincreasetooltip>
 <karma.damageenemykarmaincrease>對敵人造成傷害</karma.damageenemykarmaincrease>
 <karma.damageenemykarmaincreasetooltip>對敵人造成傷害時卡瑪增加的值 (每傷害)。</karma.damageenemykarmaincreasetooltip>
 <karma.healfriendlykarmaincrease>治療隊友</karma.healfriendlykarmaincrease>
@@ -6027,13 +6027,13 @@
 <karmapreset.default>預設</karmapreset.default>
 <karmapreset.strict>嚴格</karmapreset.strict>
 <karmapreset.custom>自訂</karmapreset.custom>
-<karmadecreasedunknownamount>你的卡瑪減少了。</karmadecreasedunknownamount>
-<karmaincreasedunknownamount>你的卡瑪增加了。</karmaincreasedunknownamount>
+<karmadecreasedunknownamount>您的卡瑪減少了。</karmadecreasedunknownamount>
+<karmaincreasedunknownamount>您的卡瑪增加了。</karmaincreasedunknownamount>
 <afflictionname.spaceherpes>宇宙皰疹</afflictionname.spaceherpes>
 <afflictiondescription.spaceherpes>他們的外表和內心一樣醜陋。或許這是卡瑪的懲罰？</afflictiondescription.spaceherpes>
 <afflictionname.invertcontrols>迷失方向</afflictionname.invertcontrols>
 <afflictiondescription.invertcontrols>患者的目光四處飄移且似乎無法順利地在環境中移動。</afflictiondescription.invertcontrols>
-<karmakicked>你因為卡瑪低於[banthreshold]而被伺服器踢出。</karmakicked>
+<karmakicked>您因為卡瑪低於[banthreshold]而被伺服器踢出。</karmakicked>
 <karma.kicksbeforeban>在被踢出多少次數後封鎖</karma.kicksbeforeban>
 <karma.kicksbeforebantooltip>當玩家被踢出的次數到達這個數值時，他們會在下一次卡瑪低於踢出/封鎖臨界值之後遭到封鎖。若數值為 0 則玩家將在卡瑪到達臨界值時值時立刻被封鎖。</karma.kicksbeforebantooltip>
 <karma.resetkarmabetweenrounds>在回合之間重置卡瑪</karma.resetkarmabetweenrounds>
@@ -6056,7 +6056,7 @@
 
 <!-- Disclaimers -->
 <editordisclaimertitle>編輯器</editordisclaimertitle>
-<editordisclaimertext>潛艇與角色編輯器是用來擴展核心遊戲內容、創造自己的潛艇和怪物的自訂工具，你可以通過Steam工作坊分享這些作品。\n\n目前編輯器還只有英文介面，建造一艘可供遊玩的潛艇或一隻正常運作的怪物並不是非常容易，但遺憾的是我們尚未為它們提供遊戲內教學與資料。如果你想試著使用編輯器創造自訂內容，或許能在這些地方獲得相關資訊:</editordisclaimertext>
+<editordisclaimertext>潛艇與角色編輯器是用來擴展核心遊戲內容、創造自己的潛艇和怪物的自訂工具，您可以通過Steam工作坊分享這些作品。\n\n目前編輯器還只有英文介面，建造一艘可供遊玩的潛艇或一隻正常運作的怪物並不是非常容易，但遺憾的是我們尚未為它們提供遊戲內教學與資料。如果您想試著使用編輯器創造自訂內容，或許能在這些地方獲得相關資訊:</editordisclaimertext>
 <editordisclaimerwikilink>Barotrauma Wiki</editordisclaimerwikilink>
 <editordisclaimerdiscordlink>Barotrauma Discord社群</editordisclaimerdiscordlink>
 <editordisclaimerforumlink>Barotrauma討論區</editordisclaimerforumlink>
@@ -6065,9 +6065,9 @@
 <bugreportbutton>回報錯誤</bugreportbutton>
 <centerarealockedheader>眼前盡是謎團...</centerarealockedheader>
 <centerarealockedtext>這個區域無法在目前版本的潛淵症中被探索，敬請期待未來更新！</centerarealockedtext>
-<statisticspromptheader>你想要幫助我們讓潛淵症變得更好嗎？</statisticspromptheader>
-<statisticsprompttext>你是否允許潛淵症傳送使用資訊與錯誤報告給開發人員？這些資料都不具名，且不包含任何個人資訊，並將只會被用於幫助我們改進潛淵症。</statisticsprompttext>
-<wikinotice>注意: 這個wiki由志願者自發維護，因此可能存在部分資訊尚待更新。若有興趣歡迎隨時加入貢獻你的心力！</wikinotice>
+<statisticspromptheader>您想要幫助我們讓潛淵症變得更好嗎？</statisticspromptheader>
+<statisticsprompttext>您是否允許潛淵症傳送使用資訊與錯誤報告給開發人員？這些資料都不具名，且不包含任何個人資訊，並將只會被用於幫助我們改進潛淵症。</statisticsprompttext>
+<wikinotice>注意: 這個wiki由志願者自發維護，因此可能存在部分資訊尚待更新。若有興趣歡迎隨時加入貢獻您的心力！</wikinotice>
 <statisticsconsentheader>遊戲資訊採集授權</statisticsconsentheader>
 <statisticsconsenttext>歡迎來到《潛淵症》！在預設情況下，我們不會收集您的遊戲資訊。如果您希望保持這個設置，請點擊「否」。\n\n如果您點擊「是」並給與了我們收集您遊戲中資訊的許可權，我們將可以使用您的遊戲資訊來改善和優化《潛淵症》。我們將收集的遊戲資訊詳情如下。我們將儲存您的確認和SteamID雜湊值並送到我們的資料庫，但您的遊戲資訊在我們的開發過程中將是匿名的。\n\n我們將使用GameAnalytics Ltd.的服務，並遵守他們的規章。這意味著如果您對我們授權使用您的遊戲資訊，也就必須同意GameAnalytics使用您資料進行品質管制與分析。\n\n您可以隨時在遊戲設置中修改是否收集您的遊戲資訊。詳情請參考‖color:255,255,255,255‖https://gameanalytics.com/privacy/‖end‖\n\n我們的隱私條例：</statisticsconsenttext>
 <statisticsconsentstatement>我同意開發者有權收集、存儲和處理我的個人資料，並與GameAnalytics Ltd.分享這些資料，用於品質管制和分析目的。</statisticsconsentstatement>
@@ -6984,7 +6984,7 @@
 <eventtext.huskextremists1.o1.o1.o3>「你說的或許有點道理... 我們會讓你繼續。」</eventtext.huskextremists1.o1.o1.o3>
 <eventtext.huskextremists1.o2>「弟兄，你顯然被誤導了。你在這裡製造的混亂不是昇華該有的樣子。」</eventtext.huskextremists1.o2>
 <eventtext.huskextremists1.o2.c1>「喔，所以你是那些假裝踏上昇華道路，卻不敢深入探索的人？或許我們得讓你那弱小的人類想法閉嘴好推你一把？」</eventtext.huskextremists1.o2.c1>
-<eventtext.huskextremists1.o3>「我是那種會為你準備中槍後實驗的人。」</eventtext.huskextremists1.o3>
+<eventtext.huskextremists1.o3>「我是那種會為你準備頭部霰彈槍彈道實驗的人。」</eventtext.huskextremists1.o3>
 
 <!-- Submarine upgrades & repairs -->
 <upgradecategory.walls>船體</upgradecategory.walls>
@@ -7070,18 +7070,18 @@
 <upgrades.progressformat>[level] / [maxlevel]</upgrades.progressformat>
 <upgrades.purchaseprompttitle>確認購買</upgrades.purchaseprompttitle>
 <upgrade.maxedupgrade>Maxed</upgrade.maxedupgrade>
-<upgrades.purchasepromptbody>你想要以[amount]馬克購買"[upgradename]"嗎？</upgrades.purchasepromptbody>
+<upgrades.purchasepromptbody>您想要以[amount]馬克購買"[upgradename]"嗎？</upgrades.purchasepromptbody>
 <upgrades.installeditem>[itemname] ‖color:gui.green‖(已安裝)‖end‖</upgrades.installeditem>
 <upgrades.pendingitem>[itemname] ‖color:gui.orange‖(待安裝)‖end‖</upgrades.pendingitem>
-<upgrades.purchaseitemswappromptbody>你想要以[amount]馬克購買[itemtoinstall]嗎？</upgrades.purchaseitemswappromptbody>
-<upgrades.itemswappromptbody>你想要安裝[itemtoinstall]嗎？</upgrades.itemswappromptbody>
-<upgrades.cancelitemswappromptbody>你想要取消安裝[itemtouninstall]嗎？</upgrades.cancelitemswappromptbody>
-<upgrades.itemuninstallpromptbody>你想要拆除[itemtouninstall]嗎？</upgrades.itemuninstallpromptbody>
-<upgrades.cancelitemuninstallpromptbody>你想要取消拆除[itemtouninstall]嗎？</upgrades.cancelitemuninstallpromptbody>
+<upgrades.purchaseitemswappromptbody>您想要以[amount]馬克購買[itemtoinstall]嗎？</upgrades.purchaseitemswappromptbody>
+<upgrades.itemswappromptbody>您想要安裝[itemtoinstall]嗎？</upgrades.itemswappromptbody>
+<upgrades.cancelitemswappromptbody>您想要取消安裝[itemtouninstall]嗎？</upgrades.cancelitemswappromptbody>
+<upgrades.itemuninstallpromptbody>您想要拆除[itemtouninstall]嗎？</upgrades.itemuninstallpromptbody>
+<upgrades.cancelitemuninstallpromptbody>您想要取消拆除[itemtouninstall]嗎？</upgrades.cancelitemuninstallpromptbody>
 <upgrades.refundprompttitle>確認拆除</upgrades.refundprompttitle>
-<itemrepairs.purchasepromptbody>你想要以[amount]馬克修復潛艇上所有的設備嗎？</itemrepairs.purchasepromptbody>
-<wallrepairs.purchasepromptbody>你想要以[amount]馬克修復潛艇船體嗎？</wallrepairs.purchasepromptbody>
-<replacelostshuttles.purchasepromptbody>你想要以[amount]馬克替換遺失的小艇嗎？</replacelostshuttles.purchasepromptbody>
+<itemrepairs.purchasepromptbody>您想要以[amount]馬克修復潛艇上所有的設備嗎？</itemrepairs.purchasepromptbody>
+<wallrepairs.purchasepromptbody>您想要以[amount]馬克修復潛艇船體嗎？</wallrepairs.purchasepromptbody>
+<replacelostshuttles.purchasepromptbody>您想要以[amount]馬克替換遺失的小艇嗎？</replacelostshuttles.purchasepromptbody>
 <upgraderefundtitle>退款</upgraderefundtitle>
 <upgraderefundbody>已退還等待中升級的費用。</upgraderefundbody>
 <upgrade.requiredmaterials>需要材料</upgrade.requiredmaterials>
@@ -7102,8 +7102,8 @@
 <campaignstore.purchase>購買</campaignstore.purchase>
 <campaignstore.sortby>排列</campaignstore.sortby>
 <newsupplies>新物資</newsupplies>
-<suppliespurchasedmessage>所購買的物品將在離開[location]之後送達你的潛艇。</suppliespurchasedmessage>
-<campaignstore.sellwarningtext>你確定要賣出這些物品嗎？</campaignstore.sellwarningtext>
+<suppliespurchasedmessage>所購買的物品將在離開[location]之後送達您的潛艇。</suppliespurchasedmessage>
+<campaignstore.sellwarningtext>您確定要賣出這些物品嗎？</campaignstore.sellwarningtext>
 <campaignstore.owned>擁有: [amount]</campaignstore.owned>
 <campaignstore.dailyspecials>每日特賣</campaignstore.dailyspecials>
 <campaignstore.requestedgoods>徵求貨物</campaignstore.requestedgoods>
@@ -7116,7 +7116,7 @@
 <campaignstore.ownednonempty>不為空物: [amount]</campaignstore.ownednonempty>
 <campaignstore.ownedtotal>總共擁有: [amount]</campaignstore.ownedtotal>
 <reputationmodifier>聲望加成</reputationmodifier>
-<campaignstore.reputationtooltip>你的聲望對物品價格所產生的影響。高聲望能使你買低賣高；聲望低時，商人會提高自己商品的價格，並以低價向你收購物品。</campaignstore.reputationtooltip>
+<campaignstore.reputationtooltip>您的聲望對物品價格所產生的影響。高聲望能使您買低賣高；聲望低時，商人會提高自己商品的價格，並以低價向您收購物品。</campaignstore.reputationtooltip>
 
 <!-- Campaign crew -->
 <sortingmethod.alphabeticalasc>字母順序</sortingmethod.alphabeticalasc>
@@ -7130,7 +7130,7 @@
 <campaigncrew.validate>確認招募</campaigncrew.validate>
 <campaigncrew.newhire>新招募</campaigncrew.newhire>
 <newcrewmembers>新船員</newcrewmembers>
-<crewhiredmessage>新招募的船員將會在你離開[location]之後加入。</crewhiredmessage>
+<crewhiredmessage>新招募的船員將會在您離開[location]之後加入。</crewhiredmessage>
 <campaigncrew.header>管理船員</campaigncrew.header>
 <campaigncrew.givenickname>給予暱稱</campaigncrew.givenickname>
 <campaigncrew.givenicknametooltip>[mouseprimary]: 給予暱稱</campaigncrew.givenicknametooltip>
@@ -7159,10 +7159,10 @@
 <purchaseandswitchsubmarinetext>以[amount][currencyname]購買「[submarinename1]」並替換目前的潛艇「[submarinename2]」？</purchaseandswitchsubmarinetext>
 <notenoughmoneyforpurchasetext>[currencyname]不足以購買「[submarinename]」！</notenoughmoneyforpurchasetext>
 <deliveryrequestheader>請求運送潛艇</deliveryrequestheader>
-<deliveryrequesttext>以[amount][currencyname]將「[submarinename1]」自[location1]運送至你的所在地[location2]並替換目前的潛艇「[submarinename2]」？</deliveryrequesttext>
-<notenoughmoneyfordeliverytext>[currencyname]不足以將「[submarinename]」自[location1]運送至你的所在地[location2]！</notenoughmoneyfordeliverytext>
+<deliveryrequesttext>以[amount][currencyname]將「[submarinename1]」自[location1]運送至您的所在地[location2]並替換目前的潛艇「[submarinename2]」？</deliveryrequesttext>
+<notenoughmoneyfordeliverytext>[currencyname]不足以將「[submarinename]」自[location1]運送至您的所在地[location2]！</notenoughmoneyfordeliverytext>
 <switchsubmarineheader>替換潛艇</switchsubmarineheader>
-<switchsubmarinetext>以「[submarinename2]」替換你目前的潛艇「[submarinename1]」？</switchsubmarinetext>
+<switchsubmarinetext>以「[submarinename2]」替換您目前的潛艇「[submarinename1]」？</switchsubmarinetext>
 <outpostshipyard>[location]船廠</outpostshipyard>
 <transferitems>轉移物品</transferitems>
 <itemswillbetransferred>當前潛艇上的物品將會被轉移至新的潛艇上。</itemswillbetransferred>
@@ -7171,15 +7171,15 @@
 <submarinepurchaseandswitchwithitemsvote>[playername]想要以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarinepurchaseandswitchwithitemsvote>
 <submarineswitchwithitemsfeevote>[playername]想要以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇且轉移當中的物品至新的潛艇。</submarineswitchwithitemsfeevote>
 <submarineswitchwithitemsnofeevote>想要以「[submarinename]」替換目前的潛艇並轉移當中的物品至新的潛艇。</submarineswitchwithitemsnofeevote>
-<itemtransferenabledreminder>你的物品將在離開哨站時轉移至新的潛艇上。</itemtransferenabledreminder>
-<itemtransferdisabledreminder>你的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
-<toggleitemtransferprompt>你可以透過點選「轉移物品」選項以切換這項功能。</toggleitemtransferprompt>
+<itemtransferenabledreminder>您的物品將在離開哨站時轉移至新的潛艇上。</itemtransferenabledreminder>
+<itemtransferdisabledreminder>您的物品將在離開哨站時留在前一艘潛艇上。</itemtransferdisabledreminder>
+<toggleitemtransferprompt>您可以透過點選「轉移物品」選項以切換這項功能。</toggleitemtransferprompt>
 <deliveryfee>運費: [amount]</deliveryfee>
 <lowfuelheader>燃料即將用盡</lowfuelheader>
 <lowfuelwarning>潛艇上未被使用的燃料棒存量低於二。</lowfuelwarning>
 <noitemsheader>沒有物品</noitemsheader>
-<noitemswarning>目標潛艇上的所有物品已轉移至別處，你確定要不攜帶任何物品就進行替換嗎？</noitemswarning>
-<submarineswitchinstruction>你能使用位於哨站氣閘附近的「潛艇替換終端」替換你所購買的潛艇。</submarineswitchinstruction>
+<noitemswarning>目標潛艇上的所有物品已轉移至別處，您確定要不攜帶任何物品就進行替換嗎？</noitemswarning>
+<submarineswitchinstruction>您能使用位於哨站氣閘附近的「潛艇替換終端」替換您所購買的潛艇。</submarineswitchinstruction>
 
 <!-- Submarine types -->
 <submarinetype>潛艇類別</submarinetype>
@@ -7207,8 +7207,8 @@
 <submarinepurchaseandswitchvote>[playername]想要以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇。</submarinepurchaseandswitchvote>
 <submarineswitchfeevote>[playername]想要以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevote>
 <submarineswitchnofeevote>[playername]想要以「[submarinename]」替換目前的潛艇。</submarineswitchnofeevote>
-<yesvoted>你投下同意。</yesvoted>
-<novoted>你投下不同意。</novoted>
+<yesvoted>您投下同意。</yesvoted>
+<novoted>您投下不同意。</novoted>
 <submarinepurchaseandswitchvotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買「[submarinename]」並以其替換目前的潛艇。</submarinepurchaseandswitchvotepassed>
 <submarinepurchasevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]購買「[submarinename]」。</submarinepurchasevotepassed>
 <submarineswitchfeevotepassed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，同意以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotepassed>
@@ -7217,7 +7217,7 @@
 <submarinepurchasevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]購買「[submarinename]」。</submarinepurchasevotefailed>
 <submarineswitchfeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以[amount][currencyname]將潛艇「[submarinename]」自[locationname]運送過來，並以其替換目前的潛艇。</submarineswitchfeevotefailed>
 <submarineswitchnofeevotefailed>隊伍在[yesvotecount]同意、[novotecount]不同意的票數下，不同意以「[submarinename]」替換目前的潛艇。</submarineswitchnofeevotefailed>
-<voterejectedpleasewait>你投下的前一票無效，需要等待最少 [time] 秒後你才能再次進行投票。</voterejectedpleasewait>
+<voterejectedpleasewait>您投下的前一票無效，需要等待最少 [time] 秒後您才能再次進行投票。</voterejectedpleasewait>
 
 <!-- Factions -->
 <factions>陣營</factions>
@@ -7245,8 +7245,8 @@
 <!-- Campaign meta texts --><!-- old? -->
 <campaignstart>20世紀末期，人們在木星的月亮「歐羅巴」上那冰冷而充滿輻射的表面之下發現了一片看似能夠孕育生機的廣闊海洋。這項發現在科學界造成了廣大的震撼。\n\n2022年，人類首次抵達歐羅巴，他們認知到這顆衛星確實充滿生機；具侵略性的水下生物群。除了兇猛的生物之外，研究人員們同時面臨著來自木星的危險輻射，以及歐羅巴海洋中的巨大壓力與嚴寒所帶來的艱鉅挑戰。\n\n儘管困難重重，數十年來，來自地球的殖民者們依舊設法建造了幾處適合居住的前哨聚落、發展新的生活方式。當中最龐大、最具影響力的幾座城市彼此組成了聯盟，形成了一股新的治理能量。各種產業的足跡也登上了這個新世界，包括礦業、製造業、與化學實驗室。\n\n多年過去，歐羅巴的社會與地球漸行漸遠，與地球的通訊更在50年前完全中斷，從此不見太空補給艦來往。\n\n在這個新社會裡，水下載具和交通扮演著關鍵角色，它們被用來尋找新的居住地，保護公民免受生物攻擊，並在人類冒險深入水下躲避上方來自木星的致命輻射同時在哨站之間建立補給線。在這些潛艇上工作總是有利可圖，儘管船員們的生活既危險且往往非常短暫。\n\n你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開──進行探索、協助殖民地擴展，一切由你決定。</campaignstart>
 <campaignend1>未明的啟示在你的眼前閃爍：一處水晶般的深淵，一個未知的存在沉眠其中...但你還沒有做好面對這一切的準備，只能順著暗流與世沉浮...</campaignend1>
-<campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是經歷過這一切了？</campaignend4>
-<campaignend5>在通過旅途的終點之後，你的冒險抵達了全新的開端，這一次還為你準備了更多風險。</campaignend5>
+<campaignend4>你的眼前一黑...你被徵召至一艘停靠在xxxx的yyyy潛艇，歐羅巴的大海向你敞開，而且比以往更為險峻。一股既視感向你襲來──你是不是曾經歷過這一切？</campaignend4>
+<campaignend5>在通過旅途的終點之後，您的冒險抵達了全新的開端，這一次還為您準備了更多風險。</campaignend5>
 <shrinkingmap>隨著木星輻射強度的增加，歐羅巴的淺海區域逐漸變得危險不適人類遷徙居住。潛入更深的海域以躲避輻射。</shrinkingmap>
 
 <!-- Outpost modules -->
@@ -7255,7 +7255,7 @@
 <outpostmodulegappositions>Gap位置</outpostmodulegappositions>
 <outpostmodulemaxcount>最多數量</outpostmodulemaxcount>
 <outpostmodulemaxcounttooltip>同一個哨站中此模組的最多數量。</outpostmodulemaxcounttooltip>
-<outpostmoduletooltip>一個哨站是由多個哨站模組相互組合而產生，如果要讓你的自訂哨站模組被使用於產生哨站，在儲存之後，必須手動為它建立內容套件並將存檔移入其中。</outpostmoduletooltip>
+<outpostmoduletooltip>一個哨站是由多個哨站模組相互組合而產生，如果要讓您的自訂哨站模組被使用於產生哨站，在儲存之後，必須手動為它建立內容套件並將存檔移入其中。</outpostmoduletooltip>
 <outpostmoduleallowattachto>允許連接至</outpostmoduleallowattachto>
 
 <!-- Beacon stations -->
@@ -7275,8 +7275,8 @@
 
 <!-- Ready check -->
 <readycheck.title>確認準備</readycheck.title>
-<readycheck.body>[player]發起了確認準備，你準備好了嗎？</readycheck.body>
-<readycheck.serverbody>伺服器發起了確認準備，你準備好了嗎？</readycheck.serverbody>
+<readycheck.body>[player]發起了確認準備，您準備好了嗎？</readycheck.body>
+<readycheck.serverbody>伺服器發起了確認準備，您準備好了嗎？</readycheck.serverbody>
 <readycheck.readycount>確認準備統計結束。已準備: [ready]/[total]。</readycheck.readycount>
 <readycheck.pleasewait>發起另一次確認準備前請稍後[seconds]秒。</readycheck.pleasewait>
 <readycheck.tooltip>發起確認準備。</readycheck.tooltip>
@@ -7317,57 +7317,57 @@
 <hintmessagebox.disablehintstooltip>停用所有提示。提示能自設定選單再度開啟。</hintmessagebox.disablehintstooltip>
 <hintmessagebox.dismiss>關閉</hintmessagebox.dismiss>
 <hint.onadjacenthull.highpressure>這扇門後的區域已經被水淹沒了，且水壓極高，如果在沒有潛水服的狀態下繼續前進或許會有危險。</hint.onadjacenthull.highpressure>
-<hint.onadjacenthull.highwaterpercentage>附近的艙房正在被水淹沒，你或許需要帶著一件潛水服。</hint.onadjacenthull.highwaterpercentage>
-<hint.onafflictiondisplayed>你的身上出現了一種症狀。症狀能在按下 [[key]] 打開醫療介面時被治療。</hint.onafflictiondisplayed>
+<hint.onadjacenthull.highwaterpercentage>附近的艙房正在被水淹沒，您或許需要帶著一件潛水服。</hint.onadjacenthull.highwaterpercentage>
+<hint.onafflictiondisplayed>您的身上出現了一種症狀。症狀能在按下 [[key]] 打開醫療介面時被治療。</hint.onafflictiondisplayed>
 <hint.onautopilotreachedoutpost>自動駕駛已經將潛艇航行至目的地哨站，切換至手動駕駛使對接艙口互相接近。</hint.onautopilotreachedoutpost>
-<hint.onavailabletransition.returntopreviousemptylocation>你回到了地圖的開端，選擇一個新的目的地來繼續你的旅程，或以ESC關閉地圖。</hint.onavailabletransition.returntopreviousemptylocation>
-<hint.onavailabletransition.progresstonextemptylocation>你抵達了地圖的終點，選擇一個新的目的地來繼續你的旅程。</hint.onavailabletransition.progresstonextemptylocation>
-<hint.oncharacterkilled>你所控制的角色已經死亡，開啟左上角的船員列表並點選角色圖案來控制另一名船員。</hint.oncharacterkilled>
-<hint.oncharacterunconscious>你所控制的角色已失去意識，你可以等待另一名船員為你治療，或按下遊戲畫面正上方的按鈕放棄求生。</hint.oncharacterunconscious>
-<hint.ondivinggearoutofoxygen>你裝備了一件沒有有效氧氣來源的潛水服，將一個新的氧氣罐放進潛水服中。</hint.ondivinggearoutofoxygen>
-<hint.onhandcuffed>你被戴上手銬了，你的移動與互動能力皆受到限制。你需要其他人為你移除手銬。</hint.onhandcuffed>
+<hint.onavailabletransition.returntopreviousemptylocation>您回到了地圖的開端，選擇一個新的目的地來繼續您的旅程，或以ESC關閉地圖。</hint.onavailabletransition.returntopreviousemptylocation>
+<hint.onavailabletransition.progresstonextemptylocation>您抵達了地圖的終點，選擇一個新的目的地來繼續您的旅程。</hint.onavailabletransition.progresstonextemptylocation>
+<hint.oncharacterkilled>您所控制的角色已經死亡，開啟左上角的船員列表並點選角色圖案來控制另一名船員。</hint.oncharacterkilled>
+<hint.oncharacterunconscious>您所控制的角色已失去意識，您可以等待另一名船員為您治療，或按下遊戲畫面正上方的按鈕放棄求生。</hint.oncharacterunconscious>
+<hint.ondivinggearoutofoxygen>您裝備了一件沒有有效氧氣來源的潛水服，將一個新的氧氣罐放進潛水服中。</hint.ondivinggearoutofoxygen>
+<hint.onhandcuffed>您被戴上手銬了，您的移動與互動能力皆受到限制。您需要其他人為您移除手銬。</hint.onhandcuffed>
 <hint.onisinteracting.reactorwithextrarods>放入多個燃料棒能有效在水中幫助反應爐升溫，但在通常狀態下會造成危險高溫。</hint.onisinteracting.reactorwithextrarods>
 <hint.onreactoroutoffuel>反應爐已將燃料耗盡，潛艇將會失去電力。替換燃料棒以使電力恢復。</hint.onreactoroutoffuel>
-<hint.onrepairfailed>維修失敗有機會對你造成傷害。擁有較高機械工程與電氣工程技能的角色在進行維修時則將更有機會成功。</hint.onrepairfailed>
-<hint.onroundstarted.voipdisabled>如果你想要以麥克風進行交流，在設定中打開語音交談。</hint.onroundstarted.voipdisabled>
-<hint.onshootwithoutaiming>你需要在以 [[key]] 進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
-<hint.onshowcampaigninterface.map>使用戰役地圖選擇你的下一個目的地。在選擇目的地之後，你能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
+<hint.onrepairfailed>維修失敗有機會對您造成傷害。擁有較高機械工程與電氣工程技能的角色在進行維修時則將更有機會成功。</hint.onrepairfailed>
+<hint.onroundstarted.voipdisabled>如果您想要以麥克風進行交流，在設定中打開語音交談。</hint.onroundstarted.voipdisabled>
+<hint.onshootwithoutaiming>您需要在以 [[key]] 進行瞄準時才能進一步使用它。</hint.onshootwithoutaiming>
+<hint.onshowcampaigninterface.map>使用戰役地圖選擇您的下一個目的地。在選擇目的地之後，您能夠選取想要接受的任務。</hint.onshowcampaigninterface.map>
 <hint.onshowcommandinterface>以指令介面對船員們下達指令。選擇一個指令分類、再點選指令。指令將會被派給適合的人。</hint.onshowcommandinterface>
-<hint.onshowhealthinterface>這是醫療介面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自你的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
-<hint.onsonarspottedenemy>聲納上有一個正在移動的目標，確保有人正在操作潛艇武器，並試著操作你的潛艇讓砲手們能夠瞄準目標。</hint.onsonarspottedenemy>
-<hint.onstartedcontrolling.job.assistant>你正扮演著一位助手。助手是一個萬能職業，盡其所能提供幫助的同時以此提升自己的技能等級。</hint.onstartedcontrolling.job.assistant>
-<hint.onstartedcontrolling.job.captain>你正扮演著一位艦長。進到指揮室並駕駛潛艇前往目的地。</hint.onstartedcontrolling.job.captain>
-<hint.onstartedcontrolling.job.engineer>你正扮演著一位工程師。工程師們負責確保潛艇上的供電不會中斷，顧好反應爐與電力設備，在它們發生故障的時候對它們進行維修。</hint.onstartedcontrolling.job.engineer>
-<hint.onstartedcontrolling.job.mechanic>你正扮演著一位技師。你需要顧好潛艇上的各種設備，在它們發生故障的時候對它們進行維修。</hint.onstartedcontrolling.job.mechanic>
-<hint.onstartedcontrolling.job.medicaldoctor>你正扮演著一位醫生。照顧好的船員們，在他們受到各種傷害時為他們進行治療。</hint.onstartedcontrolling.job.medicaldoctor>
-<hint.onstartedcontrolling.job.securityofficer>你正扮演著一位安全官。帶上一些武器，在敵人進行襲擊時操作砲塔，在船上人員不安分時安撫他們。</hint.onstartedcontrolling.job.securityofficer>
+<hint.onshowhealthinterface>這是醫療介面，選擇一個身體部位來檢視在該部位產生的症狀。將藥品自您的物品欄托放至要其進行投藥部位。</hint.onshowhealthinterface>
+<hint.onsonarspottedenemy>聲納上有一個正在移動的目標，確保有人正在操作潛艇武器，並試著操作您的潛艇讓砲手們能夠瞄準目標。</hint.onsonarspottedenemy>
+<hint.onstartedcontrolling.job.assistant>您正扮演著一位助手。助手是一個萬能職業，盡其所能提供幫助的同時以此提升自己的技能等級。</hint.onstartedcontrolling.job.assistant>
+<hint.onstartedcontrolling.job.captain>您正扮演著一位艦長。進到指揮室並駕駛潛艇前往目的地。</hint.onstartedcontrolling.job.captain>
+<hint.onstartedcontrolling.job.engineer>您正扮演著一位工程師。工程師們負責確保潛艇上的供電不會中斷，顧好反應爐與電力設備，在它們發生故障的時候對它們進行維修。</hint.onstartedcontrolling.job.engineer>
+<hint.onstartedcontrolling.job.mechanic>您正扮演著一位技師。您需要顧好潛艇上的各種設備，在它們發生故障的時候對它們進行維修。</hint.onstartedcontrolling.job.mechanic>
+<hint.onstartedcontrolling.job.medicaldoctor>您正扮演著一位醫生。照顧好的船員們，在他們受到各種傷害時為他們進行治療。</hint.onstartedcontrolling.job.medicaldoctor>
+<hint.onstartedcontrolling.job.securityofficer>您正扮演著一位安全官。帶上一些武器，在敵人進行襲擊時操作砲塔，在船上人員不安分時安撫他們。</hint.onstartedcontrolling.job.securityofficer>
 <hint.onstartedinteracting.brokenitem>潛艇上的所有設備會隨著時間經過緩慢地自然損壞，這艘潛艇也不例外。為了使設備能以最佳狀態運作，必須對它們進行保養。裝備一把螺絲起子好對電氣設備進行維修、一把扳手好對機械設備進行維修。</hint.onstartedinteracting.brokenitem>
-<hint.onstartedinteracting.lootingisstealing>物品圖案為紅色時代表他們不屬於你，如果你拿了它們，則會有需要承擔的後果。</hint.onstartedinteracting.lootingisstealing>
+<hint.onstartedinteracting.lootingisstealing>物品圖案為紅色時代表他們不屬於您，如果您拿了它們，則會有需要承擔的後果。</hint.onstartedinteracting.lootingisstealing>
 <hint.onstartedinteracting.turretperiscope>這個潛望鏡控制著一項潛艇武器，移動滑鼠環顧四周，並以[shootkey]開火，按下[deselectkey]或"ESC"停止操作。</hint.onstartedinteracting.turretperiscope>
 <hint.onstartedinteracting.item.deconstructor>使用解構儀將物品拆解成組成它們的原料或零件。將一件物品置於Input欄位並按下「分解」進行解構。</hint.onstartedinteracting.item.deconstructor>
-<hint.onstartedinteracting.item.fabricator>使用加工台來製作物品。從選單中選擇要製作的物品，當你有足夠原料時按下「製作」開始製作物品。</hint.onstartedinteracting.item.fabricator>
+<hint.onstartedinteracting.item.fabricator>使用加工台來製作物品。從選單中選擇要製作的物品，當您有足夠原料時按下「製作」開始製作物品。</hint.onstartedinteracting.item.fabricator>
 <hint.onstartedinteracting.item.gunloader>這台裝彈機必須使用與其連結武器的彈藥種類。</hint.onstartedinteracting.item.gunloader>
-<hint.onstartedinteracting.item.navterminal>你能為潛艇設定航線、切換自動駕駛、操作聲納、監視反彈回來的聲波。點選指向性聲納來限制聲納的發射方向。以滑鼠滾輪縮放聲納畫面。</hint.onstartedinteracting.item.navterminal>
-<hint.onstartedinteracting.item.reactor>核子反應爐為你的設備提供電力。試著將你的「輸出」與「負載」維持在相同數值，否則你很有可能會遭遇停電或者設備受到過高電壓而損壞。</hint.onstartedinteracting.item.reactor>
-<hint.onstoleitem>你剛剛偷了東西，這會使你的聲望降低，更糟的是守衛會需要針對這件事進行懲處。</hint.onstoleitem>
-<hint.ontryopenstuckdoor>這扇門被焊死了，你需要使用電漿切割器才能將它開啟。</hint.ontryopenstuckdoor>
-<hint.onweldingdoor>你正在將將一扇門焊死，當焊接完成之後，你需要使用電漿切割器或撬棍才能再度將它開起。</hint.onweldingdoor>
-<hint.reminder.characterchange>如果你想要，你能開啟畫面左上方的船員列表，並點選列表中角色圖案來扮演任何一位隊伍中的船員。</hint.reminder.characterchange>
-<hint.reminder.commandinterface>你能按下[commandkey]開啟指令介面來對你的船員下達指令。</hint.reminder.commandinterface>
-<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊介面，你能夠找到你的船員、任務、聲望等等的資訊。</hint.reminder.tabmenu>
-<hint.reminder.toolbelt>你裝備了一個工具腰帶，將滑鼠游標移動至其圖案之上來檢視工具腰帶中的欄位。</hint.reminder.toolbelt>
+<hint.onstartedinteracting.item.navterminal>您能為潛艇設定航線、切換自動駕駛、操作聲納、監視反彈回來的聲波。點選指向性聲納來限制聲納的發射方向。以滑鼠滾輪縮放聲納畫面。</hint.onstartedinteracting.item.navterminal>
+<hint.onstartedinteracting.item.reactor>核子反應爐為您的設備提供電力。試著將您的「輸出」與「負載」維持在相同數值，否則您很有可能會遭遇停電或者設備受到過高電壓而損壞。</hint.onstartedinteracting.item.reactor>
+<hint.onstoleitem>您剛剛偷了東西，這會使您的聲望降低，更糟的是守衛會需要針對這件事進行懲處。</hint.onstoleitem>
+<hint.ontryopenstuckdoor>這扇門被焊死了，您需要使用電漿切割器才能將它開啟。</hint.ontryopenstuckdoor>
+<hint.onweldingdoor>您正在將將一扇門焊死，當焊接完成之後，您需要使用電漿切割器或撬棍才能再度將它開起。</hint.onweldingdoor>
+<hint.reminder.characterchange>如果您想要，您能開啟畫面左上方的船員列表，並點選列表中角色圖案來扮演任何一位隊伍中的船員。</hint.reminder.characterchange>
+<hint.reminder.commandinterface>您能按下[commandkey]開啟指令介面來對您的船員下達指令。</hint.reminder.commandinterface>
+<hint.reminder.tabmenu>按下[infotabkey]來開啟資訊介面，您能夠找到您的船員、任務、聲望等等的資訊。</hint.reminder.tabmenu>
+<hint.reminder.toolbelt>您裝備了一個工具腰帶，將滑鼠游標移動至其圖案之上來檢視工具腰帶中的欄位。</hint.reminder.toolbelt>
 <hint.onballastflorainfected>其中一具位於壓載艙的抽水機被壓載艙植物群感染了，以火焰清除它根部好進一步消滅它。</hint.onballastflorainfected>
-<hint.onobtaineditem.unidentifiedgeneticmaterial>你找到一團未知的異星遺傳物質。你能使用研究站將它加工，讓它能被裝進一把基因編輯器中──一種能將非能力改造至人類身上的工具。</hint.onobtaineditem.unidentifiedgeneticmaterial>
-<hint.onobtaineditem.geneticmaterial>你獲得了一罐已知的異星遺傳物質，你能透過基因編輯器使用它。使用研究站將同種類的遺傳物質結合來精煉並增強它的效用，或與不同遺傳物質結合來組合它們的效果。</hint.onobtaineditem.geneticmaterial>
-<hint.geneticmaterial.useinstructions>你能透過基因編輯器使用遺傳物質，在醫療介面中將它植入。一旦遺傳物質被植入活體對象，必須直接將其破壞以將其移除。</hint.geneticmaterial.useinstructions>
-<hint.geneticmaterial.onrefiningorcombining>精煉與結合遺傳物質有一定的機率會對他們造成汙染，依據你的醫療技能而定。結合不同種類的遺傳物質必定會造成汙染\n\n受汙染的遺傳物質無法被進一步精煉或進行結合，且使用它們會有意料之外的副作用。</hint.geneticmaterial.onrefiningorcombining>
+<hint.onobtaineditem.unidentifiedgeneticmaterial>您找到一團未知的異星遺傳物質。您能使用研究站將它加工，讓它能被裝進一把基因編輯器中──一種能將非能力改造至人類身上的工具。</hint.onobtaineditem.unidentifiedgeneticmaterial>
+<hint.onobtaineditem.geneticmaterial>您獲得了一罐已知的異星遺傳物質，您能透過基因編輯器使用它。使用研究站將同種類的遺傳物質結合來精煉並增強它的效用，或與不同遺傳物質結合來組合它們的效果。</hint.onobtaineditem.geneticmaterial>
+<hint.geneticmaterial.useinstructions>您能透過基因編輯器使用遺傳物質，在醫療介面中將它植入。一旦遺傳物質被植入活體對象，必須直接將其破壞以將其移除。</hint.geneticmaterial.useinstructions>
+<hint.geneticmaterial.onrefiningorcombining>精煉與結合遺傳物質有一定的機率會對他們造成汙染，依據您的醫療技能而定。結合不同種類的遺傳物質必定會造成汙染\n\n受汙染的遺傳物質無法被進一步精煉或進行結合，且使用它們會有意料之外的副作用。</hint.geneticmaterial.onrefiningorcombining>
 <hint.upgradedivingsuits>深度即將突破4,000公尺，普通的潛水服在該深度之下將不再能夠提供正常防護，應使用更高階的潛水服，如戰鬥潛水服或深淵潛水服。</hint.upgradedivingsuits>
-<hint.assignedastraitor>你被分配了一項叛徒任務。要是你能夠完成任務，你就會獲得獎勵，且在這之後有機會被分配到難度更高 (且更危險) 的叛徒任務。</hint.assignedastraitor>
-<hint.assignedastraitor2>低調行事！其他船員可以透過投票選出所懷疑的叛徒人選，要是大多數人對你起疑，叛徒任務就會失敗而你也不會獲得任何獎勵。</hint.assignedastraitor2>
+<hint.assignedastraitor>您被分配了一項叛徒任務。要是您能夠完成任務，您就會獲得獎勵，且在這之後有機會被分配到難度更高 (且更危險) 的叛徒任務。</hint.assignedastraitor>
+<hint.assignedastraitor2>低調行事！其他船員可以透過投票選出所懷疑的叛徒人選，要是大多數人對您起疑，叛徒任務就會失敗而您也不會獲得任何獎勵。</hint.assignedastraitor2>
 <hint.traitorsonboard>在船員之中或許有叛徒出現。如果叛徒完成了他們的任務，他們將有機會偷走其他船員一部分的任務獎勵和經驗值。</hint.traitorsonboard>
-<hint.traitorsonboard2>你能透過點選船員列表中的叛徒圖示來還疑對方。如果大多船員懷疑的對象正確，叛徒們的任務就會失敗且不會獲得任何獎勵。相反地，懷疑無辜的玩家將會使船員受到罰款。</hint.traitorsonboard2>
+<hint.traitorsonboard2>您能透過點選船員列表中的叛徒圖示來還疑對方。如果大多船員懷疑的對象正確，叛徒們的任務就會失敗且不會獲得任何獎勵。相反地，懷疑無辜的玩家將會使船員受到罰款。</hint.traitorsonboard2>
 <hint.repairingsabotageditem>不太對勁。有些東西無論怎麼修理，還是一直發生故障。難道是有人蓄意破壞？</hint.repairingsabotageditem>
-<hint.radiojammed>你的耳機麥克風收不到除了雜訊以外的聲音──或許有什麼人在哪裡啟動了無線電干擾器。</hint.radiojammed>
+<hint.radiojammed>您的耳機麥克風收不到除了雜訊以外的聲音──或許有什麼人在哪裡啟動了無線電干擾器。</hint.radiojammed>
 
 <!-- Item quality -->
 <itemname.quality-1>[itemname] ‖color:gui.itemqualitycolorpoor‖(低劣)‖end‖</itemname.quality-1>
@@ -7432,8 +7432,8 @@
 <talentrequirement.requireeightabove>需要上方欄位中有八項 (或更多) 已選天賦。</talentrequirement.requireeightabove>
 <talentrequirement.requirespec>需要前一欄中的職業天賦。</talentrequirement.requirespec>
 <talentrequirement.speclocked>同一欄位中的職業天賦會互相排斥，只能選擇其中一項。</talentrequirement.speclocked>
-<talentrequirement.spectree2>需要完成你的第一項職業天賦。</talentrequirement.spectree2>
-<talentrequirement.spectree3>需要完成你的第二項職業天賦。</talentrequirement.spectree3>
+<talentrequirement.spectree2>需要完成您的第一項職業天賦。</talentrequirement.spectree2>
+<talentrequirement.spectree3>需要完成您的第二項職業天賦。</talentrequirement.spectree3>
 <talentrequirement.spectreelocked>此職業天賦樹由於選擇了另外一項職業天賦而鎖定。</talentrequirement.spectreelocked>
 <talentmenu.alltalentsunlocked>已解鎖全部天賦</talentmenu.alltalentsunlocked>
 <talentmenu.points>天賦點數: [amount]</talentmenu.points>
@@ -7444,7 +7444,7 @@
 <experiencetooltip>經驗值主要由透過完成任務獲得。\n在高難度地區完成任務將獲得更多經驗值。</experiencetooltip>
 <talentname.handsomestranger>從前從前在歐羅巴</talentname.handsomestranger>
 <talentname.tumble>翻滾</talentname.tumble>
-<talentdescription.tumble>當你處於ragdoll狀態[seconds]秒後手槍的攻擊力提升[damage]%並持續[duration]秒。</talentdescription.tumble>
+<talentdescription.tumble>當您處於ragdoll狀態[seconds]秒後手槍的攻擊力提升[damage]%並持續[duration]秒。</talentdescription.tumble>
 <talentname.sailorwithnoname>無名水手</talentname.sailorwithnoname>
 <talentname.quickdraw>快槍俠</talentname.quickdraw>
 <talentdescription.quickdraw>手槍擊發的[seconds]秒後下一發的攻擊力提升[damage]%。</talentdescription.quickdraw>
@@ -7452,36 +7452,36 @@
 <talentname.evasivemaneuvers>機動迴避</talentname.evasivemaneuvers>
 
 <talentname.bountyhunter>賞金獵人</talentname.bountyhunter>
-<talentdescription.bountyhunter>當你或你的隊友殺死一隻怪物時，你的隊伍獲得相當於該生物全部生命值[percentage]%的馬克。</talentdescription.bountyhunter>
+<talentdescription.bountyhunter>當您或您的隊友殺死一隻怪物時，您的隊伍獲得相當於該生物全部生命值[percentage]%的馬克。</talentdescription.bountyhunter>
 <talentname.trustedcaptain>值得信賴的船長</talentname.trustedcaptain>
-<talentdescription.trustedcaptain>每完成至少一項任務時獲得一個聯盟獎章。\n當你對其他角色使用聯盟獎章時，自身獲得[selfxpgain]經驗值。</talentdescription.trustedcaptain>
+<talentdescription.trustedcaptain>每完成至少一項任務時獲得一個聯盟獎章。\n當您對其他角色使用聯盟獎章時，自身獲得[selfxpgain]經驗值。</talentdescription.trustedcaptain>
 <talentname.esteemedcaptain>受尊敬的船長</talentname.esteemedcaptain>
-<talentdescription.esteemedcaptain>每完成至少一項任務時獲得一個聯盟勳章。\n當你對其他角色使用聯盟勳章時，自身獲得[selfxpgain]經驗值。</talentdescription.esteemedcaptain>
+<talentdescription.esteemedcaptain>每完成至少一項任務時獲得一個聯盟勳章。\n當您對其他角色使用聯盟勳章時，自身獲得[selfxpgain]經驗值。</talentdescription.esteemedcaptain>
 <talentname.downwiththeship>與艦同沉</talentname.downwiththeship>
 <talentname.camaraderie>情誼</talentname.camaraderie>
-<talentdescription.camaraderie>當你在沒有船員死亡的狀態下完成任務，且船員當前正執行[jobcount]項不同任務時，你的隊伍獲得額外的[extramoney]%報酬與經驗值。</talentdescription.camaraderie>
+<talentdescription.camaraderie>當您在沒有船員死亡的狀態下完成任務，且船員當前正執行[jobcount]項不同任務時，您的隊伍獲得額外的[extramoney]%報酬與經驗值。</talentdescription.camaraderie>
 <talentname.drunkensailor>爛醉水手</talentname.drunkensailor>
 <talentdescription.drunkensailor>酒醉時提升[stunresistance]%暈眩抗性與酒醉所造成的負面效果。</talentdescription.drunkensailor>
 <talentname.trucker>貨運員</talentname.trucker>
-<talentdescription.trucker>當你完成選取的所有任務後獲得額外的聯盟獎章。</talentdescription.trucker>
+<talentdescription.trucker>當您完成選取的所有任務後獲得額外的聯盟獎章。</talentdescription.trucker>
 <talentname.trustbuilding>建立信任</talentname.trustbuilding>
-<talentdescription.trustbuilding>每當你完成一項任務，你的隊伍獲得額外[smallgain]%的最大生命值，若沒有船員死亡則獲得[largegain]%的最大生命值，最多可疊加至[maxgain]%。</talentdescription.trustbuilding>
+<talentdescription.trustbuilding>每當您完成一項任務，您的隊伍獲得額外[smallgain]%的最大生命值，若沒有船員死亡則獲得[largegain]%的最大生命值，最多可疊加至[maxgain]%。</talentdescription.trustbuilding>
 <talentname.allseeingeye>全視之眼</talentname.allseeingeye>
 <talentname.firstaidtraining>急救訓練</talentname.firstaidtraining>
 <talentname.bythebook>循規蹈矩</talentname.bythebook>
-<talentdescription.bythebook>當你在沒有船員死亡的狀態下完成任務時，被你逮捕的每一名活著的人類角色將使你的船員獲得額外的[moneyamount]馬克與[experienceamount]經驗值，最多可以獲得[moneyamountmax]馬克與[experienceamountmax]經驗值。</talentdescription.bythebook>
+<talentdescription.bythebook>當您在沒有船員死亡的狀態下完成任務時，被您逮捕的每一名活著的人類角色將使您的船員獲得額外的[moneyamount]馬克與[experienceamount]經驗值，最多可以獲得[moneyamountmax]馬克與[experienceamountmax]經驗值。</talentdescription.bythebook>
 <talentname.bootcamp>新兵中心</talentname.bootcamp>
-<talentdescription.bootcamp>當你在沒有船員死亡的狀態下完成任務時，獲得額外的[amount]%經驗值。</talentdescription.bootcamp>
+<talentdescription.bootcamp>當您在沒有船員死亡的狀態下完成任務時，獲得額外的[amount]%經驗值。</talentdescription.bootcamp>
 <talentname.tandemfire>交叉火力</talentname.tandemfire>
-<talentdescription.tandemfire>只要有隊友與你一同操作砲塔，你們的攻擊力提升[amount]%，只對周遭的隊友會受到影響。</talentdescription.tandemfire>
+<talentdescription.tandemfire>只要有隊友與您一同操作砲塔，您們的攻擊力提升[amount]%，只對周遭的隊友會受到影響。</talentdescription.tandemfire>
 <talentname.munitionsexpertise>彈藥知識</talentname.munitionsexpertise>
-<talentdescription.munitionsexpertise>當你製作SMG、霰彈槍、電擊槍彈藥時，你有[probability]%機率獲得兩倍成品。</talentdescription.munitionsexpertise>
-<talentdescription.multitasker>當你獲得技能點數時，若與先前升級的技能不同，獲得兩倍點數。</talentdescription.multitasker>
-<talentdescription.apprenticeship>當你的隊友獲得技能點數時，你有[probability]%的機率也獲得該技能點數。</talentdescription.apprenticeship>
+<talentdescription.munitionsexpertise>當您製作SMG、霰彈槍、電擊槍彈藥時，您有[probability]%機率獲得兩倍成品。</talentdescription.munitionsexpertise>
+<talentdescription.multitasker>當您獲得技能點數時，若與先前升級的技能不同，獲得兩倍點數。</talentdescription.multitasker>
+<talentdescription.apprenticeship>當您的隊友獲得技能點數時，您有[probability]%的機率也獲得該技能點數。</talentdescription.apprenticeship>
 <talentname.navydiver>海軍潛水員</talentname.navydiver>
 <talentname.scavenger>清道夫</talentname.scavenger>
 <talentname.buccaneer>冒險家</talentname.buccaneer>
-<talentdescription.buccaneer>以近戰武器進行攻擊之前舉起你的武器將使你下一次攻擊的攻擊力提升[amount]%。</talentdescription.buccaneer>
+<talentdescription.buccaneer>以近戰武器進行攻擊之前舉起您的武器將使您下一次攻擊的攻擊力提升[amount]%。</talentdescription.buccaneer>
 <talentname.physicalconditioning>體能調理</talentname.physicalconditioning>
 <talentname.enforcer>執行者</talentname.enforcer>
 <talentname.beatcop>巡警</talentname.beatcop>
@@ -7534,7 +7534,7 @@
 <talentname.hullsealer>船體補手</talentname.hullsealer>
 <talentname.letitdrain>一洩千里</talentname.letitdrain>
 <talentname.crisismanagement>危機管理</talentname.crisismanagement>
-<talentdescription.crisismanagement>潛艇裡的水愈滿，你在維修和游泳的速度就愈快，最高可獲得額外的[statamount1]%修復速度和[statamount2]%游泳速度。</talentdescription.crisismanagement>
+<talentdescription.crisismanagement>潛艇裡的水愈滿，您在維修和游泳的速度就愈快，最高可獲得額外的[statamount1]%修復速度和[statamount2]%游泳速度。</talentdescription.crisismanagement>
 <talentname.hullfixer>船體修復員</talentname.hullfixer>
 <talentname.miner>礦工</talentname.miner>
 <talentname.elbowgrease>埋頭苦幹</talentname.elbowgrease>
@@ -7679,157 +7679,157 @@
 <talentname.blackmarketgenes>黑市基因</talentname.blackmarketgenes>
 <talentname.robotics>機器人學</talentname.robotics>
 <talentname.plaguedoctor>瘟疫醫生</talentname.plaguedoctor>
-<talentdescription.vitaminsupplements>當你為隊伍中的角色施用藥物，他們將獲得[healthboost]%額外生命值直到任務結束。</talentdescription.vitaminsupplements>
-<talentdescription.cannotfallunconsciousforseconds>當你的生命值低於0，你依舊能夠保持清醒，且你的攻擊力將提升[powerincrease]%並持續[seconds]秒。</talentdescription.cannotfallunconsciousforseconds>
-<talentdescription.gainmedicalskillformissionrun>每當你完成一個任務，如果所有船員都倖存，則獲得[skillincrease]醫療技能點。</talentdescription.gainmedicalskillformissionrun>
-<talentdescription.gainoutputandskillfromartifacts>拆解異星文物時你將有[probability]%幾率得到兩倍材料並隨機給予一項技能[largeartifactskill]點。拆解小型異星文物時則將給予[smallartifactskill]技能點。</talentdescription.gainoutputandskillfromartifacts>
-<talentdescription.gainexperiencefromartifacts>拆解異星文物時你和另一名隨機船員將獲得[experiencegain]經驗值。拆解小型異星文物時則將給予[smallexperiencegain]經驗值。</talentdescription.gainexperiencefromartifacts>
+<talentdescription.vitaminsupplements>當您為隊伍中的角色施用藥物，他們將獲得[healthboost]%額外生命值直到任務結束。</talentdescription.vitaminsupplements>
+<talentdescription.cannotfallunconsciousforseconds>當您的生命值低於0，您依舊能夠保持清醒，且您的攻擊力將提升[powerincrease]%並持續[seconds]秒。</talentdescription.cannotfallunconsciousforseconds>
+<talentdescription.gainmedicalskillformissionrun>每當您完成一個任務，如果所有船員都倖存，則獲得[skillincrease]醫療技能點。</talentdescription.gainmedicalskillformissionrun>
+<talentdescription.gainoutputandskillfromartifacts>拆解異星文物時您將有[probability]%幾率得到兩倍材料並隨機給予一項技能[largeartifactskill]點。拆解小型異星文物時則將給予[smallartifactskill]技能點。</talentdescription.gainoutputandskillfromartifacts>
+<talentdescription.gainexperiencefromartifacts>拆解異星文物時您和另一名隨機船員將獲得[experiencegain]經驗值。拆解小型異星文物時則將給予[smallexperiencegain]經驗值。</talentdescription.gainexperiencefromartifacts>
 <talentdescription.maxtriggeruntildeath>這項效果每回合每條命只能觸發一次。</talentdescription.maxtriggeruntildeath>
 <talentdescription.maxskillfromtalent>這項天賦最多只能增加額外的[skillamount]點。</talentdescription.maxskillfromtalent>
-<talentdescription.expertcommando>蹲下以遠程武器開火時減少[spreadreduction]%的子彈分散程度並提升[powerincrease]%攻擊力，但你的射擊速度降低[firingratedecrease]%。\n你將更快的從流血狀態恢復。</talentdescription.expertcommando>
-<talentdescription.gainmedicalitemeffectiveness>你使用的醫療物品效果提升[amount]%。</talentdescription.gainmedicalitemeffectiveness>
+<talentdescription.expertcommando>蹲下以遠程武器開火時減少[spreadreduction]%的子彈分散程度並提升[powerincrease]%攻擊力，但您的射擊速度降低[firingratedecrease]%。\n您將更快的從流血狀態恢復。</talentdescription.expertcommando>
+<talentdescription.gainmedicalitemeffectiveness>您使用的醫療物品效果提升[amount]%。</talentdescription.gainmedicalitemeffectiveness>
 <talentdescription.geneticmaterialrefineflatbonus>精煉遺傳物質將使它們的效果提升[amount]%。</talentdescription.geneticmaterialrefineflatbonus>
-<talentdescription.stillkickingheal>當你的生命值低於0，短時間內快速治療普通類型傷害，並消除暈眩。</talentdescription.stillkickingheal>
+<talentdescription.stillkickingheal>當您的生命值低於0，短時間內快速治療普通類型傷害，並消除暈眩。</talentdescription.stillkickingheal>
 <talentdescription.extraskillfromcraftingany>製作物品獲得的經驗值提升[amount]%。</talentdescription.extraskillfromcraftingany>
-<talentdescription.medicaleffectiveness>使用在你身上的醫療物品效果提升[amount]%。</talentdescription.medicaleffectiveness>
+<talentdescription.medicaleffectiveness>使用在您身上的醫療物品效果提升[amount]%。</talentdescription.medicaleffectiveness>
 <talentdescription.payextra.monsterandnest>討伐怪物與清理巢穴的任務報酬增加[extra]%。</talentdescription.payextra.monsterandnest>
-<talentdescription.tinker.fabricatoranddeconstructor>你能對加工台和解構儀敲敲打打，提升它們的運作速度[speedincrease]%。\n你能無限制地進行敲打。</talentdescription.tinker.fabricatoranddeconstructor>
-<talentdescription.honkinggivesskillgain>小丑之力賦予你以鳴響自行車喇叭使周遭隊友在一段時間內獲得[skillgainincrease]%技能加成的能力。</talentdescription.honkinggivesskillgain>
-<talentdescription.honkinghealscharacters>小丑之力賦予你以鳴響鳴響自行車喇叭緩慢治療周遭隊友的能力。</talentdescription.honkinghealscharacters>
-<talentdescription.standanddeliver>每完成至少一項任務時，獲得一份「水手指南」。\n當你使用「水手指南」時，提升周遭隊友所有技能[skillamount]點。</talentdescription.standanddeliver>
+<talentdescription.tinker.fabricatoranddeconstructor>您能對加工台和解構儀敲敲打打，提升它們的運作速度[speedincrease]%。\n您能無限制地進行敲打。</talentdescription.tinker.fabricatoranddeconstructor>
+<talentdescription.honkinggivesskillgain>小丑之力賦予您以鳴響自行車喇叭使周遭隊友在一段時間內獲得[skillgainincrease]%技能加成的能力。</talentdescription.honkinggivesskillgain>
+<talentdescription.honkinghealscharacters>小丑之力賦予您以鳴響鳴響自行車喇叭緩慢治療周遭隊友的能力。</talentdescription.honkinghealscharacters>
+<talentdescription.standanddeliver>每完成至少一項任務時，獲得一份「水手指南」。\n當您使用「水手指南」時，提升周遭隊友所有技能[skillamount]點。</talentdescription.standanddeliver>
 <talentdescription.letitdrainreminder>此設備在潛艇上只能安裝[itemcount]個。</talentdescription.letitdrainreminder>
-<talentdescription.cannedheat>你周遭的隊友在你演奏手風琴時每秒獲得[allyexperienceamount]經驗值，而當他們獲得經驗值時，你能獲得[experienceamount]經驗值。</talentdescription.cannedheat>
-<talentdescription.nuclearoption>你能使用不為空的‖color:gui.orange‖燃料棒‖end‖以更少的材料製作‖color:gui.orange‖輻射軌道砲子彈‖end‖和‖color:gui.orange‖輻射深水炸彈‖end‖。</talentdescription.nuclearoption>
-<talentdescription.quickfix>當你完全修復一項設備時獲得[experienceamount]經驗值。</talentdescription.quickfix>
+<talentdescription.cannedheat>您周遭的隊友在您演奏手風琴時每秒獲得[allyexperienceamount]經驗值，而當他們獲得經驗值時，您能獲得[experienceamount]經驗值。</talentdescription.cannedheat>
+<talentdescription.nuclearoption>您能使用不為空的‖color:gui.orange‖燃料棒‖end‖以更少的材料製作‖color:gui.orange‖輻射軌道砲子彈‖end‖和‖color:gui.orange‖輻射深水炸彈‖end‖。</talentdescription.nuclearoption>
+<talentdescription.quickfix>當您完全修復一項設備時獲得[experienceamount]經驗值。</talentdescription.quickfix>
 <talentdescription.maxtriggeruntildeath>這項效果每回合每條命只能觸發一次。</talentdescription.maxtriggeruntildeath>
-<talentdescription.maxtriggeruntilmission>在你完成一個新的任務之前這個效果只能被觸發[maxtrigger]次。</talentdescription.maxtriggeruntilmission>
-<talentdescription.singletriggeruntilmission>在你完成一個新的任務之前這個效果無法再被觸發。</talentdescription.singletriggeruntilmission>
-<talentdescription.increaseattackpowertomonstersinsub>你面對侵入自己潛艇內的怪物時攻擊力增加[attackpowerincrease]%。</talentdescription.increaseattackpowertomonstersinsub>
-<talentdescription.cannotfallunconscious>就算你的生命值低於0也不會失去意識。</talentdescription.cannotfallunconscious>
-<talentdescription.extramarksonnewstation>抵達新的哨站時，你的船員獲得額外的[marks]馬克。</talentdescription.extramarksonnewstation>
+<talentdescription.maxtriggeruntilmission>在您完成一個新的任務之前這個效果只能被觸發[maxtrigger]次。</talentdescription.maxtriggeruntilmission>
+<talentdescription.singletriggeruntilmission>在您完成一個新的任務之前這個效果無法再被觸發。</talentdescription.singletriggeruntilmission>
+<talentdescription.increaseattackpowertomonstersinsub>您面對侵入自己潛艇內的怪物時攻擊力增加[attackpowerincrease]%。</talentdescription.increaseattackpowertomonstersinsub>
+<talentdescription.cannotfallunconscious>就算您的生命值低於0也不會失去意識。</talentdescription.cannotfallunconscious>
+<talentdescription.extramarksonnewstation>抵達新的哨站時，您的船員獲得額外的[marks]馬克。</talentdescription.extramarksonnewstation>
 <talentdescription.specialsaleitemincrease>增加[itemcount]項特賣物品。</talentdescription.specialsaleitemincrease>
 <talentdescription.offeradditionalmissions>哨站額外產生[missioncount]件任務。</talentdescription.offeradditionalmissions>
 <talentdescription.bonuseslostondeath>這些獎勵將在死亡時停止。</talentdescription.bonuseslostondeath>
 <talentdescription.bonuslostondeath>這個獎勵將在死亡時停止。</talentdescription.bonuslostondeath>
 <talentdescription.gainattributes>得到以下狀態:</talentdescription.gainattributes>
 <talentdescription.assistantsdontcount>助手的死亡不包含在內。</talentdescription.assistantsdontcount>
-<talentdescription.gainitemonfinishmissionwithoutdeaths>當你在沒有船員死亡的狀態下完成任務時[item]。</talentdescription.gainitemonfinishmissionwithoutdeaths>
+<talentdescription.gainitemonfinishmissionwithoutdeaths>當您在沒有船員死亡的狀態下完成任務時[item]。</talentdescription.gainitemonfinishmissionwithoutdeaths>
 <talentdescription.maximumhealthperlevel>每個等級最大生命值額外提升[maximumhealth]%。</talentdescription.maximumhealthperlevel>
 <talentdescription.gainalltalentsintree>獲得這個天賦樹中的所有天賦。</talentdescription.gainalltalentsintree>
 <talentname.bedsidemanner>床前禮儀</talentname.bedsidemanner>
-<talentdescription.bedsidemanner>當你對隊友使用藥物時，他們能獲得[physicaldamageresistance]物理傷害抗性與額外的[skillgainincrease]%技能提升速度，持續時間根據你的醫療技能等級而定。</talentdescription.bedsidemanner>
-<talentdescription.electrochemist>如果你超過[seconds]秒未被攻擊，你下一次承受的攻擊力道減少[powerreduction]%且攻擊者將會暈眩[stunseconds]秒。</talentdescription.electrochemist>
+<talentdescription.bedsidemanner>當您對隊友使用藥物時，他們能獲得[physicaldamageresistance]物理傷害抗性與額外的[skillgainincrease]%技能提升速度，持續時間根據您的醫療技能等級而定。</talentdescription.bedsidemanner>
+<talentdescription.electrochemist>如果您超過[seconds]秒未被攻擊，您下一次承受的攻擊力道減少[powerreduction]%且攻擊者將會暈眩[stunseconds]秒。</talentdescription.electrochemist>
 <talentname.drsubmarine>潛水艇醫師</talentname.drsubmarine>
-<talentdescription.drsubmarine>在蹲下時使用醫療物品將使連帶你得到[selfinflictpercentage]%的物品效果。</talentdescription.drsubmarine>
+<talentdescription.drsubmarine>在蹲下時使用醫療物品將使連帶您得到[selfinflictpercentage]%的物品效果。</talentdescription.drsubmarine>
 <talentname.combatmedic>戰鬥醫官</talentname.combatmedic>
-<talentdescription.combatmedic>獲得額外移動速度加成，而你的遠程射速與近戰攻擊速度將為你的醫療技能的[skillpercentage]%。</talentdescription.combatmedic>
+<talentdescription.combatmedic>獲得額外移動速度加成，而您的遠程射速與近戰攻擊速度將為您的醫療技能的[skillpercentage]%。</talentdescription.combatmedic>
 <talentname.geneharvester>基因採集者</talentname.geneharvester>
 <talentdescription.geneharvester>搜刮怪物屍體將有[probability]%的機率從牠的身上隨機獲得一項遺傳物質。</talentdescription.geneharvester>
 <talentname.researchgrant>研究補助金</talentname.researchgrant>
-<talentdescription.researchgrant>當你精煉或組合基因物品時獲得[marks]馬克。</talentdescription.researchgrant>
+<talentdescription.researchgrant>當您精煉或組合基因物品時獲得[marks]馬克。</talentdescription.researchgrant>
 <talentname.melodicrespite>緩板旋律</talentname.melodicrespite>
-<talentdescription.melodicrespite>你和你周遭的隊友在你彈奏吉他時獲得以下狀態[seconds]秒:</talentdescription.melodicrespite>
-<talentdescription.expandedresearch>當你對燃料棒或耗乏燃料進行加工時獲得[experienceamount]經驗值。</talentdescription.expandedresearch>
-<talentdescription.hazardousmaterials>當你第一次打開殘骸中反應爐的物品欄時獲得一些稀有原料。</talentdescription.hazardousmaterials>
-<talentdescription.gainskillatlowskill>當你從一項低於[skilltotal]的技能獲得一點技能點數時額外獲得一點技能點數。</talentdescription.gainskillatlowskill>
-<talentdescription.advancedsplicing>當你或你的隊友合成或精煉遺傳物質時獲得[experienceamount]經驗值與[skillbonus]醫療技能等級。</talentdescription.advancedsplicing>
-<talentdescription.increasemaxrepairelectrical>當你的電氣工程技能等級為[skilltotal]或更高時，你將能修復設備至它們最高耐久值的[percentage]%。</talentdescription.increasemaxrepairelectrical>
+<talentdescription.melodicrespite>您和您周遭的隊友在您彈奏吉他時獲得以下狀態[seconds]秒:</talentdescription.melodicrespite>
+<talentdescription.expandedresearch>當您對燃料棒或耗乏燃料進行加工時獲得[experienceamount]經驗值。</talentdescription.expandedresearch>
+<talentdescription.hazardousmaterials>當您第一次打開殘骸中反應爐的物品欄時獲得一些稀有原料。</talentdescription.hazardousmaterials>
+<talentdescription.gainskillatlowskill>當您從一項低於[skilltotal]的技能獲得一點技能點數時額外獲得一點技能點數。</talentdescription.gainskillatlowskill>
+<talentdescription.advancedsplicing>當您或您的隊友合成或精煉遺傳物質時獲得[experienceamount]經驗值與[skillbonus]醫療技能等級。</talentdescription.advancedsplicing>
+<talentdescription.increasemaxrepairelectrical>當您的電氣工程技能等級為[skilltotal]或更高時，您將能修復設備至它們最高耐久值的[percentage]%。</talentdescription.increasemaxrepairelectrical>
 <talentname.overclocking>超頻</talentname.overclocking>
 <talentname.dontdieonme>別死在我手上！</talentname.dontdieonme>
-<talentdescription.dontdieonme>你的CPR更有力。</talentdescription.dontdieonme>
+<talentdescription.dontdieonme>您的CPR更有力。</talentdescription.dontdieonme>
 <talentname.justascratch>只是擦傷</talentname.justascratch>
 <talentname.bagitup>打包帶走</talentname.bagitup>
-<talentdescription.healabovehealth>只要你的生命值在[percentage]%以上，普通傷害將自己緩緩癒合。</talentdescription.healabovehealth>
+<talentdescription.healabovehealth>只要您的生命值在[percentage]%以上，普通傷害將自己緩緩癒合。</talentdescription.healabovehealth>
 <talentdescription.extraskillfromcrafting>製作物品獲得的經驗值提升[amount]%。</talentdescription.extraskillfromcrafting>
 <talentdescription.extrastunonenemies>造成額外[amount]%暈眩。</talentdescription.extrastunonenemies>
-<talentdescription.scavenger>當你第一次打開位於艙外的容器時，你將有[probability]%的機率找到額外物品。</talentdescription.scavenger>
+<talentdescription.scavenger>當您第一次打開位於艙外的容器時，您將有[probability]%的機率找到額外物品。</talentdescription.scavenger>
 <talentdescription.increasebuffduration>增益持續時間增加[amount]%。</talentdescription.increasebuffduration>
 <talentdescription.skillbonus>獲得額外的[amount]點[skillname]技能點數。</talentdescription.skillbonus>
 <talentdescription.payextra.cargoandescort>貨物與護送的任務報酬額外增加[extra]%。</talentdescription.payextra.cargoandescort>
 <talentdescription.unlockrecipe>解鎖製作方法: [itemname]。</talentdescription.unlockrecipe>
-<talentdescription.simultaneousskillgain>當你的[skillname1]技能升級同時獲得[skillname2]技能點數。</talentdescription.simultaneousskillgain>
-<talentdescription.increasereputationgains>你的隊伍的聲望獲取量提升[value]%。</talentdescription.increasereputationgains>
-<talentdescription.chanceofextraweapondamage>使用任何武器時，你將有[probability]%的機率以兩倍的力道攻擊。</talentdescription.chanceofextraweapondamage>
+<talentdescription.simultaneousskillgain>當您的[skillname1]技能升級同時獲得[skillname2]技能點數。</talentdescription.simultaneousskillgain>
+<talentdescription.increasereputationgains>您的隊伍的聲望獲取量提升[value]%。</talentdescription.increasereputationgains>
+<talentdescription.chanceofextraweapondamage>使用任何武器時，您將有[probability]%的機率以兩倍的力道攻擊。</talentdescription.chanceofextraweapondamage>
 <talentdescription.extrapowertoharpoons>獲得額外的[value]%魚叉攻擊力。</talentdescription.extrapowertoharpoons>
-<talentdescription.extrapowertoharpoonsinopensea>當你身處海中時，魚叉的攻擊力[value]%提升。</talentdescription.extrapowertoharpoonsinopensea>
-<talentdescription.dropalienmaterialonkill>當你在艙外殺死一隻怪物時，牠的身上有[probability]%的機率出現一個額外的異星材料。</talentdescription.dropalienmaterialonkill>
-<talentdescription.warriorpoet>你能寫書。\n要寫一本書，進入ragdoll狀態，在[seconds]秒後你會得到一本[itemname]，並且自你上次出書以來擊殺的所有敵人都會讓你獲得[moneyamount]馬克 (作為版稅收入)。</talentdescription.warriorpoet>
-<talentdescription.dualspecops>當你在水中進入ragdoll狀態時會朝著面向的方向推進。</talentdescription.dualspecops>
-<talentdescription.beatcop>你能高速地以ragdoll狀態撞倒其他角色。</talentdescription.beatcop>
-<talentdescription.truepotential>小丑之力賦予你以玩具槌敲打其他角色時有[probability]%的機率使他們自爆。</talentdescription.truepotential>
-<talentdescription.stonewall>當你被攻擊時獲得額外的[physicaldamagereduction]%物理傷害抗性與[stunresistance]%暈眩抗性[seconds]秒。</talentdescription.stonewall>
-<talentdescription.richinknowledge>當你獲得技能點數時，獲得額外的[experienceamount]經驗值，而你的隊友將獲得[alliedexperienceamount]經驗值。</talentdescription.richinknowledge>
-<talentdescription.olympian>獲得下列效果與相當於你的全部技能點數平均的[skillpercentage]效果加乘:</talentdescription.olympian>
-<talentdescription.playingcatchup>如果你和你等級最高的隊友相差[levelvalue]等或更多，獲得額外的[experiencevalue]%任務經驗值。</talentdescription.playingcatchup>
-<talentdescription.skedaddle>移動速度提升[value]%，當你受到攻擊時，則提升至[attackedvalue]%並持續[seconds]秒。</talentdescription.skedaddle>
-<talentdescription.insurancepolicy>當你被任何非友方力力量殺死，你的隊伍將依你上一次死亡後完成的任務數量獲得[amount]馬克。</talentdescription.insurancepolicy>
-<talentdescription.feigndeath>敵人將會在當你保持ragdoll狀態[seconds]秒後忽略你。</talentdescription.feigndeath>
-<talentdescription.stillkicking>使在你失去意識後一段時間復甦並移除所有負面效果。</talentdescription.stillkicking>
-<talentdescription.crewlayabout>你周遭的隊友維修速度提升[repairspeed]%並短暫獲得[amount]全部技能。</talentdescription.crewlayabout>
+<talentdescription.extrapowertoharpoonsinopensea>當您身處海中時，魚叉的攻擊力[value]%提升。</talentdescription.extrapowertoharpoonsinopensea>
+<talentdescription.dropalienmaterialonkill>當您在艙外殺死一隻怪物時，牠的身上有[probability]%的機率出現一個額外的異星材料。</talentdescription.dropalienmaterialonkill>
+<talentdescription.warriorpoet>您能寫書。\n要寫一本書，進入ragdoll狀態，在[seconds]秒後您會得到一本[itemname]，並且自您上次出書以來擊殺的所有敵人都會讓您獲得[moneyamount]馬克 (作為版稅收入)。</talentdescription.warriorpoet>
+<talentdescription.dualspecops>當您在水中進入ragdoll狀態時會朝著面向的方向推進。</talentdescription.dualspecops>
+<talentdescription.beatcop>您能高速地以ragdoll狀態撞倒其他角色。</talentdescription.beatcop>
+<talentdescription.truepotential>小丑之力賦予您以玩具槌敲打其他角色時有[probability]%的機率使他們自爆。</talentdescription.truepotential>
+<talentdescription.stonewall>當您被攻擊時獲得額外的[physicaldamagereduction]%物理傷害抗性與[stunresistance]%暈眩抗性[seconds]秒。</talentdescription.stonewall>
+<talentdescription.richinknowledge>當您獲得技能點數時，獲得額外的[experienceamount]經驗值，而您的隊友將獲得[alliedexperienceamount]經驗值。</talentdescription.richinknowledge>
+<talentdescription.olympian>獲得下列效果與相當於您的全部技能點數平均的[skillpercentage]效果加乘:</talentdescription.olympian>
+<talentdescription.playingcatchup>如果您和您等級最高的隊友相差[levelvalue]等或更多，獲得額外的[experiencevalue]%任務經驗值。</talentdescription.playingcatchup>
+<talentdescription.skedaddle>移動速度提升[value]%，當您受到攻擊時，則提升至[attackedvalue]%並持續[seconds]秒。</talentdescription.skedaddle>
+<talentdescription.insurancepolicy>當您被任何非友方力力量殺死，您的隊伍將依您上一次死亡後完成的任務數量獲得[amount]馬克。</talentdescription.insurancepolicy>
+<talentdescription.feigndeath>敵人將會在當您保持ragdoll狀態[seconds]秒後忽略您。</talentdescription.feigndeath>
+<talentdescription.stillkicking>使在您失去意識後一段時間復甦並移除所有負面效果。</talentdescription.stillkicking>
+<talentdescription.crewlayabout>您周遭的隊友維修速度提升[repairspeed]%並短暫獲得[amount]全部技能。</talentdescription.crewlayabout>
 <talentdescription.graduationceremony>創造新角色時，繼承目前角色的全部經驗值。</talentdescription.graduationceremony>
-<talentdescription.enrollintoclowncollege>只要穿著全套小丑裝你就能獲得小丑之力。</talentdescription.enrollintoclowncollege>
-<talentdescription.clownpowerdamagereduction>小丑之力賦予你額外的[physicalresistance]%物理傷害抗性。</talentdescription.clownpowerdamagereduction>
-<talentdescription.waterprankster>小丑之力賦予你對壓力的免疫並提升你的游泳速度[swimspeedvalue]%。</talentdescription.waterprankster>
+<talentdescription.enrollintoclowncollege>只要穿著全套小丑裝您就能獲得小丑之力。</talentdescription.enrollintoclowncollege>
+<talentdescription.clownpowerdamagereduction>小丑之力賦予您額外的[physicalresistance]%物理傷害抗性。</talentdescription.clownpowerdamagereduction>
+<talentdescription.waterprankster>小丑之力賦予您對壓力的免疫並提升您的游泳速度[swimspeedvalue]%。</talentdescription.waterprankster>
 
-<talentdescription.psychoclown>小丑之力賦予你在受精神症影響時根據程度獲得最高[maxattackspeed]%的近戰武器攻擊速度，但你受精神症影響時將無法奔跑。</talentdescription.psychoclown>
-<talentdescription.slapstickexpert>小丑之力賦予奔跑時有一定機率會跌倒的命運。\n當你進入ragdoll狀態時，小丑之力賦予所承受的攻擊力道降低[powerreduction]%的能力，而你的攻擊者將有[probability]%的機率陷入[stunseconds]秒的暈眩狀態。</talentdescription.slapstickexpert>
+<talentdescription.psychoclown>小丑之力賦予您在受精神症影響時根據程度獲得最高[maxattackspeed]%的近戰武器攻擊速度，但您受精神症影響時將無法奔跑。</talentdescription.psychoclown>
+<talentdescription.slapstickexpert>小丑之力賦予奔跑時有一定機率會跌倒的命運。\n當您進入ragdoll狀態時，小丑之力賦予所承受的攻擊力道降低[powerreduction]%的能力，而您的攻擊者將有[probability]%的機率陷入[stunseconds]秒的暈眩狀態。</talentdescription.slapstickexpert>
 <talentdescription.commando>蹲下以遠程武器開火時減少[spreadreduction]%的子彈分散程度並提升[powerincrease]%攻擊力。</talentdescription.commando>
 <talentdescription.phdinnuclearphysics>橇棍的攻擊力增加[powerincrease]%。</talentdescription.phdinnuclearphysics>
 <talentdescription.intheflow>在完全修復一項設備之後提升[repairspeed]%維修速度[seconds]秒。</talentdescription.intheflow>
-<talentdescription.coauthor>你能夠與技師共同撰寫一本書。\n雙方在選取對方的角色[seconds]秒後會獲得一本[itemname]並得到[experienceamount]經驗值。</talentdescription.coauthor>
-<talentdescription.polymath>全部技能獲得[skillincrease]點並能夠得到額外[experiencegain]%的任務經驗值加成，但你的最大生命值減少[maximumhealthreduction]%。</talentdescription.polymath>
+<talentdescription.coauthor>您能夠與技師共同撰寫一本書。\n雙方在選取對方的角色[seconds]秒後會獲得一本[itemname]並得到[experienceamount]經驗值。</talentdescription.coauthor>
+<talentdescription.polymath>全部技能獲得[skillincrease]點並能夠得到額外[experiencegain]%的任務經驗值加成，但您的最大生命值減少[maximumhealthreduction]%。</talentdescription.polymath>
 
 <talentdescription.pyromaniac>造成額外[burnincrease]%燃燒傷害。對付‖color:gui.orange‖壓載艙寄生植物群‖end‖時則為兩倍。</talentdescription.pyromaniac>
-<talentdescription.scrapsavant>你能將[scrapamount]廢料加工成為異星原料。\n對義興原料進行加工時獲得[experienceamount]經驗值。</talentdescription.scrapsavant>
-<talentdescription.scrounger>當你拆解廢料時獲得[experienceamount]經驗值。</talentdescription.scrounger>
+<talentdescription.scrapsavant>您能將[scrapamount]廢料加工成為異星原料。\n對義興原料進行加工時獲得[experienceamount]經驗值。</talentdescription.scrapsavant>
+<talentdescription.scrounger>當您拆解廢料時獲得[experienceamount]經驗值。</talentdescription.scrounger>
 
-<talentdescription.miner>當你拆解礦物時有[probability]%的機率獲得兩倍收穫。</talentdescription.miner>
-<talentdescription.tinker.fabricatoranddeconstructor>你能對加工台和解構儀敲敲打打，提升它們的運作速度[speedincrease]%。\n你能無限制地進行敲打。</talentdescription.tinker.fabricatoranddeconstructor>
-<talentdescription.tinker.pump>你能對抽水機敲敲打打，提升它的抽水速度[speedincrease]%。</talentdescription.tinker.pump>
-<talentdescription.tinker.engine>你能對引擎敲敲打打，提升它的推進力[speedincrease]%。</talentdescription.tinker.engine>
-<talentdescription.tinker.loader>你能對裝彈機敲敲打打，與之連結的砲塔射速與傷害提升[damageincrease]%，且耗電量降低[powercostreduction]%。</talentdescription.tinker.loader>
-<talentdescription.tinker.tutorial>你能用扳手對設備敲敲打打。</talentdescription.tinker.tutorial>
+<talentdescription.miner>當您拆解礦物時有[probability]%的機率獲得兩倍收穫。</talentdescription.miner>
+<talentdescription.tinker.fabricatoranddeconstructor>您能對加工台和解構儀敲敲打打，提升它們的運作速度[speedincrease]%。\n您能無限制地進行敲打。</talentdescription.tinker.fabricatoranddeconstructor>
+<talentdescription.tinker.pump>您能對抽水機敲敲打打，提升它的抽水速度[speedincrease]%。</talentdescription.tinker.pump>
+<talentdescription.tinker.engine>您能對引擎敲敲打打，提升它的推進力[speedincrease]%。</talentdescription.tinker.engine>
+<talentdescription.tinker.loader>您能對裝彈機敲敲打打，與之連結的砲塔射速與傷害提升[damageincrease]%，且耗電量降低[powercostreduction]%。</talentdescription.tinker.loader>
+<talentdescription.tinker.tutorial>您能用扳手對設備敲敲打打。</talentdescription.tinker.tutorial>
 <talentdescription.tinker.cooldownreduction>敲敲打打的冷卻時間縮短至[seconds]秒。</talentdescription.tinker.cooldownreduction>
-<talentdescription.tinker.durationincrease>你能額外敲打[seconds]秒。</talentdescription.tinker.durationincrease>
-<talentdescription.tinker.suppliespower>砲塔以外的設備在被你敲打時能夠如通電時的狀態照常運作。</talentdescription.tinker.suppliespower>
-<talentdescription.tinker.reminder>設備只有在被你敲打時會受到影響。</talentdescription.tinker.reminder>
-<talentdescription.tinker.duration>你能夠進行[duration]秒的敲打，結束之後你將會有[cooldown]秒無法進行敲打。</talentdescription.tinker.duration>
+<talentdescription.tinker.durationincrease>您能額外敲打[seconds]秒。</talentdescription.tinker.durationincrease>
+<talentdescription.tinker.suppliespower>砲塔以外的設備在被您敲打時能夠如通電時的狀態照常運作。</talentdescription.tinker.suppliespower>
+<talentdescription.tinker.reminder>設備只有在被您敲打時會受到影響。</talentdescription.tinker.reminder>
+<talentdescription.tinker.duration>您能夠進行[duration]秒的敲打，結束之後您將會有[cooldown]秒無法進行敲打。</talentdescription.tinker.duration>
 <talentdescription.tinker.overclocking>對設備敲敲打打會對它們造成損壞，但是敲打的效果提升[tinkerincrease]%。</talentdescription.tinker.overclocking>
-<talentdescription.fieldmedic>如果你的全部隊友生命值高於[healththreshold]%時，每[seconds]秒獲得[skillincrease]醫療技能點數。</talentdescription.fieldmedic>
-<talentdescription.curiosity>當你拆解一項異星文物時獲得[experiencegain]經驗值，而你的隊友將獲得[crewexperiencegain]經驗值。</talentdescription.curiosity>
-<talentdescription.reverseengineer>當你拆解一項異星文物時得到兩倍輸出並給予隨機一項技能[skillgain]點。</talentdescription.reverseengineer>
-<talentdescription.alienhoarder>你所持有的每個異星文物將使異星手槍的攻擊力提升[powerincrease]%，最多可疊加至[maxpowerincrease]%。</talentdescription.alienhoarder>
+<talentdescription.fieldmedic>如果您的全部隊友生命值高於[healththreshold]%時，每[seconds]秒獲得[skillincrease]醫療技能點數。</talentdescription.fieldmedic>
+<talentdescription.curiosity>當您拆解一項異星文物時獲得[experiencegain]經驗值，而您的隊友將獲得[crewexperiencegain]經驗值。</talentdescription.curiosity>
+<talentdescription.reverseengineer>當您拆解一項異星文物時得到兩倍輸出並給予隨機一項技能[skillgain]點。</talentdescription.reverseengineer>
+<talentdescription.alienhoarder>您所持有的每個異星文物將使異星手槍的攻擊力提升[powerincrease]%，最多可疊加至[maxpowerincrease]%。</talentdescription.alienhoarder>
 
-<talentdescription.firemanscarry>你能夠以全速拖行其他角色。</talentdescription.firemanscarry>
-<talentdescription.researchersintuition>當你第一次打開異星遺蹟中的容器時，你有[probability]%的機率找到額外物品。\n當你持有外星文物時提升游泳速度[swimmingspeed]%。</talentdescription.researchersintuition>
-<talentdescription.commander>當你對其他角色下達指令時他們將受到啟發，賦予他們[physicalresistance]%物理傷害抗性與額外的[skillincrease]點至全部技能。</talentdescription.commander>
+<talentdescription.firemanscarry>您能夠以全速拖行其他角色。</talentdescription.firemanscarry>
+<talentdescription.researchersintuition>當您第一次打開異星遺蹟中的容器時，您有[probability]%的機率找到額外物品。\n當您持有外星文物時提升游泳速度[swimmingspeed]%。</talentdescription.researchersintuition>
+<talentdescription.commander>當您對其他角色下達指令時他們將受到啟發，賦予他們[physicalresistance]%物理傷害抗性與額外的[skillincrease]點至全部技能。</talentdescription.commander>
 <talentdescription.commanderreminder>對另一名角色下達指令將解除上一名角色身上的效果。</talentdescription.commanderreminder>
 <talentdescription.additionalinspirationbonuses>被下達指令的角色將額外獲得下列效果:</talentdescription.additionalinspirationbonuses>
 <talentdescription.allhandsondeck>能受到啟發的角色人數增加一位。</talentdescription.allhandsondeck>
-<talentdescription.atmosmachine>當你拆解異星文物時有[probability]%的機率它會隨機變成一項異星物品。\n每當你完成一項任務，潛艇上的每個異星文物將將使你的隊友獲得額外的[experienceamount]%經驗值，最多可疊加至[maxexperienceamount]%。</talentdescription.atmosmachine>
-<talentdescription.navydiver>你在水中時受到的攻擊力道減少[attackpowerreduction]%。</talentdescription.navydiver>
-<talentdescription.crafthighqualityrepairtools>你製作的焊接工具與電漿切割器品質提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
-<talentdescription.crafthighqualityweapons>你製作的武器品質提升[qualitybonus]。</talentdescription.crafthighqualityweapons>
-<talentdescription.crafthighqualitybatteries>你製作的乾電池品質提升[qualitybonus]。</talentdescription.crafthighqualitybatteries>
-<talentdescription.crafthighqualityfuelrods>你製作的燃料棒品質提升[qualitybonus]。</talentdescription.crafthighqualityfuelrods>
-<talentdescription.crafthighqualitytools>你製作的工具品質提升[qualitybonus]。</talentdescription.crafthighqualitytools>
-<talentdescription.crafthighqualitytanks>你製作的焊接燃料與氧氣罐品質提升[qualitybonus]。</talentdescription.crafthighqualitytanks>
-<talentdescription.crafthighqualityexplosives>你製作的爆裂物品質提升[qualitybonus]。</talentdescription.crafthighqualityexplosives>
+<talentdescription.atmosmachine>當您拆解異星文物時有[probability]%的機率它會隨機變成一項異星物品。\n每當您完成一項任務，潛艇上的每個異星文物將將使您的隊友獲得額外的[experienceamount]%經驗值，最多可疊加至[maxexperienceamount]%。</talentdescription.atmosmachine>
+<talentdescription.navydiver>您在水中時受到的攻擊力道減少[attackpowerreduction]%。</talentdescription.navydiver>
+<talentdescription.crafthighqualityrepairtools>您製作的焊接工具與電漿切割器品質提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
+<talentdescription.crafthighqualityweapons>您製作的武器品質提升[qualitybonus]。</talentdescription.crafthighqualityweapons>
+<talentdescription.crafthighqualitybatteries>您製作的乾電池品質提升[qualitybonus]。</talentdescription.crafthighqualitybatteries>
+<talentdescription.crafthighqualityfuelrods>您製作的燃料棒品質提升[qualitybonus]。</talentdescription.crafthighqualityfuelrods>
+<talentdescription.crafthighqualitytools>您製作的工具品質提升[qualitybonus]。</talentdescription.crafthighqualitytools>
+<talentdescription.crafthighqualitytanks>您製作的焊接燃料與氧氣罐品質提升[qualitybonus]。</talentdescription.crafthighqualitytanks>
+<talentdescription.crafthighqualityexplosives>您製作的爆裂物品質提升[qualitybonus]。</talentdescription.crafthighqualityexplosives>
 <talentdescription.gainitemsonmission>每完成至少一項任務時獲得下列物品作為額外獎勵:</talentdescription.gainitemsonmission>
-<talentdescription.extramission>你能多接受一項任務。</talentdescription.extramission>
+<talentdescription.extramission>您能多接受一項任務。</talentdescription.extramission>
 <talentdescription.extratalentpoint>免費獲得[points]點額外天賦點數。</talentdescription.extratalentpoint>
-<talentdescription.lowhealth.effectivehealing>當你的生命值低於[health]%，普通種類的傷害癒合效率增加[extraheal]%。</talentdescription.lowhealth.effectivehealing>
-<talentdescription.lowhealth.regenerate>當你的生命值低於[health]%，普通種類的傷害會自行緩緩癒合。</talentdescription.lowhealth.regenerate>
+<talentdescription.lowhealth.effectivehealing>當您的生命值低於[health]%，普通種類的傷害癒合效率增加[extraheal]%。</talentdescription.lowhealth.effectivehealing>
+<talentdescription.lowhealth.regenerate>當您的生命值低於[health]%，普通種類的傷害會自行緩緩癒合。</talentdescription.lowhealth.regenerate>
 <talentdescription.gainstructurerepairspeed>焊接工具修復船體的速度增加[amount]%。</talentdescription.gainstructurerepairspeed>
 <talentdescription.gainstructurecutterdamage>電漿切割器對結構物的傷害增加[amount]%。</talentdescription.gainstructurecutterdamage>
 <talentdescription.gainoredetachspeed>電漿切割器採礦的速度增加[amount]%。</talentdescription.gainoredetachspeed>
 <talentdescription.gainforcedoorsopenspeed>強行開門的速度增加[amount]%。</talentdescription.gainforcedoorsopenspeed>
-<talentdescription.findadditionalscrap>當你第一次打開殘骸中容器時，你將有[probability]%的機率額外找到一個廢料。</talentdescription.findadditionalscrap>
-<talentdescription.gainmarksonskillpoint>當你獲得技能點數時得到[amount]馬克。</talentdescription.gainmarksonskillpoint>
-<talentdescription.gainskillspastmax>你將可以提升技能至上限以上。</talentdescription.gainskillspastmax>
+<talentdescription.findadditionalscrap>當您第一次打開殘骸中容器時，您將有[probability]%的機率額外找到一個廢料。</talentdescription.findadditionalscrap>
+<talentdescription.gainmarksonskillpoint>當您獲得技能點數時得到[amount]馬克。</talentdescription.gainmarksonskillpoint>
+<talentdescription.gainskillspastmax>您將可以提升技能至上限以上。</talentdescription.gainskillspastmax>
 <talentdescription.gainbonustoallskills>所有技能額外增加[amount]點。</talentdescription.gainbonustoallskills>
 <talentdescription.reductiontoallskills>所有技能額外減少[amount]點。</talentdescription.reductiontoallskills>
-<talentdescription.increasemaxrepairmechanical>你能修復設備至超過它們最高耐久值的[percentage]%。</talentdescription.increasemaxrepairmechanical>
+<talentdescription.increasemaxrepairmechanical>您能修復設備至超過它們最高耐久值的[percentage]%。</talentdescription.increasemaxrepairmechanical>
 <talentdescription.geneticmaterialrefinebonus>精煉基因物質的效果提升[amount]%。</talentdescription.geneticmaterialrefinebonus>
 <talentdescription.geneticmaterialtaintedprobabilityreductiononcombine>合成不同種類遺傳物質時對材料造成污染的可能性降低[amount]%。</talentdescription.geneticmaterialtaintedprobabilityreductiononcombine>
 <talentdescription.physicaldamageresistance>+[amount] 物理傷害抗性</talentdescription.physicaldamageresistance>
@@ -7841,11 +7841,11 @@
 <talentdescription.additionalstattypeself>獲得額外的 [amount]% [stattype]。</talentdescription.additionalstattypeself>
 <talentdescription.reductiontostattypeself>失去 [amount]% [stattype]。</talentdescription.reductiontostattypeself>
 <talentdescription.additionalresistanceself>獲得額外的 [amount]% [affliction]抗性。</talentdescription.additionalresistanceself>
-<talentdescription.gainmissionxpanditem>當你在沒有船員死亡的狀態下完成任務時獲得額外的[amount]%經驗值以及[item]。</talentdescription.gainmissionxpanditem>
-<talentdescription.depletedfueldeconstructedbyally>當你或你的隊友拆解耗乏燃料時獲得[amount]經驗值。</talentdescription.depletedfueldeconstructedbyally>
-<talentdescription.gaindoubleskillatskill>當你的[skillname1]技能等級為[skilltotal]或更高時，獲得兩倍的[skillname2]技能。</talentdescription.gaindoubleskillatskill>
+<talentdescription.gainmissionxpanditem>當您在沒有船員死亡的狀態下完成任務時獲得額外的[amount]%經驗值以及[item]。</talentdescription.gainmissionxpanditem>
+<talentdescription.depletedfueldeconstructedbyally>當您或您的隊友拆解耗乏燃料時獲得[amount]經驗值。</talentdescription.depletedfueldeconstructedbyally>
+<talentdescription.gaindoubleskillatskill>當您的[skillname1]技能等級為[skilltotal]或更高時，獲得兩倍的[skillname2]技能。</talentdescription.gaindoubleskillatskill>
 <talentdescription.warstories>在任務過程中殲滅至少[creatureamount]生物，任務完成時獲得額外[xpbonus]經驗值。</talentdescription.warstories>
-<talentdescription.easyturtle>當你在水中時受到的傷害減少[amount]%。</talentdescription.easyturtle>
+<talentdescription.easyturtle>當您在水中時受到的傷害減少[amount]%。</talentdescription.easyturtle>
 <talentdescription.logisticsexpert>在完成[missiontype1]或[missiontype2]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.logisticsexpert>
 <talentdescription.healthinsurance>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.healthinsurance>
 <talentdescription.mailman>在完成[missiontype]任務時獲得[xpbonus]%額外經驗值與[moneybonus]%額外金錢。</talentdescription.mailman>
@@ -7853,35 +7853,35 @@
 <talentdescription.nobodyimportantdies>在完成任務且全員生還時獲得[xpbonus]%額外經驗值。</talentdescription.nobodyimportantdies>
 <talentdescription.travelingtradesman>隊友賣出物品的價錢增加[amount]%。</talentdescription.travelingtradesman>
 <talentdescription.appliestoallcrew>套用至所有船員:</talentdescription.appliestoallcrew>
-<talentdescription.camaraderienew>在沒有船員死亡的狀態下完成任務，你的隊友獲得額外[extraexperience]%經驗值。</talentdescription.camaraderienew>
-<talentdescription.downwiththeship>當你置身於你的潛艇中且淹水達到至少[flooded]%時，獲得[duration]秒[swimmingboost]%額外游泳速度和[repairspeed]%船體修復速度。</talentdescription.downwiththeship>
-<talentdescription.emergencymaneuvers>當你的潛艇被怪物攻擊時獲得[seconds]秒的‖color:gui.orange‖最高駕駛技能‖end‖加成。</talentdescription.emergencymaneuvers>
+<talentdescription.camaraderienew>在沒有船員死亡的狀態下完成任務，您的隊友獲得額外[extraexperience]%經驗值。</talentdescription.camaraderienew>
+<talentdescription.downwiththeship>當您置身於您的潛艇中且淹水達到至少[flooded]%時，獲得[duration]秒[swimmingboost]%額外游泳速度和[repairspeed]%船體修復速度。</talentdescription.downwiththeship>
+<talentdescription.emergencymaneuvers>當您的潛艇被怪物攻擊時獲得[seconds]秒的‖color:gui.orange‖最高駕駛技能‖end‖加成。</talentdescription.emergencymaneuvers>
 <talentdescription.lonewolf>如果附近沒有任何船員，獲得:</talentdescription.lonewolf>
 <talentdescription.deputy>在附近的‖color:gui.orange‖助手‖end‖獲得額外的[skillbonus1]點‖color:gui.orange‖駕駛‖end‖技能點數和[skillbonus2]點‖color:gui.orange‖武器‖end‖技能點數，並以兩倍速度學習這兩種技能。</talentdescription.deputy>
 <talentdescription.bigguns>‖color:gui.orange‖左輪手槍‖end‖和‖color:gui.orange‖手銃‖end‖對怪物造成額外[amount]%傷害。</talentdescription.bigguns>
-<talentdescription.commendations>每完成至少一項任務時獲得一枚‖color:gui.orange‖獎章‖end‖。\n當你對其他角色使用‖color:gui.orange‖獎章‖end‖時，賦予他們[selfxpgain]經驗值。</talentdescription.commendations>
-<talentdescription.yourreputation>抵達新的哨站且當地陣營對你持有正向聲望時獲得[amount] mk。\n城市則為兩倍。</talentdescription.yourreputation>
+<talentdescription.commendations>每完成至少一項任務時獲得一枚‖color:gui.orange‖獎章‖end‖。\n當您對其他角色使用‖color:gui.orange‖獎章‖end‖時，賦予他們[selfxpgain]經驗值。</talentdescription.commendations>
+<talentdescription.yourreputation>抵達新的哨站且當地陣營對您持有正向聲望時獲得[amount] mk。\n城市則為兩倍。</talentdescription.yourreputation>
 <talentdescription.affiliation>選擇向一個陣營靠攏來獲得該陣營聲望加成。</talentdescription.affiliation>
 <talentdescription.affiliationfaction>與[faction]靠攏並獲得:</talentdescription.affiliationfaction>
-<talentdescription.affiliationbenefit1>[faction]對你的評價提升速度增加[reputationincrease]%，但其他陣營對你的評價降低速度增加[reputationloss]%。</talentdescription.affiliationbenefit1>
+<talentdescription.affiliationbenefit1>[faction]對您的評價提升速度增加[reputationincrease]%，但其他陣營對您的評價降低速度增加[reputationloss]%。</talentdescription.affiliationbenefit1>
 <talentdescription.affiliationbenefit2>為[faction]完成任務時賺取額外[amount]%馬克。</talentdescription.affiliationbenefit2>
 <talentdescription.campaigning>所屬陣營船廠提供[amount]%的升級和潛艇價格折扣。</talentdescription.campaigning><!--source error?-->
 <talentdescription.networking>所屬陣營商店提供[amount]%的價格折扣。陣營獨特物品則為此的兩倍。</talentdescription.networking><!--source error?-->
 <talentdescription.figurehead>將‖color:gui.orange‖獎章‖end‖替換為給予[selfxpgain]經驗值的‖color:gui.orange‖勳章‖end‖。若角色等級低於[level]，則將賦予他們能夠達到[level]等級的經驗值。</talentdescription.figurehead>
 <talentdescription.factiondiscount>所屬陣營哨站中的任何服務都將提供[discount]%價格折扣。</talentdescription.factiondiscount><!--source error?-->
-<talentdescription.leadingbyexample>只要你活著，給予所有船員‖color:gui.orange‖士氣提升‖end‖效果並獲得:</talentdescription.leadingbyexample>
+<talentdescription.leadingbyexample>只要您活著，給予所有船員‖color:gui.orange‖士氣提升‖end‖效果並獲得:</talentdescription.leadingbyexample>
 <talentdescription.increaseeffectiveness>‖color:gui.orange‖引擎‖end‖和‖color:gui.orange‖抽水機‖end‖的效率提升[amount]%。</talentdescription.increaseeffectiveness>
 <talentdescription.inspiringpresence>同一房間中的船員獲得一點技能點數時變為[amount]點。船員的移動速度增加[movespeed]%。</talentdescription.inspiringpresence>
-<talentdescription.trickledown>當你獲得一點技能點數時，任何地方的其他船員也會獲得。船員的游泳速度[amount]%。</talentdescription.trickledown>
-<talentdescription.steadytune>在演奏‖color:gui.orange‖口風琴‖end‖[duration]秒之後，你和附近的隊友獲得+[buffamount]%的[buffname]效果[buffduration]秒。</talentdescription.steadytune>
-<talentdescription.melodicrespite2>在演奏‖color:gui.orange‖吉他‖end‖[duration]秒之後，你和附近的隊友獲得+[buffamount]%的[buffname]效果[buffduration]秒。</talentdescription.melodicrespite2>
+<talentdescription.trickledown>當您獲得一點技能點數時，任何地方的其他船員也會獲得。船員的游泳速度[amount]%。</talentdescription.trickledown>
+<talentdescription.steadytune>在演奏‖color:gui.orange‖口風琴‖end‖[duration]秒之後，您和附近的隊友獲得+[buffamount]%的[buffname]效果[buffduration]秒。</talentdescription.steadytune>
+<talentdescription.melodicrespite2>在演奏‖color:gui.orange‖吉他‖end‖[duration]秒之後，您和附近的隊友獲得+[buffamount]%的[buffname]效果[buffduration]秒。</talentdescription.melodicrespite2>
 <talentdescription.family>‖color:gui.green‖解鎖此天賦時:‖end‖ 所有船員提升一個等級。</talentdescription.family><!--NEED EDIT-->
 <talentdescription.family2>若任務過程中沒有船員死亡，‖color:gui.orange‖士氣提升‖end‖效果將提升為兩倍效果的‖color:gui.orange‖士氣高昂‖end‖效果。</talentdescription.family2>
 <talentdescription.extrableedingdamage>‖color:gui.orange‖出血‖end‖造成的傷害提升[amount]%。</talentdescription.extrableedingdamage>
 <talentdescription.crustyseaman>自出血狀態恢復的速度更快。</talentdescription.crustyseaman>
 <talentdescription.moredamagerifles>‖color:gui.orange‖步槍‖end‖造成的傷害提升[amount]%。</talentdescription.moredamagerifles>
 <talentdescription.extrapowder>爆炸的範圍增加[rangeamount]%且傷害提升[damageamount]%。</talentdescription.extrapowder>
-<talentdescription.gunrunner>你拿著砲塔彈藥時的移動速度增加[amount]%。</talentdescription.gunrunner>
+<talentdescription.gunrunner>您拿著砲塔彈藥時的移動速度增加[amount]%。</talentdescription.gunrunner>
 <talentdescription.walkfasterwhileaiming>瞄準時的移動速度增加[amount]%。</talentdescription.walkfasterwhileaiming>
 <talentdescription.warlord>遠程武器對附近敵人造成的傷害提升[amount]%。最多至[maxamount]%。</talentdescription.warlord>
 <talentdescription.blooddonor>每完成至少一項任務時，獲得一個‖color:gui.orange‖血袋‖end‖。</talentdescription.blooddonor>
@@ -7893,26 +7893,26 @@
 <talentdescription.medicalassistance>同一房間中的‖color:gui.orange‖助手‖end‖獲得額外的[amount]點‖color:gui.orange‖醫療‖end‖技能點數。</talentdescription.medicalassistance>
 <talentdescription.miracleworker>附近的船員除非主動放棄，否則不會因傷痛死亡。</talentdescription.miracleworker>
 <talentdescription.blackmarketgenes>‖color:gui.orange‖研究哨站‖end‖和‖color:gui.orange‖城市‖end‖中的商店會販售基因物質。</talentdescription.blackmarketgenes>
-<talentdescription.sellgeneticmaterialsmultiplier>你能以[amount]%的價格賣出基因物質。</talentdescription.sellgeneticmaterialsmultiplier>
+<talentdescription.sellgeneticmaterialsmultiplier>您能以[amount]%的價格賣出基因物質。</talentdescription.sellgeneticmaterialsmultiplier>
 <talentdescription.chemicalsboughtcheaper>‖color:gui.orange‖化學物‖end‖的價格便宜[amount]%。</talentdescription.chemicalsboughtcheaper>
-<talentdescription.constructmedicinefaster>你製作醫療用品的速度提升[amount]%。</talentdescription.constructmedicinefaster>
-<talentdescription.increaseappliedbuffduration>由你施加的增益效果效增加[amount]%。</talentdescription.increaseappliedbuffduration>
+<talentdescription.constructmedicinefaster>您製作醫療用品的速度提升[amount]%。</talentdescription.constructmedicinefaster>
+<talentdescription.increaseappliedbuffduration>由您施加的增益效果效增加[amount]%。</talentdescription.increaseappliedbuffduration>
 <talentdescription.poisonsandacidsdealmoredamage>‖color:gui.orange‖毒藥‖end‖和‖color:gui.orange‖強酸‖end‖造成的傷害提升[amount]%。</talentdescription.poisonsandacidsdealmoredamage>
 <talentdescription.junctionjunkie>在任務中修復至少[amount]項電器設備後，在任務完成時獲得額外[bonus]經驗值。</talentdescription.junctionjunkie>
-<talentdescription.aggressiveengineering>你使用‖color:gui.orange‖螺絲起子‖end‖能造成‖color:gui.green‖三倍‖end‖傷害。</talentdescription.aggressiveengineering>
+<talentdescription.aggressiveengineering>您使用‖color:gui.orange‖螺絲起子‖end‖能造成‖color:gui.green‖三倍‖end‖傷害。</talentdescription.aggressiveengineering>
 <talentdescription.machinemaniac>在任務中修復至少[amount]項機械設備後，在任務完成時獲得額外[bonus]經驗值。</talentdescription.machinemaniac>
 <talentdescription.stationengineer>重新啟動一座‖color:gui.orange‖信號站‖end‖將獲得額外[bonus]%經驗值。</talentdescription.stationengineer>
 <talentdescription.buzzing>反應爐的‖color:gui.orange‖最大輸出‖end‖提升[amount]%。</talentdescription.buzzing>
 <talentdescription.cruising>反應爐的‖color:gui.orange‖燃料效率‖end‖提升[amount]%。</talentdescription.cruising>
 <talentdescription.doesnotstackwith>不與[talentname]疊加。</talentdescription.doesnotstackwith>
 <talentdescription.doesnotstack>不與同種類天賦疊加。</talentdescription.doesnotstack>
-<talentdescription.betterthannew>你所修復的電器設備自然劣化的速度降低[amount]%。</talentdescription.betterthannew>
+<talentdescription.betterthannew>您所修復的電器設備自然劣化的速度降低[amount]%。</talentdescription.betterthannew>
 <talentdescription.unlimitedpower>‖color:gui.orange‖蓄電池‖end‖和‖color:gui.orange‖超級電容‖end‖的容量提升+[amount]%。</talentdescription.unlimitedpower>
-<talentdescription.multifunctional>‖color:gui.orange你使用‖扳手‖end‖和‖color:gui.orange‖撬棍‖end‖造成的傷害提升[powerincrease]%。</talentdescription.multifunctional>
-<talentdescription.engineengineer>潛艇‖color:gui.orange‖引擎‖end‖跟據你的等級獲得+[amount]%[stattype]，最高至[max]%。</talentdescription.engineengineer>
+<talentdescription.multifunctional>‖color:gui.orange您使用‖扳手‖end‖和‖color:gui.orange‖撬棍‖end‖造成的傷害提升[powerincrease]%。</talentdescription.multifunctional>
+<talentdescription.engineengineer>潛艇‖color:gui.orange‖引擎‖end‖跟據您的等級獲得+[amount]%[stattype]，最高至[max]%。</talentdescription.engineengineer>
 <talentdescription.ballastdenizen>閉氣時間提升[amount]%。</talentdescription.ballastdenizen>
 <talentdescription.underwaterengineer>潛艇‖color:gui.orange‖引擎‖end‖泡水時獲得+[amount]%[stattype]。</talentdescription.underwaterengineer>
-<talentdescription.pumpndump>你所修復的‖color:gui.orange‖抽水機‖end‖獲得[amount]%[stattype]。</talentdescription.pumpndump>
+<talentdescription.pumpndump>您所修復的‖color:gui.orange‖抽水機‖end‖獲得[amount]%[stattype]。</talentdescription.pumpndump>
 <talentdescription.oiledmachinery>‖color:gui.orange‖加工台‖end‖與‖color:gui.orange‖解構儀‖end‖的運作速度提升[amount]%。</talentdescription.oiledmachinery>
 <talentdescription.retrofit>解鎖比當前潛艇階級高一階的‖color:gui.orange‖船體升級‖end‖選項。</talentdescription.retrofit>
 <talentdescription.toolmaintenance>所有船員製作的工具品質提升[amount]。</talentdescription.toolmaintenance>
@@ -7921,26 +7921,26 @@
 <talentdescription.doublescrapoutput>拆解‖color:gui.orange‖廢料‖end‖時獲得兩倍輸出。</talentdescription.doublescrapoutput>
 <talentdescription.repairmechanicaldevicestwiceasfast>能以兩倍速度修復‖color:gui.orange‖機械設備‖end‖。</talentdescription.repairmechanicaldevicestwiceasfast>
 <talentdescription.quickfixer>在修復一項‖color:gui.orange‖機械設備‖end‖後提升[amount]%移動速度[duration]秒。</talentdescription.quickfixer>
-<talentdescription.robotics>製作一架武力強大 (但脆弱) 的機器人來保護你。</talentdescription.robotics>
+<talentdescription.robotics>製作一架武力強大 (但脆弱) 的機器人來保護您。</talentdescription.robotics>
 <talentdescription.roboticsreminder>一位船員只能使用[amount]架防禦機器人。</talentdescription.roboticsreminder>
 <talentdescription.iamthatguy>近戰武器造成的‖color:gui.orange‖鈍器傷‖end‖傷害提升[amount]%。</talentdescription.iamthatguy>
-<talentdescription.lowhealthstatboost>當你的生命值低於[health]%時，獲得:</talentdescription.lowhealthstatboost>
-<talentdescription.heavylifting>你拿著‖color:gui.orange‖金屬箱子‖end‖或‖color:gui.orange‖異星文物‖end‖時的移動速度增加[amount]%。</talentdescription.heavylifting>
+<talentdescription.lowhealthstatboost>當您的生命值低於[health]%時，獲得:</talentdescription.lowhealthstatboost>
+<talentdescription.heavylifting>您拿著‖color:gui.orange‖金屬箱子‖end‖或‖color:gui.orange‖異星文物‖end‖時的移動速度增加[amount]%。</talentdescription.heavylifting>
 <talentdescription.mudraptorwrestler>對‖color:gui.orange‖泥偶迅猛龍‖end‖造成的傷害提升[amount]%。</talentdescription.mudraptorwrestler>
-<talentdescription.revengesquad>當你死亡，你的隊友將獲得[amount]%的‖color:gui.orange‖物理傷害抗性‖end‖[duration]秒。</talentdescription.revengesquad>
+<talentdescription.revengesquad>當您死亡，您的隊友將獲得[amount]%的‖color:gui.orange‖物理傷害抗性‖end‖[duration]秒。</talentdescription.revengesquad>
 <talentdescription.peerlearning>任務完成時，給予等級最低的船員額外[amount]%經驗值。</talentdescription.peerlearning>
 <talentdescription.anappleaday>獲得[amount]%‖color:gui.orange‖死神之稅‖end‖抗性。</talentdescription.anappleaday>
-<talentdescription.miracleworkerreminder>你不再受到‖color:gui.orange‖奇跡進行中‖end‖效果的影響。</talentdescription.miracleworkerreminder>
-<talentdescription.thewaitinglist>等待CPR救援時，你的生命跡象消逝速度減緩[amount]%。</talentdescription.thewaitinglist>
+<talentdescription.miracleworkerreminder>您不再受到‖color:gui.orange‖奇跡進行中‖end‖效果的影響。</talentdescription.miracleworkerreminder>
+<talentdescription.thewaitinglist>等待CPR救援時，您的生命跡象消逝速度減緩[amount]%。</talentdescription.thewaitinglist>
 <talentdescription.thefriendswemade>能透過醫用加工台馴服未孵化的泥偶迅猛龍。</talentdescription.thefriendswemade>
 <talentdescription.thefriendswemadereminder>一位船員僅能同時使用[amount]隻。</talentdescription.thefriendswemadereminder><!--need edit-->
-<talentdescription.clownpowerbenefits>小丑之力賦予你:</talentdescription.clownpowerbenefits>
-<talentdescription.thearrival>一個哨站一次，使用‖color:gui.orange‖自行車喇叭‖end‖將賦予你[faction]的[amount]聲望值。</talentdescription.thearrival>
+<talentdescription.clownpowerbenefits>小丑之力賦予您:</talentdescription.clownpowerbenefits>
+<talentdescription.thearrival>一個哨站一次，使用‖color:gui.orange‖自行車喇叭‖end‖將賦予您[faction]的[amount]聲望值。</talentdescription.thearrival>
 <talentdescription.apprenticeshipbase>選擇成為一種職業的學徒並獲得相關的技能加成。</talentdescription.apprenticeshipbase>
 <talentdescription.apprenticeshipjob>選擇成為[job]學徒並獲得:</talentdescription.apprenticeshipjob>
-<talentdescription.journeyman>你和所有與你學徒職業相同的船員獲得額外[skillamount]點所選職業的主要技能點數，且該技能升級速度提升[skillspeedboost]%。</talentdescription.journeyman>
-<talentdescription.loyalassistant>你和所有與你學徒職業相同的船員所製作的物品品質提升[amount]。</talentdescription.loyalassistant>
-<talentdescription.disloyalscum>你和所有與你學徒職業‖color:gui.orange‖不‖end‖相同的船員獲得額外[amount]%的維修、焊接、和技能升級速度。</talentdescription.disloyalscum>
+<talentdescription.journeyman>您和所有與您學徒職業相同的船員獲得額外[skillamount]點所選職業的主要技能點數，且該技能升級速度提升[skillspeedboost]%。</talentdescription.journeyman>
+<talentdescription.loyalassistant>您和所有與您學徒職業相同的船員所製作的物品品質提升[amount]。</talentdescription.loyalassistant>
+<talentdescription.disloyalscum>您和所有與您學徒職業‖color:gui.orange‖不‖end‖相同的船員獲得額外[amount]%的維修、焊接、和技能升級速度。</talentdescription.disloyalscum>
 <talentdescription.unlockapprenticeshiptalents>獲得所選學徒職業的‖color:gui.orange‖隨機一種‖end‖職業天賦樹中的所有天賦。</talentdescription.unlockapprenticeshiptalents>
 <talentdescription.massproduction>製作物品時有[chance]%的機率不會消耗其中一項原料。</talentdescription.massproduction>
 <talentdescription.specops>對生命值全滿的敵人造成雙倍傷害 (以砲塔以外方式)。</talentdescription.specops>
@@ -7950,22 +7950,22 @@
 <talentdescription.affiliationreputation>與陣營之間的聲望提升速度增加[reputationincrease]%。</talentdescription.affiliationreputation>
 <talentdescription.affiliationbenefit>完成‖color:gui.orange‖所屬陣營‖end‖任務時獲得額外[amount]%馬克。</talentdescription.affiliationbenefit>
 <talentdescription.currentaffiliation>當前‖color:gui.orange‖所屬陣營‖end‖為: [affiliatedfaction]</talentdescription.currentaffiliation>
-<talentdescription.affiliationfactionreminder>‖color:gui.orange‖所屬陣營:‖end‖ 你在該陣營中的聲望最高。</talentdescription.affiliationfactionreminder>
+<talentdescription.affiliationfactionreminder>‖color:gui.orange‖所屬陣營:‖end‖ 您在該陣營中的聲望最高。</talentdescription.affiliationfactionreminder>
 <talentdescription.campaigning>‖color:gui.orange‖所屬陣營‖end‖船廠提供[amount]%的升級和潛艇價格折扣。</talentdescription.campaigning>
 <talentdescription.networking>‖color:gui.orange‖所屬陣營‖end‖商店提供[amount]%的價格折扣。陣營獨特物品則為此的兩倍。</talentdescription.networking>
 <talentdescription.factiondiscount>‖color:gui.orange‖所屬陣營‖end‖哨站中的任何服務都將提供[discount]%價格折扣。</talentdescription.factiondiscount>
-<talentdescription.emergencyresponse>有任何船員失去意識時你的移動速度增加[movementspeed]%。</talentdescription.emergencyresponse>
-<talentdescription.chonkyhonks>使用你的自行車喇叭有[chance]%機率使周圍的生物暈眩一秒。</talentdescription.chonkyhonks>
+<talentdescription.emergencyresponse>有任何船員失去意識時您的移動速度增加[movementspeed]%。</talentdescription.emergencyresponse>
+<talentdescription.chonkyhonks>使用您的自行車喇叭有[chance]%機率使周圍的生物暈眩一秒。</talentdescription.chonkyhonks>
 <talentdescription.truepotentialtemporary>以‖color:gui.orange‖玩具槌‖end‖敲打失去意識的隊友將能救起他們並給予對方[duration]秒的[affliction]效果。需要小丑之力。</talentdescription.truepotentialtemporary>
 <talentdescription.veteran>獲得額外的[helmbonus]點‖color:gui.orange‖駕駛‖end‖技能點數和[otherbonus]點其他技能點數。</talentdescription.veteran>
 <talentdescription.helmsman>獲得額外的[amount]點‖color:gui.orange‖駕駛‖end‖技能點數。</talentdescription.helmsman>
-<talentdescription.medicalexpertise>獲得額外[amount]點‖color:gui.orange‖醫療‖end‖技能點數。你所施用的繃帶效果更好。</talentdescription.medicalexpertise>
-<talentdescription.evasivemaneuvers>當你的潛艇被怪物攻擊時獲得額外的[helmbonus]點‖color:gui.orange‖駕駛‖end‖技能[seconds]秒。</talentdescription.evasivemaneuvers>
-<talentdescription.inspiringtunes>周遭隊友在你使用自行車喇叭時，獲得額外的[skillamount]點全部技能點數[duration]秒。</talentdescription.inspiringtunes>
+<talentdescription.medicalexpertise>獲得額外[amount]點‖color:gui.orange‖醫療‖end‖技能點數。您所施用的繃帶效果更好。</talentdescription.medicalexpertise>
+<talentdescription.evasivemaneuvers>當您的潛艇被怪物攻擊時獲得額外的[helmbonus]點‖color:gui.orange‖駕駛‖end‖技能[seconds]秒。</talentdescription.evasivemaneuvers>
+<talentdescription.inspiringtunes>周遭隊友在您使用自行車喇叭時，獲得額外的[skillamount]點全部技能點數[duration]秒。</talentdescription.inspiringtunes>
 <talentdescription.optimizedpowerflow>獲得等同於‖color:gui.orange‖電氣工程‖end‖技能[statamount]%的額外砲塔電力消耗降低和砲塔充電速度加成。\n每當完全修復一項設備時獲得額外的[skillamount]點‖color:gui.orange‖電氣工程‖end‖技能點數。</talentdescription.optimizedpowerflow>
 <talentdescription.elbowgrease>獲得等同於機械工程技能[statamount]%的額外進戰攻擊力和最大生命值加成。\n在解構廢料時，獲得額外的[skillamount]點機械工程技能點數。</talentdescription.elbowgrease>
 <talentdescription.doubleduty>當處於自己的潛水艇外時，受到的物理傷害就會減少[physicaldamagedecrease]%。當處於自己的潛水艇內時，獲得額外的[skillincrease]點‖color:gui.orange‖醫療‖end‖技能點數。</talentdescription.doubleduty>
-<talentdescription.craftwithlessitems>你能以更少的材料製作‖color:gui.orange‖FPGA電路板‖end‖和‖color:gui.orange‖弱電箱‖end‖。</talentdescription.craftwithlessitems>
+<talentdescription.craftwithlessitems>您能以更少的材料製作‖color:gui.orange‖FPGA電路板‖end‖和‖color:gui.orange‖弱電箱‖end‖。</talentdescription.craftwithlessitems>
 
 <!-- Talent stat types -->
 <stattypenames.maximumhealthmultiplier>最大生命值</stattypenames.maximumhealthmultiplier>
@@ -8199,17 +8199,17 @@
 <traitorobjective.gnawingcold.findflammable>找點可燃物</traitorobjective.gnawingcold.findflammable>
 <traitorobjective.gnawingcold.startfires>生火</traitorobjective.gnawingcold.startfires>
 <traitorobjective.gnawingcold.waitfornofires>等待火熄滅</traitorobjective.gnawingcold.waitfornofires>
-<EventText.deepdiverducks.c2>你按照要求製作了[number]隻樣品鴨。它們美呆了。</EventText.deepdiverducks.c2>
+<EventText.deepdiverducks.c2>你按照要求製作了[number]隻樣品鴨鴨。它們美呆了。</EventText.deepdiverducks.c2>
 <traitorobjective.deepdiverducks.create>製作4隻潛水鴨</traitorobjective.deepdiverducks.create>
 <EventText.divinelabor.c2>你誠心地製作了[number]尊畫皮雕塑模型，得與它們離別使你依依不捨。</EventText.divinelabor.c2>
 <traitorobjective.divinelabor.create>製作6尊畫皮雕塑模型</traitorobjective.divinelabor.create>
 <EventText.bloodsamples.objective1>找到空的血液樣本瓶，之後收集半數船員的血液樣本。</EventText.bloodsamples.objective1>
 <EventText.bloodsamples.c3>你採集了半數船員的血液樣本。畫皮教會一定會非常滿意。</EventText.bloodsamples.c3>
 <talentname.tastytarget>欠揍</talentname.tastytarget>
-<talentdescription.tastytarget>敵人將優先攻擊你。</talentdescription.tastytarget>
+<talentdescription.tastytarget>敵人將優先攻擊您。</talentdescription.tastytarget>
 <talentdescription.damagereduction>受到的物理傷害減少[amount]%。</talentdescription.damagereduction>
 <afflictionname.tastytarget>欠揍</afflictionname.tastytarget>
-<afflictiondescription.tastytarget>敵人將優先攻擊你。</afflictiondescription.tastytarget>
+<afflictiondescription.tastytarget>敵人將優先攻擊您。</afflictiondescription.tastytarget>
 <talentname.indenturedservitude>契約奴役</talentname.indenturedservitude>
 <talentdescription.assistanthiringprice>招募‖color:gui.orange‖助手‖end‖的費用降低[amount]%。</talentdescription.assistanthiringprice>
 <talentdescription.otherassistantxpbonus>其他助手獲得額外[bonus]%經驗值，最高可疊加至[max]%。</talentdescription.otherassistantxpbonus>
