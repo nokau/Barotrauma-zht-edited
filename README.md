@@ -42,7 +42,5 @@
 - **TraditionalChineseVanillaEndgame.xml** - 故事特殊段落文字
 - **TraditionalChineseVanillaFactions.xml** - 陣營相關內容文字
 
-舊版本中，除NPC對話外，其餘 .xml 檔案為我進行編輯時使用的檔案，與遊戲檔案名稱與內容有所出入。
-
 # 推薦工具
 - Notepad++
