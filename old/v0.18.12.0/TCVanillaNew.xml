@@ -1,0 +1,14 @@
+<!-- EnglishVanillaNew.xml -->
+<!-- edited by nokau for v0.18.12.0 -->
+<!-- INDEX: EnglishVanilla.xml (1~6530), EnglishVanillaEditorTexts.xml (6531~7828), EnglishVanilla EnglishVanillaNew.xml (7829~7843) -->
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- Modified values after May 27 (July 2022 update) -->
+
+  
+
+<!-- New values after May 27 (July 2022 update) -->
+
+  
+</infotexts>

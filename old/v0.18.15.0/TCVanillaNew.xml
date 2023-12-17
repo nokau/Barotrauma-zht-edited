@@ -1,0 +1,18 @@
+<!-- EnglishVanillaNew.xml -->
+<!-- edited by nokau for v0.18.15.0 -->
+<!-- INDEX: EnglishVanilla.xml (1~6518), EnglishVanillaEditorTexts.xml (6519~7817), EnglishVanilla EnglishVanillaNew.xml (7818~7836) -->
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- New values after June 1 (June 2022 hotfix) -->
+
+<inputtype.toggleinventory>展開收合物件清單 (潛艇編輯器)</inputtype.toggleinventory>
+
+<subcategory.outpost>哨站</subcategory.outpost>
+
+<editor.copytoclipboard>複製到剪貼簿</editor.copytoclipboard>
+
+<itemtransferheader>潛艇無手動配置的物資</itemtransferheader>
+<itemtransferwarning>目標潛艇上或許沒有足夠的起始燃料、氧氣罐、彈藥、等等物品，你確定要不攜帶任何物品就進行替換嗎？</itemtransferwarning>
+  
+</infotexts>

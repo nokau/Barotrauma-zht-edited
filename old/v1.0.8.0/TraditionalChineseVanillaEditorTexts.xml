@@ -1,0 +1,1345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)">
+<!-- edited by nokau for v1.0.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible, until updates happen -->
+<!-- Generic -->
+<editor.saveall>Save All</editor.saveall>
+  
+<!-- Submarine editor -->
+<items>物件</items>
+<structures>結構</structures>
+<totalhullvolume>總體 Hull 體積</totalhullvolume>
+<selectedhullvolume>所選 Hull 體積</selectedhullvolume>
+<optimalballastlevel>最佳壓載艙平衡水位為 [value]</optimalballastlevel>
+<saveitemassembly>保存為物件組合</saveitemassembly>
+<insufficientballast>體積不足以控制浮力</insufficientballast>
+<physicsbodies>Physics bodies</physicsbodies>
+<opensubbutton>開啟...</opensubbutton>
+<savesubbutton>儲存</savesubbutton>
+<addsubbutton>加入潛艇</addsubbutton>
+<addsubtooltip>將另一艘潛艇以置入的方式新增至當前潛艇的檔案之中。能用來加入小艇、逃生艙、或用以製作可分解的潛艇船體。</addsubtooltip>
+<holdtolink>按住空白件並點選其他物件與它們建立連結。</holdtolink>
+<allowedlinks>可與其建立連結</allowedlinks>
+<filtermapentities>篩選</filtermapentities>
+<charactermodebutton>角色模式</charactermodebutton>
+<charactermodetooltip>使你能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
+<wiringmodebutton>配線模式</wiringmodebutton>
+<wiringmodetooltip>允許你對物品進行配線。</wiringmodetooltip>
+<generatewaypointsbutton>產生Waypoint</generatewaypointsbutton>
+<generatewaypointstooltip>AI控制的船員需要以Waypoint作為在潛艇中的移動標示。</generatewaypointstooltip>
+<showentitieslabel>顯示</showentitieslabel>
+<showwalls>牆壁</showwalls>
+<showstructures>結構</showstructures>
+<showitems>物件</showitems>
+<showlighting>光線</showlighting>
+<showwaypoints>Waypoint</showwaypoints>
+<showspawnpoints>Spawnpoint</showspawnpoints>
+<showlinks>連結</showlinks>
+<showhulls>Hull</showhulls>
+<showgaps>Gap</showgaps>
+<previouslyusedlabel>先前使用</previouslyusedlabel>
+<subnamemissingwarning>在儲存之前，請為你的潛艇命名。</subnamemissingwarning>
+<subnameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</subnameillegalcharswarning>
+<subsavednotification>潛艇已儲存至 [filepath]。</subsavednotification>
+<savesubdialogheader>儲存潛艇</savesubdialogheader>
+<savesubdialogname>名稱</savesubdialogname>
+<savesubdialogdescription>描述</savesubdialogdescription>
+<savesubdialogsettings>設定</savesubdialogsettings>
+<saveitemassemblydialogheader>保存物件組合</saveitemassemblydialogheader>
+<saveitemassemblyhideinmenus>在主選單中隱藏</saveitemassemblyhideinmenus>
+<saveitemassemblydialogname>名稱</saveitemassemblydialogname>
+<saveitemassemblydialogdescription>描述</saveitemassemblydialogdescription>
+<itemassemblynamemissingwarning>在儲存之前，請為你的物件組合命名。</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。你要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
+<itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
+<nohullswarning>潛艇上沒有 Hull。Hull 用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
+<disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
+<disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
+<nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
+<nocargospawnpointwarning>這艘潛艇沒有為貨物提供 Spawnpoint (用以定義自商店購買的物品去處)。請放置新的 Spawnpoint 並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
+<farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
+<adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
+<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
+<noballasttagswarning>位於壓載艙的抽水機應在其 Tags 欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
+<insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
+<nohullnameswarning>沒有 Hull 被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
+<deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
+<hideinmenus>在主選單中隱藏</hideinmenus>
+<manuallyoutfitted>手動配置的物資</manuallyoutfitted>
+<manuallyoutfittedtooltip>此潛艇是否已經包含了足夠的起始物資，或者它需要依賴自動產生的物資和/或玩家進行物品轉移？</manuallyoutfittedtooltip>
+<unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
+<reloadsprite>重新讀取Sprite</reloadsprite>
+<resettoprefab>回復至預設</resettoprefab>
+<mirrorentityx>鏡射 X</mirrorentityx>
+<mirrorentityxtooltip>水平翻轉這個物件，你也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
+<mirrorentityy>鏡射 Y</mirrorentityy>
+<mirrorentityytooltip>垂直翻轉這個物件，你也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
+<nonlinkedgapswarning>潛艇上有 Gap 未與任何 Hull 交集。Gap 應被置於至少一個 Hull 上 (如要通往潛艇外) 或橫跨於多個 Hull 之間。</nonlinkedgapswarning>
+<cannoteditvanillasubs>無法覆蓋已存在遊戲本體內容中的潛艇檔案！</cannoteditvanillasubs>
+<subeditor.structurecountwarning>這艘潛艇上有非常大量的結構配件，有可能會對遊戲運作造成影響，請考慮減少結構配件數量。</subeditor.structurecountwarning>
+<subeditor.structurecounterror>這艘潛艇上有太多的結構配件 (>[max])，這會對遊戲運作造成影響，請減少結構配件數量。</subeditor.structurecounterror>
+<subeditor.wallcountwarning>這艘潛艇上有非常大量帶碰撞的牆壁，有可能會對遊戲運作造成影響，請考慮減少帶碰撞的牆壁數量。</subeditor.wallcountwarning>
+<subeditor.wallcounterror>這艘潛艇上有太多帶碰撞的牆壁 (>[max])，這會對遊戲運作造成影響，請減少帶碰撞的牆壁數量。</subeditor.wallcounterror>
+<subeditor.itemcountwarning>這艘潛艇上有非常大量的物件，有可能會對遊戲運作造成影響，請考慮減少物件數量。</subeditor.itemcountwarning>
+<subeditor.itemcounterror>這艘潛艇上有太多的物件 (>[max])，這會對遊戲運作造成影響，請減少物件數量。</subeditor.itemcounterror>
+<subeditor.lightcountwarning>這艘潛艇上有非常大量的燈光，有可能會對遊戲運作造成影響，請考慮減少燈光數量。</subeditor.lightcountwarning>
+<subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
+<subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
+<canattachtoprevious>能以何處連結</canattachtoprevious>
+<canattachtoprevious.tooltip>這個模組的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
+<subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
+<subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
+<stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
+<stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的文字。</stringpropertycannottranslate>
+<subeditorlights>燈光</subeditorlights>
+<subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
+
+<!-- Submarine editor -->
+<charactereditor.creatingnewjoint>建立新關節</charactereditor.creatingnewjoint>
+<charactereditor.selectanchor1pos>選擇作為此關節錨點的位置</charactereditor.selectanchor1pos>
+<charactereditor.selectlimbtoconnect>選擇另一肢體與關節連結</charactereditor.selectlimbtoconnect>
+<charactereditor.frozen>凍結</charactereditor.frozen>
+<charactereditor.spriteorientation>Sprite方向</charactereditor.spriteorientation>
+<charactereditor.spritesheetorientation>Spritesheet方向</charactereditor.spritesheetorientation>
+<charactereditor.cantaddjointsnolimbelements>無法添加關節，找不到到肢體元素！</charactereditor.cantaddjointsnolimbelements>
+<charactereditor.humanoidlimbdeletiondisabled>自類人生物刪除肢體的功能已被暫時停用以避免遊戲崩潰</charactereditor.humanoidlimbdeletiondisabled>
+<charactereditor.tryingtospawncharacter>正在產生 [config]</charactereditor.tryingtospawncharacter>
+<charactereditor.nocontentpackageselected>未選擇內容套件！</charactereditor.nocontentpackageselected>
+<charactereditor.contentpackagesaved>內容套件已儲存至: [path]</charactereditor.contentpackagesaved>
+<charactereditor.backgroundcolor>背景\n色彩</charactereditor.backgroundcolor>
+<charactereditor.spritesheetzoom>Spritesheet縮放</charactereditor.spritesheetzoom>
+<charactereditor.reset>重置</charactereditor.reset>
+<charactereditor.hidebodysprites>隱藏身體Sprite</charactereditor.hidebodysprites>
+<charactereditor.showwearables>顯示穿戴物</charactereditor.showwearables>
+<charactereditor.lockspriteorigin>鎖定Sprite原點</charactereditor.lockspriteorigin>
+<charactereditor.lockspriteposition>鎖定Sprite位置</charactereditor.lockspriteposition>
+<charactereditor.lockspritesize>鎖定Sprite大小</charactereditor.lockspritesize>
+<charactereditor.adjustcollider>調整Collider</charactereditor.adjustcollider>
+<charactereditor.uniformscale>統一大小</charactereditor.uniformscale>
+<charactereditor.copyjointsettings>複製關節設定</charactereditor.copyjointsettings>
+<charactereditor.copyjointsettingstooltip>將目前的設定套用至所有選擇的關節。</charactereditor.copyjointsettingstooltip>
+<charactereditor.jointscale>關節大小</charactereditor.jointscale>
+<charactereditor.limbscale>肢體大小</charactereditor.limbscale>
+<charactereditor.selectedanimation>選擇動畫</charactereditor.selectedanimation>
+<charactereditor.previouscharacter>前一項</charactereditor.previouscharacter>
+<charactereditor.nextcharacter>後一項</charactereditor.nextcharacter>
+<charactereditor.showparameters>參數 [F1]</charactereditor.showparameters>
+<charactereditor.showspritesheet>Spritesheet [T]</charactereditor.showspritesheet>
+<charactereditor.drawskeleton>骨架 [N]</charactereditor.drawskeleton>
+<charactereditor.enablelights>光線 [L]</charactereditor.enablelights>
+<charactereditor.drawdamagemodifiers>傷害修改器 [M]</charactereditor.drawdamagemodifiers>
+<charactereditor.editcharacter>角色 [1]</charactereditor.editcharacter>
+<charactereditor.editragdoll>RAGDOLL [2]</charactereditor.editragdoll>
+<charactereditor.editlimbs>肢體 [3]</charactereditor.editlimbs>
+<charactereditor.editjoints>關節 [4]</charactereditor.editjoints>
+<charactereditor.editanimations>動畫 [5]</charactereditor.editanimations>
+<charactereditor.editiktargets>IK目標 [I]</charactereditor.editiktargets>
+<charactereditor.freeze>凍結</charactereditor.freeze>
+<charactereditor.autofreeze>自動凍結</charactereditor.autofreeze>
+<charactereditor.limbpairediting>編輯肢體配對</charactereditor.limbpairediting>
+<charactereditor.animationtestpose>測試姿勢 [X]</charactereditor.animationtestpose>
+<charactereditor.animationtestposeenabled>測試姿勢已啟用</charactereditor.animationtestposeenabled>
+<charactereditor.automove>自動移動</charactereditor.automove>
+<charactereditor.followcursor>跟隨滑鼠</charactereditor.followcursor>
+<charactereditor.showcolliders>Colliders [C]</charactereditor.showcolliders>
+<charactereditor.editbackgroundcolor>編輯背景色彩</charactereditor.editbackgroundcolor>
+<charactereditor.savebutton>全部儲存</charactereditor.savebutton>
+<charactereditor.allanimationssaved>已儲存所有動畫</charactereditor.allanimationssaved>
+<charactereditor.ragdollsavedto>已儲存Ragdoll至 [path]</charactereditor.ragdollsavedto>
+<charactereditor.charactersavedto>已儲存角色設定檔至 [path]</charactereditor.charactersavedto>
+<charactereditor.resetbutton>重置</charactereditor.resetbutton>
+<charactereditor.saveragdoll>儲存Ragdoll</charactereditor.saveragdoll>
+<charactereditor.providefilename>請為檔案命名</charactereditor.providefilename>
+<charactereditor.loadragdoll>讀取Ragdoll</charactereditor.loadragdoll>
+<charactereditor.couldntopendirectory>無法開啟路徑 [folder]!</charactereditor.couldntopendirectory>
+<charactereditor.ragdolldeletedfrom>已刪除於 [file] 的Ragdoll</charactereditor.ragdolldeletedfrom>
+<charactereditor.ragdollloadedfrom>已自 [file] 讀取Ragdoll</charactereditor.ragdollloadedfrom>
+<charactereditor.saveanimation>儲存動畫</charactereditor.saveanimation>
+<charactereditor.selectanimationtype>選擇動畫類型</charactereditor.selectanimationtype>
+<charactereditor.animationoftypesavedto>[type] 類型動畫已儲存至 [path]</charactereditor.animationoftypesavedto>
+<charactereditor.loadanimation>讀取動畫</charactereditor.loadanimation>
+<charactereditor.animationoftypedeleted>已刪除於 [file] 的 [type] 類型動畫</charactereditor.animationoftypedeleted>
+<charactereditor.animationtypenotimplemented>不存在 [type] 類型動畫！</charactereditor.animationtypenotimplemented>
+<charactereditor.animationoftypeloaded>已讀取來自 [file] 的 [type] 類型動畫</charactereditor.animationoftypeloaded>
+<charactereditor.reloadtextures>重新讀取貼圖</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>重新建立Ragdoll [F5]</charactereditor.recreateragdoll>
+<charactereditor.recreateragdolltooltip>多種參數需要重新建立Ragdoll。若有參數在調整後沒有發生變化，請點擊此按鈕。</charactereditor.recreateragdolltooltip>
+<charactereditor.createnewcharacter>建立新角色</charactereditor.createnewcharacter>
+<charactereditor.copycharacter>複製角色</charactereditor.copycharacter>
+<charactereditor.copycharactertooltip>複製當前角色</charactereditor.copycharactertooltip>
+<charactereditor.nofieldforparameterfound>找不到[parameter]參數欄位！</charactereditor.nofieldforparameterfound>
+<charactereditor.holdleftalttoadjustcyclespeed>使用左Alt鍵調整循環速度</charactereditor.holdleftalttoadjustcyclespeed>
+<charactereditor.cyclespeed>循環速度</charactereditor.cyclespeed>
+<charactereditor.movementspeed>移動速度</charactereditor.movementspeed>
+<charactereditor.headangle>頭部角度</charactereditor.headangle>
+<charactereditor.head>頭部</charactereditor.head>
+<charactereditor.headposition>頭部位置</charactereditor.headposition>
+<charactereditor.torsoangle>軀幹角度</charactereditor.torsoangle>
+<charactereditor.torso>軀幹</charactereditor.torso>
+<charactereditor.torsoposition>軀幹位置</charactereditor.torsoposition>
+<charactereditor.tailangle>尾巴角度</charactereditor.tailangle>
+<charactereditor.footangle>足部角度</charactereditor.footangle>
+<charactereditor.stepsize>步距</charactereditor.stepsize>
+<charactereditor.handmoveamount>手部移動量</charactereditor.handmoveamount>
+<charactereditor.tailmovementspeed>尾巴移動速度</charactereditor.tailmovementspeed>
+<charactereditor.tailmovementamount>尾巴移動量</charactereditor.tailmovementamount>
+<charactereditor.legmovementspeed>足部移動速度</charactereditor.legmovementspeed>
+<charactereditor.legmovementamount>足部移動量</charactereditor.legmovementamount>
+<charactereditor.handmovementamount>手部移動量</charactereditor.handmovementamount>
+<charactereditor.holdleftalttomanipulatejoint>使用左Alt鍵調整調整關節的另一端</charactereditor.holdleftalttomanipulatejoint>
+<charactereditor.origin>原點</charactereditor.origin>
+<charactereditor.position>位置: [coordinates]</charactereditor.position>
+<charactereditor.size>大小</charactereditor.size>
+<charactereditor.upperlimit>上限</charactereditor.upperlimit>
+<charactereditor.lowerlimit>下限</charactereditor.lowerlimit>
+<charactereditor.defaultname>Character X</charactereditor.defaultname>
+<charactereditor.ishumanoid>是類人生物？</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>可進入潛艇？</charactereditor.canentersubmarines>
+<charactereditor.canwalk>可步行？</charactereditor.canwalk>
+<charactereditor.configfileoutput>輸出設定檔</charactereditor.configfileoutput>
+<charactereditor.texturepath>貼圖位址</charactereditor.texturepath>
+<charactereditor.selecttexture>選擇貼圖</charactereditor.selecttexture>
+<charactereditor.contentpackagename>內容套件名稱</charactereditor.contentpackagename>
+<charactereditor.texturedoesnotexist>貼圖檔案不存在！</charactereditor.texturedoesnotexist>
+<charactereditor.defineragdoll>定義Ragdoll</charactereditor.defineragdoll>
+<charactereditor.limbs>肢體</charactereditor.limbs>
+<charactereditor.limb>肢體</charactereditor.limb>
+<charactereditor.joints>關節</charactereditor.joints>
+<charactereditor.joint>關節</charactereditor.joint>
+<charactereditor.selectfile>選擇檔案</charactereditor.selectfile>
+<charactereditor.missingtorsoorhead>需要定義至少一個肢體為軀幹或頭部！</charactereditor.missingtorsoorhead>
+<charactereditor.missinglimbtype>需要定義至少一個肢體為[limbtype]！</charactereditor.missinglimbtype>
+<charactereditor.charactercreated>已建立 [name] 角色</charactereditor.charactercreated>
+<charactereditor.limbtype>肢體類型</charactereditor.limbtype>
+<charactereditor.sourcerectangle>來源矩形</charactereditor.sourcerectangle>
+<charactereditor.id>Identifier</charactereditor.id>
+<charactereditor.limbwithindex>肢體 [index]</charactereditor.limbwithindex>
+<charactereditor.limbwithindexanchor>肢體 [index] 錨點</charactereditor.limbwithindexanchor>
+<charactereditor.failedtoreadhtml>角色編輯器介面: 無法讀取位於 [path] 的 HTML檔案</charactereditor.failedtoreadhtml>
+<charactereditor.multipleitemswithsamehierarchy>發現複數擁有相同 [hierarchy] 層級的物件 ([name])。無法繼續。</charactereditor.multipleitemswithsamehierarchy>
+<charactereditor.cannoteditvanillacharacters>無法對存在於 "Vanilla" 內容套件中的角色！若要進行編輯，可以建立該角色的副本 (在其他內容套件中)。</charactereditor.cannoteditvanillacharacters>
+<charactereditor.existingcharacterfoundreplaceverification>此內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (將遺失原始檔案)？</charactereditor.existingcharacterfoundreplaceverification>
+<charactereditor.existingcharacterfoundoverrideverification>其他內容套件中已有相同名稱的角色存在。是否建立並覆蓋 (不會遺失原始檔案)？</charactereditor.existingcharacterfoundoverrideverification>
+<charactereditor.existingcharacterfound>已有相同名稱的角色存在。</charactereditor.existingcharacterfound>
+<charactereditor.modespanel>編輯</charactereditor.modespanel>
+<charactereditor.fileeditpanel>檔案</charactereditor.fileeditpanel>
+<charactereditor.optionspanel>選項</charactereditor.optionspanel>
+<charactereditor.characterpanel>角色</charactereditor.characterpanel>
+<charactereditor.toolspanel>工具</charactereditor.toolspanel>
+<charactereditor.minormodestitle>顯示</charactereditor.minormodestitle>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<charactereditor.addaitarget>添加目標</charactereditor.addaitarget>
+<charactereditor.addbloodemitter>添加血液發射器</charactereditor.addbloodemitter>
+<charactereditor.addgibemitter>添加內臟發射器</charactereditor.addgibemitter>
+<charactereditor.adddamageemitter>添加傷害發射器</charactereditor.adddamageemitter>
+<charactereditor.addsound>添加音效</charactereditor.addsound>
+<charactereditor.addlightsource>添加光線</charactereditor.addlightsource>
+<charactereditor.addattack>添加攻擊</charactereditor.addattack>
+<charactereditor.addaffliction>添加效果</charactereditor.addaffliction>
+<charactereditor.adddamagemodifier>添加傷害修改器</charactereditor.adddamagemodifier>
+<charactereditor.addinventory>添加物品欄</charactereditor.addinventory>
+<charactereditor.addinventoryitem>添加物品欄物品</charactereditor.addinventoryitem>
+<charactereditor.selected>已選取</charactereditor.selected>
+<charactereditor.duplicatelimb>複製肢體</charactereditor.duplicatelimb>
+<charactereditor.deleteselected>刪除所選</charactereditor.deleteselected>
+<charactereditor.createjoint>建立關節</charactereditor.createjoint>
+<charactereditor.createlimb>建立肢體</charactereditor.createlimb>
+<charactereditor.drawlimbonspritesheet>於Spritesheet上繪製肢體</charactereditor.drawlimbonspritesheet>
+<charactereditor.onlyshowselectedlimbs>僅顯示所選肢體</charactereditor.onlyshowselectedlimbs>
+<charactereditor.newcontentpackage>新內容套件</charactereditor.newcontentpackage>
+<charactereditor.existingjointfound>肢體 [limbid1] 和 [limbid2] 之間已有關節！</charactereditor.existingjointfound>
+<charactereditor.unrestrict>無限制</charactereditor.unrestrict>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<charactereditor.contentpackagenameinuse>已有相同名稱的內容套件存在。請使用其他名稱或自下拉選單中選擇該內容套件並將角色加入其中。</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+
+<!-- Entity properties -->
+<sp.scale.name>縮放</sp.scale.name>
+<sp.spritedepth.name>Sprite深度</sp.spritedepth.name>
+<sp.disallowedupgrades.name>禁用的升級</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>在遊戲進行時隱藏</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>在遊戲進行時隱藏</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>不可互動</sp.item.noninteractable.name>
+<sp.item.spritecolor.name>Sprite色彩</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>物品欄圖示色彩</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>容器色彩</sp.item.containercolor.name>
+<sp.item.containercolor.description>改變此物品容器的顏色，只在容器的 UseContainedSpriteColor 或 UseContainedInventoryIconColor 參數為 True 時有效。</sp.item.containercolor.description><!--parameter where?-->
+<sp.item.condition.name>耐久值</sp.item.condition.name>
+<sp.item.tags.name>Tags</sp.item.tags.name>
+<sp.item.displaysidebysidewhenlinked.name>與連結的物件並列顯示</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>若想要在互動時讓已連結物件的介面同時顯示在遊戲畫面中，請啟用這個選項。注意: 若物件介面在設計上不適合同時顯示，它們可能會遮住彼此！</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Sprite深度</sp.item.spritedepth.name>
+<sp.item.nonplayerteaminteractable.name>非玩家隊伍可進行互動</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>啟用後此物品將只能由非玩家隊伍角色進行互動。</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>允許替換</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>此物品能否在哨站上替換為其他物品？僅對砲塔等可替換物品有效。</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>不受傷害</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>啟用時，該物品不會受到來自任何來源的傷害。</sp.item.invulnerabletodamage.description>
+<sp.structure.indestructible.name>不可摧毀</sp.structure.indestructible.name>
+<sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
+<sp.structure.spritecolor.name>Sprite色彩</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>使用投放陰影</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>投放陰影偏移</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>投放陰影與結構配件的相對位置，若設為 0，投放陰影將自動朝向潛艇的中心點投射。</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>貼圖大小</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>貼圖位移</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>僅在連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>此選項將使此結構在成為與其他哨站模組連結的接點時，僅在遇到門的條件下移除此結構。否則此結構一旦只要成為與其它哨站模組連結的接點時就會遭到移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
+<sp.structure.noaitarget.name>不為AI目標</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>啟用時，怪物不會嘗試破壞此結構。</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>最大生命值</sp.structure.maxhealth.name>
+<sp.hull.ambientlight.name>環境光</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>艙房名稱</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>是潮濕艙房</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>此 Hull 是否會常態性進水？若艙房名稱包含 "ballast (壓載艙)"、"bilge (底艙)"、或 "airlock (氣閘)" 則此選項將無法取消。</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>避免逗留</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Bot會避免在此逗留，但若有必要他們依然會被允許進入和通過。在設定是潮濕艙房時則強制啟用。</sp.hull.avoidstaying.description>
+<sp.door.openingspeed.name>開啟速度</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>門開啟的速度。</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>關閉速度</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>門關上的速度。</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>切換冷卻</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>這扇門被一個角色打開/關閉無法在此時間內再度被打開/關閉。</sp.door.togglecooldown.description>
+<sp.door.isopen.name>為Open</sp.door.isopen.name>
+<sp.door.isopen.description>這扇門當下是否為開啟狀態。</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>在哨站模組之間使用</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>這扇門是否通往其他哨站模組？僅影響哨站模組。</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Bot保持敞開</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>啟用時，Bots將不會在通過後關上此門。</sp.door.botsshouldkeepopen.description>
+<sp.itemcomponent.pickingtime.name>拾取時間</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>撿起此物品需要的時間 (秒)。</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>可被拾取</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>物件是否能被撿起 (或當撿起動作在這個物件上會產生其他效果時，可否與其進行互動)。</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>允許遊戲中編輯</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>此元件的屬性能否在遊戲進行中被編輯 (只在物件本身擁有可在遊戲中被編輯的數值時有效)。</sp.itemcomponent.allowingameediting.description>
+<sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
+<sp.itemcomponent.msg.description>當滑鼠游標漂浮於物件上時所顯示的一段訊息 (通常用於標註與物件的互動方式，例如: [Mouse1] 撿起)。</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>物件產生的電擊自其本身擴散的範圍。</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>牆體擴散範圍</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>產生的電擊能夠沿著牆壁進一步擴散的距離。</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>持續時間</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>單次放電的持續時間 (秒)。</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>只在艙外</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>啟用時，產生的電擊將無法傳達進入艙內或傷害位於艙內的角色。</sp.electricaldischarger.outdoorsonly.description>
+<sp.powered.minvoltage.name>最低電壓</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>這個物件運作時所需的最低電壓。遊戲中電壓的計算方式為 供電量/耗電量，若"耗電量"為1000 kW，而"最低電壓"為0.5時，則需要對物件提供至少500 kW的電力才能使其開始運作。</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>耗電量</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>這個物件運作時消耗 (或嘗試消耗) 的電量。</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>能受EMP影響</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>物件能否受到電磁脈衝的影響？</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>物品識別字</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>用於生成物品的識別字 (Identifier)；若 "生物名稱" 已有設定時則沒有效果。能夠以半形逗號分隔隨機產生多種物品。</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>生物名稱</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>用於產生生物；將優先於 "物品識別字" 的設定效果。能夠以半形逗號分隔隨機產生多種生物。</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>僅在船員於範圍內時產生</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>僅會在船員接近一定範圍內產生。</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>船員範圍形狀</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>船員需要處在其中的範圍形狀。</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>船員區域範圍</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>船員必須處於其中的矩形範圍大小。若"船員範圍形狀"為 Circle 時無效。</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>船員區域半徑</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>船員必須處於其中的圓形範圍半徑。若"船員範圍形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.crewarearadius.description><!--source error?-->
+<sp.entityspawnercomponent.crewareaoffset.name>船員區域位移</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>以物件中心點為基準的船員範圍位移量。</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>產生區域形狀</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>產生物品或生物的範圍形狀。</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>產生區域範圍</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>產生物品或生物的圓形範圍大小。若"產生區域形狀"為 Circle 時無效。</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>產生區域半徑</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>產生物品或生物的圓形範圍半徑。若"產生區域形狀"為 Rectangle 時無效。</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>產生區域位移</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>以物件中心點為基準的產生區域位移量。</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>產生時間範圍</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>嘗試產生的間隔秒數。將兩項目設為負數值來停用自動產生。</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>產生數量範圍</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>單次產生物品或生物的最大與最小數量。</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>最多數量</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>最多能夠產生的物品或生物數量。0 = 沒有限制。</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>區域內最多數量</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>產生區域內達此物品或生物數量時將不再產生。0 = 沒有限制。</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>最大值緩衝範圍</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>以此值將計算物品或敵人最大數量的矩形或圓形範圍擴大。</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.holdable.holdpos.name>握持位置</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>角色裝備物件時拿著它的位置 (以像素為單位，以角色的肩膀為基準)，若設為 10,-100 則物件將會被角色拿在距離其期肩膀下方100像素、前方10像素的位置。</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>握持角度</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>角色裝備物件時它的角度 (以角度為單位，以角色的手為基準的旋轉角度)。</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>擺動量</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>瞄準/握住物品時，物品的擺動程度 (以像素為單位，以 "瞄準位置/握持位置" 為基準進行移動的量)。</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>擺動速度</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>瞄準/握住物品時的擺動速度 (只在 "揮舞量" 有數值時有效)。</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>握持時擺動</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>角色裝備物件時是否揮舞它。</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>瞄準時擺動</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>以物件進行瞄準時是否揮舞它。</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>使用時擺動</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>使用物件時是否揮舞它 (像是以遠程武器或焊接工具開火時)。</sp.holdable.swingwhenusing.description>
+<sp.holdable.disableheadrotation.name>停用頭部旋轉</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>掉落時Sprite深度</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>當物品未裝設於牆上時的Sprite深度。</sp.holdable.spritedepthwhendropped.description>
+<sp.itemcontainer.containablerestrictions.name>可容納限制</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>用以定義Bot不可放進其中的物品 (透過 Identifier 或 Tag)，若為空白則沒有限制。</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>自動填充</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>這個容器是否自動被物品填充？</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>文字</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>顯示於標識上的文字。</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>忽略當地語系化</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>是否忽略忽略當地語系化並總是顯示原始值。</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>標識上所顯示文字的色彩 (R,G,B,A)。</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>標識上所顯示文字的縮放。</sp.itemlabel.textscale.description>
+<sp.lightcomponent.range.description>燈光的照射範圍。數值愈高，對遊戲的效能影響愈大。</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>投射陰影</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>當結構配件受到此光線照射時是否會產生陰影。關閉這個選項將改善遊戲效能，建議小範圍燈光停用此選項。設為 "顯示在潛艇之後" 的燈光不會投射任何陰影，且不受到此選項影響。</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>顯示在潛艇之後</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>顯示在潛艇之後的燈光不會投射任何陰影，能夠更快地被顯示。建議潛艇外的裝飾性燈光啟用這個選項。</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.ison.description>這個燈光當下為On。</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>閃爍</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>燈光閃爍的程度。0 = 沒有閃爍、1 = 燈光將在最大亮度與完全無光之間交替。</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>閃爍速度</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>燈光閃爍的速度。</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>脈衝頻率</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>燈光進行脈衝的頻率 (Hz)。0 = 不動作。</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>脈衝量</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>燈光進行脈衝的程度 (Hz)。0 = 不動作、1 = 在最大亮度與完全無光之間交替。</sp.lightcomponent.pulseamount.description>
+<sp.lightcomponent.blinkfrequency.name>開關頻率</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
+<sp.controller.istoggle.description>啟用時，物品將持續發送0/1訊號，與其互動將翻轉訊號 (使物品如開關一般作動)。停用時，物品僅在互動當下發送訊號1。</sp.controller.istoggle.description>
+<sp.controller.state.name>狀態</sp.controller.state.name>
+<sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
+<sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>推進器位置</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>以物件中心點為基準的推進器位置 (以像素為單位)。用以定義產生粒子和角色受到推進器傷害的位置。</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>停用推進器傷害</sp.engine.disablepropellerdamage.name>
+<sp.minimap.requirewaterdetectors.name>需要水體偵測器</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>此設備是否需要透過水體偵測器的輸入才能顯示艙房內的水位。</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>需要氧氣偵測器</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>此設備是否需要透過氧氣偵測器的輸入才能顯示艙房內的氧氣狀態。</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>顯示船體完整性</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>此設備是否顯示牆體損傷。</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>顯示船體狀態</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>啟用船體狀態模式。</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>啟用電氣視圖</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>啟用電氣視圖模式。</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>啟用物品搜索器</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>啟用物品搜索器模式。</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>最大流量</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>抽水機以100%將水打入/抽出的速度。</sp.pump.maxflow.description>
+<sp.reactor.maxpoweroutput.name>最大輸出功率</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>反應爐全力運轉時的最大輸出功率 (kW)。</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>熔毀延遲時間</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>臨界溫度持續多久才會使反應爐熔毀。</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>起火延遲時間</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>臨界溫度持續多久才會使反應爐起火。</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>燃料消耗率</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>置於當中的燃料棒每秒被消耗的量。</sp.reactor.fuelconsumptionrate.description>
+<sp.reactor.explosiondamagesothersubs.name>爆炸對於其他潛艇造成的傷害</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>使用聲納發射器</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>此聲納是否需要外接聲納發射器。</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>以聲納發射器為中心</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>聲納畫面是否以潛艇或以聲納發射器為畫面中心點。僅在"以聲納發射器為中心"啟用時有效。</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>有礦物偵測器</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>此聲納是否有礦物偵測模式。</sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>壓載艙中立水位</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>當潛艇未進行上浮/下潛時壓載艙的水位。能用於彌補壓載艙尺寸相對於潛艇過大/過小的情形。</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW)。</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>此設備的最大容量 (kW * 分鐘)。若為 1000 則此設備將能夠輸出100 kW的電力10分鐘，或 1000 kW的電力1分鐘。</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.description>此設備當下的電量。</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>最大充電率</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>此設備的最大充電速度。若設為 100 kW，而設備容量為 1000 kW時，則將耗費10分鐘才能使此設備完全充飽電力。</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>充電率</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>此設備當下的充電速度。</sp.powercontainer.rechargespeed.description>
+<sp.powercontainer.efficiency.name>效率</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>能自物品取得的電量與輸入其中電量的比例。</sp.powercontainer.efficiency.description><!--need edit-->
+<sp.PowerContainer.FlipIndicator.name>反轉進度條</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>進度條是否自另一端開始發展。</sp.PowerContainer.FlipIndicator.description>
+<sp.powertransfer.canbeoverloaded.name>能被超載</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>物件能否在電網被供給過多電力時受到損害。</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>超載電壓</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>當物件在電網被供給高於其負載的多少電力時受到損害，若設為 2 則為電網負載的兩倍。</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>起火機率</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>當物件受到電力損害時起火的機率。</sp.powertransfer.fireprobability.description>
+<sp.quality.qualitylevel.name>品質等級</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>劣化速度</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>設備狀態自然劣化的速度 (秒)。</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>最短劣化延遲</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>設備開始自然劣化前的最短時間。</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>最長劣化延遲</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>設備開始自然劣化前的最長時間。</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>劣化最低耐久值</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>設備耐久值低於此後將不再劣化。若設為 10，其耐久值將自然地降至10並停止 (除非進一步受到來自外部的損害)。為最大耐久值的百分比。</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>維修臨界點</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>設備耐久值必須在此值以下才能被修復。為最大耐久值的百分比。</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>低技能修復時間</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>在技能水準不足的情況下修復物品所需的時間。</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>高技能修復時間</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>在技能水準足夠的情況下修復物品所需的時間。</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>槍管旋轉</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>槍管的旋轉角度。</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>訊號</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>按下相應按鈕時所輸出的值。</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>啟動物品</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>當放有包含特定識別字 (Identifier) 或標籤 (Tag)的物品之後允許使用終端按鈕。能以半形逗號分隔多個。</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>鎖定</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>鎖定的配線盤無法在遊戲進行時對它進行配線。</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>最大輸出長度</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>可被寫入</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>儲存在Memory元件中的數值能透過收到訊號而改變。</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>忽略已死亡</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>偵測器是否忽略角色的屍體？</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>水平偵測範圍。</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>垂直偵測範圍。</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>偵測範圍位移</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>偵測範圍與物件本身的相對位置。若設為 0,100 則偵測範圍將位於距離物件上方 100 單位的位置。</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>更新間隔</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>偵測器檢查周遭是否有物件移動的間隔時間。數值愈高對遊戲效能影響愈低。</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>物件偵測到動態時所輸出的值。</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的值。</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s)。</sp.motionsensor.minimumvelocity.description>
+<sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>首次打開終端時所顯示的訊息。</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>使用Monospace字體</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>若啟用，此終端將使用Monospace字體。</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>文字色彩</sp.textcolor.name>
+<sp.terminal.textcolor.description>終端的文字色彩。</sp.terminal.textcolor.description>
+<sp.range.name>範圍</sp.range.name>
+<sp.wificomponent.range.description>接收者要多近才能收到此Wifi元件的訊號。</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>允許跨團隊通訊</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>此元件能否與另一隊伍潛艇中的Wifi元件進行通訊 (如復活小艇或戰鬥任務中的敵方潛艇)。輸出和輸入方元件都必須啟用此選項。</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>連接至聊天</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>啟用時，也對持有該物品的玩家顯示來自任何連接至聊天的Wifi元件訊號為聊天室訊息。</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>最短聊天訊息間隔</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>訊息之間需要經過多長秒數之後才會顯示於聊天室。不建議將數值設定過低，若有與聊天連接的Wifi元件連續輸出訊號，這將產生大量聊天訊息。</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>捨棄重複的聊天訊息</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>啟用時，此元件將僅在所收到訊號改變時才會發送聊天訊息。</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>不自動鎖定</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>啟用時，這條電線將不受到"固定所有預設線路"設定影響。</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>使用Sprite深度</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>啟用時，這條電線將使用Sprite深度而非固定深度。</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>施加於觸發者的最大力道。</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>基於距離的力</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>用以定義力是否隨著觸發者與被觸發物中心點的距離接近而變大。</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>浮動的力</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>用以定義力將隨時間發生變化或保持穩定。</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>HUD色調</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>操作砲塔時的覆蓋遊戲畫面的顏色 (R,G,B,A)。</sp.turret.hudtint.description>
+<sp.turret.reload.name>裝彈時間</sp.turret.reload.name>
+<sp.turret.reload.description>在兩次射擊之間需要等待的時間。</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>連發彈數</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>在多少子彈被發射之後觸發的額外等待時間 (如雙管電磁槍)。</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>連發延遲</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>連發之間的額外延遲。與裝彈時間疊加。</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>復位持續時間倍率</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>修改槍管受到後座力移動後回復原位所需的時間。裝彈時間也對此數值造成影響。</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>後座力時間</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>開火後後座力移動槍管的速度。</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>復位延遲</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>槍管受到後座力移動後回復原位前的靜止時間。</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>旋轉範圍</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>砲塔的旋轉範圍。</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>低技能晃動力量</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>技能水準不足的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>高技能晃動力量</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>技能水準足夠的角色在操作砲塔時，砲塔旋轉時的扭力。數值愈高，砲塔的旋轉加速度愈快。</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>低技能晃動阻尼</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>技能水準不足的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>高技能晃動阻尼</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>技能水準足夠的角色在操作砲塔時，砲塔停止自身轉動的扭力。數值愈高，砲塔在瞄準時的晃動愈少。</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>低技能旋轉速度</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>技能水準不足的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>技能水準足夠的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
+<sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>對接時是否觸發 OnUse StatusEffects (預設的對接艙口效果將發射粒子並撥放音效)。</sp.dockingport.applyeffectsondocking.description><!--need edit-->
+<sp.dockingport.forcedockingdirection.name>強制對接方向</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>允許的對接方向。若為 "Top" 則此艙口將能與其上方的另一艙口對接。通常此選項不需要特別設定，但若對接時位置不正確 (例如對接艙口未使用門或牆體的特殊配置)，能以此強制設定對接方向。</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>擺動</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>擺動位置</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>擺動力道</sp.meleeweapon.swingforce.name>
+<sp.propulsion.force.name>力道</sp.propulsion.force.name>
+<sp.propulsion.force.description>施加至使用者身上的力道。</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>氧氣製造量</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>在此設備全力運轉時能夠產生的氧氣量。</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>條件滿足時所輸出的值。</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>條件滿足時所輸出的值 (若為空白則不輸出訊號)。</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>此物件延後訊號通過的時間 (秒)。</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>物件是否在收到新的值後清除上一次收到的值。</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>物件是否在收到的訊號發生變化時清除先前收到的訊號。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>連續輸出</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>物件輸出的訊號種類。Pulse: 週期性地以脈衝輸出 1、Sine: 週期性地以曲線波型輸出在 -1 與 1 之間擺盪的數值、Square: 週期性地切換輸出 0 或 1、Sawtooth: 週期性地以鋸齒波型輸出由 0 直線發展至 1 並立刻切換回 0 的數值、Triangle: 週期性地以三角波型輸出在 -1 與 1 之間來回的數值。</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>頻率</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>訊號的震盪速度或進行脈衝的頻率 (Hz)。</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>最大電力</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>能夠通過此物件的最大電力。</sp.relaycomponent.maxpower.description>
+<sp.ison.name>為On</sp.ison.name>
+<sp.relaycomponent.ison.description>此繼電器當下能否讓電力和訊號通過。</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>當物件收到與目標訊號相符的值時所輸出的值。</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>當物件收到與目標訊號不符的值時所輸出的值。</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>用以與所收到訊號進行比較的值。</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>最大輸出長度</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>此物品在水中時發送的訊號。</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>此物品不在水中時發送的訊號。</sp.waterdetector.falseoutput.description>
+
+<!-- Entity names -->
+<entityname.hull>Hull</entityname.hull>
+<entitydescription.hull>Hull 用於定義潛艇的 "內部空間"，普遍來說作為艙房的空間都會置於 Hull 的範圍之內。</entitydescription.hull>
+<entityname.gap>Gap</entityname.gap>
+<entitydescription.gap>Gap 允許空氣與水在 Hull 之間流動。</entitydescription.gap>
+<entityname.waypoint>Waypoint</entityname.waypoint>
+<entitydescription.waypoint>使AI角色能夠在潛艇內移動。</entitydescription.waypoint>
+<entityname.spawnpoint>Spawnpoint</entityname.spawnpoint>
+<entitydescription.spawnpoint>控制船員生成的位置。</entitydescription.spawnpoint>
+
+<!-- Structure names -->
+<entityname.horizontalresizablewindow>水平窗戶 可調</entityname.horizontalresizablewindow>
+<entityname.verticalresizablewindow>垂直平窗戶 可調</entityname.verticalresizablewindow>
+<entityname.ff_x_wall>大型水平內牆</entityname.ff_x_wall>
+<entityname.ff_x_wall_cables>大型水平內牆 帶電纜</entityname.ff_x_wall_cables>
+<entityname.ff_y_wall>大型垂直內牆</entityname.ff_y_wall>
+<entityname.inwalll90cables>大型垂直內牆 帶電纜</entityname.inwalll90cables>
+<entitydescription.resizeablewallwithcollisiondetection>一面帶有碰撞的可縮放大型牆壁。</entitydescription.resizeablewallwithcollisiondetection>
+<entityname.inwalllcaph1>大型內牆帽 H1</entityname.inwalllcaph1>
+<entityname.inwalllcaph2>大型內牆帽 H2</entityname.inwalllcaph2>
+<entityname.inwalllcaph3>大型內牆帽 H3</entityname.inwalllcaph3>
+<entityname.inwalllcapy1>大型內牆帽 V1</entityname.inwalllcapy1>
+<entityname.inwalllcapy2>大型內牆帽 V2</entityname.inwalllcapy2>
+<entityname.inwalllcapy4>大型內牆帽 V4</entityname.inwalllcapy4>
+<entityname.inwallltieh1>大型內牆結 H1</entityname.inwallltieh1>
+<entityname.inwallltieh2>大型內牆結 H2</entityname.inwallltieh2>
+<entityname.inwallltieh3>大型內牆結 H3</entityname.inwallltieh3>
+<entityname.inwallltiev1>大型內牆結 V1</entityname.inwallltiev1>
+<entityname.inwallltiev2>大型內牆結 V2</entityname.inwallltiev2>
+<entityname.inwallltiev3>大型內牆結 V3</entityname.inwallltiev3>
+<entitydescription.wallcap>一個牆體末端或交叉處使用的裝飾性結構配件。</entitydescription.wallcap>
+<entityname.ff_wall_b>壓載艙背景牆 A1</entityname.ff_wall_b>
+<entityname.ff_wall_bp>壓載艙背景牆 A2</entityname.ff_wall_bp>
+<entityname.bwbc>壓載艙背景牆 C</entityname.bwbc>
+<entityname.ff_wall_c1>背景牆 C1</entityname.ff_wall_c1>
+<entityname.ff_wall_c2>背景牆 C2</entityname.ff_wall_c2>
+<entityname.ff_wall_c3>背景牆 C3</entityname.ff_wall_c3>
+<entityname.ff_wall_d1>背景牆 D1</entityname.ff_wall_d1>
+<entityname.ff_wall_d2>背景牆 D2</entityname.ff_wall_d2>
+<entityname.ff_wall_d3>背景牆 D3</entityname.ff_wall_d3>
+<entityname.ff_wall_e>背景牆 E</entityname.ff_wall_e>
+<entityname.ff_wall_e2>背景牆 E2</entityname.ff_wall_e2>
+<entityname.ff_wall_g1>背景牆 G1</entityname.ff_wall_g1>
+<entityname.ff_wall_g2>背景牆 G2</entityname.ff_wall_g2>
+<entityname.ff_wall_g3>背景牆 G3</entityname.ff_wall_g3>
+<entityname.ff_wall_h1>背景牆 H1</entityname.ff_wall_h1>
+<entityname.bgorangepanels>橘色板塊背景牆</entityname.bgorangepanels>
+<entityname.bgorangepanelwindow>橘色板塊背景牆 窗戶</entityname.bgorangepanelwindow>
+<entityname.bgpanels>板塊背景牆</entityname.bgpanels>
+<entityname.bgpanelswindow>背景牆 窗戶</entityname.bgpanelswindow>
+<entityname.PipesBackground>背景牆 管道</entityname.PipesBackground>
+<entityname.roughbgwall>粗糙背景牆</entityname.roughbgwall>
+<entityname.cleanbgwall>乾淨背景牆</entityname.cleanbgwall>
+<entitydescription.backgroundwall>一個裝飾性背景牆。</entitydescription.backgroundwall>
+<entityname.exta_tail>尾翼 舊 A</entityname.exta_tail>
+<entitydescription.tailwithcollision>帶有碰撞的潛艇尾翼配件。</entitydescription.tailwithcollision>
+<entityname.tailfina>尾翼 A</entityname.tailfina>
+<entityname.tailfinb>尾翼 B</entityname.tailfinb>
+<entityname.tailfinc>尾翼 C</entityname.tailfinc>
+<entityname.tailfind>尾翼 D</entityname.tailfind>
+<entityname.tailfind2p1>尾翼 D2 P1</entityname.tailfind2p1>
+<entityname.tailfind2p2>尾翼 D2 P2</entityname.tailfind2p2>
+<entityname.tailfind2p3>尾翼 D2 P3</entityname.tailfind2p3>
+<entityname.tailfind3p1>尾翼 D3 P1</entityname.tailfind3p1>
+<entityname.tailfind3p2>尾翼 D3 P2</entityname.tailfind3p2>
+<entityname.tailfind3p3>尾翼 D3 P3</entityname.tailfind3p3>
+<entityname.tailfinep1>尾翼 E P1</entityname.tailfinep1>
+<entityname.tailfinep2>尾翼 E P2</entityname.tailfinep2>
+<entityname.tailfinfp3>尾翼 E P3</entityname.tailfinfp3>
+<entityname.tailfinf1>尾翼 F1</entityname.tailfinf1>
+<entityname.tailfinf2>尾翼 F2</entityname.tailfinf2>
+<entityname.tailfinf3>尾翼 F3</entityname.tailfinf3>
+<entityname.tailfinf4>尾翼 F4</entityname.tailfinf4>
+<entitydescription.tailnocollision>不帶碰撞的潛艇尾翼配件。</entitydescription.tailnocollision>
+<entityname.exta_front>潛艇船首 A</entityname.exta_front>
+<entityname.subfrontb>潛艇船首 B</entityname.subfrontb>
+<entityname.subfrontc>潛艇船首 C</entityname.subfrontc>
+<entityname.subfrontd>潛艇船首 D</entityname.subfrontd>
+<entityname.subfronte>潛艇船首 E</entityname.subfronte>
+<entityname.subfrontg1p1>潛艇船首 F 頂段</entityname.subfrontg1p1>
+<entityname.subfrontg1p2>潛艇船首 F 中段</entityname.subfrontg1p2>
+<entityname.subfrontg1p3>潛艇船首 F 底段</entityname.subfrontg1p3>  
+<entityname.subfrontg2p1>潛艇船首 G 頂段</entityname.subfrontg2p1>
+<entityname.subfrontg2p2>潛艇船首 G 中段</entityname.subfrontg2p2>
+<entityname.subfrontg2p3>潛艇船首 G 底段</entityname.subfrontg2p3>
+<entitydescription.frontwithcollision>帶碰撞的潛艇前端配件。</entitydescription.frontwithcollision>
+<entityname.frontfchaina1>前鏈 1</entityname.frontfchaina1>
+<entityname.frontfchaina2>前鏈 2</entityname.frontfchaina2>
+<entityname.frontpulley>前滑輪</entityname.frontpulley>
+<entityname.shellaboard0dega>水平金屬條 小</entityname.shellaboard0dega>
+<entityname.shellaboard0degb>水平金屬條 大</entityname.shellaboard0degb>
+<entityname.shellaboard90dega>垂直金屬條 小</entityname.shellaboard90dega>
+<entityname.shellaboard90degb>垂直金屬條 大</entityname.shellaboard90degb>
+<entityname.leftwall>基礎牆 左</entityname.leftwall>
+<entityname.LeftWallHeavy>重型牆 左</entityname.LeftWallHeavy>
+<entityname.rightwall>基礎牆 右</entityname.rightwall>
+<entityname.RightWallHeavy>重型牆 右</entityname.RightWallHeavy>
+<entityname.topwall>基礎牆 頂部</entityname.topwall>
+<entityname.TopWallHeavy>重型牆 頂部</entityname.TopWallHeavy>
+<entityname.shella90deg>外殼 A 90度</entityname.shella90deg>
+<entityname.shella16deg>外殼 A 16度</entityname.shella16deg>
+<entityname.shella34deg>外殼 A 34度</entityname.shella34deg>
+<entityname.shella0deg>外殼 A 0度</entityname.shella0deg>
+<entityname.shella04deg>外殼 A 4度</entityname.shella04deg>
+<entityname.shella14adeg>外殼 A 14度</entityname.shella14adeg>
+<entityname.shella52deg>外殼 A 52度</entityname.shella52deg>
+<entityname.shella16degb>外殼 A 16度 B</entityname.shella16degb>
+<entityname.shella25deg>外殼 A 25度</entityname.shella25deg>
+<entityname.shella45deg>外殼 A 45度</entityname.shella45deg>
+<entityname.shella32deg>外殼 A 32度</entityname.shella32deg>
+<entityname.shella14degb>外殼 A 14度 B</entityname.shella14degb>
+<entityname.shella43deg>外殼 A 43度</entityname.shella43deg>
+<entityname.shella51deg>外殼 A 51度</entityname.shella51deg>
+<entityname.shella47deg>外殼 A 47度</entityname.shella47deg>
+<entityname.shella60deg>外殼 A 60度</entityname.shella60deg>
+<entityname.shella18deg>外殼 A 18度</entityname.shella18deg>
+<entityname.shella70deg>外殼 A 70度</entityname.shella70deg>
+<entityname.shella90degcurve>外殼 A 90度 彎曲</entityname.shella90degcurve>
+<entityname.shella45degb>外殼 A 45度 B</entityname.shella45degb>
+<entityname.shella45degc>外殼 A 45度 A</entityname.shella45degc>
+<entityname.shella45degd>外殼 A 45度 B</entityname.shella45degd>
+<entityname.shella57deg>外殼 A 57度</entityname.shella57deg>
+<entityname.shella40deg>外殼 A 40度</entityname.shella40deg>
+<entityname.shella61deg>外殼 A 61度</entityname.shella61deg>
+<entityname.shella17deg>外殼 A 17度</entityname.shella17deg>
+<entityname.shella34degb>外殼 A 34度 B</entityname.shella34degb>
+<entityname.shella26deg>外殼 A 26度</entityname.shella26deg>
+<entityname.shella54deg>外殼 A 54度</entityname.shella54deg>
+<entityname.shella38deg>外殼 A 38度</entityname.shella38deg>
+<entityname.shella42deg>外殼 A 42</entityname.shella42deg>
+<entityname.shellacombo11>外殼 A 組合 1 1</entityname.shellacombo11>
+<entityname.shellacombo12>外殼 A 組合 1 2</entityname.shellacombo12>
+<entitydescription.exteriorshell>潛艇外牆。</entitydescription.exteriorshell>
+<entityname.shellacap0dega>外殼 A 牆帽 水平 弧形</entityname.shellacap0dega>
+<entityname.shellacap0degb>外殼 A 牆帽 水平 矩形</entityname.shellacap0degb>
+<entityname.shellacap90dega>外殼 A 牆帽 垂直 弧形</entityname.shellacap90dega>
+<entityname.shellacap90degb>外殼 A 牆帽 垂直 矩形</entityname.shellacap90degb>  
+<entityname.sshella01>小艇外殼 A01</entityname.sshella01>
+<entityname.sshella02>小艇外殼 A02</entityname.sshella02>
+<entityname.sshella04>小艇外殼 A04</entityname.sshella04>
+<entityname.sshella05>小艇外殼 A05</entityname.sshella05>
+<entityname.sshellaa06>小艇外殼 A06</entityname.sshellaa06>
+<entityname.sshella07>小艇外殼 A07</entityname.sshella07>
+<entityname.sshella08>小艇外殼 A08</entityname.sshella08>
+<entityname.sshella09>小艇外殼 A09</entityname.sshella09>
+<entityname.sshella10>小艇外殼 A10</entityname.sshella10>
+<entityname.sshella11>小艇外殼 A11</entityname.sshella11>
+<entityname.sshella14>小艇外殼 A14</entityname.sshella14>
+<entityname.sshella15a>小艇外殼 A15a</entityname.sshella15a>
+<entityname.sshella15b>小艇外殼 A15b</entityname.sshella15b>
+<entityname.sshella15c>小艇外殼 A15c</entityname.sshella15c>
+<entityname.sshella17a>小艇外殼 A17a</entityname.sshella17a>
+<entityname.sshella17b>小艇外殼 A17b</entityname.sshella17b>
+<entityname.sshella17c>小艇外殼 A17c</entityname.sshella17c>
+<entityname.sshella18>小艇外殼 A18</entityname.sshella18>
+<entityname.sshella19>小艇外殼 A19</entityname.sshella19>
+<entityname.sshella20>小艇外殼 A20</entityname.sshella20>
+<entityname.sshella21>小艇外殼 A21</entityname.sshella21>
+<entityname.sshella22>小艇外殼 A22</entityname.sshella22>
+<entityname.sshella23>小艇外殼 A23</entityname.sshella23>
+<entityname.sshella24>小艇外殼 A24</entityname.sshella24>
+<entityname.sshella25>小艇外殼 A25</entityname.sshella25>
+<entityname.sshella26>小艇外殼 A26</entityname.sshella26>
+<entityname.sshella27>小艇外殼 A27</entityname.sshella27>
+<entityname.sshella28>小艇外殼 A28</entityname.sshella28>
+<entityname.sshella30>小艇外殼 A30</entityname.sshella30>
+<entityname.sshella32b>小艇外殼 A32b</entityname.sshella32b>
+<entityname.sshella32c>小艇外殼 A32c</entityname.sshella32c>
+<entityname.sshella32d>小艇外殼 A32d</entityname.sshella32d>
+<entityname.sshella36>小艇外殼 A36</entityname.sshella36>
+<entityname.sshella37>小艇外殼 A37</entityname.sshella37>
+<entityname.sshella38>小艇外殼 A38</entityname.sshella38>
+<entityname.sshella39>小艇外殼 A39</entityname.sshella39>
+<entityname.sshella40>小艇外殼 A40</entityname.sshella40>
+<entityname.sshella41>小艇外殼 A41</entityname.sshella41>
+<entityname.sshellaglassa>小艇外殼 A 玻璃 A</entityname.sshellaglassa>
+<entityname.sshellaglassb>小艇外殼 A 玻璃 B</entityname.sshellaglassb>
+<entityname.sshellaglassc>小艇外殼 A 玻璃 C</entityname.sshellaglassc>
+<entityname.sshellaglassd>小艇外殼 A 玻璃 D</entityname.sshellaglassd>
+<entityname.sshellaglasse>小艇外殼 A 玻璃 E</entityname.sshellaglasse>
+<entityname.sshellaglassf>小艇外殼 A 玻璃 F</entityname.sshellaglassf>
+<entitydescription.exterior小艇shell>小艇外牆。</entitydescription.exterior小艇shell>
+<entityname.ventbendducta1>通風管彎曲 A1</entityname.ventbendducta1>
+<entityname.ventbendducta2>通風管彎曲 A2</entityname.ventbendducta2>
+<entityname.ventconnectora1>通風管連接器 A1</entityname.ventconnectora1>
+<entityname.ventconnectora2>通風管連接器 A2</entityname.ventconnectora2>
+<entityname.ventconnectora3>通風管連接器 A3</entityname.ventconnectora3>
+<entityname.ventconnectora4>通風管連接器 A4</entityname.ventconnectora4>
+<entityname.ventconnectora5>通風管連接器 A5</entityname.ventconnectora5>
+<entityname.ventconnectora6>通風管連接器 A6</entityname.ventconnectora6>
+<entityname.ventconnectora7>通風管連接器 A7</entityname.ventconnectora7>
+<entityname.ventconnectorcapa1>通風管連接器蓋 A1</entityname.ventconnectorcapa1>
+<entityname.ventconnectorcapa2>通風管連接器蓋 A2</entityname.ventconnectorcapa2>
+<entityname.ventducta1>通風管 A1</entityname.ventducta1>
+<entityname.ventducta190deg>通風管 A1 垂直</entityname.ventducta190deg>
+<entityname.ventducta2>通風管 A2</entityname.ventducta2>
+<entityname.ventducta290deg>通風管 A2 垂直</entityname.ventducta290deg>
+<entityname.ventductb1>通風管 B1</entityname.ventductb1>
+<entityname.ventductb190deg>通風管 B1 垂直</entityname.ventductb190deg>
+<entityname.ventductb290deg>通風管 B2 垂直</entityname.ventductb290deg>
+<entityname.ventductbendb1>通風管彎曲 B1</entityname.ventductbendb1>
+<entityname.ventductbendb2>通風管彎曲 B2</entityname.ventductbendb2>
+<entityname.ventductfana>通風管 Fan A</entityname.ventductfana>
+<entityname.ventductlongb2>通風管 B2</entityname.ventductlongb2>
+<entityname.ventductreducerb>通風管減徑管 B</entityname.ventductreducerb>
+<entityname.ventductreducerb90deg>通風管減徑管 B 垂直</entityname.ventductreducerb90deg>
+<entityname.ventlargeductreducera>通風管大減徑管 A</entityname.ventlargeductreducera>
+<entityname.ventlargeductreducera1>通風管中減徑管 A1</entityname.ventlargeductreducera1>
+<entityname.ventlargeductreducera2>通風管中減徑管 A2</entityname.ventlargeductreducera2>
+<entityname.ventlargepipebenda1>通風圓管彎曲 A1</entityname.ventlargepipebenda1>
+<entityname.ventmediumpipebenda1>通風圓管彎曲 A1</entityname.ventmediumpipebenda1>
+<entityname.ventpipea1>通風圓管 A1</entityname.ventpipea1>
+<entityname.ventpipea190deg>通風圓管 A1 垂直</entityname.ventpipea190deg>
+<entityname.ventpipea2>通風圓管 A2</entityname.ventpipea2>
+<entityname.ventpipea290deg>通風圓管 A2 垂直</entityname.ventpipea290deg>
+<entityname.ventpipea3>通風圓管 A3</entityname.ventpipea3>
+<entityname.ventpipea390deg>通風圓管 A3 垂直</entityname.ventpipea390deg>
+<entityname.ventpipea4>通風圓管 A4</entityname.ventpipea4>
+<entityname.ventpipea490deg>通風圓管 A4 垂直</entityname.ventpipea490deg>
+<entityname.ventpipea5>通風圓管 A5</entityname.ventpipea5>
+<entityname.ventpipea590deg>通風圓管 A5 垂直</entityname.ventpipea590deg>
+<entityname.ventpipea6>通風圓管 A6</entityname.ventpipea6>
+<entityname.ventpipea690deg>通風圓管 A6 垂直</entityname.ventpipea690deg>
+<entityname.ventpipea7>通風圓管 A7</entityname.ventpipea7>
+<entityname.ventpipea790deg>通風圓管 A7 垂直</entityname.ventpipea790deg>
+<entityname.ventpipea8>通風圓管 A8</entityname.ventpipea8>
+<entityname.ventpipea890deg>通風圓管 A8 垂直</entityname.ventpipea890deg>
+<entityname.ventpipea9>通風圓管 A9</entityname.ventpipea9>
+<entityname.ventpipea990deg>通風圓管 A9 垂直</entityname.ventpipea990deg>
+<entityname.ventpipecapa1>通風圓管蓋 A1</entityname.ventpipecapa1>
+<entityname.ventpipecapa190deg>通風圓管蓋 A1 垂直</entityname.ventpipecapa190deg>
+<entityname.ventsmallductreducera>通風管小減徑管 A</entityname.ventsmallductreducera>
+<entityname.sshellalightsa>小艇燈 A</entityname.sshellalightsa>
+<entityname.sshellaplatea>小艇板 A</entityname.sshellaplatea>
+<entityname.sshellaplateb>小艇板 B</entityname.sshellaplateb>
+<entityname.sshellaplatexl>小艇板 XL</entityname.sshellaplatexl>
+<entityname.sshellabumpera>小艇保險桿 A</entityname.sshellabumpera>
+<entityname.sshellabumperb>小艇保險桿 B</entityname.sshellabumperb>
+<entityname.sshellafina>小艇尾翼 A</entityname.sshellafina>
+<entityname.sshellafinb>小艇尾翼 B</entityname.sshellafinb>
+<entityname.sshellafinc>小艇尾翼 C</entityname.sshellafinc>
+<entityname.sshellafind>小艇尾翼 D</entityname.sshellafind>
+<entityname.sshellagromita>小艇索環 A</entityname.sshellagromita>
+<entityname.sshellagromitb>小艇索環 B</entityname.sshellagromitb>
+<entityname.sshellagromitc>小艇索環 C</entityname.sshellagromitc>
+<entityname.sshellagromitd>小艇索環 D</entityname.sshellagromitd>
+<entitydescription.decorative小艇piece>一個裝飾性小艇配件。</entitydescription.decorative小艇piece>
+<entityname.finabelt01>長尾翼 飾帶 1</entityname.finabelt01>
+<entityname.finabelt02>長尾翼 飾帶 2</entityname.finabelt02>
+<entityname.finabelt03>長尾翼 飾帶 3</entityname.finabelt03>
+<entityname.finabelt04>長尾翼 飾帶 4</entityname.finabelt04>
+<entityname.finabelt05>長尾翼 飾帶 5</entityname.finabelt05>
+<entityname.finabelt06>長尾翼 飾帶 6</entityname.finabelt06>
+<entityname.finabodyedge01>長尾翼 邊緣 1</entityname.finabodyedge01>
+<entityname.finabodyedge02>長尾翼 邊緣 2</entityname.finabodyedge02>
+<entityname.finabodyedge03>長尾翼 邊緣 3</entityname.finabodyedge03>
+<entityname.finabodyedge04>長尾翼 邊緣 4</entityname.finabodyedge04>
+<entityname.finabodyedge05>長尾翼 邊緣 5</entityname.finabodyedge05>
+<entityname.finabodyedge06>長尾翼 邊緣 6</entityname.finabodyedge06>
+<entityname.finabodyedge07>長尾翼 邊緣 7</entityname.finabodyedge07>
+<entityname.finabodyedge08>長尾翼 邊緣 8</entityname.finabodyedge08>
+<entityname.finabodyinside01>長尾翼 內側 1</entityname.finabodyinside01>
+<entityname.finabodyinside02>長尾翼 內側 2</entityname.finabodyinside02>
+<entityname.finabodyinside03>長尾翼 內側 3</entityname.finabodyinside03>
+<entityname.finabodyinside04>長尾翼 內側 4</entityname.finabodyinside04>
+<entityname.finabodyinside05>長尾翼 內側 5</entityname.finabodyinside05>
+<entityname.finabodyinside06>長尾翼 內側 6</entityname.finabodyinside06>
+<entityname.finbodyinside07>長尾翼 內側 7</entityname.finbodyinside07>
+<entityname.finabodyinside08>長尾翼 內側 8</entityname.finabodyinside08>
+<entityname.finabodyinside11>長尾翼 內側 9</entityname.finabodyinside11>
+<entityname.finabodyinside12>長尾翼 內側 10</entityname.finabodyinside12>
+<entityname.finabodyinside13>長尾翼 內側 11</entityname.finabodyinside13>
+<entityname.finabodyinside14>長尾翼 內側 12</entityname.finabodyinside14>
+<entityname.finabodyinside15>長尾翼 內側 13</entityname.finabodyinside15>
+<entityname.finabodyinside16>長尾翼 內側 14</entityname.finabodyinside16>
+<entityname.finacorner01>長尾翼 轉角 1</entityname.finacorner01>
+<entityname.finacorner02>長尾翼 轉角 2</entityname.finacorner02>
+<entityname.finacorner03>長尾翼 轉角 3</entityname.finacorner03>
+<entityname.finacorner04>長尾翼 轉角 4</entityname.finacorner04>
+<entityname.finacorner05>長尾翼 轉角 5</entityname.finacorner05>
+<entityname.finacorner06>長尾翼 轉角 6</entityname.finacorner06>
+<entityname.finacorner07>長尾翼 轉角 7</entityname.finacorner07>
+<entityname.finacorner08>長尾翼 轉角 8</entityname.finacorner08>
+<entityname.finacorner09>長尾翼 轉角 9</entityname.finacorner09>
+<entityname.finacorner11>長尾翼 轉角 10</entityname.finacorner11>
+<entityname.finacorner12>長尾翼 轉角 11</entityname.finacorner12>
+<entityname.finacorner13>長尾翼 轉角 12</entityname.finacorner13>
+<entityname.finacorner14>長尾翼 轉角 13</entityname.finacorner14>
+<entityname.finacorner15>長尾翼 轉角 14</entityname.finacorner15>
+<entityname.finadeco01>尾翼裝飾 1</entityname.finadeco01>
+<entityname.finadeco02>尾翼裝飾 2</entityname.finadeco02>
+<entityname.finadeco03>尾翼裝飾 3</entityname.finadeco03>
+<entityname.finadeco04>尾翼裝飾 4</entityname.finadeco04>
+<entityname.finadeco05>尾翼裝飾 5</entityname.finadeco05>
+<entityname.finadeco06>尾翼裝飾 6</entityname.finadeco06>
+<entityname.finadeco07>尾翼裝飾 7</entityname.finadeco07>
+<entityname.finadeco08>尾翼裝飾 8</entityname.finadeco08>
+<entityname.finadeco09>尾翼裝飾 9</entityname.finadeco09>
+<entityname.finadeco10>尾翼裝飾 10</entityname.finadeco10>
+<entityname.finawingpart72>尾翼裝飾 11</entityname.finawingpart72>
+<entityname.finapatch01>尾翼補丁 1</entityname.finapatch01>
+<entityname.finapatch02>尾翼補丁 2</entityname.finapatch02>
+<entityname.finapatch03>尾翼補丁 3</entityname.finapatch03>
+<entityname.finapatch04>尾翼補丁 4</entityname.finapatch04>
+<entityname.finapatch05>尾翼補丁 5</entityname.finapatch05>
+<entityname.finawingpart01>長尾翼 G 2</entityname.finawingpart01>
+<entityname.finawingpart02>長尾翼 G 1</entityname.finawingpart02>
+<entityname.finawingpart03>長尾翼 E 2</entityname.finawingpart03>
+<entityname.finawingpart04>長尾翼 E 1</entityname.finawingpart04>
+<entityname.finawingpart05>長尾翼 D 2</entityname.finawingpart05>
+<entityname.finawingpart06>長尾翼 D 1</entityname.finawingpart06>
+<entityname.finawingpart07>長尾翼 F 2</entityname.finawingpart07>
+<entityname.finawingpart08>長尾翼 F 1</entityname.finawingpart08>
+<entityname.finawingpart09>長尾翼 彎曲 A 1</entityname.finawingpart09>
+<entityname.finawingpart10>長尾翼 彎曲 A 2</entityname.finawingpart10>
+<entityname.finawingpart11>長尾翼 E 4</entityname.finawingpart11>
+<entityname.finawingpart12>長尾翼 E 3</entityname.finawingpart12>
+<entityname.finawingpart13>長尾翼 D 5</entityname.finawingpart13>
+<entityname.finawingpart14>長尾翼 D 6</entityname.finawingpart14>
+<entityname.finawingpart15>長尾翼 D 3</entityname.finawingpart15>
+<entityname.finawingpart16>長尾翼 D 4</entityname.finawingpart16>
+<entityname.finawingpart19>尾翼圖樣 2</entityname.finawingpart19>
+<entityname.finawingpart20>尾翼圖樣 1</entityname.finawingpart20>
+<entityname.finawingpart22>尾翼特殊部分 1</entityname.finawingpart22>
+<entityname.finawingpart23>尾翼特殊部分 2</entityname.finawingpart23>
+<entityname.finawingpart24>尾翼特殊部分 3</entityname.finawingpart24>
+<entityname.finawingpart25>尾翼特殊部分 4</entityname.finawingpart25>
+<entityname.finawingpart26>尾翼特殊部分 5</entityname.finawingpart26>
+<entityname.finawingpart27>尾翼特殊部分 6</entityname.finawingpart27>
+<entityname.finawingpart28>尾翼牆 1</entityname.finawingpart28>
+<entityname.finawingpart29>尾翼牆 2</entityname.finawingpart29>
+<entityname.finawingpart30>尾翼牆 3</entityname.finawingpart30>
+<entityname.finawingpart31>尾翼牆 4</entityname.finawingpart31>
+<entityname.finawingpart32>尾翼牆 5</entityname.finawingpart32>
+<entityname.finawingpart33>尾翼牆 6</entityname.finawingpart33>
+<entityname.finawingpart34>長尾翼 A 1</entityname.finawingpart34>
+<entityname.finawingpart35>長尾翼 A 2</entityname.finawingpart35>
+<entityname.finawingpart36>長尾翼 B 3</entityname.finawingpart36>
+<entityname.finawingpart38>長尾翼 B 2</entityname.finawingpart38>
+<entityname.finawingpart39>長尾翼 B 1</entityname.finawingpart39>
+<entityname.finawingpart40>長尾翼 A 4</entityname.finawingpart40>
+<entityname.finawingpart41>長尾翼 A 3</entityname.finawingpart41>
+<entityname.finawingpart42>長尾翼 A 5</entityname.finawingpart42>
+<entityname.finawingpart43>長尾翼 C 3</entityname.finawingpart43>
+<entityname.finawingpart44>長尾翼 C 4</entityname.finawingpart44>
+<entityname.finawingpart45>長尾翼 C 2</entityname.finawingpart45>
+<entityname.finawingpart46>長尾翼 C 1</entityname.finawingpart46>
+<entityname.finawingpart67>長尾翼 C 5</entityname.finawingpart67>
+<entityname.finawingpart68>長尾翼 C 6</entityname.finawingpart68> 
+<entityname.finawingpart53>長尾翼 彎曲 B 1</entityname.finawingpart53>
+<entityname.finawingpart54>長尾翼 彎曲 B 2</entityname.finawingpart54>
+<entityname.finawingpart55>長尾翼 彎曲 C 1 </entityname.finawingpart55>
+<entityname.finawingpart56>長尾翼 彎曲 C 2</entityname.finawingpart56>
+<entityname.finawingpart17>長尾翼 配件 1</entityname.finawingpart17>
+<entityname.finawingpart18>長尾翼 配件 2</entityname.finawingpart18>
+<entityname.finawingpart21>長尾翼 配件 3</entityname.finawingpart21>
+<entityname.finawingpart37>長尾翼 配件 4</entityname.finawingpart37>
+<entityname.finawingpart47>長尾翼 配件 5</entityname.finawingpart47>
+<entityname.finawingpart48>長尾翼 配件 6</entityname.finawingpart48>
+<entityname.finawingpart49>長尾翼 配件 7</entityname.finawingpart49>
+<entityname.finawingpart50>長尾翼 配件 8</entityname.finawingpart50>
+<entityname.finawingpart52>長尾翼 配件 9</entityname.finawingpart52>
+<entityname.finawingpart57>長尾翼 配件 10</entityname.finawingpart57>
+<entityname.finawingpart58>長尾翼 配件 11</entityname.finawingpart58>
+<entityname.finawingpart59>長尾翼 配件 12</entityname.finawingpart59>
+<entityname.finawingpart60>長尾翼 配件 13</entityname.finawingpart60>
+<entityname.finawingpart61>長尾翼 配件 14</entityname.finawingpart61>
+<entityname.finawingpart62>長尾翼 配件 15</entityname.finawingpart62>
+<entityname.finawingpart63>長尾翼 配件 16</entityname.finawingpart63>
+<entityname.finawingpart64>長尾翼 配件 17</entityname.finawingpart64>
+<entityname.finawingpart65>長尾翼 配件 18</entityname.finawingpart65>
+<entityname.finawingpart66>長尾翼 配件 19</entityname.finawingpart66>
+<entityname.finawingpart69>長尾翼 配件 20</entityname.finawingpart69>
+<entityname.finawingpart70>長尾翼 配件 21</entityname.finawingpart70>
+<entityname.finawingpart71>長尾翼 配件 22</entityname.finawingpart71>
+<entityname.finawingpart73>長尾翼 配件 23</entityname.finawingpart73>
+<entityname.largehorizontalback>大型水平後部</entityname.largehorizontalback>
+<entityname.smallhorizontalback>小型水平後部</entityname.smallhorizontalback>
+<entityname.largeverticalback>大型垂直後部</entityname.largeverticalback>
+<entityname.largeverticalback2>大型垂直後部 2</entityname.largeverticalback2>
+<entityname.smallverticalback>小型垂直後部</entityname.smallverticalback>
+<entityname.smallverticalback2>小型垂直後部 2</entityname.smallverticalback2>
+<entitydescription.decorativestructure>一個不帶碰撞的裝飾性結構配件。</entitydescription.decorativestructure>
+<entityname.doorlabel>門標識</entityname.doorlabel>
+<entityname.engineeringlabel>工程 標識</entityname.engineeringlabel>
+<entityname.commandlabel>指揮室 標識</entityname.commandlabel>
+<entityname.airlocklabel>氣閘 標識</entityname.airlocklabel>
+<entityname.cabinslabel>艙房 標識</entityname.cabinslabel>
+<entityname.medicallabel>醫療 標識</entityname.medicallabel>
+<entityname.arrowup>箭頭 上</entityname.arrowup>
+<entityname.arrowdown>箭頭 下</entityname.arrowdown>
+<entityname.arrowleft>箭頭 左</entityname.arrowleft>
+<entityname.arrowright>箭頭 右</entityname.arrowright>
+<entityname.labelslettera>標識 字母 A</entityname.labelslettera>
+<entityname.labelsletterb>標識 字母 B</entityname.labelsletterb>
+<entityname.labelsletterc>標識 字母 C</entityname.labelsletterc>
+<entityname.labelsletterd>標識 字母 D</entityname.labelsletterd>
+<entityname.labelslettere>標識 字母 E</entityname.labelslettere>
+<entityname.labelsletterf>標識 字母 F</entityname.labelsletterf>
+<entityname.labelsletterg>標識 字母 G</entityname.labelsletterg>
+<entityname.labelsletterh>標識 字母 H</entityname.labelsletterh>
+<entityname.labelsletteri>標識 字母 I</entityname.labelsletteri>
+<entityname.labelsletterj>標識 字母 J</entityname.labelsletterj>
+<entityname.labelsletterk>標識 字母 K</entityname.labelsletterk>
+<entityname.labelsletterl>標識 字母 L</entityname.labelsletterl>
+<entityname.labelsletterm>標識 字母 M</entityname.labelsletterm>
+<entityname.labelslettern>標識 字母 N</entityname.labelslettern>
+<entityname.labelslettero>標識 字母 O</entityname.labelslettero>
+<entityname.labelsletterp>標識 字母 P</entityname.labelsletterp>
+<entityname.labelsletterq>標識 字母 Q</entityname.labelsletterq>
+<entityname.labelsletterr>標識 字母 R</entityname.labelsletterr>
+<entityname.labelsletters>標識 字母 S</entityname.labelsletters>
+<entityname.labelslettert>標識 字母 T</entityname.labelslettert>
+<entityname.labelsletteru>標識 字母 U</entityname.labelsletteru>
+<entityname.labelsletterv>標識 字母 V</entityname.labelsletterv>
+<entityname.labelsletterw>標識 字母 W</entityname.labelsletterw>
+<entityname.labelsletterx>標識 字母 X</entityname.labelsletterx>
+<entityname.labelslettery>標識 字母 Y</entityname.labelslettery>
+<entityname.labelsletterz>標識 字母 Z</entityname.labelsletterz>
+<entityname.labelsnumber0>標識 數字 0</entityname.labelsnumber0>
+<entityname.labelsnumber1>標識 數字 1</entityname.labelsnumber1>
+<entityname.labelsnumber2>標識 數字 2</entityname.labelsnumber2>
+<entityname.labelsnumber3>標識 數字 3</entityname.labelsnumber3>
+<entityname.labelsnumber4>標識 數字 4</entityname.labelsnumber4>
+<entityname.labelsnumber5>標識 數字 5</entityname.labelsnumber5>
+<entityname.labelsnumber6>標識 數字 6</entityname.labelsnumber6>
+<entityname.labelsnumber7>標識 數字 7</entityname.labelsnumber7>
+<entityname.labelsnumber8>標識 數字 8</entityname.labelsnumber8>
+<entityname.labelsnumber9>標識 數字 9</entityname.labelsnumber9>
+<entityname.labelscaptureitlettera>標識 字母 A 粗糙</entityname.labelscaptureitlettera>
+<entityname.labelscaptureitletterb>標識 字母 B 粗糙</entityname.labelscaptureitletterb>
+<entityname.labelscaptureitletterc>標識 字母 C 粗糙</entityname.labelscaptureitletterc>
+<entityname.labelscaptureitletterd>標識 字母 D 粗糙</entityname.labelscaptureitletterd>
+<entityname.labelscaptureitlettere>標識 字母 E 粗糙</entityname.labelscaptureitlettere>
+<entityname.labelscaptureitletterf>標識 字母 F 粗糙</entityname.labelscaptureitletterf>
+<entityname.labelscaptureitletterg>標識 字母 G 粗糙</entityname.labelscaptureitletterg>
+<entityname.labelscaptureitletterh>標識 字母 H 粗糙</entityname.labelscaptureitletterh>
+<entityname.labelscaptureitletteri>標識 字母 I 粗糙</entityname.labelscaptureitletteri>
+<entityname.labelscaptureitletterj>標識 字母 J 粗糙</entityname.labelscaptureitletterj>
+<entityname.labelscaptureitletterk>標識 字母 K 粗糙</entityname.labelscaptureitletterk>
+<entityname.labelscaptureitletterl>標識 字母 L 粗糙</entityname.labelscaptureitletterl>
+<entityname.labelscaptureitletterm>標識 字母 M 粗糙</entityname.labelscaptureitletterm>
+<entityname.labelscaptureitlettern>標識 字母 N 粗糙</entityname.labelscaptureitlettern>
+<entityname.labelscaptureitlettero>標識 字母 O 粗糙</entityname.labelscaptureitlettero>
+<entityname.labelscaptureitletterp>標識 字母 P 粗糙</entityname.labelscaptureitletterp>
+<entityname.labelscaptureitletterq>標識 字母 Q 粗糙</entityname.labelscaptureitletterq>
+<entityname.labelscaptureitletterr>標識 字母 R 粗糙</entityname.labelscaptureitletterr>
+<entityname.labelscaptureitletters>標識 字母 S 粗糙</entityname.labelscaptureitletters>
+<entityname.labelscaptureitlettert>標識 字母 T 粗糙</entityname.labelscaptureitlettert>
+<entityname.labelscaptureitletteru>標識 字母 U 粗糙</entityname.labelscaptureitletteru>
+<entityname.labelscaptureitletterv>標識 字母 V 粗糙</entityname.labelscaptureitletterv>
+<entityname.labelscaptureitletterw>標識 字母 W 粗糙</entityname.labelscaptureitletterw>
+<entityname.labelscaptureitletterx>標識 字母 X 粗糙</entityname.labelscaptureitletterx>
+<entityname.labelscaptureitlettery>標識 字母 Y 粗糙</entityname.labelscaptureitlettery>
+<entityname.labelscaptureitletterz>標識 字母 Z 粗糙</entityname.labelscaptureitletterz>
+<entityname.labelscaptureitnumber0>標識 數字 0 粗糙</entityname.labelscaptureitnumber0>
+<entityname.labelscaptureitnumber1>標識 數字 1 粗糙</entityname.labelscaptureitnumber1>
+<entityname.labelscaptureitnumber2>標識 數字 2 粗糙</entityname.labelscaptureitnumber2>
+<entityname.labelscaptureitnumber3>標識 數字 3 粗糙</entityname.labelscaptureitnumber3>
+<entityname.labelscaptureitnumber4>標識 數字 4 粗糙</entityname.labelscaptureitnumber4>
+<entityname.labelscaptureitnumber5>標識 數字 5 粗糙</entityname.labelscaptureitnumber5>
+<entityname.labelscaptureitnumber6>標識 數字 6 粗糙</entityname.labelscaptureitnumber6>
+<entityname.labelscaptureitnumber7>標識 數字 7 粗糙</entityname.labelscaptureitnumber7>
+<entityname.labelscaptureitnumber8>標識 數字 8 粗糙</entityname.labelscaptureitnumber8>
+<entityname.labelscaptureitnumber9>標識 數字 9 粗糙</entityname.labelscaptureitnumber9>
+<entityname.labelsiconairlock>標識 圖案 氣閘</entityname.labelsiconairlock>
+<entityname.labelsiconballast>標識 圖案 壓載艙</entityname.labelsiconballast>
+<entityname.labelsiconcargo>標識 圖案 貨物</entityname.labelsiconcargo>
+<entityname.labelsicondiving>標識 圖案 潛水</entityname.labelsicondiving>
+<entityname.labelsicondocking>標識 圖案 對接艙口</entityname.labelsicondocking>
+<entityname.labelsiconelectricity>標識 圖案 電氣</entityname.labelsiconelectricity>
+<entityname.labelsiconengine>標識 圖案 引擎</entityname.labelsiconengine>
+<entityname.labelsiconengineering>標識 圖案 工程</entityname.labelsiconengineering>
+<entityname.labelsiconexit>標識 圖案 出口</entityname.labelsiconexit>
+<entityname.labelsiconmedical>標識 圖案 醫療</entityname.labelsiconmedical>
+<entityname.labelsiconreactor>標識 圖案 反應爐</entityname.labelsiconreactor>
+<entityname.labelsiconsecurity>標識 圖案 警衛</entityname.labelsiconsecurity>
+<entityname.labelsiconsteering>標識 圖案 駕駛</entityname.labelsiconsteering>
+<entityname.labelsiconweapons>標識 圖案 武器</entityname.labelsiconweapons>
+<entityname.labelsarroverticala>標識 箭頭 垂直 A</entityname.labelsarroverticala>
+<entityname.labelsarroverticalb>標識 箭頭 垂直 B</entityname.labelsarroverticalb>
+<entityname.labelsarrowdiagonala>標識 箭頭 對角 A</entityname.labelsarrowdiagonala>
+<entityname.labelsarrowdiagonalb>標識 箭頭 對角 B</entityname.labelsarrowdiagonalb>
+<entityname.labelsarrowhorizontala>標識 箭頭 水平 A</entityname.labelsarrowhorizontala>
+<entityname.labelsarrowhorizontalb>標識 箭頭 水平 B</entityname.labelsarrowhorizontalb>
+<entityname.decorativelabel>一個裝飾性標識。</entityname.decorativelabel>
+<entityname.cableholderhorizontal>電纜架 水平</entityname.cableholderhorizontal>
+<entityname.cableholdervertical>電纜架 垂直</entityname.cableholdervertical>
+<entitydescription.cableholder>用於整齊擺設電線的裝飾性配件。</entitydescription.cableholder>
+<entityname.topwindow>窗戶 頂部</entityname.topwindow>
+<entityname.verticalwindow>窗戶 垂直</entityname.verticalwindow>
+<entityname.largeplatform>平台 大型</entityname.largeplatform>
+<entityname.platform>平台 基礎</entityname.platform>
+<entitydescription.platform>供角色行走與上下移動的平台。</entitydescription.platform>
+<entityname.slopeforward>斜坡 向前</entityname.slopeforward>
+<entityname.slopeback>斜坡 向後</entityname.slopeback>
+<entitydescription.decorativepiece>一個裝飾性配件。</entitydescription.decorativepiece>
+<entityname.stairs>樓梯</entityname.stairs>
+<entityname.stairsshort>樓梯 短</entityname.stairsshort>
+<entityname.stairslong>樓梯 長</entityname.stairslong>
+<entityname.ruinwallhorizontal>遺跡牆 水平</entityname.ruinwallhorizontal>
+<entityname.ruinwallvertical>遺跡牆 垂直</entityname.ruinwallvertical>
+<entityname.ruinwallheavyhorizontal>遺跡牆 大型 水平</entityname.ruinwallheavyhorizontal>
+<entityname.ruinwallheavyvertical>遺跡牆 大型 垂直</entityname.ruinwallheavyvertical>
+<entityname.ruinwallhorizontalsmall>遺跡牆 小型 水平</entityname.ruinwallhorizontalsmall>
+<entityname.ruinwallverticalsmall>遺跡牆 小型 垂直</entityname.ruinwallverticalsmall>
+<entityname.ruinback>遺跡背景牆 基礎</entityname.ruinback>
+<entityname.ruinprop>遺跡裝飾</entityname.ruinprop>
+<entityname.bunk>床鋪</entityname.bunk>
+<entityname.opdeco_weaponstoragesuit1>服裝展示櫃</entityname.opdeco_weaponstoragesuit1>
+<entityname.op_weaponstoragesmall>武器展示櫃 小</entityname.op_weaponstoragesmall>
+<entityname.op_weaponstoragemedium>武器展示櫃 中</entityname.op_weaponstoragemedium>
+<entityname.op_weaponstoragelarge>武器展示櫃 大</entityname.op_weaponstoragelarge>
+<entityname.opdeco_storageitemshelf>物品展示架</entityname.opdeco_storageitemshelf>
+<entityname.opdeco_storagemineralshelf>礦物展示架</entityname.opdeco_storagemineralshelf>
+<entityname.opdeco_storageweaponshelf>武器展示架</entityname.opdeco_storageweaponshelf>
+<entityname.opdeco_storageseedshelf>種子展示架</entityname.opdeco_storageseedshelf>
+<entityname.opdeco_storagefrozenseedshelf>冷凍種子展示架</entityname.opdeco_storagefrozenseedshelf>
+<entityname.opdeco_diningtable>餐桌</entityname.opdeco_diningtable>
+<entityname.opdeco_boxes1>箱子</entityname.opdeco_boxes1>
+<entityname.opdeco_bunks1>艙房</entityname.opdeco_bunks1>
+<entityname.opdeco_researchdecal1>實驗室圖樣</entityname.opdeco_researchdecal1>
+<entityname.opdeco_hrwindow1>辦公室窗戶</entityname.opdeco_hrwindow1>
+<entityname.opdeco_hrwindow2>辦公室窗戶 高</entityname.opdeco_hrwindow2>
+<entityname.opdeco_hrwindowblinds>辦公室百葉窗</entityname.opdeco_hrwindowblinds>
+<entityname.opdeco_hrblinds>辦公室百葉窗 高</entityname.opdeco_hrblinds>
+<entityname.opdeco_hrglassoffice>辦公室門</entityname.opdeco_hrglassoffice>
+<entityname.opdeco_hrticketdispenser>出票機</entityname.opdeco_hrticketdispenser>
+<entityname.opdeco_hrnewspaperrack>報刊架</entityname.opdeco_hrnewspaperrack>
+<entityname.opdeco_hrcalendar>日曆</entityname.opdeco_hrcalendar>
+<entityname.opdeco_hrsign>指示牌背景</entityname.opdeco_hrsign>
+<entityname.opdeco_hrheater>葉片式暖氣</entityname.opdeco_hrheater>
+<entityname.opdeco_hrelectricpanel>公佈欄</entityname.opdeco_hrelectricpanel>
+<entityname.opdeco_hrbench>長椅</entityname.opdeco_hrbench>
+<entityname.opdeco_hrflyers>傳單</entityname.opdeco_hrflyers>
+<entityname.opdeco_officeshelf1>辦公室架子</entityname.opdeco_officeshelf1>
+<entityname.opdeco_officedesk1>辦公桌</entityname.opdeco_officedesk1>
+<entityname.opdeco_officedisplay1>裝飾性獎盃</entityname.opdeco_officedisplay1>
+<entityname.opdeco_computer>電腦終端</entityname.opdeco_computer>
+<entityname.opdeco_shelfsmall>書架 小</entityname.opdeco_shelfsmall>
+<entityname.opdeco_shelfmedium>書架 中</entityname.opdeco_shelfmedium>
+<entityname.opdeco_shelflarge>書架 大</entityname.opdeco_shelflarge>
+<entityname.opdeco_rollupdoor>捲簾門</entityname.opdeco_rollupdoor>
+<entityname.opdeco_rollupdoorframe>捲簾門框</entityname.opdeco_rollupdoorframe>
+<entityname.opdeco_subblueprint1>潛艇藍圖</entityname.opdeco_subblueprint1>
+<entityname.opdeco_toolrack1>工具架</entityname.opdeco_toolrack1>
+<entityname.opdeco_ladder>梯子</entityname.opdeco_ladder>
+<entityname.opdeco_shelf>展示架</entityname.opdeco_shelf>
+<entityname.opdeco_desk>收銀台</entityname.opdeco_desk>
+<entityname.opdeco_oxygentanks>氧氣罐</entityname.opdeco_oxygentanks>
+<entityname.opdeco_crane>採礦起重機</entityname.opdeco_crane>
+<entityname.opdeco_trolley1>礦車 1</entityname.opdeco_trolley1>
+<entityname.opdeco_trolley2>礦車 2</entityname.opdeco_trolley2>
+<entityname.opdeco_debris1>採礦碎石 1</entityname.opdeco_debris1>
+<entityname.opdeco_debris2>採礦碎石 2</entityname.opdeco_debris2>
+<entityname.opdeco_debris3>採礦碎石 3</entityname.opdeco_debris3>
+<entityname.opdeco_construction_sign>施工告示牌</entityname.opdeco_construction_sign>
+<entityname.opdeco_box1>箱子 1</entityname.opdeco_box1>
+<entityname.opdeco_box2>箱子 2</entityname.opdeco_box2>
+<entityname.opdeco_box3>箱子 3</entityname.opdeco_box3>
+<entityname.opdeco_box4>箱子 4</entityname.opdeco_box4>
+<entityname.opdeco_box5>箱子 5</entityname.opdeco_box5>
+<entityname.heavydoor>重型門</entityname.heavydoor>
+<entityname.opdeco_door>背景門</entityname.opdeco_door>
+<entitydescription.decodoor>一扇裝飾性的門。</entitydescription.decodoor>
+<entityname.opdeco_door>上鎖的門</entityname.opdeco_door>
+<entityname.opdeco_towelrack>毛巾架</entityname.opdeco_towelrack>
+<entityname.concretewall>混凝土牆</entityname.concretewall>
+<entityname.opdeco_wheelchair1>輪椅</entityname.opdeco_wheelchair1>
+<entityname.opdeco_adposter>廣告</entityname.opdeco_adposter>
+<entityname.windowglass>窗戶玻璃</entityname.windowglass>
+<entityname.windowframe>窗戶外框</entityname.windowframe>
+<entityname.op_cafeteriawindow>食堂櫃台</entityname.op_cafeteriawindow>
+<entityname.op_gardendistiller>蒸餾器</entityname.op_gardendistiller>
+<entityname.op_cafeteriabench>食堂長椅</entityname.op_cafeteriabench>
+<entityname.op_cafeteriatable>食堂桌子</entityname.op_cafeteriatable>
+<entityname.op_cafeteriachair>食堂椅子</entityname.op_cafeteriachair>
+<entityname.op_cafeteriaposter>食堂海報</entityname.op_cafeteriaposter>
+<entityname.op_cafeteriacart>食堂推車</entityname.op_cafeteriacart>
+<entityname.op_gardenproducebox>蔬菜盒</entityname.op_gardenproducebox>
+<entityname.op_gardenbags>土壤袋</entityname.op_gardenbags>
+<entityname.op_gardenposter>花園海報</entityname.op_gardenposter>
+<entityname.table>桌子</entityname.table>
+<entityname.Target>目標</entityname.Target>
+<entityname.sign>指示牌</entityname.sign>
+<entityname.op_freezer>冰箱</entityname.op_freezer>
+<entityname.op_clothesrack>衣架</entityname.op_clothesrack>
+<entityname.op_metalchair>金屬椅子</entityname.op_metalchair>
+<entityname.op_washingmachine>洗衣機</entityname.op_washingmachine>
+<entityname.op_smallcouch>扶手椅</entityname.op_smallcouch>
+<entityname.op_janitorcart>清潔工推車</entityname.op_janitorcart>
+<entityname.op_towellocker>毛巾櫃</entityname.op_towellocker>
+<entityname.op_inkpainting>水墨圖畫</entityname.op_inkpainting>
+<entityname.op_banner>懸掛橫幅</entityname.op_banner>
+<entityname.op_boxcart>金屬推車</entityname.op_boxcart>
+<entityname.op_sworddisplay>刀劍展示</entityname.op_sworddisplay>
+<entityname.op_statue>雕像</entityname.op_statue>
+<entityname.op_raptorhead>迅猛龍頭戰利品</entityname.op_raptorhead>
+<entityname.op_shower>淋浴套件</entityname.op_shower>
+<entityname.op_painting1>裝裱圖畫</entityname.op_painting1>
+<entityname.op_wetsign>清潔告示牌</entityname.op_wetsign>
+<entityname.FF_Wall_I1>哨站牆 1</entityname.FF_Wall_I1>
+<entityname.FF_Wall_I2>哨站牆 2</entityname.FF_Wall_I2>
+<entityname.FF_Wall_I3>哨站牆 3</entityname.FF_Wall_I3>
+<entityname.opbg_generic1>通用哨站牆 1</entityname.opbg_generic1>
+<entityname.opbg_generic2>通用哨站牆 2</entityname.opbg_generic2>
+<entityname.opbg_generic3>通用哨站牆 3</entityname.opbg_generic3>
+<entityname.opbg_generic4>通用哨站牆 4</entityname.opbg_generic4>
+<entityname.opbg_generic5>通用哨站牆 5</entityname.opbg_generic5>
+<entityname.opbg_generic6>通用哨站牆 6</entityname.opbg_generic6>
+<entityname.opbg_generic7>通用哨站牆 7</entityname.opbg_generic7>
+<entityname.opbg_airlock1>哨站氣閘牆</entityname.opbg_airlock1>
+<entityname.opbgshopa1>哨站商店牆 1</entityname.opbgshopa1>
+<entityname.opbg_shop2>哨站商店牆 2</entityname.opbg_shop2>
+<entityname.opbg_shop3>哨站商店牆 3</entityname.opbg_shop3>
+<entityname.opbg_shop4>哨站商店牆 4</entityname.opbg_shop4>
+<entityname.opbgsocialcentera1>哨站公共空間牆</entityname.opbgsocialcentera1>
+<entityname.opbg_barracks1>哨站兵營背景 1</entityname.opbg_barracks1>
+<entityname.opbg_barracks2>哨站兵營背景 2</entityname.opbg_barracks2>
+<entityname.opbg_barracks3>哨站兵營背景 3</entityname.opbg_barracks3>
+<entityname.opbg_services1>哨站服務區背景 1</entityname.opbg_services1>
+<entityname.opbg_services2>哨站服務區背景 2</entityname.opbg_services2>
+<entityname.opbgmaintenancebaya1>哨站維修間背景 1</entityname.opbgmaintenancebaya1>
+<entityname.opbgmaintenancebaya2>哨站維修間背景 2</entityname.opbgmaintenancebaya2>
+<entityname.opbgmaintenancebaya3>哨站維修間背景 3</entityname.opbgmaintenancebaya3>
+<entityname.opbg_researchlab1>哨站研究實驗室背景 1</entityname.opbg_researchlab1>
+<entityname.opbg_researchlab2>哨站研究實驗室背景 2</entityname.opbg_researchlab2>
+<entityname.opbg_tunnel1>哨站隧道背景 1</entityname.opbg_tunnel1>
+<entityname.opbg_tunnel2>哨站隧道背景 2</entityname.opbg_tunnel2>
+<entityname.opbg_tunnel4>哨站隧道背景 4</entityname.opbg_tunnel4>
+<entityname.opbg_tunnel5>哨站隧道背景 5</entityname.opbg_tunnel5>
+<entityname.opbg_tunnel6>哨站隧道背景 6</entityname.opbg_tunnel6>
+<entityname.opbg_manageroffice1>哨站管理員辦公室背景 1</entityname.opbg_manageroffice1>
+<entityname.opbg_manageroffice2>哨站管理員辦公室背景 2</entityname.opbg_manageroffice2>
+<entityname.opbg_manageroffice3>哨站管理員辦公室背景 3</entityname.opbg_manageroffice3>
+<entityname.opbg_dorm1>哨站宿舍背景</entityname.opbg_dorm1>
+<entityname.opbg_messhall1>哨站食堂背景</entityname.opbg_messhall1>
+<entityname.opdeco_nuclearsign>核能標識牌</entityname.opdeco_nuclearsign>
+<entityname.opdeco_instructionsign>指示牌</entityname.opdeco_instructionsign>
+<entityname.opdeco_propagandaposter>宣傳海報</entityname.opdeco_propagandaposter>
+<entityname.crackedwall1>開裂牆體圖樣</entityname.crackedwall1>
+<entityname.graffiti1>塗鴉</entityname.graffiti1>
+<entityname.icewall>隧道冰牆</entityname.icewall>
+<entityname.icewallcracked>隧道冰牆 開裂</entityname.icewallcracked>
+<entityname.icewall90>隧道冰牆 90</entityname.icewall90>
+<entityname.icewallcracked90>隧道冰牆 開裂 90</entityname.icewallcracked90>
+<entityname.icerock01>隧道冰岩 1</entityname.icerock01>
+<entityname.icerock02>隧道冰岩 2</entityname.icerock02>
+<entityname.icerock03>隧道冰岩 3</entityname.icerock03>
+<entityname.icerock04>隧道冰岩 4</entityname.icerock04>
+<entityname.thalamus_background_2>丘腦背景 2</entityname.thalamus_background_2>
+<entityname.thalamus_background_3>丘腦背景 3</entityname.thalamus_background_3>
+<entityname.thalamus_background_4>丘腦背景 4</entityname.thalamus_background_4>
+<entityname.medbaywall1>醫務室牆 1</entityname.medbaywall1>
+<entityname.opdeco_medrack>醫療架</entityname.opdeco_medrack>
+<entityname.opdeco_hospitalbed>醫療床</entityname.opdeco_hospitalbed>
+<entityname.opdeco_diningtablesmall>小餐桌</entityname.opdeco_diningtablesmall>
+<entityname.opdeco_liftingequpiment>起重設備</entityname.opdeco_liftingequpiment>
+<entityname.opdeco_construction_barrier>工地護欄</entityname.opdeco_construction_barrier>
+<entityname.opdeco_supportbeam>支撐梁</entityname.opdeco_supportbeam>
+<entityname.opdeco_icecube>冰塊</entityname.opdeco_icecube>
+<entityname.opdeco_icepillar>冰柱</entityname.opdeco_icepillar>
+<entityname.opdeco_monitor>顯示器</entityname.opdeco_monitor>
+<entityname.decowire1>裝飾線</entityname.decowire1>
+<entityname.decopanel1>裝飾板</entityname.decopanel1>
+<entityname.decocolumn1>裝飾柱</entityname.decocolumn1>
+<entityname.decobarrier1>護欄</entityname.decobarrier1>
+<entityname.opbg_jail>白色監獄</entityname.opbg_jail>
+<entityname.opbg_rock>岩石背景</entityname.opbg_rock>
+<entityname.opdeco_prisonbed>監獄床</entityname.opdeco_prisonbed>
+<entityname.shop_decoration>商店裝飾</entityname.shop_decoration>
+<entityname.op_circusposter.png>海報</entityname.op_circusposter.png>
+<entityname.op_plaque.png>牌匾</entityname.op_plaque.png>
+<entityname.wreckdecal>殘骸圖樣</entityname.wreckdecal>
+<entityname.engineerequipment>工程設備</entityname.engineerequipment>
+<entityname.Jaildoor>監獄門</entityname.Jaildoor>
+<entityname.shelf>架子</entityname.shelf>
+
+<!-- The following texts are only used in "hidden editors" only accessible by console commands and intended for very advanced modders (and the devs), these don't need to be localized -->
+
+<!-- Sprite editor -->
+<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
+<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
+<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
+<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
+<spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
+<spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
+<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
+<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
+<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
+<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
+<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
+<spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
+<spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
+<spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
+<spriteeditor.allchangessavedto>All changes saved to:</spriteeditor.allchangessavedto>
+
+<!-- Event editor -->
+<eventeditor.loadevent>Load event prefab</eventeditor.loadevent>
+<eventeditor.addaction>Add event action</eventeditor.addaction>
+<eventeditor.addvalue>Add value</eventeditor.addvalue>
+<eventeditor.addspecial>Add special</eventeditor.addspecial>
+<eventeditor.add>Add</eventeditor.add>
+<eventeditor.edit>Edit value</eventeditor.edit>
+<eventeditor.delete>Delete node</eventeditor.delete>
+<eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
+<eventeditor.removeoption>Remove option</eventeditor.removeoption>
+<eventeditor.addoption>Add option</eventeditor.addoption>
+<eventeditor.saveproject>Save project</eventeditor.saveproject>
+<eventeditor.loadproject>Load project</eventeditor.loadproject>
+<eventeditor.newproject>New project</eventeditor.newproject>
+<eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
+<eventeditor.export>Export as event</eventeditor.export>
+<eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
+<eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
+<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
+<eventeditor.opentextheader>Open event</eventeditor.opentextheader>
+<eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
+<eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
+<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined, so they have been automatically generated.</eventeditor.randomgenerationbody>
+
+<!-- Particle editor -->
+<particleeditor.emitter>Emitter</particleeditor.emitter>
+
+<!-- Level editor -->
+<leveleditor.levelseed>Level Seed</leveleditor.levelseed>
+<leveleditor.generate>Generate</leveleditor.generate>
+<leveleditor.test>Test</leveleditor.test>
+<leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
+<leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
+<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
+<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
+<leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
+<leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
+<leveleditor.childobjects>Child Objects</leveleditor.childobjects>
+<leveleditor.addchildobject>Add Child Object</leveleditor.addchildobject>
+<leveleditor.lightsources>Light Sources</leveleditor.lightsources>
+<leveleditor.addlightsource>Add Light Source</leveleditor.addlightsource>
+<leveleditor.createlevelobj>Create a Level Object</leveleditor.createlevelobj>
+<leveleditor.levelobjname>Name</leveleditor.levelobjname>
+<leveleditor.levelobjtexturepath>Texture Path</leveleditor.levelobjtexturepath>
+<leveleditor.levelobjnameempty>Please enter a name for the level object.</leveleditor.levelobjnameempty>
+<leveleditor.levelobjnametaken>The selected name is already in use.</leveleditor.levelobjnametaken>
+<leveleditor.levelobjtexturenotfound>Could not find the selected texture file.</leveleditor.levelobjtexturenotfound>
+<leveleditor.ruinparams>Ruin parameters</leveleditor.ruinparams>
+<leveleditor.caveparams>Cave parameters</leveleditor.caveparams>
+<leveleditor.outpostparams>Outpost parameters</leveleditor.outpostparams>
+<leveleditor.addmoduletype>Add module type</leveleditor.addmoduletype>
+<leveleditor.allowinvalidoutpost>Allow invalid outposts</leveleditor.allowinvalidoutpost>
+<leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
+<leveleditor.allsaved>All changes saved</leveleditor.allsaved>
+
+</infotexts>
