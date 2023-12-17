@@ -1,5 +1,5 @@
 name: "文本建議/Suggestion"
-description: 發表文本翻譯/修改建議。(Provide editing/translation suggestions.)
+description: 發表文本翻譯/修改建議。(Give editing/translation suggestions.)
 title: "[Suggestion] 請使用與內容直接相關且詳細的標題"
 labels: ["文本建議/suggestion"]
 body:
