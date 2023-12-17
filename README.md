@@ -6,13 +6,8 @@
 
 僅以個人經驗與偏好進行調整，還請斟酌使用；我無法保證這個文本中語句和詞彙的精確度等等。
 
-- ### 我有問題想要回報
-請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，點選右方綠色的 `New issue` 按鈕，進入新頁面之後再點選位於對應其中一項回報主題右方的綠色 `Get started` 按鈕。
-
-- ### 我想直接貢獻心力
-就我所知，Github並不允許專案參與者外的用戶直接進行任何修改，但用戶似乎能對專案進行 `Fork` 建立屬於自己的副本，並在修改後對原始專案提出 `Pull request`。
-
-儘管此為GitHub的主要功能之一，我並不熟悉，所以還先請使用 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面進行回報。
+- ### 問題回報、編輯建議
+請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，並點選右方綠色的 `New issue` 按鈕進入另一頁面後，再點選位於對應回報主題右方的綠色 `Get started` 按鈕。
 
 # 這個Mod目前已調整了大部分遊戲元素文本，包含:
 - 主選單UI
