@@ -6,14 +6,14 @@ body:
   - type: checkboxes
     id: checks
     attributes:
-      label: "我已確認:"
+      label: "我已確認："
       options:
         - label: "Issues 頁面中沒有尚為 Open 的相關主題。"
           required: true
   - type: textarea
     id: what-happened
     attributes:
-      label: "我的建議:"
+      label: "我的建議："
       description: 輸入與問題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。
     validations:
       required: true
