@@ -5596,26 +5596,26 @@
 
 <!-- Roles tutorial -->
 <tutorial.roles>角色</tutorial.roles>
-<tutorial.roles.message.1>「喔，嘿──你好嗎老兄？你來拿上潛艇需要的簽名文件？」</tutorial.roles.message.1>
+<tutorial.roles.message.1>「喔，嘿──你好嗎老兄？你是來拿潛艇上需要的簽名文件的嗎？」</tutorial.roles.message.1>
 <tutorial.roles.message.1_player>「沒錯！」</tutorial.roles.message.1_player>
-<tutorial.roles.message.2>「哇喔老兄，你聽起來真有熱誠！太讚了！你知道我們有提供相關課程嗎？」</tutorial.roles.message.2>
+<tutorial.roles.message.2>「哇喔，你聽起來真有熱誠，老兄！太讚了！你知道我們有提供相關課程嗎？」</tutorial.roles.message.2>
 <tutorial.roles.message.2_player1>「沒聽過，什麼課程？」</tutorial.roles.message.2_player1>
 <tutorial.roles.message.2_player2>「有。」跳至教學。</tutorial.roles.message.2_player2>
 <tutorial.roles.message.3_skip>「好極了，到下一個房間等其他學員到齊吧老兄。讓我幫你開門。」</tutorial.roles.message.3_skip>
 <tutorial.roles.message.3_skip_player>「沒問題！」</tutorial.roles.message.3_skip_player>
-<tutorial.roles.message.3>「啊，你懂的老兄，就是那些象牙塔裡的政客搞出來擺平問題的玩意兒...但實際上並沒有解決問題，你懂嗎？」</tutorial.roles.message.3>
+<tutorial.roles.message.3>「啊，你懂的老兄，就是那些象牙塔裡的政客搞出來擺平問題的玩意兒...但實際上問題根本不會被改善，懂吧？」</tutorial.roles.message.3>
 <tutorial.roles.message.3_player>「哪種問題？」</tutorial.roles.message.3_player>
-<tutorial.roles.message.4>「潛艇工作──這事沒那麼容易，你懂嗎？出去一趟都不見得有辦法回來，那出去十趟一定沒人回得來。因此，這座哨站上只要是能當成課程的東西我們都有100%的折扣，多少會解決一些問題。」</tutorial.roles.message.4>
-<tutorial.roles.message.4_player>「你是在抨擊自己的政策嗎？」</tutorial.roles.message.4_player>
-<tutorial.roles.message.5>「我只受理報名，老兄。我才不去淌那攤混水。知道我的建議是什麼嗎？待在哨站上工作──反抗這套體制，老兄。」</tutorial.roles.message.5>
-<tutorial.roles.message.5_player>「但我想出去冒險！再說，這個地方連吃的都沒有...」</tutorial.roles.message.5_player>
-<tutorial.roles.message.6a>「隨你便，老兄...我們有五項課程:\n\n首先是艦長。你如果想要發號一些無理的命令，這就是了。我極力推薦。」</tutorial.roles.message.6a>
+<tutorial.roles.message.4>「潛艇工作──這事沒那麼簡單，瞭嗎？出去一趟都不見得有辦法回來，那出去十趟肯定沒人回來；所以這座哨站上才會只要是能作為課程的東西都有100%折扣，因為『這樣那問題就會改善。』」</tutorial.roles.message.4>
+<tutorial.roles.message.4_player>「你剛剛是在抨擊你們自己的政策嗎？」</tutorial.roles.message.4_player>
+<tutorial.roles.message.5>「我只受理報名，老兄。推人去送死不是我的工作範圍。想聽我的建議嗎？待在哨站上工作──反抗這套體制，老兄。」</tutorial.roles.message.5>
+<tutorial.roles.message.5_player>「但我想去冒險！再說，這個地方連吃的都沒有...」</tutorial.roles.message.5_player>
+<tutorial.roles.message.6a>「隨你便，老兄...我們有五項課程：\n\n首先是艦長。要是你對下達瑣碎命令有興趣，這就是了。我極力推薦。」</tutorial.roles.message.6a>
 <tutorial.roles.message.6a_player>「跟有名的Herman Pollard一樣！」</tutorial.roles.message.6a_player>
-<tutorial.roles.message.6b>「沒錯，老兄。接著是維修雙雄。\n工程師能摸到些好玩的設備，但是有觸電的極高風險。不適合弱雞。\n再來是技師，如果你不介意泡在水裡。這職位專門處理焊接和和修理抽水機之類的。不適合抽菸的人，懂吧？」</tutorial.roles.message.6b>
+<tutorial.roles.message.6b>「沒錯，老兄。再來是維修雙將。\n工程師能摸些高級玩具，但觸電的風險極高。不適合弱雞。\n還有技師，你得不介意要常泡在水裡。這職位專門在焊接漏洞和修理抽水機之類的。不推薦給有抽菸的人，懂吧？」</tutorial.roles.message.6b>
 <tutorial.roles.message.6b_player>「聽起來都是重要職位！」</tutorial.roles.message.6b_player>
-<tutorial.roles.message.6c>「沒錯，很糟對吧？接著是安全官，要是你喜歡把對手當靶子的話。他們通常還都有大頭症。我身上有個刺青寫著ASOAB，是『安全人員都是渾蛋』的縮寫。多留意那些人，老兄。」</tutorial.roles.message.6c>
-<tutorial.roles.message.6c_player>「他們也不是都那麼糟吧？」</tutorial.roles.message.6c_player>
-<tutorial.roles.message.6d>「最後是醫生。這些人大部分比外面的怪物還要詭異，雖然有些也會好好照料別人。他們是這兒的唯一希望，懂吧？\n總而言之，你還想參加的話，移駕到另一個房間去吧。」</tutorial.roles.message.6d>
+<tutorial.roles.message.6c>「沒錯，很要命吧？要是你喜歡把敵人當靶子的話還有更要命的，就是安全官。他們通常還都有大頭症。我身上有個刺青寫著ASOAB，是『安全官都是渾蛋』的縮寫。多留意那些人，老兄。」</tutorial.roles.message.6c>
+<tutorial.roles.message.6c_player>「他們也不是全都那麼糟吧？」</tutorial.roles.message.6c_player>
+<tutorial.roles.message.6d>「最後是醫生。雖然他們多數比外面的怪物還要古怪，但當中有些還是會好好照料別人。他們是這兒真正意義的聖人，懂吧？\n總而言之，你還想參加的話，移駕到另一個房間去吧。」</tutorial.roles.message.6d>
 <tutorial.roles.message.6_player>「我要報名，長官！」</tutorial.roles.message.6_player>
 <tutorial.roles.popup.moveright>移動至右方的房間繼續。</tutorial.roles.popup.moveright>
 <tutorial.roles.popup.creworders>使用[InputType.CrewOrders]切換顯示船員列表。</tutorial.roles.popup.creworders>
