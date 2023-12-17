@@ -27,7 +27,7 @@ Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/iss
 - Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 
-# Project files
+# Main files
 Inside this project's [current_version](./current_version) folder, there are 5 files in total:
 
 ### NPC conversations:
