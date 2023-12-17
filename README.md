@@ -27,7 +27,7 @@
 - 配合大部分隨機生成的NPC和地區名稱都尚無翻譯，保留了任務與事件中提到的人物與地區等的英文名稱。
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 
-# 專案中的檔案
+# 重點檔案
 在此專案中的 [current_version](./current_version) 資料夾裡，共有 5 個檔案，分別為
 
 ### NPC對話:
