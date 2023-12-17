@@ -31,13 +31,11 @@ Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/iss
 Inside this project's [current_version](./current_version) folder, there are 5 files in total:
 
 ### NPC conversations:
-
-Game file located at `Steam\steamapps\common\Barotrauma\Content\NPCConversations\TraditionalChinese`
+Vanilla file at `...\Barotrauma\Content\NPCConversations\TraditionalChinese`
 - **NpcConversations_TraditionalChinese.xml**
 
 ### UI/Game texts:
-
-Game file located at `Steam\steamapps\common\Barotrauma\Content\Texts\TraditionalChinese`
+Vanilla files at `...\Barotrauma\Content\Texts\TraditionalChinese`
 - **TraditionalChineseVanilla.xml** - Gameplay UI, items, events, etc.
   - This file is a combination of ~Vanilla.xml and ~VanillaNew.xml
 - **TraditionalChineseVanillaEditorTexts.xml** - Editor related items, UI, etc.
