@@ -1,0 +1,22 @@
+<!-- EnglishVanillaNew.xml -->
+<!-- edited by nokau for v0.17.15.0 -->
+<!-- INDEX: EnglishVanilla.xml (1~6424), EnglishVanillaEditorTexts.xml (6426~7722), EnglishVanilla EnglishVanillaNew.xml (7724~7745) -->
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+
+
+<!-- Modified values after April 4 (Urban Expanses update) -->
+
+<price>價格: [amount]</price>
+<deliveryfee>運費: [amount]</deliveryfee>
+
+<serverprocessclosed>伺服器程序意外關閉。</serverprocessclosed>
+<serverprocesscrashed>伺服器程序已崩潰。已在遊戲的根目錄中產生了一份崩潰報告 ([reportfilepath])。</serverprocesscrashed>
+  
+
+<!-- New values after April 4 (Urban Expanses update) -->
+
+<WaitingForStartGameFinalizeTakingTooLong>回合似乎花了較多時間讀取。你想要停止等待伺服器回應並返回伺服器大廳嗎？</WaitingForStartGameFinalizeTakingTooLong>
+  
+</infotexts>
