@@ -21,9 +21,9 @@
 <allowedlinks>可與其建立連結</allowedlinks>
 <filtermapentities>篩選</filtermapentities>
 <charactermodebutton>角色模式</charactermodebutton>
-<charactermodetooltip>使你能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
+<charactermodetooltip>使您能夠撿起並使用物品。對放置物品進入櫃子、啟動/關閉設備、或配線時更為便利。</charactermodetooltip>
 <wiringmodebutton>配線模式</wiringmodebutton>
-<wiringmodetooltip>允許你對物品進行配線。</wiringmodetooltip>
+<wiringmodetooltip>允許您對物品進行配線。</wiringmodetooltip>
 <generatewaypointsbutton>產生Waypoint</generatewaypointsbutton>
 <generatewaypointstooltip>AI控制的船員需要以Waypoint作為在潛艇中的移動標示。</generatewaypointstooltip>
 <showentitieslabel>顯示</showentitieslabel>
@@ -37,7 +37,7 @@
 <showhulls>Hull</showhulls>
 <showgaps>Gap</showgaps>
 <previouslyusedlabel>先前使用</previouslyusedlabel>
-<subnamemissingwarning>在儲存之前，請為你的潛艇命名。</subnamemissingwarning>
+<subnamemissingwarning>在儲存之前，請為您的潛艇命名。</subnamemissingwarning>
 <subnameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</subnameillegalcharswarning>
 <subsavednotification>潛艇已儲存至 [filepath]。</subsavednotification>
 <savesubdialogheader>儲存潛艇</savesubdialogheader>
@@ -48,17 +48,17 @@
 <saveitemassemblyhideinmenus>在主選單中隱藏</saveitemassemblyhideinmenus>
 <saveitemassemblydialogname>名稱</saveitemassemblydialogname>
 <saveitemassemblydialogdescription>描述</saveitemassemblydialogdescription>
-<itemassemblynamemissingwarning>在儲存之前，請為你的物件組合命名。</itemassemblynamemissingwarning>
-<itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。你要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
+<itemassemblynamemissingwarning>在儲存之前，請為您的物件組合命名。</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。您要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
 <nohullswarning>潛艇上沒有 Hull。Hull 用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
 <disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
 <disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
 <nocargospawnpointwarning>這艘潛艇沒有為貨物提供 Spawnpoint (用以定義自商店購買的物品去處)。請放置新的 Spawnpoint 並調整它的 Spawn Type 為 Cargo。</nocargospawnpointwarning>
-<farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。你想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
-<adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，你想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
-<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。你也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
+<farawayentitieswarning>有一項或多項結構/物件被放置在離潛艇非常遙遠的地方。您想要將攝影機移動至它們之上嗎？</farawayentitieswarning>
+<adjustlightsprompt>這艘潛艇是以不同光線運算方式的舊版潛淵症儲存。潛艇上的燈光或許會顯得過於明亮，您想要自動調整它們以配合目前的光線運算方式嗎？</adjustlightsprompt>
+<adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。您也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
 <noballasttagswarning>位於壓載艙的抽水機應在其 Tags 欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
 <insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
 <nohullnameswarning>沒有 Hull 被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
@@ -70,9 +70,9 @@
 <reloadsprite>重新讀取Sprite</reloadsprite>
 <resettoprefab>回復至預設</resettoprefab>
 <mirrorentityx>鏡射 X</mirrorentityx>
-<mirrorentityxtooltip>水平翻轉這個物件，你也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
+<mirrorentityxtooltip>水平翻轉這個物件，您也能使用快速鍵 Ctrl + N。</mirrorentityxtooltip>
 <mirrorentityy>鏡射 Y</mirrorentityy>
-<mirrorentityytooltip>垂直翻轉這個物件，你也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
+<mirrorentityytooltip>垂直翻轉這個物件，您也能使用快速鍵 Ctrl + M。</mirrorentityytooltip>
 <nonlinkedgapswarning>潛艇上有 Gap 未與任何 Hull 交集。Gap 應被置於至少一個 Hull 上 (如要通往潛艇外) 或橫跨於多個 Hull 之間。</nonlinkedgapswarning>
 <cannoteditvanillasubs>無法覆蓋已存在遊戲本體內容中的潛艇檔案！</cannoteditvanillasubs>
 <subeditor.structurecountwarning>這艘潛艇上有非常大量的結構配件，有可能會對遊戲運作造成影響，請考慮減少結構配件數量。</subeditor.structurecountwarning>
@@ -85,9 +85,9 @@
 <subeditor.lightcounterror>這艘潛艇上有太多的燈光 (>[max])，這會對遊戲運作造成影響，請減少燈光數量。</subeditor.lightcounterror>
 <subeditor.shadowcastinglightcounterror>這艘潛艇上有太多投射陰影的燈光 (>[max])，這會對遊戲運作造成影響，請減少投射陰影的燈光數量，或將部分燈光的陰影投射關閉。</subeditor.shadowcastinglightcounterror>
 <canattachtoprevious>能以何處連結</canattachtoprevious>
-<canattachtoprevious.tooltip>這個模組的哪個方向能與其它模組連結。若你想要此模組被至於另一模組的左側，你可以選擇此模組的右方。</canattachtoprevious.tooltip>
-<subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取你想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
-<subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。你想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
+<canattachtoprevious.tooltip>這個模組的哪個方向能與其它模組連結。若您想要此模組被至於另一模組的左側，您可以選擇此模組的右方。</canattachtoprevious.tooltip>
+<subeditor.packagealreadyexists>已經有一個名為 "[name]" 的內容套件。請使用別的名稱或自列表選取您想要進行編輯的內容套件。</subeditor.packagealreadyexists><!--ADD-->
+<subeditor.duplicatesubinpackage>該內容套件中已經包含了一艘同名的潛艇。您想要覆蓋已經存在的潛艇檔案嗎？</subeditor.duplicatesubinpackage><!--ADD-->
 <stringpropertytranslate>此串文字將被轉換為 [translation]。</stringpropertytranslate>
 <stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的文字。</stringpropertycannottranslate>
 <subeditorlights>燈光</subeditorlights>
