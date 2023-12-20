@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.2.6.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
-<!-- INDEX: EnglishVanilla.xml (1~8249), EnglishVanillaNew.xml (8250~8261) -->
+<!-- edited by nokau for v1.2.7.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
+<!-- INDEX: EnglishVanilla.xml (1~8249), EnglishVanillaNew.xml (8250~8264) -->
 <!-- Loading Screen -->
 <loading>載入中...</loading>
 <pressanykey>按任意鍵繼續</pressanykey>
@@ -8256,5 +8256,8 @@
 <!-- Modified values after winter update -->
 
 <!-- New values after winter update -->
+
+<!-- New values fix/water-in-hulls-warning -->
+<waterinhullswarning>部分 Hull 當中有水。如果這不是預期的結果，您可以在控制台中輸入 water 指令後手動將水移除。</waterinhullswarning>
 
 </override></infotexts>

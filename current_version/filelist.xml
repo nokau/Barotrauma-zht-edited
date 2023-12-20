@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="中文(繁體) Edited" modversion="9.0.1" corepackage="False" steamworkshopid="2804180128" gameversion="1.2.7.0">
+  <NPCConversations file="%ModDir%/NpcConversations_TraditionalChinese.xml" />
+  <Text file="%ModDir%/TraditionalChineseVanilla.xml" />
+  <Text file="%ModDir%/TraditionalChineseVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/TraditionalChineseVanillaEndgame.xml" />
+  <Text file="%ModDir%/TraditionalChineseVanillaFactions.xml" />
+  <Other file="%ModDir%/LICENSE.txt" />
+  <Other file="%ModDir%/readme_EN.txt" />
+  <Other file="%ModDir%/readme_TC.txt" />
+</contentpackage>
