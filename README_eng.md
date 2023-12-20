@@ -27,8 +27,8 @@ Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/iss
 - Most of the character and location names within missions and events are un-translated since all the generated names have no translation either.
 - These ship names are un-translated: Bunyip, Muikku, Selkie, Kastrull, Herja.
 
-# Main files
-Inside this project's [current_version](./current_version) folder, there are 5 files in total:
+# Files
+Inside the [current_version](./current_version) folder, there are 10 files in total:
 
 ### NPC conversations:
 Vanilla file at `...\Barotrauma\Content\NPCConversations\TraditionalChinese`
@@ -41,6 +41,13 @@ Vanilla files at `...\Barotrauma\Content\Texts\TraditionalChinese`
 - **TraditionalChineseVanillaEditorTexts.xml** - Editor related items, UI, etc.
 - **TraditionalChineseVanillaEndgame.xml** - Story related texts
 - **TraditionalChineseVanillaFactions.xml** - Faction related texts
+
+### Other files:
+- filelist.xml - Mod content package list
+- PreviewImage.png - Mod thumbnail
+- LICENSE.txt
+- readme_EN.txt
+- readme_TC.txt
 
 # Recommended Tools
 - Notepad++

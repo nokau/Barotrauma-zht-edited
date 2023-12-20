@@ -27,20 +27,27 @@
 - 配合大部分隨機生成的NPC和地區名稱都尚無翻譯，保留了任務與事件中提到的人物與地區等的英文名稱。
 - 保留 Bunyip、Muikku、Selkie、Kastrull、Herja 船艦名稱。
 
-# 重點檔案
-在此專案中的 [current_version](./current_version) 資料夾裡，共有 5 個檔案，分別為
+# 專案檔案
+在此專案中的 [current_version](./current_version) 資料夾裡，共有 10 個檔案
 
-### NPC對話:
+### NPC對話：
 對應 `...\Barotrauma\Content\NPCConversations\TraditionalChinese`
 - **NpcConversations_TraditionalChinese.xml**
 
-### UI、遊戲文字:
+### UI、遊戲文字：
 對應 `...\Barotrauma\Content\Texts\TraditionalChinese`
 - **TraditionalChineseVanilla.xml** - 遊戲UI、物品、任務等文字
   - 為 ~Vanilla.xml 與 ~VanillaNew.xml 的合併內容
 - **TraditionalChineseVanillaEditorTexts.xml** - 編輯器相關內容、UI等文字
 - **TraditionalChineseVanillaEndgame.xml** - 故事特殊段落文字
 - **TraditionalChineseVanillaFactions.xml** - 陣營相關內容文字
+
+### 其他檔案：
+- filelist.xml - Mod資訊檔案
+- PreviewImage.png - Mod圖片
+- LICENSE.txt
+- readme_EN.txt
+- readme_TC.txt
 
 # 推薦工具
 - Notepad++
