@@ -20,7 +20,6 @@ Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/iss
 - NPC conversations
 
 ### Notes
-- For multiplayer, the game seems to require all players/host to have the same game/some mod files.
 - Multiplayer texts like error messages, server managments, etc., might be way less complete/correct than other parts of the game.
 - Name differences for some items and devices.
 -	~~The item parameters in Submarine Editor, as well as the components(Wifi, Sin, Cos, etc.) are still in English.~~
