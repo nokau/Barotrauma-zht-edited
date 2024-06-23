@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.2.7.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the values are matched with each of the English text files as close as possible. -->
+<!-- edited by nokau for v1.5.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
 <!-- Generic -->
 <editor.saveall>Save All</editor.saveall>
   
@@ -275,6 +275,7 @@
 <sp.item.invulnerabletodamage.name>不受傷害</sp.item.invulnerabletodamage.name>
 <sp.item.invulnerabletodamage.description>啟用時，該物品不會受到來自任何來源的傷害。</sp.item.invulnerabletodamage.description>
 <sp.structure.indestructible.name>不可摧毀</sp.structure.indestructible.name>
+<sp.structure.castshadows.name>投射陰影</sp.structure.castshadows.name>
 <sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
 <sp.structure.spritecolor.name>Sprite色彩</sp.structure.spritecolor.name>
 <sp.structure.usedropshadow.name>使用投放陰影</sp.structure.usedropshadow.name>
@@ -305,6 +306,8 @@
 <sp.door.usebetweenoutpostmodules.description>這扇門是否通往其他哨站模組？僅影響哨站模組。</sp.door.usebetweenoutpostmodules.description>
 <sp.door.botsshouldkeepopen.name>Bot保持敞開</sp.door.botsshouldkeepopen.name>
 <sp.door.botsshouldkeepopen.description>啟用時，Bots將不會在通過後關上此門。</sp.door.botsshouldkeepopen.description>
+<sp.door.ToggleWhenClicked>點擊時切換</sp.door.ToggleWhenClicked>
+<sp.door.ToggleWhenClicked.description>若此艙門附帶按鈕，點擊它們時是否進行預設的開門動作？與「activate_out」端點搭配使用將能在有人嘗試以按鈕開關門時僅輸出訊號而不切換門的開閉狀態。</sp.door.ToggleWhenClicked.description>
 <sp.itemcomponent.pickingtime.name>拾取時間</sp.itemcomponent.pickingtime.name>
 <sp.itemcomponent.pickingtime.description>撿起此物品需要的時間 (秒)。</sp.itemcomponent.pickingtime.description>
 <sp.itemcomponent.canbepicked.name>可被拾取</sp.itemcomponent.canbepicked.name>
@@ -411,10 +414,11 @@
 <sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
 <sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
 <sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
+
 <sp.controller.state.name>狀態</sp.controller.state.name>
 <sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
 <sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
-<sp.Deconstructor.DeconstructionSpeed.name>解構速度</sp.Deconstructor.DeconstructionSpeed.name>
+<sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
 <sp.Deconstructor.DeconstructionSpeed.description>拆解物品時的速度加乘。</sp.Deconstructor.DeconstructionSpeed.description>
 <sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
 <sp.engine.maxforce.description>當引擎以全力運轉時對潛艇施加的力量大小。</sp.engine.maxforce.description>
@@ -566,29 +570,17 @@
 <sp.turret.rotationspeedhighskill.name>高技能旋轉速度</sp.turret.rotationspeedhighskill.name>
 <sp.turret.rotationspeedhighskill.description>技能水準足夠的角色在操作砲塔時，砲塔的最大旋轉速度。</sp.turret.rotationspeedhighskill.description>
 <sp.turret.AutoOperate.name>自動操作</sp.turret.AutoOperate.name>
-<sp.turret.AutoOperate.description>此砲塔是否使用AI自動操作？以下為其可調整的選用隨機動態。</sp.turret.AutoOperate.description>
 <sp.turret.RandomAimAmount.name>隨機瞄準量</sp.turret.RandomAimAmount.name>
-<sp.turret.RandomAimAmount.description>[自動操作] 砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
 <sp.turret.RandomAimMinTime.name>隨機瞄準最短時間</sp.turret.RandomAimMinTime.name>
-<sp.turret.RandomAimMinTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
 <sp.turret.RandomAimMaxTime.name>隨機瞄準最長時間</sp.turret.RandomAimMaxTime.name>
-<sp.turret.RandomAimMaxTime.description>[自動操作] 砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
 <sp.turret.RandomMovement.name>隨機動作</sp.turret.RandomMovement.name>
-<sp.turret.RandomMovement.description>[自動操作] 砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
 <sp.turret.AimDelay.name>瞄準延遲</sp.turret.AimDelay.name>
-<sp.turret.AimDelay.description>[自動操作] 砲塔對目標進行瞄準時是否延遲而非完美地進行瞄準？</sp.turret.AimDelay.description>
 <sp.turret.TargetCharacters.name>角色目標</sp.turret.TargetCharacters.name>
-<sp.turret.TargetCharacters.description>[自動操作] 砲塔是否將角色設為目標？</sp.turret.TargetCharacters.description>
 <sp.turret.TargetMonsters.name>怪物目標</sp.turret.TargetMonsters.name>
-<sp.turret.TargetMonsters.description>[自動操作] 砲塔是否將怪物設為目標？</sp.turret.TargetMonsters.description>
 <sp.turret.TargetHumans.name>人類目標</sp.turret.TargetHumans.name>
-<sp.turret.TargetHumans.description>[自動操作] 砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
 <sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
-<sp.turret.TargetSubmarines.description>[自動操作] 砲塔是否將潛艇設為目標？</sp.turret.TargetSubmarines.description>
 <sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
-<sp.turret.TargetItems.description>[自動操作] 砲塔是否將物品設為目標？</sp.turret.TargetItems.description>
 <sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
-<sp.turret.FriendlyTag.description>[自動操作] 在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
 <sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
 <sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
 <sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
@@ -1308,75 +1300,92 @@
 <!-- The following texts are only used in "hidden editors" only accessible by console commands and intended for very advanced modders (and the devs), these don't need to be localized -->
 
 <!-- Sprite editor -->
-<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
-<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
-<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
-<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
-<spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
-<spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
-<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
-<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
-<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
-<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
-<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
+<spriteeditor.reloadtexture>重新讀取貼圖</spriteeditor.reloadtexture>
+<spriteeditor.texturesreloaded>已重新自[filepath]讀取貼圖</spriteeditor.texturesreloaded>
+<spriteeditor.resetchanges>重置變更</spriteeditor.resetchanges>
+<spriteeditor.resetsuccessful>成功重置變更</spriteeditor.resetsuccessful>
+<spriteeditor.saveselectedsprites>儲存所選Sprites</spriteeditor.saveselectedsprites>
+<spriteeditor.saveallsprites>儲存所有Sprites</spriteeditor.saveallsprites>
+<spriteeditor.zoom>縮放:</spriteeditor.zoom>
+<spriteeditor.resetzoom>重設縮放</spriteeditor.resetzoom>
+<spriteeditor.showgrid>顯示格線</spriteeditor.showgrid>
+<spriteeditor.snaptogrid>吸附格線</spriteeditor.snaptogrid>
+<spriteeditor.backgroundcolor>背景\n色彩:</spriteeditor.backgroundcolor>
 <spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
 <spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
 <spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
-<spriteeditor.allchangessavedto>All changes saved to:</spriteeditor.allchangessavedto>
+<spriteeditor.allchangessavedto>已儲存所有變更至:</spriteeditor.allchangessavedto>
 
 <!-- Event editor -->
-<eventeditor.loadevent>Load event prefab</eventeditor.loadevent>
-<eventeditor.addaction>Add event action</eventeditor.addaction>
-<eventeditor.addvalue>Add value</eventeditor.addvalue>
-<eventeditor.addspecial>Add special</eventeditor.addspecial>
-<eventeditor.add>Add</eventeditor.add>
-<eventeditor.edit>Edit value</eventeditor.edit>
-<eventeditor.delete>Delete node</eventeditor.delete>
-<eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
-<eventeditor.removeoption>Remove option</eventeditor.removeoption>
-<eventeditor.addoption>Add option</eventeditor.addoption>
-<eventeditor.saveproject>Save project</eventeditor.saveproject>
-<eventeditor.loadproject>Load project</eventeditor.loadproject>
-<eventeditor.newproject>New project</eventeditor.newproject>
-<eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
-<eventeditor.export>Export as event</eventeditor.export>
-<eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
-<eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
-<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
-<eventeditor.opentextheader>Open event</eventeditor.opentextheader>
-<eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
-<eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
-<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined, so they have been automatically generated.</eventeditor.randomgenerationbody>
+<eventeditor.loadevent>讀取事件預製</eventeditor.loadevent>
+<eventeditor.addaction>加入事件動作</eventeditor.addaction>
+<eventeditor.addvalue>加入數值</eventeditor.addvalue>
+<eventeditor.addspecial>加入特殊</eventeditor.addspecial>
+<eventeditor.add>加入</eventeditor.add>
+<eventeditor.edit>編輯數值</eventeditor.edit>
+<eventeditor.delete>刪除節點</eventeditor.delete>
+<eventeditor.removeconnection>清除連結</eventeditor.removeconnection>
+<eventeditor.removeoption>移除選項</eventeditor.removeoption>
+<eventeditor.addoption>加入選項</eventeditor.addoption>
+<eventeditor.saveproject>儲存專案</eventeditor.saveproject>
+<eventeditor.loadproject>讀取專案</eventeditor.loadproject>
+<eventeditor.newproject>新專案</eventeditor.newproject>
+<eventeditor.newprojectprompt>您確定要建立一個新的專案？將遺失所有未儲存的進度。</eventeditor.newprojectprompt>
+<eventeditor.export>匯出為事件</eventeditor.export>
+<eventeditor.namefileprompt>另存專案為</eventeditor.namefileprompt>
+<eventeditor.exportprojectprompt>匯出專案為</eventeditor.exportprojectprompt>
+<eventeditor.unnamed>未命名</eventeditor.unnamed>
+<eventeditor.opentextheader>開啟事件</eventeditor.opentextheader>
+<eventeditor.opentextbody>您要於文字編輯器中開啟匯出的事件嗎？</eventeditor.opentextbody>
+<eventeditor.randomgenerationheader>沒有找到節點位置</eventeditor.randomgenerationheader>
+<eventeditor.randomgenerationbody>此事件並非以事件編輯器製作且無已定義的節點位置；已自動產生新的節點位置。</eventeditor.randomgenerationbody>
 
 <!-- Particle editor -->
-<particleeditor.emitter>Emitter</particleeditor.emitter>
+<particleeditor.emitter>發射器</particleeditor.emitter>
 
 <!-- Level editor -->
-<leveleditor.levelseed>Level Seed</leveleditor.levelseed>
-<leveleditor.generate>Generate</leveleditor.generate>
-<leveleditor.test>Test</leveleditor.test>
-<leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
-<leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
-<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
-<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
-<leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
-<leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
-<leveleditor.childobjects>Child Objects</leveleditor.childobjects>
-<leveleditor.addchildobject>Add Child Object</leveleditor.addchildobject>
-<leveleditor.lightsources>Light Sources</leveleditor.lightsources>
-<leveleditor.addlightsource>Add Light Source</leveleditor.addlightsource>
-<leveleditor.createlevelobj>Create a Level Object</leveleditor.createlevelobj>
-<leveleditor.levelobjname>Name</leveleditor.levelobjname>
-<leveleditor.levelobjtexturepath>Texture Path</leveleditor.levelobjtexturepath>
-<leveleditor.levelobjnameempty>Please enter a name for the level object.</leveleditor.levelobjnameempty>
-<leveleditor.levelobjnametaken>The selected name is already in use.</leveleditor.levelobjnametaken>
-<leveleditor.levelobjtexturenotfound>Could not find the selected texture file.</leveleditor.levelobjtexturenotfound>
-<leveleditor.ruinparams>Ruin parameters</leveleditor.ruinparams>
-<leveleditor.caveparams>Cave parameters</leveleditor.caveparams>
-<leveleditor.outpostparams>Outpost parameters</leveleditor.outpostparams>
-<leveleditor.addmoduletype>Add module type</leveleditor.addmoduletype>
-<leveleditor.allowinvalidoutpost>Allow invalid outposts</leveleditor.allowinvalidoutpost>
-<leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
-<leveleditor.allsaved>All changes saved</leveleditor.allsaved>
+<leveleditor.levelseed>地圖種子</leveleditor.levelseed>
+<leveleditor.generate>產生</leveleditor.generate>
+<leveleditor.test>測試</leveleditor.test>
+<leveleditor.lightingenabled>啟用燈光</leveleditor.lightingenabled>
+<leveleditor.cursorlightenabled>啟用游標燈光</leveleditor.cursorlightenabled>
+<leveleditor.reloadtextures>重新讀取貼圖</leveleditor.reloadtextures>
+<leveleditor.spriteeditdone>完成</leveleditor.spriteeditdone>
+<leveleditor.levelobjcommonness>於[leveltype]中通用性</leveleditor.levelobjcommonness>
+<leveleditor.editsprite>編輯Sprite</leveleditor.editsprite>
+<leveleditor.childobjects>子物件</leveleditor.childobjects>
+<leveleditor.addchildobject>加入子物件</leveleditor.addchildobject>
+<leveleditor.lightsources>光源</leveleditor.lightsources>
+<leveleditor.addlightsource>加入光源</leveleditor.addlightsource>
+<leveleditor.createlevelobj>建立地圖物件</leveleditor.createlevelobj>
+<leveleditor.levelobjname>名稱</leveleditor.levelobjname>
+<leveleditor.levelobjtexturepath>貼圖位址</leveleditor.levelobjtexturepath>
+<leveleditor.levelobjnameempty>請為此地圖物件輸入名稱。</leveleditor.levelobjnameempty>
+<leveleditor.levelobjnametaken>所選擇的名稱已在使用中。</leveleditor.levelobjnametaken>
+<leveleditor.levelobjtexturenotfound>找不到所選擇的貼圖檔案。</leveleditor.levelobjtexturenotfound>
+<leveleditor.ruinparams>遺跡參數</leveleditor.ruinparams>
+<leveleditor.caveparams>洞穴參數</leveleditor.caveparams>
+<leveleditor.outpostparams>哨站參數</leveleditor.outpostparams>
+<leveleditor.addmoduletype>加入模組種類</leveleditor.addmoduletype>
+<leveleditor.allowinvalidoutpost>允許產生無效哨站</leveleditor.allowinvalidoutpost>
+<leveleditor.allowinvalidoutpost.tooltip>是否允許哨站產生器產生無法正常運作的哨站 (例如缺少必要的哨站模組) 而不以備用哨站取代它。對哨站生成進行除錯時可能有所幫助。</leveleditor.allowinvalidoutpost.tooltip>
+<leveleditor.allsaved>已保存所有變更</leveleditor.allsaved>
+
+<!-- Modified values May 27th, 2024 -->
+<sp.turret.AutoOperate.description>此砲塔進行自動操作時是否以AI進行瞄準？以下為其可調整的選用隨機動態。以下數值也可透過訊號 (電線) 調整，但僅在自編輯器中啟用「自動操作」功能時有效。</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.description>砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.description>砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.description>砲塔對目標進行瞄準時是否延遲或以完美時機進行瞄準？</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.description>砲塔是否將大部分角色視為目標？</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.description>砲塔是否將所有怪物視為目標？</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.description>砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.description>砲塔是否將潛艇視為目標？</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.description>砲塔是否將物品視為目標？</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.description>在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
+<!-- New values May 27th, 2024 -->
+<sp.turret.AutoOperate.propertyheader>自動操作</sp.turret.AutoOperate.propertyheader>
+<sp.powered.propertyheader>電力元件</sp.powered.propertyheader>
 
 </override></infotexts>
