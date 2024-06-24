@@ -8,7 +8,7 @@ Use it at your own risk, as the editing is based solely on my own experience and
 
 Repo history is a big mess; I'm unfamiliar with version control concept and all the GitHub functions.
 
-### Report issue
+### Report issues
 Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page and click on the green `New issue` button, then select an issue type.
 
 ### Send suggestions
