@@ -6,10 +6,16 @@ This is a Traditional Chinese localization mod for the video game Barotrauma, ba
 
 Use it at your own risk, as the editing is based solely on my own experience and preference; I cannot guarantee that all edits are accurate.
 
-Repo history is a big mess; I'm still tuning into the version control concept and GitHub functions.
+Repo history is a big mess; I'm unfamiliar with version control concept and all the GitHub functions.
 
-# Report issue, send suggestions
-Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page and click on the green `New issue` button, then click the `Get started` button on the right side of an issue type. Since this is a Traditional Chinese localization, please send your issues in Traditional Chinese if possible.
+### Report issue
+Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page and click on the green `New issue` button, then select an issue type.
+
+### Send suggestions
+
+Head over to the [Discussions](https://github.com/nokau/Barotrauma.zht.edited.mod/discussions) page and click on the green `New discussion` button, then select an discussion type.
+
+Since this is a Traditional Chinese localization, please send your issues/discussions in Traditional Chinese if possible.
 
 # For now this project has most of the texts edited, including:
 - Main menu UI
