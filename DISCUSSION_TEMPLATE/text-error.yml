@@ -1,0 +1,20 @@
+name: "文本錯誤/Text Error"
+description: 發現錯字、漏字、多字、未被翻譯等等。(Report typos.)
+title: "[Text Error] 請使用與內容直接相關且詳細的標題"
+labels: ["文本錯誤/text-error"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "我已確認："
+      options:
+        - label: "Issues 頁面中沒有尚為 Open 的相關主題。"
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "發現錯誤："
+      description: 輸入與問題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。
+    validations:
+      required: true
+      
