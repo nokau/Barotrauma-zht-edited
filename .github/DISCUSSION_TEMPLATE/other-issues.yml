@@ -1,5 +1,5 @@
 title: "[Other Issues] 請使用與內容直接相關且詳細的標題"
-labels: ["other-issues"]
+labels: ["other issues"]
 body:
   - type: checkboxes
     id: checks
