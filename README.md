@@ -8,8 +8,11 @@
 
 專案歷史頗混亂；我還在摸索版本控制和GitHub功能。
 
-# 問題回報、編輯建議
-請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，並點選右方綠色的 `New issue` 按鈕進入另一頁面後，再點選於回報主題右方的綠色 `Get started` 按鈕。
+# 問題回報
+請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，並點選右方綠色的 `New issue` 按鈕進入另一頁面後選擇回報主題。
+
+#編輯建議
+請至 [Discussions](https://github.com/nokau/Barotrauma.zht.edited.mod/discussions) 頁面，並點選右方綠色的 `New discussion` 按鈕進入另一頁面後選擇回報主題。
 
 # 這個Mod目前已調整了大部分遊戲元素文本，包含:
 - 主選單UI
