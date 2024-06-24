@@ -8,6 +8,13 @@ body:
       options:
         - label: "Discussions 頁面中沒有類似相關主題。"
           required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "我瞭解："
+      options:
+        - label: "在此發表建議不代表其必定會成為此模組的修改方向。"
+          required: true
   - type: textarea
     id: what-happened
     attributes:
