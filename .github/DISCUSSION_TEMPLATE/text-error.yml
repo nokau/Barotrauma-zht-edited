@@ -1,5 +1,5 @@
-title: "Text Error"
-labels: ["[Text Error] 請使用與內容直接相關且詳細的標題"]
+title: "[Text Error] 請使用與內容直接相關且詳細的標題"
+labels: ["text-error"]
 body:
   - type: checkboxes
     id: checks
