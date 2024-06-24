@@ -2,14 +2,14 @@ title: "[Suggestions] 請使用與內容直接相關且詳細的標題"
 labels: ["suggestions"]
 body:
   - type: checkboxes
-    id: checks
+    id: checks1
     attributes:
       label: "我已確認："
       options:
         - label: "Discussions 頁面中沒有類似相關主題。"
           required: true
   - type: checkboxes
-    id: checks
+    id: checks2
     attributes:
       label: "我瞭解："
       options:
