@@ -1,0 +1,18 @@
+title: "[Other Issues] 請使用與內容直接相關且詳細的標題"
+labels: ["other-issues"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "我已確認："
+      options:
+        - label: "Discussions 頁面中沒有類似相關主題。"
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: "我的問題："
+      description: 輸入與主題直接相關且詳細的文字敘述，盡量勿只有圖片以便以文字搜尋。
+    validations:
+      required: true
+      
