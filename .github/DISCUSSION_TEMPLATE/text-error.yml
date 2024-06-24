@@ -1,5 +1,5 @@
-title: "文本錯誤/Text Error"
-labels: ["文本錯誤/text-error"]
+title: "Text Error"
+labels: ["文本錯誤"]
 body:
   - type: checkboxes
     id: checks
