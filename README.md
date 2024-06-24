@@ -6,12 +6,12 @@
 
 僅以個人經驗與偏好進行調整，還請斟酌使用；我無法保證這個文本中語句和詞彙的精確度等等。
 
-專案歷史頗混亂；我還在摸索版本控制和GitHub功能。
+專案歷史也頗混亂；個人尚在摸索版本控制和GitHub功能。
 
-# 問題回報
+### 回報問題
 請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，並點選右方綠色的 `New issue` 按鈕進入另一頁面後選擇回報主題。
 
-# 編輯建議
+### 編輯建議
 請至 [Discussions](https://github.com/nokau/Barotrauma.zht.edited.mod/discussions) 頁面，並點選右方綠色的 `New discussion` 按鈕進入另一頁面後選擇回報主題。
 
 # 這個Mod目前已調整了大部分遊戲元素文本，包含:
