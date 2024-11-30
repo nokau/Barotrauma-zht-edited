@@ -11,7 +11,7 @@ Repo history is a big mess; I'm unfamiliar with version control concept and all 
 ### Report issues
 Head over to the [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) page and click on the green `New issue` button, then select an issue type.
 
-### Send suggestions
+### Share suggestions
 
 Head over to the [Discussions](https://github.com/nokau/Barotrauma.zht.edited.mod/discussions) page and click on the green `New discussion` button, then select an discussion type.
 
