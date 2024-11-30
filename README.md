@@ -11,7 +11,7 @@
 ### 回報問題
 請至 [Issues](https://github.com/nokau/Barotrauma.zht.edited.mod/issues) 頁面，並點選右方綠色的 `New issue` 按鈕進入另一頁面後選擇回報主題。
 
-### 編輯建議
+### 發表建議
 請至 [Discussions](https://github.com/nokau/Barotrauma.zht.edited.mod/discussions) 頁面，並點選右方綠色的 `New discussion` 按鈕進入另一頁面後選擇回報主題。
 
 # 這個Mod目前已調整了大部分遊戲元素文本，包含:
