@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.5.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
+<!-- edited by nokau for v1.8.8.1; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
 <!-- New values -->
 <loadingscreentip>自首次對歐羅巴展開的無人偵查中發現了歐羅巴之眼及其周遭的重力異常現象以來，它們一直使科學家們困惑不解。但對歐羅巴上的殖民者而言有一個好消息，歐羅巴之眼周遭的重力和地球非常相近，而不是如其他地方0.13 G的表面重力。</loadingscreentip>
 <eyeofeuropa>歐羅巴之眼</eyeofeuropa>
@@ -101,6 +101,9 @@
 <eventtext.alienwriting.1_1>歌者誕生──聽眾彙聚\n[無法翻譯？] 蔓生──陵駕光燭\n堡壘築起──為容納──為保護</eventtext.alienwriting.1_1><!-- use ── -->
 <eventtext.alienwriting.2_1>冰下孵化生命──形成意識\n知識混凝──文明衍化\n與危險絕緣</eventtext.alienwriting.2_1><!-- use ── -->
 <eventtext.alienwriting.3_1>歌聲未停──成長先滯\n此間無星僅有家園\n此間無識，僅有[無法翻譯？]</eventtext.alienwriting.3_1><!-- use ── -->
+<eventtext.alienwriting.4_1>歌者孤獨——虔誠者渴望[無法翻譯]？\n一道橋樑，使其臨近\n偉大之球已然築成</eventtext.alienwriting.4_1><!--ChatGPT-->
+<eventtext.alienwriting.5_1>何者為先——YOH-WEY、虔誠者、天降之族\n此者不知，但確然為最後之一\n除非他們能熄滅光輝</eventtext.alienwriting.5_1><!--ChatGPT-->
+<eventtext.alienwriting.6_1>偉大之球的光輝\n我們是不解，還是未曾[無法翻譯]？\n橋樑召喚其降臨</eventtext.alienwriting.6_1><!--ChatGPT-->
 <EventText.ancientencounter.c1>你的餘光看到了什麼東西出現。它有著人的輪廓但若隱若現，外觀隨著你的觀察不斷地生滅變化。\n猶如溫暖的輕撫，它的思想蔓入了你的腦海，包裹了你的腦袋。\n「止步，闖入者。汝踏入了不屬於汝等的聖地。此處對汝等而言得不到任何東西。」</EventText.ancientencounter.c1>
 <EventText.ancientencounter.o1>「你是誰？」</EventText.ancientencounter.o1>
 <EventText.ancientencounter.o1.c1>「吾非，吾族亦非。『優維』之歌流淌忠誠者中。歌聲不停，他們便會傾聽... 而酣夢。」</EventText.ancientencounter.o1.c1>

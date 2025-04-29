@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.5.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
+<!-- edited by nokau for v1.8.8.1; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
 <!-- Generic -->
-<editor.saveall>Save All</editor.saveall>
+<editor.saveall>全部儲存</editor.saveall>
   
 <!-- Submarine editor -->
 <items>物件</items>
@@ -34,6 +34,7 @@
 <showwaypoints>Waypoint</showwaypoints>
 <showspawnpoints>Spawnpoint</showspawnpoints>
 <showlinks>連結</showlinks>
+<hulllinkinfo>多個連結的 Hull 於狀態監視器中將顯示為同一個艙房。</hulllinkinfo>
 <showhulls>Hull</showhulls>
 <showgaps>Gap</showgaps>
 <previouslyusedlabel>先前使用</previouslyusedlabel>
@@ -52,6 +53,7 @@
 <itemassemblyfileexistswarning>已經存在使用相同名稱的物件組合。您要覆蓋已存在的物件組合嗎？</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>名稱中含有無法使用的符號 ([illegalchar])</itemassemblynameillegalcharswarning>
 <nohullswarning>潛艇上沒有 Hull。Hull 用於定義船艙的邊界，也用於使艙內的空氣與水能正確分佈。</nohullswarning>
+<NoSuitableBrainRoomsWarning>找不到合適的艙房放置丘腦大腦，將隨機選擇艙房。殘骸將受到修改使至少一個艙房達成以下條件: 無相互連結的 Hull、地板之間沒有空隙或對外開口、且 Hull 內無其他丘腦物品。</NoSuitableBrainRoomsWarning>
 <disconnectedventswarning>潛艇上包含尚未與製氧機連結的通風口。選取通風口後按住空白鍵並點選欲與其建立連結的製氧機。</disconnectedventswarning>
 <disconnectedturretswarning>潛艇上有尚未與裝彈機連結的[itemname]。選擇該物件後按住空白鍵並點選欲與其建立連結的物件。</disconnectedturretswarning>
 <nowaypointswarning>潛艇上沒有Waypoint。AI控制船員將無法在沒有Waypoint的情況下活動。</nowaypointswarning>
@@ -61,6 +63,9 @@
 <adjustedlightsnotification>已調整燈光亮度。多盞燈光的空間或許會顯得依舊過於明亮且需要透過手動調整。您也能夠在控制台中以 multiplylights 指令一次調整全部燈光。例如，輸入 multiplylights 1,1,1,0.5 將降低燈光的亮度至目前的50%。</adjustedlightsnotification>
 <noballasttagswarning>位於壓載艙的抽水機應在其 Tags 欄位中填入 ballast 使AI角色能夠分辨哪些抽水機被用於控制潛艇的浮力並做出對其被水淹沒時的正確反應。</noballasttagswarning>
 <insufficientfreeconnectionswarning>這個模組中有一個與[doorcount]扇門連結的配電箱，它的連線端點只夠供[freeconnectioncount]條額外的電線使用，這可能會使模組在互相連結時無法順利對其供電。</insufficientfreeconnectionswarning>
+<LowOxygenOutputWarning>[roomname]內的通風口可能無法供應維持一名船員呼吸的氧氣量。請考慮增加通風口數量或提升製氧機的輸出。</LowOxygenOutputWarning>
+<toolargeforendgamewarning>潛艇尺寸過大 (> 80m x 32m) 它將有可能無法通過最後階段地圖中的部分障礙物。或許有必要更換至較小型潛艇以順利完成戰役。</toolargeforendgamewarning>
+<waterinhullswarning>部分 Hull 中有水。若此非預期結果，您能使用控制台並以指令「water」將水移除。</waterinhullswarning>
 <nohullnameswarning>沒有 Hull 被命名；將自動進行調整。角色將在回報受損船體部位時使用這些名稱。</nohullnameswarning>
 <deletingcontainerwithitems>一個當中放有物品的容器被刪除了，要一併刪除其內容物嗎？\n\n內容物:\n\n</deletingcontainerwithitems>
 <hideinmenus>在主選單中隱藏</hideinmenus>
@@ -92,9 +97,37 @@
 <stringpropertycannottranslate>此串文字將不會被轉換──文本檔案中找不到與字串 [tag] 相關的文字。</stringpropertycannottranslate>
 <subeditorlights>燈光</subeditorlights>
 <subeditorshadowcastinglights>投射陰影的燈光</subeditorshadowcastinglights>
+<equipped.required>必須裝備特定物品才能互動</equipped.required>
+<equipped.required.tooltip>使用者必須穿戴或持有包含下列 Identifier 或 Tag 的物品才能與此元件互動。</equipped.required.tooltip><!--NEED EDIT-->
+<picked.required>必須持有特定物品才能互動</picked.required>
+<picked.required.tooltip>使用者必須穿戴或持有包含下列 Identifier 或 Tag 的物品才能與此元件互動。透過潛艇上的 Spawnpoint 為角色的ID卡指定 Tag 來限制特定職業的互動權限。</picked.required.tooltip><!--NEED EDIT-->
+<enemysub.reward>獎勵</enemysub.reward>
+<preferreddifficulty>偏好難易度</preferreddifficulty>
+<allowdamageddevices>允許受損設備</allowdamageddevices>
+<subeditor.duplicatefilenameerror>檔案儲存失敗。內容套件「[packagename]」中已包含同名潛艇，請使用別的名稱。</subeditor.duplicatefilenameerror>
+<editor.layer>圖層</editor.layer>
+<editor.layer.movetolayer>傳遞所選至圖層...</editor.layer.movetolayer>
+<editor.layer.createlayer>以所選建立新圖層</editor.layer.createlayer>
+<editor.layer.selectall>選擇此圖層中的所有物件</editor.layer.selectall>
+<editor.layer.nolayer>沒有圖層</editor.layer.nolayer>
+<editor.layer.newlayer>新圖層</editor.layer.newlayer>
+<editor.layer.renamelayer>重新命名圖層</editor.layer.renamelayer>
+<editor.layer.deletelayer>刪除圖層</editor.layer.deletelayer>
+<editor.layer.button>管理圖層</editor.layer.button>
+<editor.layer.tooltip>切換、建立、刪除、重新命名圖層</editor.layer.tooltip>
+<editor.layer.headerlink>群組</editor.layer.headerlink>
+<editor.layer.removefromlayer>清除所選圖層物件</editor.layer.removefromlayer>
+<editor.layer.selectlayer>選取圖層中物件</editor.layer.selectlayer>
+<editor.layer.headerlink.tooltip>同一圖層中的個別物件將被視為同一群組；選取它們其中任一物件將選取該圖層中的所有物件。</editor.layer.headerlink.tooltip>
+<editor.layer.editinglayer>正在編輯圖層: [layer]</editor.layer.editinglayer>
+<editor.layer.movetoactivelayer>將所選傳遞至作用中圖層</editor.layer.movetoactivelayer>
+<editor.layeroptions>圖層...</editor.layeroptions>
+<editor.layer.visiblebydefault>預設可見圖層</editor.layer.visiblebydefault>
+<editor.layer.headervisible>可見度</editor.layer.headervisible>
 
 <!-- Submarine editor -->
 <charactereditor.creatingnewjoint>建立新關節</charactereditor.creatingnewjoint>
+<charactereditor.totalmass>總質量: [mass]</charactereditor.totalmass>
 <charactereditor.selectanchor1pos>選擇作為此關節錨點的位置</charactereditor.selectanchor1pos>
 <charactereditor.selectlimbtoconnect>選擇另一肢體與關節連結</charactereditor.selectlimbtoconnect>
 <charactereditor.frozen>凍結</charactereditor.frozen>
@@ -248,9 +281,10 @@
 <charactereditor.newcontentpackage>新內容套件</charactereditor.newcontentpackage>
 <charactereditor.existingjointfound>肢體 [limbid1] 和 [limbid2] 之間已有關節！</charactereditor.existingjointfound>
 <charactereditor.unrestrict>無限制</charactereditor.unrestrict>
-<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
 <charactereditor.contentpackagenameinuse>已有相同名稱的內容套件存在。請使用其他名稱或自下拉選單中選擇該內容套件並將角色加入其中。</charactereditor.contentpackagenameinuse>
-<charactereditor.addmultiplelimbsbutton>添加多個</charactereditor.addmultiplelimbsbutton>
+<charactereditor.spritesheetorientationtooltip>Spritesheet 上所繪製圖案所面向方向。</charactereditor.spritesheetorientationtooltip>
+<charactereditor.spriteorientationtooltip>所選擇的 Spritesheet 上所繪製圖案的方向。</charactereditor.spriteorientationtooltip>
+<charactereditor.generalorientationtooltip>用於定義 Spritesheet 上所繪製圖案的「前方」。應調整為指向主要肢體之外的方向。若未正確定義此方向，角色在如轉向等狀況時，肢體將不正確地進行旋轉。</charactereditor.generalorientationtooltip>
 
 <!-- Entity properties -->
 <sp.scale.name>縮放</sp.scale.name>
@@ -284,7 +318,7 @@
 <sp.structure.texturescale.name>貼圖大小</sp.structure.texturescale.name>
 <sp.structure.textureoffset.name>貼圖位移</sp.structure.textureoffset.name>
 <sp.structure.removeiflinkedoutpostdoorinuse.name>僅在連結的哨站模組包含門時移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.description>此選項將使此結構在成為與其他哨站模組連結的接點時，僅在遇到門的條件下移除此結構。否則此結構一旦只要成為與其它哨站模組連結的接點時就會遭到移除。</sp.structure.removeiflinkedoutpostdoorinuse.description><!--not understand-->
+<sp.structure.removeiflinkedoutpostdoorinuse.description>當此設定為啟用，且此物件與另一哨站模組的門建立連結時，物件將在該門於哨站配置為使用中時遭到移除。此功能在如哨站模組相連接欲形成走道需移除牆體時非常有用。\n\n當此設定為停用時，則此功能將反向運作；此物件將在該門未被使用時遭到移除。在門不通往另一個模組時可用於移除不必要的梯子。</sp.structure.removeiflinkedoutpostdoorinuse.description>
 <sp.structure.noaitarget.name>不為AI目標</sp.structure.noaitarget.name>
 <sp.structure.noaitarget.description>啟用時，怪物不會嘗試破壞此結構。</sp.structure.noaitarget.description>
 <sp.structure.maxhealth.name>最大生命值</sp.structure.maxhealth.name>
@@ -414,10 +448,8 @@
 <sp.lightcomponent.blinkfrequency.description>燈光開關的頻率 (Hz)。0 = 不閃爍。</sp.lightcomponent.blinkfrequency.description>
 <sp.lightcomponent.lightcolor.description>燈光所發出光線的顏色 (R,G,B,A)。</sp.lightcomponent.lightcolor.description>
 <sp.controller.istoggle.name>為Toggle</sp.controller.istoggle.name>
-
 <sp.controller.state.name>狀態</sp.controller.state.name>
 <sp.controller.state.description>物品當下處於開/關狀態。僅在"為Toggle"啟用時有效。</sp.controller.state.description>
-<sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
 <sp.deconstructor.deconstructionspeed.name>解構速度</sp.deconstructor.deconstructionspeed.name>
 <sp.Deconstructor.DeconstructionSpeed.description>拆解物品時的速度加乘。</sp.Deconstructor.DeconstructionSpeed.description>
 <sp.engine.maxforce.name>最大出力</sp.engine.maxforce.name>
@@ -456,6 +488,7 @@
 <sp.sonar.hasmineralscanner.description>此聲納是否有礦物偵測模式。</sp.sonar.hasmineralscanner.description>
 <sp.steering.neutralballastlevel.name>壓載艙中立水位</sp.steering.neutralballastlevel.name>
 <sp.steering.neutralballastlevel.description>當潛艇未進行上浮/下潛時壓載艙的水位。能用於彌補壓載艙尺寸相對於潛艇過大/過小的情形。</sp.steering.neutralballastlevel.description>
+<sp.powered.propertyheader>電力元件</sp.powered.propertyheader>
 <sp.powercontainer.maxoutput.name>最大輸出功率</sp.powercontainer.maxoutput.name>
 <sp.powercontainer.maxoutput.description>當設備充滿電時的最大輸出功率 (kW)。</sp.powercontainer.maxoutput.description>
 <sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
@@ -496,6 +529,9 @@
 <sp.buttonterminal.signals.description>按下相應按鈕時所輸出的值。</sp.buttonterminal.signals.description>
 <sp.buttonterminal.activatingitems.name>啟動物品</sp.buttonterminal.activatingitems.name>
 <sp.buttonterminal.activatingitems.description>當放有包含特定識別字 (Identifier) 或標籤 (Tag)的物品之後允許使用終端按鈕。能以半形逗號分隔多個。</sp.buttonterminal.activatingitems.description>
+<sp.buttonterminal.deactivatedsignal.name>關閉時訊號</sp.buttonterminal.deactivatedsignal.name>
+<sp.buttonterminal.deactivatedsignal.description>當終端被關閉時持續輸出的訊號（如裝置中未裝載必要物品時）。</sp.buttonterminal.deactivatedsignal.description><!--NEED EDIT?-->
+<sp.wire.width.name>寬度</sp.wire.width.name>
 <sp.connectionpanel.locked.name>鎖定</sp.connectionpanel.locked.name>
 <sp.connectionpanel.locked.description>鎖定的配線盤無法在遊戲進行時對它進行配線。</sp.connectionpanel.locked.description>
 <sp.memorycomponent.maxvaluelength.name>最大輸出長度</sp.memorycomponent.maxvaluelength.name>
@@ -514,6 +550,8 @@
 <sp.motionsensor.falseoutput.description>物件沒有偵測到動態時所輸出的值。</sp.motionsensor.falseoutput.description>
 <sp.motionsensor.minimumvelocity.name>最低速度</sp.motionsensor.minimumvelocity.name>
 <sp.motionsensor.minimumvelocity.description>偵測範圍中的物件至少需要以多快的速度移動 (m/s)。</sp.motionsensor.minimumvelocity.description>
+<sp.motionsensor.targetspecies.name>目標生物</sp.motionsensor.targetspecies.name>
+<sp.motionsensor.targetspecies.description>感應器是否僅偵測特定生物（種族名稱、群組、或標籤）？若目標種類無效則沒有作用。</sp.motionsensor.targetspecies.description>
 <sp.terminal.welcomemessage.name>歡迎訊息</sp.terminal.welcomemessage.name>
 <sp.terminal.welcomemessage.description>首次打開終端時所顯示的訊息。</sp.terminal.welcomemessage.description>
 <sp.terminal.usemonospacefont.name>使用Monospace字體</sp.terminal.usemonospacefont.name>
@@ -581,6 +619,23 @@
 <sp.turret.TargetSubmarines.name>潛艇目標</sp.turret.TargetSubmarines.name>
 <sp.turret.TargetItems.name>物品目標</sp.turret.TargetItems.name>
 <sp.turret.FriendlyTag.name>友方Tag</sp.turret.FriendlyTag.name>
+<sp.turret.FriendlyTeam.name>友方隊伍</sp.turret.FriendlyTeam.name>
+<sp.turret.FriendlyTeam.description>砲塔視為友方的隊伍。若設為空白，則與該潛艇/哨站同一隊伍者將被視為友方隊伍。</sp.turret.FriendlyTeam.description>
+<sp.turret.RandomAimAmount.description>砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.description>砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.description>砲塔對目標進行瞄準時是否延遲或以完美時機進行瞄準？</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.description>砲塔是否將大部分角色視為目標？</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.description>砲塔是否將所有怪物視為目標？</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.description>砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.description>砲塔是否將潛艇視為目標？</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.description>砲塔是否將物品視為目標？</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.description>在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
+<sp.turret.AutoOperate.propertyheader>自動操作</sp.turret.AutoOperate.propertyheader>
+<sp.turret.AutoOperate.description>此砲塔進行自動操作時是否以AI進行瞄準？以下為其可調整的選用隨機動態。以下數值也可透過訊號 (電線) 調整，但僅在自編輯器中啟用「自動操作」功能時有效。</sp.turret.AutoOperate.description>
+<sp.turret.AllowAutoOperateWithWiring.name>允許以電線啟用「自動操作」</sp.turret.AllowAutoOperateWithWiring.name>
+<sp.turret.AllowAutoOperateWithWiring.description>是否能透過電線訊號啟用此砲塔的「自動操作」功能？</sp.turret.AllowAutoOperateWithWiring.description>
 <sp.dockingport.maindockingport.name>主要對接艙口</sp.dockingport.maindockingport.name>
 <sp.dockingport.maindockingport.description>啟用時，此對接艙口將在潛艇產生於哨站時與哨站連結 (可用時)。</sp.dockingport.maindockingport.description>
 <sp.dockingport.applyeffectsondocking.name>對接時觸發效果</sp.dockingport.applyeffectsondocking.name>
@@ -618,6 +673,18 @@
 <sp.maxoutputlength.description>輸出字串的最大長度。警告：冗長數值會導致高記憶體使用率或網路問題。</sp.maxoutputlength.description>
 <sp.waterdetector.output.description>此物品在水中時發送的訊號。</sp.waterdetector.output.description>
 <sp.waterdetector.falseoutput.description>此物品不在水中時發送的訊號。</sp.waterdetector.falseoutput.description>
+<sp.multiplexercomponent.SelectedInput.name>所選輸入端</sp.multiplexercomponent.SelectedInput.name>
+<sp.multiplexercomponent.SelectedInput.description>作用中的輸入端編號。</sp.multiplexercomponent.SelectedInput.description>
+<sp.demultiplexercomponent.SelectedOutput.name>所選輸出端</sp.demultiplexercomponent.SelectedOutput.name>
+<sp.demultiplexercomponent.SelectedOutput.description>作用中的輸出端編號。</sp.demultiplexercomponent.SelectedOutput.description>
+<sp.wraparound.name>環繞</sp.wraparound.name>
+<sp.wraparound.description>是否在抵達最末端子編號後返回最初端子編號？</sp.wraparound.description>
+<sp.SkipEmptyConnections.name>跳過閒置端子</sp.SkipEmptyConnections.name>
+<sp.SkipEmptyConnections.description>切換時是否跳過閒置 (無配線) 端子？</sp.SkipEmptyConnections.description>
+<sp.CircuitBox.Locked.name>已鎖定</sp.CircuitBox.Locked.name>
+<sp.CircuitBox.Locked.description>已鎖定的電路盒僅能查看無法互動。</sp.CircuitBox.Locked.description>
+<sp.Fabricator.FabricationSpeed.name>製作速度</sp.Fabricator.FabricationSpeed.name>
+<sp.Fabricator.FabricationSpeed.description>物品製作速度的倍速。</sp.Fabricator.FabricationSpeed.description>
 
 <!-- Entity names -->
 <entityname.hull>Hull</entityname.hull>
@@ -1183,8 +1250,6 @@
 <entityname.opdeco_box5>箱子 5</entityname.opdeco_box5>
 <entityname.heavydoor>重型門</entityname.heavydoor>
 <entityname.opdeco_door>背景門</entityname.opdeco_door>
-<entitydescription.decodoor>一扇裝飾性的門。</entitydescription.decodoor>
-<entityname.opdeco_door>上鎖的門</entityname.opdeco_door>
 <entityname.opdeco_towelrack>毛巾架</entityname.opdeco_towelrack>
 <entityname.concretewall>混凝土牆</entityname.concretewall>
 <entityname.opdeco_wheelchair1>輪椅</entityname.opdeco_wheelchair1>
@@ -1372,20 +1437,5 @@
 <leveleditor.allsaved>已保存所有變更</leveleditor.allsaved>
 
 <!-- Modified values May 27th, 2024 -->
-<sp.turret.AutoOperate.description>此砲塔進行自動操作時是否以AI進行瞄準？以下為其可調整的選用隨機動態。以下數值也可透過訊號 (電線) 調整，但僅在自編輯器中啟用「自動操作」功能時有效。</sp.turret.AutoOperate.description>
-<sp.turret.RandomAimAmount.description>砲塔對目標進行瞄準時隨機將準心移開目標物而非完美地進行瞄準的量？以角度為單位。</sp.turret.RandomAimAmount.description>
-<sp.turret.RandomAimMinTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最短等待時間，以秒為單位。</sp.turret.RandomAimMinTime.description>
-<sp.turret.RandomAimMaxTime.description>砲塔對目標進行瞄準時隨機移動準心位置而非完美地進行瞄準的頻率？最長等待時間，以秒為單位。</sp.turret.RandomAimMaxTime.description>
-<sp.turret.RandomMovement.description>砲塔是否在待命時隨機擺動？</sp.turret.RandomMovement.description>
-<sp.turret.AimDelay.description>砲塔對目標進行瞄準時是否延遲或以完美時機進行瞄準？</sp.turret.AimDelay.description>
-<sp.turret.TargetCharacters.description>砲塔是否將大部分角色視為目標？</sp.turret.TargetCharacters.description>
-<sp.turret.TargetMonsters.description>砲塔是否將所有怪物視為目標？</sp.turret.TargetMonsters.description>
-<sp.turret.TargetHumans.description>砲塔是否將人類設為目標 (或於同一 Group 中的生物，如寵物)？</sp.turret.TargetHumans.description>
-<sp.turret.TargetSubmarines.description>砲塔是否將潛艇視為目標？</sp.turret.TargetSubmarines.description>
-<sp.turret.TargetItems.description>砲塔是否將物品視為目標？</sp.turret.TargetItems.description>
-<sp.turret.FriendlyTag.description>在AI進行自動操作時將忽略的 Group 或 SpeciesName。</sp.turret.FriendlyTag.description>
-<!-- New values May 27th, 2024 -->
-<sp.turret.AutoOperate.propertyheader>自動操作</sp.turret.AutoOperate.propertyheader>
-<sp.powered.propertyheader>電力元件</sp.powered.propertyheader>
 
 </override></infotexts>

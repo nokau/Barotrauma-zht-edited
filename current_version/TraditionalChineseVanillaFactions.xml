@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Traditional Chinese" nowhitespace="true" translatedname="中文(繁體)"><override>
-<!-- edited by nokau for v1.5.8.0; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
+<!-- edited by nokau for v1.8.8.1; This is an UN-OFFICIAL localization, USE AT YOUR OWN RISK; the lines are matched with each of the English text files as close as possible. -->
 
 <!-- Modified values -->
 <entityname.piratehelmet>分離主義者頭盔</entityname.piratehelmet>
@@ -10,7 +10,6 @@
 <entityname.piratecaptainhat>分離主義者艦長帽子</entityname.piratecaptainhat>
 <entityname.piratebandana>分離主義者頭巾</entityname.piratebandana>
 <entityname.pirateclothes>分離主義者服裝</entityname.pirateclothes>
-<entitydescription.pirateclothes>由木星分離主義份子手工製作的粗糙衣物，它的設計能夠抵禦歐羅巴海中的嚴峻生活，這件衣物上還另外配備了輕型護甲。</entitydescription.pirateclothes>
 <entityname.piratesubexterior>分離主義者潛艇外觀配件</entityname.piratesubexterior>
 <entityname.piratesubdeco>分離主義者潛艇裝飾</entityname.piratesubdeco>
 <missionname.escort1>運送聯盟人員</missionname.escort1>
@@ -253,7 +252,7 @@
 <entityname.cultistrobes>邪教徒長袍</entityname.cultistrobes>
 <entitydescription.cultistrobes>畫皮教會信徒傳統上穿著的深色服飾。上面塗抹能夠安撫野生畫皮蟲的費洛蒙，讓他們能夠安全度過昇華前的時光。</entitydescription.cultistrobes>
 <entityname.zealotrobes>狂熱者長袍</entityname.zealotrobes>
-<entitydescription.zealotrobes>畫皮教派高階成員穿著的深色服飾。帶有基因科技和荷爾蒙注射器，使穿著者獲得其共生體的強大回復能力，同時使它們保持休眠狀態。</entitydescription.zealotrobes>
+<entitydescription.zealotrobes>畫皮教會敬重成員穿著的深色衣物。內附基因科技和賀爾蒙注射器，使穿著者有如其共生體般增強的再生能力。</entitydescription.zealotrobes>
 <entityname.rituallantern>儀式燈籠</entityname.rituallantern>
 <entitydescription.rituallantern>畫皮教會進行儀式時常見的燈籠。含有能鎮靜野生畫皮寄生蟲的化學物質，也具有治療功能。</entitydescription.rituallantern>
 <entityname.huskcontainerspawner>畫皮寄生蟲置物箱</entityname.huskcontainerspawner>
