@@ -1,4 +1,4 @@
-中文(繁體) Edited 10.0.0 for Barotrauma v1.5.8.0
+中文(繁體) Edited 11.0.0 for Barotrauma v1.8.8.1
 ==========================
 
 
